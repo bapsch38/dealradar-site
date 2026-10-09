@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10131c">
+  <meta name="description" content="DealRadar : catalogue de bonnes affaires et baisses de prix.">
+  <title>DealRadar — Les bonnes affaires repérées</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #10131c;
+      --panel: #191e2b;
+      --text: #f5f7ff;
+      --muted: #a6aec1;
+      --green: #b7ff55;
+      --line: #303749;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, sans-serif;
+    }
+    header {
+      padding: 22px 6%;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .logo { font-size: 25px; font-weight: 800; }
+    .logo span { color: var(--green); }
+    a { color: inherit; }
+    .telegram {
+      background: var(--green);
+      color: #10131c;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 11px 16px;
+      border-radius: 9px;
+    }
+    main { max-width: 1100px; margin: auto; padding: 55px 20px; }
+    .hero { text-align: center; margin-bottom: 38px; }
+    .tag {
+      color: var(--green);
+      font-weight: bold;
+      letter-spacing: 2px;
+      font-size: 12px;
+    }
+    h1 { font-size: clamp(32px, 6vw, 54px); margin: 15px 0; }
+    .hero p, .muted { color: var(--muted); line-height: 1.6; }
+    .search {
+      display: block;
+      width: 100%;
+      padding: 15px;
+      margin: 28px 0;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      color: var(--text);
+      font-size: 16px;
+    }
+    h2 { margin-top: 35px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 20px;
+    }
+    .category { color: var(--green); font-size: 12px; font-weight: bold; }
+    .card h3 { margin-bottom: 8px; }
+    .price { font-size: 26px; font-weight: 800; margin: 15px 0 5px; }
+    .note { font-size: 12px; color: var(--muted); }
+    .status {
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      color: var(--muted);
+      margin-top: 24px;
+    }
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 25px 20px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">Deal<span>Radar</span></div>
+    <a class="telegram" href="#alertes">Recevoir les alertes</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="tag">LA CHASSE AUX BONNES AFFAIRES</div>
+      <h1>Les bons prix.<br>Au bon moment.</h1>
+      <p>Un catalogue de promotions à travers les catégories<br>
+      tech, maison, bricolage, bébé, mode et bien plus.</p>
+    </section>
+
+    <input
+      id="search"
+      class="search"
+      type="search"
+      placeholder="Rechercher un produit ou une catégorie…"
+      aria-label="Rechercher une offre"
+    >
+
+    <h2>Explorer les catégories</h2>
+    <div class="grid" id="categories">
+      <article class="card"><div class="category">TECH</div><h3>Informatique & gaming</h3><p class="muted">PC, composants, consoles et accessoires.</p></article>
+      <article class="card"><div class="category">MAISON</div><h3>Électroménager</h3><p class="muted">Cuisine, entretien et équipement maison.</p></article>
+      <article class="card"><div class="category">BRICOLAGE</div><h3>Outils & atelier</h3><p class="muted">Outillage, jardin et équipements.</p></article>
+      <article class="card"><div class="category">FAMILLE</div><h3>Bébé & enfants</h3><p class="muted">Équipement, jouets et accessoires.</p></article>
+      <article class="card"><div class="category">ANIMAUX</div><h3>Animaux</h3><p class="muted">Croquettes, accessoires et entretien.</p></article>
+      <article class="card"><div class="category">STYLE</div><h3>Mode & quotidien</h3><p class="muted">Vêtements, chaussures et accessoires.</p></article>
+    </div>
+
+    <h2>Dernières bonnes affaires</h2>
+    <p class="muted">Les offres vérifiées apparaîtront ici lorsque le moteur sera connecté à des sources de prix fiables.</p>
+    <div class="status">
+      Le catalogue est en préparation. Aucune promotion n'est présentée comme réelle pour le moment.
+    </div>
+
+    <section id="alertes">
+      <h2>Ne rate plus une bonne affaire</h2>
+      <p class="muted">Les alertes Telegram seront activées lors de la prochaine étape du projet.</p>
+    </section>
+  </main>
+
+  <footer>
+    DealRadar — Projet en construction.<br>
+    Les prix et réductions devront être vérifiés avant publication.
+    Les liens affiliés seront signalés lorsqu'ils seront activés.
+  </footer>
+
+  <script>
+    const search = document.getElementById("search");
+    const cards = document.querySelectorAll("#categories .card");
+
+    search.addEventListener("input", () => {
+      const query = search.value.trim().toLowerCase();
+      cards.forEach(card => {
+        card.hidden = !card.textContent.toLowerCase().includes(query);
+      });
+    });
+  </script>
+</body>
+</html>
