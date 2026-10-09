@@ -65,6 +65,25 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .empty-state h3{margin:0 0 9px;font-size:19px}
 .empty-state p{max-width:570px;margin:0 auto;color:var(--muted);line-height:1.7;font-size:14px}
 .status-chip{display:inline-flex;align-items:center;gap:7px;border:1px solid #355444;background:#112b22;color:var(--green);padding:7px 10px;border-radius:30px;font-size:11px;font-weight:700;margin-bottom:16px}
+.deal-card{overflow:hidden;background:var(--panel);border:1px solid var(--line);border-radius:16px;display:flex;flex-direction:column;min-width:0;transition:transform .2s,border-color .2s}
+.deal-card:hover{transform:translateY(-3px);border-color:#46f58b88}
+.deal-image{width:100%;height:190px;object-fit:contain;background:#fff;padding:12px}
+.deal-body{padding:17px;display:flex;flex-direction:column;gap:10px;flex:1}
+.deal-category{font-size:11px;color:var(--green);font-weight:800;text-transform:uppercase;letter-spacing:.7px}
+.deal-title{font-size:16px;line-height:1.4;margin:0}
+.deal-prices{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
+.deal-price{font-size:24px;font-weight:850;color:var(--green)}
+.deal-old-price{font-size:13px;color:var(--muted);text-decoration:line-through}
+.deal-discount{font-size:12px;font-weight:800;color:#ffcf70;background:#49351a;padding:5px 8px;border-radius:7px}
+.deal-meta{font-size:11px;color:var(--muted);line-height:1.5}
+.deal-source{font-size:12px;color:var(--muted)}
+.deal-cta{display:block;text-align:center;background:var(--green);color:#07131c;font-weight:800;padding:11px;border-radius:9px;margin-top:auto;font-size:13px}
+.catalog-tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:14px 0}
+.catalog-tools input,.catalog-tools select{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:11px 12px;min-width:0}
+.catalog-tools input{flex:1;min-width:180px}
+.catalog-tools select{max-width:100%}
+.catalog-status{font-size:12px;color:var(--muted);margin:10px 0 14px}
+
 .dot{height:7px;width:7px;border-radius:50%;background:var(--green)}
 .info-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
 .info-card{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:22px}
@@ -184,6 +203,15 @@ footer strong{color:var(--text)}
       <div><h2>Les dernières réductions</h2><p>Les nouvelles opportunités, classées par date de publication.</p></div>
       <span class="small-link">Flux des nouveautés ↓</span>
     </div>
+    <div class="catalog-tools">
+      <input id="deal-search" type="search" placeholder="Rechercher parmi les offres…" aria-label="Rechercher parmi les offres">
+      <select id="deal-sort" aria-label="Trier les offres">
+        <option value="newest">Plus récentes</option>
+        <option value="discount">Réduction la plus forte</option>
+        <option value="price-asc">Prix croissant</option>
+        <option value="price-desc">Prix décroissant</option>
+      </select>
+    </div>
     <div class="filters" aria-label="Filtres des offres">
       <button class="filter active" type="button" data-filter="all">Toutes les catégories</button>
       <button class="filter" type="button" data-filter="tech">High-tech</button>
@@ -191,13 +219,16 @@ footer strong{color:var(--text)}
       <button class="filter" type="button" data-filter="bricolage">Bricolage</button>
       <button class="filter" type="button" data-filter="famille">Bébé & enfants</button>
       <button class="filter" type="button" data-filter="animaux">Animaux</button>
+      <button class="filter" type="button" data-filter="mode">Mode</button>
+      <button class="filter" type="button" data-filter="sport">Sport</button>
     </div>
+    <p class="catalog-status" id="catalog-status" aria-live="polite">Chargement des offres…</p>
     <div class="deals-grid" id="deals-grid">
       <div class="empty-state">
         <div class="empty-icon">⌁</div>
-        <div class="status-chip"><span class="dot"></span> Moteur en préparation</div>
-        <h3>Le radar prépare ses premières détections</h3>
-        <p>Les réductions récentes apparaîtront ici dès que les sources de prix seront connectées. Nous afficherons le prix constaté, la référence de comparaison, la date de détection et le lien vers le marchand. Pas de fausses promotions.</p>
+        <div class="status-chip"><span class="dot"></span> Chargement du catalogue</div>
+        <h3>Connexion au catalogue…</h3>
+        <p>DealRadar n’affiche que les offres présentes dans son flux de données. Aucun prix ou pourcentage n’est inventé.</p>
       </div>
     </div>
   </section>
@@ -230,33 +261,133 @@ footer strong{color:var(--text)}
 const search = document.getElementById("search");
 const categories = [...document.querySelectorAll(".category-card")];
 const filters = [...document.querySelectorAll(".filter")];
+const dealSearch = document.getElementById("deal-search");
+const dealSort = document.getElementById("deal-sort");
+const dealGrid = document.getElementById("deals-grid");
+const catalogStatus = document.getElementById("catalog-status");
 let activeFilter = "all";
+let offers = [];
 
 function updateCategories() {
   const query = search.value.trim().toLocaleLowerCase("fr");
   categories.forEach(card => {
     const text = (card.innerText + " " + card.dataset.category).toLocaleLowerCase("fr");
-    const categoryMatches = activeFilter === "all" ||
-      (activeFilter === "tech" && /tech|gaming|informatique|console/.test(text)) ||
-      (activeFilter === "maison" && /maison|électroménager/.test(text)) ||
-      (activeFilter === "bricolage" && /bricolage/.test(text)) ||
-      (activeFilter === "famille" && /bébé|enfants/.test(text)) ||
-      (activeFilter === "animaux" && /animaux/.test(text));
-    card.hidden = !text.includes(query) || !categoryMatches;
+    card.hidden = !text.includes(query);
   });
 }
-search.addEventListener("input", updateCategories);
+
+function formatPrice(value) {
+  if (typeof value !== "number" || !Number.isFinite(value)) return "";
+  return new Intl.NumberFormat("fr-FR", {style:"currency", currency:"EUR"}).format(value);
+}
+function safeDate(value) {
+  const date = value ? new Date(value) : null;
+  return date && !Number.isNaN(date.getTime()) ? date : null;
+}
+function matchesFilter(offer) {
+  if (activeFilter === "all") return true;
+  const category = String(offer.category || "").toLocaleLowerCase("fr");
+  const map = {
+    tech:/tech|informatique|gaming|électronique|ordinateur|console/,
+    maison:/maison|électroménager|jardin|décoration/,
+    bricolage:/bricolage|outillage|outil/,
+    famille:/bébé|enfant|famille|puériculture/,
+    animaux:/animal|chien|chat/,
+    mode:/mode|vêtement|chaussure/,
+    sport:/sport|fitness|loisir/
+  };
+  return (map[activeFilter] || /$a/).test(category);
+}
+function renderOffers() {
+  const query = (dealSearch.value + " " + search.value).trim().toLocaleLowerCase("fr");
+  const list = offers.filter(offer => {
+    const text = [offer.title, offer.category, offer.source, offer.description].filter(Boolean).join(" ").toLocaleLowerCase("fr");
+    return text.includes(query) && matchesFilter(offer);
+  });
+  const sort = dealSort.value;
+  list.sort((a,b) => {
+    if (sort === "discount") return (Number(b.discount_percent)||-1) - (Number(a.discount_percent)||-1);
+    if (sort === "price-asc") return (Number(a.price)||Infinity) - (Number(b.price)||Infinity);
+    if (sort === "price-desc") return (Number(b.price)||-1) - (Number(a.price)||-1);
+    return (safeDate(b.detected_at)?.getTime()||0) - (safeDate(a.detected_at)?.getTime()||0);
+  });
+  catalogStatus.textContent = list.length ? list.length + (list.length > 1 ? " offres affichées" : " offre affichée") : "";
+  if (!list.length) {
+    dealGrid.innerHTML = '<div class="empty-state"><div class="empty-icon">⌁</div><div class="status-chip"><span class="dot"></span> Catalogue sans offre correspondante</div><h3>' +
+      (offers.length ? "Aucun résultat pour ces filtres" : "Les premières offres arrivent progressivement") +
+      '</h3><p>' + (offers.length ? "Modifie la recherche ou sélectionne une autre catégorie." : "Le flux de données est prêt à être connecté. Dès que des offres réelles seront publiées, elles apparaîtront ici. Aucun faux prix ni fausse réduction.") + '</p><a class="pill" style="display:inline-block;margin-top:18px" href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">Suivre DealRadar sur Telegram ↗</a></div>';
+    return;
+  }
+  dealGrid.innerHTML = list.map(offer => {
+    const price = formatPrice(offer.price);
+    const oldPrice = formatPrice(offer.reference_price);
+    const discount = Number(offer.discount_percent);
+    const date = safeDate(offer.detected_at);
+    const image = typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url) ? offer.image_url : "";
+    const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
+    const prices = price ? '<div class="deal-prices"><span class="deal-price">' + price + '</span>' +
+      (oldPrice ? '<span class="deal-old-price">' + oldPrice + '</span>' : '') +
+      (Number.isFinite(discount) && discount > 0 ? '<span class="deal-discount">-' + Math.round(discount) + ' %</span>' : '') + '</div>' : '';
+    const title = String(offer.title || "Offre sans titre").replace(/[<>]/g,"");
+    const category = String(offer.category || "Autre").replace(/[<>]/g,"");
+    const source = String(offer.source || "Source non précisée").replace(/[<>]/g,"");
+    const description = String(offer.description || "").replace(/[<>]/g,"");
+    return '<article class="deal-card">' +
+      (image ? '<img class="deal-image" src="' + image + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : '') +
+      '<div class="deal-body"><div class="deal-category">' + category + '</div><h3 class="deal-title">' + title + '</h3>' +
+      prices + (description ? '<p class="deal-meta">' + description + '</p>' : '') +
+      '<div class="deal-meta">' + (date ? 'Détectée le ' + date.toLocaleDateString("fr-FR") + ' · ' : '') +
+      (offer.price_verified === true ? 'Prix vérifié' : 'Prix issu de la source, non vérifié indépendamment') + '</div>' +
+      '<div class="deal-source">Source : ' + source + '</div>' +
+      (url ? '<a class="deal-cta" href="' + url + '" target="_blank" rel="noopener noreferrer sponsored">Voir l’offre ↗</a>' : '') +
+      '</div></article>';
+  }).join("");
+}
+async function loadOffers() {
+  try {
+    const response = await fetch("./offers.json", {cache:"no-store"});
+    if (!response.ok) throw new Error("Flux indisponible");
+    const data = await response.json();
+    offers = Array.isArray(data) ? data.filter(item => item && typeof item.title === "string") : [];
+    renderOffers();
+  } catch (error) {
+    offers = [];
+    catalogStatus.textContent = "Le flux des offres n’est pas encore disponible.";
+    dealGrid.innerHTML = '<div class="empty-state"><div class="empty-icon">⌁</div><h3>Catalogue temporairement indisponible</h3><p>Les offres ne peuvent pas être chargées pour le moment. Réessaie plus tard ou retrouve les alertes sur Telegram.</p><a class="pill" style="display:inline-block;margin-top:18px" href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">Rejoindre Telegram ↗</a></div>';
+  }
+}
+search.addEventListener("input", () => { updateCategories(); renderOffers(); });
 document.getElementById("search-form").addEventListener("submit", event => {
   event.preventDefault();
   updateCategories();
-  document.getElementById("categories").scrollIntoView({behavior:"smooth"});
+  renderOffers();
+  document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth"});
 });
+dealSearch.addEventListener("input", renderOffers);
+dealSort.addEventListener("change", renderOffers);
 filters.forEach(button => button.addEventListener("click", () => {
   activeFilter = button.dataset.filter;
   filters.forEach(item => item.classList.toggle("active", item === button));
-  updateCategories();
-  document.getElementById("categories").scrollIntoView({behavior:"smooth"});
+  renderOffers();
 }));
+categories.forEach(card => card.addEventListener("click", () => {
+  const text = (card.innerText + " " + card.dataset.category).toLocaleLowerCase("fr");
+  const query = text.split(/\s+/).filter(word => word.length > 3).slice(0,2).join(" ");
+  dealSearch.value = "";
+  const category = card.dataset.category.toLocaleLowerCase("fr");
+  activeFilter = /gaming|high-tech|informatique|ordinateur|console/.test(category) ? "tech" :
+    /maison|électroménager|décoration|jardin/.test(category) ? "maison" :
+    /bricolage|outil/.test(category) ? "bricolage" :
+    /bébé|enfant|famille/.test(category) ? "famille" :
+    /animal|chien|chat/.test(category) ? "animaux" :
+    /mode|vêtement|chaussure/.test(category) ? "mode" :
+    /sport|fitness|loisir/.test(category) ? "sport" : "all";
+  filters.forEach(item => item.classList.toggle("active", item.dataset.filter === activeFilter));
+  document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth"});
+  renderOffers();
+}));
+updateCategories();
+loadOffers();
 </script>
 </body>
 </html>
