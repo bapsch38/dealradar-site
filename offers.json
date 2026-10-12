@@ -1,5 +1,23 @@
 [
   {
+    "title": "Weleda Crème Calendula 75 ml",
+    "price": 6.49,
+    "reference_price": 15.64,
+    "discount_percent": 58.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000VH4300",
+    "image_url": "https://m.media-amazon.com/images/P/B000VH4300.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 22:33:14",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.49,
+        "observed_at": "2026-10-12T22:33:18.611432+00:00"
+      }
+    ]
+  },
+  {
     "title": "FM Professional 9207 Plaque on...ecue, Acier, Email, 38 x 33 cm",
     "price": 17.36,
     "reference_price": 22.87,
@@ -2158,6 +2176,34 @@
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
       }
     ]
+  },
+  {
+    "title": "Weleda Crème Calendula 75 ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000VH4300",
+    "image_url": "https://m.media-amazon.com/images/P/B000VH4300.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T22:31:04+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Corine de Farme - Bain Moussan...cation 100% Française - 500 ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DVL92CDJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0DVL92CDJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T22:17:37+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "UREADIN Gommages",
@@ -10123,44 +10169,6 @@
       {
         "price": 10.49,
         "observed_at": "2026-10-12T14:00:29.104707+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Client Sosh] Smartphone Pliable 8\" Google Pixel 11 Pro Fold - 256 Go (Via 300€ ODR Google & 250€ Bonus Reprise)",
-    "description": "1 049€ - Sosh Prix jamais vu ! Pensez bien au code promo SOSH15 dans le panier ! 300€ de remise immédiate 300€ d'ODR Google ici : https://boutique.orange.fr/informations/medias/odr/261115-google-pixel-11-psg-j300e.pdf?webview_action=pdf 250€ de bonus reprise ! Vous voulez faire une reprise ? Montant du bonus: 250 € de bonus reprise pour ce téléphone ! 1. Estimez la valeur de votre ancien téléphone. 2. Achetez votre nouveau téléphone en ligne, ou en boutique Orange : Vérifiez ci-dessous les conditions d'éligibilité de la reprise et du bonus. En ligne Après l'achat, demandez la reprise de votre ancien mobile gratuitement (sur la page confirmation de commande ou via l'email de reprise) pour recevoir votre virement. Si la valeur de reprise est inférieure à 10 €, choisissez le Click & Collect pour profiter du bonus reprise. En boutique ou en Click & Collect On estime votre ancien mobile sur place : vous profitez d'une réduction immédiate sur votre achat. Tout savoir sur la reprise et le bonus : Vous faites une reprise 100% en ligne ? Vous commandez et payez votre nouveau mobile en ligne. Lors de la confirmation de commande, on vous propose la reprise de votre ancien mobile en ligne. Vous recevez par virement bancaire le montant de la reprise et du bonus éventuel. Vous aurez juste besoin : Du numéro IMEI de votre téléphone actuel (composez *#06# pour l'obtenir) De votre IBAN De votre pièce d'identité Votre ancien mobile doit avoir une valeur de 10 € minimum pour profiter d'une reprise en ligne. Vous faites une reprise en Click & Collect ? Réservez en ligne votre nouveau mobile en Click & Collect. Venez le chercher en boutique, et revendez votre mobile actuel auprès du conseiller avant de passer en caisse. Le montant de la reprise et du bonus est déduit en caisse du prix de votre nouveau mobile. Tout simplement. La reprise en boutique est disponible pour tous les mobiles, sauf si vous voulez un bonus sur un iPhone neuf. Dans ce cas, votre ancien mobile doit avoir une valeur de 10 € minimum. Les clients Sosh qui renouvellent leur téléphone peuvent profiter d'un bonus reprise en Click & Collect. On vous donne un exemple avec un bonus reprise ? Voici l'exemple d'une reprise à laquelle on a ajouté un bonus reprise : Reprise de votre ancien mobile : 200 € Bonus reprise : 100 € Viré sur votre compte bancaire ou déduit en caisse = 300 € La valeur réelle de votre mobile actuel est déterminée en fonction du modèle, de son état et de sa capacité. Si vous achetez un iPhone neuf, votre ancien mobile doit avoir une valeur de 10 € minimum pour profiter du bonus reprise. Pour un Google Pixel 11 Pro Fold Vert 256 Go , le bonus reprise est valable du 07/10/2026 au 21/10/2026.",
-    "price": 1049.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-pliable-8-google-pixel-11-pro-fold-256-go-via-300eur-odr-google-200eur-bonus-reprise-3431071",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pvLHj/3431071_1/re/1200x1200/qt/90/3431071_1.jpg",
-    "detected_at": "2026-10-12T13:40:29+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1049.0,
-        "observed_at": "2026-10-12T14:00:29.104721+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[ODR] Jusqu'à 120€ de remboursé Pour l’achat et le montage d'au moins 2 pneus éligibles Michelin",
-    "description": "Michelin Pour tout achat et montage d'au moins 2 pneus Michelin chez les enseignes participantes, recevez jusqu'à 120€ en remboursement par virement bancaire. Attention, l'offre n'est valable que pour les pneus voiture et si l'achat est effectué entre le 05/10/2026 et le 29/11/2026. La demande de remboursement peut se faire au plus tard jusqu'au 13/12/2026 sur le site de Michelin. J'ai déjà pu profiter de cette offre par le passé, l'évaluation du montant remboursé se base sur le nombre de pneu, le modèle (premium ou pas) et le prix. Par exemple, j'avais acheté 4 pneus Michelin CrossClimate 2 pour ma mégane, j'en avait eu pour 450€, ils m'ont remboursé 80€.",
-    "price": 120.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/promo-pneu-michelin-jusqua-120eur-de-rembourse-3431070",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DYWOc/3431070_1/re/1200x1200/qt/90/3431070_1.jpg",
-    "detected_at": "2026-10-12T13:39:00+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 120.0,
-        "observed_at": "2026-10-12T14:00:29.104753+00:00"
       }
     ]
   }
