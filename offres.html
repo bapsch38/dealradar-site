@@ -114,7 +114,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .price-history{margin-top:3px;padding:9px 10px;background:#0b1724;border:1px solid var(--line);border-radius:9px}
 .price-history-head{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:11px;color:var(--muted)}
 .price-history svg{display:block;width:100%;height:34px;margin-top:6px;overflow:visible}
-.price-history-note{font-size:10px;color:var(--muted);margin-top:3px}
+.price-history-controls{display:flex;gap:5px;margin-top:8px}.price-history-controls button{background:#142338;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:4px 8px;font-size:10px;cursor:pointer}.price-history-controls button[aria-pressed="true"]{color:var(--green);border-color:var(--green);background:#173b2a}.price-history-note{font-size:10px;color:var(--muted);margin-top:3px}
 @media(max-width:520px){.advanced-filters{align-items:stretch}.advanced-filters label{flex:1;min-width:42%}.advanced-filters .check-filter{flex-basis:100%}}
 
 .pagination{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;margin:24px 0 0}
@@ -663,17 +663,32 @@ function updateFilterCounts() {
   });
 }
 function renderPriceHistory(offer) {
-  const history = Array.isArray(offer.price_history) ? offer.price_history
-    .filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0).slice(-12) : [];
-  if (history.length < 2) return '';
+  const history = Array.isArray(offer.price_history) ? offer.price_history.filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0).slice(-180) : [];
+  if (!history.length) return '<div class="price-history"><div class="price-history-note">Historique de prix en cours de constitution : aucune observation enregistrée pour le moment.</div></div>';
+  if (history.length < 2) return '<div class="price-history"><div class="price-history-head"><span>Historique observé</span><strong>' + escapeHtml(formatPrice(Number(history[0].price))) + '</strong></div><div class="price-history-note">Première observation enregistrée. Les variations apparaîtront au fil des collectes ; aucune ancienne valeur n’est inventée.</div></div>';
   const values = history.map(item => Number(item.price));
   const min = Math.min(...values), max = Math.max(...values), range = max - min || 1;
   const points = values.map((value, i) => ((i / (values.length - 1)) * 100).toFixed(1) + ',' + (29 - ((value - min) / range) * 24).toFixed(1)).join(' ');
-  return '<div class="price-history"><div class="price-history-head"><span>Historique observé</span><strong>' +
-    escapeHtml(formatPrice(values[values.length - 1])) + '</strong></div><svg viewBox="0 0 100 34" preserveAspectRatio="none" role="img" aria-label="Évolution des prix observés">' +
-    '<polyline points="' + points + '" fill="none" stroke="#46f58b" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
-    '<div class="price-history-note">' + history.length + ' observations · selon les données collectées par DealRadar</div></div>';
+  return '<div class="price-history" data-history="' + escapeAttribute(JSON.stringify(history)) + '"><div class="price-history-head"><span>Historique observé</span><strong class="price-history-current">' + escapeHtml(formatPrice(values[values.length - 1])) + '</strong></div><div class="price-history-controls" role="group" aria-label="Période de l’historique"><button type="button" data-history-days="30" aria-pressed="false">30 j</button><button type="button" data-history-days="90" aria-pressed="false">90 j</button><button type="button" data-history-days="180" aria-pressed="true">180 j</button></div><svg viewBox="0 0 100 34" preserveAspectRatio="none" role="img" aria-label="Évolution des prix réellement observés"><polyline class="price-history-line" points="' + points + '" fill="none" stroke="#46f58b" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="price-history-note">' + history.length + ' observations · minimum ' + escapeHtml(formatPrice(min)) + ' · maximum ' + escapeHtml(formatPrice(max)) + ' · période 180 jours</div></div>';
 }
+document.addEventListener("click", event => {
+  const button = event.target.closest(".price-history-controls button[data-history-days]");
+  if (!button) return;
+  const root = button.closest(".price-history");
+  if (!root) return;
+  let history;
+  try { history = JSON.parse(root.dataset.history || "[]"); } catch (_) { return; }
+  const days = Number(button.dataset.historyDays);
+  const cutoff = Date.now() - days * 24 * 60 * 60 * 1000;
+  const selected = history.filter(item => { const date = new Date(item.observed_at || item.date || ""); return !Number.isNaN(date.getTime()) && date.getTime() >= cutoff; });
+  root.querySelectorAll(".price-history-controls button").forEach(item => item.setAttribute("aria-pressed", String(item === button)));
+  const line = root.querySelector(".price-history-line"), note = root.querySelector(".price-history-note"), current = root.querySelector(".price-history-current");
+  if (!selected.length) { line.setAttribute("points", ""); note.textContent = "Aucune observation sur " + days + " jours. Les données plus anciennes restent conservées dans le flux."; return; }
+  const values = selected.map(item => Number(item.price)), min = Math.min(...values), max = Math.max(...values), range = max - min || 1;
+  const points = values.map((value, i) => ((selected.length === 1 ? 50 : i / (selected.length - 1) * 100).toFixed(1)) + ',' + (29 - ((value - min) / range) * 24).toFixed(1)).join(' ');
+  line.setAttribute("points", points); current.textContent = formatPrice(values[values.length - 1]);
+  note.textContent = selected.length + " observation(s) sur " + days + " jours · minimum " + formatPrice(min) + " · maximum " + formatPrice(max) + ".";
+});
 function reportOfferUrl(offer, type) {
   const title = (type === "confirm" ? "[Communauté] Prix confirmé : " : "[Communauté] Prix douteux ou offre expirée : ") + (offer.title || "offre DealRadar");
   const body = "Type de retour : " + (type === "confirm" ? "prix correct / prix confirmé" : "prix douteux / offre expirée") +
