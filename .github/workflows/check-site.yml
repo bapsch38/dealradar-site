@@ -23,6 +23,37 @@ jobs:
           node-version: "22"
       - name: Vérifier la syntaxe JavaScript
         run: node --check features.js
+      - name: Vérifier les scripts intégrés aux pages
+        run: |
+          python - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          class Scripts(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.inline = []
+                  self.current = None
+              def handle_starttag(self, tag, attrs):
+                  if tag == "script" and not dict(attrs).get("src"):
+                      self.current = []
+              def handle_data(self, data):
+                  if self.current is not None:
+                      self.current.append(data)
+              def handle_endtag(self, tag):
+                  if tag == "script" and self.current is not None:
+                      self.inline.append("".join(self.current))
+                      self.current = None
+          for name in ("index.html", "offres.html", "mon-dealradar.html", "publier.html"):
+              parser = Scripts()
+              parser.feed(Path(name).read_text(encoding="utf-8"))
+              for number, code in enumerate(parser.inline):
+                  path = Path("/tmp") / f"{name.replace('.html','')}-{number}.js"
+                  path.write_text(code, encoding="utf-8")
+                  print(path)
+          PY
+          for script in /tmp/index-*.js /tmp/offres-*.js /tmp/mon-dealradar-*.js /tmp/publier-*.js; do
+            [ -f "$script" ] && node --check "$script"
+          done
       - name: Vérifier les composants attendus
         run: |
           grep -q 'id="mon-dealradar"' index.html
@@ -30,4 +61,9 @@ jobs:
           grep -q 'id="dr-watchlist"' index.html
           grep -q 'id="dr-target-list"' index.html
           grep -q 'community-feedback' .github/ISSUE_TEMPLATE/deal-feedback.md
-          echo "OK : personnalisation, favoris, objectifs de prix et retours communautaires présents."
+          grep -q 'id="publish-form"' publier.html
+          grep -q 'price-error' publier.html
+          grep -q 'publier.html' index.html
+          grep -q 'offres.html' index.html
+          grep -q 'mon-dealradar.html' index.html
+          echo "OK : scripts, publication communautaire et pages séparées présents."
