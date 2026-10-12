@@ -66,7 +66,12 @@ jobs:
           grep -q 'id="dr-target-list"' index.html
           grep -q 'community-feedback' .github/ISSUE_TEMPLATE/deal-feedback.md
           grep -q 'id="publish-form"' publier.html
+          grep -q 'id="submit-telegram"' publier.html
           grep -q 'price-error' publier.html
+          grep -q 'id="home-guide-title"' index.html
+          grep -q 'id="only-high-confidence"' index.html
+          grep -q 'price-history-controls' index.html
+          grep -q 'price-history-controls' offres.html
           grep -q 'publier.html' index.html
           grep -q 'offres.html' index.html
           grep -q 'mon-dealradar.html' index.html
