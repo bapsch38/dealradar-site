@@ -284,8 +284,8 @@ function updateCategories() {
 function parsePriceValue(value) {
   if (typeof value === "number") return Number.isFinite(value) && value > 0 ? value : null;
   if (typeof value !== "string" || !value.trim()) return null;
-  let text = value.trim().replace(/[€\\s\\u00a0]/g, "");
-  if (text.includes(",")) text = text.replace(/\\./g, "").replace(",", ".");
+  let text = value.trim().replace(/[€\s\u00a0]/g, "");
+  if (text.includes(",")) text = text.replace(/\./g, "").replace(",", ".");
   const number = Number(text);
   return Number.isFinite(number) && number > 0 ? number : null;
 }
@@ -385,7 +385,7 @@ function renderOffers() {
     const imageFallbacks = escapeAttribute(JSON.stringify(images.slice(1)));
     const prices = '<div class="deal-prices">' +
       (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">Prix à vérifier</span>') +
-      (oldPrice && price && Number(offer.reference_price ?? offer.original_price ?? offer.list_price) > Number(offer.price ?? offer.current_price) ? '<span class="deal-old-price">' + oldPrice + '</span>' : '') +
+      (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice ? '<span class="deal-old-price">' + oldPrice + '</span>' : '') +
       (discount !== null && discount > 0 ? '<span class="deal-discount">-' + Math.round(discount) + ' %</span>' : '') + '</div>';
     const title = String(offer.title || "Offre sans titre").replace(/[<>]/g,"");
     const category = String(offer.category || "Autre").replace(/[<>]/g,"");
@@ -393,10 +393,10 @@ function renderOffers() {
     const sourceLower = rawSource.toLocaleLowerCase("fr");
     const isDealabs = /dealabs/.test(sourceLower) || /dealabs\.com/i.test(url);
     const source = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource).replace(/[<>]/g,"");
-    const descriptionText = String(offer.description || "").replace(/<[^>]*>/g," ").replace(/\\s+/g," ").trim().replace(/[<>]/g,"");
+    const descriptionText = String(offer.description || "").replace(/<[^>]*>/g," ").replace(/\s+/g," ").trim().replace(/[<>]/g,"");
     const descriptionLimit = isDealabs ? 120 : 180;
     const description = descriptionText.length > descriptionLimit
-      ? descriptionText.slice(0, descriptionLimit).replace(/\\s+\\S*$/, "") + "…"
+      ? descriptionText.slice(0, descriptionLimit).replace(/\s+\S*$/, "") + "…"
       : descriptionText;
     const fallbackImage = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef2f6"/><g fill="none" stroke="#9aa8b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><rect x="315" y="145" width="170" height="150" rx="18"/><path d="M350 330h100M400 295v35"/></g><text x="400" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#64748b">Image indisponible</text></svg>');
     return '<article class="deal-card">' +
