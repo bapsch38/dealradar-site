@@ -401,6 +401,7 @@ function inferCategory(offer) {
   // Corrections ciblées avant la catégorie enregistrée : elles règlent les erreurs connues
   // et évitent qu'un mot isolé comme "the" dans "Thermaltake" fasse basculer en alimentation.
   const overrides = [
+    ["Bébé & enfants", /\b(protege matelas bebe|alese bebe|pot d apprentissage|potty|chaise haute bebe)\b/],
     ["Gaming", /\b(playstation|ps[345]|xbox|nintendo switch|steam deck|jeu(x)? video|gaming|gamer|clavier gamer|souris gamer|casque gamer|manette)\b/],
     ["Animaux", /\b(trixie|jr farm|kerbl|francodex|versele-laga|exoterra|biorb|croquettes|litiere|terrarium|aquarium|gamelle|foin pour|jouet pour chien|jouet pour chat|nourriture animale|collier pour chien|arbre a chat)\b/],
     ["Sport & loisirs", /\b(velo|bicyclette|ski alpin|snowboard|chaussures? de running|running shoes|tapis de course|halteres?|musculation|fitness|randonnee|camping|peche|paddle|kayak|golf|raquette de tennis|velo gravel|velo de route)\b/],
