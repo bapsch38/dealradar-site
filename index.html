@@ -329,7 +329,8 @@ function productImageCandidates(offer, url) {
     }
     candidates.push(sourceImage);
   }
-  const asin = String(url || "").match(/\/(?:dp|gp\/product|product)\/([A-Z0-9]{10})(?:[/?]|$)/i);
+  const asin = String(url || "").match(/\/(?:dp|gp\/product|product)\/([A-Z0-9]{10})(?:[/?]|$)/i)
+    || String(offer.title || "").match(/\b(B0[A-Z0-9]{8})\b/i);
   if (asin) {
     const id = asin[1].toUpperCase();
     candidates.push("https://m.media-amazon.com/images/P/" + id + ".01._AC_SL1500_.jpg");
