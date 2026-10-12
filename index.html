@@ -345,6 +345,7 @@ body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-
         <option value="discount">Réduction la plus forte</option>
         <option value="price-asc">Prix croissant</option>
         <option value="price-desc">Prix décroissant</option>
+        <option value="trust">Indice de confiance</option>
       </select>
     </div>
     <div class="advanced-filters" aria-label="Filtres avancés">
@@ -736,6 +737,7 @@ function renderOffers() {
       };
       return discountOf(b) - discountOf(a);
     }
+    if (sort === "trust" && typeof window.DealRadarTrust === "function") return window.DealRadarTrust(b).score - window.DealRadarTrust(a).score;
     if (sort === "price-asc") return (Number(a.price)||Infinity) - (Number(b.price)||Infinity);
     if (sort === "price-desc") return (Number(b.price)||-1) - (Number(a.price)||-1);
     return (safeDate(b.detected_at)?.getTime()||0) - (safeDate(a.detected_at)?.getTime()||0);
