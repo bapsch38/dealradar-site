@@ -5,6 +5,10 @@ on:
     paths:
       - "index.html"
       - "features.js"
+      - "offres.html"
+      - "mon-dealradar.html"
+      - "publier.html"
+      - ".github/ISSUE_TEMPLATE/**"
       - ".github/workflows/check-site.yml"
   workflow_dispatch:
 
