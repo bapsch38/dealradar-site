@@ -78,7 +78,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .deal-title{font-size:16px;line-height:1.4;margin:0}
 .deal-prices{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
 .deal-price{font-size:24px;font-weight:850;color:var(--green)}
-.deal-old-price{font-size:13px;color:var(--muted);text-decoration:line-through}
+.deal-old-price{font-size:13px;color:var(--muted);text-decoration:line-through}.deal-price-note{font-size:11px;color:var(--muted);font-style:italic}
 .deal-discount{font-size:12px;font-weight:800;color:#ffcf70;background:#49351a;padding:5px 8px;border-radius:7px}
 .deal-meta{font-size:11px;color:var(--muted);line-height:1.5}
 .deal-source{font-size:12px;color:var(--muted)}
@@ -250,14 +250,14 @@ footer strong{color:var(--text)}
       <div><h2>Une bonne affaire, ça se vérifie</h2><p>DealRadar privilégie la fiabilité plutôt que les chiffres spectaculaires.</p></div>
     </div>
     <div class="info-grid">
-      <article class="info-card"><div class="icon">◉</div><h3>Prix transparents</h3><p>Le prix actuel et le prix de référence seront présentés clairement lorsque les données permettent de les vérifier.</p></article>
-      <article class="info-card"><div class="icon">↗</div><h3>Fraîcheur des offres</h3><p>Chaque offre publiée devra avoir une date de détection pour aider à repérer les nouveautés.</p></article>
+      <article class="info-card"><div class="icon">◉</div><h3>Prix transparents</h3><p>Le prix actuel et le prix de référence sont affichés clairement lorsque les données source permettent de les vérifier.</p></article>
+      <article class="info-card"><div class="icon">↗</div><h3>Fraîcheur des offres</h3><p>Chaque offre affiche sa date de détection lorsqu’elle est disponible, pour repérer plus facilement les nouveautés.</p></article>
       <article class="info-card"><div class="icon">⌕</div><h3>Toutes les catégories</h3><p>Un catalogue conçu pour trouver aussi bien un composant PC que des croquettes, un outil ou un produit pour bébé.</p></article>
     </div>
   </section>
 
   <section class="banner" id="alertes">
-    <div><h2>Reçois les bonnes affaires dès leur détection.</h2><p>Retrouve les alertes DealRadar sur Telegram. Le catalogue web indépendant s'enrichira au fur et à mesure que les sources marchandes et les contrôles de prix seront connectés.</p></div>
+    <div><h2>Reçois les bonnes affaires dès leur détection.</h2><p>Retrouve les alertes DealRadar sur Telegram. Les offres sont mises à jour automatiquement. Vérifie toujours le prix final chez le marchand avant achat.</p></div>
     <a class="pill" href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">Rejoindre Telegram ↗</a>
   </section>
 </main>
@@ -265,7 +265,7 @@ footer strong{color:var(--text)}
 <footer>
   <div class="footer-inner">
     <div><strong>DealRadar</strong> — Les bonnes affaires. Au bon moment.</div>
-    <div>Projet en construction · Les prix de référence ne sont affichés que lorsqu'ils sont présents dans les données source.</div>
+    <div>Les prix de référence ne sont affichés que lorsque les données source permettent de les confirmer.</div>
   </div>
 </footer>
 
@@ -433,6 +433,7 @@ function renderOffers() {
       : (currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
         ? (1 - currentPrice / referencePrice) * 100
         : null);
+    const isDealabs = /dealabs/.test(String(offer.source || "").toLowerCase()) || /dealabs\\.com/i.test(String(offer.url || ""));
     const date = safeDate(offer.detected_at || offer.published_at);
     const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
     const images = productImageCandidates(offer, url);
@@ -440,13 +441,14 @@ function renderOffers() {
     const imageFallbacks = escapeAttribute(JSON.stringify(images.slice(1)));
     const prices = '<div class="deal-prices">' +
       (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">Prix non communiqué</span>') +
-      (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice ? '<span class="deal-old-price">' + oldPrice + '</span>' : '') +
+      (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice
+        ? '<span class="deal-old-price">' + oldPrice + '</span>'
+        : (isDealabs && price ? '<span class="deal-price-note">Prix d’origine non communiqué</span>' : '')) +
       (discount !== null && discount > 0 ? '<span class="deal-discount">-' + Math.round(discount) + ' %</span>' : '') + '</div>';
     const title = String(offer.title || "Offre sans titre").replace(/[<>]/g,"");
     const category = inferCategory(offer).replace(/[<>]/g,"");
     const rawSource = String(offer.source || "Source non précisée");
     const sourceLower = rawSource.toLocaleLowerCase("fr");
-    const isDealabs = /dealabs/.test(sourceLower) || /dealabs\.com/i.test(url);
     const source = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource).replace(/[<>]/g,"");
     const descriptionText = String(offer.description || "").replace(/<[^>]*>/g," ").replace(/\s+/g," ").trim().replace(/[<>]/g,"");
     const descriptionLimit = isDealabs ? 120 : 180;
