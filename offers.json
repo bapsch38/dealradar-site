@@ -1,5 +1,203 @@
 [
   {
+    "title": "KS Tools 156.0216 Chasses goup...octogonale 7mm Longueur 150 mm",
+    "price": 12.69,
+    "reference_price": 18.04,
+    "discount_percent": 29.66,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B007XUI8V8",
+    "image_url": "https://m.media-amazon.com/images/P/B007XUI8V8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:35",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.69,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "The Fist of the Condor [DVD]",
+    "price": 10.43,
+    "reference_price": 19.2,
+    "discount_percent": 45.68,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CBCFBRW7",
+    "image_url": "https://m.media-amazon.com/images/P/B0CBCFBRW7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:29",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.43,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ferplast Niche en Plastique po..., 74 x 48 xh 25 CM, Gris Clair",
+    "price": 24.99,
+    "reference_price": 34.7,
+    "discount_percent": 27.98,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DK3NGTMC",
+    "image_url": "https://m.media-amazon.com/images/P/B0DK3NGTMC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:28",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Arcos Couteau Mondador - Lame ...propylène Fuchsia - Série 2900",
+    "price": 10.95,
+    "reference_price": 21.04,
+    "discount_percent": 47.96,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B071HVWLMS",
+    "image_url": "https://m.media-amazon.com/images/P/B071HVWLMS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:27",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.95,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hella 9XW 358 164-261 Easy Set...rection à Gauche - avant - Kit",
+    "price": 14.99,
+    "reference_price": 22.06,
+    "discount_percent": 32.05,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09S61KJ2X",
+    "image_url": "https://m.media-amazon.com/images/P/B09S61KJ2X.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:24",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 1x Rouleau abrasif EXPERT C470",
+    "price": 51.38,
+    "reference_price": 60.39,
+    "discount_percent": 14.92,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B094188F1M",
+    "image_url": "https://m.media-amazon.com/images/P/B094188F1M.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:19",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 51.38,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SONAX E-BIKE Spray pour chaîne...ffet hydrofuge | Réf: 08721000",
+    "price": 10.49,
+    "reference_price": 18.33,
+    "discount_percent": 42.77,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01NBYE07K",
+    "image_url": "https://m.media-amazon.com/images/P/B01NBYE07K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:18",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.49,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Pied de micro court avec trépi...che télescopique 2 points Noir",
+    "price": 41.0,
+    "reference_price": 52.79,
+    "discount_percent": 22.33,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B016MMTNWU",
+    "image_url": "https://m.media-amazon.com/images/P/B016MMTNWU.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:17",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 41.0,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hape - Kit de Démarrage pour E...struction - Atelier Jeu Enfant",
+    "price": 26.02,
+    "reference_price": 35.23,
+    "discount_percent": 26.14,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0837JDX1C",
+    "image_url": "https://m.media-amazon.com/images/P/B0837JDX1C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:16",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 26.02,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BRIO World - 33630 - Locomotiv...ur garçons et filles dès 3 ans",
+    "price": 25.99,
+    "reference_price": 31.9,
+    "discount_percent": 18.53,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000FUTQN2",
+    "image_url": "https://m.media-amazon.com/images/P/B000FUTQN2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:15",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Aiguillage gauche",
+    "price": 17.98,
+    "reference_price": 27.22,
+    "discount_percent": 33.95,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000H5V1V0",
+    "image_url": "https://m.media-amazon.com/images/P/B000H5V1V0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:02:10",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 17.98,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
     "title": "Kärcher 2.863-356.0 Buse en plastique",
     "price": 26.99,
     "reference_price": 33.49,
@@ -684,6 +882,457 @@
     ]
   },
   {
+    "title": "Aiguillage gauche",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000H5V1V0",
+    "image_url": "https://m.media-amazon.com/images/P/B000H5V1V0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:02:01+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "NYX Professional Makeup Butter...ighlighter Stix Effet Glowy 8H",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FZC7GDV2",
+    "image_url": "https://m.media-amazon.com/images/P/B0FZC7GDV2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:01:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Halo collection sur PC (Dématérialisé - Steam)",
+    "description": "9,99€ - Steam Offre sur steam.",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/halo-collection-sur-pc-dematerialise-steam-3431198",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3zESp/3431198_1/re/1200x1200/qt/90/3431198_1.jpg",
+    "detected_at": "2026-10-12T17:01:16+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eveline Cosmetics Gel Hyaluronique Facial 3 en 1 150 ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0756376M7",
+    "image_url": "https://m.media-amazon.com/images/P/B0756376M7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:00:46+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Câble de Charge Ambiano 3-en-1",
+    "description": "3€ - Aldi Détails du produit: Le câble de charge 3-en-1 est un accessoire polyvalent pour recharger différents appareils. caractéristiques du produit : Connecteurs micro-USB, Lightning et USB-C Longueur d'environ 1,2 m",
+    "price": 3.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cable-de-charge-3-en-1-3431197",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/C4Z59/3431197_1/re/1200x1200/qt/90/3431197_1.jpg",
+    "detected_at": "2026-10-12T17:00:37+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 3.0,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HELLA Relais, courant de travail - 12V - 4pôle",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00H8UEN8K",
+    "image_url": "https://m.media-amazon.com/images/P/B00H8UEN8K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:00:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "BIOLANE - Bain Relaxant Bébé -...ie en douceur - Apaise - 150ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CJ3F8B6Q",
+    "image_url": "https://m.media-amazon.com/images/P/B0CJ3F8B6Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:00:21+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "BRIO World - 33630 - Locomotiv...ur garçons et filles dès 3 ans",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000FUTQN2",
+    "image_url": "https://m.media-amazon.com/images/P/B000FUTQN2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:59:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Hape - Kit de Démarrage pour E...struction - Atelier Jeu Enfant",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0837JDX1C",
+    "image_url": "https://m.media-amazon.com/images/P/B0837JDX1C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:59:31+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Pied de micro court avec trépi...che télescopique 2 points Noir",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B016MMTNWU",
+    "image_url": "https://m.media-amazon.com/images/P/B016MMTNWU.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:58:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "SONAX E-BIKE Spray pour chaîne...ffet hydrofuge | Réf: 08721000",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01NBYE07K",
+    "image_url": "https://m.media-amazon.com/images/P/B01NBYE07K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:57:57+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "BIOLANE - Shampoing Doux Bébé ...êlant Cheveux - Au Lin - 350ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0F1YM9LGJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0F1YM9LGJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:57:44+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "CARRYBOO - Gel Lavant 2 en 1 u...ricot Bio - Flacon pompe 500ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DBMGW3NL",
+    "image_url": "https://m.media-amazon.com/images/P/B0DBMGW3NL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:57:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Color Cream 200 Copper Blonde",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B079NWHDV8",
+    "image_url": "https://m.media-amazon.com/images/P/B079NWHDV8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:57:22+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Bosch 1x Rouleau abrasif EXPERT C470",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B094188F1M",
+    "image_url": "https://m.media-amazon.com/images/P/B094188F1M.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:55:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Switch Ethernet UGREEN 6 ports - 5x 2.5G RJ45 + 1x SFP+ 10G (Vendeur tiers)",
+    "description": "36,09€ - Amazon [ Switch Ethernet 6 Ports ] Ce Switch Ethernet comprend 5 ports Gigabit Ethernet 2,5, 1 port SFP+ 10G. 2,5 G ports conformes à la norme IEEE 802.3/u/x/ab/bz, support de l'adaptation automatique aux vitesses de réseau de 10Mbps/100Mbps/1Gbps/2,5Gbps. 10G SFP+ port conforme aux normes IEEE 802.3z/ae et SFF-8472/8431/8432 et supporte l'auto-adaptation aux vitesses de réseau de 1Gbps/10Gbps. [ 3 Modes de Travail ] Le Switch RJ45 a 3 modes de travail : En mode standard, chaque port est automatiquement négocié et connecté efficacement ; En mode VLAN, il peut aider les utilisateurs à créer un réseau local virtuel ou à éviter les tempêtes de réseau ; En mode d'agrégation de liens, il peut aider les utilisateurs à établir une agrégation de bande passante à deux ports et à augmenter la sauvegarde du réseau. [ Conception Qualité ] Le switch ethernet 2,5 g est fait d'un boîtier métallique de haute qualité, chaque port est équipé d'un dissipateur thermique métallique et d'un design en silicone thermoconducteur, ainsi qu'une grande grille de refroidissement sur le côté, ce qui rend la dissipation de la chaleur plus efficace. De plus, l'indicateur de port bicolore montre l'état de la liaison en temps réel et des étiquettes de câble sont incluses pour faciliter la gestion des câbles. [ Plus Sûre et Stable ] La multiprise rj45 utilise des circuits de protection contre la foudre à haute résistance en interne pour atteindre une protection contre la foudre de 4 000 Volts, réduisant ainsi l'impact sur le réseau pendant les orages, améliorant la stabilité et la sécurité du réseau, et protégeant les appareils finaux. [ Large Compatibilité ] Ce hub réseau Ethernet est compatible avec ordinateur, NAS, console de jeux, imprimante, appareil photo et autres appareils, il supporte différentes méthodes d'installation telles que le montage sur table ou au mur, et convient à divers environnements réseau tels que les maisons, les bureaux et les industries.",
+    "price": 36.09,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/switch-ethernet-ugreen-6-ports-5x-25g-rj45-1x-sfp-10g-boitier-metal-vlanagregation-protection-4kv-vendeur-tiers-3431192",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/y1Z1c/3431192_1/re/1200x1200/qt/90/3431192_1.jpg",
+    "detected_at": "2026-10-12T16:55:23+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 36.09,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Marvel Super Heroes 76340 - Le Calendrier de l’Avent 2026",
+    "description": "24,90€ - E.Leclerc • CALENDRIER DE L'AVENT SUPER-HÉROS 2026 POUR FILLE OU GARÇON DÈS 6 ANS – Les jeunes fans découvrent un nouveau cadeau chaque jour avec Le calendrier de l’Avent 2026 LEGO Marvel, plein de petits jouets et de minifigurines • MINIFIGURINES LEGO MARVEL – Inclut Spider-Man, Iron Man, Dr Fatalis, Ghost-Spider, Captain America et Wolverine, chacun avec des accessoires et des détails festifs • JEU DE RÔLE STIMULANT L'IMAGINATION – À l’approche du grand jour, les enfants peuvent combiner les jeux de construction et mettre en scène de palpitantes aventures de super-héros • JOUETS MINIATURES & ACCESSOIRES LEGO – Le set inclut des petits jouets à construire, dont un canon à boules de neige, un hélicoptère, un avion, un robot, un photomaton, une voiture, un camion et un traîneau X-Jet • IDÉE DE CADEAU AVANT NOËL POUR ENFANT DÈS 6 ANS – Offrez ce calendrier LEGO à un fan des Avengers qui aime le jeu créatif, une idée de cadeau de Noël amusante pour un garçon ou une fille • UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D • JOUETS À CONSTRUIRE POUR LES FANS DE MARVEL – Invitez les enfants à vivre des aventures pleines de créativité mettant en scène les personnages culte et les scènes débordantes d’action des films Marvel",
+    "price": 24.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-marvel-super-heroes-76340-le-calendrier-de-lavent-2026-3431195",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vGZ4r/3431195_1/re/1200x1200/qt/90/3431195_1.jpg",
+    "detected_at": "2026-10-12T16:55:10+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 24.9,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hella 9XW 358 164-261 Easy Set...rection à Gauche - avant - Kit",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09S61KJ2X",
+    "image_url": "https://m.media-amazon.com/images/P/B09S61KJ2X.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:54:53+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Doudoune femme Polo Club - S à XL",
+    "description": "35,90€ - Showroomprivé",
+    "price": 35.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/doudoune-polo-club-femme-s-a-xl-3431193",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oOszA/3431193_1/re/1200x1200/qt/90/3431193_1.jpg",
+    "detected_at": "2026-10-12T16:54:15+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 35.9,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Arcos Couteau Mondador - Lame ...propylène Fuchsia - Série 2900",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B071HVWLMS",
+    "image_url": "https://m.media-amazon.com/images/P/B071HVWLMS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:53:20+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "The Fist of the Condor [DVD]",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CBCFBRW7",
+    "image_url": "https://m.media-amazon.com/images/P/B0CBCFBRW7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:52:55+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Ferplast Niche en Plastique po..., 74 x 48 xh 25 CM, Gris Clair",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DK3NGTMC",
+    "image_url": "https://m.media-amazon.com/images/P/B0DK3NGTMC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:52:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Lego Star Wars 75456 - Le Calendrier de l'Avent 2026",
+    "description": "24,90€ - E.Leclerc • CALENDRIER DE L'AVENT STAR WARS 2026 POUR FILLE OU GARÇON DÈS 6 ANS – Les enfants créent leur propres aventures de la Guerre des étoiles en attendant Noël grâce à ce set de petits jouets incluant 24 surprises • FIGURINES & MINIFIGURINES LEGO STAR WARS – Le Mandalorien, Moff Gideon et Grogu vêtus d’un pull festif, les minifigurines de Carson Teva et Jawa, ainsi que les figurines d'un droïde Pit et IG-11 • 7 MAQUETTES MINIATURES DE VÉHICULES – Le Starfighter N-1 de Mando, le Razor Crest, un speeder bike, un Sandcrawler, un TIE Fighter, un croiseur léger impérial et un X-Wing aux couleurs de Noël • ENCORE PLUS DE PETITES CONSTRUCTIONS – Figurines de Mudhorn, Bantha, Dewback et Blurrg, 3 tables et du beskar, cadeaux et accessoires pour Moff Gideon, un porte-armes, un gantelet du Mandalorien et la nacelle de Grogu • IDÉE DE CADEAU AVANT NOËL POUR ENFANT DÈS 6 ANS – Ce calendrier de l'Avent LEGO est un incroyable cadeau de Noël à offrir à un garçon, une fille ou un.e fan de Star Wars: The Mandalorian • EXPLOREZ LA COLLECTION – Les sets LEGO Star Wars (vendus séparément) permettent aux enfants et aux adultes, fans de Star Wars, de recréer des moments culte, de rêver de nouvelles aventures ou simplement d’exposer leurs modèles en briques • LEGO, LEGO Star Wars, Star Wars, calendrier de l'avent, jouets noël, petits jouets noël, 6 ans, jouets garçon 6 ans, noël, surprise, figurine, grogu, idée cadeau, jeu créatif, jouets miniatures, cadeau amusant, saga, Mandalorien, figurines LEGO, petits jouets, activités manuelles, famille, calendrier LEGO, garçon, fille, 6 ans, enfants, guerre des étoiles, petits jouets, bike, razor crest, maquette miniature, construction, cadeau, accessoires, cadeau noël enfant, cadeau fille 6 ans, cadeau garçon 6 ans, Mandalorian",
+    "price": 24.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-star-wars-75456-le-calendrier-de-lavent-2026-3431191",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/iaXII/3431191_1/re/1200x1200/qt/90/3431191_1.jpg",
+    "detected_at": "2026-10-12T16:52:51+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 24.9,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "COVERMARK Cipria CAMOUFLAGE Wa...roof Pelle SECCA 01A Cosmetici",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01B440SSE",
+    "image_url": "https://m.media-amazon.com/images/P/B01B440SSE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:52:24+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "LEGO Speed Champions Hypercar Bugatti Vision GT 77253",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FPVT4VG6",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPVT4VG6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:52:12+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "KS Tools 156.0216 Chasses goup...octogonale 7mm Longueur 150 mm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B007XUI8V8",
+    "image_url": "https://m.media-amazon.com/images/P/B007XUI8V8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:51:51+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "LEGO Pokémon 72162 - Chasse au Trésor d’Évoli et Lokhlass, SMART Play",
+    "description": "44,90€ - E.Leclerc • JEU DE CONSTRUCTION ET AVENTURES SUR UNE ÉPAVE – Le set Chasse au trésor d’Évoli et Lokhlass LEGO Pokémon (72162) est un set Compatible SMART Play invitant les enfants à mettre le cap vers une infinité de jeux créatifs • JEU IMAGINATIF – Les enfants peuvent se transformer en Dresseur Pokémon, suivre une carte jusqu’à une épave, abaisser le mât pour soulever un rocher et découvrir un coffre au trésor rempli de pièces et de pierres précieuses • LES POKÉMON VOUS RÉPONDENT – Les SMART Tags d’Évoli, Lokhlass et du coffre au trésor activent les SMART Briques (non incluses), déclenchant des sons et des lumières lorsque les Pokémon réagissent les uns aux autres et au jeu interactif des enfants • 2 FIGURINES POKÉMON ARTICULÉES – Aidez l’adorable Évoli, avec queue et oreilles articulées, et la figurine de Lokhlass, avec des nageoires mobiles, à chercher des trésors, à écouter de la musique et à combattre grâce au système SMART Play interactif • COMMENT ACTIVER VOTRE SET – Ajoutez la SMART Brique LEGO d’un set Tout-en-un (vendu séparément) pour activer des fonctions de jeu immersives. Les SMART Briques ne sont pas disponibles à l’achat séparément • JEUX SANS ÉCRAN – Les enfants peuvent partager avec leurs amis et leur famille une infinité de jeux créatifs riches en action en montant à bord du radeau d’Évoli ou en suivant Lokhlass, en quête d’aventures en mer • IDÉE DE CADEAU POUR LES ENFANTS – Inspirez une infinité de jeux de simulation avec ce petit cadeau à offrir pour un anniversaire, les fêtes ou en toute occasion aux garçons, aux filles et aux fans de Pokémon à partir de 8 ans",
+    "price": 44.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-pokemon-72162-chasse-au-tresor-devoli-et-lokhlass-smart-play-3431188",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/PjtdZ/3431188_1/re/1200x1200/qt/90/3431188_1.jpg",
+    "detected_at": "2026-10-12T16:51:24+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 44.9,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eau de toilette Nautica Blue pour homme - 100ml",
+    "description": "14,16€ - Amazon L'eau de toilette Nautica Blue: quand l'océan et l'aventure se rencontrent. Porter le vaporisateur Nautica Blue Eau de Toilette de NAUTICA FRAGRANCES, c'est bien plus que sentir bon, c'est exploiter l'énergie caractéristique d'un homme pour inspirer le monde qui l'entoure. Un parfum revigorant et rafraîchissant pour toutes les occasions. L'ESPRIT DE L'AVENTURE: un parfum qui capture la beauté sauvage de l'aventure. Semblable aux ondes océaniques froides: des notes de bergamote et de nénuphar qui rappellent l'océan lors des chaudes journées ensoleillées UNE FONDATION TERRE: Des notes de santal rustique qui ajoutent une couche de profondeur et de richesse.",
+    "price": 14.16,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/eau-de-toilette-nautica-blue-pour-homme-100ml-3431187",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/xhUNy/3431187_1/re/1200x1200/qt/90/3431187_1.jpg",
+    "detected_at": "2026-10-12T16:51:08+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.16,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Armoire de jardin extérieure Moby Keter, L80 x P44 x H100 cm",
+    "description": "59,90€ - Castorama Armoire de jardin extérieure Moby Keter, L80 x P44 x H100 cm",
+    "price": 59.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/armoire-de-jardin-exterieure-moby-keter-l80-x-p44-x-h100-cm-3431186",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4aw11/3431186_1/re/1200x1200/qt/90/3431186_1.jpg",
+    "detected_at": "2026-10-12T16:50:52+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.9,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
+  },
+  {
     "title": "Physicians Formula, Murumuru B...igments Uniformisants, Bronzer",
     "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
     "price": null,
@@ -1057,6 +1706,25 @@
     "category": "Électroménager",
     "price_verified": false,
     "price_history": []
+  },
+  {
+    "title": "Montre Connectée - 1000mAh, LED Lampe, Noir (vendeur tiers)",
+    "description": "39,99€ - Amazon - Montre connectée pour homme et femme, tracker de fitness avec podomètre, moniteur de sommeil, SpO2 fréquence cardiaque, ll07 À propos de ce produit Montre connectée pour homme et femme, tracker de fitness avec podomètre, moniteur de sommeil, SpO2 fréquence cardiaque, ll07 Commentaires client",
+    "price": 39.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-connectee-homme-1000mah-militaire-smartwatch-avec-led-lampe-noir-3431178",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KxBGI/3431178_1/re/1200x1200/qt/90/3431178_1.jpg",
+    "detected_at": "2026-10-12T16:40:12+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      }
+    ]
   },
   {
     "title": "[Clients Orange/Sosh] Smartphone 6,3\" Apple iPhone 18 Pro - Bordeaux, 256 Go (via 100€ ODR sur facture)",
@@ -9070,447 +9738,5 @@
         "observed_at": "2026-10-12T12:59:39.199265+00:00"
       }
     ]
-  },
-  {
-    "title": "Console Nintendo Switch 2 - avec Pokémon Pokopia",
-    "description": "475,99€ - JoyBuy PACK Nintendo switch 2 + pokemon Pokopia",
-    "price": 475.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pack-nintendo-switch-2-pokemon-pokopia-3430715",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:13:53+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 475.99,
-        "observed_at": "2026-10-12T12:59:39.199270+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 4 Bordures de Jardin Vevor Imitation Pierre - 4,7 m, Aspect Pierre, Gris",
-    "description": "81€ - Amazon Cette bordure de jardin Vevor est une solution pratique et esthétique pour délimiter vos espaces extérieurs. Elle permet de créer des séparations nettes entre une pelouse, une allée ou un parterre de fleurs, sans nécessiter de lourds travaux de terrassement. Matériau : Plastique résistant Aspect : Imitation pierre, coloris Gris Grès Longueur totale : Environ 4,7 mètres (pour le lot de 4 sections) Dimensions d'une section : 1180 x 95 x 57 mm Installation : Sans creuser, avec fixation par piquets Contenu du lot : 4 sections (chacune composée de 6 briques), 16 piquets, 4 angles de finition C'est une manière simple et efficace d'organiser et d'embellir votre jardin. À propos de ce produit Texture réaliste : Son relief travaillé apporte profondeur et volume à vos espaces extérieurs. Cette bordure de jardin imitation pierre offre un rendu authentique et haut de gamme, rappelant la pierre naturelle. Elle sublime vos patios, jardins, abords de piscine et allées, tout en valorisant l'esthétique de votre propriété Design polyvalent : Notre bordure de parterre aspect pierre s'adapte à une grande variété d'aménagements extérieurs. Grâce à sa conception modulaire, créez des lignes droites harmonieuses ou des courbes originales, et personnalisez la forme de vos espaces selon vos envies Installation facile : Conçue pour une pose simplifiée par vos soins, la bordure de jardin en fausse pierre est dotée d'un système de verrouillage rapide et de fixations robustes. Ses piquets assurent un ancrage solide dans tous types de sols, assurant une stabilité optimale, même face aux conditions extérieures les plus exigeantes Durabilité à toute épreuve : Fabriquée en plastique PE de haute qualité par un procédé de rotomoulage, cette bordure de jardin imitation brique résiste à la décoloration et à la corrosion. Sa surface texturée imite la pierre naturelle et résiste à la pluie, à la neige et aux rayons du soleil Entretien facile : Notre bordure de parterre en fausse pierre est dotée d'une structure légère et résistante, facile à manipuler. Elle se déplace et se repositionne aisément. Un simple rinçage à l'eau suffit pour lui conserver son aspect d'origine toute l'année Commentaires client",
-    "price": 81.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-4-bordures-de-jardin-vevor-imitation-pierre-47-m-aspect-pierre-gris-gres-3430718",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:11:34+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 81.0,
-        "observed_at": "2026-10-12T12:59:39.199280+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Station de Recharge Vestel EVC04 AC Rhea - Jusqu'à 22 kW, Compteur MID & Commande Via Application",
-    "description": "349€ - iBOOD Spécifications Marque: Vestel Type: EVC04 AC Rhea Garantie: 2 ans Puissance de recharge CA de 22 kW via une prise de type 2 Recharge solaire et application Drive Green avec planification de la recharge Compteur MID, authentification RFID et écran TFT 4,3 pouces Caractéristiques Mode de recharge: CA, mode 3 Nombre de points de recharge: 1 Prise de recharge: prise de type 2 Type de montage: fixation murale ou sur socle en option Convient à une utilisation en intérieur et en extérieur Matériau du boîtier: plastique PC ignifuge, classe 5VA Écran: écran couleur TFT 4,3 pouces Compteur d'énergie: compteur intégré certifié MID Authentification: RFID et application mobile Gestion des cartes RFID maîtres et des cartes d'utilisateur Recharge gratuite possible pour un usage privé Interface utilisateur: configuration Web et application Drive Green Verrouillage permanent du câble de recharge possible Reprise automatique de la recharge après une coupure de courant Commande via l'application Application: Drive Green Disponible sur iOS et Android Démarrer, mettre en pause et arrêter les sessions de recharge Planification de la recharge Démarrage différé: 2, 3 ou 4 heures Définir une limite de courant de recharge Suivi de la durée de recharge, de la consommation d'énergie et de l'historique des sessions Gérer plusieurs bornes de recharge depuis un seul compte Connexion locale via Bluetooth Mises à jour du micrologiciel via Bluetooth Performances et alimentation Puissance de recharge maximale: jusqu’à 22 kW Tension d'entrée monophasée: 230 V CA ±10 % Tension d'entrée triphasée: 400 V CA ±10 % Fréquence: 50/60 Hz Tension de sortie: 230–400 V Courant de sortie réglable série AC22: 10, 13, 16, 20, 25, 30 ou 32 A Consommation en veille: < 5 W Système de mise à la terre: 3L+N+PE, TN et TT Classe de protection CEI: Classe I Énergie solaire et gestion de la charge Fonction « Follow the Sun » avec trois modes de charge Sun Only: recharge exclusivement à partir de l'énergie solaire disponible Sun Hybrid: priorité à l'énergie solaire, complétée par l'énergie du réseau si nécessaire Full Power: recharge utilisant à la fois l'électricité du réseau et l'énergie solaire disponibles pour une puissance maximale Mesure requise pour une installation monophasée: pince ampèremétrique CT en option Mesure requise pour une installation triphasée: compteur MID externe via Modbus RS485 Power Optimizer pour l'ajustement dynamique du courant de charge Accessoires supplémentaires requis pour la gestion dynamique de la charge Prise en charge de l'intégration P1 Gestion locale de la charge via Modbus TCP/IP Gestion de la charge via OCPP Configuration en cluster: 1 station principale et jusqu’à 29 stations secondaires Topologie de cluster prise en charge: configuration en boucle ou en étoile Connectivité Wi-Fi Ethernet/LAN Connectivité LTE; module mobile en option selon la description de l'application Bluetooth pour la configuration locale et la connexion à l'application Protocole backend: OCPP 1.6J Piste de mise à niveau vers OCPP 2.0.1 Communication pour la gestion de la charge: Modbus TCP/IP et OCPP",
-    "price": 349.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/station-de-recharge-vestel-evc04-ac-rhea-jusqua-22-kw-compteur-mid-et-commande-via-application-3430708",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:11:29+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 349.0,
-        "observed_at": "2026-10-12T12:59:39.199292+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Réfrigérateur Combiné Elsay 408GEM00050 - 293L (210/83), No Frost, Classe E (Via 70€ en crédit fidélité)",
-    "description": "279,90€ - E.Leclerc Bon tarif pour un modèle No Frost grâce aux 70€ cagnottés sur la carte de fidélité > Livraison gratuite en magasin, livraison à partir de 39,90€ Caractéristiques du produit en exemple Capacités et performances Type d'appareil : Réfrigérateur combiné (congélateur en bas) Type d'installation : Pose libre Volume utile total : 293 Litres Capacité du réfrigérateur : 210 Litres Capacité du congélateur : 83 Litres Classe d'efficacité énergétique : Classe E Technologies et froid Système de froid : Total No Frost (froid ventilé qui empêche la formation de givre) Dégivrage : Automatique Contrôle de la température : Thermostat électronique Aménagement intérieur Éclairage : LED intérieur Partie réfrigérateur : Clayettes en verre de sécurité, bac à légumes et balconnets de contre-porte Partie congélateur : 3 tiroirs de rangement transparents Caractéristiques physiques et design Couleur / Finition : Silver (Argent) Portes : Réversibles (charnières modifiables) Niveau sonore : Environ 39 dB",
-    "price": 279.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/refrigerateur-combine-elsay-408gem00050-293l-21083-no-frost-classe-e-via-70eur-en-credit-fidelite-3430716",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:01:53+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 279.9,
-        "observed_at": "2026-10-12T12:59:39.199300+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Produits Sauter en Promotion - Ex : Batterie de Cuisine Full Inox Sauter : 3 poêles 20/24/26 cm + 1 poignée amovible",
-    "description": "44,99€ - E.Leclerc Promo sur une sélection de produits Sauter (batteries de cuisine, couteaux, cocottes en fonte) > Lien vers le produit en exemple > Livraison gratuite en magasin, livraison à partir de 4,90€ Quelques exemples Batterie empilable 10 pièces en acier inoxydable : 3 casseroles 16/18/20 cm + 3 couvercles + 3 poêles 20/24/26 cm Sauter à 99,99€ Batterie de cuisine 6 pièces en acier inoxydable : 3 casseroles 16/18/20 cm + 2 poêles 22/26 cm + 1 poignée amovible à 74,99€ Cocotte en fonte d'acier ronde noir mat 28 cm Sauter à 49,99€ Cocotte en fonte d'acier ovale noir mat 30 cm Sauter à 39,99€",
-    "price": 44.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-produits-sauter-en-promotion-ex-batterie-de-cuisine-full-inox-sauter-3-poeles-202426-cm-1-poignee-amovible-3430714",
-    "image_url": "",
-    "detected_at": "2026-10-12T04:56:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 44.99,
-        "observed_at": "2026-10-12T12:59:39.199306+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussure de trail Salomon alpharide 2 rouge et blanc du 40.2/3 au 47.1/3",
-    "description": "69,99€ - Intersport La Salomon Alpharide 2 pour homme est une chaussure de trail running équilibrée, particulièrement reconnue pour sa polyvalence et son confort sur courtes et moyennes distances (entre 5 et 20 kilomètres). Conçue comme un modèle d'accès ou de milieu de gamme chez Salomon, elle réunit les caractéristiques techniques essentielles pour débuter ou s'entraîner régulièrement sur sentiers. • Amorti optimisé : Équipée d'une semelle intermédiaire en mousse Fuze Foam, cette version 2 met l'accent sur le confort sous le pied et l'absorption des chocs. • Géométrie (Drop) : Elle affiche un drop de 5 mm, favorisant une foulée plutôt naturelle pour du trail running. • Légèreté : Son poids s'élève à environ 256 grammes en taille 42, ce qui la rend dynamique et agréable à porter. • Accroche et protection : Conçue pour les surfaces de montagne et les sentiers, elle intègre un système de laçage rapide propre à la marque ainsi qu'une tige robuste en mesh synthétique respirant.",
-    "price": 69.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussure-de-trail-salomon-alpharide-2-rouge-et-blanc-du-4023-au-4713-3430713",
-    "image_url": "",
-    "detected_at": "2026-10-12T04:45:34+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 69.99,
-        "observed_at": "2026-10-12T12:59:39.199314+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Contrôleur de studio Stream Deck XL 32 touches Elgato (vendeur tier)",
-    "description": "184,98€ - Amazon Ce contrôleur dispose de 32 touches LCD personnalisables, réparties sur une grille de 8 colonnes et 4 lignes. Chaque touche peut afficher une icône et déclencher une action : changer de scène dans OBS, démarrer ou arrêter un enregistrement, couper son microphone, régler le son, lancer une application, ouvrir un site web ou exécuter des raccourcis clavier. Grâce au logiciel Stream Deck, il est possible de créer des profils adaptés à chaque application, de regrouper les commandes dans des dossiers et d’enchaîner plusieurs actions avec une seule pression. Des plugins permettent également d’étendre les possibilités avec les logiciels et services compatibles. Le support magnétique antidérapant fourni permet de positionner le contrôleur avec un angle confortable sur le bureau. Il est compatible avec Windows et macOS et se connecte en USB. Il peut ainsi servir aussi bien au streaming qu’au montage vidéo, au podcast, à la production audio ou à la productivité au quotidien. À propos de ce produit Production en direct sophistiquée: contrôlez facilement vos plates-formes et outils favoris 32 touches personnalisables: déclenchez instantanément un nombre illimité d'actions, d'un seul geste Intégrations puissantes: Elgato 4KCU, OBS, Twitch, YouTube, Twitter, Discord, Spotify, Philips Hue, vMix, VoiceMod et plus encore Actions exécutables d'un seul geste: changez instantanément de scène ou de caméra, lancez la lecture d'un média, modifiez l'éclairage, réglez le son, publiez des tweets et réalisez toutes sortes d'opérations Retour visuel: vous avez la certitude que votre commande a bien été exécutée Commentaires client",
-    "price": 184.98,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/controleur-de-studio-stream-deck-xl-32-touches-elgato-vendeur-tier-3430712",
-    "image_url": "",
-    "detected_at": "2026-10-12T04:38:44+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 184.98,
-        "observed_at": "2026-10-12T12:59:39.199320+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac de transport de trekking - 30 L à 40 L - DUFFEL 500 Extend Simond",
-    "description": "29,99€ - Decathlon Pour les amateurs de randonnée, de trekking ou les voyageurs à la recherche d'un sac polyvalent, le Duffel 500 Extend est proposé à 39,99 € chez Decathlon. Son principal atout est son volume modulable : il passe de 30 à 40 litres grâce à un système de sangles qui permet d'agrandir le sac lorsque vous avez besoin d'emporter davantage d'affaires, ou de le comprimer pour limiter son encombrement. Il peut se porter aussi bien à la main que sur le dos grâce à ses bretelles rembourrées. Sa toile enduite est conçue pour résister à l'abrasion et aux frottements, tandis que son traitement déperlant aide à protéger le contenu contre les petites projections d'eau. Il dispose également de trois poches zippées, d'un compartiment principal et d'une housse de rangement. La fermeture principale peut être sécurisée avec un cadenas.",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-de-transport-de-trekking-30-l-a-40-l-duffel-500-extend-simond-3430709",
-    "image_url": "",
-    "detected_at": "2026-10-12T04:33:33+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-12T12:59:39.199325+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Black Border 2 et Black border 3",
-    "description": "0,09€ - Google Play Black Border 3 à 0.09€ Black Border Patrol simulator. Incarnez un agent de la police des frontières dans un poste opérationnel ! La frontière ne dort jamais, et les criminels sont toujours à l'affût. Dans Black Border 2: Border Patrol Simulator, votre mission est claire : dirigez votre poste opérationnel et protégez votre zone contre les contrebandiers et les menaces frontalières. ️‍♂️ Examinez attentivement les passeports et les permis. Chaque décision que vous prenez a un impact direct sur la sécurité de votre poste et de votre secteur. Utilisez des outils avancés tels que des scanners à rayons X et des stations de contrôle pour détecter les menaces cachées, et déployez votre chien fidèle pour découvrir les cargaisons de contrebande. Votre rôle est crucial — vos décisions stratégiques déterminent la sécurité du poste et le succès des missions. Caractéristiques du jeu : Contrôle des documents – Vérifiez soigneusement passeports et permis. Outils avancés – Détectez les objets cachés et assurez la légitimité des véhicules et équipements. Unité canine – Repérez la contrebande avec votre chien expérimenté. ⚖️ Décisions stratégiques – Chaque choix façonne le destin des opérations et du poste. Êtes-vous prêt à sécuriser le poste et la zone opérationnelle et à accomplir vos missions avec succès ? Plongez dans cette simulation de patrouille frontalière ultime !",
-    "price": 0.09,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/black-border-2-et-black-border-3-3430707",
-    "image_url": "",
-    "detected_at": "2026-10-12T04:13:19+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 0.09,
-        "observed_at": "2026-10-12T12:59:39.199331+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jogging Nike Jordan - rouge et noir",
-    "description": "6€ - Showroomprivé Jogging Nike Jordan Doux. Taille élastique avec liens de serrage. 3 poches. Motifs à carreaux rouge et noir et logo doré. Base élastique. Tailles : De 8/10 ans à 13/15 ans Matière : 60% coton et 40% polyester Entretien : lavage à 30°C Parce que ce modèle existe parce que le prix est ridicule Et parce que c'est bientôt la période ...",
-    "price": 6.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jogging-nike-jordan-rouge-et-noir-3430706",
-    "image_url": "",
-    "detected_at": "2026-10-12T03:56:25+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 6.0,
-        "observed_at": "2026-10-12T12:59:39.199340+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Rexel 06131 Pack de 1000 Agrafes No 56",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B000J66OB4",
-    "image_url": "https://m.media-amazon.com/images/P/B000J66OB4.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T03:07:32+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Posca Acrylic Paint Marker Set... Color Medium, PC-5M (PC5M 8)",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00DBTE7LA",
-    "image_url": "https://m.media-amazon.com/images/P/B00DBTE7LA.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T00:23:44+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Lindy Rallonge secteur IEC, 3m",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B01CHDBSOY",
-    "image_url": "https://m.media-amazon.com/images/P/B01CHDBSOY.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T22:45:35+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Trixie Lapin, Peluche, 15 cm, Beige",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B002BB4RJG",
-    "image_url": "https://m.media-amazon.com/images/P/B002BB4RJG.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T22:30:20+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "PROXXON 2228774 - Muela corindón plana 2,35 x 2,5 mm (5 u)",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0017NOWV2",
-    "image_url": "https://m.media-amazon.com/images/P/B0017NOWV2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T22:20:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "C.E. Pattberg AMERICA Ruban Pa...ur Présents, en Toute Occasion",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0070TX3DU",
-    "image_url": "https://m.media-amazon.com/images/P/B0070TX3DU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T22:18:54+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Trixie Tunnel Avec Foin Et Pétales De Calendula 250 GR",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00815PG5A",
-    "image_url": "https://m.media-amazon.com/images/P/B00815PG5A.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T22:14:22+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "JR FARM Nid de Pissenlit 130 g",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B01LY9Y41W",
-    "image_url": "https://m.media-amazon.com/images/P/B01LY9Y41W.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T22:14:22+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Récipient à Eau décoratif pour..., de Trixie - 15 x 3,5 x 12 cm",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B002YK1S1O",
-    "image_url": "https://m.media-amazon.com/images/P/B002YK1S1O.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T22:01:50+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "VERSELE-LAGA - Complete Cuni S...les - 1,75kg, Agrumes, 1 unité",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00LV2I94A",
-    "image_url": "https://m.media-amazon.com/images/P/B00LV2I94A.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:53:23+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Disque d'exercice pour degus, ...râce à l’aire de course plate,",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0089DCAXA",
-    "image_url": "https://m.media-amazon.com/images/P/B0089DCAXA.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:42:26+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Tyrol | Litière Petits Animaux...squ'à 6 Semaines d'Utilisation",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0CVN4KBXK",
-    "image_url": "https://m.media-amazon.com/images/P/B0CVN4KBXK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:37:36+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "TRIXIE Faule Grete Natural Living flammé Bois House-Parent",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B01LSLH9EO",
-    "image_url": "https://m.media-amazon.com/images/P/B01LSLH9EO.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:37:35+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Francodex - Tortue VIT - 15 g",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00HVYHO20",
-    "image_url": "https://m.media-amazon.com/images/P/B00HVYHO20.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:35:56+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Kerbl Pet Enclos d’extérieur et d‘intéri EUR Noir",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0CD24SF3F",
-    "image_url": "https://m.media-amazon.com/images/P/B0CD24SF3F.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:32:21+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "TRIXIE 76133 Sable pour Terrarium Rouge foncé 5 kg",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00435I66S",
-    "image_url": "https://m.media-amazon.com/images/P/B00435I66S.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:30:37+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Exoterra Bois d'Ornement pour Reptiles Pied de Vigne Sablé",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0032GAL4Y",
-    "image_url": "https://m.media-amazon.com/images/P/B0032GAL4Y.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:27:37+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "biOrb AIR 60 Blanc 1 Unité",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00I9DTXSK",
-    "image_url": "https://m.media-amazon.com/images/P/B00I9DTXSK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-11T21:23:45+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
   }
 ]
