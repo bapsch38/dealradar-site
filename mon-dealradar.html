@@ -757,7 +757,7 @@ function renderOffers() {
     if (maxPrice !== null && (price === null || price > maxPrice)) return false;
     if (hideOldInput.checked && offerIsOld(offer)) return false;
     if (onlyVerifiedInput.checked && offer.price_verified !== true) return false;
-    if (onlyHighConfidenceInput.checked && !(typeof window.DealRadarTrust === "function" && window.DealRadarTrust(offer).score >= 50)) return false;
+    if (onlyHighConfidenceInput.checked && !(typeof window.DealRadarTrust === "function" && window.DealRadarTrust(offer).score >= 40)) return false;
     return true;
   });
   const sort = dealSort.value;
