@@ -159,6 +159,48 @@ footer strong{color:var(--text)}
  .banner{align-items:flex-start;flex-direction:column;padding:22px}
  h2{font-size:22px}
 }
+
+/* Fonctionnalités personnelles DealRadar */
+.dr-feature-panel{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px}
+.dr-feature-card{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:18px;min-width:0}
+.dr-feature-card h3{font-size:16px;margin:0 0 8px}
+.dr-feature-card p{font-size:12px;line-height:1.6;color:var(--muted);margin:0 0 12px}
+.dr-pref-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin:12px 0}
+.dr-pref-option{display:flex;align-items:center;gap:7px;font-size:12px;color:var(--text)}
+.dr-pref-option input{accent-color:var(--green)}
+.dr-button-row{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}
+.dr-action{background:#142338;border:1px solid #39516a;color:var(--text);border-radius:8px;padding:8px 10px;font-size:11px;font-weight:700;cursor:pointer}
+.dr-action:hover{border-color:var(--green);color:var(--green)}
+.dr-primary{background:var(--green);color:#07131c;border-color:var(--green)}
+.dr-switch{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);margin:8px 0}
+.dr-switch input{accent-color:var(--green)}
+.dr-status{font-size:11px;color:var(--green);margin-top:9px;min-height:14px}
+.dr-empty{border:1px dashed var(--line);border-radius:10px;padding:13px;color:var(--muted);font-size:12px;line-height:1.6}
+.dr-list-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--line);font-size:12px}
+.dr-list-row:last-child{border-bottom:0}
+.dr-list-row>div{flex:1;min-width:0}
+.dr-list-row strong,.dr-list-row small{display:block;overflow-wrap:anywhere}
+.dr-list-row small{color:var(--muted);margin-top:4px}
+.dr-list-row a{color:var(--green);white-space:nowrap}
+.dr-reached{color:var(--green)}
+.dr-personalized-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:15px}
+.dr-mini-card{display:grid;grid-template-columns:78px minmax(0,1fr);gap:11px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px;min-width:0}
+.dr-mini-card img{width:78px;height:78px;object-fit:contain;background:#fff;border-radius:8px}
+.dr-mini-body{min-width:0}
+.dr-mini-meta{font-size:10px;color:var(--muted);line-height:1.4}
+.dr-mini-title{display:block;font-size:12px;font-weight:750;line-height:1.4;margin:6px 0;overflow-wrap:anywhere}
+.dr-mini-price{font-size:14px;font-weight:850;color:var(--green)}
+.dr-mini-price span{font-size:10px;color:#ffcf70;margin-left:5px}
+.dr-card-actions{border-top:1px solid var(--line);padding-top:10px;margin-top:2px}
+.dr-trust{background:#0b1724;border:1px solid var(--line);border-radius:8px;padding:8px 10px;display:grid;grid-template-columns:1fr auto;gap:4px 8px}
+.dr-trust span{font-size:10px;color:var(--muted)}
+.dr-trust strong{font-size:12px;color:var(--green)}
+.dr-trust small{grid-column:1/-1;font-size:10px;line-height:1.5;color:var(--muted)}
+.dr-community{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:9px;font-size:10px;color:var(--muted);line-height:1.5}
+.dr-community a{color:var(--green);text-decoration:underline;text-underline-offset:2px}
+.dr-community a:hover{color:#fff}
+@media(max-width:850px){.dr-personalized-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.dr-feature-panel,.dr-personalized-grid{grid-template-columns:1fr}.dr-pref-list{grid-template-columns:1fr 1fr}.dr-mini-card{grid-template-columns:72px minmax(0,1fr)}.dr-mini-card img{width:72px;height:72px}.dr-list-row{flex-wrap:wrap}.dr-list-row>div{flex-basis:100%}}
 </style>
 </head>
 <body>
@@ -297,6 +339,44 @@ footer strong{color:var(--text)}
       </div>
     </div>
     <nav class="pagination" id="offers-pagination" aria-label="Pagination des offres"></nav>
+  </section>
+
+
+  <section class="section" id="mon-dealradar">
+    <div class="section-head">
+      <div><h2>🎯 Mon DealRadar</h2><p>Une sélection adaptée à tes goûts, tes favoris et tes objectifs de prix — enregistrés dans ce navigateur.</p></div>
+    </div>
+    <div class="dr-feature-panel">
+      <article class="dr-feature-card">
+        <h3>Personnalise ton accueil</h3>
+        <p>Choisis tes univers. Ils alimentent la sélection personnalisée et peuvent servir à filtrer le catalogue.</p>
+        <div class="dr-pref-list" id="dr-category-preferences"></div>
+        <label class="dr-switch"><input id="dr-personalized-toggle" type="checkbox" checked> Afficher ma sélection personnalisée</label>
+        <div class="dr-button-row"><button class="dr-action dr-primary" type="button" id="dr-save-preferences">Enregistrer mes préférences</button><button class="dr-action" type="button" id="dr-apply-preferences">Filtrer le catalogue</button></div>
+        <div class="dr-status" id="dr-preferences-status" aria-live="polite"></div>
+      </article>
+      <article class="dr-feature-card">
+        <h3>⭐ Ma liste de favoris (<span id="dr-fav-count">0</span>)</h3>
+        <p>Garde les offres à comparer et retrouve-les plus tard sur cet appareil.</p>
+        <div id="dr-watchlist"><div class="dr-empty">Chargement des favoris…</div></div>
+        <button class="dr-action" id="dr-clear-favorites" type="button" style="margin-top:10px">Vider les favoris</button>
+      </article>
+      <article class="dr-feature-card">
+        <h3>🔔 Mes objectifs de prix</h3>
+        <p>Définis un prix cible depuis une fiche. Si l’offre passe sous ce seuil, une notification peut apparaître lorsque cette page reste ouverte. Ce n’est pas une alerte serveur.</p>
+        <div id="dr-target-list"><div class="dr-empty">Chargement des objectifs…</div></div>
+        <button class="dr-action" id="dr-notification-permission" type="button" style="margin-top:10px">Autoriser les notifications navigateur</button>
+      </article>
+      <article class="dr-feature-card">
+        <h3>🛡️ Fiabilité & transparence</h3>
+        <p>Chaque offre reçoit un indice indicatif à partir des signaux disponibles : prix vérifié par le flux, cohérence du prix de référence, historique, fraîcheur et source identifiable. Ce n’est ni une garantie ni une certification du marchand.</p>
+        <p>Les graphiques d’historique affichent uniquement les observations réellement présentes dans le flux ; pas de données historiques inventées.</p>
+      </article>
+    </div>
+    <div class="section-head" style="margin-top:28px">
+      <div><h2>Pour toi, aujourd’hui</h2><p>Les offres qui correspondent à tes univers, avec priorité aux signaux de fiabilité disponibles.</p></div>
+    </div>
+    <div class="dr-personalized-grid" id="dr-personalized-grid"><div class="dr-empty">Chargement de ta sélection…</div></div>
   </section>
 
   <section class="section" id="fonctionnement">
@@ -795,5 +875,6 @@ updateCategories();
 loadTelegramBotInfo();
 loadOffers();
 </script>
+<script src="./features.js"></script>
 </body>
 </html>
