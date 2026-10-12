@@ -736,6 +736,8 @@ function renderFeaturedOffers() {
     if (discount < 15) return null;
     return {offer, price, reference, discount, url};
   }).filter(Boolean).sort((a, b) =>
+    (typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(b.offer).score : 0) -
+      (typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(a.offer).score : 0) ||
     Number(b.offer.price_verified === true) - Number(a.offer.price_verified === true) ||
     b.discount - a.discount
   ).slice(0, 3);
@@ -757,7 +759,8 @@ function renderFeaturedOffers() {
       img + '<div><div class="featured-label">-' + Math.round(item.discount) + ' % annoncé</div>' +
       '<div class="featured-title">' + title + '</div><div><span class="featured-price">' + formatPrice(item.price) + '</span>' +
       '<span class="featured-old-price">' + formatPrice(item.reference) + '</span></div>' +
-      '<div class="featured-foot">' + escapeHtml(source) + ' · ' + (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le marchand') + '</div></div></a>';
+      '<div class="featured-foot">' + escapeHtml(source) + ' · ' + (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le marchand') +
+      (typeof window.DealRadarTrust === "function" ? ' · Confiance ' + window.DealRadarTrust(offer).level.toLowerCase() : '') + '</div></div></a>';
   }).join("");
 }
 function renderOffers() {
