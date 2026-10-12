@@ -129,6 +129,7 @@
       reasons.push("historique de prix avec " + history.length + " observation(s)");
       if (distinctPrices < 2) warnings.push("prix historique pas encore confirmé par une variation");
     } else {
+      score -= 12;
       warnings.push("historique de prix insuffisant");
     }
 
@@ -136,11 +137,17 @@
     const date = rawDate ? new Date(String(rawDate).replace(" ", "T") + (/[zZ]|[+-]\d{2}:?\d{2}$/.test(String(rawDate)) ? "" : "Z")) : null;
     if (date && !Number.isNaN(date.getTime())) {
       const age = Date.now() - date.getTime();
-      if (age >= -60 * 60 * 1000 && age <= 24 * 60 * 60 * 1000) {
+      if (age >= -60 * 60 * 1000 && age <= 60 * 60 * 1000) {
         score += 12;
+        reasons.push("détection de moins d’une heure");
+      } else if (age <= 6 * 60 * 60 * 1000 && age >= 0) {
+        score += 10;
+        reasons.push("détection de moins de 6 h");
+      } else if (age <= 24 * 60 * 60 * 1000 && age >= 0) {
+        score += 7;
         reasons.push("détection de moins de 24 h");
       } else if (age <= 7 * 24 * 60 * 60 * 1000 && age >= 0) {
-        score += 6;
+        score += 3;
         reasons.push("détection de moins de 7 jours");
       } else if (age > 7 * 24 * 60 * 60 * 1000) {
         warnings.push("offre ancienne à recontrôler");
@@ -158,8 +165,12 @@
     } else if (discount != null && discount >= 50) {
       score -= 6;
       warnings.push("remise très élevée : prix de référence à contrôler");
+    } else if (discount != null && discount >= 30) {
+      score -= 3;
+      warnings.push("remise importante : prix de référence à comparer");
     }
-    if (offer.price_verified === false) score -= 5;
+    if (offer.price_verified === false) score -= 10;
+    else if (offer.price_verified !== true) score -= 8;
     score = Math.max(0, Math.min(100, Math.round(score)));
     const level = score >= 75 ? "Élevée" : score >= 50 ? "Moyenne" : "Faible";
     return {score, level, reasons, warnings};
