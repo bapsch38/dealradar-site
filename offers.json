@@ -1,5 +1,77 @@
 [
   {
+    "title": "Hazet 652 Démonte-pneus, Voir Illustration, 600mm",
+    "price": 31.1,
+    "reference_price": 51.26,
+    "discount_percent": 39.33,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001CA10WY",
+    "image_url": "https://m.media-amazon.com/images/P/B001CA10WY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 12:59:31",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 31.1,
+        "observed_at": "2026-10-12T12:59:39.197132+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LINDY Câble DisplayPort 1.2 de 5 m, Gold Line",
+    "price": 83.8,
+    "reference_price": 100.68,
+    "discount_percent": 16.77,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B075B783HB",
+    "image_url": "https://m.media-amazon.com/images/P/B075B783HB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 12:59:31",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 83.8,
+        "observed_at": "2026-10-12T12:59:39.197242+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 94283 Luminaire d'ext...n plastique Blanc chaud 3000 K",
+    "price": 62.88,
+    "reference_price": 76.19,
+    "discount_percent": 17.47,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B083M6TKVB",
+    "image_url": "https://m.media-amazon.com/images/P/B083M6TKVB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 12:59:17",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 62.88,
+        "observed_at": "2026-10-12T12:59:39.197253+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 29164 Filament 230V S...3W RGBW+ gradable Doré ampoule",
+    "price": 91.8,
+    "reference_price": 105.63,
+    "discount_percent": 13.09,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CHY5FC9K",
+    "image_url": "https://m.media-amazon.com/images/P/B0CHY5FC9K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 12:59:14",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 91.8,
+        "observed_at": "2026-10-12T12:59:39.197261+00:00"
+      }
+    ]
+  },
+  {
     "title": "Oehlbach Speaker Wire SP-15 - ...eur à Bobine - 20m Transparent",
     "price": 50.99,
     "reference_price": 56.8,
@@ -8,8 +80,14 @@
     "url": "https://www.amazon.fr/dp/B000KZCUR6",
     "image_url": "https://m.media-amazon.com/images/P/B000KZCUR6.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 12:15:38",
-    "category": "Autre",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 50.99,
+        "observed_at": "2026-10-12T12:59:39.197285+00:00"
+      }
+    ]
   },
   {
     "title": "Thermaltake Toughpower GF2 ARG...TT Premium Edition PC-Netzteil",
@@ -21,7 +99,13 @@
     "image_url": "https://m.media-amazon.com/images/P/B08V9CMB7Q.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 11:39:40",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 106.78,
+        "observed_at": "2026-10-12T12:59:39.197308+00:00"
+      }
+    ]
   },
   {
     "title": "Philips Hue White and Colour A...e Homekit, nouvelle génération",
@@ -33,7 +117,13 @@
     "image_url": "https://m.media-amazon.com/images/P/B0FJY174B3.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:26:14",
     "category": "Maison",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 287.48,
+        "observed_at": "2026-10-12T12:59:39.197320+00:00"
+      }
+    ]
   },
   {
     "title": "TRIXIE 76133 Sable pour Terrarium Rouge foncé 5 kg",
@@ -45,7 +135,13 @@
     "image_url": "https://m.media-amazon.com/images/P/B00435I66S.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:18",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-12T12:59:39.197331+00:00"
+      }
+    ]
   },
   {
     "title": "Tyrol | Litière Petits Animaux...squ'à 6 Semaines d'Utilisation",
@@ -57,7 +153,13 @@
     "image_url": "https://m.media-amazon.com/images/P/B0CVN4KBXK.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:13",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-12T12:59:39.197352+00:00"
+      }
+    ]
   },
   {
     "title": "TRIXIE Faule Grete Natural Living flammé Bois House-Parent",
@@ -69,7 +171,13 @@
     "image_url": "https://m.media-amazon.com/images/P/B01LSLH9EO.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:13",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 35.49,
+        "observed_at": "2026-10-12T12:59:39.197357+00:00"
+      }
+    ]
   },
   {
     "title": "Récipient à Eau décoratif pour..., de Trixie - 15 x 3,5 x 12 cm",
@@ -81,7 +189,13 @@
     "image_url": "https://m.media-amazon.com/images/P/B002YK1S1O.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:27",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.44,
+        "observed_at": "2026-10-12T12:59:39.197367+00:00"
+      }
+    ]
   },
   {
     "title": "JR FARM Nid de Pissenlit 130 g",
@@ -93,7 +207,13 @@
     "image_url": "https://m.media-amazon.com/images/P/B01LY9Y41W.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:25",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 13.9,
+        "observed_at": "2026-10-12T12:59:39.197384+00:00"
+      }
+    ]
   },
   {
     "title": "Trixie Lapin, Peluche, 15 cm, Beige",
@@ -104,8 +224,14 @@
     "url": "https://www.amazon.fr/dp/B002BB4RJG",
     "image_url": "https://m.media-amazon.com/images/P/B002BB4RJG.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:20",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Animaux",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.04,
+        "observed_at": "2026-10-12T12:59:39.197400+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de pantalons en promotion",
@@ -117,7 +243,13 @@
     "image_url": "",
     "detected_at": "2026-10-09 13:32:07",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-12T12:59:39.197446+00:00"
+      }
+    ]
   },
   {
     "title": "Pack Clavier Corsair Clipper Pro Mini 60 Hall Effect (CH-979101J-FR) + Housse de Protection Offerte - Format 60%, Azerty, Noir ou Blanc",
@@ -128,8 +260,14 @@
     "url": "https://www.dealabs.com/bons-plans/pack-clavier-gaming-corsair-clipper-pro-mini-60-hall-effect-ch-979101j-fr-housse-de-protection-offerte-format-60-azerty-noir-3429433",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:07",
-    "category": "Gaming",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-12T12:59:39.197453+00:00"
+      }
+    ]
   },
   {
     "title": "Vélo Gravel carbone Scott Addict Gravel 10 2026 - SRAM Force XPLR AXS 1x13v, Roues Fulcrum Rapid Red Carbon, 8.4 kg, XS à XL",
@@ -141,7 +279,13 @@
     "image_url": "",
     "detected_at": "2026-10-09 13:32:06",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 3499.0,
+        "observed_at": "2026-10-12T12:59:39.197469+00:00"
+      }
+    ]
   },
   {
     "title": "Couteau multifonctions 7-en-1 Solognac X7 - Lame 8.5 cm Acier 5Cr15, Scie à os, Étui Polyester 1680D X-Access",
@@ -152,8 +296,14 @@
     "url": "https://www.dealabs.com/bons-plans/couteau-multifonctions-7-en-1-solognac-x7-lame-85-cm-acier-5cr15-scie-a-os-etui-polyester-1680d-x-access-3429262",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-12T12:59:39.197475+00:00"
+      }
+    ]
   },
   {
     "title": "Vélo de route carbone Bianchi Sprint 2026 - Shimano 105 Di2 2x12v Électronique, Disques hydrauliques, S/M et M/L",
@@ -165,7 +315,325 @@
     "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2269.0,
+        "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 29164 Filament 230V S...3W RGBW+ gradable Doré ampoule",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CHY5FC9K",
+    "image_url": "https://m.media-amazon.com/images/P/B0CHY5FC9K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T12:57:24+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Tondeuse multifonction Philips All-in-One Trimmer Série 3000 (7 en 1)",
+    "description": "19,99€ - Intermarché Dans le catalogue Intermarché du 13 au 25 octobre, la tondeuse Philips All-in-One Trimmer Série 3000 MG3920/15 passe à 19,99€. Sur idealo, elle n'est pas descendue sous 23,99€ en un an (29,82€ en moyenne), et le moins cher en ligne aujourd'hui est Cdiscount à 29,98€ livrée. C'est une tondeuse 7 en 1 pour le visage et les cheveux, avec des lames auto-affûtées, des hauteurs de coupe de 0,5 à 12 mm et 60 minutes d'autonomie. Elle est livrée avec un sabot cheveux de 12 mm, des sabots barbe de 1, 3, 5 et 7 mm, une housse et une brossette de nettoyage. Offre valable dans les Intermarché participants.",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tondeuse-multifonction-philips-all-in-one-trimmer-serie-3000-7-en-1-3431030",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/kF0i0/3431030_1/re/1200x1200/qt/90/3431030_1.jpg",
+    "detected_at": "2026-10-12T12:55:41+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T12:59:39.197489+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 94283 Luminaire d'ext...n plastique Blanc chaud 3000 K",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B083M6TKVB",
+    "image_url": "https://m.media-amazon.com/images/P/B083M6TKVB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T12:54:39+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Brennenstuhl 1167950 Cordon pr...our chantier IP44, Rouge, 10 m",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001BAY79I",
+    "image_url": "https://m.media-amazon.com/images/P/B001BAY79I.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T12:54:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Fauteuil à bascule - HOMCOM - Assise de 10 cm d'épaisseur - Pieds incurvés en acier - Charge 120 kg - Beige - Vendeur tiers",
+    "description": "79,90€ - Cdiscount Disponible à 126,90€ sur Amazon ici > À propos de cet article ASSISE ÉPAISSE DE 10 CM : Asseyez-vous confortablement sur ce fauteuil à bascule avec une assise de 10 cm d'épaisseur. Dotée d'un dossier et de bras incurvés pour un soutien optimal, son revêtement en tissu en peluche en fait un élément de décoration unique BASE À BASCULE EN ACIER : Équipé de deux pieds incurvés, ce fauteuil relax de salon offre un mouvement avant et arrière doux, idéal pour se relaxer et apaiser l'esprit CADRE ROBUSTE : Construite avec un cadre solide, cette chaise de salon assure un soutien robuste. Les patins antidérapants non seulement protègent votre sol des éraflures, mais contribuent également à une réduction du bruit POLYVALENTE : Extrêmement versatile, utilisez cette chaise confortable comme chaise de nurserie, chaise de salon, chaise de chambre, et plus encore SPÉCIFICATIONS DE LA CHAISE À BASCULE : Dimensions totales : 66l x 100P x 93H cm ; - Dimensions de l'assise : 46L x 48P x 45H cm ; - Charge max. recommandée : 120 kg ; - Assemblage nécessaire",
+    "price": 79.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fauteuil-a-bascule-homcom-assise-de-10-cm-depaisseur-pieds-incurves-en-acier-charge-120-kg-beige-vendeur-tiers-3431028",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/or9cn/3431028_1/re/1200x1200/qt/90/3431028_1.jpg",
+    "detected_at": "2026-10-12T12:53:44+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.9,
+        "observed_at": "2026-10-12T12:59:39.197497+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Crème Hydratante & Matifiante GARNIER",
+    "description": "3,15€ - Amazon 85mm Cette crème sorbet ultra-légère hydrate, matifie et réduit les imperfections tout en affinant le grain de peau sans effet gras ni collant. Enrichie en niacinamide, acide salicylique et Centella Asiatica, elle réduit les pores et l’excès de sébum pour un teint plus uniforme et une peau apaisée. Appliquer matin et soir après le sérum, en massant délicatement pour une peau douce, lisse et éclatante.",
+    "price": 3.15,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/creme-hydratante-matifiante-garnier-3431027",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yailW/3431027_1/re/1200x1200/qt/90/3431027_1.jpg",
+    "detected_at": "2026-10-12T12:52:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 3.15,
+        "observed_at": "2026-10-12T12:59:39.197508+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Humidificateur d'Air Philips - Jusqu'à 45m², 300ml/h, Blanc",
+    "description": "89,99€ - Amazon À propos de cet article Respirez librement et profitez d'un air pur et confortable chez vous : Conçu pour apaiser hygiéniquement les symptômes de l'air sec, tels que la peau sèche, les lèvres gercées, les irritations nasales et oculaires, et la congestion Technologie NanoCloud : jusqu'à 99,97 % moins de propagation bactérienne. Sa méthode d'évaporation naturelle est reconnue pour être plus sûre et hygiénique, Elle émet une brume ultrafine et invisible, dont les particules d'eau sont trop petites pour que les bactéries adhèrent, pour les chambres de bébés et les personnes aux voies respiratoires sensibles Efficace dans les pièces jusqu'à 45m² : Grâce à un taux d'humidification élevé de 300 ml/h, chaque petite à moyenne pièce jusqu'à 45 m² est efficacement humidifiée Jusqu'à 20 heures d'utilisation continue : Avec un réservoir d'eau de 3 litres, profitez longuement d'une humidité optimale sans nécessité de remplissage Pas de poussière blanche ni de taches humides : Découvrez la pureté de la technologie NanoCloud. À la différence des humidificateurs ultrasoniques classiques, ses particules ultra-fines sont trop petites pour transporter des minéraux, garantissant un environnement domestique plus propre et confortable",
+    "price": 89.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/humidificateur-dair-philips-jusqua-45m2-300mlh-blanc-3431026",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/lHsRB/3431026_1/re/1200x1200/qt/90/3431026_1.jpg",
+    "detected_at": "2026-10-12T12:52:24+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-12T12:59:39.197514+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection d'articles New Era en promotion - Ex : Sweat à capuche New Era - Gris (du M au XXL)",
+    "description": "15€ - PickSport Sélection New Era chez Picksport ! :) > Lien vers la sélection complète . Détails de produit présenté dans le titre : Le hoodie pour homme NEW ERA NOS MLB LE MIDI OS HOODIE FT NEYYAN HGR associe un style oversize décontracté à un confort de port ultime pour le quotidien et le streetwear. Confectionné dans un mélange de coton doux et de haute qualité, dans une teinte stone moderne (Stone), ce sweat à capuche est particulièrement agréable sur la peau et offre une coupe confortable. La coupe oversize ample, associée aux poignets et à l’ourlet en bord-côte élastique, assure une liberté de mouvement maximale et une silhouette décontractée. Une grande poche kangourou offre un espace de rangement pratique, tandis que le logo New York Yankees brodé sur la poitrine confère au hoodie son look MLB authentique. Marque : New Era Matière : 95 % coton, 5 % élasthanne Couleur : gris MLB League Essential Midi New York Yankees Logo Midi des New York Yankees sur le devant Logo MLB en bas à droite sur le devant Drapeau New Era brodé sur la manche gauche Poche kangourou sur le devant Capuche avec cordon de serrage NEUF, étiquette & emballage d’origine Tailles : du M au XXL Autres exemples :",
+    "price": 15.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/selection-darticles-new-era-en-promotion-ex-sweat-a-capuche-new-era-gris-du-m-au-xxl-3431025",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OD298/3431025_1/re/1200x1200/qt/90/3431025_1.jpg",
+    "detected_at": "2026-10-12T12:51:02+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 15.0,
+        "observed_at": "2026-10-12T12:59:39.197520+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Seiko Chronograph Titane SSB387P1 (vendeur tiers)",
+    "description": "249€ - Amazon Boîtier en titane ultra-léger, idéal au quotidien aspect positif Chronographe précis sans entretien régulier aspect positif Résiste à 10 bars, parfaite pour la vie de tous les jours Résumé à partir des informations sur le produit Rufus AI À propos de cet article Boîtier - Matérial de la Boîtier: Titane - Couleur de la Boîte: Noir - Verre: Hardlex Mouvement Affichage Chronographe Type de mouvement de la montre Quartz Caractéristiques spéciales Chronomètre Source d’alimentation Alimenté par batterie Type de bretelles Silicone Profondeur d'étanchéité à l’eau 100 Mètres Type de sport Marche Type de fermoir Boucle ardillon Niveau d' etancheite Étanche Fonction de décoration Cristal Type de fermeture Boucle",
+    "price": 249.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/seiko-montre-homme-chronograph-titane-ssb387p1-3431023",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SJjJz/3431023_1/re/1200x1200/qt/90/3431023_1.jpg",
+    "detected_at": "2026-10-12T12:50:55+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 249.0,
+        "observed_at": "2026-10-12T12:59:39.197526+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Cyberpunk 2077 à 7,76€/ Édition Ultime à 14€ / Phantom Liberty à 7€ / Witcher 3: Complete à 14€ sur PC/MAC (Dématérialisé - VPN Ouzbékistan)",
+    "description": "7,76€ - GOG Promotions d’automne sur GoG Offres disponibles via le store Ouzbékistan ➔ L’utilisation d’un VPN est nécessaire pour accéder au store Moldavie. À ma connaissance, PayPal reste actuellement le seul moyen de paiement fonctionnel sur les stores GoG étrangers, lorsqu’il est proposé à la caisse. Pensez à bien consulter mon tutoriel en description pour tous les détails, merci ! Cyberpunk 2077 : Édition Ultime sur GOG.com 16.79$ ~14€ Cyberpunk 2077 sur GOG.com 8.99$ ~8€ Cyberpunk 2077: Phantom Liberty sur GOG.com 8.25$ ~7€ The Witcher 3: Wild Hunt - Complete Edition sur GOG.com 15.99$ ~13,70€ Cyberpunk 2077 est un RPG d'action-aventure en monde ouvert qui se déroule dans la mégalopole de Night City, où vous incarnez un cyber-mercenaire qui livre un combat sans merci pour sa survie. Avec des améliorations et du contenu additionnel gratuit, personnalisez entièrement votre personnage et votre style de jeu en accomplissant des boulots, améliorez votre réputation et déverrouillez des améliorations. Les relations que vous nouerez et les choix que vous ferez auront un impact sur l'histoire et le monde qui vous entoure. C'est ici que se forgent les légendes. Quelle sera la vôtre ? Dans l'Édition Ultime Cyberpunk 2077, plongez dans chaque histoire que ce monde au futur sombre peut vous offrir, et retrouvez toutes les mises à jour de gameplay et de contenu dans un seul pack, comprenant l'extension à succès façon thriller d'espionnage Phantom Liberty.",
+    "price": 7.76,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cyberpunk-2077-a-776eur-edition-ultime-a-14eur-phantom-liberty-a-7eur-witcher-3-complete-a-14eur-sur-pcmac-dematerialise-vpn-ouzbekistan-3431022",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/7Lx1j/3431022_1/re/1200x1200/qt/90/3431022_1.jpg",
+    "detected_at": "2026-10-12T12:50:36+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 7.76,
+        "observed_at": "2026-10-12T12:59:39.197532+00:00"
+      }
+    ]
+  },
+  {
+    "title": "GEDORE Red Ciseaux universels Longueur de la lame 50 mm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07CNGF4K9",
+    "image_url": "https://m.media-amazon.com/images/P/B07CNGF4K9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T12:46:18+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Pull à capuche FILA - Du S au XL",
+    "description": "14,99€ - Otrium",
+    "price": 14.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pull-a-capuche-fila-s-a-xl-3431019",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Bth8G/3431019_1/re/1200x1200/qt/90/3431019_1.jpg",
+    "detected_at": "2026-10-12T12:45:44+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-12T12:59:39.197539+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Technic 42198 - L’Avion de Brousse 42198",
+    "description": "16,99€ - Amazon Très bon prix pour ce set lego technic Jeu de construction LEGO avec avion à construire pour garçons et filles dès 8 ans – Construisez un avion de brousse LEGO Technic avec des accessoires incroyables comme une hélice qui tourne, des ailerons réglables et un moteur 4 cylindres à pistons Avion fonctionnel sous forme de jouet interactif – Les enfants peuvent jouer à descendre en piqué avec leur avion LEGO et partir en mission de protection de la nature à bord de l’avion de brousse Décorations de zébrures sur les ailes de l'avion – Cet avion de brousse LEGO arbore des zébrures qui symbolisent le rôle qu’il joue dans la protection des animaux sauvages Beau cadeau pour garçon ou fille dès 8 ans – Laissez le jeu créatif stimuler l’imagination des enfants avec ce jouet LEGO amusant qui réserve de nombreuses surprises aux jeunes pilotes. Ceux-ci peuvent construire, puis explorer leur avion de brousse Introduction à l’ingénierie – Les maquettes à construire LEGO Technic incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie et de la mécanique",
+    "price": 16.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-technic-lavion-de-brousse-42198-3431018",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/uzhTn/3431018_1/re/1200x1200/qt/90/3431018_1.jpg",
+    "detected_at": "2026-10-12T12:44:48+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-12T12:59:39.197544+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Testeur de Tension sans contact NCV KAIWEETS - Double Plage 12-1000V/70-1000V AC avec Écran LCD (Vendeur tiers)",
+    "description": "15,22€ - Amazon 【Sécurité professionnelle certifiée】Le testeur de tension KAIWEETS est certifié ETL et conforme aux normes CAT IV 1000V et CE, offrant une protection fiable lors des contrôles électriques. Grâce à la technologie NCV (détection de tension sans contact) et à la double isolation, vous pouvez identifier la présence de courant sans toucher directement les conducteurs, réduisant efficacement les risques de choc électrique. Idéal pour les électriciens, la maintenance domestique et les travaux de bricolage. 【Détection de tension rapide et sans contact】Approchez simplement la pointe du testeur d’une prise, d’un interrupteur ou d’un câble pour détecter immédiatement la présence de tension. Lorsque du courant est détecté, le dispositif émet un signal sonore accompagné d’un indicateur lumineux rouge, tandis que l’écran LCD affiche clairement l’intensité du signal avec un indicateur en pourcentage et un graphique à barres pour une lecture rapide. 【Double plage de détection pour plus de précision】Le testeur propose deux niveaux de sensibilité sélectionnables (12-1000V et 70-1000V AC) afin de s’adapter à différents environnements électriques. Le mode haute sensibilité permet de détecter les circuits basse tension tels que les sonnettes ou thermostats, tandis que le mode standard convient parfaitement aux prises, câbles et installations électriques domestiques. 【Indications visuelles et sonores intelligentes】L’écran LCD haute définition affiche clairement le niveau de tension détecté avec un indicateur visuel précis. Les signaux lumineux permettent une identification rapide : rouge pour la phase ou une tension élevée, vert pour une tension faible ou inexistante. La fréquence de l’alarme sonore augmente avec l’intensité du signal, ce qui permet d’identifier rapidement la zone sous tension. 【Conception pratique pour une utilisation quotidienne】Son format compact de type stylo avec clip facilite le transport et l’utilisation sur le terrain. La lampe torche LED intégrée permet de travailler facilement dans des zones peu éclairées comme les tableaux électriques ou les caves, tandis que l’arrêt automatique après 5 minutes et l’indicateur de batterie garantissent une utilisation simple et fiable au quotidien. Spécifications Marque: KAIWEETS Source d'alimentation: Alimenté par batterie Couleur: ROUGE Dimensions de l'article L x l x H: 40 x 30 x 170 millimètres Tension de fonctionnement min.: 12 Volts Spécification respectée: CE, ETL, IEC 61010-1:2000-1 Température nominale supérieure: 50 Degrés Celsius Type de mesure: Voltmètre Tension de fonctionnement maximale: 220 Volts Nombre d'articles: 1 Source d’alimentation: Alimenté par batterie Tension de fonctionnement minimale: 12 Volts Dimensions de l’article: 40 x 30 x 170 millimètres Modèle: KTL01 Fabricant: KAIWEETS Pays d'origine du produit: Chine Composants inclus: manuel d'utilisation, piles, Détecteur de Tension Numéro de pièce fabricant: KTL01 Classement des meilleures ventes d'Amazon: 13381 en Bricolage (Voir les 100 premiers en Bricolage) 17 en Testeurs de tension ASIN: B0GHN5918G Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (345) 4,5 sur 5 étoiles Commentaires client",
+    "price": 15.22,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/testeur-de-tension-sans-contact-ncv-double-plage-12-1000v-70-1000v-ac-avec-ecran-lcd-indicateur-de-signal-alarme-sonore-et-lampe-led-3431017",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/UYCoE/3431017_1/re/1200x1200/qt/90/3431017_1.jpg",
+    "detected_at": "2026-10-12T12:44:07+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 15.22,
+        "observed_at": "2026-10-12T12:59:39.197550+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hazet 652 Démonte-pneus, Voir Illustration, 600mm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001CA10WY",
+    "image_url": "https://m.media-amazon.com/images/P/B001CA10WY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T12:43:26+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Bureau assis-debout électrique Devaise 120 x 60 cm - Noir (vendeur tiers)",
+    "description": "71,99€ - Amazon Bureau assis-debout électrique DEVAISE avec plateau 120 x 60 cm en finition noire intégrale, proposé à 71,99 € au lieu de 79,99 € sur Amazon. Conçu pour alterner facilement entre travail assis et debout au quotidien, ce modèle intègre un piétement en acier robuste et un système d'élévation motorisé fluide et silencieux (niveau sonore inférieur à 50 dB). Le réglage s'effectue via un panneau numérique avec affichage LED doté de 3 touches de mémoire programmable pour retrouver instantanément vos hauteurs préférées. Caractéristiques techniques : • Dimensions du plateau : 120 x 60 cm, épaisseur standard adaptée à la fixation d'un bras articulé pour écran PC. • Amplitude de réglage : hauteur ajustable en continu d'environ 72 cm à 118 cm pour convenir à la majorité des gabarits. • Moteur électrique & panneau de commande : réglage silencieux (< 50 dB), vitesse d'élévation fluide et 3 préréglages de hauteur mémorisables. • Structure robuste : cadre en acier renforcé avec pieds élargis assurant une bonne stabilité latérale même en position haute. • Accessoires inclus : crochets latéraux pratiques pour suspendre un casque audio ou une sacoche, et passe-câbles pour organiser le setup. • Sécurité : système de détection d'obstacle avec arrêt automatique lors de la montée ou de la descente. Livraison gratuite proposée sur Amazon. À propos de ce produit Plateau Monobloc Spacieux et Durable: Ce bureau assis debout 120x60 est équipé d’un plateau monobloc élégant et robuste, offrant une surface uniforme idéale pour installer ordinateur, écran et accessoires. Sa conception stable garantit un espace de travail ergonomique, que ce soit comme bureau gaming assis debout ou poste de télétravail moderne. Réglage Facile avec Boutons + 3 Niveaux: Grâce à son panneau intelligent, ce bureau réglable en hauteur permet d’ajuster la hauteur entre 72 et 120 cm par de simples boutons montée/descente et 3 niveaux prédéfinis. Ce bureau réglable s’adapte à vos besoins, facilitant la transition entre assis et debout pour une meilleure santé et productivité. 3 Modes de Mémoire Personnalisables: Ce bureau réglable en hauteur électrique dispose de 3 mémoires programmables pour enregistrer vos hauteurs préférées. Un seul bouton permet de retrouver immédiatement votre position idéale, sans perdre de temps. Parfait pour un usage partagé, il devient un bureau électrique pratique et ergonomique pour toute la famille. Moteur Silencieux et Fluide <50 dB: Le moteur puissant de ce bureau reglable en hauteur electrique assure des ajustements stables et fluides avec un niveau sonore inférieur à 50 décibels. Profitez d’un environnement calme et sans distractions, que ce soit en télétravail ou lors d’une session sur votre bureau gaming assis debout. Ergonomie et Polyvalence Quotidienne: Ce bureau électrique favorise une posture saine et réduit la fatigue liée au travail prolongé. Idéal pour la maison ou le bureau, il combine design ergonomique, robustesse et confort. Utilisez ce bureau réglable en hauteur comme espace de télétravail, station d’étude ou bureau assis debout 120x60 moderne et élégant. Commentaires client",
+    "price": 71.99,
+    "reference_price": 79.99,
+    "discount_percent": 10.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/bureau-assis-debout-electrique-devaise-120-x-60-cm-noir-3-memoires-3431016",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/M8Yt0/3431016_1/re/1200x1200/qt/90/3431016_1.jpg",
+    "detected_at": "2026-10-12T12:43:11+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 71.99,
+        "observed_at": "2026-10-12T12:59:39.197556+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LINDY Câble DisplayPort 1.2 de 5 m, Gold Line",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B075B783HB",
+    "image_url": "https://m.media-amazon.com/images/P/B075B783HB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T12:42:24+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Celeste sur Xbox Series X/S, One et PC (dématérialisé)",
+    "description": "4,74€ - Xbox Store Celeste sur Xbox séries et pc Description Aidez Madeline à survivre à ses démons intérieurs au mont Celeste, dans ce jeu de plateformes ultra relevé fait à la main, réalisé par les créateurs du classique TowerFall. • Une aventure solo portée par une histoire touchante, avec des personnages pleins de charme et toute l’émotion de la découverte de soi • Une énorme montagne avec plus de 700 écrans de défis ultra difficiles et de secrets sur plateformes • Chapitres Face B à débloquer, conçus pour les alpinistes les plus courageux • Finaliste de l’IGF pour son « Excellence en audio », avec plus de 2 heures de musique originale, un piano éblouissant et des rythmiques synthétisées accrocheuses • Tarte fournie Commandes simples et accessibles - il suffit de sauter, sprinter en l’air et grimper – mais toutes les couches à maîtriser font de chaque chute mortelle une leçon. Les renaissances rapides incitent à grimper pour découvrir les mystères de la montagne et à braver tous ses dangers. Ça y est, Madeline. Respire bien. Tu peux le faire.",
+    "price": 4.74,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/celeste-xbox-series-et-pc-dematerialise-3431015",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CDJRE/3431015_1/re/1200x1200/qt/90/3431015_1.jpg",
+    "detected_at": "2026-10-12T12:42:06+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 4.74,
+        "observed_at": "2026-10-12T12:59:39.197562+00:00"
+      }
+    ]
   },
   {
     "title": "100€ de remise sur un nouveau smartphone à partir de 500€ pour les 15 ans de Sosh",
@@ -178,7 +646,8 @@
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/113_3/re/1200x1200/qt/90/113_3.jpg",
     "detected_at": "2026-10-12T12:36:00+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Clé dynanométrique Ride + Go - au choix; pour vélo 2 à 24 Nm 10 embouts ou pour voiture 40 à 210 Nm Rallonge de 125 mm et douilles",
@@ -190,8 +659,14 @@
     "url": "https://www.dealabs.com/bons-plans/cle-dynanometrique-ride-go-au-choix-pour-velo-2-a-24-nm-10-embouts-ou-pour-voiture-40-a-210-nm-rallonge-de-125-mm-et-douilles-3431012",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/8uMru/3431012_1/re/1200x1200/qt/90/3431012_1.jpg",
     "detected_at": "2026-10-12T12:35:38+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-12T12:59:39.197568+00:00"
+      }
+    ]
   },
   {
     "title": "Protège Matelas Bébé P'tit Lit - 60x120 cm, Alèse Imperméable, Anti-Acariens, Bouclette 100% Coton, Absorbant et Silencieux",
@@ -204,7 +679,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1XuAl/3431011_1/re/1200x1200/qt/90/3431011_1.jpg",
     "detected_at": "2026-10-12T12:35:32+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T12:59:39.197578+00:00"
+      }
+    ]
   },
   {
     "title": "Abonnement Adobe Lightroom 1 an (Digital)",
@@ -216,8 +697,14 @@
     "url": "https://www.dealabs.com/bons-plans/abonnement-lightroom-1-an-digital-3431010",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Cvhp9/3431010_1/re/1200x1200/qt/90/3431010_1.jpg",
     "detected_at": "2026-10-12T12:33:50+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 68.59,
+        "observed_at": "2026-10-12T12:59:39.197584+00:00"
+      }
+    ]
   },
   {
     "title": "PC Portable 14\" Bvate - N4020, 8 Go RAM DDR4, Win 11, 256 Go SSD (vendeur tiers)",
@@ -230,7 +717,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/fC1RR/3431009_1/re/1200x1200/qt/90/3431009_1.jpg",
     "detected_at": "2026-10-12T12:33:03+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 249.99,
+        "observed_at": "2026-10-12T12:59:39.197592+00:00"
+      }
+    ]
   },
   {
     "title": "Appareil à Raclette Ambiano duo - 2 poêlons",
@@ -242,8 +735,14 @@
     "url": "https://www.dealabs.com/bons-plans/raclette-duo-3431008",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/p52Zj/3431008_1/re/1200x1200/qt/90/3431008_1.jpg",
     "detected_at": "2026-10-12T12:31:23+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T12:59:39.197598+00:00"
+      }
+    ]
   },
   {
     "title": "Gel Nettoyant Purifiant La Roche-Posay Effaclar (Gel Moussant) - 400 m, Eau Thermale, Peaux Grasses et Sensibles à Tendance Acnéique",
@@ -255,8 +754,14 @@
     "url": "https://www.dealabs.com/bons-plans/gel-nettoyant-purifiant-la-roche-posay-effaclar-gel-moussant-400-m-eau-thermale-peaux-grasses-et-sensibles-a-tendance-acneique-3431007",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mzZqV/3431007_1/re/1200x1200/qt/90/3431007_1.jpg",
     "detected_at": "2026-10-12T12:30:22+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.49,
+        "observed_at": "2026-10-12T12:59:39.197603+00:00"
+      }
+    ]
   },
   {
     "title": "Aspirateur Laveur sans fil Bissell CrossWave OmniForce - Aspire & Lave en Même Temps ou Mode Aspiration Uniquement",
@@ -269,7 +774,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ua6mD/3431006_1/re/1200x1200/qt/90/3431006_1.jpg",
     "detected_at": "2026-10-12T12:30:11+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 129.99,
+        "observed_at": "2026-10-12T12:59:39.197611+00:00"
+      }
+    ]
   },
   {
     "title": "Chaîne d'Arrimage & Remorquage Vevor G80 - 6m x 8mm, jusqu'à 2,2t",
@@ -282,7 +793,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/H7arY/3431005_1/re/1200x1200/qt/90/3431005_1.jpg",
     "detected_at": "2026-10-12T12:29:30+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.66,
+        "observed_at": "2026-10-12T12:59:39.197678+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 6 gobelets Duralex Picardie - Verre trempé",
@@ -294,8 +811,14 @@
     "url": "https://www.dealabs.com/bons-plans/lot-de-6-gobelets-duralex-picardie-verre-trempe-3431004",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pOgQd/3431004_1/re/1200x1200/qt/90/3431004_1.jpg",
     "detected_at": "2026-10-12T12:29:14+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1.25,
+        "observed_at": "2026-10-12T12:59:39.197684+00:00"
+      }
+    ]
   },
   {
     "title": "Calendrier de l’Avent Nuxe - 915ml",
@@ -307,8 +830,14 @@
     "url": "https://www.dealabs.com/bons-plans/calendrier-de-lavent-nuxe-3431003",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lQL6F/3431003_1/re/1200x1200/qt/90/3431003_1.jpg",
     "detected_at": "2026-10-12T12:28:14+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 81.64,
+        "observed_at": "2026-10-12T12:59:39.197690+00:00"
+      }
+    ]
   },
   {
     "title": "Pot d'Apprentissage Ingenuity My Size Potty Pro - Son de Chasse d'Eau Réaliste (click & collect)",
@@ -321,7 +850,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/YRJZU/3431002_1/re/1200x1200/qt/90/3431002_1.jpg",
     "detected_at": "2026-10-12T12:27:42+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-12T12:59:39.197696+00:00"
+      }
+    ]
   },
   {
     "title": "Ecran 16\" Arzopa Z1RC - IPS 2.5K, 2560x1600p, Affichage 8 bits/350 nits (arzopa.com)",
@@ -334,7 +869,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/5cPZw/3431001_1/re/1200x1200/qt/90/3431001_1.jpg",
     "detected_at": "2026-10-12T12:25:49+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 104.99,
+        "observed_at": "2026-10-12T12:59:39.197702+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 3 poêles Arthur Martin AM1410 - Acier inoxydable, 20, 24 et 26 cm, Poignée amovible, Tous feux dont induction",
@@ -347,7 +888,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/GPjQq/3431000_1/re/1200x1200/qt/90/3431000_1.jpg",
     "detected_at": "2026-10-12T12:25:21+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 34.99,
+        "observed_at": "2026-10-12T12:59:39.197707+00:00"
+      }
+    ]
   },
   {
     "title": "Mini PC Apple Mac mini - Puce M6, 16 Go RAM, SSD 256 Go",
@@ -360,7 +907,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/AnPfa/3430999_1/re/1200x1200/qt/90/3430999_1.jpg",
     "detected_at": "2026-10-12T12:24:03+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 959.0,
+        "observed_at": "2026-10-12T12:59:39.197713+00:00"
+      }
+    ]
   },
   {
     "title": "Ski alpin avec fixations Wedze BOOST 500 vert",
@@ -372,8 +925,14 @@
     "url": "https://www.dealabs.com/bons-plans/ski-alpin-avec-fixations-wedze-boost-500-vert-3430998",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/YBu7c/3430998_1/re/1200x1200/qt/90/3430998_1.jpg",
     "detected_at": "2026-10-12T12:22:59+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 249.99,
+        "observed_at": "2026-10-12T12:59:39.197720+00:00"
+      }
+    ]
   },
   {
     "title": "Peinture Ripolin Intérieure Multi-Supports - Satin, 0,5L, Poivre de Sichuan",
@@ -385,8 +944,14 @@
     "url": "https://www.dealabs.com/bons-plans/peinture-ripolin-interieure-multi-supports-satin-05l-poivre-de-sichuan-3430997",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/fMZb0/3430997_1/re/1200x1200/qt/90/3430997_1.jpg",
     "detected_at": "2026-10-12T12:21:23+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.39,
+        "observed_at": "2026-10-12T12:59:39.197726+00:00"
+      }
+    ]
   },
   {
     "title": "T-shirt manches longues en laine mérinos Simond Merino Resist bleu - Tailles de S à 2XL",
@@ -398,8 +963,14 @@
     "url": "https://www.dealabs.com/bons-plans/t-shirt-manches-longues-en-laine-merinos-simond-merino-resist-bleu-tailles-s-a-2xl-3430996",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/o8rAz/3430996_1/re/1200x1200/qt/90/3430996_1.jpg",
     "detected_at": "2026-10-12T12:20:04+00:00",
-    "category": "Électroménager",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-12T12:59:39.197735+00:00"
+      }
+    ]
   },
   {
     "title": "Coffret Blu-Ray Denis Villeneuve : Dune + Prisoners + Sicario",
@@ -411,8 +982,14 @@
     "url": "https://www.dealabs.com/bons-plans/coffret-blu-ray-denis-villeneuve-dune-prisoners-sicario-3430994",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/7m5m5/3430994_1/re/1200x1200/qt/90/3430994_1.jpg",
     "detected_at": "2026-10-12T12:19:42+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 17.96,
+        "observed_at": "2026-10-12T12:59:39.197741+00:00"
+      }
+    ]
   },
   {
     "title": "[Via App] 20% de réduction sur une sélection d'articles enfants",
@@ -425,7 +1002,8 @@
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/83_4/re/1200x1200/qt/90/83_4.jpg",
     "detected_at": "2026-10-12T12:16:16+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Lego Art 31218 - Les Cerisiers en Fleurs",
@@ -437,8 +1015,14 @@
     "url": "https://www.dealabs.com/bons-plans/lego-art-les-cerisiers-en-fleurs-31218-1892-pieces-3430991",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/KY3tX/3430991_1/re/1200x1200/qt/90/3430991_1.jpg",
     "detected_at": "2026-10-12T12:15:16+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 83.29,
+        "observed_at": "2026-10-12T12:59:39.197746+00:00"
+      }
+    ]
   },
   {
     "title": "Oehlbach Speaker Wire SP-15 - ...eur à Bobine - 20m Transparent",
@@ -450,8 +1034,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B000KZCUR6",
     "image_url": "https://m.media-amazon.com/images/P/B000KZCUR6.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T12:12:35+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Splitter HDMI 18G, 2 Ports",
@@ -463,8 +1048,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B0869LWXXZ",
     "image_url": "https://m.media-amazon.com/images/P/B0869LWXXZ.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T12:11:53+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Chauvin Arnoux P01120526B AmpF...ue de poche multimètre, 450 mm",
@@ -476,8 +1062,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B00FOQ0H3U",
     "image_url": "https://m.media-amazon.com/images/P/B00FOQ0H3U.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T12:11:53+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Meuble à roulettes HaluPeit - Caisson à 5 tiroirs - 40 x 40 x 70 cm - Blanc",
@@ -490,7 +1077,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1R2Ji/3430989_1/re/1200x1200/qt/90/3430989_1.jpg",
     "detected_at": "2026-10-12T12:10:42+00:00",
     "category": "Maison",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 45.99,
+        "observed_at": "2026-10-12T12:59:39.197754+00:00"
+      }
+    ]
   },
   {
     "title": "LEGO Speed Champions 77249 - Voiture F1 Williams Racing FW46",
@@ -503,7 +1096,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/XJV4K/3430988_1/re/1200x1200/qt/90/3430988_1.jpg",
     "detected_at": "2026-10-12T12:09:59+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-12T12:59:39.197759+00:00"
+      }
+    ]
   },
   {
     "title": "Vol direct Aller/Retour Paris (BVA) Fes (FEZ) Maroc, Du 2 Novembre au 10 Novembre (Bagage 40x30x20cm)",
@@ -516,7 +1115,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/CGCGM/3430987_1/re/1200x1200/qt/90/3430987_1.jpg",
     "detected_at": "2026-10-12T12:06:47+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 37.98,
+        "observed_at": "2026-10-12T12:59:39.197765+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de lunettes de soleil Carrera pour homme en promotion - Modèles classiques, polarisés et verres teintés",
@@ -529,7 +1134,8 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jnZWk/3430984_1/re/1200x1200/qt/90/3430984_1.jpg",
     "detected_at": "2026-10-12T12:02:56+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Canapé d'angle Compressé Joyic - 1,75 P x 2,72 L x 0,60 H, Gris Côtelé, Modulable",
@@ -541,8 +1147,14 @@
     "url": "https://www.dealabs.com/bons-plans/canape-dangle-compresse-joyic-175-p-x-272-l-x-060-h-gris-cotele-modulable-3430983",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ujJVp/3430983_1/re/1200x1200/qt/90/3430983_1.jpg",
     "detected_at": "2026-10-12T12:02:31+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 299.0,
+        "observed_at": "2026-10-12T12:59:39.197770+00:00"
+      }
+    ]
   },
   {
     "title": "Gedore Clé à tube double massi...onale 14 x 15 mm – 626 14 x 15",
@@ -554,8 +1166,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B000UYWUW2",
     "image_url": "https://m.media-amazon.com/images/P/B000UYWUW2.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T11:59:59+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Bricolage",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Tondeuse multifonction 16-en-1 Philips Multigroom Series 7000 (MG7931/15)",
@@ -567,8 +1180,14 @@
     "url": "https://www.dealabs.com/bons-plans/tondeuse-multifonction-16-en-1-philips-multigroom-series-7000-mg793115-3430982",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Sn7V2/3430982_1/re/1200x1200/qt/90/3430982_1.jpg",
     "detected_at": "2026-10-12T11:57:44+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 55.99,
+        "observed_at": "2026-10-12T12:59:39.197776+00:00"
+      }
+    ]
   },
   {
     "title": "Vol direct Aller/Retour Paris (BVA) Marrakech (RAK) Maroc, Du 9 Décembre au 16 Décembre (Bagage 40x30x20cm)",
@@ -581,7 +1200,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/vJGn1/3430981_1/re/1200x1200/qt/90/3430981_1.jpg",
     "detected_at": "2026-10-12T11:56:51+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 42.0,
+        "observed_at": "2026-10-12T12:59:39.197782+00:00"
+      }
+    ]
   },
   {
     "title": "5 Câbles Ethernet RJ45 - 3 m, Cat 6",
@@ -594,7 +1219,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/y0Qkj/3430978_1/re/1200x1200/qt/90/3430978_1.jpg",
     "detected_at": "2026-10-12T11:54:36+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.61,
+        "observed_at": "2026-10-12T12:59:39.197788+00:00"
+      }
+    ]
   },
   {
     "title": "Chaussures de sécurité Garsport Monza Mid S3S en Cuir avec semelle Michelin - T. 36-39",
@@ -607,7 +1238,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lIWLT/3430980_1/re/1200x1200/qt/90/3430980_1.jpg",
     "detected_at": "2026-10-12T11:54:35+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 20.16,
+        "observed_at": "2026-10-12T12:59:39.197794+00:00"
+      }
+    ]
   },
   {
     "title": "Sac à Dos Eastpak Powr Pak'R - 40x25x18cm, Coloris Bleu",
@@ -619,8 +1256,14 @@
     "url": "https://www.dealabs.com/bons-plans/sac-a-dos-eastpak-powr-pakr-coloris-bleu-3430979",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/R47QS/3430979_1/re/1200x1200/qt/90/3430979_1.jpg",
     "detected_at": "2026-10-12T11:53:52+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T12:59:39.197799+00:00"
+      }
+    ]
   },
   {
     "title": "Xilence Performance C Série | ...38 | 3Pin | 92 mm | Rouge/Noir",
@@ -633,7 +1276,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B01L6PMFAU.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T11:51:10+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Lego Pokémon 72168 Rayquaza",
@@ -646,7 +1290,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/16i3N/3430974_1/re/1200x1200/qt/90/3430974_1.jpg",
     "detected_at": "2026-10-12T11:48:55+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 116.99,
+        "observed_at": "2026-10-12T12:59:39.197805+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de Vols à partir de 23,35€ en Novembre, plusieurs aéroports et destinations",
@@ -659,7 +1309,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/BWhll/3430977_1/re/1200x1200/qt/90/3430977_1.jpg",
     "detected_at": "2026-10-12T11:48:49+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.35,
+        "observed_at": "2026-10-12T12:59:39.197811+00:00"
+      }
+    ]
   },
   {
     "title": "Alpen 92100700100 Foret hélicoïdal, Gris, 7,0mm",
@@ -672,7 +1328,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B00MDIJ3W8.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T11:45:13+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "MAUL Lampe de bureau MAULstudy rouge E27 articulée métal",
@@ -685,7 +1342,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0CYQB795Z.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T11:44:33+00:00",
     "category": "Maison",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Mini PC GMKtec - AMD Ryzen 5 3500U, 16GO/512GO, WiFi 5, W11 Pro (Vendeur tiers)",
@@ -698,7 +1356,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/PGRhZ/3430972_1/re/1200x1200/qt/90/3430972_1.jpg",
     "detected_at": "2026-10-12T11:40:49+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 287.84,
+        "observed_at": "2026-10-12T12:59:39.197820+00:00"
+      }
+    ]
   },
   {
     "title": "Vélo de Route Nakamura Century Team - Tailles S, M ou L",
@@ -711,7 +1375,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/qxvbA/3430971_1/re/1200x1200/qt/90/3430971_1.jpg",
     "detected_at": "2026-10-12T11:40:45+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1999.99,
+        "observed_at": "2026-10-12T12:59:39.197826+00:00"
+      }
+    ]
   },
   {
     "title": "Vélo Gravel Nakamura Allroad Team (Carbon + SRAM APEX AXS) - Plusieurs tailles disponibles",
@@ -724,7 +1394,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/JWppt/3430967_1/re/1200x1200/qt/90/3430967_1.jpg",
     "detected_at": "2026-10-12T11:38:31+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1899.99,
+        "observed_at": "2026-10-12T12:59:39.197832+00:00"
+      }
+    ]
   },
   {
     "title": "Ventilateur de Cou Portable Rechargeable USB Bleu",
@@ -736,8 +1412,14 @@
     "url": "https://www.dealabs.com/bons-plans/ventilateur-de-cou-portable-rechargeable-usb-bleu-3430966",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/I7d6x/3430966_1/re/1200x1200/qt/90/3430966_1.jpg",
     "detected_at": "2026-10-12T11:37:28+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T12:59:39.197840+00:00"
+      }
+    ]
   },
   {
     "title": "Congélateur armoire Hisense FT3K310SAIE - FreshFit, 312 L, Total No Frost, Inox",
@@ -750,7 +1432,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Ovh2E/3430964_1/re/1200x1200/qt/90/3430964_1.jpg",
     "detected_at": "2026-10-12T11:37:17+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 579.99,
+        "observed_at": "2026-10-12T12:59:39.197846+00:00"
+      }
+    ]
   },
   {
     "title": "Chaussures de Running New Balance Fresh Foam X 880v13 - Tailles 35 à 37.5",
@@ -762,8 +1450,14 @@
     "url": "https://www.dealabs.com/bons-plans/chaussures-de-running-new-balance-fresh-foam-x-880v13-tailles-35-a-375-3430965",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/YaFxy/3430965_1/re/1200x1200/qt/90/3430965_1.jpg",
     "detected_at": "2026-10-12T11:36:37+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 45.37,
+        "observed_at": "2026-10-12T12:59:39.197855+00:00"
+      }
+    ]
   },
   {
     "title": "[Client Sosh] Smartphone 6,9\" Apple iPhone 18 Pro Max - RAM 12 Go, 256 Go (Via 100€ d'ODR sur Facture)",
@@ -776,7 +1470,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/AqJXc/3430962_1/re/1200x1200/qt/90/3430962_1.jpg",
     "detected_at": "2026-10-12T11:32:36+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1429.0,
+        "observed_at": "2026-10-12T12:59:39.197860+00:00"
+      }
+    ]
   },
   {
     "title": "Schneider 151276 XB 1 pochette...der et 1 stylo bille Rave Noir",
@@ -789,7 +1489,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B00KVNMKWW.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T11:30:43+00:00",
     "category": "Bureau & papeterie",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Vélo de Route Lapierre Xelius DRS 9.0 - Gris, Tailles XS, M ou L",
@@ -802,7 +1503,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/XV17j/3430963_1/re/1200x1200/qt/90/3430963_1.jpg",
     "detected_at": "2026-10-12T11:28:56+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 3999.99,
+        "observed_at": "2026-10-12T12:59:39.197866+00:00"
+      }
+    ]
   },
   {
     "title": "[Clients Sosh] Smartphone 6,3\" Apple iPhone 18 Pro - RAM 12 Go, 256 Go (Via 100€ d'ODR sur Facture)",
@@ -815,7 +1522,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/q8i3m/3430957_1/re/1200x1200/qt/90/3430957_1.jpg",
     "detected_at": "2026-10-12T11:28:38+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1279.0,
+        "observed_at": "2026-10-12T12:59:39.197874+00:00"
+      }
+    ]
   },
   {
     "title": "Watercooling PC AIO 240 mm MSI MAG CoreLiquid A13 - Blanc",
@@ -828,7 +1541,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Z4q3n/3430961_1/re/1200x1200/qt/90/3430961_1.jpg",
     "detected_at": "2026-10-12T11:28:30+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 53.96,
+        "observed_at": "2026-10-12T12:59:39.197880+00:00"
+      }
+    ]
   },
   {
     "title": "Lot 10 Paires de Chaussettes de Sport Everlast - Blanc, Taille 39-42",
@@ -841,7 +1560,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/zd0xl/3430959_1/re/1200x1200/qt/90/3430959_1.jpg",
     "detected_at": "2026-10-12T11:26:16+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.03,
+        "observed_at": "2026-10-12T12:59:39.197887+00:00"
+      }
+    ]
   },
   {
     "title": "Kit Solaire Plug & Play bifacial 1000Wc + Prise intelligente",
@@ -853,8 +1578,14 @@
     "url": "https://www.dealabs.com/bons-plans/kit-solaire-plug-and-play-3430958",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/DI5xq/3430958_1/re/1200x1200/qt/90/3430958_1.jpg",
     "detected_at": "2026-10-12T11:24:16+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 323.15,
+        "observed_at": "2026-10-12T12:59:39.197893+00:00"
+      }
+    ]
   },
   {
     "title": "Thermaltake Toughpower GF2 ARG...TT Premium Edition PC-Netzteil",
@@ -867,7 +1598,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B08V9CMB7Q.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T11:21:03+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Coupe-Bordures sans fil 36V Black & Decker BCSTE636L1-QW - Ø 33 cm, Tête pivotante, 1 batterie 36V 2,5Ah, Chargeur(Via ODR de 30€)",
@@ -880,7 +1612,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/6uIfx/3430955_1/re/1200x1200/qt/90/3430955_1.jpg",
     "detected_at": "2026-10-12T11:19:31+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-12T12:59:39.197900+00:00"
+      }
+    ]
   },
   {
     "title": "Écran à Selfie 3,5\" Insta360 Snap - Plug & Play, Écran Tactile, Fixation Magnétique, Gris Clair",
@@ -893,7 +1631,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/6GvdL/3430951_1/re/1200x1200/qt/90/3430951_1.jpg",
     "detected_at": "2026-10-12T11:19:31+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 72.0,
+        "observed_at": "2026-10-12T12:59:39.197907+00:00"
+      }
+    ]
   },
   {
     "title": "Kit Book Nook Twilight Library avec led",
@@ -905,8 +1649,14 @@
     "url": "https://www.dealabs.com/bons-plans/kit-book-nook-twilight-library-avec-led-3430954",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Xisk2/3430954_1/re/1200x1200/qt/90/3430954_1.jpg",
     "detected_at": "2026-10-12T11:18:37+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 24.5,
+        "observed_at": "2026-10-12T12:59:39.197916+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de Cuisine - 7 Pièces, en Acier Inoxydable, 3 Poêles & Protection 20, 24 & 26cm, avec Poignée",
@@ -919,7 +1669,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/kY5GK/3430953_1/re/1200x1200/qt/90/3430953_1.jpg",
     "detected_at": "2026-10-12T11:18:23+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T12:59:39.197922+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 20 Sachets Infusion du Monde Lipton Escapade Grand Sud",
@@ -931,8 +1687,14 @@
     "url": "https://www.dealabs.com/bons-plans/20-sachets-infusion-du-monde-escapade-grand-sud-lipton-3430949",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/bCZeT/3430949_1/re/1200x1200/qt/90/3430949_1.jpg",
     "detected_at": "2026-10-12T11:15:22+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 0.97,
+        "observed_at": "2026-10-12T12:59:39.197932+00:00"
+      }
+    ]
   },
   {
     "title": "20% de réduction dès 59€ d'achat sur une sélection Black & Decker (Cumulable avec ODR)",
@@ -945,7 +1707,13 @@
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/1_5/re/1200x1200/qt/90/1_5.jpg",
     "detected_at": "2026-10-12T11:14:38+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.0,
+        "observed_at": "2026-10-12T12:59:39.197938+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 4 Trackers Ugreen FineTrack Mini 2 - Alarme 110dB, Réseau Apple Find My iOS, Autonomie 5-7 Ans, Fluorescent, IP68 (Vendeur Tiers)",
@@ -957,8 +1725,14 @@
     "url": "https://www.dealabs.com/bons-plans/lot-de-4-trackers-ugreen-finetrack-mini-2-alarme-110-db-reseau-apple-find-my-ios-autonomie-5-7-ans-fluorescent-etanche-ip68-3430948",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ToPAH/3430948_1/re/1200x1200/qt/90/3430948_1.jpg",
     "detected_at": "2026-10-12T11:13:25+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 26.16,
+        "observed_at": "2026-10-12T12:59:39.197944+00:00"
+      }
+    ]
   },
   {
     "title": "Balai plat Vileda Ultramax Turbo XL - Kit avec Balai Plat, Serpillière Microfibre XL et Seau Essoreur à Pédale à Bec Verseur",
@@ -970,8 +1744,14 @@
     "url": "https://www.dealabs.com/bons-plans/vileda-balai-plat-ultramax-turbo-xl-kit-avec-balai-plat-serpilliere-microfibre-xl-et-seau-essoreur-a-pedale-a-bec-verseur-3430946",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/NZ0xx/3430946_1/re/1200x1200/qt/90/3430946_1.jpg",
     "detected_at": "2026-10-12T11:08:32+00:00",
-    "category": "Maison",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 35.99,
+        "observed_at": "2026-10-12T12:59:39.197950+00:00"
+      }
+    ]
   },
   {
     "title": "Robot Aspirateur Laveur Roborock Q10 S5 Set - 10000 Pa",
@@ -984,7 +1764,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Q0ggV/3430947_1/re/1200x1200/qt/90/3430947_1.jpg",
     "detected_at": "2026-10-12T11:08:15+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 109.99,
+        "observed_at": "2026-10-12T12:59:39.197956+00:00"
+      }
+    ]
   },
   {
     "title": "Pooboo C966S Power Tower Dip Station Pull Up Bar for Fitness Home Gym Workout",
@@ -996,8 +1782,14 @@
     "url": "https://www.dealabs.com/bons-plans/pooboo-c966s-power-tower-dip-station-pull-up-bar-for-fitness-home-gym-workout-3430945",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jojNo/3430945_1/re/1200x1200/qt/90/3430945_1.jpg",
     "detected_at": "2026-10-12T11:02:30+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 112.99,
+        "observed_at": "2026-10-12T12:59:39.197962+00:00"
+      }
+    ]
   },
   {
     "title": "Four Encastrable AquaClean Série 300",
@@ -1009,8 +1801,14 @@
     "url": "https://www.dealabs.com/bons-plans/four-encastrable-aquaclean-serie-300-3430944",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/cN84n/3430944_1/re/1200x1200/qt/90/3430944_1.jpg",
     "detected_at": "2026-10-12T11:02:25+00:00",
-    "category": "Électroménager",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 329.99,
+        "observed_at": "2026-10-12T12:59:39.197969+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de Figurines Dinosaures Schleich en promotion - Le Mans (72)",
@@ -1023,7 +1821,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/rJaet/3430938_1/re/1200x1200/qt/90/3430938_1.jpg",
     "detected_at": "2026-10-12T11:02:02+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-12T12:59:39.197975+00:00"
+      }
+    ]
   },
   {
     "title": "Robot multifonction KENWOOD FDP31.170GY Multipro compact170GY",
@@ -1036,7 +1840,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/fad97/3430943_1/re/1200x1200/qt/90/3430943_1.jpg",
     "detected_at": "2026-10-12T10:56:48+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.99,
+        "observed_at": "2026-10-12T12:59:39.197983+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection d'offres McDonald's - Vernon (27)",
@@ -1049,7 +1859,8 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/soLIH/3430942_1/re/1200x1200/qt/90/3430942_1.jpg",
     "detected_at": "2026-10-12T10:54:34+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Sweat en polaire homme Quiksilver Apparel Outer Layer - Taille L",
@@ -1061,8 +1872,14 @@
     "url": "https://www.dealabs.com/bons-plans/quiksilver-apparelouter-layer-homme-eqypf03072-3430941",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/iSfAp/3430941_1/re/1200x1200/qt/90/3430941_1.jpg",
     "detected_at": "2026-10-12T10:54:24+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.21,
+        "observed_at": "2026-10-12T12:59:39.197989+00:00"
+      }
+    ]
   },
   {
     "title": "[Client Sosh] Smartphone 6,3\" Google Pixel 11 Pro - RAM 6 Go, 256 Go (Via 150€ d'ODR Google & 200€ de Bonus Reprise)",
@@ -1075,7 +1892,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/gk2jg/3430004_1/re/1200x1200/qt/90/3430004_1.jpg",
     "detected_at": "2026-10-12T10:53:28+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 699.0,
+        "observed_at": "2026-10-12T12:59:39.197995+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de 2 jeux d'occasion pour 10€ (PS4, XBOX One, 3DS...)",
@@ -1088,7 +1911,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/nAiE2/3430940_1/re/1200x1200/qt/90/3430940_1.jpg",
     "detected_at": "2026-10-12T10:51:50+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.0,
+        "observed_at": "2026-10-12T12:59:39.198003+00:00"
+      }
+    ]
   },
   {
     "title": "Support pour ordi Portable avec Station d'accueil Benfei - USB-C, 6-en-1, HDMI 4K 60 Hz, Ethernet Gigabit, 100 W (vendeur tiers)",
@@ -1101,7 +1930,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/0DMOR/3430937_1/re/1200x1200/qt/90/3430937_1.jpg",
     "detected_at": "2026-10-12T10:51:07+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 35.56,
+        "observed_at": "2026-10-12T12:59:39.198008+00:00"
+      }
+    ]
   },
   {
     "title": "Chariot de cuisine et de service HaluPeit - avec roulettes, Îlot avec plan de travail, tiroirs et porte-bouteilles, Blanc",
@@ -1113,8 +1948,14 @@
     "url": "https://www.dealabs.com/bons-plans/halupeit-chariot-de-cuisine-et-de-service-avec-roulettes-ilot-avec-plan-de-travail-meuble-avec-tiroirs-et-porte-bouteilles-blanc-3430939",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/RHAWe/3430939_1/re/1200x1200/qt/90/3430939_1.jpg",
     "detected_at": "2026-10-12T10:50:43+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 61.99,
+        "observed_at": "2026-10-12T12:59:39.198014+00:00"
+      }
+    ]
   },
   {
     "title": "Gel douche Bioderma - 1L (via 2,39€ en Ticket E.Leclerc)",
@@ -1127,7 +1968,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/9JLe1/3430936_1/re/1200x1200/qt/90/3430936_1.jpg",
     "detected_at": "2026-10-12T10:47:23+00:00",
     "category": "Beauté & santé",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.59,
+        "observed_at": "2026-10-12T12:59:39.198021+00:00"
+      }
+    ]
   },
   {
     "title": "Switch HDMI KVM Ugreen - 2 Entrées, 2 Sorties, 8K, 60Hz, Double Affichage, Commutateur KVM avec 4 Ports USB 3A1C 5Gbps (Vendeur Tiers)",
@@ -1140,7 +1987,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/oPofW/3430935_1/re/1200x1200/qt/90/3430935_1.jpg",
     "detected_at": "2026-10-12T10:45:57+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-12T12:59:39.198030+00:00"
+      }
+    ]
   },
   {
     "title": "Coupe-Vent Brandit Teddy - Homme, Noir 100% Polyester, taille L",
@@ -1153,7 +2006,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/6l3iA/3430934_1/re/1200x1200/qt/90/3430934_1.jpg",
     "detected_at": "2026-10-12T10:43:21+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.71,
+        "observed_at": "2026-10-12T12:59:39.198036+00:00"
+      }
+    ]
   },
   {
     "title": "Mitigeur monocommande de Cuisine Grohe",
@@ -1165,8 +2024,14 @@
     "url": "https://www.dealabs.com/bons-plans/mitigeur-monocommande-de-cuisine-grohe-via-30568000-3430932",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/tGBOw/3430932_1/re/1200x1200/qt/90/3430932_1.jpg",
     "detected_at": "2026-10-12T10:37:31+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.95,
+        "observed_at": "2026-10-12T12:59:39.198042+00:00"
+      }
+    ]
   },
   {
     "title": "Parka homme Helly Hansen Reine Parka - Imperméable, isolante, avec capuche et fausse fourrure, vert ou bleu marine, Du S au XXL",
@@ -1179,7 +2044,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/qCDKE/3430920_1/re/1200x1200/qt/90/3430920_1.jpg",
     "detected_at": "2026-10-12T10:32:41+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 192.0,
+        "observed_at": "2026-10-12T12:59:39.198062+00:00"
+      }
+    ]
   },
   {
     "title": "Imprimante Epson Ecotank ET-8500 Blanc (Via ODR de 60€)",
@@ -1191,8 +2062,14 @@
     "url": "https://www.dealabs.com/bons-plans/epson-ecotank-et-8500-blanc-3430931",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/8pea2/3430931_1/re/1200x1200/qt/90/3430931_1.jpg",
     "detected_at": "2026-10-12T10:29:43+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 435.99,
+        "observed_at": "2026-10-12T12:59:39.198068+00:00"
+      }
+    ]
   },
   {
     "title": "Aim Like a Cat sur PC (Dématérialisé)",
@@ -1205,7 +2082,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lZaXD/3430930_1/re/1200x1200/qt/90/3430930_1.jpg",
     "detected_at": "2026-10-12T10:29:27+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 4.89,
+        "observed_at": "2026-10-12T12:59:39.198075+00:00"
+      }
+    ]
   },
   {
     "title": "Assortiment de chocolats noir Chevaliers d'Argouges - Lait, blanc, Coffret cadeau prestige, 300g",
@@ -1218,7 +2101,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/H3UcH/3430928_1/re/1200x1200/qt/90/3430928_1.jpg",
     "detected_at": "2026-10-12T10:28:37+00:00",
     "category": "Alimentation & boissons",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.74,
+        "observed_at": "2026-10-12T12:59:39.198083+00:00"
+      }
+    ]
   },
   {
     "title": "Prise Chargeur Ugreen Nexode - 100W, Quadruple USB C, Charge Rapide GaNInfinity (vendeur tiers)",
@@ -1231,7 +2120,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/cmApc/3430927_1/re/1200x1200/qt/90/3430927_1.jpg",
     "detected_at": "2026-10-12T10:28:05+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 37.96,
+        "observed_at": "2026-10-12T12:59:39.198092+00:00"
+      }
+    ]
   },
   {
     "title": "Appareil à Raclette Tefal Richesmonts RE12R810 - 3-en-1 : Raclette, Plancha & Crêpière, 6 Personnes (Sélection de magasins)",
@@ -1243,8 +2138,14 @@
     "url": "https://www.dealabs.com/bons-plans/appareil-a-raclette-tefal-richesmonts-re12r810-3-en-1-raclette-plancha-crepiere-6-personnes-selection-de-magasins-3430926",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/l6pJ1/3430926_1/re/1200x1200/qt/90/3430926_1.jpg",
     "detected_at": "2026-10-12T10:24:09+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T12:59:39.198100+00:00"
+      }
+    ]
   },
   {
     "title": "Buffet Chauffe Plats 4,2 litres",
@@ -1257,7 +2158,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Y2ELL/3430925_1/re/1200x1200/qt/90/3430925_1.jpg",
     "detected_at": "2026-10-12T10:23:05+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 33.99,
+        "observed_at": "2026-10-12T12:59:39.198106+00:00"
+      }
+    ]
   },
   {
     "title": "Ruban adhésif d'emballage TCX",
@@ -1270,7 +2177,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jCOL7/3430924_1/re/1200x1200/qt/90/3430924_1.jpg",
     "detected_at": "2026-10-12T10:22:06+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 0.59,
+        "observed_at": "2026-10-12T12:59:39.198112+00:00"
+      }
+    ]
   },
   {
     "title": "Double album vinyle Alonzo – 100%, 2 disques, édition standard",
@@ -1282,8 +2195,14 @@
     "url": "https://www.dealabs.com/bons-plans/double-album-vinyle-alonzo-100-2-disques-edition-standard-3430923",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/FM0zX/3430923_1/re/1200x1200/qt/90/3430923_1.jpg",
     "detected_at": "2026-10-12T10:21:49+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-12T12:59:39.198118+00:00"
+      }
+    ]
   },
   {
     "title": "Table enfant sweeek Caroline avec plateau en acacia et 2 bancs",
@@ -1296,7 +2215,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/HV9W8/3430922_1/re/1200x1200/qt/90/3430922_1.jpg",
     "detected_at": "2026-10-12T10:21:04+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 51.29,
+        "observed_at": "2026-10-12T12:59:39.198125+00:00"
+      }
+    ]
   },
   {
     "title": "Vinyle 2LP Pierpoljak - Je Fais C'Que J'Veux",
@@ -1309,7 +2234,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/JGiGo/3430921_1/re/1200x1200/qt/90/3430921_1.jpg",
     "detected_at": "2026-10-12T10:19:48+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T12:59:39.198130+00:00"
+      }
+    ]
   },
   {
     "title": "Philips Hue White and Colour A...e Homekit, nouvelle génération",
@@ -1322,7 +2253,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0FJY174B3.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T10:17:44+00:00",
     "category": "Maison",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Scie circulaire filaire Bosch PKS 66-2AF 0603502004 – 1600 W, coupe 66 mm, rail de guidage et récupérateur de poussière",
@@ -1335,7 +2267,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/L0HQj/3430919_1/re/1200x1200/qt/90/3430919_1.jpg",
     "detected_at": "2026-10-12T10:15:02+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 109.9,
+        "observed_at": "2026-10-12T12:59:39.198136+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de Canne à Pêche en promotion pour le surfcasting. Ex : Caperlan symbios light - 500 390 80-150gr",
@@ -1348,7 +2286,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/HsEEh/3430918_1/re/1200x1200/qt/90/3430918_1.jpg",
     "detected_at": "2026-10-12T10:14:16+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 55.99,
+        "observed_at": "2026-10-12T12:59:39.198142+00:00"
+      }
+    ]
   },
   {
     "title": "Détachant en poudre Vanish Oxi Action sans javel, Pot de 480 g - Niort (79)",
@@ -1361,7 +2305,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pEONH/3430917_1/re/1200x1200/qt/90/3430917_1.jpg",
     "detected_at": "2026-10-12T10:12:19+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 3.4,
+        "observed_at": "2026-10-12T12:59:39.198149+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 7 bobines 1KG de filament eSUN ePLA-Basic 1,75 mm",
@@ -1374,7 +2324,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/3m2TN/3430916_1/re/1200x1200/qt/90/3430916_1.jpg",
     "detected_at": "2026-10-12T10:10:49+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 48.94,
+        "observed_at": "2026-10-12T12:59:39.198155+00:00"
+      }
+    ]
   },
   {
     "title": "Tondeuse multifonctions Rowenta TN9118F0 – Autonomie 120 min, charge rapide 1 h 30, tête étanche",
@@ -1386,8 +2342,14 @@
     "url": "https://www.dealabs.com/bons-plans/tondeuse-multifonctions-rowenta-tn9118f0-autonomie-120-min-charge-rapide-1-h-30-tete-etanche-3430915",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/nBYoM/3430915_1/re/1200x1200/qt/90/3430915_1.jpg",
     "detected_at": "2026-10-12T10:09:43+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 38.49,
+        "observed_at": "2026-10-12T12:59:39.198161+00:00"
+      }
+    ]
   },
   {
     "title": "Jeu de Société Gigamic Line-It - 2 à 5 Joueurs, Dès 8 Ans, 20 min",
@@ -1399,8 +2361,14 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-gigamic-line-it-2-a-5-joueurs-des-8-ans-20-min-3430914",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/l9ztp/3430914_1/re/1200x1200/qt/90/3430914_1.jpg",
     "detected_at": "2026-10-12T10:08:10+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.73,
+        "observed_at": "2026-10-12T12:59:39.198166+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 3 paniers en tissu marron Kiabi Home",
@@ -1412,8 +2380,14 @@
     "url": "https://www.dealabs.com/bons-plans/lot-de-3-paniers-en-tissu-marron-kiabi-home-3430913",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mfb0l/3430913_1/re/1200x1200/qt/90/3430913_1.jpg",
     "detected_at": "2026-10-12T10:03:20+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.0,
+        "observed_at": "2026-10-12T12:59:39.198172+00:00"
+      }
+    ]
   },
   {
     "title": "Stabilisateur portable Smallrig 4121 portable en aluminium (vendeur tiers)",
@@ -1425,8 +2399,14 @@
     "url": "https://www.dealabs.com/bons-plans/stabilisateur-portable-smallrig-4121-portable-en-aluminium-vendeur-tiers-3430912",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/8rjgH/3430912_1/re/1200x1200/qt/90/3430912_1.jpg",
     "detected_at": "2026-10-12T10:02:51+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 55.92,
+        "observed_at": "2026-10-12T12:59:39.198178+00:00"
+      }
+    ]
   },
   {
     "title": "Pack casque Bluetooth EDIFIER Atom Max + écouteurs Xiaomi Redmi Buds 6 Play Blanc - ANC 44 dB, Bluetooth 5.4, multipoint",
@@ -1439,7 +2419,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/uAAcX/3430911_1/re/1200x1200/qt/90/3430911_1.jpg",
     "detected_at": "2026-10-12T09:57:58+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 50.99,
+        "observed_at": "2026-10-12T12:59:39.198183+00:00"
+      }
+    ]
   },
   {
     "title": "Veste Moto Textile IXS RS-400-ST 3.0 - Protection AA, Étanche - Noir, Blanc, Jaune, Tailles S, M et XL",
@@ -1452,7 +2438,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/SdzMt/3430909_1/re/1200x1200/qt/90/3430909_1.jpg",
     "detected_at": "2026-10-12T09:54:31+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 32.99,
+        "observed_at": "2026-10-12T12:59:39.198191+00:00"
+      }
+    ]
   },
   {
     "title": "Switch Ethernet Ugreen 2.5G 8X2.5G Ports, Plug et Play, 8 ports (Vendeur tiers)",
@@ -1465,7 +2457,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/E7FCm/3430910_1/re/1200x1200/qt/90/3430910_1.jpg",
     "detected_at": "2026-10-12T09:53:18+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 42.44,
+        "observed_at": "2026-10-12T12:59:39.198197+00:00"
+      }
+    ]
   },
   {
     "title": "Chaussures Urban Territory - Black Lace, Homme, du 40 au 47",
@@ -1477,8 +2475,14 @@
     "url": "https://www.dealabs.com/bons-plans/urban-territory-black-lace-hiker-boot-hommes-chaussures-de-marche-40-a-47-3430908",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/LBiVn/3430908_1/re/1200x1200/qt/90/3430908_1.jpg",
     "detected_at": "2026-10-12T09:50:49+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-12T12:59:39.198206+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 3 paires de chaussettes de sport enfant RS160 - mi-hautes, Beige/Violet/Blanc, tailles 27-30 ou 31-34",
@@ -1490,8 +2494,14 @@
     "url": "https://www.dealabs.com/bons-plans/lot-de-3-paires-de-chaussettes-de-sport-enfant-rs160-mi-hautes-beigevioletblanc-tailles-27-30-ou-31-34-3430907",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1kz0G/3430907_1/re/1200x1200/qt/90/3430907_1.jpg",
     "detected_at": "2026-10-12T09:50:14+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2.99,
+        "observed_at": "2026-10-12T12:59:39.198212+00:00"
+      }
+    ]
   },
   {
     "title": "Chargeur intelligent Ugreen Nexode Pro - 160W, 4 ports GaN",
@@ -1504,7 +2514,8 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:48:51+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Séjour 8j/7n pour 4 en Mobilhome Camping Vilanova Park ★★★★ (Barcelone - Catalogne) du 24 au 31 octobre",
@@ -1516,8 +2527,14 @@
     "url": "https://www.dealabs.com/bons-plans/sejour-8j7n-pour-4-camping-vilanova-park-barcelone-catalogne-du-24-au-31-octobre-3430905",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/2GBLD/3430905_1/re/1200x1200/qt/90/3430905_1.jpg",
     "detected_at": "2026-10-12T09:46:13+00:00",
-    "category": "Électroménager",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 260.93,
+        "observed_at": "2026-10-12T12:59:39.198219+00:00"
+      }
+    ]
   },
   {
     "title": "Lave-vaisselle pose libre Beko BDFN26443G – 14 couverts, 42 dB, CornerIntense, SelfDry",
@@ -1530,7 +2547,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/zXak7/3430904_1/re/1200x1200/qt/90/3430904_1.jpg",
     "detected_at": "2026-10-12T09:45:59+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 339.99,
+        "observed_at": "2026-10-12T12:59:39.198225+00:00"
+      }
+    ]
   },
   {
     "title": "Pack drone DJI Neo 2 Fly More Combo + RC-N3 - 4K, 151 g, ActiveTrack, détection d'obstacles, 3 batteries",
@@ -1542,8 +2565,14 @@
     "url": "https://www.dealabs.com/bons-plans/pack-drone-dji-neo-2-fly-more-combo-rc-n3-4k-151-g-activetrack-detection-dobstacles-3-batteries-3430903",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/hoOlv/3430903_1/re/1200x1200/qt/90/3430903_1.jpg",
     "detected_at": "2026-10-12T09:45:10+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 299.0,
+        "observed_at": "2026-10-12T12:59:39.198231+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 4 Localisateurs d'Objets Samsung SmartTag 2 (Vendeur Tiers)",
@@ -1555,8 +2584,14 @@
     "url": "https://www.dealabs.com/bons-plans/samsung-smarttag-2-lot-de-4-3430873",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mmvos/3430873_1/re/1200x1200/qt/90/3430873_1.jpg",
     "detected_at": "2026-10-12T09:44:03+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 54.65,
+        "observed_at": "2026-10-12T12:59:39.198237+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 6 Socquettes Athlétiques Rembourrées Amazon Essentialls en coton mélangé - Noir (du 41 au 45)",
@@ -1569,7 +2604,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/PNews/3430902_1/re/1200x1200/qt/90/3430902_1.jpg",
     "detected_at": "2026-10-12T09:42:41+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.56,
+        "observed_at": "2026-10-12T12:59:39.198244+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de cuisine Full Inox Arthur Martin AM3237 - 16 pièces, Inox 18/10, Tous feux dont induction",
@@ -1582,7 +2623,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ZoTHz/3430901_1/re/1200x1200/qt/90/3430901_1.jpg",
     "detected_at": "2026-10-12T09:42:09+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-12T12:59:39.198252+00:00"
+      }
+    ]
   },
   {
     "title": "[Seniors] Formation Gratuite Premiers Secours Citoyen (PSC) par L'UFOLEP 31 + Repas Offert - Revel (31)",
@@ -1595,7 +2642,8 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mNKfI/3430900_1/re/1200x1200/qt/90/3430900_1.jpg",
     "detected_at": "2026-10-12T09:42:01+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Vélo urbain Orbea Vector 20 2026 – cadre aluminium, transmission Shimano Sora, freins hydrauliques",
@@ -1608,7 +2656,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1BnNk/3430898_1/re/1200x1200/qt/90/3430898_1.jpg",
     "detected_at": "2026-10-12T09:38:11+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 699.0,
+        "observed_at": "2026-10-12T12:59:39.198260+00:00"
+      }
+    ]
   },
   {
     "title": "Enceinte sans fil JBL Flip Essential 3",
@@ -1621,7 +2675,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/vUor0/3430895_1/re/1200x1200/qt/90/3430895_1.jpg",
     "detected_at": "2026-10-12T09:38:02+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-12T12:59:39.198266+00:00"
+      }
+    ]
   },
   {
     "title": "Scie à bûches Parkside - lame 58,8 cm, 2 lames bois sec et bois frais, poignée antidérapante",
@@ -1634,7 +2694,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ofREd/3430897_1/re/1200x1200/qt/90/3430897_1.jpg",
     "detected_at": "2026-10-12T09:37:46+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-12T12:59:39.198276+00:00"
+      }
+    ]
   },
   {
     "title": "Câble Ethernet UGREEN Cat 8 - RJ45 40 Gbps, 2000 MHz, plat nylon tressé, cuivre 26AWG, 1 m (Vendeur tiers)",
@@ -1646,8 +2712,14 @@
     "url": "https://www.dealabs.com/bons-plans/cable-ethernet-ugreen-cat-8-rj45-40-gbps-2000-mhz-plat-nylon-tresse-cuivre-26awg-1-m-vendeur-tiers-3430894",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Og6Wr/3430894_1/re/1200x1200/qt/90/3430894_1.jpg",
     "detected_at": "2026-10-12T09:35:07+00:00",
-    "category": "Gaming",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.49,
+        "observed_at": "2026-10-12T12:59:39.198283+00:00"
+      }
+    ]
   },
   {
     "title": "Vélo cargo électrique Bergamont E-Cargoville LJ Expert 2022 – moteur Bosch Cargo Line 85 Nm, batterie 625 Wh",
@@ -1659,8 +2731,14 @@
     "url": "https://www.dealabs.com/bons-plans/velo-cargo-electrique-bergamont-e-cargoville-lj-expert-2022-moteur-bosch-cargo-line-85-nm-batterie-625-wh-3430893",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lagTC/3430893_1/re/1200x1200/qt/90/3430893_1.jpg",
     "detected_at": "2026-10-12T09:34:56+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2599.0,
+        "observed_at": "2026-10-12T12:59:39.198291+00:00"
+      }
+    ]
   },
   {
     "title": "Cheval Barbie et la Grande Course à Cheval",
@@ -1672,8 +2750,14 @@
     "url": "https://www.dealabs.com/bons-plans/barbie-cheval-avec-sons-inspire-du-film-barbie-et-la-grande-course-a-cheval-3430892",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Lc182/3430892_1/re/1200x1200/qt/90/3430892_1.jpg",
     "detected_at": "2026-10-12T09:31:15+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-12T12:59:39.198300+00:00"
+      }
+    ]
   },
   {
     "title": "Coffret Blu-Ray L'Agence tous risques - L'intégrale Édition Collector (vendeur tiers)",
@@ -1685,8 +2769,14 @@
     "url": "https://www.dealabs.com/bons-plans/coffret-blu-ray-lagence-tous-risques-lintegrale-edition-collector-3430890",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/0qadf/3430890_1/re/1200x1200/qt/90/3430890_1.jpg",
     "detected_at": "2026-10-12T09:30:17+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-12T12:59:39.198308+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de cuisine 5 pièces Tefal Ingenio Emotion (L897S504) – induction, poignée amovible",
@@ -1698,8 +2788,14 @@
     "url": "https://www.dealabs.com/bons-plans/batterie-de-cuisine-5-pieces-tefal-ingenio-emotion-l897s504-induction-poignee-amovible-3430889",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/psSwC/3430889_1/re/1200x1200/qt/90/3430889_1.jpg",
     "detected_at": "2026-10-12T09:28:18+00:00",
-    "category": "Autre",
-    "price_verified": false
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.99,
+        "observed_at": "2026-10-12T12:59:39.198314+00:00"
+      }
+    ]
   },
   {
     "title": "[Nouveaux Clients] Jusqu'à 25 % de réduction sur l'alimentation pour chiens et chats",
@@ -1712,7 +2808,8 @@
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/3157_1/re/1200x1200/qt/90/3157_1.jpg",
     "detected_at": "2026-10-12T09:26:40+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "[Via App] 15€ de réduction dès 200€ d'achat",
@@ -1725,7 +2822,13 @@
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/377_4/re/1200x1200/qt/90/377_4.jpg",
     "detected_at": "2026-10-12T09:25:42+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 200.0,
+        "observed_at": "2026-10-12T12:59:39.198322+00:00"
+      }
+    ]
   },
   {
     "title": "Montre Casio Edifice EFR-S108D-1AVUEF – boîtier acier inoxydable, verre saphir, affichage date, étanchéité 10 ATM – bracelet argent",
@@ -1737,8 +2840,14 @@
     "url": "https://www.dealabs.com/bons-plans/montre-casio-edifice-efr-s108d-1avuef-boitier-acier-inoxydable-verre-saphir-affichage-date-etancheite-10-atm-bracelet-argent-3430887",
     "image_url": "",
     "detected_at": "2026-10-12T09:25:16+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 80.99,
+        "observed_at": "2026-10-12T12:59:39.198332+00:00"
+      }
+    ]
   },
   {
     "title": "Aspirateur Robot Roborock Qrevo Edge 2 - 25 000 Pa (Vendeur tiers)",
@@ -1751,7 +2860,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/cxK3T/3430885_1/re/1200x1200/qt/90/3430885_1.jpg",
     "detected_at": "2026-10-12T09:22:32+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 549.99,
+        "observed_at": "2026-10-12T12:59:39.198338+00:00"
+      }
+    ]
   },
   {
     "title": "Duo Anti-pluie et buée RainX - 200 ml",
@@ -1764,7 +2879,13 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1gL3Z/3430884_1/re/1200x1200/qt/90/3430884_1.jpg",
     "detected_at": "2026-10-12T09:22:23+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T12:59:39.198344+00:00"
+      }
+    ]
   },
   {
     "title": "TV 75\" QLED Hisense 75E79Q Pro - 4K, 144 Hz, HDMI 2.1, Dolby Vision/Atmos",
@@ -1776,8 +2897,14 @@
     "url": "https://www.dealabs.com/bons-plans/tv-75-qled-hisense-75e79q-pro-4k-144-hz-hdmi-21-dolby-visionatmos-3430883",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/AoU7V/3430883_1/re/1200x1200/qt/90/3430883_1.jpg",
     "detected_at": "2026-10-12T09:21:47+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 614.99,
+        "observed_at": "2026-10-12T12:59:39.198350+00:00"
+      }
+    ]
   },
   {
     "title": "Sac à dos cabine LYNXCHER 20 litres - 40 x 20 x 25 cm (vendeur tiers)",
@@ -1789,8 +2916,14 @@
     "url": "https://www.dealabs.com/bons-plans/sac-a-dos-cabine-lynxcher-20-litres-40-x-20-x-25-cm-vendeur-tiers-3430882",
     "image_url": "",
     "detected_at": "2026-10-12T09:21:11+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 24.0,
+        "observed_at": "2026-10-12T12:59:39.198355+00:00"
+      }
+    ]
   },
   {
     "title": "20% de réduction sur les produits ski, snowboard, lifestyle",
@@ -1802,8 +2935,9 @@
     "url": "https://www.dealabs.com/bons-plans/20-de-reduction-sur-les-produits-ski-snowboard-lifestyle-3430881",
     "image_url": "",
     "detected_at": "2026-10-12T09:21:03+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Baskets basses Nike Sportswear AIR MAX IVO - noir, du 40 au 48.5",
@@ -1816,7 +2950,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:20:10+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 66.9,
+        "observed_at": "2026-10-12T12:59:39.198361+00:00"
+      }
+    ]
   },
   {
     "title": "Bracelet de suivi d'activité physique Google Fitbit Air - noir volcanique",
@@ -1828,8 +2968,14 @@
     "url": "https://www.dealabs.com/bons-plans/google-fitbit-air-noir-volcanique-3430879",
     "image_url": "",
     "detected_at": "2026-10-12T09:19:37+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 97.92,
+        "observed_at": "2026-10-12T12:59:39.198367+00:00"
+      }
+    ]
   },
   {
     "title": "Baskets basses Nike Sportswear AIR MAX 90 SE - noir, du 38,5 au 49,5",
@@ -1841,8 +2987,14 @@
     "url": "https://www.dealabs.com/bons-plans/nike-sportswear-air-max-90-se-baskets-basses-noir-plusieurs-tailles-3430878",
     "image_url": "",
     "detected_at": "2026-10-12T09:18:56+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 74.9,
+        "observed_at": "2026-10-12T12:59:39.198373+00:00"
+      }
+    ]
   },
   {
     "title": "Construisez une petite rue hantée en briques LEGO et repartez avec votre construction - Magasins participants",
@@ -1855,7 +3007,8 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:17:51+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "FEIN Meuleuse d’angle sans fil...IN, sans Batteries ni Chargeur",
@@ -1868,7 +3021,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0DG9331GY.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T09:17:03+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Lave Vaisselle Beko BDFN26441G - 60cm, 14 Couverts, 46dB, Hauteur 85cm",
@@ -1881,7 +3035,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:13:00+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 399.0,
+        "observed_at": "2026-10-12T12:59:39.198380+00:00"
+      }
+    ]
   },
   {
     "title": "Sac à Dos Voyage Cabine Lossga 40x30x20 - Noir (vendeur tiers)",
@@ -1893,8 +3053,14 @@
     "url": "https://www.dealabs.com/bons-plans/sac-a-dos-voyage-cabine-lossga-40x30x20-noir-vendeur-tiers-3430875",
     "image_url": "",
     "detected_at": "2026-10-12T09:12:55+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 18.72,
+        "observed_at": "2026-10-12T12:59:39.198389+00:00"
+      }
+    ]
   },
   {
     "title": "Chargeur USB-C Anker Nano II - 65W, Technologie GaN II (Vendeur tiers)",
@@ -1907,7 +3073,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:12:46+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-12T12:59:39.198395+00:00"
+      }
+    ]
   },
   {
     "title": "Panneaux Muraux Monzana - avec 68 Supports & 28 Boites de Rangements (Vendeur Tiers)",
@@ -1919,8 +3091,14 @@
     "url": "https://www.dealabs.com/bons-plans/panneaux-muraux-monzana-avec-68-supports-et-28-boites-de-rangements-vendeur-tiers-3430871",
     "image_url": "",
     "detected_at": "2026-10-12T09:12:31+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 48.99,
+        "observed_at": "2026-10-12T12:59:39.198400+00:00"
+      }
+    ]
   },
   {
     "title": "2€ de réduction dès 19€ d'achat, 7€ dès 59€, 13€ dès 109€, 29€ dès 239€ & 39€ dès 329€ sur une sélection d'articles",
@@ -1933,7 +3111,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:11:35+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.0,
+        "observed_at": "2026-10-12T12:59:39.198406+00:00"
+      }
+    ]
   },
   {
     "title": "Tensiomètre grand écran Beurer BC 28 au poignet - 2 x 60 mémoires ( 8.4 x 2.9 x 6 cm)",
@@ -1946,7 +3130,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:07:14+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 17.99,
+        "observed_at": "2026-10-12T12:59:39.198412+00:00"
+      }
+    ]
   },
   {
     "title": "KMP 75–SA Toner équivalent de Samsung MLT-D111L/ELS noir",
@@ -1959,7 +3149,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0104LJZQO.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T09:04:53+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "TV 65\" LG 65QNED80A6A - QNED AI, 165,1cm, 4K Ultra HD, Smart TV, Wifi, Noir",
@@ -1972,7 +3163,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:02:53+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 489.99,
+        "observed_at": "2026-10-12T12:59:39.198420+00:00"
+      }
+    ]
   },
   {
     "title": "Sweat à capuche Adidas Entrada 22 - Rouge (taille S)",
@@ -1984,8 +3181,14 @@
     "url": "https://www.dealabs.com/bons-plans/sweat-a-capuche-adidas-entrada-22-rouge-taille-s-3430865",
     "image_url": "",
     "detected_at": "2026-10-12T09:00:59+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 22.5,
+        "observed_at": "2026-10-12T12:59:39.198425+00:00"
+      }
+    ]
   },
   {
     "title": "Chauffage électrique connecté Philips 5000 - 2000w, 20m2, noir",
@@ -1998,7 +3201,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T09:00:45+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-12T12:59:39.198431+00:00"
+      }
+    ]
   },
   {
     "title": "[Clients Sosh] Smartphone 6,83\" Xiaomi Redmi Note 17 Pro Max 5G - 256Go (Via 70€ d'ODR & 50€ de Bonus Reprise)",
@@ -2011,7 +3220,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:59:37+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 279.0,
+        "observed_at": "2026-10-12T12:59:39.198436+00:00"
+      }
+    ]
   },
   {
     "title": "Adaptateur Secteur USB C Apple 20W - Édition 2025",
@@ -2024,7 +3239,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:58:54+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.0,
+        "observed_at": "2026-10-12T12:59:39.198446+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie Externe Anker A1383 - 20000 mAh, 87W en charge maximale, 65W sur USB-C, PowerIQ, câble USB-C intégré ( Vendeur Tiers )",
@@ -2037,7 +3258,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:58:53+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 42.99,
+        "observed_at": "2026-10-12T12:59:39.198454+00:00"
+      }
+    ]
   },
   {
     "title": "Daemon X Machina: Titanic Scion sur Nintendo Switch 2",
@@ -2050,7 +3277,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:58:21+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 33.99,
+        "observed_at": "2026-10-12T12:59:39.198465+00:00"
+      }
+    ]
   },
   {
     "title": "Power Rangers: Battle for the Grid Xbox One / Series X|S / PC — super édition a 9.99€",
@@ -2063,7 +3296,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:48:49+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 3.99,
+        "observed_at": "2026-10-12T12:59:39.198477+00:00"
+      }
+    ]
   },
   {
     "title": "Mallette à Outils Sundpey - 257 Pièces (Vendeur tiers - via coupon)",
@@ -2076,7 +3315,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:47:48+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 47.19,
+        "observed_at": "2026-10-12T12:59:39.198483+00:00"
+      }
+    ]
   },
   {
     "title": "Wuchang: Fallen Feathers Day One Edition sur PS5",
@@ -2089,7 +3334,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:47:14+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 31.99,
+        "observed_at": "2026-10-12T12:59:39.198488+00:00"
+      }
+    ]
   },
   {
     "title": "Montre Citizen Damen-Uhren Eco-Drive FE6151-82L (bleu)",
@@ -2101,8 +3352,14 @@
     "url": "https://www.dealabs.com/bons-plans/montre-citizen-damen-uhren-eco-drive-fe6151-82l-bleu-3430853",
     "image_url": "",
     "detected_at": "2026-10-12T08:45:57+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 145.92,
+        "observed_at": "2026-10-12T12:59:39.198494+00:00"
+      }
+    ]
   },
   {
     "title": "Gang Beast sur Nintendo Switch (Dématérialisé)",
@@ -2115,7 +3372,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:44:35+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-12T12:59:39.198500+00:00"
+      }
+    ]
   },
   {
     "title": "Écran PC 24,5\" AOC Q25G4SR - QHD, 300Hz, Fast IPS, HDR400, 1 ms, HDMI 2.1, Noir & Rouge",
@@ -2128,7 +3391,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:42:55+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 178.5,
+        "observed_at": "2026-10-12T12:59:39.198506+00:00"
+      }
+    ]
   },
   {
     "title": "The Talos Principle 2 sur PC (Dématérialisé - Steam)",
@@ -2141,7 +3410,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:42:01+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2.89,
+        "observed_at": "2026-10-12T12:59:39.198514+00:00"
+      }
+    ]
   },
   {
     "title": "30% de réduction sur une sélection de maillots & équipements de football Ligue 1 & Ligue 2",
@@ -2153,8 +3428,9 @@
     "url": "https://www.dealabs.com/codes-promo/30-de-reduction-sur-une-selection-de-maillots-et-equipements-de-football-ligue-1-et-ligue-2-3430847",
     "image_url": "",
     "detected_at": "2026-10-12T08:41:47+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Camera Blurams HelioCam Pro Surveillance Exterieur Solaire sans Fil Enregistreur 24h (Vendeur Tiers - Via Coupon)",
@@ -2166,8 +3442,14 @@
     "url": "https://www.dealabs.com/bons-plans/camera-blurams-heliocam-pro-surveillance-exterieur-solaire-sans-fil-enregistreur-24h-vendeur-tiers-via-remise-panier-3430848",
     "image_url": "",
     "detected_at": "2026-10-12T08:39:06+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 70.71,
+        "observed_at": "2026-10-12T12:59:39.198520+00:00"
+      }
+    ]
   },
   {
     "title": "Lego Star Wars Smart Play 75426 - Faucon Millenium",
@@ -2179,8 +3461,14 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-star-wars-smart-play-faucon-millenium-75426-3430846",
     "image_url": "",
     "detected_at": "2026-10-12T08:38:08+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 58.39,
+        "observed_at": "2026-10-12T12:59:39.198528+00:00"
+      }
+    ]
   },
   {
     "title": "Carte mère Colorful Battle-AX B850M-PLUS S WIFI7 V14 - M-ATX",
@@ -2193,7 +3481,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:38:06+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 119.99,
+        "observed_at": "2026-10-12T12:59:39.198534+00:00"
+      }
+    ]
   },
   {
     "title": "Commode Songmics Collection Gretha (LGS224W301) - 9 tiroirs, velours côtelé, cadre en acier, blanc neige, 98,7 x 30 x 96,2 cm",
@@ -2205,8 +3499,14 @@
     "url": "https://www.dealabs.com/bons-plans/commode-songmics-collection-gretha-lgs224w301-9-tiroirs-velours-cotele-cadre-en-acier-blanc-neige-987-x-30-x-962-cm-3430844",
     "image_url": "",
     "detected_at": "2026-10-12T08:37:36+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.49,
+        "observed_at": "2026-10-12T12:59:39.198541+00:00"
+      }
+    ]
   },
   {
     "title": "Montage et équilibrage à 5€ sur les pneus Goodyear & Kumho",
@@ -2219,7 +3519,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:36:33+00:00",
     "category": "Auto & moto",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.0,
+        "observed_at": "2026-10-12T12:59:39.198547+00:00"
+      }
+    ]
   },
   {
     "title": "Lego Star Wars 75424 L’Attaque du AT-ST sur Endor - Smart Play",
@@ -2231,8 +3537,14 @@
     "url": "https://www.dealabs.com/bons-plans/lego-star-wars-75424-lattaque-du-at-st-sur-endor-smart-play-3430842",
     "image_url": "",
     "detected_at": "2026-10-12T08:36:29+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 31.99,
+        "observed_at": "2026-10-12T12:59:39.198552+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie Externe Ugreen Nexode 145W - 25000 mAh, 145W, triple connectique, 2 x USB-C, 1 x USB-A (Vendeurs tiers)",
@@ -2245,7 +3557,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:36:26+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 55.99,
+        "observed_at": "2026-10-12T12:59:39.198558+00:00"
+      }
+    ]
   },
   {
     "title": "Chaussures New Balance 1906R - Tailles 40 à 47,5",
@@ -2258,7 +3576,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:35:47+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 70.0,
+        "observed_at": "2026-10-12T12:59:39.198563+00:00"
+      }
+    ]
   },
   {
     "title": "BlazBlue: Cross Tag Battle Special Edition Xbox One / Xbox Series X|S / PC Windows",
@@ -2271,7 +3595,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:35:11+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T12:59:39.198570+00:00"
+      }
+    ]
   },
   {
     "title": "Lego Star Wars 75421 Le TIE Fighter de Dark Vador - Smart Play",
@@ -2283,8 +3613,14 @@
     "url": "https://www.dealabs.com/bons-plans/lego-star-wars-75421-le-tie-fighter-de-dark-vador-smart-play-3430839",
     "image_url": "",
     "detected_at": "2026-10-12T08:34:49+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 42.74,
+        "observed_at": "2026-10-12T12:59:39.198577+00:00"
+      }
+    ]
   },
   {
     "title": "EcoFlow Qi2.2 Station de Charge 25W",
@@ -2297,7 +3633,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:31:41+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T12:59:39.198585+00:00"
+      }
+    ]
   },
   {
     "title": "[Clients Sosh] Smartphone Google Pixel 11 pro XL - 256 Go (via bonus reprise de 250€ + ODR Google de 200€)",
@@ -2310,7 +3652,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:25:33+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 699.0,
+        "observed_at": "2026-10-12T12:59:39.198591+00:00"
+      }
+    ]
   },
   {
     "title": "[Client Sosh] Smartphone 6,3\" Google Pixel 11 Pro - RAM 12 Go, 256 Go (Via 150€ d'ODR Google & 200€ de Bonus Reprise)",
@@ -2323,7 +3671,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:23:56+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 599.0,
+        "observed_at": "2026-10-12T12:59:39.198599+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 2 poêles De Buyer - 24cm et 28cm",
@@ -2336,7 +3690,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:22:39+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 36.95,
+        "observed_at": "2026-10-12T12:59:39.198607+00:00"
+      }
+    ]
   },
   {
     "title": "[Clients Sosh] Smartphone 6,3\" Google Pixel 11 - RAM 12 Go, 256 Go (Via 100€ d'ODR par Google & 150€ de Bonus Reprise)",
@@ -2349,7 +3709,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:20:32+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 499.0,
+        "observed_at": "2026-10-12T12:59:39.198624+00:00"
+      }
+    ]
   },
   {
     "title": "Sauteuse Sauter Inox Triply - 28cm, avec Couvercle",
@@ -2362,7 +3728,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:19:02+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 34.99,
+        "observed_at": "2026-10-12T12:59:39.198630+00:00"
+      }
+    ]
   },
   {
     "title": "TV 55\" Samsung Crystal U7025F - 2025, UHD 4K, Smart TV",
@@ -2375,7 +3747,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:16:41+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 349.97,
+        "observed_at": "2026-10-12T12:59:39.198638+00:00"
+      }
+    ]
   },
   {
     "title": "Montre Automatique Citizen NJ0190-51E - 10ATM, 40mm (ormoda.com)",
@@ -2387,8 +3765,9 @@
     "url": "https://www.dealabs.com/bons-plans/montre-automatique-citizen-nj0190-51e-10atm-40mm-3420544",
     "image_url": "",
     "detected_at": "2026-10-12T08:16:10+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Vélo Électrique Ghost E-Riot CF Advanced Performance CX 800 Wh",
@@ -2400,8 +3779,14 @@
     "url": "https://www.dealabs.com/bons-plans/ghost-e-riot-cf-advanced-performance-cx-800-wh-3430823",
     "image_url": "",
     "detected_at": "2026-10-12T08:16:07+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 3499.0,
+        "observed_at": "2026-10-12T12:59:39.198645+00:00"
+      }
+    ]
   },
   {
     "title": "Crimson Desert PS5",
@@ -2414,7 +3799,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:13:14+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 47.01,
+        "observed_at": "2026-10-12T12:59:39.198651+00:00"
+      }
+    ]
   },
   {
     "title": "Album Vinyle UB40 Red, Red Wine : The Collection",
@@ -2427,7 +3818,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:12:56+00:00",
     "category": "Alimentation & boissons",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-12T12:59:39.198656+00:00"
+      }
+    ]
   },
   {
     "title": "Pack de 6 brique de lait - Le lait des 5 fermes",
@@ -2440,7 +3837,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:11:50+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1.45,
+        "observed_at": "2026-10-12T12:59:39.198662+00:00"
+      }
+    ]
   },
   {
     "title": "Pressuriseur de Balles de Padel Tuboplus 29PSI X3 - Avec pompe",
@@ -2453,7 +3856,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:06:38+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 31.99,
+        "observed_at": "2026-10-12T12:59:39.198668+00:00"
+      }
+    ]
   },
   {
     "title": "Casque filaire SteelSeries Arctis Nova 3 - Pilotes Haute Fidélité, Son Spatial à 360°, Lumières RVB",
@@ -2466,7 +3875,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:04:15+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 65.99,
+        "observed_at": "2026-10-12T12:59:39.198673+00:00"
+      }
+    ]
   },
   {
     "title": "Kit Maquillage Namaki Offert pour l'achat d'un Tonies de la sélection Halloween",
@@ -2478,8 +3893,9 @@
     "url": "https://www.dealabs.com/bons-plans/kit-de-maquillage-namaki-offert-pour-lachat-dun-tonies-de-la-selection-halloween-3430819",
     "image_url": "",
     "detected_at": "2026-10-12T08:03:41+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "PC Portable 15,6\" XWU - Processeur N4000, RAM 8 Go, SSD 256 Go, Wi-Fi-5 Double Bande, Bluetooth 4.2, USB A, HDMI, Windows 11 (Vendeur Tiers)",
@@ -2492,7 +3908,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:03:37+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 218.49,
+        "observed_at": "2026-10-12T12:59:39.198679+00:00"
+      }
+    ]
   },
   {
     "title": "Bouteille de vin rouge Château de Camensac, 5ème Grand Cru Classé Haut-Médoc AOC, 75cl",
@@ -2505,7 +3927,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:03:00+00:00",
     "category": "Alimentation & boissons",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.25,
+        "observed_at": "2026-10-12T12:59:39.198685+00:00"
+      }
+    ]
   },
   {
     "title": "Ampli Guitare Transistor Vox Pathfinder 10 - Coloris Crème ou Rouge",
@@ -2517,8 +3945,14 @@
     "url": "https://www.dealabs.com/bons-plans/ampli-guitare-transistor-vox-pathfinder-10-creme-ou-rouge-3430814",
     "image_url": "",
     "detected_at": "2026-10-12T08:02:50+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-12T12:59:39.198692+00:00"
+      }
+    ]
   },
   {
     "title": "Robot pâtissier Moulinex Bake Easy QA1403F0 - 12 vitesses et fonction Pulse",
@@ -2531,7 +3965,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:02:00+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-12T12:59:39.198701+00:00"
+      }
+    ]
   },
   {
     "title": "[Nouveaux clients 18-26 ans] Forfait Mobile Appels / SMS & MMS Illimités 200 Go 5G+ & 40 Go depuis 135 destinations",
@@ -2544,7 +3984,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T08:00:40+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-12T12:59:39.198707+00:00"
+      }
+    ]
   },
   {
     "title": "Set de 2 rampes pour voiture - 2000 kg, 280mm",
@@ -2557,7 +4003,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:59:03+00:00",
     "category": "Auto & moto",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 44.99,
+        "observed_at": "2026-10-12T12:59:39.198713+00:00"
+      }
+    ]
   },
   {
     "title": "Blu-ray 4K The Last of Us - Saisons 1 et 2",
@@ -2569,8 +4021,14 @@
     "url": "https://www.dealabs.com/bons-plans/blu-ray-4k-the-last-of-us-saisons-1-et-2-3430809",
     "image_url": "",
     "detected_at": "2026-10-12T07:58:04+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 57.44,
+        "observed_at": "2026-10-12T12:59:39.198718+00:00"
+      }
+    ]
   },
   {
     "title": "1 Nuit insolite en lodge pour 2 personnes avec dîner, petit déjeuner et accès 2 jours au Zoo de la Boissière du Doré (44)",
@@ -2582,8 +4040,14 @@
     "url": "https://www.dealabs.com/bons-plans/1-nuit-pour-2-personnes-avec-diner-pdj-et-billets-2-jours-zoo-de-la-boissiere-3430810",
     "image_url": "",
     "detected_at": "2026-10-12T07:57:40+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 281.3,
+        "observed_at": "2026-10-12T12:59:39.198725+00:00"
+      }
+    ]
   },
   {
     "title": "Mélangeur à béton HBM 200L",
@@ -2596,7 +4060,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:56:21+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 209.99,
+        "observed_at": "2026-10-12T12:59:39.198731+00:00"
+      }
+    ]
   },
   {
     "title": "Cafetière à dosettes Bosch TAS177B Tassimo Harmony - Multi-boissons automatique",
@@ -2609,7 +4079,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:50:53+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T12:59:39.198736+00:00"
+      }
+    ]
   },
   {
     "title": "Veste sherpa Esmara Men - homme",
@@ -2622,7 +4098,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:48:40+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.99,
+        "observed_at": "2026-10-12T12:59:39.198742+00:00"
+      }
+    ]
   },
   {
     "title": "Pack Boitier + Alim GSI SmartAssembly ARGB Glass Micro-ATX Midi-Tower, Micro-ATX, Tempered Glass , + Alim Kolink Regulator 750 Watt Gold",
@@ -2635,7 +4117,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:45:18+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 80.57,
+        "observed_at": "2026-10-12T12:59:39.198748+00:00"
+      }
+    ]
   },
   {
     "title": "Celeste sur PC (Dématérialisé)",
@@ -2648,7 +4136,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:42:21+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 4.74,
+        "observed_at": "2026-10-12T12:59:39.198757+00:00"
+      }
+    ]
   },
   {
     "title": "Combinaison de ski technique pour femme",
@@ -2661,7 +4155,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:41:51+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 114.99,
+        "observed_at": "2026-10-12T12:59:39.198763+00:00"
+      }
+    ]
   },
   {
     "title": "Bidon de 5L d'Huile Moteur Total Quartz Ineo RCP 5W-30",
@@ -2674,7 +4174,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:40:00+00:00",
     "category": "Auto & moto",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 41.93,
+        "observed_at": "2026-10-12T12:59:39.198769+00:00"
+      }
+    ]
   },
   {
     "title": "Micro-ondes combiné Samsung MC35R8088CC",
@@ -2687,7 +4193,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:39:38+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 320.0,
+        "observed_at": "2026-10-12T12:59:39.198777+00:00"
+      }
+    ]
   },
   {
     "title": "Perceuse Visseuse sans fil Scheppach C-DTB74/2-X - avec 2 Batteries 2 Ah & Chargeur",
@@ -2700,7 +4212,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:39:33+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-12T12:59:39.198782+00:00"
+      }
+    ]
   },
   {
     "title": "Enceinte Bluetooth Portable Sony ULT Field 3 - ULT Power Sound, IP67, 24h d'autonomie, Charge rapide",
@@ -2713,7 +4231,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:39:30+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 87.04,
+        "observed_at": "2026-10-12T12:59:39.198788+00:00"
+      }
+    ]
   },
   {
     "title": "Gilet protecteur Moto Bogotto Pro-Rxv - Du S au 2XL",
@@ -2726,7 +4250,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:29:37+00:00",
     "category": "Auto & moto",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 45.14,
+        "observed_at": "2026-10-12T12:59:39.198794+00:00"
+      }
+    ]
   },
   {
     "title": "Set de Scies Cloches Bosch PRO Multi Material Power Change Plus - 9 Pièces",
@@ -2738,8 +4268,14 @@
     "url": "https://www.dealabs.com/bons-plans/set-de-scies-cloches-bosch-pro-multi-material-power-change-plus-9-pieces-3430796",
     "image_url": "",
     "detected_at": "2026-10-12T07:27:39+00:00",
-    "category": "Bricolage",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 76.0,
+        "observed_at": "2026-10-12T12:59:39.198799+00:00"
+      }
+    ]
   },
   {
     "title": "Coffret 5 CD Suicidal Tendencies",
@@ -2751,8 +4287,14 @@
     "url": "https://www.dealabs.com/bons-plans/coffret-5-cd-suicidal-tendencies-3430795",
     "image_url": "",
     "detected_at": "2026-10-12T07:27:22+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.0,
+        "observed_at": "2026-10-12T12:59:39.198806+00:00"
+      }
+    ]
   },
   {
     "title": "Pack de 4 AirTag Apple - Carrefour segny (01) (Via 39€ sur la carte)",
@@ -2765,7 +4307,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:25:13+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 90.99,
+        "observed_at": "2026-10-12T12:59:39.198814+00:00"
+      }
+    ]
   },
   {
     "title": "Chariot de courses pliable léger",
@@ -2778,7 +4326,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:24:40+00:00",
     "category": "Alimentation & boissons",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.97,
+        "observed_at": "2026-10-12T12:59:39.198819+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de Lego en promotion - Ex : Lego Art 31220 Claude Monet : Le Bassin aux Nymphéas, Harmonie Verte",
@@ -2790,8 +4344,14 @@
     "url": "https://www.dealabs.com/bons-plans/selection-de-lego-en-promotion-ex-lego-art-claude-monet-le-bassin-aux-nympheas-harmonie-verte-31220-3430792",
     "image_url": "",
     "detected_at": "2026-10-12T07:21:55+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 135.99,
+        "observed_at": "2026-10-12T12:59:39.198825+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 2 T-shirts de sport Amazon Essentials Homme - Tissu technique respirant, séchage rapide, Tailles XS à 6XL",
@@ -2803,8 +4363,14 @@
     "url": "https://www.dealabs.com/bons-plans/lot-de-2-t-shirts-de-sport-amazon-essentials-homme-tissu-technique-respirant-sechage-rapide-tailles-xs-a-6xl-3430791",
     "image_url": "",
     "detected_at": "2026-10-12T07:21:07+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.52,
+        "observed_at": "2026-10-12T12:59:39.198831+00:00"
+      }
+    ]
   },
   {
     "title": "[Précommande] Hollow Knight: Silksong sur Xbox",
@@ -2817,7 +4383,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:20:40+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 31.5,
+        "observed_at": "2026-10-12T12:59:39.198837+00:00"
+      }
+    ]
   },
   {
     "title": "Sceau de graisse à Pneu KS Tools - 1kg",
@@ -2830,7 +4402,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:19:53+00:00",
     "category": "Auto & moto",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 7.28,
+        "observed_at": "2026-10-12T12:59:39.198842+00:00"
+      }
+    ]
   },
   {
     "title": "Ecouteurs sans fil Galaxy Buds FE Graphite (49,99€ via Carte fidélité) - Carrefour Segny (01)",
@@ -2842,8 +4420,14 @@
     "url": "https://www.dealabs.com/bons-plans/gglaxy-buds-fe-graphite-3430788",
     "image_url": "",
     "detected_at": "2026-10-12T07:19:09+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T12:59:39.198848+00:00"
+      }
+    ]
   },
   {
     "title": "Circuit Mario Kart Racing Deluxe",
@@ -2856,7 +4440,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:18:24+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-12T12:59:39.198854+00:00"
+      }
+    ]
   },
   {
     "title": "Mortal Shell II sur PS5",
@@ -2869,7 +4459,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:17:45+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-12T12:59:39.198863+00:00"
+      }
+    ]
   },
   {
     "title": "NAS 5 baies ORICO MetaBox Pro HS500, Intel N5105, 8 Go RAM, 2× 2,5 GbE (oricotechs.com)",
@@ -2882,7 +4478,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:16:21+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 310.86,
+        "observed_at": "2026-10-12T12:59:39.198868+00:00"
+      }
+    ]
   },
   {
     "title": "Faitout Sauter Triply Multinox Pro - 26cm, en Inox, avec Couvercle en Verre, Tous Feux dont Induction & Four",
@@ -2895,7 +4497,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:15:34+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 34.0,
+        "observed_at": "2026-10-12T12:59:39.198875+00:00"
+      }
+    ]
   },
   {
     "title": "Hachette Fiskars Solid A6 - Étui de Transport Revêtement antiadhésif, noir, longueur : 39 cm, 652 g",
@@ -2908,7 +4516,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:14:58+00:00",
     "category": "Maison",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 31.99,
+        "observed_at": "2026-10-12T12:59:39.198883+00:00"
+      }
+    ]
   },
   {
     "title": "Pack de 16 Sachets de Bonbons Chocolat au Lait & Cacahuètes M&M's - 16 x 82g",
@@ -2920,8 +4534,14 @@
     "url": "https://www.dealabs.com/bons-plans/mms-peanut-bonbons-chocolat-au-lait-cacahuetes-lot-de-16-x-82g-3430782",
     "image_url": "",
     "detected_at": "2026-10-12T07:11:46+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-12T12:59:39.198889+00:00"
+      }
+    ]
   },
   {
     "title": "Blouson Jules col chemise en sherpa amovible - Déperlant, rembourré, 2 coloris, tailles XS à 3XL",
@@ -2934,7 +4554,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:11:03+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 40.0,
+        "observed_at": "2026-10-12T12:59:39.198894+00:00"
+      }
+    ]
   },
   {
     "title": "Radio portable Sony XDRV1BTDT.EU8 - FM DAB, DAB+ Bluetooth, NFC Marron",
@@ -2947,7 +4573,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:10:02+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.25,
+        "observed_at": "2026-10-12T12:59:39.198902+00:00"
+      }
+    ]
   },
   {
     "title": "Râtelier 4 vélos Monzana - 37P x 120l x 27H cm (Vendeur Tiers)",
@@ -2959,8 +4591,14 @@
     "url": "https://www.dealabs.com/bons-plans/ratelier-4-velos-monzana-37p-x-120l-x-27h-cm-vendeur-tiers-3430779",
     "image_url": "",
     "detected_at": "2026-10-12T07:09:13+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 34.99,
+        "observed_at": "2026-10-12T12:59:39.198908+00:00"
+      }
+    ]
   },
   {
     "title": "Plat à tajine 29cm en fonte d'acier Sauter avec couvercle céramique - Vert, Tous feux dont induction",
@@ -2973,7 +4611,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:07:26+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T12:59:39.198915+00:00"
+      }
+    ]
   },
   {
     "title": "Selection de chemise Cafe coton a 19,90€",
@@ -2985,8 +4629,14 @@
     "url": "https://www.dealabs.com/bons-plans/selection-de-chemise-cafe-coton-a-1990eur-3430775",
     "image_url": "",
     "detected_at": "2026-10-12T07:07:22+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T12:59:39.198923+00:00"
+      }
+    ]
   },
   {
     "title": "Vélo Lapierre Zesty CF 8.9",
@@ -2999,7 +4649,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:07:15+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2699.0,
+        "observed_at": "2026-10-12T12:59:39.198929+00:00"
+      }
+    ]
   },
   {
     "title": "Cocotte ovale en fonte d'acier Sauter - 30cm, Noir mat, Tous feux dont induction & four",
@@ -3012,7 +4668,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:03:44+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-12T12:59:39.198937+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 2 Bâtons de Trekking Crivit - Longueur 105 à 120cm, Coloris Or",
@@ -3025,7 +4687,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:01:55+00:00",
     "category": "Maison",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 7.99,
+        "observed_at": "2026-10-12T12:59:39.198946+00:00"
+      }
+    ]
   },
   {
     "title": "LEGO Icons 11384 - Le chiot Golden Retriever",
@@ -3037,8 +4705,14 @@
     "url": "https://www.dealabs.com/bons-plans/lego-icons-chiot-golden-retriever-11384-3430771",
     "image_url": "",
     "detected_at": "2026-10-12T07:00:32+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 80.74,
+        "observed_at": "2026-10-12T12:59:39.198954+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de cuisine 6 pièces inox Sauter - 3 casseroles (16/18/20 cm) + 2 poêles (22/26 cm) + poignée amovible",
@@ -3051,7 +4725,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:00:22+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 74.99,
+        "observed_at": "2026-10-12T12:59:39.198960+00:00"
+      }
+    ]
   },
   {
     "title": "Scie à ruban Metabo BAS 318 - 900 W, Précision et stabilité élevées",
@@ -3064,7 +4744,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T07:00:09+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 574.9,
+        "observed_at": "2026-10-12T12:59:39.198965+00:00"
+      }
+    ]
   },
   {
     "title": "Tracker bluetooth Ugreen FineTrack Slim S Smart Tag Wallet - Certifié Samsung Smarthings pour appareils Galaxy (Vendeur tiers)",
@@ -3076,8 +4762,14 @@
     "url": "https://www.dealabs.com/bons-plans/tracker-bluetooth-ugreen-finetrack-slim-s-smart-tag-wallet-certifie-samsung-smarthings-pour-appareils-galaxy-vendeur-tiers-3430763",
     "image_url": "",
     "detected_at": "2026-10-12T06:59:20+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 21.59,
+        "observed_at": "2026-10-12T12:59:39.198971+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 3 boxers Fila - S à XXL",
@@ -3090,7 +4782,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:57:20+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.0,
+        "observed_at": "2026-10-12T12:59:39.198977+00:00"
+      }
+    ]
   },
   {
     "title": "Siège Auto Pallas B I-Size Cbx by Cybex - 76 à 150cm & 9 à 50 Kg, Pure black",
@@ -3103,7 +4801,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:56:35+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 139.9,
+        "observed_at": "2026-10-12T12:59:39.198983+00:00"
+      }
+    ]
   },
   {
     "title": "Émetteur-Récepteur HDMI sans fil Ugreen - USB C TX & HDMI RX, 1080p, 60Hz, Portée 50m, Charge PD 30W, Plug & Play Magnétique (Vendeur Tiers)",
@@ -3115,8 +4819,14 @@
     "url": "https://www.dealabs.com/bons-plans/emetteur-recepteur-hdmi-sans-fil-ugreen-usb-c-tx-hdmi-rx-1080p-60hz-portee-50m-charge-pd-30w-plug-play-magnetique-vendeur-tiers-3430756",
     "image_url": "",
     "detected_at": "2026-10-12T06:56:35+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 61.74,
+        "observed_at": "2026-10-12T12:59:39.198989+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie empilable 10 pièces en inox Sauter (3 casseroles 16/18/20 cm, 3 poêles 20/24/26 cm, 3 couvercles, poignée amovible)",
@@ -3129,7 +4839,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:56:23+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-12T12:59:39.198994+00:00"
+      }
+    ]
   },
   {
     "title": "Set robot entrainement ping-pong avec filet",
@@ -3142,7 +4858,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:55:42+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 54.99,
+        "observed_at": "2026-10-12T12:59:39.199000+00:00"
+      }
+    ]
   },
   {
     "title": "Chaussures Adidas Samba OG - Baskets, Tailles du 35,5 au 48",
@@ -3155,7 +4877,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:53:40+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 97.5,
+        "observed_at": "2026-10-12T12:59:39.199007+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de cuisine empilable en fonte Sauter 4 pièces 25 cm - Noir (Tous feux dont induction & four)",
@@ -3168,7 +4896,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:52:56+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.0,
+        "observed_at": "2026-10-12T12:59:39.199013+00:00"
+      }
+    ]
   },
   {
     "title": "Ecran PC Incurvé 34\" MSI MAG 346CQ - UWQHD, 180Hz, 1ms, 100% sRGB, HDR Ready",
@@ -3181,7 +4915,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:52:37+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 220.4,
+        "observed_at": "2026-10-12T12:59:39.199022+00:00"
+      }
+    ]
   },
   {
     "title": "Location LDD 36 mois/15000 km Voiture Citroën Ami Edition Ripcurl avec 1er Loyer de 490€",
@@ -3193,8 +4933,14 @@
     "url": "https://www.dealabs.com/bons-plans/location-ldd-ami-citroen-ripcurl-36-mois15000-km-1er-loyer-490eur-3430735",
     "image_url": "",
     "detected_at": "2026-10-12T06:50:47+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.0,
+        "observed_at": "2026-10-12T12:59:39.199028+00:00"
+      }
+    ]
   },
   {
     "title": "Amazon Fire TV Stick HD (nouvelle génération) : TV gratuite et en direct, télécommande vocale",
@@ -3207,7 +4953,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:50:41+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-12T12:59:39.199033+00:00"
+      }
+    ]
   },
   {
     "title": "LEGO Botanicals Le Bouquet de Tulipes 11501 LEGO",
@@ -3220,7 +4972,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:50:40+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 35.99,
+        "observed_at": "2026-10-12T12:59:39.199040+00:00"
+      }
+    ]
   },
   {
     "title": "BOMBANANA!",
@@ -3232,8 +4990,14 @@
     "url": "https://www.dealabs.com/bons-plans/bombanana-3430755",
     "image_url": "",
     "detected_at": "2026-10-12T06:49:51+00:00",
-    "category": "Mode",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 4.89,
+        "observed_at": "2026-10-12T12:59:39.199054+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de cuisine empilable en fonte Sauter 4 pièces 29 cm - Vert (Tous feux dont induction & four)",
@@ -3246,7 +5010,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:48:49+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.0,
+        "observed_at": "2026-10-12T12:59:39.199060+00:00"
+      }
+    ]
   },
   {
     "title": "Ampli guitare à lampes PRS DGT 15 David Grissom",
@@ -3259,7 +5029,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:48:17+00:00",
     "category": "Alimentation & boissons",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 999.0,
+        "observed_at": "2026-10-12T12:59:39.199069+00:00"
+      }
+    ]
   },
   {
     "title": "Wok en fonte d'acier Sauter 30 cm avec couvercle - Fond nid d'abeille (Tous feux dont induction)",
@@ -3272,7 +5048,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:45:15+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 29.0,
+        "observed_at": "2026-10-12T12:59:39.199078+00:00"
+      }
+    ]
   },
   {
     "title": "Billard US Championship 6ft Industriel",
@@ -3284,8 +5066,14 @@
     "url": "https://www.dealabs.com/bons-plans/billard-us-championship-6ft-industriel-3430751",
     "image_url": "",
     "detected_at": "2026-10-12T06:45:09+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 299.99,
+        "observed_at": "2026-10-12T12:59:39.199084+00:00"
+      }
+    ]
   },
   {
     "title": "Baby foot Mannoni Copa",
@@ -3297,8 +5085,14 @@
     "url": "https://www.dealabs.com/bons-plans/baby-foot-mannoni-copa-3430749",
     "image_url": "",
     "detected_at": "2026-10-12T06:41:57+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 299.99,
+        "observed_at": "2026-10-12T12:59:39.199091+00:00"
+      }
+    ]
   },
   {
     "title": "Set de 3 poêles en inox Triply Sauter Multinox 20/24/28 cm (Tous feux dont induction & four)",
@@ -3311,7 +5105,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:40:03+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.0,
+        "observed_at": "2026-10-12T12:59:39.199099+00:00"
+      }
+    ]
   },
   {
     "title": "Ecouteurs sans fil Baseus Open-Ear Inspire XC1 - Sound by Bose, Bluetooth, Blanc (Coloris Noir à 98,99€)",
@@ -3323,8 +5123,14 @@
     "url": "https://www.dealabs.com/bons-plans/casque-open-ear-baseus-inspire-xc1-sound-by-bose-bluetooth-3430745",
     "image_url": "",
     "detected_at": "2026-10-12T06:36:23+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 97.49,
+        "observed_at": "2026-10-12T12:59:39.199108+00:00"
+      }
+    ]
   },
   {
     "title": "Écran PC 15,6\" Full HD Raspberry Pi Monitor (1920x1080), 2 haut-parleurs intégrés (2 x 1,2 W), 1 HDMI, 1 Jack (lextronic.fr)",
@@ -3337,7 +5143,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:35:10+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 27.8,
+        "observed_at": "2026-10-12T12:59:39.199113+00:00"
+      }
+    ]
   },
   {
     "title": "[Clients Sosh] Smartphone 6,83\" Xiaomi Redmi Note 17 Pro - RAM 8 Go, 256 Go (Via 70€ d'ODR & 50€ de Bonus Reprise)",
@@ -3350,7 +5162,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:34:34+00:00",
     "category": "High-tech",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.0,
+        "observed_at": "2026-10-12T12:59:39.199120+00:00"
+      }
+    ]
   },
   {
     "title": "Cocotte ovale en fonte d'acier Sauter 30 cm - Vert mat (Tous feux dont induction)",
@@ -3363,7 +5181,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:31:36+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-12T12:59:39.199128+00:00"
+      }
+    ]
   },
   {
     "title": "Filtre Réservoir d'Eau Aqua Gusto 250 CU - pour Machines à Café (Vendeur Tiers)",
@@ -3376,7 +5200,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:31:13+00:00",
     "category": "Alimentation & boissons",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.58,
+        "observed_at": "2026-10-12T12:59:39.199136+00:00"
+      }
+    ]
   },
   {
     "title": "Chargeur Ugreen Nexode 65W - 3 Ports USB C, GaN Tech, PD 3.0, PSS, QC 4+/ 4.0/ 3.0, FCP (Vendeur Tiers)",
@@ -3389,7 +5219,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:30:11+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-12T12:59:39.199143+00:00"
+      }
+    ]
   },
   {
     "title": "klaxon HELLA TE26 SET pour Toyota",
@@ -3402,7 +5238,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:29:07+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 21.49,
+        "observed_at": "2026-10-12T12:59:39.199149+00:00"
+      }
+    ]
   },
   {
     "title": "Lego Ideas 21367 La fusée de Tintin",
@@ -3414,8 +5256,14 @@
     "url": "https://www.dealabs.com/bons-plans/lego-ideas-21367-la-fusee-de-tintin-3430741",
     "image_url": "",
     "detected_at": "2026-10-12T06:28:43+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 113.04,
+        "observed_at": "2026-10-12T12:59:39.199154+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de Cuisine Triply Sauter Multinox Pro - 9 Pièces, en Inox, 3 Poêles, Faitout, Sauteuse, Casserole & Couvercles",
@@ -3428,7 +5276,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:20:39+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-12T12:59:39.199161+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie Externe Ugreen Nexode 55W - 20000mAh, Compatible Charge Rapide (Vendeur Tiers)",
@@ -3440,8 +5294,14 @@
     "url": "https://www.dealabs.com/bons-plans/batterie-externe-ugreen-nexode-55w-20000mah-compatible-charge-rapide-3430734",
     "image_url": "",
     "detected_at": "2026-10-12T06:18:28+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 30.85,
+        "observed_at": "2026-10-12T12:59:39.199167+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 2 Caméras Blink Outdoor 4 - avec Caméra Blink Mini 2K+ Blanc & Module de Synchronisation de Base",
@@ -3453,8 +5313,14 @@
     "url": "https://www.dealabs.com/bons-plans/cameras-blink-outdoor-4-avec-blink-camera-mini-2k-blanc-module-de-synchronisation-de-base-inclus-3430738",
     "image_url": "",
     "detected_at": "2026-10-12T06:17:44+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 47.99,
+        "observed_at": "2026-10-12T12:59:39.199175+00:00"
+      }
+    ]
   },
   {
     "title": "Book Nook DIY Puzzle 3D à construire Mojino - thème Monde Magique, en bois, avec Lampes LED (Vendeur tiers)",
@@ -3466,8 +5332,14 @@
     "url": "https://www.dealabs.com/bons-plans/book-nook-diy-puzzle-3d-a-construire-mojino-theme-monde-magique-en-bois-avec-lampes-led-vendeur-tiers-3430737",
     "image_url": "",
     "detected_at": "2026-10-12T06:15:53+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 27.52,
+        "observed_at": "2026-10-12T12:59:39.199182+00:00"
+      }
+    ]
   },
   {
     "title": "LEGO Speed Champions Hypercar Bugatti Vision GT 77253",
@@ -3480,7 +5352,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:15:52+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-12T12:59:39.199191+00:00"
+      }
+    ]
   },
   {
     "title": "Peluche sonore Mattel Disney Pixar Toy Story Lotso",
@@ -3493,7 +5371,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:11:45+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.63,
+        "observed_at": "2026-10-12T12:59:39.199196+00:00"
+      }
+    ]
   },
   {
     "title": "25% cagnottés sur une sélection de pâte à modeler Play-Doh - Ex : Coffret Play-Doh Tourbillon de smoothies (via 2,25€ en crédit fidélité)",
@@ -3506,7 +5390,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:08:10+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.74,
+        "observed_at": "2026-10-12T12:59:39.199202+00:00"
+      }
+    ]
   },
   {
     "title": "Pack de 4 Yaourts Danette Edition spéciale Harry Potter saveur choco-citrouille (0,38€ via Carte fidélité)",
@@ -3519,7 +5409,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:07:46+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1.51,
+        "observed_at": "2026-10-12T12:59:39.199207+00:00"
+      }
+    ]
   },
   {
     "title": "Lave Linge Frontal Elsay - Hublot 10 Kg, Blanc (Via 66€ sur la Carte de Fidélité)",
@@ -3532,7 +5428,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T06:07:25+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 263.9,
+        "observed_at": "2026-10-12T12:59:39.199213+00:00"
+      }
+    ]
   },
   {
     "title": "Vol avec escale Aller/Retour Paris (CDG) Malé (MLE) Maldives, Du 23 Février au 12 Mars (Bagage à Main)",
@@ -3545,7 +5447,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:53:13+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 574.0,
+        "observed_at": "2026-10-12T12:59:39.199219+00:00"
+      }
+    ]
   },
   {
     "title": "Pull col rond finition roulottée vert kaki ou blanc - Tailles S ou XL",
@@ -3558,7 +5466,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:52:15+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.4,
+        "observed_at": "2026-10-12T12:59:39.199225+00:00"
+      }
+    ]
   },
   {
     "title": "Machine à Café Expresso Manuelle Delonghi Stilosa EC230.BK - 15 Bars, Buse Vapeur, Réservoir 1L",
@@ -3570,8 +5484,14 @@
     "url": "https://www.dealabs.com/bons-plans/machine-expresso-manuelle-delonghi-stilosa-ec230bk-15-bars-buse-vapeur-reservoir-1-l-3430727",
     "image_url": "",
     "detected_at": "2026-10-12T05:51:34+00:00",
-    "category": "Électroménager",
-    "price_verified": false
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 68.09,
+        "observed_at": "2026-10-12T12:59:39.199233+00:00"
+      }
+    ]
   },
   {
     "title": "Jusqu'à 100% de cashback sur le montant HT pour toute première souscription à un abonnement CyberGhost VPN via iGraal",
@@ -3584,7 +5504,8 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:50:36+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Débardeur de padel technique et respirant Kuikma PTK Light Beige - Tailles XS au XL",
@@ -3597,7 +5518,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:46:35+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-12T12:59:39.199239+00:00"
+      }
+    ]
   },
   {
     "title": "Aspirateur sans fil Xiaomi Vacuum Cleaner G30 Max - 700W, 90 min, Anti-enchevêtrement, Animaux 0,8L",
@@ -3610,7 +5537,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:42:45+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 279.99,
+        "observed_at": "2026-10-12T12:59:39.199244+00:00"
+      }
+    ]
   },
   {
     "title": "VTT tout-suspendu carbone 29\" Lapierre XR 6.9 - RockShox SID 120mm / SID Luxe 3P, Deore 1x12v, Taille M",
@@ -3623,7 +5556,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:35:12+00:00",
     "category": "Auto & moto",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1999.0,
+        "observed_at": "2026-10-12T12:59:39.199251+00:00"
+      }
+    ]
   },
   {
     "title": "Vélo Gravel Lapierre Crosshill AL 2.0 - Shimano CUES 2x10v, Freins hydrauliques, Fourche Carbone, M et L",
@@ -3636,7 +5575,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:34:00+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 888.0,
+        "observed_at": "2026-10-12T12:59:39.199259+00:00"
+      }
+    ]
   },
   {
     "title": "Pack Console Nintendo Switch 2 (Version UE) + Pokémon Legends : Z-A",
@@ -3649,7 +5594,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:20:05+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 455.99,
+        "observed_at": "2026-10-12T12:59:39.199265+00:00"
+      }
+    ]
   },
   {
     "title": "Console Nintendo Switch 2 - avec Pokémon Pokopia",
@@ -3662,7 +5613,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:13:53+00:00",
     "category": "Gaming",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 475.99,
+        "observed_at": "2026-10-12T12:59:39.199270+00:00"
+      }
+    ]
   },
   {
     "title": "Lot de 4 Bordures de Jardin Vevor Imitation Pierre - 4,7 m, Aspect Pierre, Gris",
@@ -3675,7 +5632,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:11:34+00:00",
     "category": "Maison",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 81.0,
+        "observed_at": "2026-10-12T12:59:39.199280+00:00"
+      }
+    ]
   },
   {
     "title": "Station de Recharge Vestel EVC04 AC Rhea - Jusqu'à 22 kW, Compteur MID & Commande Via Application",
@@ -3687,8 +5650,14 @@
     "url": "https://www.dealabs.com/bons-plans/station-de-recharge-vestel-evc04-ac-rhea-jusqua-22-kw-compteur-mid-et-commande-via-application-3430708",
     "image_url": "",
     "detected_at": "2026-10-12T05:11:29+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 349.0,
+        "observed_at": "2026-10-12T12:59:39.199292+00:00"
+      }
+    ]
   },
   {
     "title": "Réfrigérateur Combiné Elsay 408GEM00050 - 293L (210/83), No Frost, Classe E (Via 70€ en crédit fidélité)",
@@ -3701,7 +5670,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T05:01:53+00:00",
     "category": "Électroménager",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 279.9,
+        "observed_at": "2026-10-12T12:59:39.199300+00:00"
+      }
+    ]
   },
   {
     "title": "Sélection de Produits Sauter en Promotion - Ex : Batterie de Cuisine Full Inox Sauter : 3 poêles 20/24/26 cm + 1 poignée amovible",
@@ -3714,7 +5689,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T04:56:21+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 44.99,
+        "observed_at": "2026-10-12T12:59:39.199306+00:00"
+      }
+    ]
   },
   {
     "title": "Chaussure de trail Salomon alpharide 2 rouge et blanc du 40.2/3 au 47.1/3",
@@ -3727,7 +5708,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T04:45:34+00:00",
     "category": "Mode",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-12T12:59:39.199314+00:00"
+      }
+    ]
   },
   {
     "title": "Contrôleur de studio Stream Deck XL 32 touches Elgato (vendeur tier)",
@@ -3739,8 +5726,14 @@
     "url": "https://www.dealabs.com/bons-plans/controleur-de-studio-stream-deck-xl-32-touches-elgato-vendeur-tier-3430712",
     "image_url": "",
     "detected_at": "2026-10-12T04:38:44+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 184.98,
+        "observed_at": "2026-10-12T12:59:39.199320+00:00"
+      }
+    ]
   },
   {
     "title": "Sac de transport de trekking - 30 L à 40 L - DUFFEL 500 Extend Simond",
@@ -3753,7 +5746,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T04:33:33+00:00",
     "category": "Sport & loisirs",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-12T12:59:39.199325+00:00"
+      }
+    ]
   },
   {
     "title": "Black Border 2 et Black border 3",
@@ -3766,7 +5765,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T04:13:19+00:00",
     "category": "Bricolage",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 0.09,
+        "observed_at": "2026-10-12T12:59:39.199331+00:00"
+      }
+    ]
   },
   {
     "title": "Jogging Nike Jordan - rouge et noir",
@@ -3779,7 +5784,13 @@
     "image_url": "",
     "detected_at": "2026-10-12T03:56:25+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.0,
+        "observed_at": "2026-10-12T12:59:39.199340+00:00"
+      }
+    ]
   },
   {
     "title": "Rexel 06131 Pack de 1000 Agrafes No 56",
@@ -3792,7 +5803,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B000J66OB4.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T03:07:32+00:00",
     "category": "Bureau & papeterie",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Posca Acrylic Paint Marker Set... Color Medium, PC-5M (PC5M 8)",
@@ -3804,8 +5816,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B00DBTE7LA",
     "image_url": "https://m.media-amazon.com/images/P/B00DBTE7LA.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T00:23:44+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Lindy Rallonge secteur IEC, 3m",
@@ -3817,8 +5830,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B01CHDBSOY",
     "image_url": "https://m.media-amazon.com/images/P/B01CHDBSOY.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T22:45:35+00:00",
-    "category": "High-tech",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Trixie Lapin, Peluche, 15 cm, Beige",
@@ -3830,8 +5844,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B002BB4RJG",
     "image_url": "https://m.media-amazon.com/images/P/B002BB4RJG.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T22:30:20+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false
+    "category": "Animaux",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "PROXXON 2228774 - Muela corindón plana 2,35 x 2,5 mm (5 u)",
@@ -3844,7 +5859,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0017NOWV2.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T22:20:46+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "C.E. Pattberg AMERICA Ruban Pa...ur Présents, en Toute Occasion",
@@ -3857,7 +5873,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0070TX3DU.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T22:18:54+00:00",
     "category": "Autre",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Trixie Tunnel Avec Foin Et Pétales De Calendula 250 GR",
@@ -3870,7 +5887,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B00815PG5A.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T22:14:22+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "JR FARM Nid de Pissenlit 130 g",
@@ -3883,7 +5901,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B01LY9Y41W.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T22:14:22+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Récipient à Eau décoratif pour..., de Trixie - 15 x 3,5 x 12 cm",
@@ -3896,7 +5915,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B002YK1S1O.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T22:01:50+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "VERSELE-LAGA - Complete Cuni S...les - 1,75kg, Agrumes, 1 unité",
@@ -3909,7 +5929,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B00LV2I94A.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:53:23+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Disque d'exercice pour degus, ...râce à l’aire de course plate,",
@@ -3921,8 +5942,9 @@
     "url": "https://fr.camelcamelcamel.com/product/B0089DCAXA",
     "image_url": "https://m.media-amazon.com/images/P/B0089DCAXA.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:42:26+00:00",
-    "category": "Animaux",
-    "price_verified": false
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Tyrol | Litière Petits Animaux...squ'à 6 Semaines d'Utilisation",
@@ -3935,7 +5957,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0CVN4KBXK.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:37:36+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "TRIXIE Faule Grete Natural Living flammé Bois House-Parent",
@@ -3948,7 +5971,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B01LSLH9EO.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:37:35+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Francodex - Tortue VIT - 15 g",
@@ -3961,7 +5985,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B00HVYHO20.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:35:56+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Kerbl Pet Enclos d’extérieur et d‘intéri EUR Noir",
@@ -3974,7 +5999,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0CD24SF3F.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:32:21+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "TRIXIE 76133 Sable pour Terrarium Rouge foncé 5 kg",
@@ -3987,7 +6013,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B00435I66S.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:30:37+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Exoterra Bois d'Ornement pour Reptiles Pied de Vigne Sablé",
@@ -4000,7 +6027,8 @@
     "image_url": "https://m.media-amazon.com/images/P/B0032GAL4Y.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:27:37+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "biOrb AIR 60 Blanc 1 Unité",
@@ -4013,6 +6041,7 @@
     "image_url": "https://m.media-amazon.com/images/P/B00I9DTXSK.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-11T21:23:45+00:00",
     "category": "Animaux",
-    "price_verified": false
+    "price_verified": false,
+    "price_history": []
   }
 ]
