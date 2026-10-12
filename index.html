@@ -218,7 +218,7 @@ main{max-width:1320px;padding:38px 28px 84px}
 .hero-action-primary{background:linear-gradient(135deg,#46f58b,#b8ffcc);color:#07131c;box-shadow:0 10px 30px #46f58b24}
 .hero-action-secondary{background:#0b1724d9;color:var(--text);border:1px solid #476078}
 .home-shortcuts{margin-top:34px}
-.home-shortcut-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.home-shortcut-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
 .home-shortcut{display:flex;align-items:flex-start;gap:16px;padding:23px;background:var(--panel);border:1px solid var(--line);border-radius:17px;min-height:132px;transition:border-color .2s,transform .2s}
 .home-shortcut:hover{border-color:var(--green);transform:translateY(-3px)}
 .home-shortcut-icon{display:grid;place-items:center;flex:0 0 48px;height:48px;border-radius:13px;background:#173b2a;color:var(--green);font-size:24px}
@@ -245,8 +245,8 @@ main{max-width:1320px;padding:38px 28px 84px}
 @media(max-width:850px){.home-guide{padding:22px}.home-guide-grid{grid-template-columns:1fr}}
 
 body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-dealradar,body.home-page #fonctionnement,body.home-page #alertes{display:none!important}
-@media(max-width:850px){.nav{padding:14px 18px}.home-shortcut-grid{grid-template-columns:1fr}.hero{padding:38px 28px}.navlinks{display:none}main{padding:25px 18px 58px}}
-@media(max-width:520px){.nav-publish{font-size:10px;padding:10px 11px}.hero{padding:28px 20px}.hero-actions{flex-direction:column}.hero-action{width:100%}.home-shortcut{padding:18px}.section{margin-top:42px}}
+@media(max-width:850px){.nav{padding:14px 18px}.home-shortcut-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero{padding:38px 28px}.navlinks{display:none}main{padding:25px 18px 58px}}
+@media(max-width:520px){.nav-publish{font-size:10px;padding:10px 11px}.hero{padding:28px 20px}.hero-actions{flex-direction:column}.hero-action{width:100%}.home-shortcut-grid{grid-template-columns:1fr}.home-shortcut{padding:18px}.section{margin-top:42px}}
 
 </style>
 </head>
@@ -302,6 +302,7 @@ body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-
       <a class="home-shortcut" href="./publier.html"><span class="home-shortcut-icon">＋</span><span><strong>Publier une offre</strong><p>Partage une promotion, un code promo ou une erreur de prix potentielle. Tu peux passer par GitHub ou par Telegram sans compte GitHub.</p><span class="arrow">Proposer à la communauté ↗</span></span></a>
       <a class="home-shortcut" href="./offres.html"><span class="home-shortcut-icon">⌕</span><span><strong>Explorer le catalogue</strong><p>Recherche, filtre et trie les offres par date, réduction ou prix.</p><span class="arrow">Voir toutes les offres ↗</span></span></a>
       <a class="home-shortcut" href="./mon-dealradar.html"><span class="home-shortcut-icon">☆</span><span><strong>Mon espace personnel</strong><p>Retrouve tes favoris, tes objectifs de prix et ta sélection personnalisée.</p><span class="arrow">Gérer mon espace ↗</span></span></a>
+      <a class="home-shortcut" href="https://t.me/DealRadarAlertesBot?start=dealradar" target="_blank" rel="noopener noreferrer"><span class="home-shortcut-icon">🔔</span><span><strong>Recevoir les alertes</strong><p>Configure tes catégories et ton seuil de réduction sur Telegram pour recevoir les nouvelles offres même lorsque le navigateur est fermé.</p><span class="arrow">Configurer mes alertes ↗</span></span></a>
     </div>
   </section>
 
