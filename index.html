@@ -289,6 +289,12 @@ function safeDate(value) {
   const date = value ? new Date(value) : null;
   return date && !Number.isNaN(date.getTime()) ? date : null;
 }
+
+function productImage(offer, url) {
+  if (typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url)) return offer.image_url;
+  const asin = String(url || "").match(/\/dp\/([A-Z0-9]{10})(?:[/?]|$)/i);
+  return asin ? "https://images-na.ssl-images-amazon.com/images/P/" + asin[1].toUpperCase() + ".01.L.jpg" : "";
+}
 function matchesFilter(offer) {
   if (activeFilter === "all") return true;
   const category = String(offer.category || "").toLocaleLowerCase("fr");
@@ -333,8 +339,8 @@ function renderOffers() {
         ? (1 - Number(offer.price ?? offer.current_price) / Number(offer.reference_price ?? offer.original_price ?? offer.list_price)) * 100
         : null);
     const date = safeDate(offer.detected_at || offer.published_at);
-    const image = typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url) ? offer.image_url : "";
     const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
+    const image = productImage(offer, url);
     const prices = '<div class="deal-prices">' +
       (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">Prix à vérifier</span>') +
       (oldPrice && price && Number(offer.reference_price ?? offer.original_price ?? offer.list_price) > Number(offer.price ?? offer.current_price) ? '<span class="deal-old-price">' + oldPrice + '</span>' : '') +
