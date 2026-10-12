@@ -220,12 +220,16 @@ footer strong{color:var(--text)}
     <div class="filters" aria-label="Filtres des offres">
       <button class="filter active" type="button" data-filter="all">Toutes les catégories</button>
       <button class="filter" type="button" data-filter="tech">High-tech</button>
+      <button class="filter" type="button" data-filter="gaming">Gaming</button>
       <button class="filter" type="button" data-filter="maison">Maison</button>
+      <button class="filter" type="button" data-filter="electromenager">Électroménager</button>
       <button class="filter" type="button" data-filter="bricolage">Bricolage</button>
       <button class="filter" type="button" data-filter="famille">Bébé & enfants</button>
       <button class="filter" type="button" data-filter="animaux">Animaux</button>
       <button class="filter" type="button" data-filter="mode">Mode</button>
-      <button class="filter" type="button" data-filter="sport">Sport</button>
+      <button class="filter" type="button" data-filter="sport">Sport & loisirs</button>
+      <button class="filter" type="button" data-filter="beaute">Beauté & santé</button>
+      <button class="filter" type="button" data-filter="autre">Autre</button>
     </div>
     <p class="catalog-status" id="catalog-status" aria-live="polite">Chargement des offres…</p>
     <div class="deals-grid" id="deals-grid">
@@ -348,19 +352,44 @@ function handleProductImageError(img) {
   const label = img.parentElement && img.parentElement.querySelector(".deal-image-label");
   if (label) label.textContent = "Visuel indisponible";
 }
+function inferCategory(offer) {
+  const existing = String(offer.category || "").trim();
+  if (existing && !/^autre$/i.test(existing)) return existing;
+  const text = [offer.title, offer.description, offer.source, offer.url]
+    .filter(Boolean).join(" ").toLocaleLowerCase("fr")
+    .normalize("NFD").replace(/[\\u0300-\\u036f]/g, "");
+  const rules = [
+    ["Gaming", /\\b(gaming|gamer|playstation|ps[345]|xbox|nintendo|switch|steam deck|manette|casque gamer|clavier gamer|souris gamer)\\b/],
+    ["High-tech", /\\b(pc|ordinateur|laptop|smartphone|iphone|samsung galaxy|tablette|ipad|ssd|ram|processeur|carte graphique|gpu|cpu|informatique|ecran|moniteur|routeur|wifi|reseau|nas|imprimante 3d|ecouteurs|airpods|casque audio|televiseur|oled|projecteur|appareil photo|camera|drone)\\b/],
+    ["Électroménager", /\\b(lave-vaisselle|lave linge|lave-linge|seche-linge|aspirateur|robot aspirateur|frigo|refrigerateur|congelateur|four|micro-ondes|machine a cafe|cafetiere|bouilloire|mixeur|blender|air fryer|friteuse|grille-pain|robot cuisine|climatiseur|ventilateur|purificateur d'air|fer a repasser)\\b/],
+    ["Bricolage", /\\b(perceuse|visseuse|meuleuse|scie|ponceuse|outillage|outil|outils|bricolage|atelier|compresseur|cle a choc|etabli|quincaillerie|peinture|visserie|jardinage|tondeuse|taille-haie|debroussailleuse|tronconneuse|nettoyeur haute pression)\\b/],
+    ["Bébé & enfants", /\\b(bebe|enfant|enfants|puericulture|poussette|siege auto|biberon|couche|couches|lit bebe|lit enfant|chaise haute|babyphone|jouet|jouets|lego|playmobil|peluche|eveil)\\b/],
+    ["Animaux", /\\b(chien|chiens|chat|chats|animal|animaux|croquettes|litiere|laisse|arbre a chat|aquarium|terrarium|gamelle)\\b/],
+    ["Mode", /\\b(vetement|vetements|chaussure|chaussures|baskets|sneakers|manteau|veste|pantalon|jean|robe|chemise|t-shirt|sweat|pull|sac a main|mode|textile|chaussettes)\\b/],
+    ["Sport & loisirs", /\\b(sport|fitness|musculation|halteres?|tapis de course|velo|cyclisme|randonnee|camping|peche|football|basketball|tennis|yoga|running|ski|snowboard|paddle|kayak|golf|loisir|loisirs)\\b/],
+    ["Beauté & santé", /\\b(parfum|maquillage|cosmetique|beaute|soin visage|creme|shampoing|shampooing|rasoir|tondeuse barbe|brosse a dents|dentifrice|seche-cheveux|lisseur|epilateur|massage|bien-etre|hygiene|skincare)\\b/],
+    ["Maison", /\\b(maison|meuble|mobilier|canape|fauteuil|matelas|literie|oreiller|couette|drap|linge de lit|deco|decoration|luminaire|lampe|rideau|tapis|rangement|etagere|table basse|chaise|vaisselle|cuisine|jardin|terrasse|spa|piscine|barbecue|parasol)\\b/]
+  ];
+  for (const [name, pattern] of rules) if (pattern.test(text)) return name;
+  return "Autre";
+}
 function matchesFilter(offer) {
+  const category = inferCategory(offer);
   if (activeFilter === "all") return true;
-  const category = String(offer.category || "").toLocaleLowerCase("fr");
   const map = {
-    tech:/tech|informatique|gaming|électronique|ordinateur|console/,
-    maison:/maison|électroménager|jardin|décoration/,
-    bricolage:/bricolage|outillage|outil/,
-    famille:/bébé|enfant|famille|puériculture/,
-    animaux:/animal|chien|chat/,
-    mode:/mode|vêtement|chaussure/,
-    sport:/sport|fitness|loisir/
+    tech: "High-tech",
+    gaming: "Gaming",
+    maison: "Maison",
+    electromenager: "Électroménager",
+    bricolage: "Bricolage",
+    famille: "Bébé & enfants",
+    animaux: "Animaux",
+    mode: "Mode",
+    sport: "Sport & loisirs",
+    beaute: "Beauté & santé",
+    autre: "Autre"
   };
-  return (map[activeFilter] || /$a/).test(category);
+  return category === map[activeFilter];
 }
 function renderOffers() {
   const query = (dealSearch.value + " " + search.value).trim().toLocaleLowerCase("fr");
@@ -403,7 +432,7 @@ function renderOffers() {
       (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice ? '<span class="deal-old-price">' + oldPrice + '</span>' : '') +
       (discount !== null && discount > 0 ? '<span class="deal-discount">-' + Math.round(discount) + ' %</span>' : '') + '</div>';
     const title = String(offer.title || "Offre sans titre").replace(/[<>]/g,"");
-    const category = String(offer.category || "Autre").replace(/[<>]/g,"");
+    const category = inferCategory(offer).replace(/[<>]/g,"");
     const rawSource = String(offer.source || "Source non précisée");
     const sourceLower = rawSource.toLocaleLowerCase("fr");
     const isDealabs = /dealabs/.test(sourceLower) || /dealabs\.com/i.test(url);
@@ -462,7 +491,9 @@ categories.forEach(card => card.addEventListener("click", () => {
     /bébé|enfant|famille/.test(category) ? "famille" :
     /animal|chien|chat/.test(category) ? "animaux" :
     /mode|vêtement|chaussure/.test(category) ? "mode" :
-    /sport|fitness|loisir/.test(category) ? "sport" : "all";
+    /sport|fitness|loisir/.test(category) ? "sport" :
+    /électroménager|electromenager|aspirateur|cafetière|machine à café/.test(category) ? "electromenager" :
+    /beauté|santé|parfum|cosmétique|maquillage/.test(category) ? "beaute" : "all";
   filters.forEach(item => item.classList.toggle("active", item.dataset.filter === activeFilter));
   document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth"});
   renderOffers();
