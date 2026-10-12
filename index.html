@@ -100,6 +100,11 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .catalog-tools select{max-width:100%}
 .catalog-status{font-size:12px;color:var(--muted);margin:10px 0 14px}
 
+.pagination{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;margin:24px 0 0}
+.pagination button{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:9px;padding:10px 13px;cursor:pointer}
+.pagination button:hover:not(:disabled),.pagination button[aria-current="page"]{background:#173b2a;border-color:var(--green);color:var(--green)}
+.pagination button:disabled{opacity:.4;cursor:not-allowed}
+.pagination .page-summary{color:var(--muted);padding:0 3px}
 .dot{height:7px;width:7px;border-radius:50%;background:var(--green)}
 .info-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
 .info-card{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:22px}
@@ -303,6 +308,9 @@ const dealSort = document.getElementById("deal-sort");
 const dealGrid = document.getElementById("deals-grid");
 const catalogStatus = document.getElementById("catalog-status");
 const featuredGrid = document.getElementById("featured-grid");
+const pagination = document.getElementById("offers-pagination");
+const pageSize = 12;
+let currentPage = 1;
 let activeFilter = "all";
 let offers = [];
 
