@@ -227,6 +227,21 @@ main{max-width:1320px;padding:38px 28px 84px}
 .featured-grid{gap:18px}
 .featured-card{padding:16px}
 .featured-title{font-size:15px}
+
+.home-guide{margin-top:30px;padding:30px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(135deg,#101f2b,#0c1925)}
+.home-guide-head{max-width:760px;margin-bottom:20px}
+.home-guide-head h2{font-size:clamp(24px,3vw,32px);margin:10px 0}
+.home-guide-head p{color:var(--muted);font-size:14px;line-height:1.7;margin:0}
+.home-guide-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.home-guide-step{display:flex;gap:13px;align-items:flex-start;padding:17px;background:#0a1521;border:1px solid #263b4e;border-radius:13px}
+.home-guide-number{display:grid;place-items:center;flex:0 0 39px;height:39px;border-radius:11px;background:#173b2a;color:var(--green);font-weight:900;font-size:13px}
+.home-guide-step h3{font-size:14px;margin:2px 0 7px}
+.home-guide-step p{font-size:12px;line-height:1.65;color:var(--muted);margin:0}
+.home-confidence-note{display:flex;gap:10px 18px;flex-wrap:wrap;margin-top:15px;padding-top:15px;border-top:1px solid var(--line);font-size:11px;color:var(--muted);line-height:1.6}
+.home-confidence-note strong{color:var(--text);width:100%;font-size:12px}
+.home-confidence-note b{color:var(--green)}
+@media(max-width:850px){.home-guide{padding:22px}.home-guide-grid{grid-template-columns:1fr}}
+
 body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-dealradar,body.home-page #fonctionnement,body.home-page #alertes{display:none!important}
 @media(max-width:850px){.nav{padding:14px 18px}.home-shortcut-grid{grid-template-columns:1fr}.hero{padding:38px 28px}.navlinks{display:none}main{padding:25px 18px 58px}}
 @media(max-width:520px){.nav-publish{font-size:10px;padding:10px 11px}.hero{padding:28px 20px}.hero-actions{flex-direction:column}.hero-action{width:100%}.home-shortcut{padding:18px}.section{margin-top:42px}}
@@ -260,8 +275,23 @@ body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-
         <a class="hero-action hero-action-primary" href="./publier.html">＋ Publier une promo ou une erreur de prix</a>
         <a class="hero-action hero-action-secondary" href="./offres.html">Explorer toutes les offres ↗</a>
       </div>
-      <div class="hero-note">Les offres proposées par la communauté sont vérifiées avant d’être considérées comme fiables.</div>
+      <div class="hero-note">Les prix peuvent changer rapidement. Le score de confiance est une estimation : vérifie toujours le prix final chez le marchand.</div>
     </div>
+  </section>
+
+
+  <section class="home-guide" aria-labelledby="home-guide-title">
+    <div class="home-guide-head">
+      <span class="eyebrow">Simple et transparent</span>
+      <h2 id="home-guide-title">Comment utiliser DealRadar ?</h2>
+      <p>Repère une offre, vérifie les informations, puis compare le prix final avant d’acheter.</p>
+    </div>
+    <div class="home-guide-grid">
+      <article class="home-guide-step"><span class="home-guide-number">01</span><div><h3>Explore les offres</h3><p>Recherche un produit ou filtre par catégorie, budget et réduction annoncée.</p></div></article>
+      <article class="home-guide-step"><span class="home-guide-number">02</span><div><h3>Vérifie les preuves</h3><p>Regarde la date, le prix de référence et l’indice de confiance. Un score faible signifie qu’il manque des éléments de vérification.</p></div></article>
+      <article class="home-guide-step"><span class="home-guide-number">03</span><div><h3>Compare chez le marchand</h3><p>Vérifie le prix final, les frais de livraison, les conditions et la disponibilité avant de commander.</p></div></article>
+    </div>
+    <div class="home-confidence-note"><strong>Comprendre l’indice de confiance</strong><span><b>Élevé</b> : plusieurs éléments concordent.</span><span><b>Moyen</b> : certains éléments sont présents, mais il reste des points à contrôler.</span><span><b>Faible</b> : peu de preuves disponibles. Ce n’est ni une garantie ni une note de qualité du produit.</span></div>
   </section>
 
   <section class="home-shortcuts">
@@ -354,6 +384,8 @@ body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-
       </label>
       <label>Prix maximum (€)<input id="max-price" type="number" min="0" step="1" placeholder="Sans limite" inputmode="decimal"></label>
       <label class="check-filter"><input id="hide-old" type="checkbox"> Masquer les offres de plus de 7 jours</label>
+      <label class="check-filter"><input id="only-verified" type="checkbox"> Prix confirmé</label>
+      <label class="check-filter"><input id="only-high-confidence" type="checkbox"> Confiance moyenne ou élevée</label>
       <button class="reset-filters" id="reset-filters" type="button">Réinitialiser les filtres</button>
     </div>
     <div class="filters" aria-label="Filtres des offres">
@@ -457,6 +489,8 @@ const dealSort = document.getElementById("deal-sort");
 const minDiscountInput = document.getElementById("min-discount");
 const maxPriceInput = document.getElementById("max-price");
 const hideOldInput = document.getElementById("hide-old");
+const onlyVerifiedInput = document.getElementById("only-verified");
+const onlyHighConfidenceInput = document.getElementById("only-high-confidence");
 const dealGrid = document.getElementById("deals-grid");
 const catalogStatus = document.getElementById("catalog-status");
 const featuredGrid = document.getElementById("featured-grid");
@@ -725,6 +759,8 @@ function renderOffers() {
     if (minDiscount > 0 && (discount === null || discount < minDiscount)) return false;
     if (maxPrice !== null && (price === null || price > maxPrice)) return false;
     if (hideOldInput.checked && offerIsOld(offer)) return false;
+    if (onlyVerifiedInput.checked && offer.price_verified !== true) return false;
+    if (onlyHighConfidenceInput.checked && !(typeof window.DealRadarTrust === "function" && window.DealRadarTrust(offer).score >= 50)) return false;
     return true;
   });
   const sort = dealSort.value;
@@ -868,6 +904,8 @@ dealSort.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 minDiscountInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 maxPriceInput.addEventListener("input", () => { currentPage = 1; renderOffers(); });
 hideOldInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+onlyVerifiedInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+onlyHighConfidenceInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 document.getElementById("reset-filters").addEventListener("click", () => {
   dealSearch.value = "";
   search.value = "";
@@ -875,6 +913,8 @@ document.getElementById("reset-filters").addEventListener("click", () => {
   minDiscountInput.value = "0";
   maxPriceInput.value = "";
   hideOldInput.checked = false;
+  onlyVerifiedInput.checked = false;
+  onlyHighConfidenceInput.checked = false;
   activeFilter = "all";
   currentPage = 1;
   filters.forEach(item => item.classList.toggle("active", item.dataset.filter === "all"));
