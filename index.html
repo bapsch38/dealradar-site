@@ -132,6 +132,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 footer{border-top:1px solid var(--line);padding:28px 24px;color:var(--muted);font-size:12px}
 .footer-inner{max-width:1240px;margin:auto;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 footer strong{color:var(--text)}
+.telegram-private-link{background:transparent;border:1px solid var(--green);color:var(--green)}
 [hidden]{display:none!important}
 @media(max-width:850px){
  .categories{grid-template-columns:repeat(3,minmax(0,1fr))}
@@ -312,6 +313,7 @@ footer strong{color:var(--text)}
   <section class="banner" id="alertes">
     <div><h2>Reçois les bonnes affaires dès leur détection.</h2><p>Retrouve les alertes DealRadar sur Telegram. Pour recevoir des alertes privées personnalisées, ouvre le profil du bot qui publie les offres et envoie /start, puis règle tes catégories et ton seuil de réduction. Vérifie toujours le prix final chez le marchand avant achat.</p></div>
     <a class="pill" href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">Rejoindre Telegram ↗</a>
+    <a class="pill telegram-private-link" id="telegram-private-link" href="#" target="_blank" rel="noopener noreferrer" hidden>Configurer mes alertes ↗</a>
   </section>
 </main>
 
@@ -694,6 +696,20 @@ function renderPagination(totalPages, totalItems) {
   pagination.innerHTML = buttons.join("");
 }
 
+async function loadTelegramBotInfo() {
+  const link = document.getElementById("telegram-private-link");
+  try {
+    const response = await fetch("./bot-info.json", {cache:"no-store"});
+    if (!response.ok) return;
+    const info = await response.json();
+    if (info && typeof info.url === "string" && /^https:\/\/t\.me\/[A-Za-z0-9_]+\?start=dealradar$/.test(info.url)) {
+      link.href = info.url;
+      link.hidden = false;
+    }
+  } catch (_) {
+    // Le lien privé reste masqué tant que le nom public du bot n'est pas disponible.
+  }
+}
 async function loadOffers() {
   try {
     const response = await fetch("./offers.json", {cache:"no-store"});
@@ -769,6 +785,7 @@ categories.forEach(card => card.addEventListener("click", () => {
   renderOffers();
 }));
 updateCategories();
+loadTelegramBotInfo();
 loadOffers();
 </script>
 </body>
