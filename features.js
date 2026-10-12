@@ -208,8 +208,8 @@
     const prefs = preferences();
     const chosen = Array.isArray(prefs.categories) ? prefs.categories : [];
     const candidates = offers.filter(offer => cleanUrl(offer.url) && (chosen.length === 0 || chosen.includes(categoryOf(offer))))
-      .map(offer => ({offer, discount:discountOf(offer), trust:trust(offer).score}))
-      .sort((a,b) => (b.trust - a.trust) || ((b.discount ?? -1) - (a.discount ?? -1)))
+      .map(offer => ({offer, discount:discountOf(offer), trust:trust(offer)}))
+      .sort((a,b) => (b.trust.score - a.trust.score) || ((b.discount ?? -1) - (a.discount ?? -1)))
       .slice(0, 6);
     if (prefs.personalized === false) {
       root.innerHTML = '<div class="dr-empty">La sélection personnalisée est désactivée. Active-la ou choisis tes univers ci-dessus.</div>';
@@ -219,12 +219,12 @@
       root.innerHTML = '<div class="dr-empty">Aucune offre ne correspond encore à tes univers. Choisis plus de catégories ou laisse la sélection ouverte.</div>';
       return;
     }
-    root.innerHTML = candidates.map(({offer, discount, trust:score}) => {
+    root.innerHTML = candidates.map(({offer, discount, trust:confidence}) => {
       const url = cleanUrl(offer.url);
       const image = typeof productImageCandidates === "function" ? productImageCandidates(offer, url)[0] : (offer.image_url || "");
       return '<article class="dr-mini-card">' +
         (image ? '<img src="' + image.replace(/"/g, "&quot;") + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : '') +
-        '<div class="dr-mini-body"><div class="dr-mini-meta">' + safeText(categoryOf(offer)) + ' · confiance indicative ' + score + '/100</div>' +
+        '<div class="dr-mini-body"><div class="dr-mini-meta">' + safeText(categoryOf(offer)) + ' · confiance ' + confidence.level.toLowerCase() + ' · ' + confidence.score + '/100</div>' +
         '<a class="dr-mini-title" href="' + url.replace(/"/g, "&quot;") + '" target="_blank" rel="noopener noreferrer sponsored">' + safeText(offer.title || "Offre sans titre") + '</a>' +
         '<div class="dr-mini-price">' + money(priceOf(offer)) + (discount == null ? "" : ' <span>-' + Math.round(discount) + ' %</span>') + '</div>' +
         '<button type="button" class="dr-action dr-fav" data-offer-url="' + url.replace(/"/g, "&quot;") + '">' +
@@ -269,10 +269,12 @@
       const score = trust(offer);
       const action = document.createElement("div");
       action.className = "dr-card-actions";
-      action.innerHTML = '<div class="dr-trust" title="' + score.reasons.join(" · ").replace(/"/g, "&quot;") +
-        '"><span>Indice de confiance indicatif</span><strong>' + score.score + '/100</strong><small>' +
-        score.reasons.join(" · ") + (score.reasons.length ? " — " : "") +
-        'Ce score est une estimation automatique, pas une garantie du marchand.</small></div>' +
+      const explanation = [...score.reasons, ...score.warnings];
+      action.innerHTML = '<div class="dr-trust" title="' + explanation.join(" · ").replace(/"/g, "&quot;") +
+        '"><span>Indice de confiance · ' + score.level + '</span><strong>' + score.score + '/100</strong><small>' +
+        (score.reasons.length ? 'Points positifs : ' + score.reasons.join(" · ") + '. ' : '') +
+        (score.warnings.length ? 'À vérifier : ' + score.warnings.join(" · ") + '. ' : '') +
+        'Estimation indicative, pas une garantie du marchand.</small></div>' +
         '<div class="dr-button-row"><button type="button" class="dr-action dr-fav" data-offer-url="' + url.replace(/"/g, "&quot;") + '">' +
         (favorites().includes(url) ? "★ Favori" : "☆ Favoris") + '</button><button type="button" class="dr-action dr-target" data-offer-url="' +
         url.replace(/"/g, "&quot;") + '">🔔 Alerte de prix</button></div>' +
