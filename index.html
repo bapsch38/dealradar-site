@@ -60,6 +60,17 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .filter{background:var(--panel);border:1px solid var(--line);border-radius:30px;color:var(--muted);padding:9px 14px;cursor:pointer;font-size:12px}
 .filter.active,.filter:hover{background:#173b2a;border-color:var(--green);color:var(--green)}
 .deals-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.featured-section{margin-top:30px}
+.featured-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.featured-card{display:grid;grid-template-columns:112px minmax(0,1fr);gap:14px;align-items:center;background:linear-gradient(135deg,#112a25,#101c2b 70%);border:1px solid #31513f;border-radius:15px;padding:13px;min-width:0;transition:transform .2s,border-color .2s}
+.featured-card:hover{transform:translateY(-3px);border-color:var(--green)}
+.featured-image{width:112px;height:112px;object-fit:contain;background:#fff;border-radius:10px}
+.featured-title{font-size:14px;line-height:1.4;font-weight:750;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin:7px 0}
+.featured-price{font-size:20px;font-weight:850;color:var(--green)}
+.featured-old-price{font-size:12px;color:var(--muted);text-decoration:line-through;margin-left:7px}
+.featured-label{font-size:10px;color:#ffcf70;font-weight:800;letter-spacing:.3px;text-transform:uppercase}
+.featured-foot{font-size:10px;color:var(--muted);margin-top:7px}
+.featured-empty{grid-column:1/-1;padding:18px;border:1px dashed var(--line);border-radius:14px;color:var(--muted);font-size:13px}
 .empty-state{grid-column:1/-1;text-align:center;border:1px dashed #34485e;background:#0c1725;border-radius:18px;padding:36px 22px}
 .empty-icon{font-size:34px;margin-bottom:12px}
 .empty-state h3{margin:0 0 9px;font-size:19px}
@@ -120,7 +131,9 @@ footer strong{color:var(--text)}
  .categories{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
  .category-card{min-height:135px}
  .category-card img{height:95px}
- .deals-grid,.info-grid{grid-template-columns:1fr}
+ .deals-grid,.info-grid,.featured-grid{grid-template-columns:1fr}
+ .featured-card{grid-template-columns:94px minmax(0,1fr)}
+ .featured-image{width:94px;height:94px}
  .section-head{align-items:start;flex-direction:column}
  .banner{align-items:flex-start;flex-direction:column;padding:22px}
  h2{font-size:22px}
@@ -203,6 +216,17 @@ footer strong{color:var(--text)}
     </div>
   </section>
 
+  <section class="section featured-section" id="selection-dealradar">
+    <div class="section-head">
+      <div><h2>🔥 Les réductions à regarder</h2><p>Une sélection automatique des offres affichant au moins 15 % de baisse avec un prix de référence disponible.</p></div>
+      <span class="small-link">Sélection automatique</span>
+    </div>
+    <div class="featured-grid" id="featured-grid" aria-live="polite">
+      <div class="featured-empty">Analyse des offres en cours…</div>
+    </div>
+    <p class="catalog-status">Les réductions sont calculées à partir des prix présents dans le flux. Vérifie le prix final chez le marchand avant achat.</p>
+  </section>
+
   <section class="section" id="dernieres-offres">
     <div class="section-head">
       <div><h2>Les dernières réductions</h2><p>Les nouvelles opportunités, classées par date de publication.</p></div>
@@ -277,6 +301,7 @@ const dealSearch = document.getElementById("deal-search");
 const dealSort = document.getElementById("deal-sort");
 const dealGrid = document.getElementById("deals-grid");
 const catalogStatus = document.getElementById("catalog-status");
+const featuredGrid = document.getElementById("featured-grid");
 let activeFilter = "all";
 let offers = [];
 
@@ -403,7 +428,45 @@ function matchesFilter(offer) {
   };
   return category === map[activeFilter];
 }
+function escapeHtml(value) {
+  return String(value ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}
+function renderFeaturedOffers() {
+  const picks = offers.map(offer => {
+    const price = parsePriceValue(offer.price ?? offer.current_price);
+    const reference = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
+    const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
+    if (price === null || reference === null || reference <= price || !url) return null;
+    const discount = (1 - price / reference) * 100;
+    if (discount < 15) return null;
+    return {offer, price, reference, discount, url};
+  }).filter(Boolean).sort((a, b) =>
+    Number(b.offer.price_verified === true) - Number(a.offer.price_verified === true) ||
+    b.discount - a.discount
+  ).slice(0, 3);
+  if (!picks.length) {
+    featuredGrid.innerHTML = '<div class="featured-empty">Pas encore assez d’offres avec une baisse d’au moins 15 % et un prix de référence disponible. La sélection se remplira automatiquement dès que le flux en contiendra.</div>';
+    return;
+  }
+  featuredGrid.innerHTML = picks.map(item => {
+    const offer = item.offer;
+    const images = productImageCandidates(offer, item.url);
+    const image = images[0] || "";
+    const source = /dealabs/i.test(String(offer.source || "") + " " + item.url) ? "Dealabs" :
+      (/amazon/i.test(String(offer.source || "") + " " + item.url) ? "Amazon" : String(offer.source || "Source inconnue"));
+    const title = escapeHtml(offer.title || "Offre sans titre");
+    const img = image
+      ? '<img class="featured-image" src="' + escapeAttribute(image) + '" alt="' + title + '" loading="lazy" referrerpolicy="no-referrer">'
+      : '<div class="featured-image" role="img" aria-label="Visuel indisponible"></div>';
+    return '<a class="featured-card" href="' + escapeAttribute(item.url) + '" target="_blank" rel="noopener noreferrer sponsored">' +
+      img + '<div><div class="featured-label">-' + Math.round(item.discount) + ' % annoncé</div>' +
+      '<div class="featured-title">' + title + '</div><div><span class="featured-price">' + formatPrice(item.price) + '</span>' +
+      '<span class="featured-old-price">' + formatPrice(item.reference) + '</span></div>' +
+      '<div class="featured-foot">' + escapeHtml(source) + ' · ' + (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le marchand') + '</div></div></a>';
+  }).join("");
+}
 function renderOffers() {
+  renderFeaturedOffers();
   const query = (dealSearch.value + " " + search.value).trim().toLocaleLowerCase("fr");
   const list = offers.filter(offer => {
     const text = [offer.title, offer.category, offer.source, offer.description].filter(Boolean).join(" ").toLocaleLowerCase("fr");
@@ -411,7 +474,14 @@ function renderOffers() {
   });
   const sort = dealSort.value;
   list.sort((a,b) => {
-    if (sort === "discount") return (Number(b.discount_percent)||-1) - (Number(a.discount_percent)||-1);
+    if (sort === "discount") {
+      const discountOf = offer => {
+        const current = parsePriceValue(offer.price ?? offer.current_price);
+        const reference = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
+        return current !== null && reference !== null && reference > current ? (1 - current / reference) * 100 : -1;
+      };
+      return discountOf(b) - discountOf(a);
+    }
     if (sort === "price-asc") return (Number(a.price)||Infinity) - (Number(b.price)||Infinity);
     if (sort === "price-desc") return (Number(b.price)||-1) - (Number(a.price)||-1);
     return (safeDate(b.detected_at)?.getTime()||0) - (safeDate(a.detected_at)?.getTime()||0);
@@ -428,12 +498,11 @@ function renderOffers() {
     const referencePrice = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
     const price = formatPrice(currentPrice);
     const oldPrice = formatPrice(referencePrice);
-    const discountValue = Number(offer.discount_percent);
-    const discount = Number.isFinite(discountValue) && discountValue > 0
-      ? discountValue
-      : (currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
-        ? (1 - currentPrice / referencePrice) * 100
-        : null);
+    // N’afficher une réduction que si le prix de référence est supérieur au prix actuel.
+    // Cela évite les pourcentages incohérents ou sans prix de comparaison disponible.
+    const discount = currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
+      ? (1 - currentPrice / referencePrice) * 100
+      : null;
     const isDealabs = /dealabs/.test(String(offer.source || "").toLowerCase()) || /dealabs/i.test(String(offer.url || ""));
     const date = safeDate(offer.detected_at || offer.published_at);
     const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
