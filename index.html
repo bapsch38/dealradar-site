@@ -281,9 +281,18 @@ function updateCategories() {
   });
 }
 
+function parsePriceValue(value) {
+  if (typeof value === "number") return Number.isFinite(value) && value > 0 ? value : null;
+  if (typeof value !== "string" || !value.trim()) return null;
+  let text = value.trim().replace(/[€\\s\\u00a0]/g, "");
+  if (text.includes(",")) text = text.replace(/\\./g, "").replace(",", ".");
+  const number = Number(text);
+  return Number.isFinite(number) && number > 0 ? number : null;
+}
 function formatPrice(value) {
-  if (typeof value !== "number" || !Number.isFinite(value)) return "";
-  return new Intl.NumberFormat("fr-FR", {style:"currency", currency:"EUR"}).format(value);
+  const number = parsePriceValue(value);
+  if (number === null) return "";
+  return new Intl.NumberFormat("fr-FR", {style:"currency", currency:"EUR"}).format(number);
 }
 function safeDate(value) {
   const date = value ? new Date(value) : null;
@@ -359,13 +368,15 @@ function renderOffers() {
     return;
   }
   dealGrid.innerHTML = list.map(offer => {
-    const price = formatPrice(offer.price ?? offer.current_price);
-    const oldPrice = formatPrice(offer.reference_price ?? offer.original_price ?? offer.list_price);
+    const currentPrice = parsePriceValue(offer.price ?? offer.current_price);
+    const referencePrice = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
+    const price = formatPrice(currentPrice);
+    const oldPrice = formatPrice(referencePrice);
     const discountValue = Number(offer.discount_percent);
     const discount = Number.isFinite(discountValue) && discountValue > 0
       ? discountValue
-      : (Number(offer.price ?? offer.current_price) > 0 && Number(offer.reference_price ?? offer.original_price ?? offer.list_price) > Number(offer.price ?? offer.current_price)
-        ? (1 - Number(offer.price ?? offer.current_price) / Number(offer.reference_price ?? offer.original_price ?? offer.list_price)) * 100
+      : (currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
+        ? (1 - currentPrice / referencePrice) * 100
         : null);
     const date = safeDate(offer.detected_at || offer.published_at);
     const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
@@ -380,15 +391,20 @@ function renderOffers() {
     const category = String(offer.category || "Autre").replace(/[<>]/g,"");
     const rawSource = String(offer.source || "Source non précisée");
     const sourceLower = rawSource.toLocaleLowerCase("fr");
-    const source = /dealabs/.test(sourceLower) ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource).replace(/[<>]/g,"");
-    const description = String(offer.description || "").replace(/[<>]/g,"");
+    const isDealabs = /dealabs/.test(sourceLower) || /dealabs\.com/i.test(url);
+    const source = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource).replace(/[<>]/g,"");
+    const descriptionText = String(offer.description || "").replace(/<[^>]*>/g," ").replace(/\\s+/g," ").trim().replace(/[<>]/g,"");
+    const descriptionLimit = isDealabs ? 120 : 180;
+    const description = descriptionText.length > descriptionLimit
+      ? descriptionText.slice(0, descriptionLimit).replace(/\\s+\\S*$/, "") + "…"
+      : descriptionText;
     const fallbackImage = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef2f6"/><g fill="none" stroke="#9aa8b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><rect x="315" y="145" width="170" height="150" rx="18"/><path d="M350 330h100M400 295v35"/></g><text x="400" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#64748b">Image indisponible</text></svg>');
     return '<article class="deal-card">' +
       '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + title.replace(/"/g,"&quot;") + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
       '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + category + '</div><span class="deal-source-badge">' + source + '</span></div><h3 class="deal-title">' + title + '</h3>' +
       prices + (description ? '<p class="deal-meta">' + description + '</p>' : '') +
       '<div class="deal-meta">' + (date ? 'Détectée le ' + date.toLocaleDateString("fr-FR") + ' · ' : '') +
-      (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le vendeur') + '</div>' +
+      (offer.price_verified === true ? 'Prix vérifié' : (price ? 'Prix à confirmer chez le vendeur' : 'Prix non communiqué par la source')) + '</div>' +
       (url ? '<a class="deal-cta" href="' + url + '" target="_blank" rel="noopener noreferrer sponsored">Voir l’offre ↗</a>' : '') +
       '</div></article>';
   }).join("");
