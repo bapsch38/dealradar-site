@@ -308,7 +308,7 @@ footer strong{color:var(--text)}
   </section>
 
   <section class="banner" id="alertes">
-    <div><h2>Reçois les bonnes affaires dès leur détection.</h2><p>Retrouve les alertes DealRadar sur Telegram. Les offres sont mises à jour automatiquement. Vérifie toujours le prix final chez le marchand avant achat.</p></div>
+    <div><h2>Reçois les bonnes affaires dès leur détection.</h2><p>Retrouve les alertes DealRadar sur Telegram. Pour recevoir des alertes privées personnalisées, ouvre le profil du bot qui publie les offres et envoie /start, puis règle tes catégories et ton seuil de réduction. Vérifie toujours le prix final chez le marchand avant achat.</p></div>
     <a class="pill" href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">Rejoindre Telegram ↗</a>
   </section>
 </main>
@@ -538,10 +538,10 @@ function renderPriceHistory(offer) {
     '<div class="price-history-note">' + history.length + ' observations · selon les données collectées par DealRadar</div></div>';
 }
 function reportCategoryUrl(offer) {
-  const subject = 'Catégorie incorrecte sur DealRadar';
+  const title = 'Catégorie incorrecte : ' + (offer.title || 'offre DealRadar');
   const body = 'Produit : ' + (offer.title || '') + '\nCatégorie affichée : ' + inferCategory(offer) +
     '\nLien : ' + (offer.url || '') + '\nCatégorie souhaitée : ';
-  return 'mailto:dealradar.contact@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+  return 'https://github.com/bapsch38/dealradar-site/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
 }
 function renderFeaturedOffers() {
   const picks = offers.map(offer => {
@@ -669,7 +669,7 @@ function renderOffers() {
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
       renderPriceHistory(offer) +
       (url ? '<a class="deal-cta" href="' + url + '" target="_blank" rel="noopener noreferrer sponsored">Voir l’offre ↗</a>' : '') +
-      '<a class="deal-report" href="' + escapeAttribute(reportCategoryUrl(offer)) + '">Signaler une catégorie incorrecte</a>' +
+      '<a class="deal-report" href="' + escapeAttribute(reportCategoryUrl(offer)) + '" target="_blank" rel="noopener noreferrer">Signaler une catégorie incorrecte</a>' +
       '</div></article>';
   }).join("");
 }
