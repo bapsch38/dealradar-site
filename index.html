@@ -267,6 +267,7 @@ footer strong{color:var(--text)}
         <p>DealRadar n’affiche que les offres présentes dans son flux de données. Aucun prix ou pourcentage n’est inventé.</p>
       </div>
     </div>
+    <nav class="pagination" id="offers-pagination" aria-label="Pagination des offres"></nav>
   </section>
 
   <section class="section" id="fonctionnement">
@@ -486,14 +487,21 @@ function renderOffers() {
     if (sort === "price-desc") return (Number(b.price)||-1) - (Number(a.price)||-1);
     return (safeDate(b.detected_at)?.getTime()||0) - (safeDate(a.detected_at)?.getTime()||0);
   });
-  catalogStatus.textContent = list.length ? list.length + (list.length > 1 ? " offres affichées" : " offre affichée") : "";
+  const totalPages = Math.max(1, Math.ceil(list.length / pageSize));
+  currentPage = Math.min(currentPage, totalPages);
+  const startIndex = (currentPage - 1) * pageSize;
+  const pageOffers = list.slice(startIndex, startIndex + pageSize);
+  catalogStatus.textContent = list.length
+    ? list.length + (list.length > 1 ? " offres · " : " offre · ") + "page " + currentPage + " / " + totalPages
+    : "";
+  renderPagination(totalPages, list.length);
   if (!list.length) {
     dealGrid.innerHTML = '<div class="empty-state"><div class="empty-icon">⌁</div><div class="status-chip"><span class="dot"></span> Catalogue sans offre correspondante</div><h3>' +
       (offers.length ? "Aucun résultat pour ces filtres" : "Les premières offres arrivent progressivement") +
       '</h3><p>' + (offers.length ? "Modifie la recherche ou sélectionne une autre catégorie." : "Le flux de données est prêt à être connecté. Dès que des offres réelles seront publiées, elles apparaîtront ici. Aucun faux prix ni fausse réduction.") + '</p><a class="pill" style="display:inline-block;margin-top:18px" href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">Suivre DealRadar sur Telegram ↗</a></div>';
     return;
   }
-  dealGrid.innerHTML = list.map(offer => {
+  dealGrid.innerHTML = pageOffers.map(offer => {
     const currentPrice = parsePriceValue(offer.price ?? offer.current_price);
     const referencePrice = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
     const price = formatPrice(currentPrice);
@@ -542,6 +550,25 @@ function renderOffers() {
       '</div></article>';
   }).join("");
 }
+function renderPagination(totalPages, totalItems) {
+  if (!pagination) return;
+  if (totalItems <= pageSize) {
+    pagination.innerHTML = "";
+    return;
+  }
+  const buttons = [];
+  buttons.push('<button type="button" data-page="' + (currentPage - 1) + '"' + (currentPage === 1 ? " disabled" : "") + ' aria-label="Page précédente">← Précédent</button>');
+  const pages = new Set([1, totalPages, currentPage - 1, currentPage, currentPage + 1]);
+  let previous = 0;
+  [...pages].filter(page => page >= 1 && page <= totalPages).sort((a, b) => a - b).forEach(page => {
+    if (previous && page > previous + 1) buttons.push('<span class="page-summary">…</span>');
+    buttons.push('<button type="button" data-page="' + page + '"' + (page === currentPage ? ' aria-current="page"' : "") + ' aria-label="Page ' + page + '">' + page + '</button>');
+    previous = page;
+  });
+  buttons.push('<button type="button" data-page="' + (currentPage + 1) + '"' + (currentPage === totalPages ? " disabled" : "") + ' aria-label="Page suivante">Suivant →</button>');
+  pagination.innerHTML = buttons.join("");
+}
+
 async function loadOffers() {
   try {
     const response = await fetch("./offers.json", {cache:"no-store"});
@@ -555,17 +582,27 @@ async function loadOffers() {
     dealGrid.innerHTML = '<div class="empty-state"><div class="empty-icon">⌁</div><h3>Catalogue temporairement indisponible</h3><p>Les offres ne peuvent pas être chargées pour le moment. Réessaie plus tard ou retrouve les alertes sur Telegram.</p><a class="pill" style="display:inline-block;margin-top:18px" href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">Rejoindre Telegram ↗</a></div>';
   }
 }
-search.addEventListener("input", () => { updateCategories(); renderOffers(); });
+search.addEventListener("input", () => { currentPage = 1; updateCategories(); renderOffers(); });
 document.getElementById("search-form").addEventListener("submit", event => {
   event.preventDefault();
   updateCategories();
   renderOffers();
   document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth"});
 });
-dealSearch.addEventListener("input", renderOffers);
-dealSort.addEventListener("change", renderOffers);
+dealSearch.addEventListener("input", () => { currentPage = 1; renderOffers(); });
+dealSort.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+pagination.addEventListener("click", event => {
+  const button = event.target.closest("button[data-page]");
+  if (!button || button.disabled) return;
+  const nextPage = Number(button.dataset.page);
+  if (!Number.isInteger(nextPage) || nextPage < 1) return;
+  currentPage = nextPage;
+  renderOffers();
+  document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth", block:"start"});
+});
 filters.forEach(button => button.addEventListener("click", () => {
   activeFilter = button.dataset.filter;
+  currentPage = 1;
   filters.forEach(item => item.classList.toggle("active", item === button));
   renderOffers();
 }));
@@ -573,6 +610,7 @@ categories.forEach(card => card.addEventListener("click", () => {
   const text = (card.innerText + " " + card.dataset.category).toLocaleLowerCase("fr");
   const query = text.split(/\s+/).filter(word => word.length > 3).slice(0,2).join(" ");
   dealSearch.value = "";
+  currentPage = 1;
   const category = card.dataset.category.toLocaleLowerCase("fr");
   activeFilter = /gaming|gamer|playstation|xbox|nintendo|console|manette/.test(category) ? "gaming" :
     /high-tech|informatique|ordinateur|smartphone|\bpc\b/.test(category) ? "tech" :
