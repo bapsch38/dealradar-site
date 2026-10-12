@@ -1,5 +1,185 @@
 [
   {
+    "title": "SpiderWire DuraBraid Fil de pê...ssé, Vert Mousse, 9 kg à 454 m",
+    "price": 33.13,
+    "reference_price": 43.34,
+    "discount_percent": 23.56,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BRTCFXW6",
+    "image_url": "https://m.media-amazon.com/images/P/B0BRTCFXW6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:15",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 33.13,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Max & Molly Laisse Multifoncti...rt pour Votre fidèle Compagnon",
+    "price": 16.81,
+    "reference_price": 27.42,
+    "discount_percent": 38.69,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CLLXRX55",
+    "image_url": "https://m.media-amazon.com/images/P/B0CLLXRX55.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:12",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.81,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Avery Classeur robuste à 3 ann... classeurs bleu marine (79869)",
+    "price": 16.08,
+    "reference_price": 42.53,
+    "discount_percent": 62.19,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07C7Y6VDJ",
+    "image_url": "https://m.media-amazon.com/images/P/B07C7Y6VDJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:11",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.08,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bestron Moulin à café électriq...cier inoxydable, Design cuivré",
+    "price": 16.99,
+    "reference_price": 31.78,
+    "discount_percent": 46.54,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07ZZ3MRQB",
+    "image_url": "https://m.media-amazon.com/images/P/B07ZZ3MRQB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:10",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Deadpool Doublepack DVD [Import]",
+    "price": 5.76,
+    "reference_price": 15.53,
+    "discount_percent": 62.91,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07FSYRVRG",
+    "image_url": "https://m.media-amazon.com/images/P/B07FSYRVRG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:09",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.76,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HUNTER Collier Maldon, Couleur...iculièrement léger, Taille : L",
+    "price": 12.31,
+    "reference_price": 23.18,
+    "discount_percent": 46.89,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DNKJ3WF6",
+    "image_url": "https://m.media-amazon.com/images/P/B0DNKJ3WF6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:08",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.31,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CHAMPION Filtre à air Champion...F3203 Air Filter (Air Filters)",
+    "price": 10.85,
+    "reference_price": 18.26,
+    "discount_percent": 40.58,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01C4FWNPI",
+    "image_url": "https://m.media-amazon.com/images/P/B01C4FWNPI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:04",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.85,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Selsey Console D'Entrée Suspen... cm Table Console Noire Veldio",
+    "price": 56.99,
+    "reference_price": 125.99,
+    "discount_percent": 54.77,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D8QQ2LR9",
+    "image_url": "https://m.media-amazon.com/images/P/B0D8QQ2LR9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:03",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 56.99,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Amig - Lot de 5 grilles de ven...300 x 300 mm | Couleur : Blanc",
+    "price": 20.45,
+    "reference_price": 37.45,
+    "discount_percent": 45.39,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DTPVY56M",
+    "image_url": "https://m.media-amazon.com/images/P/B0DTPVY56M.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:02",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 20.45,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lamborghini Automobili Casque ...dulte Unisexe, Noir, Un Taille",
+    "price": 122.4,
+    "reference_price": 179.4,
+    "discount_percent": 31.77,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0B2F3GHHF",
+    "image_url": "https://m.media-amazon.com/images/P/B0B2F3GHHF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:38:01",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 122.4,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
     "title": "Bosch Aerotwin eA 012 S Jeu de...ssuie-glaces - 500 mm / 360 mm",
     "price": 22.49,
     "reference_price": 33.67,
@@ -1062,6 +1242,471 @@
     ]
   },
   {
+    "title": "Day of the Tentacle Remastered sur PC (Dématérialisé)",
+    "description": "2,25€ - GOG Publié à l’origine par LucasArts en 1993 comme suite du révolutionnaire Maniac Mansion de Ron Gilbert, Day of the Tentacle est une aventure à énigmes qui défie l’entendement et le temps : trois amis improbables coopèrent pour empêcher un tentacule violet mutant maléfique de conquérir le monde ! Aujourd’hui, plus de vingt années après, Day of the Tentacle fait son retour dans une édition remastérisée qui comporte de toutes nouvelles illustrations en haute résolution faites à la main, ainsi qu’un son, une musique et des effets sonores (que la présentation marketing originale des années 90 décrivait comme \"loufoque !\") remastérisés. Les joueurs pourront alterner entre les modes classique et remastérisé, et mélanger l’audio, les graphismes et l’interface selon leur envie. Nous avons aussi inclus un navigateur d'illustrations conceptuelles, et enregistré une piste de commentaires des créateurs originels du jeu, Tim Schafer, Dave Grossman, Larry Ahern, Peter Chan, Peter McConnell et Clint Bajakian. Day of the Tentacle fut le premier jeu de Tim Schafer en tant que codirecteur de projet, et le jeu a acquis un statut culte ! Cette édition spéciale a été restaurée et repensée avec un soin et une attention qui n’étaient imaginables qu’en faisant participer ses créateurs d’origine. De nouveaux graphismes en haute résolution entièrement dessinés à la main Passez en un instant du mode classique au mode remastérisé Des effets sonores, une bande originale et des voix remastérisés de grande qualité, avec une musique dynamique type \"iMuse\" Choisissez entre deux modes remastérisés pour la bande-son : modernisée avec de nouvelles voix, ou classique avec un son tout droit sorti des 90's Un navigateur d'illustrations conceptuelles Une interface et une expérience personnalisables sous de nombreux points, avec des options pour mélanger les styles de jeu anciens et nouveaux : amusez-vous avec la barre de dialogue dans le mode remastérisé, ou le nouveau cadran dans le mode classique Une piste de commentaires des créateurs originels du jeu, Tim Schafer, Dave Grossman, Larry Ahern, Peter Chan, Peter McConnell et Clint Bajakian. Un jeu dans le jeu : une version complète de Maniac Mansion est incluse !",
+    "price": 2.25,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/day-of-the-tentacle-remastered-3431222",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/xYvl0/3431222_1/re/1200x1200/qt/90/3431222_1.jpg",
+    "detected_at": "2026-10-12T17:37:19+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2.25,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HABA Chut société Enfant-Un Je...et plus-307019, 307012, Coloré",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00Q6JK2XY",
+    "image_url": "https://m.media-amazon.com/images/P/B00Q6JK2XY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:36:51+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "LEGO City Le Taxi Jaune 60487",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FPXBMY57",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPXBMY57.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:36:46+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Lamborghini Automobili Casque ...dulte Unisexe, Noir, Un Taille",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B2F3GHHF",
+    "image_url": "https://m.media-amazon.com/images/P/B0B2F3GHHF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:36:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "BOSCH Balai d'essuie-glace Kit...ongueur 2: 340mm 3 397 014 519",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07R4B2JHR",
+    "image_url": "https://m.media-amazon.com/images/P/B07R4B2JHR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:36:35+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Loups-Garous de Thiercelieux -...Joueurs - en Français - 30 Min",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B096N55JM2",
+    "image_url": "https://m.media-amazon.com/images/P/B096N55JM2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:36:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Amig - Lot de 5 grilles de ven...300 x 300 mm | Couleur : Blanc",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DTPVY56M",
+    "image_url": "https://m.media-amazon.com/images/P/B0DTPVY56M.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:35:51+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "NYX Professional Makeup Rouge ..., Teinte : Fuzzy Slippers (08)",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BGYBCDN7",
+    "image_url": "https://m.media-amazon.com/images/P/B0BGYBCDN7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:35:15+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Selsey Console D'Entrée Suspen... cm Table Console Noire Veldio",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0D8QQ2LR9",
+    "image_url": "https://m.media-amazon.com/images/P/B0D8QQ2LR9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:34:47+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "CHAMPION Filtre à air Champion...F3203 Air Filter (Air Filters)",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01C4FWNPI",
+    "image_url": "https://m.media-amazon.com/images/P/B01C4FWNPI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:34:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "HUNTER Collier Maldon, Couleur...iculièrement léger, Taille : L",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DNKJ3WF6",
+    "image_url": "https://m.media-amazon.com/images/P/B0DNKJ3WF6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:34:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Gigamic - Bazar Bizarre - Form...rtir de 6 Ans - Version Voyage",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CWS4PF1T",
+    "image_url": "https://m.media-amazon.com/images/P/B0CWS4PF1T.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:34:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "NYX Professional Makeup Rouge ... Vegan, Teinte : Faux Fur (06)",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00C51TIBY",
+    "image_url": "https://m.media-amazon.com/images/P/B00C51TIBY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:34:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Deadpool Doublepack DVD [Import]",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07FSYRVRG",
+    "image_url": "https://m.media-amazon.com/images/P/B07FSYRVRG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:33:51+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Bestron Moulin à café électriq...cier inoxydable, Design cuivré",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07ZZ3MRQB",
+    "image_url": "https://m.media-amazon.com/images/P/B07ZZ3MRQB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:33:39+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Max & Molly Laisse Multifoncti...rt pour Votre fidèle Compagnon",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CLLXRX55",
+    "image_url": "https://m.media-amazon.com/images/P/B0CLLXRX55.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:33:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Avery Classeur robuste à 3 ann... classeurs bleu marine (79869)",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07C7Y6VDJ",
+    "image_url": "https://m.media-amazon.com/images/P/B07C7Y6VDJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:33:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Max Factor Poudre 3 Transparent Beige 15 g",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000ORS6GO",
+    "image_url": "https://m.media-amazon.com/images/P/B000ORS6GO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:33:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "SpiderWire DuraBraid Fil de pê...ssé, Vert Mousse, 9 kg à 454 m",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BRTCFXW6",
+    "image_url": "https://m.media-amazon.com/images/P/B0BRTCFXW6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:32:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Wahl Color Trim Advanced Multi... lames affûtées avec précision",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CKFL9TJS",
+    "image_url": "https://m.media-amazon.com/images/P/B0CKFL9TJS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:31:42+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Mad Max sur PC & Mac (Dématérialisé)",
+    "description": "1,67€ - Instant Gaming instant-gaming.com/fr/835-acheter-mad-max-pc-mac-steam/ Les fonctionnalités en ligne seront retirées le 31 octobre 2020. Incarnez Mad Max, guerrier solitaire dans un monde post-apocalyptique sauvage, où les voitures sont la clé de la survie. Dans ce jeu en monde ouvert bourré d'action, vous devrez vous battre pour rester en vie dans les Terres désolées, en affrontant des hordes de dangereux ennemis dans de sanglants combats au sol ou dans un véhicule. Héros malgré lui et doté d'un fort instinct de survie, Max désire plus que tout fuir cette folie et trouver la paix dans les légendaires \"Plaines du Silence\". Les joueurs seront mis au défi dans de difficiles missions, tandis qu'ils exploreront ce monde hostile à la recherche de matériaux pour construire l'ultime machine de combat.",
+    "price": 1.67,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mad-max-pc-mac-steam-steam-digital-download-18-users-on-this-page-3431216",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OkCYp/3431216_1/re/1200x1200/qt/90/3431216_1.jpg",
+    "detected_at": "2026-10-12T17:31:03+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1.67,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot Aspirateur laveur Roborock Saros 20, châssis AdaptiLift 3.0 (Vendeur tiers)",
+    "description": "939€ - Amazon roborock Saros 20 Robot Aspirateur Laveur 36 000 Pa, Châssis AdaptiLift 3.0 Système Autonome StarSight 2.0, Double Anti-enchevêtrements, Technologie FlexiArm, Nouv. Station RockDock, Ultra-mince",
+    "price": 939.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/roborock-saros-20-3431221",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/kBfLe/3431221_1/re/1200x1200/qt/90/3431221_1.jpg",
+    "detected_at": "2026-10-12T17:30:26+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 939.0,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lave-linge Frontal 12 kg - 1400 tours/min FLF1214AIW FAGOR au meilleur prix (via 150€ sur la carte)",
+    "description": "326€ - E.Leclerc Le lave-linge frontal FLF1214AIW de FAGOR est conçu pour des charges importantes et une utilisation efficace. *caractéristiques du produit:* - Capacité de 12 kg - Vitesse d'essorage de 1400 tours/min - Moteur à induction - 15 programmes - Volume du tambour de 76 L - Classe énergétique A - Programme vapeur - Programmes Hygiène Pro - Niveau sonore de 80 dB - Départ différé de 1 à 24 heures",
+    "price": 326.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lave-linge-frontal-12-kg-1400-toursmin-flf1214aiw-fagor-au-meilleur-prix-via-150-euros-sur-la-carte-eleclerc-3431215",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ifJTN/3431215_1/re/1200x1200/qt/90/3431215_1.jpg",
+    "detected_at": "2026-10-12T17:30:08+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 326.0,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Accessoires Paulmann ProRail3 ...spension par câble 3 m, argent",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B8S3BKTB",
+    "image_url": "https://m.media-amazon.com/images/P/B0B8S3BKTB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:30:06+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Reconditionné : Dreame X50 Ultra Complete B3 – 20 000 Pa, station complète (349,10 € nouveaux clients Cdiscount / ~335,14 € avec The Corner)",
+    "description": "399€ - Cdiscount Bon prix actuellement sur le Dreame X50 Ultra Complete blanc reconditionné B3 chez Cdiscount. Prix de départ : 399 € ➜ Code 10PRCENT : -10 % = 359,10 € ➜ Code HELLO10 : -10 € supplémentaires ✅ Prix final : 349,10 € ⚠️ Offre réservée aux nouveaux clients Cdiscount. Les deux codes sont cumulables. État : reconditionné B3 / état correct, annoncé à 70–79 % esthétiquement . Reconditionné par la marque, vendu et expédié par Dreame. Garantie 2 ans. Livraison gratuite. Cdiscount précise que les appareils B3 peuvent être fournis sans manuel, sans liquide de nettoyage et éventuellement sans certains accessoires , notamment certaines brosses. Principales caractéristiques : Aspiration 20 000 Pa Station complète avec vidage automatique Lavage des serpillières à 80 °C Séchage automatique Système ProLeap permettant de franchir jusqu’à 6 cm Navigation VersaLift / détection d’obstacles par IA Brosse HyperStream anti-enchevêtrement Brosse latérale et serpillière extensibles Dépose automatique des serpillières À titre d’info pour les clients BoursoBank The Corner , il y a actuellement 4 % de cashback Cdiscount sous conditions. Je ne l’intègre pas au prix du deal car il n’est pas accessible à tout le monde. Avec les 4 % The Corner, cela représenterait environ 13,96 € remboursés , soit un coût net théorique d’environ 335,14 € .",
+    "price": 399.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-robot-aspirateur-laveur-dreame-x50-ultra-complete-reconditionne-b3-20-000-pa-station-complete-3431196",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SEZaE/3431196_1/re/1200x1200/qt/90/3431196_1.jpg",
+    "detected_at": "2026-10-12T17:29:41+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 399.0,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Contrôleur DJ AlphaTheta DDJ-FLX2 - 2 voies",
+    "description": "139,99€ - Cultura DDJ-FLX2 AlphaTheta Contrôleur DJ facile et performant Le DDJ-FLX2 est un contrôleur DJ compact conçu pour tous les niveaux, idéal pour mixer avec simplicité et créativité. Présentation générale du DDJ-FLX2 Le contrôleur DJ DDJ-FLX2 d’AlphaTheta permet de débuter ou perfectionner ses mixes grâce à une compatibilité étendue avec smartphones, tablettes et ordinateurs. Son design léger et portable facilite les sessions où que vous soyez. Avec ses deux canaux, ses pads de performa... voir plus points forts Contrôleur DJ facile à utiliser, compatible avec votre smartphone, tablette et ordinateur Fonctionne avec tout un éventail d’applis DJ et de services de streaming Des fonctions intelligentes aident les débutants à apprendre rapidement à mixer Écoutez de la musique directement depuis votre DDJ-FLX2 via vos haut-parleurs et gérez la pré-écoute avec votre casque descriptif du fournisseur : Commence à mixer et deviens DJ avec le DDJ-FLX2 d’AlphaTheta Tu veux impressionner tes amis avec des mix incroyables ? Le DDJ-FLX2 est fait pour toi. Facile à utiliser, il te permet de mixer tes morceaux préférés directement depuis ton smartphone, ta tablette ou ton ordinateur. Contrôle simplifié : Grâce aux fonctions Smart Fader et Smart CFX, réalise des transitions et des effets stylés en un clin d’œil. Compatibilité totale : Que tu sois sur iOS, Android, Windows ou Mac, le DDJ-FLX2 s’adapte à ton appareil pour une flexibilité maximale. Accès à des millions de titres : Connecte-toi à des services de streaming comme Spotify ou Apple Music via Rekordbox DJ et découvre une infinité de morceaux à mixer. Design compact et léger : Emporte-le partout avec toi et mixe où tu veux, quand tu veux. Avec le DDJ-FLX2, deviens le DJ que tu as toujours rêvé d’être et fais vibrer la piste de danse.",
+    "price": 139.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/alphatheta-ddj-flx2-controleur-dj-2-voies-3431220",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2iUUQ/3431220_1/re/1200x1200/qt/90/3431220_1.jpg",
+    "detected_at": "2026-10-12T17:27:07+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 139.99,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle LP - David Bowie \"Heroes\"",
+    "description": "19,99€ - Amazon Résumé Suite à la sortie de ‘A New Career In A New Town’ [1977-1982] en septembre 2017, le troisième volume d’une série de coffrets retraçant la carrière de David Bowie, retrouvez les albums studio et live remasterisés extraits de cette édition en CD et Vinyle 180g. audiophile à l’unité : Low / “Heroes” / Stage (2017) / Lodger / Scary Monsters (And Super Creeps).",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-lp-david-bowie-heroes-3431219",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/66n5d/3431219_1/re/1200x1200/qt/90/3431219_1.jpg",
+    "detected_at": "2026-10-12T17:26:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Centrale vapeur Braun CareStyle 3 - IS3255BL",
+    "description": "99,99€ - E.Leclerc Si votre pile de linge commence à ressembler au Mont Blanc ️ ou si votre fer classique a rendu l'âme, voici un super bon plan chez Leclerc sur la Braun CareStyle 3 (modèle IS3255BL). Pourquoi c'est une super affaire ? Gain de temps de 50 % ⏱️ par rapport à un fer à repasser classique grâce à la technologie FreeGlide 3D (glisse à 360°, même au-dessus des boutons et fermetures éclair !). Pression & Débit vapeur au top : 6,5 bars de pression pour venir à bout des faux plis les plus coriaces en un seul passage. Réservoir XL : Grande capacité de 2L amovible pour repasser pendant des heures sans avoir à reremplir. Format compact & ergonomique : Elle prend peu de place dans le placard par rapport aux centrales traditionnelles. Système anti-calcaire facile : Entretien simplifié pour prolonger la durée de vie de l'appareil.",
+    "price": 99.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/centrale-vapeur-braun-carestyle-3-is3255bl-3431218",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NXF67/3431218_1/re/1200x1200/qt/90/3431218_1.jpg",
+    "detected_at": "2026-10-12T17:26:14+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Nouveaux clients] 2 mois de cotisation offerts sur votre assurance auto (CG 614 / CG 615 Auto Access - Sous Conditions)",
+    "description": "MMA Excellent (y) :) Profitez dès maintenant de 2 mois offerts sur votre assurance auto",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/2-mois-offerts-sur-votre-assurance-auto-3431205",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/nGV0x/3431205_1/re/1200x1200/qt/90/3431205_1.jpg",
+    "detected_at": "2026-10-12T17:25:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Vélo Lapierre Crosshill cf 5.0 Shimano GRX- carde carbone",
+    "description": "1 499€ - Statera Bikes Encore un deal statera x lapierre , on en profite ;)...",
+    "price": 1499.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lapierre-crosshill-cf-50-shimano-grx-carde-carbone-3431217",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XasUa/3431217_1/re/1200x1200/qt/90/3431217_1.jpg",
+    "detected_at": "2026-10-12T17:22:14+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1499.0,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
+  },
+  {
     "title": "Plaques de Mousse EVA Colorées...uelles m-office (Vert, 40 uds)",
     "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
     "price": null,
@@ -1364,6 +2009,25 @@
     "category": "Gaming",
     "price_verified": false,
     "price_history": []
+  },
+  {
+    "title": "Baskets homme Adidas unies à lacets languette en mesh VS Pace - blanc chine, Du 40 au 45",
+    "description": "19,99€ - Veepee",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sneakers-adidas-blanches-via-gemo-40-a-45-homme-3431210",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9koyh/3431210_1/re/1200x1200/qt/90/3431210_1.jpg",
+    "detected_at": "2026-10-12T17:11:38+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      }
+    ]
   },
   {
     "title": "XL Perform Tool 553915 2 Feux de Gabarit Blancs",
@@ -9227,595 +9891,6 @@
       {
         "price": 310.86,
         "observed_at": "2026-10-12T12:59:39.198868+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Faitout Sauter Triply Multinox Pro - 26cm, en Inox, avec Couvercle en Verre, Tous Feux dont Induction & Four",
-    "description": "34€ - E.Leclerc Faitout 26 cm en inox Triply Sauter Multinox Pro avec couvercle en verre (Tous feux dont induction & four) @ E.Leclerc Description : Faitout de 26 cm en acier inoxydable multicouche Triply issu de la collection Sauter Multinox Pro chez E.Leclerc, compatible tous feux dont induction et utilisable au four. Contrairement aux ustensiles avec revêtement téflon/céramique qui s'usent dans le temps, ce modèle est conçu en acier inoxydable pur 18/10 (sans revêtement chimique), garantissant une durabilité exceptionnelle et une cuisson saine sans dégradation. Caractéristiques techniques : • Conception multicouche Triply (3-ply) : paroi composée d'un intérieur en acier inoxydable 18/10, d'un noyau central en aluminium à haute conductivité thermique et d'une base magnétique extérieure compatible induction. Cette structure assure une répartition rapide et homogène de la chaleur sur toute la cuve sans point de chauffe excessif. • Diamètre 26 cm : capacité idéale pour les plats familiaux, pâtes, bouillons, soupes et cuissons à l'étouffée. • Couvercle en verre transparent : cerclé d'acier inoxydable avec poignée athermique, permettant de surveiller la cuisson sans déperdition de chaleur ni de vapeur. • Poignées rivetées : doubles poignées massives en acier inoxydable offrant une préhension sûre et permettant le passage au four. • Entretien : matériau neutre inaltérable, résistant aux rayures des ustensiles métalliques et totalement compatible avec un lavage au lave-vaisselle. • Compatibilité : tous feux dont induction, vitrocéramique, gaz et électrique. Vendu en exclusivité web par E.Leclerc avec l'option de retrait gratuit disponible en magasin.",
-    "price": 34.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/faitout-26-cm-en-inox-triply-sauter-multinox-pro-avec-couvercle-en-verre-tous-feux-dont-induction-four-3430784",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:15:34+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 34.0,
-        "observed_at": "2026-10-12T12:59:39.198875+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hachette Fiskars Solid A6 - Étui de Transport Revêtement antiadhésif, noir, longueur : 39 cm, 652 g",
-    "description": "31,99€ - Amazon MarqueFiskars Dimensions du produit20,8L x 20,8l centimètres Matériau de la poignéePlastique CouleurNoir/Orange Type de têteUniversal Axtkopf StyleA6 - Hache universelle 39 cm Hache universelle (longueur totale : 39 cm) pour fendre de petites bûches et des bois d'allumage pour la cheminée, le poêle, le barbecue ou le feu de camp, convient également à la menuiserie, à la construction et au bucheronnage Lame très tranchante en acier trempé avec revêtement, Bon équilibre entre la tête et le manche pour un mouvement efficace et moins fatiguant Manche durable en plastique renforcé de fibres de verre résistant aux intempéries, haute sécurité grâce à la tête quasi indémontable moulée dans le manche Fabriqué en Finlande, longue durée de vie et tranchant durable, affûtage facile de la hache avec un aiguiseur disponible séparément réf : 1000601 Contenu: Hachette universelle Solid A6 Longueur : 39 cm, Poids : 652 g, Matériau : Acier/FiberComp, Couleur : Noir, 1052046 Commentaires client",
-    "price": 31.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/fiskars-hachette-universelle-solid-a6-etui-de-transport-revetement-antiadhesif-noir-longueur-39-cm-652-g-3430783",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:14:58+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 31.99,
-        "observed_at": "2026-10-12T12:59:39.198883+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pack de 16 Sachets de Bonbons Chocolat au Lait & Cacahuètes M&M's - 16 x 82g",
-    "description": "13,99€ - Amazon Très bon prix ! De délicieuses cacahuètes grillées enrobées d'un délicieux chocolat au lait, le tout enrobé d'une enveloppe sucrée croustillante et colorée. Un peu de noisettes, savoureuses pour plus de plaisir. C'est le snack sucré préféré de tous, tout au long de l'année. Parfaits pour accompagner un film d'horreur avec des bonbons d'halloween, pour les anniversaires et pour les partager avec des amis. Un placard à friandises ou un tiroir à bonbons rempli de M&M's Cacahuète, c'est un placard plein de Bonheur, si vous voulez notre avis. Idéal pour remplir les chaussettes de Noël, comme snack pour les soirées cinéma, pour distribuer avec des bonbons d'Halloween ou pour ajouter aux paniers de Pâques. Contenu : M&M's Chocolat au Lait & Cacahuètes, 16 sachets de 82g",
-    "price": 13.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mms-peanut-bonbons-chocolat-au-lait-cacahuetes-lot-de-16-x-82g-3430782",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:11:46+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 13.99,
-        "observed_at": "2026-10-12T12:59:39.198889+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Blouson Jules col chemise en sherpa amovible - Déperlant, rembourré, 2 coloris, tailles XS à 3XL",
-    "description": "40€ - Jules Blouson homme Jules à 40 €, actuellement en promotion dans le cadre des Jours J, avec une remise directement appliquée, sans code promo. Un modèle assez polyvalent pour la mi-saison et les journées plus fraîches, avec son col en sherpa amovible qui permet de changer facilement de style. Le blouson est également rembourré et possède une matière déperlante pour faire ruisseler l'eau en cas de petite pluie. Quelques caractéristiques : 2 coloris disponibles : vert kaki et noir. Tailles : du XS au XXXL selon les stocks. Col chemise en sherpa amovible, imitation fourrure. Fermeture zippée sur le devant. 3 poches extérieures zippées, dont une sur la poitrine. 1 poche intérieure fermée par velcro. Pressions aux poignets et pattes de resserrage sur les côtés. Matière principale : 100 % polyamide recyclé. Rembourrage : 100 % polyester recyclé. Traitement déperlant pour les petites intempéries. Le blouson affiche une note de 5/5 sur 7 avis clients, avec plusieurs retours positifs sur son confort et sa capacité à tenir chaud. Livraison gratuite en magasin, réservation possible en boutique et retours sous 90 jours selon les conditions Jules.",
-    "price": 40.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/blouson-jules-col-chemise-en-sherpa-amovible-deperlant-rembourre-2-coloris-tailles-xs-a-3xl-3430781",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:11:03+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 40.0,
-        "observed_at": "2026-10-12T12:59:39.198894+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Radio portable Sony XDRV1BTDT.EU8 - FM DAB, DAB+ Bluetooth, NFC Marron",
-    "description": "12,25€ - Amazon Bon prix ! Cette radio vous donne accès à une multitude de stations, grâce à son tuner FM et DAB/ DAB+ La XDR-V1BT s’offre un design compact premium avec finitions en bois Elle est équipée de la connectivité Bluetooth et NFC qui vous permet d’écouter votre musique stockée sur un appareil mobile Grâce aux enceintes stéréo et Bass Reflex profitez d’un son plus clair et plus précis Couleur: Marron Batterie intégrée rechargeable, écoutez partout sans piles",
-    "price": 12.25,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sony-xdrv1btdteu8-radio-portable-digitale-fm-dabdab-bluetoothnfc-marron-3430780",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:10:02+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 12.25,
-        "observed_at": "2026-10-12T12:59:39.198902+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Râtelier 4 vélos Monzana - 37P x 120l x 27H cm (Vendeur Tiers)",
-    "description": "34,99€ - Amazon Retour à 34,99€ (cf derniers deals ) > Livraison gratuite Avantages du produit : HAUTE QUALITÉ : Le support à vélos MONZANA est fabriqué en tubes d'acier galvanisé haute qualité de 16 mm. Il est particulièrement résistant aux rayures et aux intempéries. Les vélos sont stables et sûrs grâce à l'espace large de 37 cm entre chaque roue. GAIN DE PLACE : Gagnez de la place et protégez vos vélos grâce à ce râtelier ! Il convient à tous les vélos de course, VTT ou vélos d'enfant courants dont les pneus mesurent 65 mm de large maximum. MONTAGE FACILE : Le support à vélos est facile à assembler grâce aux trous pré-percés, aux vis et aux chevilles fournies. Il peut être rapidement fixé au sol ou au mur. POLYVALENT : Le râtelier convient aussi bien pour l'intérieur que l'extérieur. Idéal pour les garages, caves, couloirs, cours, ateliers, entrepôts, écoles, magasins et autres espaces extérieurs. CONTENU DE LA LIVRAISON : 1x support pour 4 vélos | Dimensions (L x l x H) : 120 x 32 x 27 cm | Largeur des pneus : 30-65 mm | Matériau : métal | Matériel de montage inclus",
-    "price": 34.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ratelier-4-velos-monzana-37p-x-120l-x-27h-cm-vendeur-tiers-3430779",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:09:13+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 34.99,
-        "observed_at": "2026-10-12T12:59:39.198908+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Plat à tajine 29cm en fonte d'acier Sauter avec couvercle céramique - Vert, Tous feux dont induction",
-    "description": "49,99€ - E.Leclerc Plat à tajine 29 cm en fonte d'acier Sauter avec couvercle céramique - Vert (Tous feux dont induction) @ E.Leclerc Description : Plat à tajine de 29 cm associant une base en fonte d'acier et un couvercle conique en céramique (coloris vert) de la marque Sauter chez E.Leclerc. Conçu pour la cuisson lente et le mijotage traditionnel, cet ustensile tire profit de l'alliance de deux matériaux complémentaires : une cuve en fonte d'acier robuste pour saisir et diffuser la chaleur uniformément, et un dôme en céramique favorisant la circulation naturelle de la condensation pour conserver des viandes fondantes et des saveurs concentrées. Caractéristiques techniques : • Diamètre : 29 cm, volume idéal pour cuisiner pour 4 à 6 personnes (tajines de poulet, agneau, poissons ou légumes). • Base en fonte d'acier : fond lourd thermo-diffusant compatible tous feux dont induction, permettant de faire dorer les viandes et oignons directement avant de lancer le mijotage. • Couvercle conique en céramique émaillée : forme géométrique conçue pour condenser la vapeur d'eau et la faire retomber goutte à goutte en continu sur la préparation, sans dessécher les ingrédients. • Présentation de table : design traditionnel soigné avec base vert mat et dôme assorti, passant directement des plaques au centre de la table pour le service en conservant la chaleur. • Prise en main & compatibilité : poignées latérales intégrées à la base pour un transport sécurisé. Compatible tous feux dont induction, four et passe au lave-vaisselle. Vendu en exclusivité web sur le site E.Leclerc avec l'option de retrait gratuit disponible en magasin.",
-    "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/plat-a-tajine-29-cm-en-fonte-dacier-sauter-avec-couvercle-ceramique-vert-tous-feux-dont-induction-3430777",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:07:26+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-12T12:59:39.198915+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Selection de chemise Cafe coton a 19,90€",
-    "description": "19,90€ - Veepee Sélection de chemises homme 100 % coton à 19,99 € au lieu de 97 € (-79 %) chez Veepee Veepee propose actuellement une sélection de 283 articles en promotion, avec notamment plusieurs modèles de chemises homme à 19,99 € au lieu de 97 €, soit une réduction de 79 %. De quoi renouveler sa garde-robe à petit prix avec des chemises classiques, idéales pour le bureau ou pour une tenue habillée. Quelques modèles disponibles à 19,99 € : * Chemise Don : coupe slim, 100 % coton, bleu ciel * Chemise Jasper : coupe slim, 100 % coton, bleu * Chemise Vichy : coupe slim, 100 % coton, bleu ciel et blanc * Chemise Colin : coupe slim, 100 % coton, bleu ciel * Chemise Chiswick : coupe slim, 100 % coton, bleu ciel et blanc * Chemise Pin Point : coupe slim, 100 % coton, bleu ciel ✅ À retenir : * Prix : 19,99 € au lieu de 97 € * Réduction affichée : -79 % * Économie : 77,01 € par chemise * Composition : 100 % coton * Coupe slim * ️ 283 articles dans la sélection Une belle remise sur le papier pour des chemises 100 % coton, avec plusieurs coloris et motifs au choix. Tailles disponibles selon les stocks. Frais de livraison à vérifier lors de la commande.",
-    "price": 19.99,
-    "reference_price": 97.0,
-    "discount_percent": 79.4,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-chemise-cafe-coton-a-1990eur-3430775",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:07:22+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-12T12:59:39.198923+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo Lapierre Zesty CF 8.9",
-    "description": "2 699€ - Statera Une très grosse offre pour les amateurs de trail/all-mountain engagé ! Le site allemand réputé Statera Bikes propose le Lapierre Zesty CF 8.9 à 2699 € au lieu de 5999 € (prix catalogue d'origine). À ce tarif, le rapport équipement/prix est tout simplement monstrueux pour un cadre en carbone équipé de suspensions Fox Factory. Existe également dans une autre couleur et configuration pour le même prix : https://www.staterabikes.de/p/lapierre-zesty-cf-8.9-LZJUA500 Points forts de la configuration : Cadre : Entièrement en carbone (High Carbon Uni), réactif et léger. Fourche : La toute dernière FOX 36 Factory avec la cartouche GRIP X (150 mm de débattement), le summum du confort et du grip. Amortisseur : FOX Float X Factory (Air). Transmission : Groupe complet Shimano Deore XT 12 vitesses (fiable, précis, cassette 10-51T). Freinage : Shimano XT hydraulique (gros disques 203mm à l'avant / 180mm à l'arrière). Roues : Excellente paire de roues DT Swiss XM 1700 Spline (largeur 30 mm), idéales pour le programme. Pneus : Combo d'origine ultra-efficace avec Maxxis Assegai (avant) et Maxxis Dissector (arrière).",
-    "price": 2699.0,
-    "reference_price": 5999.0,
-    "discount_percent": 55.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lapierre-zesty-cf-89-3430776",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:07:15+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 2699.0,
-        "observed_at": "2026-10-12T12:59:39.198929+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Cocotte ovale en fonte d'acier Sauter - 30cm, Noir mat, Tous feux dont induction & four",
-    "description": "39,99€ - E.Leclerc Cocotte ovale en fonte d'acier de 30 cm de la marque Sauter (finition noir mat), compatible tous feux dont induction et four. Il s'agit de la déclinaison noire de la cocotte proposée dans l'opération « Coup de poing promo sur la cuisson » chez E.Leclerc. Parfaite pour mijoter les plats traditionnels, préparer des volailles entières ou réussir des rôtis grâce à l'importante inertie thermique de la fonte qui assure une cuisson lente, douce et parfaitement uniforme sans points de surchauffe. Caractéristiques techniques : • Format et dimensions : forme ovale 30 cm (environ 30 x 22 x 11,5 cm), idéale pour accueillir les pièces longues de viande sans les couper. • Matériau : fonte d'acier robuste et massive (poids supérieur à 5 kg) offrant une excellente rétention de chaleur pour garder les plats au chaud une fois à table. • Couvercle à condensation : picots sous le couvercle permettant d'arroser continuellement la préparation avec la vapeur condensée et les sucs de cuisson, garantissant des viandes tendres. Bouton en acier inoxydable résistant aux températures du four. • Prise en main : deux poignées latérales fixes moulées dans la masse pour sécuriser la manipulation avec des maniques. • Compatibilité : tous feux dont induction, compatible four et passage possible au lave-vaisselle. Exclusivité web vendue directement par E.Leclerc avec le retrait offert en magasin.",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cocotte-ovale-en-fonte-dacier-sauter-30-cm-noir-mat-tous-feux-dont-induction-four-3430774",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:03:44+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-12T12:59:39.198937+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Bâtons de Trekking Crivit - Longueur 105 à 120cm, Coloris Or",
-    "description": "7,99€ - Lidl Construction : segment supérieur télescopique Longueur : 105–120 cm CRIVIT Lot de 2 bâtons de trekking Caractéristiques Bâtons polyvalents légers à 3 segments en aluminium anodisé Système Push-Pin pour un montage et un démontage faciles Segment supérieur télescopique à 4 niveaux (105–120 cm) pour s'adapter à la taille du corps Poignée ergonomique avec dragonne réglable en longueur Avec rondelle pour éviter un enfoncement trop profond sur sol meuble Segments pliables à 54 cm pour un rangement peu encombrant Instructions incluses Caractéristiques du produit Construction : segment supérieur télescopique Longueur : 105/ 110/ 115/ 120 cm Dragonne : oui Couleurs : doré, noir Poids : environ 200 g/bâton Matériaux : aluminium, plastique, acier",
-    "price": 7.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-batons-de-trekking-crivit-or-3430773",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:01:55+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 7.99,
-        "observed_at": "2026-10-12T12:59:39.198946+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Icons 11384 - Le chiot Golden Retriever",
-    "description": "80,74€ - Carrefour À 139.99 € chez LEGO 5% supplémentaires via bourso Avec 2102 pièces Description : Savourez un projet plein de tendresse en construisant Le chiot Golden Retriever LEGO Icons (11384) pour adultes. Set incontournable pour les passionnés d’animaux et de golden retrievers, cette figurine articulée recrée le charme de l’une des races de chiens les plus appréciées. Orientez la tête, les oreilles et la queue du chiot, et soulevez sa patte avant pour créer différentes expressions attendrissantes. Ouvrez sa gueule pour révéler deux rangées de petites dents blanches et insérez sa langue rose pour un résultat encore plus réaliste. Doté d’un collier coloré et d’une médaille, cet adorable chiot LEGO constitue une décoration d’intérieure pleine de charme. Utilisez l’application LEGO Builder pour suivre les instructions numériques étape par étape, visualiser votre modèle en 3D et enregistrer votre progression. Le set contient 2 102 pièces.",
-    "price": 80.74,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-icons-chiot-golden-retriever-11384-3430771",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:00:32+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 80.74,
-        "observed_at": "2026-10-12T12:59:39.198954+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie de cuisine 6 pièces inox Sauter - 3 casseroles (16/18/20 cm) + 2 poêles (22/26 cm) + poignée amovible",
-    "description": "74,99€ - E.Leclerc Batterie de cuisine 6 pièces en acier inoxydable avec poignée amovible de la marque Sauter chez E.Leclerc, compatible tous feux dont induction et utilisable au four. Conçue sur le modèle des batteries empilables compactes (façon Ingenio), elle offre un gain de place maximal dans vos placards et tiroirs tout en proposant les diamètres essentiels pour cuisiner au quotidien. Composition du set 6 pièces : • 3 casseroles en acier inoxydable : 16 cm, 18 cm et 20 cm. • 2 poêles en acier inoxydable : 22 cm et 26 cm. • 1 poignée amovible ergonomique avec système de verrouillage sécurisé. Points forts : • Rangement gigogne empilable : les corps de casseroles et poêles s'emboîtent parfaitement pour un encombrement minimal en cuisine. • Fond thermo-diffusant épais : montée en température rapide et répartition uniforme de la chaleur sans point chaud. • Polyvalence d'usage : passe directement de la plaque de cuisson au four, à table pour le service, puis au réfrigérateur pour conserver les restes en retirant simplement la poignée. • Cuisson saine et durable : matériau en acier inoxydable robuste, sans altération des saveurs des aliments. • Entretien facile : compatible lave-vaisselle (hors poignée amovible). • Compatibilité complète : tous feux dont induction, gaz, vitrocéramique et électrique. Vendu en exclusivité web par E.Leclerc avec l'option de retrait gratuit disponible en magasin.",
-    "price": 74.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-de-cuisine-6-pieces-inox-sauter-3-casseroles-161820-cm-2-poeles-2226-cm-poignee-amovible-3430770",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:00:22+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 74.99,
-        "observed_at": "2026-10-12T12:59:39.198960+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Scie à ruban Metabo BAS 318 - 900 W, Précision et stabilité élevées",
-    "description": "574,90€ - Cdiscount Deux vitesses de coupe|Fonctionnement silencieux|Guidage de précision à trois rouleaux HSS de la lame de scie ajustable sans outil en haut et en bas|Moteur à induction silencieux, sans maintenance et robuste|Précision et stabilité élevées|Revêtement en caoutchouc|pour des coupes parfaites - Puissance électrique (W) : 900 W - Type d'alimentation : Electrique - Matériaux à travailler : Bois Caractéristiques : - Marque : METABO - Type de Produit : Scie à ruban METABO BAS 318 - 900 W - Précision et stabilité élevées - Modèles : BAS 318 - Matières : Métal - Couleur(s) : Gris et vert - Certifications et normes : CE - Fonctions de l'outil : Découper - Fonctions spéciales : Découper, Tronçonner",
-    "price": 574.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/scie-a-ruban-metabo-bas-318-900-w-precision-et-stabilite-elevees-3430769",
-    "image_url": "",
-    "detected_at": "2026-10-12T07:00:09+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 574.9,
-        "observed_at": "2026-10-12T12:59:39.198965+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tracker bluetooth Ugreen FineTrack Slim S Smart Tag Wallet - Certifié Samsung Smarthings pour appareils Galaxy (Vendeur tiers)",
-    "description": "21,59€ - Amazon Certifié Samsung SmartThings (Uniquement Samsung) ] Le tracker d'objets peut être utilisé pour suivre vos clés, portefeuille, sac, passeport, valise, vélo, voiture, etc. FineTrack S est certifié par Samsung SmartThings, il peut donc être directement connecté à l'application Samsung SmartThings. Note : supporte uniquement les téléphones Samsung, pas le système iOS et les autres téléphones Android. [ Traqueur d'Objets Ultra Fin ] Le tracker d'objets peut être utilisé pour suivre vos clés, portefeuille, sac, passeport, valise, vélo, voiture, etc. Le design ultra fin (1.7 mm) est pratique à mettre dans votre portefeuille ou votre porte-cartes, protégeant ainsi vos objets contre la perte en temps réel. [ Trouver à Proximité & Recherche à Distance ] Lorsque le localisateur est à proximité, appuyez sur l'application \"SmartThings\". Le haut-parleur intégré du tracker émet un bip fort (80 dB) pour indiquer l'emplacement. Si votre article équipé d'un tracker Bluetooth est hors de portée Bluetooth, vous pouvez également compter sur lui pour trouver l'emplacement de l'article et guider l'itinéraire. [ Rechargeable et Étanche IP68 ] Le Smart Tag est étanche et certifié IP68, résistant aux éclaboussures, à la pluie et à l'immersion temporaire. La carte de localisation est rechargeable et peut être utilisée en continu jusqu'à 1 an après une seule charge. [ Alarme Perdue & Partage de Position ] Si votre objet couplé est perdu, votre téléphone recevra une alarme de perte et vous rappellera son dernier emplacement. Le tracker supporte jusqu'à jusqu'à 1 personne partageant la localisation des objets, et vous pouvez demander à vos proches et amis de vous aider à retrouver les objets perdus. Note : Pour utiliser cette fonctionnalité, assurez-vous que le système d'exploitation de votre appareil est mis à jour vers Android 9.0 et supérieur. Spécifications Marque: UGREEN Des piles sont-elles incluses ?: Non Matériau: Plastique Nombre de batteries: 1 Lithium-ion nécessite des piles. Dimensions du produit: 13,5L x 10l x 1,7Ép centimètres Appareils compatibles: Smartphones Samsung Galaxy Poids de l'article: 92 Grammes Autonomie de la batterie: 2 Ans Technologie de connectivité: Bluetooth Méthode de contrôle: Application les piles sont elles inclues: Non Nombre de piles: 1 Lithium-ion nécessite des piles. Usages recommandés pour le produit: Portefeuilles Point fort de l’article: Traqueur Bluetooth, Ultra Fin 1.7mm, Étanche IP68, 1 an, Compatible avec SmartThings, pour Portefeuille Clés Bagages Valise Unité de comptage: 1.0 unité nombre d'articles: 1 Nombre d’emballages: 1 fabriquant: Ugreen Group Limited pays d'origine: Chine Numéro du modèle: 55770 numéro de pièce: 55770 Description de la garantie: ‎Garantie de 24 mois d‘UGREEN Classement des meilleures ventes d'Amazon: 5219 en High-Tech (Voir les 100 premiers en High-Tech) 66 en Localisateurs d'objets ASIN: B0DPQPPNPR Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (1 201) 4,5 sur 5 étoiles appareils compatibles: Smartphones Samsung Galaxy durée de vie moyenne de la batterie: 2 Ans technologie de la connectivité: Bluetooth Facilité de maintenance de la batterie: Rechargeable Plage: 100 meters Dimensions de l'article L x l x Épaisseur: 13,5L x 10l x 1,7Ép centimètres matériel interne: Plastique Disponibilité de pièces détachées: 1 Ans Commentaires client",
-    "price": 21.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tracker-bluetooth-ugreen-finetrack-slim-s-smart-tag-wallet-certifie-samsung-smarthings-pour-appareils-galaxy-vendeur-tiers-3430763",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:59:20+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 21.59,
-        "observed_at": "2026-10-12T12:59:39.198971+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 3 boxers Fila - S à XXL",
-    "description": "12€ - Privé by Zalando",
-    "price": 12.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-3-boxer-fila-s-a-xxl-3430767",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:57:20+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 12.0,
-        "observed_at": "2026-10-12T12:59:39.198977+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Siège Auto Pallas B I-Size Cbx by Cybex - 76 à 150cm & 9 à 50 Kg, Pure black",
-    "description": "139,90€ - Cdiscount Le siège auto Pallas B i-size de CYBEX assure une sécurité et un confort maximal à votre enfant dès ses 15 mois jusqu’à ses 12 ans (76 – 150 cm) / max 50 kg. CYBEX vous propose un siège auto 2-en1 évolutif homologué selon les dernières normes de sécurité UNR129/03 vous offrant une protection optimale pour un voyage en toute sérénité. Pratique, le Pallas B i-size se fixe dans votre véhicule grâce aux ISOFIX. - Groupe poids taille : Groupe 1/2/3 | 9-36 kg | 76-150 cm - Poids (A partir de) : 9 kg - Poids max supporté : 50 kg - Positions de l'enfant : Face route Caractéristiques : - Marque : CBX BY CYBEX - Modèles : Pallas B i-Size/Pure Black-black - Type de Produit : siège auto - Age (A partir de) : 15 mois - Age (Jusqu'à) : 12 ans - Groupe de taille : 76-150 cm - Groupe de poids : 9-36 kg - Pays d'origine : Chine",
-    "price": 139.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/siege-auto-pallas-b-i-size-cbx-by-cybex-76-a-150-cm-9-a-50-kg-15-mois-a-12-ans-pure-black-3430766",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:56:35+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 139.9,
-        "observed_at": "2026-10-12T12:59:39.198983+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Émetteur-Récepteur HDMI sans fil Ugreen - USB C TX & HDMI RX, 1080p, 60Hz, Portée 50m, Charge PD 30W, Plug & Play Magnétique (Vendeur Tiers)",
-    "description": "61,74€ - Amazon [ Portée de Transmission Stable de 50 Mètres ] Le transmetteur HDMI sans fil offre une transmission fluide et sans latence jusqu'à 50 mètres. Grâce à sa bande de fréquence de 5,8 GHz, l'émetteur USB-C assure une transmission du signal stable et une sortie vidéo d'une netteté exceptionnelle, même sur de longues distances et en l'absence d'obstacles. Le transmetteur TV sans fil est donc idéal pour les présentations professionnelles et les établissements d'enseignement. [ 1080P Résolution Haute Définition ] Le transmetteur TV sans fil prend en charge la résolution 1080P@60Hz, offrant des images nettes et précises avec une faible latence. Que ce soit pour des présentations professionnelles ou une soirée cinéma à domicile, cet émetteur récepteur HDMI sans fil assure une sensation visuelle de haute qualité, vous permettant d'apprécier chaque détail. [ Charge PD 30 W ] L'émetteur USB-C sans fil et le récepteur HDMI prennent en charge une charge rapide PD jusqu'à 30 W. Chargez rapidement les appareils connectés via l'entrée USB-C tout en transférant des données. Largement compatible avec les appareils dotés d'un port Type-C, notamment les smartphones, les tablettes et les ordinateurs portables. Note : le port Type-C de l'appareil source doit prendre en charge la sortie du signal vidéo. [ Plug & Play ] Le HDMI transmitter sans fil est doté d'une conception magnétique unique pour une portabilité optimale et un rangement sécurisé. Grâce à sa fonction Plug and Play, aucun téléchargement de pilote, appairage Bluetooth ou configuration Wi-Fi n'est nécessaire. Une fois connecté, l'émetteur se reconnecte automatiquement à la prochaine mise sous tension. La déconnexion se fait en un clic, pour plus de praticité et de confidentialité. [ Large Compatibilité ] L'émetteur sans fil USB C HDMI est compatible avec les systèmes d'exploitation Windows 11/10/8/7, Linux, macOS, iOS et Android. Il prend également en charge les iPhone 17/16, Galaxy S25/S24, iPad, MacBook Pro/Air/Mac mini, PC, appareils photo, lecteurs DVD et autres périphériques USB-C compatibles avec le mode alternatif DisplayPort. Le produit ne prend pas en charge la fonctionnalité Galaxy Smart View. Spécifications Caractéristique spéciale: Chargement rapide Marque: UGREEN Technologie de connectivité: HDMI, USB Source d'alimentation: Câble électrique Dimensions du produit: 6L x 10l x 1,4H centimètres Poids de l'article: 90 Grammes Norme de communication sans fil: 802.11a/b/g/n, Fréquence radio de 5 GHz Appareils compatibles: Smartphone, Tablette, Ordinateur portable, iPhone, Galaxy S25/S24, iPad, MacBook Pro/Air/Mac mini, PC, Appareils photo, Lecteur DVD Voir plus Compatible avec la technologie Bluetooth: Non Type de média: rf Fonctionnalités du produit: Chargement rapide type de media: rf Télécommande incluse: Non Type d'installation: wireless Source énergétique: Câble électrique Batteries rechargeables incluses ?: Non appareils compatibles: Smartphone, Tablette, Ordinateur portable, iPhone, Galaxy S25/S24, iPad, MacBook Pro/Air/Mac mini, PC, Appareils photo, Lecteur DVD Standards pris en charge: 5.8 GHz radio frequency Options de compatibilité: Téléphone intelligent, tablette, ordinateur, appareils photo, lecteurs DVD, autres périphériques USB-C compatibles avec le mode alternatif DisplayPort Application prise en charge: [ANY] Interface matérielle: Fréquence radio entrée rgb analogique: USB Type C Méthode de contrôle: Tactile Type de sortie audio: HDMI mode de sortie audio: Stéréo Nombre de canaux: 2 technologie de la connectivité: HDMI, USB Type de technologie sans fil: 802.11a/b/g/n, Fréquence radio de 5 GHz Compatible Bluetooth ?: Non Dimensions de l'article L x l x H: 6L x 10l x 1,4H centimètres Nom du modèle: 75500B Unité de comptage: 1.0 unité fabriquant: Ugreen Group Limited pays d'origine: Chine contenu de la boîte: Un récepteur, un émetteur Description de la garantie: Garantie de 24 mois d'UGREEN Classement des meilleures ventes d'Amazon: 8360 en High-Tech (Voi",
-    "price": 61.74,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/emetteur-recepteur-hdmi-sans-fil-ugreen-usb-c-tx-hdmi-rx-1080p-60hz-portee-50m-charge-pd-30w-plug-play-magnetique-vendeur-tiers-3430756",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:56:35+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 61.74,
-        "observed_at": "2026-10-12T12:59:39.198989+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie empilable 10 pièces en inox Sauter (3 casseroles 16/18/20 cm, 3 poêles 20/24/26 cm, 3 couvercles, poignée amovible)",
-    "description": "99,99€ - E.Leclerc Batterie de cuisine complète 10 pièces empilable en acier inoxydable de la marque Sauter chez E.Leclerc, compatible tous feux dont induction et four. Conçue selon un principe de rangement compact gain de place, cette batterie s'empile facilement dans les tiroirs tout en offrant les dimensions essentielles pour couvrir l'ensemble des besoins du quotidien en cuisine. Composition du set 10 pièces : • 3 casseroles en inox : 16 cm, 18 cm et 20 cm. • 3 poêles en inox : 20 cm, 24 cm et 26 cm. • 3 couvercles en verre assortis avec cerclage inox et orifice d'évacuation de la vapeur. • 1 poignée amovible sécurisée (ou poignées adaptées selon configuration) permettant de passer facilement de la table de cuisson au four ou au réfrigérateur. Points forts : • Structure en acier inoxydable avec fond thermo-diffusant épais assurant une montée en température rapide et une distribution homogène de la chaleur. • Rangement gigogne empilable pour libérer de l'espace dans les placards. • Cuisson saine sans transfert de goût, idéale pour faire dorer, mijoter ou réchauffer. • Bords verseurs anti-gouttes pour un service fluide et propre. • Compatible tous feux dont induction, résistant au four et compatible lave-vaisselle (hors poignée amovible). Vendu en exclusivité web par E.Leclerc avec le retrait offert en magasin.",
-    "price": 99.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-empilable-10-pieces-en-inox-sauter-3-casseroles-161820-cm-3-poeles-202426-cm-3-couvercles-poignee-amovible-3430765",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:56:23+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 99.99,
-        "observed_at": "2026-10-12T12:59:39.198994+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Set robot entrainement ping-pong avec filet",
-    "description": "54,99€ - Carrefour Set Robot Entrainement Ping-Pong avec Filet Améliorez votre jeu et entraînez-vous au tennis de table avec ce set robot d'entraînement ping-pong avec filet. Idéal pour les amateurs comme pour les joueurs souhaitant progresser, il permet de pratiquer ses coups, de travailler sa précision et d'améliorer ses réflexes. Son filet facilite la récupération des balles pour des séances d'entraînement plus pratiques. Parfait pour s'amuser tout en développant sa technique, ce set est adapté aux moments de loisir à la maison et aux entraînements réguliers. Description Set d'entrainement au ping pong composé d'un robot lanceur de balles, d'un filet de récupération de balles (137x152x58cmx36cm.) et de 5 balles. Dimensions du robot: 30x15,5cm. Capacité de 28 balles. Déclenchement de la première balle après 15 secondes. Fonctionne avec 4 piles AA ou par alimentation électrique.",
-    "price": 54.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/set-robot-entrainement-ping-pong-avec-filet-3430764",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:55:42+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 54.99,
-        "observed_at": "2026-10-12T12:59:39.199000+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures Adidas Samba OG - Baskets, Tailles du 35,5 au 48",
-    "description": "97,50€ - Adidas Ces baskets associent une tige en cuir à une languette longue inspirée du football, avec une fermeture à lacets pour ajuster le serrage.",
-    "price": 97.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-femme-adidas-samba-og-3430762",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:53:40+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 97.5,
-        "observed_at": "2026-10-12T12:59:39.199007+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie de cuisine empilable en fonte Sauter 4 pièces 25 cm - Noir (Tous feux dont induction & four)",
-    "description": "79€ - E.Leclerc Batterie de cuisine 4 pièces empilable en fonte d'acier (coloris noir, diamètre 25 cm) de la marque Sauter chez E.Leclerc. Ce set compact tout-en-un résout le problème classique de stockage de la fonte grâce à un design gigogne gain de place, tout en offrant les performances thermiques reconnues de la fonte : rétention de chaleur exceptionnelle, diffusion parfaitement homogène et cuisson mijotée ou saisie réussie à tous les coups. Composition et caractéristiques du set : • Format polyvalent 25 cm : taille idéale pour cuisiner au quotidien pour 3 à 5 personnes sans surcharger la plaque. • Ensemble gigogne 4 pièces : les récipients et le couvercle s'emboîtent verticalement pour un encombrement minimal dans les tiroirs et placards. • Matériau : fonte d'acier lourde et durable pour des viandes tendres, légumes fondants et sauces bien réduites. • Poignées latérales intégrées : ergonomiques et fondues dans la masse pour un transfert sécurisé entre la table de cuisson et le four. • Compatibilité complète : tous feux dont induction, compatible four à haute température et compatible lave-vaisselle. Vendu en exclusivité web par E.Leclerc avec le retrait gratuit disponible en magasin.",
-    "price": 79.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-de-cuisine-empilable-en-fonte-sauter-4-pieces-25-cm-noir-tous-feux-dont-induction-four-3430761",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:52:56+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 79.0,
-        "observed_at": "2026-10-12T12:59:39.199013+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ecran PC Incurvé 34\" MSI MAG 346CQ - UWQHD, 180Hz, 1ms, 100% sRGB, HDR Ready",
-    "description": "220,40€ - Amazon 12€ de moins que le précédent deal > Livraison gratuite Description JEU IMMERSIF ET SANS BORDURE - Les écrans incurvés de MSI offrent une expérience de jeu plus immersive grâce à une courbure de 1500R (rayon de 1500 mm) et à leur design « sans cadre », qui réduit les zones de bordure entre les écrans. 34\" UWQHD, 180 Hz - Dalle VA 3440 x 1440 (format 16:9) avec un taux de rafraîchissement de 180 Hz (Adaptive Sync) pour une visée et un suivi des mouvements fluides ; le temps de réponse de 1 ms est idéal pour les compétitions d'esport. LARGE GAMME DE COULEURS - Le MAG 346CQ prend en charge jusqu'à 1,07 milliard de couleurs à 100 % sRGB pour des images et des détails plus immersifs ; il est doté de la technologie Less Blue Light et de l'antiscintillement pour réduire la fatigue visuelle. CONTRASTE DYNAMIQUE ET AI VISION - La dalle VA offre un excellent contraste natif de 4000:1 et prend en charge le contraste dynamique (100M:1) ; MSI AI Vision enrichit les détails dans les zones sombres et optimise la luminosité et les couleurs. CONNECTIVITÉ HDMI CEC - Les options de connexion aux consoles PC et aux ordinateurs portables incluent DisplayPort 1.4a et HDMI 2.0b CEC. L'écran dispose d'un joystick de navigation 5 directions situé à l'arrière Caractéristiques Écran & Dalle Taille de l'écran : 34 pouces (86,36 cm) Type de dalle : VA Courbure : 1500R Résolution : UWQHD ($3440 \\times 1440$ pixels), format 21:9 Luminosité : 300 $cd/m^2$ (typique) Taux de contraste : 4 000:1 (statique) | 100 000 000:1 (dynamique / HDCR) Espace colorimétrique : 100% sRGB | 80% Adobe RGB | 75% DCI-P3 (1,07 milliard de couleurs - 8 bits + FRC) Performances & Réactivité Taux de rafraîchissement max. : 180 Hz Temps de réponse : 1 ms (MPRT) | 4 ms (GtG) Technologies de synchronisation : AMD FreeSync Premium / Adaptive-Sync Prise en charge HDR : HDR Ready Connectique Entrées vidéo : 2x HDMI 2.0b ($3440 \\times 1440$ @ 100 Hz max / compatible Console Mode 120 Hz) 1x DisplayPort 1.4a ($3440 \\times 1440$ @ 180 Hz) Sortie audio : 1x Prise casque Jack 3,5 mm Ergonomie, Fonctionnalités & Châssis Fonctionnalités Gaming : AI Vision / Night Vision, PIP (Picture-in-Picture) / PBP (Picture-by-Picture), Anti-Flicker, Less Blue Light Réglages du pied : Inclinaison de -5° à +20° (hauteur fixe) Fixation murale : VESA 100 x 100 mm Dimensions avec pied (L x H x P) : 808 mm x 458,8 mm x 269,5 mm Poids net (avec pied) : 6,31 kg",
-    "price": 220.4,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-34-msi-mag-346cq-uwqhd-180hz-1ms-courbure-1500r-3430760",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:52:37+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 220.4,
-        "observed_at": "2026-10-12T12:59:39.199022+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Location LDD 36 mois/15000 km Voiture Citroën Ami Edition Ripcurl avec 1er Loyer de 490€",
-    "description": "79€ - Citroën Titre : Citroën Ami Rip Curl Sunrise électrique – LLD 36 mois / 15 000 km à 79 €/mois, premier loyer de 490 € La Citroën Ami en édition limitée Rip Curl Sunrise est affichée à partir de 79 €/mois, après un premier loyer de 490 €, avec livraison incluse. Conditions du financement : * Location longue durée sur 36 mois. * 15 000 km au total, soit 5 000 km/an. * Offre réservée aux particuliers, sous réserve d’acceptation du dossier. * Prestations facultatives non comprises. * Véhicule à restituer en fin de contrat, sans option d’achat. Caractéristiques : * 2 places et motorisation 100 % électrique. * Autonomie annoncée de 75 km selon le cycle WMTC. * Vitesse maximale de 45 km/h. * Recharge complète en environ 4 heures sur prise domestique. * Carrosserie Black Night avec décoration Rip Curl jaune. * Toit panoramique, phares LED et jantes blanches de 14 pouces. * Tableau de bord numérique de 5,7 pouces. * Chauffage, ventilation, désembuage, port USB et support pour smartphone.",
-    "price": 79.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/location-ldd-ami-citroen-ripcurl-36-mois15000-km-1er-loyer-490eur-3430735",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:50:47+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 79.0,
-        "observed_at": "2026-10-12T12:59:39.199028+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Amazon Fire TV Stick HD (nouvelle génération) : TV gratuite et en direct, télécommande vocale",
-    "description": "25,99€ - Amazon - Améliorez instantanément votre TV : Fire TV Stick HD est notre lecteur HD en streaming le plus rapide à ce jour, avec une navigation simplifiée pour accéder directement à votre divertissement. Grâce à son nouveau format ultra-portable, emportez-le partout pour accéder à vos films, à vos séries et à la TV en direct, et profitez d'un contenu plus vrai que nature avec la Full HD ultra-nette et la prise en charge du Wi-Fi 6. - La dernière expérience Fire TV (2026) : grâce à notre mise à jour Fire TV la plus importante, profitez désormais d'une interface moderne qui vous permet d'accéder rapideme…",
-    "price": 25.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/amazon-fire-tv-stick-hd-nouvelle-generation-tv-gratuite-et-en-direct-telecommande-vocale-3430759",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:50:41+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-12T12:59:39.199033+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Botanicals Le Bouquet de Tulipes 11501 LEGO",
-    "description": "35,99€ - Carrefour prix sympa pour ce set prix officiel Lego 59,99€",
-    "price": 35.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-botanicals-le-bouquet-de-tulipes-11501-lego-3430758",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:50:40+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 35.99,
-        "observed_at": "2026-10-12T12:59:39.199040+00:00"
-      }
-    ]
-  },
-  {
-    "title": "BOMBANANA!",
-    "description": "4,89€ - Steam Incarnez des singes démineurs entre amis ! Coopérez en équipe de trois singes : un aveugle, un sourd et un muet. Chaque joueur dispose d’une partie différente des informations. Communiquez, résolvez des casse-têtes et jouez contre la montre. Désamorcerez-vous les bombes avant qu’elles explosent ? - Genres : Occasionnel, Indépendant - Développeur : Lefto Studio · Éditeur : TARK - Sortie : 2 sept. 2026 - Avis Steam : 96 % positifs sur 3 907 avis",
-    "price": 4.89,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bombanana-3430755",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:49:51+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 4.89,
-        "observed_at": "2026-10-12T12:59:39.199054+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie de cuisine empilable en fonte Sauter 4 pièces 29 cm - Vert (Tous feux dont induction & four)",
-    "description": "79€ - E.Leclerc Batterie de cuisine empilable en fonte Sauter 4 pièces 29 cm - Vert (Tous feux dont induction & four) @ E.Leclerc Description : Batterie de cuisine 4 pièces empilable en fonte d'acier (coloris vert, diamètre 29 cm) de la marque Sauter chez E.Leclerc. Ce set tout-en-un ingénieux mise sur un encombrement minimal grâce à sa conception gigogne, tout en conservant toutes les qualités thermiques de la fonte d'acier : diffusion homogène, forte inertie thermique et cuisson saine pour saisir, rôtir ou mijoter. Composition et caractéristiques du set : • Ensemble 4 pièces modulable : cocotte/faitout profond de 29 cm, poêle/sauteuse basse multifonction servant également de couvercle ou de plat de cuisson indépendant, et accessoires compatibles. • Conception empilable (gain de place) : les éléments s'emboîtent parfaitement pour se ranger sans encombrer les placards. • Matériau : fonte d'acier robuste et durable assurant une rétention optimale de la chaleur pour maintenir les plats chauds à table. • Poignées ergonomiques en fonte intégrées de chaque côté pour une manipulation sécurisée de la plaque au four. • Polyvalence et compatibilité : compatible tous feux dont induction, passe au four à haute température et se nettoie facilement. Idéal pour cuisiner des pièces généreuses sans sacrifier l'espace de stockage en cuisine. Vendu en exclusivité web par E.Leclerc avec retrait gratuit en magasin.",
-    "price": 79.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-de-cuisine-empilable-en-fonte-sauter-4-pieces-29-cm-vert-tous-feux-dont-induction-four-3430754",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:48:49+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 79.0,
-        "observed_at": "2026-10-12T12:59:39.199060+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ampli guitare à lampes PRS DGT 15 David Grissom",
-    "description": "999€ - Musik Produktiv Qu'est-ce que qui peut être blonde, avoir du caractère, et coûter plutôt cher ? Une bière ? Alors oui, effectivement, si on sort du rayon des bières éco qui contiennent plus d'alcool que de goût et qu'on va l'acheter chez un caviste, une bière peut être blonde, avoir du caractère, et coûter plutôt cher. Mais je vous rappelle que l'abus d'alcool est dangereux pour la santé. Une cigarette ? Alors oui, effectivement aussi, une cigarette peut être blonde, avoir du caractère, et coûter plutôt cher (même si vous allez les chercher au Pas de la Case, vu le prix du gazole, et qu'en plus vous ramenez systématiquement une palette de Toblerone dont votre santé n'a pas vraiment besoin non plus). Mais je vous rappelle que fumer tue. Votre épouse ? Alors oui, votre épouse peut être blonde, avoir du caractère, et coûter plutôt cher. Mais c'est vous qui l'avez choisie ainsi et vous lui avez dit oui donc maintenant il faut assumer. Un combo PRS DGT 15 ? Oui, effectivement. Il est en finition Blonde et il a du caractère. Mais finalement, sous les 1000 €, il n'est pas si cher que ça, et il n'est pas trop dangereux pour la santé (sauf peut-être pour votre dos), et coûte moins cher qu'un divorce. Donc des quatre, c'est clairement le meilleur choix. Vidéos : [shortcode id=\"20619086\"/][shortcode id=\"20619087\"/] Pour comparer : 1299 € chez Thomann 1299 € chez Woodbrass 1310 € chez Gear4music 1879 € chez Hurricane Caractéristiques : Lampes de préampli : 3x 12AX7, 1x 12AT7 Lampes d'amplification : 2x EL84 Puissance : 15 Watt Haut-parleur : 1x 12\" Celestion Vintage 30 Contrôles: Volume, Treble, Mid, Bass, Master, Reverb, Top Cut, Presence, Speed, Depth Switches : On/Off, Boost (On/Off/Footswitch), Master (On/Off/with Boost), Tremolo (On/Off/Footswitch) Effets : Reverb, Tremolo Sorties HP : 3 (Jack 6,35) mm Dimensions (L x P x H) : 62,23 x 26,67 x 47 cm Poids : 19,05 kg Footswitch : 3 boutons, inclus Lien contructeur",
-    "price": 999.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ampli-guitare-a-lampes-prs-dgt-15-david-grissom-3430753",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:48:17+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 999.0,
-        "observed_at": "2026-10-12T12:59:39.199069+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Wok en fonte d'acier Sauter 30 cm avec couvercle - Fond nid d'abeille (Tous feux dont induction)",
-    "description": "29€ - E.Leclerc Wok en fonte d'acier de 30 cm avec structure intérieure alvéolée en nid d'abeille et couvercle en verre, issu de la sélection cuisson Sauter chez E.Leclerc. Compatible tous feux dont induction, ce wok associe la forte inertie thermique de la fonte à un fond structuré conçu pour saisir viandes, nouilles et légumes à haute température de manière homogène. Caractéristiques techniques : • Diamètre : 30 cm, format idéal pour faire sauter les aliments sans projection tout en conservant une bonne surface de chauffe. • Matériau : fonte d'acier garantissant une montée en température puissante et une excellente rétention de chaleur. • Fond en nid d'abeille : structure alvéolée facilitant la circulation des sucs et matières grasses tout en limitant l'adhérence des aliments. • Couvercle inclus : couvercle en verre transparent cerclé inox avec bouton athermique pour mijoter, étuver et surveiller la cuisson sans perte de chaleur. • Prise en main : deux poignées latérales fixes en fonte intégrées pour une manipulation sûre et stable. • Compatibilité : tous feux dont induction, compatible four (sans couvercle) et entretien facile. Vendu en exclusivité web par E.Leclerc avec retrait gratuit en magasin.",
-    "price": 29.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/wok-en-fonte-dacier-sauter-30-cm-avec-couvercle-fond-nid-dabeille-tous-feux-dont-induction-3430752",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:45:15+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 29.0,
-        "observed_at": "2026-10-12T12:59:39.199078+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Billard US Championship 6ft Industriel",
-    "description": "299,99€ - Carrefour Billard US Championship 6ft Industriel Découvrez le billard américain US Championship 6ft Industriel, idéal pour partager des moments de divertissement en famille ou entre amis. Avec son format compact de 6 pieds, il s'intègre facilement dans une salle de jeux ou un espace de loisirs. Parfait pour s'initier au billard ou perfectionner sa technique, il permet d'organiser des parties conviviales à domicile. Profitez du plaisir du jeu et relevez de nouveaux défis autour de la table pour des moments de détente et de compétition. Description Ce billard americain 6ft avec design industriel, Contient: queues, billes, triangle, craies et brosse. A partir de 6 ans. Dimensions : 183,5 x 102 x 81,5 cm. Poids net : 50,5 kg. Poids brut: 56,5kgs En résumé structure robuste design contemporain et élégant surface de jeu optimisée pour une expérience immersive.",
-    "price": 299.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/billard-us-championship-6ft-industriel-3430751",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:45:09+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 299.99,
-        "observed_at": "2026-10-12T12:59:39.199084+00:00"
       }
     ]
   }
