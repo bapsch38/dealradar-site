@@ -1,5 +1,167 @@
 [
   {
+    "title": "Sante Naturkosmetik Mineral Wa...u contouring, végétalien, 8 ml",
+    "price": 6.4,
+    "reference_price": 12.54,
+    "discount_percent": 48.96,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B086TPGPPQ",
+    "image_url": "https://m.media-amazon.com/images/P/B086TPGPPQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:02:07",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.4,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Physicians Formula Mineral Wea...inition Lumineuse, Tan to Deep",
+    "price": 9.7,
+    "reference_price": 17.95,
+    "discount_percent": 45.96,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DQLCRLGF",
+    "image_url": "https://m.media-amazon.com/images/P/B0DQLCRLGF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:02:04",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.7,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Physicians Formula Mineral Wea...ition Lumineuse, Medium to Tan",
+    "price": 9.8,
+    "reference_price": 14.82,
+    "discount_percent": 33.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DQLBG8HC",
+    "image_url": "https://m.media-amazon.com/images/P/B0DQLBG8HC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:02:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.8,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Braun MultiQuick 5 Pro - Mixeu...Doseur, 1000W, Noir (MQ55236M)",
+    "price": 56.06,
+    "reference_price": 71.66,
+    "discount_percent": 21.77,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D3J3MDZR",
+    "image_url": "https://m.media-amazon.com/images/P/B0D3J3MDZR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:01:58",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 56.06,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Faller - F170652 - Modélisme - Feuille Pave - Echelle HO",
+    "price": 12.88,
+    "reference_price": 18.31,
+    "discount_percent": 29.66,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0000WRPII",
+    "image_url": "https://m.media-amazon.com/images/P/B0000WRPII.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:01:57",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.88,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Siemens VZ154HFB Filtre HEPA",
+    "price": 22.0,
+    "reference_price": 31.4,
+    "discount_percent": 29.94,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001TH8M76",
+    "image_url": "https://m.media-amazon.com/images/P/B001TH8M76.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:01:56",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 22.0,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tweezerman - 1248-LLR - Mini-p...iler Lovely Lavender - Lavande",
+    "price": 12.75,
+    "reference_price": 25.06,
+    "discount_percent": 49.12,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000WI1VEE",
+    "image_url": "https://m.media-amazon.com/images/P/B000WI1VEE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:01:55",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.75,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "GA.MA Italy Professional, iQ P...s, puissance 1600 W, Gold Rose",
+    "price": 166.76,
+    "reference_price": 244.3,
+    "discount_percent": 31.74,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09L4Z3MH2",
+    "image_url": "https://m.media-amazon.com/images/P/B09L4Z3MH2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:01:54",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 166.76,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Renkforce DisplayPort Câble de...t 3.00 m Noir UHD 4K @ 60 Hz c",
+    "price": 11.18,
+    "reference_price": 21.42,
+    "discount_percent": 47.81,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01GQ8HGXS",
+    "image_url": "https://m.media-amazon.com/images/P/B01GQ8HGXS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:01:49",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.18,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
     "title": "PUNIRUNES - Animaux Interactif...nore - Jouet Enfant 5 Ans et +",
     "price": 29.94,
     "reference_price": 49.97,
@@ -1746,6 +1908,457 @@
     ]
   },
   {
+    "title": "Renkforce DisplayPort Câble de...t 3.00 m Noir UHD 4K @ 60 Hz c",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01GQ8HGXS",
+    "image_url": "https://m.media-amazon.com/images/P/B01GQ8HGXS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:00:18+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "HOME DECO FACTORY - KA0568 Sal...tre 28 cm, Marron, Blanc, Noir",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DH821Y8D",
+    "image_url": "https://m.media-amazon.com/images/P/B0DH821Y8D.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:59:14+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "[Clients VIP] 1 sachet de bonbons offert dès 20€ d'achats de produits Halloween",
+    "description": "GiFi GiFi : 1 sachet de bonbons OFFERT dès 20 € d'achats Halloween pour les clients VIP ! Halloween approche et GiFi a décidé de rajouter une petite dose de gourmandise dans nos paniers ! Du 13 au 26 octobre 2026, les clients VIP GiFi peuvent recevoir un sachet de bonbons gratuit dès 20 € d'achat de produits Halloween. Et le petit plus, c'est que l'offre est cumulable avec les promotions en cours ! De quoi profiter des réductions VIP sur les décorations, accessoires et autres articles Halloween, tout en repartant avec quelques bonbons pour les petits monstres… ou pour soi-même ! 20 € minimum d'achats de produits Halloween 1 sachet de bonbons offert Offre réservée aux clients VIP GiFi️ Seuil de 20 € calculé après déduction des remises VIP Cumulable avec les promotions en cours Du mardi 13 au lundi 26 octobre 2026 Dans la limite des stocks disponibles L'offre est disponible dans les magasins participants en France métropolitaine, mais également sur gifi.fr en Click & Collect. ⚠️ Quelques précisions importantes : pour les commandes Click & Collect, le retrait doit être effectué au plus tard le samedi 24 octobre 2026 pour bénéficier du cadeau. Le produit offert ne peut être ni repris ni échangé. Les magasins de Saint-Aunès, Poitiers-Croutelle et Chazelles ne participent pas à l'opération. Bref, si vous aviez prévu de faire un petit tour chez GiFi pour préparer Halloween, autant récupérer quelques bonbons au passage !",
+    "price": 20.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/clients-vip-1-sachet-de-bonbons-offert-des-20-eur-dachats-de-produits-halloween-3431290",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Bs0uz/3431290_1/re/1200x1200/qt/90/3431290_1.jpg",
+    "detected_at": "2026-10-12T18:58:24+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sac à dos Cabine American Tourister Urban Track - 25x20x40cm, 24,5L, 0,5 Kg, Vert Kaki Foncé",
+    "description": "38,25€ - Amazon.es Sac à dos cabine American Tourister Urban Track en coloris vert kaki, proposé à 38,25 € au lieu du prix recommandé de 85 € sur Amazon Espagne. Avec son format compact de 40 × 25 × 20 cm, il est conçu pour se glisser sous le siège et garder ses affaires à portée de main pendant le voyage. Son volume de 24,5 L permet d’emporter l’essentiel pour une escapade de quelques jours, tandis que son poids d’environ 500 g évite d’alourdir inutilement le bagage. Un modèle pratique pour les déplacements en avion comme au quotidien, signé American Tourister. La fiche affiche une remise de 55 %. Au moment de la consultation, le sac était en stock et la livraison vers la France était indiquée à 5,36 €. Pensez à vérifier la variante sélectionnée, le tarif final et les règles de bagage cabine de votre compagnie avant de commander.",
+    "price": 38.25,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-cabine-american-tourister-urban-track-25x20x40cm-245l-05-kg-vert-kaki-fonce-3431289",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/juknn/3431289_1/re/1200x1200/qt/90/3431289_1.jpg",
+    "detected_at": "2026-10-12T18:57:50+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 38.25,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "GA.MA Italy Professional, iQ P...s, puissance 1600 W, Gold Rose",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09L4Z3MH2",
+    "image_url": "https://m.media-amazon.com/images/P/B09L4Z3MH2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:56:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Tweezerman - 1248-LLR - Mini-p...iler Lovely Lavender - Lavande",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000WI1VEE",
+    "image_url": "https://m.media-amazon.com/images/P/B000WI1VEE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:56:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Siemens VZ154HFB Filtre HEPA",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001TH8M76",
+    "image_url": "https://m.media-amazon.com/images/P/B001TH8M76.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:56:38+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Faller - F170652 - Modélisme - Feuille Pave - Echelle HO",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0000WRPII",
+    "image_url": "https://m.media-amazon.com/images/P/B0000WRPII.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:56:33+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Viso JAP1710 Boite polypropylè...es + 9 Amovibles 12 Cases maxi",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00EPES5G8",
+    "image_url": "https://m.media-amazon.com/images/P/B00EPES5G8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:56:29+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Durable 290901 Boite de 25 Baguettes à Reliure A4 9 mm Noir",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000I5VXM6",
+    "image_url": "https://m.media-amazon.com/images/P/B000I5VXM6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:56:26+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Braun MultiQuick 5 Pro - Mixeu...Doseur, 1000W, Noir (MQ55236M)",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0D3J3MDZR",
+    "image_url": "https://m.media-amazon.com/images/P/B0D3J3MDZR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:56:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Chaussures de randonnée homme Quechua Arpenaz 500 Revival 2.0 Kaki",
+    "description": "31,99€ - Decathlon Ces chaussures de randonnée homme assurent adhérence et amorti grâce à leur semelle en élastomère (EVA). Elles offrent confort et légèreté sur les sentiers de campagne, de forêt ou du littoral. Amorti : Semelle intermédiaire en EVA garantissant un amorti confortable. Adhérence : Composition & design semelle favorisant l'adhérence sur sentiers pédestres. Confort d'accueil : Semelle intérieure en EVA de 5 mm | Pas de couture au talon. Accroche : Design de semelle et crampons de 4 mm permettant de facilement évacuer la boue. Résistance : Renforts avant et arrière en caoutchouc synthétique.",
+    "price": 31.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-quechua-de-randonnee-homme-arpenaz-500-revival-20-kaki-plusieurs-tailles-disponibles-3431286",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9yP5q/3431286_1/re/1200x1200/qt/90/3431286_1.jpg",
+    "detected_at": "2026-10-12T18:55:44+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 31.99,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tesa Insect Stop COMFORT pour ...tique - Blanc, 170 cm x 180 cm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001ULCOFW",
+    "image_url": "https://m.media-amazon.com/images/P/B001ULCOFW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:54:36+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Physicians Formula Mineral Wea...ition Lumineuse, Medium to Tan",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DQLBG8HC",
+    "image_url": "https://m.media-amazon.com/images/P/B0DQLBG8HC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:53:42+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Humble Bundle Cozy After Dark Showcase - 5 jeux PC dont Paradise Killer, Fear the Spotlight, Cabernet... à partir de 8,58 €",
+    "description": "8,58€ - Humble Bundle Un bundle thématique orienté enquêtes, aventures narratives, mystères et ambiance rétro/gothique modérée (\"cozy dark\"). L'offre propose 10 jeux PC au total répartis sur 2 paliers : Palier 1 (5 jeux) : environ 8,58 € Palier 2 (10 jeux) : environ 12,86 € ️ Sélection / Jeux inclus : Palier 1 : 5 jeux pour ~8,58 € Paradise Killer - https://store.steampowered.com/app/1160220/ - Prix sur Steam : 19,99 € Escape From Mystwood Mansion - https://store.steampowered.com/app/2292650/ - Prix sur Steam : 16,79 € a pet shop after dark - https://store.steampowered.com/app/1832160/ - Prix sur Steam : 7,99 € The Darkside Detective - https://store.steampowered.com/app/368390/ - Prix sur Steam : 14,99 € Kathy Rain: Director's Cut - https://store.steampowered.com/app/1395030/ - Prix sur Steam : 14,99 € Palier 2 : 10 jeux pour ~12,86 € (inclut le palier 1) Fear the Spotlight - https://store.steampowered.com/app/1959000/ - Prix sur Steam : 19,99 € Cabernet - https://store.steampowered.com/app/2401400/ - Prix sur Steam : 19,99 € Kulebra and the Souls of Limbo - https://store.steampowered.com/app/1806330/ - Prix sur Steam : 12,79 € Gloomy Eyes - https://store.steampowered.com/app/1111620/ - Prix sur Steam : 8,99 € Spooky Express - https://store.steampowered.com/app/1202860/ - Prix sur Steam : 4,99 € Jeux marquants : Paradise Killer : Un jeu d'enquête fantastique en monde ouvert très acclamé. Vous y incarnez Lady Love Dies dans une île paradisiaque décalée pour résoudre un meurtre. Une direction artistique démentielle et une excellente B.O. synthwave/city-pop. Fear the Spotlight : Un hommage vibrant aux jeux d'horreur/mystère des années 90 (style PS1), édité par Blumhouse Games. Un jeu axé sur l'ambiance et la résolution d'énigmes dans un lycée, sans jump scares intempestifs. The Darkside Detective & Kathy Rain: Director's Cut : Deux incontournables du genre Point & Click. Le premier brille par son humour absurde et ses enquêtes paranormales au format épisodique, le second par une narration captivante et plus sombre façon thriller des années 90.",
+    "price": 8.58,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/humble-bundle-cozy-after-dark-showcase-10-jeux-pc-steam-dont-paradise-killer-fear-the-spotlight-cabernet-a-partir-de-858-eur-3431284",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/PrivM/3431284_1/re/1200x1200/qt/90/3431284_1.jpg",
+    "detected_at": "2026-10-12T18:53:32+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.58,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Physicians Formula Mineral Wea...inition Lumineuse, Tan to Deep",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DQLCRLGF",
+    "image_url": "https://m.media-amazon.com/images/P/B0DQLCRLGF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:53:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "SANTE Naturkosmetik Coloration...en et testé dermatologiquement",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DJNZYZ7J",
+    "image_url": "https://m.media-amazon.com/images/P/B0DJNZYZ7J.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:53:16+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Wera Kraftform Kompakt VDE 16 Universal 1 TIE",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0D1FSMVJT",
+    "image_url": "https://m.media-amazon.com/images/P/B0D1FSMVJT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:53:01+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Paulmann 92461 LED Calla Rond ... encastrée 4000K, Matière, 6 W",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BRBDFCMG",
+    "image_url": "https://m.media-amazon.com/images/P/B0BRBDFCMG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:52:59+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Doudoune Schott Idaho2 Navy - Taille M",
+    "description": "59,10€ - Amazon Bon plan pour l’hiver",
+    "price": 59.1,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/schott-doudoune-idaho2-navy-3431281",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oFqiv/3431281_1/re/1200x1200/qt/90/3431281_1.jpg",
+    "detected_at": "2026-10-12T18:52:58+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.1,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sante Naturkosmetik Mineral Wa...u contouring, végétalien, 8 ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B086TPGPPQ",
+    "image_url": "https://m.media-amazon.com/images/P/B086TPGPPQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:52:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Physicians Formula, Mineral We...de Verre, Végane, Starlit Glow",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B08RRPPLMM",
+    "image_url": "https://m.media-amazon.com/images/P/B08RRPPLMM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:52:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Physicians Formula - Fond de T...Formule Légère - Crème naturel",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B095T2F1NP",
+    "image_url": "https://m.media-amazon.com/images/P/B095T2F1NP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:52:15+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "wet n wild, Megalast Incognito... Beurre de Karité, Light Beige",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B08RRNH8K3",
+    "image_url": "https://m.media-amazon.com/images/P/B08RRNH8K3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:51:26+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "wet n wild Megalast Rouge à Lè... Cruauté Produit Vegan 1 Unité",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B081CSJ1VP",
+    "image_url": "https://m.media-amazon.com/images/P/B081CSJ1VP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:51:22+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Jouet Lego Technic 42210 Voiture Nissan Skyline GT-R (R34) 2 Fast 2 Furious",
+    "description": "96,04€ - Cdiscount Mettez le pied au plancher avec cette maquette qui inspirera les fans des films Fast and Furious. La voiture Nissan Skyline GT-R (R34) Fast & Furious LEGO® Technic (42210) pour adultes regorge de fonctions qui donnent vie à ce véhicule mythique. Recréez les détails fidèles, comme la direction ou les suspensions avant et arrière. Ouvrez le capot pour découvrir le moteur 6 cylindres avec pistons mobiles. Ajustez l’aileron, puis testez la toute première fonction de drift LEGO® Technic, qui soulève la voiture pour reproduire des manœuvres impressionnantes. Ouvrez les portes pour accéder au siège du pilote et aux 3 bonbonnes de NOS. Une superbe décoration et un magnifique cadeau pour les fans de la saga Fast and Furious. Exprimez votre passion pour les véhicules haute performance et savourez des projets de construction gratifiants avec la gamme de véhicules LEGO® Technic pour adultes. L’application LEGO® Builder propose une version numérique des instructions imprimées. Contient 1 414 pièces. Maquette de voiture Fast and Furious pour adultes – Construisez la Voiture Nissan Skyline GT-R (R34) 2 Fast 2 Furious LEGO® Technic, puis déployez la fonction de drift pour recréer des scènes mythiques des films Caractéristiques authentiques – Cette voiture LEGO® Technic regorge de détails réalistes dont la direction, les suspensions avant et arrière, les portes qui s’ouvrent, un aileron réglable et 3 bonbonnes NOS Recréez les moments forts des films – La fonction de drift, une première pour LEGO® Technic, soulève la voiture pour vous permettre de recréer les manœuvres impressionnantes de vos scènes de course préférées Moteur 6 cylindres avec pistons mobiles – Réveillez l’ingénieur qui sommeille en vous en recréant les détails mobiles de ce modèle réduit, tels que le moteur 6 cylindres Un cadeau pour les fans de Fast and Furious – Ce modèle réduit de voiture est un fabuleux cadeau créatif pour les adultes et les fans qui aiment la Nissan Skyline GT-R (R34) Instructions de montage numériques – L’application LEGO® Builder propose une version numérique des instructions incluses dans la boîte Modèles LEGO® pour adultes – Explorez des concepts d’ingénierie et savourez des projets de construction gratifiants avec la collection de véhicules LEGO® Technic pour adultes (vendus séparément) Dimensions – La maquette de voiture de ce set LEGO® Technic de 1 410 pièces mesure plus de 12 cm de haut, 41 cm de long et 18 cm de large",
+    "price": 96.04,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-technic-42210-voiture-nissan-skyline-gt-r-r34-2-fast-2-furious-3431280",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ztZJ3/3431280_1/re/1200x1200/qt/90/3431280_1.jpg",
+    "detected_at": "2026-10-12T18:50:40+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 96.04,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blouson Columbia Powder Lite Ii Jacket",
+    "description": "69,99€ - Amazon Bon plan pour l’hiver ! À propos de ce produit Veste d'hiver déperlante pour homme, Idéale pour les journées froides d'hiver en ville, les randonnées et autres activités de plein air, Coupe moderne Zip pratique sur toute la longueur, 2 poches zippées pour des mains chaudes et en sécurité Particulièrement chaude grâce à la technologie Omni-Heat avec doublure thermoréfléchissante, Matière déperlante pour une protection optimale contre l'humidité Ajustement optimal grâce aux poignets élastiques et au cordon de serrage réglable à l'ourlet Contents: 1x Columbia Powder Lite II, Veste pour Homme, Colour: Noir (Black), Size: L, Article: 2086964 Commentaires client",
+    "price": 69.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/columbia-powder-lite-ii-jacket-3431277",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9wHZG/3431277_1/re/1200x1200/qt/90/3431277_1.jpg",
+    "detected_at": "2026-10-12T18:46:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hache à fendre et universelle ou machette Parkside",
+    "description": "11,99€ - Lidl Hache à fendre et universelle ou machette Parkside ______________________________________________ Description Longueur : Hache : 35,5 cm ; Machette : 50,6 cm PARKSIDE® Hache à fendre et universelle ou machette Caractéristiques Le couvercle de protection du produit contient 50 % de polypropylène recyclé certifié GRSI Poignée ergonomique antidérapante Manche ultraléger et durable renforcé de fibres de verre Avec crochet de suspension pour le rangement Hache à fendre et universelle: Lame à bord tranchant pour un hachage efficace Tête de hache en acier trempé de haute qualité Poids de la tête: 555 g Diamètre de coupe max.: < 7 cm Machete: Idéal pour couper de petites branches et pour l'écorçage léger des troncs Pour tailler les sous-bois dans les jardins et les forêts Lame en acier trempé de haute qualité Caractéristiques du produit Composition : Acier, plastique renforcé de fibres de verre Longueur: Hache: 35,5 cm; Machete: 50,6 cm Poids: Hache: 794 g; Machette: 570 g I GRS – Global Recycled Standard La housse contient 50 % de polypropylène recyclé certifié GRS Numéro de certification: CU 851646 L'achat de produits certifiés selon le Global Recycled Standard (GRS) montre qu'il existe une demande de contenu recyclé et de meilleures méthodes de transformation dans la chaîne d'approvisionnement.",
+    "price": 11.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/hache-a-fendre-et-universelle-ou-machette-parkside-3431276",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/arQKd/3431276_1/re/1200x1200/qt/90/3431276_1.jpg",
+    "detected_at": "2026-10-12T18:43:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Cocotte Tefal Ronde - 24cm, TFI, Air Soft Light Vert",
+    "description": "39,99€ - Auchan Caractéristiques générales Couleur : Vert Type de feux : Tous feux dont induction Composition Matière : Fonte d'aluminium Revêtement intérieur : Céramique Revêtement anti adhésif : Oui Dimensions et poids Diamètre : 24 cm Longueur : 33.2 cm Hauteur : 14 cm Largeur : 25.5 cm Dimensions : 33.2 x 25.5 x 14 cm Caractéristiques générales Couleur : Vert Type de feux : Tous feux dont induction Composition Matière : Fonte d'aluminium Revêtement intérieur : Céramique Revêtement anti adhésif : Oui Dimensions et poids Diamètre : 24 cm Longueur : 33.2 cm Hauteur : 14 cm Largeur : 25.5 cm Dimensions : 33.2 x 25.5 x 14 cm",
+    "price": 39.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cocotte-tefal-ronde-24cm-tfi-air-soft-light-vert-3431274",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/o3UzE/3431274_1/re/1200x1200/qt/90/3431274_1.jpg",
+    "detected_at": "2026-10-12T18:43:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
+  },
+  {
     "title": "Manhattan Poudre libre mate 1 20 g",
     "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
     "price": null,
@@ -1772,6 +2385,25 @@
     "category": "Autre",
     "price_verified": false,
     "price_history": []
+  },
+  {
+    "title": "VTTAE Haibike Allmtn 2 Bosch gen5 120 Nm",
+    "description": "2 799,99€ - Alltricks Pour introduire, je dirais que c'est un tarif très agressif pour l'ensemble Bosch gen5 et batterie de 800 Wh. Haibike est la marque Allemande qui a littéralement lancé les VTT à assistance électrique en son temps. Leur savoir faire est éprouvé. Après je ne connais pas cette nouvelle géométrie qui a été retravaillée mais traditionnellement, ce sont des vélos assez facile à prendre en main et plutôt axés sur le confort du ou de la pilote que sur la performance. Quand je vois les tarifs des autres marques, je me dis que ça vaut quelques concessions (les freins bof, les périphériques XLC, les suspensions suntour...). Rien qui ne puisse pas être amélioré dans le futur si votre pratique le nécessite et surtout rien qui soit redibitoire à une utilisation déjà très correcte en VTT. Je colle le descriptif du fabricant : \"Haibike AllMtn 2 2027 est conçu pour ceux qui refusent de choisir entre montées explosives et descentes engagées. Avec son moteur Bosch Performance CX ultra-compact développant 100 Nm de couple, il propulse les grimpeurs les plus raides sans effort, même chargé. Sa batterie intégrée PowerTube 800 Wh offre une autonomie généreuse pour enchaîner les tours de trails sans stress de panne. Le châssis aluminium robuste intègre un débattement de 160 mm à l'avant comme à l'arrière, géré par une fourche Suntour ZERON 36X et un amortisseur Suntour, EDGE-X R. Ce setup absorbe les chocs sur racines, cailloux et sauts sans broncher, tout en restant joueur sur les flow trails. Le choix mullet (roue avant 29\" + arrière 27.5\") combine roulement fluide et maniabilité accrue : tu passes les obstacles sans ralentir et tu gardes une adhérence maximale en montée raide. Côté freinage, les étriers hydrauliques Sram 4 pistons mordent fort, même sous la pluie ou après une longue descente. La tige de selle télescopique (dropper post) et le cockpit Haibike TheBar +++ (large 780 mm) te donnent confiance pour piloter en mode agressif.\"",
+    "price": 2799.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vttae-haibike-allmtn-2-bosch-gen5-120-nm-3431273",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8cqKS/3431273_1/re/1200x1200/qt/90/3431273_1.jpg",
+    "detected_at": "2026-10-12T18:43:06+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2799.99,
+        "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      }
+    ]
   },
   {
     "title": "Goobay 60928 Commutateur pour Haut-Parleurs, Noir",
@@ -9461,566 +10093,6 @@
       {
         "price": 329.99,
         "observed_at": "2026-10-12T12:59:39.197969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Figurines Dinosaures Schleich en promotion - Le Mans (72)",
-    "description": "5,99€ - Carrefour Figurines Dinausores Schleich. Prix destockage -70% ( exemple d'étiquette sur photo 3). Par exemple Tyrannosaure (19€99 => 5€99) Soixantaine d'exemplaires disponibles à l'entrée du Carrefour Le Mans (sud glonnière).",
-    "price": 5.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/figurines-dinausores-schleich-3430938",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rJaet/3430938_1/re/1200x1200/qt/90/3430938_1.jpg",
-    "detected_at": "2026-10-12T11:02:02+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-12T12:59:39.197975+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Robot multifonction KENWOOD FDP31.170GY Multipro compact170GY",
-    "description": "59,99€ - Kenwood Le Kenwood MultiPro Compact FDP31.170GY est un robot multifonction compact de 800 W, avec un bol de 2,1 L, un blender de 1,2 L et deux vitesses plus une fonction Pulse. Il est conçu pour les préparations courantes comme hacher, râper, émincer, pétrir, émulsionner et mixer.",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/robot-multifonction-kenwood-fdp31170gy-multipro-compact170gy-3430943",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/fad97/3430943_1/re/1200x1200/qt/90/3430943_1.jpg",
-    "detected_at": "2026-10-12T10:56:48+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-12T12:59:39.197983+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection d'offres McDonald's - Vernon (27)",
-    "description": "McDonald's McDonald's Vernon uniquement 2 McFlurry™ (Hors nouveautés) 7 € (au lieu de 9,90 €) 2 Filet-O-Fish™ 7 € (au lieu de 11 €) 2 Double Cheeseburger 8 € 2 x 6 Chicken McNuggets™ (Aussi disponible en version Veggie) 8 € 2 Menus Maxi Best Of™ de la gamme ROYAL™ + 2 Happy Meal™ 25 € (au lieu de 38,70 €) 2 Menus Best Of™ Big Mac™ + 2 Sundae 21 € (au lieu de 28,10 €) 1 Menu Maxi Best Of™ McExtreme acheté 1 Croque McDo OFFERT 1 Menu Maxi Best Of™ \"Premium\" acheté 20 Chicken McNuggets™ pour 8 € Comment utiliser ces offres : 1. Rendez-vous dans l'onglet « MES OFFRES » sur les bornes de commande du restaurant. 2. Scannez le code-barres correspondant à l'offre choisie. 3. Présentez votre coupon au McDrive ou au comptoir si vous commandez directement auprès d'un équipier.",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/reduction-mcdonalds-vernon-3430942",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/soLIH/3430942_1/re/1200x1200/qt/90/3430942_1.jpg",
-    "detected_at": "2026-10-12T10:54:34+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Sweat en polaire homme Quiksilver Apparel Outer Layer - Taille L",
-    "description": "23,21€ - Amazon Polaire semi-ouverte avec boutons-pression pour Homme. Les caractéristiques produit sont les suivantes : Usage : activités outdoor quotidiennes, Avantages, Technologie Warmflight pour une meilleure rétention de chaleur et une respirabilité optimale, Made Better, Fabriqué avec des fibres de polyester recyclées provenant de déchets textiles et de bouteilles en plastique, Matière : micropolaire, Polyester recyclé , polyester recyclé, 190 g/m2, CARACTÉRISTIQUES, coupe : coupe regular, poches : poches sur le devant, Poche poitrine zippée et Autre : galon extensible au poignet et à l'ourlet.",
-    "price": 23.21,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/quiksilver-apparelouter-layer-homme-eqypf03072-3430941",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iSfAp/3430941_1/re/1200x1200/qt/90/3430941_1.jpg",
-    "detected_at": "2026-10-12T10:54:24+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 23.21,
-        "observed_at": "2026-10-12T12:59:39.197989+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Client Sosh] Smartphone 6,3\" Google Pixel 11 Pro - RAM 6 Go, 256 Go (Via 150€ d'ODR Google & 200€ de Bonus Reprise)",
-    "description": "699€ - Sosh Prix du mobile : 1049€ -150€ d'ODR Google -200€ de bonus reprise = 699€ prix final. Lien vers l'ODR: https://boutique.orange.fr/informations/medias/odr/261115-google-pixel-11-psg-j300e.pdf?webview_action=pdf Les caractéristiques clés Écran Super Actua 6,3’’ : Une dalle OLED LTPO lumineuse avec une fréquence adaptative de 1 à 120 Hz Triple appareil photo professionnel : Grand angle 50 Mpx, ultra grand-angle 48 Mpx et téléobjectif 48 Mpx avec zoom optique x5 et Zoom Pro jusqu’à x120 Caméra selfie 42 Mpx : Un capteur ultra grand-angle Dual PD avec autofocus pour des selfies détaillés Gemini Intelligence : Une aide personnalisée pour organiser les tâches, rédiger des messages et retoucher des photos en langage naturel Design premium et résistant : Un boîtier en aluminium de qualité aérospatiale associé au verre Corning Gorilla Glass Victus 2 Batterie de 4 850 mAh : Plus de 30 heures d’autonomie et jusqu’à 55 % de charge en environ 30 minutes avec un chargeur USB-C PPS 30 W vendu séparément.",
-    "price": 699.0,
-    "reference_price": 1049.0,
-    "discount_percent": 33.4,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-63-google-pixel-11-pro-256-go-via-150eur-dodr-google-200eur-de-bonus-reprise-3430004",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gk2jg/3430004_1/re/1200x1200/qt/90/3430004_1.jpg",
-    "detected_at": "2026-10-12T10:53:28+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 699.0,
-        "observed_at": "2026-10-12T12:59:39.197995+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de 2 jeux d'occasion pour 10€ (PS4, XBOX One, 3DS...)",
-    "description": "10€ - Micromania Zing Sélection de jeux éligibles : Final Fantasy XV - Occasion PS4 : https://www.micromania.fr/p/final-fantasy-xv-occasion-67891.html Fallout 4 - Occasion PS4 : https://www.micromania.fr/p/fallout-4-occasion-61343.html Metal Gear Solid V The Phantom Pain - Occasion PS4 : https://www.micromania.fr/p/metal-gear-solid-v-the-phantom-pain-occasion-60103.html La Terre Du Milieu L'ombre De La Guerre - Occasion PS4 : https://www.micromania.fr/p/la-terre-du-milieu-l-ombre-de-la-guerre-occasion-76009.html Control - Occasion PS4 : https://www.micromania.fr/p/control-occasion-96481.html Forza Motorsport 5 - Occasion XBOX ONE : https://www.micromania.fr/p/forza-motorsport-5-occasion-55027.html ... Allez fouiller !",
-    "price": 10.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-2-jeux-doccasion-pour-10eur-ps4-xbox-one-3ds-3430940",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/nAiE2/3430940_1/re/1200x1200/qt/90/3430940_1.jpg",
-    "detected_at": "2026-10-12T10:51:50+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 10.0,
-        "observed_at": "2026-10-12T12:59:39.198003+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Support pour ordi Portable avec Station d'accueil Benfei - USB-C, 6-en-1, HDMI 4K 60 Hz, Ethernet Gigabit, 100 W (vendeur tiers)",
-    "description": "35,56€ - Amazon Ergonomic Design】BENFEI Le support pour ordinateur portable peut être facilement ajusté à une hauteur et à un angle confortables en fonction de vos besoins réels, grâce à sa solidité et à son soutien. La hauteur peut être réglée de 178 mm au maximum à 68 mm au minimum. Le poids de l'ordinateur portable est de 4,5 kilogrammes, les dimensions du produit sont de 250*240*53,3mm. 【Stable et durable】Le support pour ordinateur portable est fabriqué en alliage d'aluminium, ce qui lui confère une performance plus stable. Le silicone antidérapant protège votre ordinateur portable contre le glissement. Grâce à la capacité de BENFEI à produire de l'aluminium en interne, à la capacité de PCBA et d'assemblage en interne, nous vous offrons la meilleure solution de support d'ordinateur portable avec station d'accueil. 【Muti-Function】expandand your laptop with HDMI 4K@60Hz, Gigabit Ethernet, 100W Power Delivery, 10Gbps 1*USB C 3.2 et 2*USB A 3.2, just plug in and play, make your desktop more clean. HDMI 4K@60Hz pour que chaque moment incroyable soit détaillé et ultra-vivant. Prend en charge jusqu'à 85 W de charge USB C pass-through via le port Type-C pour que votre ordinateur portable reste alimenté. 【10Gbps Données à haut débit et accès réseau à 1Gbps】Utilisez le port Ethernet pour une connexion Internet stable jusqu'à 1Gbps, transférez des fichiers et depuis votre ordinateur portable à des vitesses allant jusqu'à 10Gbps avec le port USB A/C 3.2. 【Wide Compatibility】Pour la sortie vidéo HDMI, compatible avec 2023/2022/2021/2020/2019 MacBook Pro iMac MacBook, Surface Book 2, Surface Go, HP Envy 13, Pixelbook, Galaxy Book, Dell XPS 15 / XPS 13, Chromebook, Chromebook Pixel, Intel NUC et autres (voir la section de description détaillée du produit ci-dessous).",
-    "price": 35.56,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/support-pour-ordi-portable-avec-station-daccueil-benfei-usb-c-6-en-1-hdmi-4k-60-hz-ethernet-gigabit-100-w-vendeur-tiers-3430937",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/0DMOR/3430937_1/re/1200x1200/qt/90/3430937_1.jpg",
-    "detected_at": "2026-10-12T10:51:07+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 35.56,
-        "observed_at": "2026-10-12T12:59:39.198008+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chariot de cuisine et de service HaluPeit - avec roulettes, Îlot avec plan de travail, tiroirs et porte-bouteilles, Blanc",
-    "description": "61,99€ - JoyBuy Rangement exquisément compartimenté, alliant organisation et mise en valeur : basé sur des principes sophistiqués d'organisation intérieure, ce système propose une solution de rangement luxueuse et hiérarchisée.Un tiroir supérieur extra-large dissimule soigneusement de petits objets tels que des tire-bouchons, des sous-verres et des outils de nettoyage, tout en conservant une apparence propre et minimaliste.Meubles bas fermés à compartiments multiples avec étagères réglables permettent de ranger la vaisselle inutilisée, les courses et les petits appareils électroménagers ; les hauteurs des étagères sont personnalisables pour s'adapter à diverses décorations intérieures.Trois casiers à vin soigneusement disposés permettent d'exposer efficacement divers vins, vins de fruits et élégants verres à eau, créant une présentation visuellement attrayante et dégagée qui allie un rangement pratique à une esthétique sophistiquée. Rangement esthétique à espace ouvert, les détails rehaussent le raffinement de la maison : le plan de travail blanc pur, lisse et spacieux, présente une texture délicate, parfaite pour exposer des articles d'aromathérapie, des compositions florales, des œuvres d'art et des verres de luxe, créant facilement unespace de repas raffiné ou coin d'exposition d'entrée. Trois étagères ouvertes sont disposées de manière alternée et ordonnée, présentant des services à thé, des collations et des boîtes de rangement décoratives, rehaussant ainsi la superposition spatiale.Les barrières latérales empêchent les objets de glisser, tandis que les doubles crochets en métal sont élégants et pratiques, vous permettant de suspendre des nappes, des ustensiles de bar et des mini ustensiles de cuisine.Le design détaillé s'aligne sur une esthétique d'intérieur de luxe léger, soignée et discrète. Adaptabilité esthétique multi-scènes, polyvalent pour tous les styles de décoration d'intérieur : le design minimaliste blanc pur et simple, aux lignes lisses et épurées, est un luxe léger et polyvalent, s'adaptant parfaitement aux styles de décoration d'intérieur dominants tels que le minimalisme moderne, le style nordiquele minimalisme et un style crémeux. Il peut être placé de manière flexible dans la salle à manger comme chariot de présentation pour boissons, dans la cuisine comme îlot de travail luxueux, ou dans le salon comme meuble de rangement décoratif.Il s'affranchit de l'encombrement des meubles de rangement traditionnels, servant à la fois d'outil de rangement pratique et d'élément de décoration majeur pour rehausser le style global de la maison.Adapté à la vie quotidienne à la maison, aux réunions de famille et aux banquets de fêtes, il offre une variété d'options. Mouvement silencieux et fluide, positionnement stable pour un environnement raffiné : les roues omnidirectionnelles silencieuses à 360° améliorées assurent un déplacement fluide et silencieux, évitant les rayures et le bruit, tout en complétant discrètement un intérieur sophistiqué.La conception de verrouillage indépendant des freins à double roue permet une fixation à un seul bouton de la position du meuble, assurant la stabilité et évitant tout vacillement lors de l'exposition d'articles décoratifs et d'ustensiles à boissons.Il élimine le risque de glissement, d'inclinaison ou de basculement des articles, permettant un repositionnement dynamique et flexible ainsi qu'une présentation statique stable, alliant esthétique et praticité. Renforcé avec des matériaux de haute qualité pour un attrait esthétique durable : fabriqué avec des panneaux de particules de haute densité de première qualité et un cadre en acier épaissi résistant à la rouille, le chariot offre une sensation de luxe et une finition lisse et uniforme, sans bavures etimperfections, améliorant considérablement sa qualité perçue par rapport aux chariots en plastique ordinaires. Son poids robuste de 75 kg assure un équilibre stable, empêchant toute déformation ou basculement même lorsqu'il est enti",
-    "price": 61.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/halupeit-chariot-de-cuisine-et-de-service-avec-roulettes-ilot-avec-plan-de-travail-meuble-avec-tiroirs-et-porte-bouteilles-blanc-3430939",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RHAWe/3430939_1/re/1200x1200/qt/90/3430939_1.jpg",
-    "detected_at": "2026-10-12T10:50:43+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 61.99,
-        "observed_at": "2026-10-12T12:59:39.198014+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gel douche Bioderma - 1L (via 2,39€ en Ticket E.Leclerc)",
-    "description": "5,59€ - E.Leclerc Le Bioderma Atoderm Gel douche Eco-Recharge 1L est un gel douche conçu pour les peaux sensibles normales à sèches. Spécifications du produit : - Hygiène dermatologique quotidienne - Nettoyage doux - Respecte l'équilibre cutané - Hydrate en continu - Renforce la barrière cutanée - Contient de la niacinamide - Enrichi en agents humectants - Augmente les réserves naturelles d'eau de la peau - Mousse légère - Très bonne tolérance cutanée et oculaire Atoderm Gel douche est une hygiène dermatologique quotidienne pour les peaux sensibles normales à sèches. Elle garantit un nettoyage en douceur tout en respectant l'équilibre cutané. Par sa double action biologique, le COMPLEXE SKIN PROTECT permet d’hydrater la peau en continu et de renforcer la barrière cutanée grâce à la niacinamide. Enrichie en agents humectants, elle augmente immédiatement et durablement les réserves naturelles d'eau présentes dans la peau. Sa mousse légère apporte une agréable sensation de bien-être. Très bonne tolérance cutanée et oculaire. Testé sous contrôle dermatologique.",
-    "price": 5.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gel-douche-bioderma-1l-via-239eur-en-ticket-eleclerc-3430936",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9JLe1/3430936_1/re/1200x1200/qt/90/3430936_1.jpg",
-    "detected_at": "2026-10-12T10:47:23+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 5.59,
-        "observed_at": "2026-10-12T12:59:39.198021+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Switch HDMI KVM Ugreen - 2 Entrées, 2 Sorties, 8K, 60Hz, Double Affichage, Commutateur KVM avec 4 Ports USB 3A1C 5Gbps (Vendeur Tiers)",
-    "description": "69,99€ - Amazon Switch HDMI 8K ] Switch HDMI 2 entrées 2 sorties permet de brancher 2 sources HDMI (ordinateur/PS5/Xbox) à deux moniteurs (écran/TV/projecteur), supportant le mode miroir ou le mode étendu. Les ports HDMI 2.1 prennent en charge la résolution maximale jusqu'à 8K@60Hz, rétrocompatible avec 4K240Hz/120Hz/60Hz, supportant le VRR(Taux de rafraîchissement variable)/G-Sync et la sortie vidéo HDR, vous offrant une meilleure expérience de jeu et un festin visuel. [ Switch USB ] Commutateur KVM avec 3 ports USB-A 3.0 et 1 port USB-C 3.0 vous permet de partager 4 périphériques USB (comme clavier, souris, disque dur externe, etc.) entre 2 ordinateurs. Ces 4 ports USB 3.0 réalisent la vitesse de transfert de données jusqu'à 5 Gbps, 10 fois plus rapide que l'USB 2.0, vous permettent de transférer 1 Go fichiers en quelques secondes. De plus, il évite de brancher et débrancher constamment des périphériques, rend votre travail beaucoup plus efficace. [ Méthode de Switch ] Vous pouvez facilement changer d'un ordinateur à l'autre en cliquant sur le bouton de switch ou utiliser le contrôleur de bureau. Pour la meilleure performance du KVM, nous vous conseillons d'utiliser l'adaptateur secteur inclus pour l'alimenter lors de la connexion des périphériques USB énergivores(comme le disque dur externe). [ Large Compatibilité ] Switch HDMI USB est compatible avec les systèmes universels comme Windows, Mac OS et Linux. Plug et play, aucun pilote n'est nécessaire. HDMI switch est compatible avec les appareils avec le port HDMI standard, tels que les ordinateurs portables, PC, PS5/PS4/PS4 Pro, Xbox One/Series, lecteur Blu-Ray, TV Stick, Chromecast, TV Box, DVD, HDTV, écran, moniteur, projecteur, etc. [ Contenu de l'Emballage ] Le HDMI KVM comprend 4 câbles HDMI 2.1 de 1.5m, 2 câbles USB A-A de 1.5m, un contrôleur de bureau de 1.5m et un adaptateur secteur 12V 2A. Petit Conseil : 1. Chaque hôte doit être connecté avec 2 câbles HDMI et 1 câble USB en même temps pour que le KVM fonctionne correctement. 2. Le KVM ne supporte pas la fonction matrice et ne peut pas afficher simultanément l'écran du PC1 et du PC2. Il ne peut être commuté qu'entre deux PC. Spécifications Mode de fonctionnement: ON-OFF Note actuelle: 2 A Tension de fonctionnement: 12 Volts Type de contact: Normalement ouvert Type de connecteur: Enfichage Marque: UGREEN Type d'interrupteur: Commutateur KVM Terminal: Trou traversant Matériau: Cuivre Dimensions de l'article L x l x H: 15,7 x 7,2 x 3 centimètres Évaluation du courant: 2 A Type d’interrupteur: Commutateur KVM Borne: Trou traversant Type de circuit: 2 voie Type de montage: Montage en rack Nombre de positions: 2 Température nominale supérieure: 60 Degrés Celsius Type de dispositif de commande: Bouton-Poussoir Méthode de contrôle: Bouton poussoir Protocole de connectivité: HDMI Type de commande: Manuel Dispositifs compatibles: ordinateurs (Windows, Mac OS, Linux), consoles de jeux (PS5/PS4/PS4 Pro, Xbox One/Series), lecteurs multimédia (lecteur Blu-Ray, TV Stick, Chromecast, TV Box, DVD), et appareils d'affichage (HDTV, moniteur, projecteur) Couleur: multicolore Dimensions de l’article: 15,7 x 7,2 x 3 centimètres Unité de comptage: 1.0 unité Nombre d'articles: 1 Type de matériau: Cuivre Matériau de contact: Cuivre Indice international de protection: IP67 Spécification respectée: IP67 Modèle: AK703 Fabricant: Ugreen Group Limited Pays d'origine du produit: Chine Numéro de pièce fabricant: 85100 Classement des meilleures ventes d'Amazon: 8822 en Informatique (Voir les 100 premiers en Informatique) 61 en Commutateurs KVM ASIN: B0FXX2LDV6 Moyenne des commentaires client: 4,2 4,2 sur 5 étoiles (322) 4,2 sur 5 étoiles Commentaires client",
-    "price": 69.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/switch-hdmi-kvm-ugreen-2-entrees-2-sorties-8k-60hz-double-affichage-commutateur-kvm-avec-4-ports-usb-3a1c-5gbps-vendeur-tiers-3430935",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oPofW/3430935_1/re/1200x1200/qt/90/3430935_1.jpg",
-    "detected_at": "2026-10-12T10:45:57+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 69.99,
-        "observed_at": "2026-10-12T12:59:39.198030+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coupe-Vent Brandit Teddy - Homme, Noir 100% Polyester, taille L",
-    "description": "10,71€ - Amazon Informations sur le produit « Brandit Teddyfleece Worker Pullover » - Extérieur en polaire chaude à poils longs. - Doublure intérieure respirante. - Haute performance thermique. - Agréable à porter. - Capuche spacieuse. - Protège-menton et rabat coupe-vent. - 1 grande poche poitrine avec fermeture éclair inversée. - 2 poches latérales avec fermetures éclair inversées. - Poche intérieure avec fermeture Velcro. - Fermeture éclair latérale de qualité supérieure pour un enfilage et un retrait faciles. - Toutes les fermetures éclair avec aide à la traction. - Poignets et taille élastiques. - Coupe normale. Matériau : - Tissu extérieur : 100 % polyester. - Doublure : 100 % polyester. - Bandes élastiques : 80 % élastodiène, 20 % polyester. À propos de ce produit Extérieur en polaire chaude et à poils longs Doublure intérieure respirante - Haute performance thermique - Agréable à porter Capuche spacieuse – protège-menton et rabat coupe-vent – fermeture éclair latérale de qualité supérieure pour un enfilage et un retrait faciles 1 grande poche poitrine avec fermeture éclair inversée - 2 poches latérales avec fermetures éclair inversées Poignets élastiques et taille de la taille - Toutes les fermetures éclair avec cordon de serrage Commentaires client",
-    "price": 10.71,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/brandit-teddy-coupe-vent-homme-coupe-vent-noir-100-polyester-taille-l-3430934",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6l3iA/3430934_1/re/1200x1200/qt/90/3430934_1.jpg",
-    "detected_at": "2026-10-12T10:43:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 10.71,
-        "observed_at": "2026-10-12T12:59:39.198036+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mitigeur monocommande de Cuisine Grohe",
-    "description": "69,95€ - iBOOD Le mitigeur de cuisine Grohe Via allie un design épuré et intemporel à une fonctionnalité pratique. Son bec en U haut et sa finition chromée polie font de ce mitigeur un élément central élégant de votre évier. Flexibilité au niveau de l'évier Le bec haut peut pivoter dans un angle de 150°. Vous disposez ainsi d’une liberté de mouvement suffisante pour faire la vaisselle ou remplir de grandes casseroles. Grâce à la poignée latérale, vous pouvez régler facilement le débit et la température de l'eau. La cartouche céramique Grohe SilkMove de 28 mm garantit un fonctionnement fluide et précis. Une technologie bien pensée Un limiteur de température intégré et le régulateur de débit variable vous aident à contrôler votre consommation d’eau. À 3 bars, le débit est de 10,5 l. Grâce à Grohe Zero, l’eau potable circule dans des circuits internes séparés et n’entre pas en contact avec le plomb ou le nickel. Installation rapide Le système de fixation FastFixation Plus et les flexibles de raccordement de 3/8\" facilitent l'installation sur pied. La finition chromée durable Grohe Long-Life/StarLight est résistante aux rayures et facile d'entretien, pour que la robinetterie conserve longtemps son éclat. Spécifications Marque: Grohe Type: mitigeur de cuisine Via Référence: 30568000 Limiteur de température intégré Fonctionnalité pratique Finition polie Caractéristiques Bec en U haut et orientable: angle de pivotement de 150° pour plus de flexibilité lors du lavage et du remplissage de grandes casseroles Montage simple: installation rapide et facile grâce au système de fixation Grohe FastFixation Plus et aux flexibles de raccordement (3/8\") Sécurité et économies: équipé d'un limiteur de température intégré et d'un régulateur de débit variable Design intemporel et épuré Débit à 3 bars: 10,5 l Type de montage: montage sur pied Position de la poignée: latérale Pommeau de douche non extractible Technologies Grohe Grohe Long-Life/StarLight: finition chromée durable, résistante aux rayures et facile d'entretien. Grohe SilkMove: cartouche en céramique (28 mm) pour un réglage fluide et précis du débit et de la température de l'eau Grohe Zero: des circuits d’eau internes séparés empêchent tout contact de l’eau potable avec le plomb ou le nickel",
-    "price": 69.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mitigeur-monocommande-de-cuisine-grohe-via-30568000-3430932",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tGBOw/3430932_1/re/1200x1200/qt/90/3430932_1.jpg",
-    "detected_at": "2026-10-12T10:37:31+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 69.95,
-        "observed_at": "2026-10-12T12:59:39.198042+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Parka homme Helly Hansen Reine Parka - Imperméable, isolante, avec capuche et fausse fourrure, vert ou bleu marine, Du S au XXL",
-    "description": "192€ - Boozt 192 € au lieu de 320 €, soit 40 % de réduction, avec livraison gratuite en point relais. D’autres coloris sont également disponibles à 198 €, notamment le noir et le bleu marine, avec plusieurs tailles du S au XXL selon les disponibilités. La Helly Hansen Reine Parka est une parka d’hiver pour homme conçue pour offrir une protection efficace contre le froid, la pluie et le vent. Elle bénéficie des technologies développées par la marque norvégienne Helly Hansen, notamment la membrane HELLY TECH Performance et l’isolation thermique PrimaLoft . Il s’agit d’une véritable parka technique, avec une coupe longue, une capuche enveloppante bordée de fausse fourrure et plusieurs poches pratiques. Coloris et tailles disponibles à 192 € : Vert (Green) : S et XL. Bleu marine (Navy) : S, M, L, XL et XXL. Autres coloris disponibles à 198 € : Noir (Black) : plusieurs tailles du S au XXL. Bleu marine (Navy) : plusieurs tailles du S au XXL. Les disponibilités peuvent évoluer selon les coloris et les tailles. Caractéristiques techniques Technologie HELLY TECH Performance La Reine Parka utilise la technologie HELLY TECH Performance, une construction technique développée par Helly Hansen pour assurer une protection contre les intempéries. Elle combine trois propriétés essentielles : Imperméabilité pour protéger contre la pluie et la neige. Protection coupe-vent pour limiter les infiltrations d’air froid. Respirabilité pour faciliter l’évacuation de l’humidité corporelle. Cette technologie permet de porter la parka dans des conditions météorologiques difficiles, notamment pendant les journées froides, humides ou venteuses. La conception vise à maintenir un bon équilibre entre protection et confort, aussi bien pour les déplacements quotidiens que pour les activités extérieures modérées. Isolation thermique PrimaLoft La parka est équipée d’une isolation synthétique PrimaLoft, conçue pour retenir la chaleur corporelle sans nécessiter une épaisseur excessive. Les fibres synthétiques permettent de créer une couche isolante qui limite les pertes de chaleur. L’un des avantages de ce type d’isolation est sa capacité à conserver une partie de ses performances thermiques en présence d’humidité. Cette caractéristique est particulièrement intéressante pour une utilisation hivernale dans les régions où le froid s’accompagne régulièrement de pluie. L’isolation permet également de conserver une certaine liberté de mouvement, contrairement à certaines vestes très épaisses. Capuche avec bordure en fausse fourrure La Helly Hansen Reine Parka possède une capuche protectrice avec une bordure en fausse fourrure. Cette conception permet de mieux protéger la tête et le visage contre le vent et les précipitations. La capuche complète le col montant pour renforcer la protection de la partie supérieure du corps. La bordure en fausse fourrure apporte également l’apparence caractéristique des parkas hivernales traditionnelles. Coupe longue et protection hivernale La Reine Parka adopte une coupe plus longue qu’une doudoune classique. Elle couvre davantage les hanches et le haut des cuisses, ce qui permet de limiter l’exposition au froid. Cette longueur est particulièrement appréciable lorsque l’on reste à l’extérieur pendant une période prolongée. La coupe permet également de porter un pull ou une couche intermédiaire sous la parka lorsque les températures diminuent. Son style relativement sobre convient aussi bien à une utilisation urbaine qu’aux promenades et aux déplacements quotidiens. Poches et rangements La parka dispose de plusieurs poches extérieures permettant de transporter les objets essentiels. On retrouve notamment : Deux poches zippées positionnées sur la poitrine. Deux grandes poches inférieures avec rabat. Des rangements adaptés aux accessoires du quotidien. Cette disposition permet de garder facilement à portée de main un téléphone, des clés, un portefeuille ou des gants. Les poches à rabat contribuent également à protéger leur contenu contre une ",
-    "price": 192.0,
-    "reference_price": 320.0,
-    "discount_percent": 40.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/titre-dealabs-parka-homme-helly-hansen-reine-parka-impermeable-isolante-avec-capuche-et-fausse-fourrure-vert-ou-bleu-marine-s-au-xxl-3430920",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/qCDKE/3430920_1/re/1200x1200/qt/90/3430920_1.jpg",
-    "detected_at": "2026-10-12T10:32:41+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 192.0,
-        "observed_at": "2026-10-12T12:59:39.198062+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Imprimante Epson Ecotank ET-8500 Blanc (Via ODR de 60€)",
-    "description": "435,99€ - Fnac Epson Ecotank ET-8500 Blanc rien à voir avec ces models 2870 aspect jouet plastique mal fini sans recto verso j'en ai une de 2870 je sais de quoi je parle et j'ai vu la 8500 c'est un budget certes mais utile pour ceux qui font de la photo et ça fait en plus tout de la 2870 en plus rapide ... avec un recto verso un vrai conteneur papier en dessous contre etc etc.. mais la 2870 sans ça est très bien à 100E pour de l'impression bureautique, photo c'est moche mais on peut .... J'ai vu les autres deals ça gèle car les gens n'ont pas vu le produit en vrai, je l'ai vu au salon de la photo hier ... y aura t il un meilleur prix au BF ?? sachant que l'odr court jusqu'à 1/2027... Les 6 avantages de l’ET-8500 1. De très belles photos Ses six encres Claria ET Premium comprennent le noir photo et le gris. Le gris estparticulièrement utile pour les nuances subtiles en noir et blanc. Impression sansbordure jusqu’au format A4. Epson France 2. Pas de cartouches à remplacer Tu remplis les réservoirs avec des bouteilles d’encre. Epson annonce jusqu’à 2 300photos avec un jeu de bouteilles, selon ses conditions de test. Epson France 3. Un grand écran tactile Écran couleur de 10,9 cm, impression depuis une carte SD ou une clé USB, sansforcément passer par un ordinateur. Epson France 4. Une excellente gestion du papier Trois bacs et plusieurs chemins d’alimentation : tu peux laisser du papier ordinairedans un bac et du papier photo dans un autre. Elle accepte aussi certains supportsépais jusqu’à 1,3 mm. Epson France 5. Une imprimante polyvalente Elle imprime, scanne et photocopie. Elle fait aussi le recto verso automatique surpapier ordinaire A4. CARACTÉRISTIQUES Technologie d'impression Jet d'encre Typologie imprimante Imprimante multifonction Impression Noir et blanc Couleur Impression à distance Oui Impression direct CD/DVD Oui Impression recto/verso Oui A4, papier ordinaire Vitesse d'impression couleur 12 pages/minute Vitesse d'impression noir 16 pages/minute Vitesse d'impression photo couleur 2,4 pages/minute Vitesse d'impression 32 pages/min Monochrome (papier ordinaire), 32 pages/min Couleur (papier ordinaire), 25 Secondes par photo de 10 x 15 cm (Papier Photo Epson Premium Glacé) Résolution d'impression maximale 5.760 x 1.440 DPI (ppp) Format de papier géré A4 (21.0x29,7 cm), A5 (14,8x21,0 cm), A6 (10,5x14,8 cm), B5 (17,6x25,7 cm), B6 (12,5x17,6 cm), C6 (Enveloppe), DL (enveloppe), N° 10 (enveloppe), Letter, 10 x 15 cm, 13 x 18 cm, 100 x 148 mm, Défini par l’utilisateur Caractéristiques de l'écran Ecran tactile couleur de 10.9 cm Caractéristiques consommables Epson 114 Noir [Pigment], Noir photo [Dye], Cyan [Dye], Jaune [Dye], Magenta [Dye], Gris [Dye] Nombre de cartouches 6 Type de papier Normal Capacité du bac papier 3 Résolution optique 1.200 DPI (ppp) x 4.800 DPI scanner Consommation en fonctionnement 17 Watts Consommation en veille 0,8 Watts 7.5 Watts Prêt, 0.3 Watts (éteindre), TEC 0.16 kWh/week Communication sans fil Wi-Fi LAN IEEE 802.11a/b/g/n/ac (WiFi 5) sans fil, Wi-Fi Direct Compatible Cloud & WebPrint Oui Connectique 1 Ethernet RJ-45 1 USB Lecteur de cartes mémoire Oui SD Systèmes d'exploitation compatibles PC, MAC Caractéristiques complémentaires Taille de goutte minimale : 1,5 pl, Avec la technologie à taille de point variable Résolution de la numérisation : 1.200 DPI (ppp) x 4.800 DPI (ppp) (horizontal x vertical) Type de scanner : Contact image sensor (CIS) Gestion des médias : Recto-verso automatique (A4, papier ordinaire), Impression sans marge, Chemin Papier Fine Art, Chargement des supports spéciaux par l'arrière, Support de papier épais Dimensions 403 x 369 x 162 mm Hauteur du produit 16,2 cm Largeur du produit 40,3 cm Profondeur du produit 36,9 cm Poids du produit 8,4 Kg Disponibilité des pièces détachées 7 ANS Poids 8.4 Kg Gamme de produits Epson EcoTank Profondeur 36,9 cm Hauteur du produit 16,2 cm Largeur du produit 36,9 cm Longueur du produit 40,3 cm Poids du produit 8400 g Origine de fabrication Fabr",
-    "price": 435.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/epson-ecotank-et-8500-blanc-3430931",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8pea2/3430931_1/re/1200x1200/qt/90/3430931_1.jpg",
-    "detected_at": "2026-10-12T10:29:43+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 435.99,
-        "observed_at": "2026-10-12T12:59:39.198068+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aim Like a Cat sur PC (Dématérialisé)",
-    "description": "4,89€ - Steam Aim Like a Cat est un entraîneur FPS solo hors ligne. Travaillez la tenue d’angle, pré-aim, réflexes audiovisuels, attention partagée, multitâche, mémoire visuelle, recherche et suivi de cibles. Réglez cibles, mouvements, armes et flashs; comparez temps de réaction, précision et durée. - Genres : Action, Indépendant, Simulation - Développeur : 火火 - Sortie : 11 oct. 2026",
-    "price": 4.89,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/aim-like-a-cat-3430930",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/lZaXD/3430930_1/re/1200x1200/qt/90/3430930_1.jpg",
-    "detected_at": "2026-10-12T10:29:27+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 4.89,
-        "observed_at": "2026-10-12T12:59:39.198075+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Assortiment de chocolats noir Chevaliers d'Argouges - Lait, blanc, Coffret cadeau prestige, 300g",
-    "description": "9,74€ - Amazon - NOTRE SAVOUREUX ASSORTIMENT DE CHOCOLATS NOIR, LAIT & BLANC : Vivez un instant gourmand unique grâce à notre coffret cadeau prestige composé d'un assortiment de chocolats noir 70%, lait 33% et blanc. - AU CŒUR...PUR BEURRE DE CACAO : Nos recettes traditionnelles sont travaillées intégralement avec du chocolat certifié 100% pur beurre de cacao (sans huile de palme et sans OGM). - UN COUP DE MAÎTRE CHOCOLATIER : Notre assortiment de chocolats est élaboré suivant le savoir-faire artisanal de nos maîtres chocolatiers dans le respect des traditions, avec beaucoup d'amour, de gourmandise et de fie…",
-    "price": 9.74,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chevaliers-dargouges-assortiment-de-chocolats-noir-lait-blanc-coffret-cadeau-prestige-300g-3430928",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/H3UcH/3430928_1/re/1200x1200/qt/90/3430928_1.jpg",
-    "detected_at": "2026-10-12T10:28:37+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 9.74,
-        "observed_at": "2026-10-12T12:59:39.198083+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Prise Chargeur Ugreen Nexode - 100W, Quadruple USB C, Charge Rapide GaNInfinity (vendeur tiers)",
-    "description": "37,96€ - Amazon Chargeur 4 ports USB-C 100W sympa Je l'ai eu en notification Amazon donc je partage ;) À propos de ce produit [ 4 Ports USB-C pour L'avenir ] Équipé de 4 ports USB-C, chaque port prend en charge une puissance maximale de 100W lorsqu'il est utilisé seul. Il permet de charger un MacBook Pro 16\" de 0% à 41% en 30 minutes. Il peut également charger deux MacBook en même temps. [ Propulsé par GaNInfinity ] Grâce à la puce GaNInfinity de nouvelle génération, ce chargeur rapide possède une efficacité de conversion plus élevée, une génération de chaleur plus faible et une réduction relative de la taille et du poids. La taille du corps (sans broches) est de 69*69*33.21mm (± 0.3mm), le poids est de 218.1g (± 5g). [ Charge Intelligente ] Compatible avec plusieurs protocoles (PD 3.0, Galaxy PPS 60W/ 45W/ 25W, QC 4+/ 4.0/ 3.0, FCP), ce chargeur quadruple USB-C ajuste automatiquement le courant pour chaque appareil. Une solution intelligente pour tous vos besoins de charge rapide. [ Sécurité Avancée ] Le chargeur 100W est équipé d'un boîtier ignifuge, de la technologie ThermalGuard (technologie de contrôle intelligent de la température) et des protections contre les surintensités, les surtensions et les courts-circuits pour assurer une charge sûre à tout moment. [ Compatibilité Universelle ] Cette prise secteur USB-C est compatible avec MacBook Neo/ Air/ Pro M5 M4 M3 M2 M1, iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/ 16/ 16e/ 16 Plus/ 16 Pro/ 16Pro Max/ 15/ 14/ 13/ 12/ 11, Galaxy S26/ S26+/ S26 Ultra/ S25/ S24/ S23/ S22/ S21, Galaxy A57/ A56/ A76/ A55/ A75/ A54/ A74/ A16/ A15, Pixel 10/ 9/ 8/ 7/ 6, iPad Pro/ Air/ mini, Galaxy Tab/ Z Fold/ Z Flip, Steam Deck, etc. (Petit conseil : il supporte Galaxy 60W) Commentaires client",
-    "price": 37.96,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ugreen-nexode-100w-prise-chargeur-quadruple-usb-c-charge-rapide-ganinfinity-3430927",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cmApc/3430927_1/re/1200x1200/qt/90/3430927_1.jpg",
-    "detected_at": "2026-10-12T10:28:05+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 37.96,
-        "observed_at": "2026-10-12T12:59:39.198092+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Appareil à Raclette Tefal Richesmonts RE12R810 - 3-en-1 : Raclette, Plancha & Crêpière, 6 Personnes (Sélection de magasins)",
-    "description": "19,99€ - Carrefour Appareil à Raclette Tefal Richesmonts RE12R810 à 19,99€ chez Carrefour. Offre valable uniquement en drive dans une sélection de magasins (Exemple de disponibilité à ce prix : Villiers-en-biere, Ormesson, Ecully,...) Pour obtenir ce prix vous devez impérativement sélectionner le retrait 2H En résumé Raclette, plancha et crêpière 6 personnes Revêtement anti-adhésif avec indicateur Thermo-Spot 6 coupelles incluses Description Raclette, plancha, crêpe... pour un large éventail d'options culinaires ! Partagez des soirées conviviales entre amis ou en famille avec la Raclette Tefal RichesMonts. Cette raclette multifonction combine raclette, plancha et crêpière, pour un large éventail d'options culinaires. Doté du revêtement antiadhésif Easy Plus qui vous garantit une glisse parfaite du fromage et un nettoyage facile.",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/appareil-a-raclette-tefal-richesmonts-re12r810-3-en-1-raclette-plancha-crepiere-6-personnes-selection-de-magasins-3430926",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/l6pJ1/3430926_1/re/1200x1200/qt/90/3430926_1.jpg",
-    "detected_at": "2026-10-12T10:24:09+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-12T12:59:39.198100+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Buffet Chauffe Plats 4,2 litres",
-    "description": "33,99€ - Amazon Tristar Chauffe-Plats Buffet en Acier Inoxydable, 300 W, Thermostat Réglable, 3 Bacs avec Couvercle, Fonction Plaque Chauffante et Maintien au Chaud, Argenté, BP-6285 Images et vidéos des produits. Vendu d'ordinaire 42,99 euros",
-    "price": 33.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/buffet-chauffe-plats-42-litres-3430925",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y2ELL/3430925_1/re/1200x1200/qt/90/3430925_1.jpg",
-    "detected_at": "2026-10-12T10:23:05+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 33.99,
-        "observed_at": "2026-10-12T12:59:39.198106+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ruban adhésif d'emballage TCX",
-    "description": "0,59€ - Action Ruban adhésif d'emballage TCX Parfait pour emballé Vos colis et autres cartons de déménagement Ou même vos belles mères",
-    "price": 0.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ruban-adhesif-demballage-tcx-3430924",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jCOL7/3430924_1/re/1200x1200/qt/90/3430924_1.jpg",
-    "detected_at": "2026-10-12T10:22:06+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 0.59,
-        "observed_at": "2026-10-12T12:59:39.198112+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Double album vinyle Alonzo – 100%, 2 disques, édition standard",
-    "description": "15,99€ - Fnac Remise de 50 % sur l'album 100 % d'Alonzo ! Le double vinyle est affiché à 15,99 € au lieu de 31,99 €, soit 16 € de réduction. Cette édition sur deux disques permet de retrouver l'album au format physique, avec sa pochette et la possibilité de profiter du son sur une platine vinyle. Infos importantes : Artiste : Alonzo. Album : 100 %. Format : vinyle LP. Édition standard. Deux disques. Réédition parue le 3 octobre 2025. Parmi les morceaux : « 100 », « La Vaillance », « La Vraie Vie », « Dalé », « Génération X-or » et « Feu d'Artifice ». Vendu et expédié par Fnac dans l'opération Petits Prix. Retrait magasin gratuit selon disponibilité. Livraison offerte dès 35 € d'achat sur les produits éligibles. L'offre est annoncée jusqu'au 4 janvier 2027 inclus, dans la limite des stocks disponibles. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
-    "price": 15.99,
-    "reference_price": 31.99,
-    "discount_percent": 50.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/double-album-vinyle-alonzo-100-2-disques-edition-standard-3430923",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FM0zX/3430923_1/re/1200x1200/qt/90/3430923_1.jpg",
-    "detected_at": "2026-10-12T10:21:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-12T12:59:39.198118+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Table enfant sweeek Caroline avec plateau en acacia et 2 bancs",
-    "description": "51,29€ - Sweeek Fabriquée à partir de bois d'acacia, provenant de forêts responsables et durables, cette table allie durabilité et responsabilité environnementale. L'acacia, bois réputé pour sa robustesse, assure une longue durée de vie à cette table, résistant aux rigueurs des jeux enfantins. Avec ses 2 places, cette table de pique-nique offre un espace confortable pour que vos enfants puissent s'amuser et passer de bons moments dans votre jardin ou dans votre maison.",
-    "price": 51.29,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/table-enfant-sweeek-caroline-avec-plateau-en-acacia-et-2-bancs-3430922",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HV9W8/3430922_1/re/1200x1200/qt/90/3430922_1.jpg",
-    "detected_at": "2026-10-12T10:21:04+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 51.29,
-        "observed_at": "2026-10-12T12:59:39.198125+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vinyle 2LP Pierpoljak - Je Fais C'Que J'Veux",
-    "description": "19,99€ - Amazon Nostalgie, bonne réduction pour ce superbe album... Disponible aussi à Cultura (-5% en plus avec Boursorama) : https://www.cultura.com/p-je-fais-c-que-j-veux-12510170.html?utm_source=google&utm_medium=cpc&utm_campaign=PLA_Autre_TouslesProduits&gad_source=1&gad_campaignid=1551311514&gbraid=0AAAAADprv0ZBRZt-IQT_DTlW2IuyVSOoF&gclid=CjwKCAjwirLWBhBBEiwAlItbEuUx8L9ziaPhi-XRhI7XB7LdJFjEHBu7gvHRxcuR-8tBc51I5Lb6pBoCaHYQAvD_BwE",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vinyle-2lp-pierpoljak-je-fais-cque-jveux-3430921",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JGiGo/3430921_1/re/1200x1200/qt/90/3430921_1.jpg",
-    "detected_at": "2026-10-12T10:19:48+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-12T12:59:39.198130+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Philips Hue White and Colour A...e Homekit, nouvelle génération",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0FJY174B3",
-    "image_url": "https://m.media-amazon.com/images/P/B0FJY174B3.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T10:17:44+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Scie circulaire filaire Bosch PKS 66-2AF 0603502004 – 1600 W, coupe 66 mm, rail de guidage et récupérateur de poussière",
-    "description": "109,90€ - Castorama Pour les travaux de découpe, Castorama propose cette scie circulaire Bosch PKS 66-2AF à 109,90 € au lieu de 144,90 €, soit 35 € d'économie ! ️ Modèle filaire de 1 600 W, livré avec un rail de guidage pour réaliser des coupes droites plus facilement. Dispose aussi d'un boîtier CleanSystem permettant de récupérer une bonne partie des poussières. Profondeur maximale de coupe 66 mm à 90°. Infos importantes : Marque : Bosch. Modèle : PKS 66-2AF. Référence fabricant : 0603502004. Moteur électrique filaire de 1 600 W. Vitesse à vide : 5 000 tr/min. Profondeur maximale à 90° : 66 mm. Profondeur maximale à 45° : 48 mm. Lame de 190 mm de diamètre. Système CutControl pour suivre la ligne de coupe. Poignée Softgrip. Boîtier récupérateur de poussière CleanSystem fourni. Lame SpeedLine et rail de guidage inclus. Poids annoncé : 5,4 kg. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
-    "price": 109.9,
-    "reference_price": 144.9,
-    "discount_percent": 24.2,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/scie-circulaire-filaire-bosch-pks-66-2af-0603502004-1600-w-coupe-66-mm-rail-de-guidage-et-recuperateur-de-poussiere-3430919",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/L0HQj/3430919_1/re/1200x1200/qt/90/3430919_1.jpg",
-    "detected_at": "2026-10-12T10:15:02+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 109.9,
-        "observed_at": "2026-10-12T12:59:39.198136+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Canne à Pêche en promotion pour le surfcasting. Ex : Caperlan symbios light - 500 390 80-150gr",
-    "description": "55,99€ - Decathlon Dans son infini bonté Decathlon a mis en promotion quelques cannes et moulinet pour le sufcasting jusqu'au 18/10. Canne de pêche en surfcasting symbios light-500 390 80-150gr 55,99 69,99 20% Canne surfcasting pêche en mer symbios 500 4.20m - 100-230g 67,99 84,99 20% Canne surfcasting pêche en mer SYMBIOS 500 4.20m 100-200g Télescopique 51,99 64,99 20% Canne de pêche en surfcasting symbios light-500 400 TELESCO 80-150gr 47,99 59,99 20% Moulinet de pêche en surfcasting ADVANT POWER 8000 BLACK 39,99 54,99 27% Moulinet de pêche en surfcasting SYM 500 10000 longue distance 67,99 84,99 20% Canne de pêche en surfcasting SYMBIOS-900 4.35m 100-250g BLACK EDITION 199,99 299,99 100 €",
-    "price": 55.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-canne-a-peche-en-promotion-pour-le-surfcasting-3430918",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HsEEh/3430918_1/re/1200x1200/qt/90/3430918_1.jpg",
-    "detected_at": "2026-10-12T10:14:16+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 55.99,
-        "observed_at": "2026-10-12T12:59:39.198142+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Détachant en poudre Vanish Oxi Action sans javel, Pot de 480 g - Niort (79)",
-    "description": "3,40€ - Carrefour Market Pour refaire un petit stock de détachant, Carrefour Market Niort propose actuellement une réduction de 35 % sur le pot de Vanish Oxi Action sans javel de 480 g ! A utiliser en complément de la lessive pour le linge taché. Destinée aux taches tenaces, avec une action dès 20 °C et sur les cycles courts. Action également contre les odeurs et le risque de décoloration. Prix et promotion constatés sur le drive Carrefour Market de Niort. Disponible dans de nombreux magasin/drive de France. Infos importantes : Marque : Vanish. Gamme : Oxi Action. Format : pot de 480 g. EAN : 3059946164984. Formule sans javel chlorée. Contient des agents de blanchiment à base d'oxygène. Utilisable en complément de la lessive. Action détachante annoncée dès 20 °C. Adapté au prétraitement selon les consignes de l'emballage. Réduction locale constatée : 35 %. Bien respecter les dosages et les précautions indiqués sur le pot, notamment pour les textiles fragiles. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
-    "price": 3.4,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/detachant-en-poudre-vanish-oxi-action-sans-javel-pot-de-480-g-3430917",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pEONH/3430917_1/re/1200x1200/qt/90/3430917_1.jpg",
-    "detected_at": "2026-10-12T10:12:19+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 3.4,
-        "observed_at": "2026-10-12T12:59:39.198149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 7 bobines 1KG de filament eSUN ePLA-Basic 1,75 mm",
-    "description": "48,94€ - JoyBuy Bon plan chez Joybuy pour ce filament eSUN ePLA-Basic de 1 kg avec une offre permettant d'obtenir 7 bobines pour le prix de 6 . Utilisez le code eSUN66 pour bénéficier d'une réduction de 5€ supplémentaire. Livraison gratuite > Comment profiter de l'offre ? Ajouter 7 bobines de filament eSUN ePLA-Basic 1 kg via la sélection promotionnelle Joybuy Profiter de l'offre 6 achetées = 1 offerte Utiliser le code eSUN66 pour obtenir une remise supplémentaire Vérifier le montant final après application des réductions > Caractéristiques Filament eSUN ePLA-Basic Matériau : PLA amélioré Coloris : argent Diamètre : 1,75 mm Poids : 1 kg par bobine , soit 7 kg pour le lot Vitesse d'impression annoncée jusqu'à 300 mm/s Débit volumétrique jusqu'à 35 mm³/s dans les conditions de test du fabricant Extrusion fluide et refroidissement rapide Conçu pour limiter les déformations et les risques de bouchage Bonne précision dimensionnelle annoncée Compatible avec de nombreuses imprimantes 3D utilisant du filament 1,75 mm",
-    "price": 48.94,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-7-bobines-1kg-de-filament-esun-epla-basic-175-mm-3430916",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3m2TN/3430916_1/re/1200x1200/qt/90/3430916_1.jpg",
-    "detected_at": "2026-10-12T10:10:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 48.94,
-        "observed_at": "2026-10-12T12:59:39.198155+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tondeuse multifonctions Rowenta TN9118F0 – Autonomie 120 min, charge rapide 1 h 30, tête étanche",
-    "description": "38,49€ - Carrefour Une remise de 30 % sur cette tondeuse multifonctions Rowenta, pour ceux qui cherchent un appareil rechargeable pour l'entretien de la barbe et des cheveux ! ✂️ Elle est proposée à 38,49 € au lieu de 54,99 €. Jusqu'à deux heures d'autonomie, avec recharge complète en seulement 1 h 30. Tête étanche pour le nettoyage. Prix constaté sur le drive Carrefour Market de Niort. Disponible dans de nombreux magasins/drive de France. Infos importantes : Marque : Rowenta. Référence : TN9118F0. Tondeuse multifonctions rechargeable. Autonomie annoncée : jusqu'à 120 minutes. Temps de charge : 1 h 30. Tête étanche. Utilisation sans fil. Offre locale à sélectionner sur le drive concerné. Réduction immédiate indiquée : 30 %. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
-    "price": 38.49,
-    "reference_price": 54.99,
-    "discount_percent": 30.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tondeuse-multifonctions-rowenta-tn9118f0-autonomie-120-min-charge-rapide-1-h-30-tete-etanche-3430915",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/nBYoM/3430915_1/re/1200x1200/qt/90/3430915_1.jpg",
-    "detected_at": "2026-10-12T10:09:43+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 38.49,
-        "observed_at": "2026-10-12T12:59:39.198161+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de Société Gigamic Line-It - 2 à 5 Joueurs, Dès 8 Ans, 20 min",
-    "description": "8,73€ - Amazon 8,73€ au lieu de 15,30€ soit 6,57€/43% de réduction (y) Description : Dans Line-It, il faut réaliser des lignes de cartes croissantes ou décroissantes parmi les cartes numérotées de 1 à 100, réparties en 4 couleurs. À chaque tour, on estime s'il est temps de fermer sa ligne et d'empocher ses points, ou d'attendre encore un peu pour remporter les cartes du jackpot. Réunir 3 cartes de la même couleur permet de décrocher le jackpot correspondant, et on peut aussi parier pour marquer encore plus de points. Un jeu de prise de risque rapide et addictif, facile à expliquer, pour des parties d'environ 20 minutes. Caractéristiques : Marque : Gigamic Titre : Line-It EAN : 3421271877417 Auteur : Tim Juretzki Illustrations : Joey & Grumpy Type de jeu : Jeu de cartes, stop ou encore, prise de risque Nombre de joueurs : 2 à 5 Âge : À partir de 8 ans Durée de la partie : 20 min Contenu : 106 cartes (dont les cartes numérotées de 1 à 100), 11 jetons, règles du jeu Langue : Français Dimensions de la boîte : 14,7 x 11 x 3 cm Poids : Environ 290 g Année de sortie : 2023",
-    "price": 8.73,
-    "reference_price": 15.3,
-    "discount_percent": 42.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-gigamic-line-it-2-a-5-joueurs-des-8-ans-20-min-3430914",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/l9ztp/3430914_1/re/1200x1200/qt/90/3430914_1.jpg",
-    "detected_at": "2026-10-12T10:08:10+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 8.73,
-        "observed_at": "2026-10-12T12:59:39.198166+00:00"
       }
     ]
   }
