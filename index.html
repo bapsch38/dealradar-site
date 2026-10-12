@@ -99,6 +99,20 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .catalog-tools input{flex:1;min-width:180px}
 .catalog-tools select{max-width:100%}
 .catalog-status{font-size:12px;color:var(--muted);margin:10px 0 14px}
+.advanced-filters{display:flex;gap:12px;align-items:end;flex-wrap:wrap;margin:12px 0 18px;padding:14px;background:var(--panel);border:1px solid var(--line);border-radius:12px}
+.advanced-filters label{display:flex;flex-direction:column;gap:6px;font-size:12px;color:var(--muted);font-weight:700}
+.advanced-filters select,.advanced-filters input[type=number]{background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:9px 10px;min-width:110px;max-width:100%}
+.advanced-filters .check-filter{flex-direction:row;align-items:center;gap:8px;min-height:38px}
+.check-filter input{accent-color:var(--green);width:16px;height:16px}
+.filter-count{display:inline-block;margin-left:5px;padding:2px 6px;border-radius:10px;background:#26384a;color:#dbe7f5;font-size:10px}
+.deal-stale{display:inline-flex;align-items:center;gap:5px;color:#ffd27a;background:#46351b;border-radius:6px;padding:5px 7px;font-size:10px;font-weight:800}
+.deal-report{font-size:11px;color:var(--muted);text-decoration:underline;text-underline-offset:3px}
+.deal-report:hover{color:var(--green)}
+.price-history{margin-top:3px;padding:9px 10px;background:#0b1724;border:1px solid var(--line);border-radius:9px}
+.price-history-head{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:11px;color:var(--muted)}
+.price-history svg{display:block;width:100%;height:34px;margin-top:6px;overflow:visible}
+.price-history-note{font-size:10px;color:var(--muted);margin-top:3px}
+@media(max-width:520px){.advanced-filters{align-items:stretch}.advanced-filters label{flex:1;min-width:42%}.advanced-filters .check-filter{flex-basis:100%}}
 
 .pagination{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;margin:24px 0 0}
 .pagination button{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:9px;padding:10px 13px;cursor:pointer}
@@ -246,6 +260,13 @@ footer strong{color:var(--text)}
         <option value="price-desc">Prix décroissant</option>
       </select>
     </div>
+    <div class="advanced-filters" aria-label="Filtres avancés">
+      <label>Réduction minimale
+        <select id="min-discount"><option value="0">Toutes</option><option value="10">10 %</option><option value="20">20 %</option><option value="30">30 %</option><option value="40">40 %</option><option value="50">50 %</option></select>
+      </label>
+      <label>Prix maximum (€)<input id="max-price" type="number" min="0" step="1" placeholder="Sans limite" inputmode="decimal"></label>
+      <label class="check-filter"><input id="hide-old" type="checkbox"> Masquer les offres de plus de 7 jours</label>
+    </div>
     <div class="filters" aria-label="Filtres des offres">
       <button class="filter active" type="button" data-filter="all">Toutes les catégories</button>
       <button class="filter" type="button" data-filter="tech">High-tech</button>
@@ -305,6 +326,9 @@ const categories = [...document.querySelectorAll(".category-card")];
 const filters = [...document.querySelectorAll(".filter")];
 const dealSearch = document.getElementById("deal-search");
 const dealSort = document.getElementById("deal-sort");
+const minDiscountInput = document.getElementById("min-discount");
+const maxPriceInput = document.getElementById("max-price");
+const hideOldInput = document.getElementById("hide-old");
 const dealGrid = document.getElementById("deals-grid");
 const catalogStatus = document.getElementById("catalog-status");
 const featuredGrid = document.getElementById("featured-grid");
@@ -472,6 +496,53 @@ function matchesFilter(offer) {
 function escapeHtml(value) {
   return String(value ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 }
+function offerDiscount(offer) {
+  const price = parsePriceValue(offer.price ?? offer.current_price);
+  const reference = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
+  return price !== null && reference !== null && reference > price ? (1 - price / reference) * 100 : null;
+}
+function offerIsOld(offer) {
+  const date = safeDate(offer.detected_at || offer.published_at);
+  return !!date && (Date.now() - date.getTime()) > 7 * 24 * 60 * 60 * 1000;
+}
+function updateFilterCounts() {
+  const counts = {};
+  offers.forEach(offer => {
+    const category = inferCategory(offer);
+    counts[category] = (counts[category] || 0) + 1;
+  });
+  const byFilter = {
+    all: offers.length, tech: counts["High-tech"] || 0, gaming: counts["Gaming"] || 0,
+    papeterie: counts["Bureau & papeterie"] || 0, alimentation: counts["Alimentation & boissons"] || 0,
+    maison: counts["Maison"] || 0, electromenager: counts["Électroménager"] || 0,
+    bricolage: counts["Bricolage"] || 0, famille: counts["Bébé & enfants"] || 0,
+    animaux: counts["Animaux"] || 0, mode: counts["Mode"] || 0, sport: counts["Sport & loisirs"] || 0,
+    beaute: counts["Beauté & santé"] || 0, auto: counts["Auto & moto"] || 0, autre: counts["Autre"] || 0
+  };
+  filters.forEach(button => {
+    const label = button.dataset.baseLabel || button.textContent.trim();
+    button.dataset.baseLabel = label;
+    button.innerHTML = escapeHtml(label) + '<span class="filter-count">' + (byFilter[button.dataset.filter] || 0) + '</span>';
+  });
+}
+function renderPriceHistory(offer) {
+  const history = Array.isArray(offer.price_history) ? offer.price_history
+    .filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0).slice(-12) : [];
+  if (history.length < 2) return '';
+  const values = history.map(item => Number(item.price));
+  const min = Math.min(...values), max = Math.max(...values), range = max - min || 1;
+  const points = values.map((value, i) => ((i / (values.length - 1)) * 100).toFixed(1) + ',' + (29 - ((value - min) / range) * 24).toFixed(1)).join(' ');
+  return '<div class="price-history"><div class="price-history-head"><span>Historique observé</span><strong>' +
+    escapeHtml(formatPrice(values[values.length - 1])) + '</strong></div><svg viewBox="0 0 100 34" preserveAspectRatio="none" role="img" aria-label="Évolution des prix observés">' +
+    '<polyline points="' + points + '" fill="none" stroke="#46f58b" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
+    '<div class="price-history-note">' + history.length + ' observations · selon les données collectées par DealRadar</div></div>';
+}
+function reportCategoryUrl(offer) {
+  const subject = 'Catégorie incorrecte sur DealRadar';
+  const body = 'Produit : ' + (offer.title || '') + '\nCatégorie affichée : ' + inferCategory(offer) +
+    '\nLien : ' + (offer.url || '') + '\nCatégorie souhaitée : ';
+  return 'mailto:dealradar.contact@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+}
 function renderFeaturedOffers() {
   const picks = offers.map(offer => {
     const price = parsePriceValue(offer.price ?? offer.current_price);
@@ -509,9 +580,17 @@ function renderFeaturedOffers() {
 function renderOffers() {
   renderFeaturedOffers();
   const query = (dealSearch.value + " " + search.value).trim().toLocaleLowerCase("fr");
+  const minDiscount = Number(minDiscountInput.value || 0);
+  const maxPrice = parsePriceValue(maxPriceInput.value);
   const list = offers.filter(offer => {
     const text = [offer.title, offer.category, offer.source, offer.description].filter(Boolean).join(" ").toLocaleLowerCase("fr");
-    return text.includes(query) && matchesFilter(offer);
+    const price = parsePriceValue(offer.price ?? offer.current_price);
+    const discount = offerDiscount(offer);
+    if (!text.includes(query) || !matchesFilter(offer)) return false;
+    if (minDiscount > 0 && (discount === null || discount < minDiscount)) return false;
+    if (maxPrice !== null && (price === null || price > maxPrice)) return false;
+    if (hideOldInput.checked && offerIsOld(offer)) return false;
+    return true;
   });
   const sort = dealSort.value;
   list.sort((a,b) => {
@@ -535,6 +614,7 @@ function renderOffers() {
     ? list.length + (list.length > 1 ? " offres · " : " offre · ") + "page " + currentPage + " / " + totalPages
     : "";
   renderPagination(totalPages, list.length);
+  updateFilterCounts();
   if (!list.length) {
     dealGrid.innerHTML = '<div class="empty-state"><div class="empty-icon">⌁</div><div class="status-chip"><span class="dot"></span> Catalogue sans offre correspondante</div><h3>' +
       (offers.length ? "Aucun résultat pour ces filtres" : "Les premières offres arrivent progressivement") +
@@ -586,7 +666,10 @@ function renderOffers() {
       prices + (description ? '<p class="deal-meta">' + description + '</p>' : '') +
       '<div class="deal-meta">' + (date ? 'Détectée le ' + date.toLocaleDateString("fr-FR") + ' · ' : '') +
       (offer.price_verified === true ? 'Prix vérifié' : (price ? 'Prix à confirmer chez le vendeur' : 'Prix non communiqué par la source')) + '</div>' +
+      (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
+      renderPriceHistory(offer) +
       (url ? '<a class="deal-cta" href="' + url + '" target="_blank" rel="noopener noreferrer sponsored">Voir l’offre ↗</a>' : '') +
+      '<a class="deal-report" href="' + escapeAttribute(reportCategoryUrl(offer)) + '">Signaler une catégorie incorrecte</a>' +
       '</div></article>';
   }).join("");
 }
@@ -615,6 +698,7 @@ async function loadOffers() {
     if (!response.ok) throw new Error("Flux indisponible");
     const data = await response.json();
     offers = Array.isArray(data) ? data.filter(item => item && typeof item.title === "string") : [];
+    updateFilterCounts();
     renderOffers();
   } catch (error) {
     offers = [];
@@ -631,6 +715,9 @@ document.getElementById("search-form").addEventListener("submit", event => {
 });
 dealSearch.addEventListener("input", () => { currentPage = 1; renderOffers(); });
 dealSort.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+minDiscountInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+maxPriceInput.addEventListener("input", () => { currentPage = 1; renderOffers(); });
+hideOldInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 pagination.addEventListener("click", event => {
   const button = event.target.closest("button[data-page]");
   if (!button || button.disabled) return;
