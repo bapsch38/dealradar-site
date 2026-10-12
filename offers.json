@@ -1,5 +1,95 @@
 [
   {
+    "title": "Clinique High Impact Eyeliner ...ent aux Yeux Sensibles, 0.67 g",
+    "price": 22.45,
+    "reference_price": 28.87,
+    "discount_percent": 22.24,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09SLMTLG1",
+    "image_url": "https://m.media-amazon.com/images/P/B09SLMTLG1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:01:58",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 22.45,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Braun Tête De Rasoir Electriqu...FICIEL Pour Rasoirs 60, 61, 62",
+    "price": 40.8,
+    "reference_price": 48.0,
+    "discount_percent": 15.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F6YJ2R17",
+    "image_url": "https://m.media-amazon.com/images/P/B0F6YJ2R17.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:01:54",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 40.8,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ravensburger, 20575, No Color",
+    "price": 7.9,
+    "reference_price": 14.79,
+    "discount_percent": 46.59,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B083N39QRW",
+    "image_url": "https://m.media-amazon.com/images/P/B083N39QRW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:01:53",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 7.9,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "OtterBox Symmetry Cactus Leather MagSafe Wallet, Gris",
+    "price": 41.97,
+    "reference_price": 49.99,
+    "discount_percent": 16.04,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FJTCRNZG",
+    "image_url": "https://m.media-amazon.com/images/P/B0FJTCRNZG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:01:51",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 41.97,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "OZONE MOTO Dart Pantalon de Mo...neaux de Ventilation en Maille",
+    "price": 71.23,
+    "reference_price": 98.95,
+    "discount_percent": 28.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DD4DM97Y",
+    "image_url": "https://m.media-amazon.com/images/P/B0DD4DM97Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:01:50",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 71.23,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
     "title": "Long Live The Angels",
     "price": 5.15,
     "reference_price": 11.09,
@@ -1330,6 +1420,381 @@
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
       }
     ]
+  },
+  {
+    "title": "LINQ - Jeu d'ambiance idéal En...ro - OldChap - Blackrock Games",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0D2SDHCJJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0D2SDHCJJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:00:53+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "BS - GA263 - Jeu Noughts And Crosses",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B019Z4J0ZM",
+    "image_url": "https://m.media-amazon.com/images/P/B019Z4J0ZM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:00:53+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Subverti MIXART - Jeu de Carte...à 6 Joueurs - Domino réinventé",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DG5W7CW9",
+    "image_url": "https://m.media-amazon.com/images/P/B0DG5W7CW9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:00:50+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Platinum Preppy 05 Stylo plume Bleu Noir Taille M",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B074TFWVHQ",
+    "image_url": "https://m.media-amazon.com/images/P/B074TFWVHQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:00:25+00:00",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "OZONE MOTO Dart Pantalon de Mo...neaux de Ventilation en Maille",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DD4DM97Y",
+    "image_url": "https://m.media-amazon.com/images/P/B0DD4DM97Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:00:14+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "NATHAN - l'arbre aux Trois Éli...artir de 5 Ans - 2 à 4 Joueurs",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FDX9B7KZ",
+    "image_url": "https://m.media-amazon.com/images/P/B0FDX9B7KZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:59:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "OtterBox Symmetry Cactus Leather MagSafe Wallet, Gris",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FJTCRNZG",
+    "image_url": "https://m.media-amazon.com/images/P/B0FJTCRNZG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:59:50+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "LOKI 516009 Zoo Run, multicolore - Version Allemande",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07PYS9429",
+    "image_url": "https://m.media-amazon.com/images/P/B07PYS9429.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:59:43+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Casque Turtle Beach Recon 50PC - Multiplateforme compatible PS4, PS4 Pro, Nintendo Switch, Appareil mobiles",
+    "description": "24,55€ - Auchan Le TURTLE BEACH Casque Gaming Recon 50PC est conçu pour offrir un confort optimal pendant les longues sessions de jeu. *spécifications du produit:* - Design léger - Oreillers en cuir synthétique - Oreillers repliables pour un stockage facile - Compatible avec PS4, PS4 Pro, Nintendo Switch, appareils mobiles",
+    "price": 24.55,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/turtle-beach-turtle-beach-casque-gaming-recon-50pc-multiplateforme-compatible-ps4-ps4-pro-nintendo-switch-appareil-mobiles-tbs-6003-02-3431239",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/P1H8m/3431239_1/re/1200x1200/qt/90/3431239_1.jpg",
+    "detected_at": "2026-10-12T17:59:38+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 24.55,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Valeo Silencio x2 Balais d'Ess...F918 - Avant - 550 mm / 400 mm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B077MK545P",
+    "image_url": "https://m.media-amazon.com/images/P/B077MK545P.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:58:26+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Ravensburger, 20575, No Color",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B083N39QRW",
+    "image_url": "https://m.media-amazon.com/images/P/B083N39QRW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:58:18+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Braun Tête De Rasoir Electriqu...FICIEL Pour Rasoirs 60, 61, 62",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0F6YJ2R17",
+    "image_url": "https://m.media-amazon.com/images/P/B0F6YJ2R17.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:58:17+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Clinique High Impact Eyeliner ...ent aux Yeux Sensibles, 0.67 g",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09SLMTLG1",
+    "image_url": "https://m.media-amazon.com/images/P/B09SLMTLG1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:57:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Schmidt Spiele 88930 Escalier ...e & Junior, Marque DREI Magier",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DV9R839Q",
+    "image_url": "https://m.media-amazon.com/images/P/B0DV9R839Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:57:27+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Football Manager 27 rejoint le catalogue Xbox Game Pass Ultimate et PC Game Pass le 10 novembre (dématérialisé)",
+    "description": "Les plateformes Jour un incluent Steam, Epic Games et l'application Xbox PC, abonnements Xbox Game Pass Ultimate et PC Game Pass compris. FM27 Console (Xbox/PS5), abonnements Game Pass Console compris, et FM27 Mobile (Netflix) sortiront également à partir du 10 novembre, avec plus de détails concernant les plateformes à venir prochainement. Nouveautés dans FM27 Nous publions une série de vidéos et d'articles de blog détaillant certaines des fonctionnalités et améliorations qui façonnent le cœur de l'expérience FM27. Jusqu'à présent, vous pouvez découvrir comment une navigation plus intelligente et une expérience plein écran plus intuitive vous permettent d'aller là où vous le désirez en beaucoup moins de clics. Vous pouvez également explorer comment les Tirages de coupe, le Dernier jour du mercato et un flux d'actualités retravaillé vous gardent en contact permanent avec le monde qui existe au-delà de votre club. Nous avons également annoncé des améliorations à l'expérience Jour de match qui feront de chaque rencontre un spectacle footballistique enrichi et de nombreuses nouvelles annonces de fonctionnalités restent à venir.",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/football-manager-27-rejoint-le-catalogue-xbox-game-pass-ultimate-et-pc-game-pass-le-10-novembre-dematerialise-3431240",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3hM8H/3431240_1/re/1200x1200/qt/90/3431240_1.jpg",
+    "detected_at": "2026-10-12T17:57:05+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Viva Catrina – Jeu de Société ...ejouabilité | The Flying Games",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FTGBVZKT",
+    "image_url": "https://m.media-amazon.com/images/P/B0FTGBVZKT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:56:48+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "UFC 6 sur PS5",
+    "description": "49,99€ - Auchan La force d'EA SPORTS™ UFC™ 6, ce sont ses combattants. Les systèmes de frappe et mouvement évolués donnent vie aux stars de l'UFC, tandis que les nouveaux modes de jeu introduisent une narration immersive. Préparez-vous au combat.",
+    "price": 49.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ufc-6-ps5-3431234",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9KJzy/3431234_1/re/1200x1200/qt/90/3431234_1.jpg",
+    "detected_at": "2026-10-12T17:54:44+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Zik : Nouvelle édition - Flip ...lap - Blackrock Games FLI013ZI",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B5KZZHP2",
+    "image_url": "https://m.media-amazon.com/images/P/B0B5KZZHP2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:54:08+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Pull col rond torsadé Jules – Coupe regular, manches longues, vert, tailles M, L et XL",
+    "description": "16€ - Jules Si vous cherchez un pull simple à porter au quotidien, ce pull col rond torsadé Jules est proposé à -60 % dans le cadre des Jours J. Sa maille texturée avec un point torsadé lui donne un style classique, facile à associer avec un jean ou un chino. La coupe regular permet de le porter sans être trop ajusté, aussi bien seul qu'avec une veste légère. Caractéristiques : Marque : Jules Modèle : pull col rond torsadé Coupe regular, ni trop ajustée ni trop large Manches longues Maille à point torsadé Base et poignets en bord-côtes Coloris : vert Tailles disponibles : M, L et XL Référence : 100873016742 Livraison gratuite en magasin, avec possibilité de réserver l'article en boutique via le Click & Reserve. Les retours sont possibles pendant 90 jours, selon les conditions de Jules. Le modèle affiche également une note de 5/5 sur 3 avis clients, qui soulignent notamment son confort et son style facile à porter.",
+    "price": 16.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pull-col-rond-torsade-jules-coupe-regular-manches-longues-vert-tailles-m-l-et-xl-3431236",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/D4Xfz/3431236_1/re/1200x1200/qt/90/3431236_1.jpg",
+    "detected_at": "2026-10-12T17:53:45+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.0,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Indiana Jones and the Staff of Kings sur PS4 & PS5 (dématérialisé)",
+    "description": "2,39€ - PlayStation Store Vivez l’expérience Indiana Jones and the Staff of Kings lancée à l’origine sur la console PlayStation®2, amélioré par des fonctions de rendu, de retour arrière, de sauvegarde rapide et de filtres vidéo personnalisés. MUNISSEZ-VOUS DE VOTRE FOUET et préparez-vous à vivre une aventure palpitante dans la plus grande tradition d'Indiana Jones. Une toute NOUVELLE HISTOIRE vous entraîne au cœur d'une périlleuse quête autour du monde à la recherche du bâton de Moïse. MAÎTRISEZ VOTRE FOUET afin d'éliminer les ennemis, de surmonter les obstacles et de résoudre les casse-tête. UTILISEZ VOTRE ENVIRONNEMENT de manière créative pour tirer votre épingle du jeu, même quand tout semble perdu.",
+    "price": 2.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/indiana-jones-and-the-staff-of-kings-3431232",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8DcNG/3431232_1/re/1200x1200/qt/90/3431232_1.jpg",
+    "detected_at": "2026-10-12T17:53:22+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2.39,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Asmodee - TIMELINE Nouvelle Ed...rs -15 Min - Version Française",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DSLKCS12",
+    "image_url": "https://m.media-amazon.com/images/P/B0DSLKCS12.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:53:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Asmodee - Time's UP Express - ...es Rapides - Version française",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FSDDQV58",
+    "image_url": "https://m.media-amazon.com/images/P/B0FSDDQV58.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:52:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Aspirateur Laveur Roborock Qrevo S Pro Robot 18500 Pa, anti-enchevêtrements (Vendeur tiers)",
+    "description": "379,99€ - Amazon Station d'accueil tout-en-un pour un nettoyage mains libres : Version améliorée du modèle QV 35A, ce robot aspirateur laveur régénère ses serpillières grâce à un auto-nettoyage à haute température (75 °C) et à un séchage à l'air chaud (45 °C). Il assure également la vidange automatique de la poussière jusqu'à 65 jours, rendant l'entretien quotidien des sols totalement effortless pour les foyers au rythme de vie soutenu ou abritant des animaux de compagnie. Aspiration puissante de 18 500 Pa : Conçu pour des performances de nettoyage quotidiennes optimales, le robot aspirateur offre une aspiration puissante pour capturer sans effort la poussière, les miettes, la litière pour chat, les débris tenaces et les poils d’animaux sur les sols durs, les moquettes/tapis et dans les coins, contribuant ainsi à garder chaque pièce fraîche et impeccable avec moins d’effort. Système anti-emmêlement efficace : L'aspirateur robot laveur avec station est équipé d'une brosse latérale anti-emmêlement, d'une brosse principale entièrement en caoutchouc et d'une roue omnidirectionnelle facile à nettoyer ; ces éléments permettent de réduire l'enroulement des cheveux et de simplifier l'entretien, rendant le nettoyage quotidien plus facile et moins chronophage. Évitement des obstacles et nettoyage à profil bas de 9,65 cm : Grâce à sa détection intelligente des obstacles, le aspirateur robot laveur évite avec précision les chaussures, les jouets et les pieds des meubles tout en glissant en douceur sous les lits et les canapés pour éliminer la poussière cachée dans les espaces à faible dégagement pour une couverture plus complète. Nettoyage puissant et stratégie personnalisée pour les tapis : l'aspirateur laveur robot vient aisément à bout des salissures quotidiennes grâce à un débit d'eau réglable et à deux serpillières à rotation rapide. Il s'adapte aux différents types de tapis grâce à une puissance d'aspiration accrue, un relevage des serpillières de 10 mm et des modes de nettoyage personnalisés, contribuant ainsi à préserver les fibres des tapis tout en assurant un nettoyage en profondeur. Nettoyage intelligent de toute la maison : Grâce au système Roborock SmartPlan 2.0 basé sur l'IA, les paramètres de nettoyage de l'aspirateur robot s'ajustent automatiquement en fonction de la configuration de votre domicile, des types de sols et de l'historique de nettoyage. Profitez d'un nettoyage puissant avec un niveau sonore de 55 dB, idéal pour les foyers avec enfants et animaux de compagnie. *Compatible uniquement avec le WiFi 2,4 GHz.",
+    "price": 379.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/roborock-qrevo-s-pro-robot-aspirateur-laveur-18500-pa-anti-enchevetrements-3431233",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/28dCL/3431233_1/re/1200x1200/qt/90/3431233_1.jpg",
+    "detected_at": "2026-10-12T17:52:48+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 379.99,
+        "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Asmodee | Dobble : Teams | Jeu...6 Ans | 2 à 8 Joueurs | 15 Min",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B1F4PH8K",
+    "image_url": "https://m.media-amazon.com/images/P/B0B1F4PH8K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:52:47+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Hasbro Gaming Taboo sans Censu...sion Française, 18 Ans et Plus",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CQ2VWKPB",
+    "image_url": "https://m.media-amazon.com/images/P/B0CQ2VWKPB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:52:24+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "ATM Gaming Les Mini Détectives...e Société Éducatif - Dès 3 Ans",
@@ -9397,471 +9862,6 @@
       {
         "price": 119.99,
         "observed_at": "2026-10-12T12:59:39.198534+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Commode Songmics Collection Gretha (LGS224W301) - 9 tiroirs, velours côtelé, cadre en acier, blanc neige, 98,7 x 30 x 96,2 cm",
-    "description": "59,49€ - Amazon 59,49€ au lieu de 69,99€ soit 10,50€/15% de réduction (y) Description : Cette commode SONGMICS de la collection Gretha offre 9 grands tiroirs pour ranger vêtements et objets, et son plateau supérieur accueille lampes et cadres. Les façades en velours côtelé à rayures verticales, en finition blanc neige, apportent une touche moderne et chaleureuse. Elle s'utilise en commode de chambre ou de salon, en rangement de dressing, ou dans un couloir ou un bureau. Le cadre en acier et les barres de renfort assurent la stabilité. Les pieds sont réglables, un kit anti-basculement est fourni et les pièces sont numérotées pour faciliter le montage. Caractéristiques : Marque : SONGMICS Collection : Gretha Référence : LGS224W301 Type : Commode / tour de rangement Nombre de tiroirs : 9 Façades : Velours côtelé à rayures verticales Structure : Cadre en acier avec barres de renfort Couleur : Blanc neige Dimensions (L x P x H) : 98,7 x 30 x 96,2 cm Plateau supérieur : Oui (lampes, cadres) Pieds : Réglables Sécurité : Kit anti-basculement fourni Montage : Pièces numérotées Usages : Chambre, salon, dressing, couloir, bureau À propos de ce produit Commode Chambre Spacieuse: Ce meuble de rangement offre 9 grands tiroirs pour organiser vos vêtements et objets. Le plateau supérieur accueille lampes et cadres pour un espace ordonné Meuble Tiroir Élégant: Les façades en velours côtelé à rayures verticales apportent une touche moderne. Cette finition Blanc Neige s'intègre facilement pour créer une ambiance chaleureuse Rangement Chambre et Salon: Idéal comme commode salon ou rangement vêtement dans un dressing. Son design polyvalent s'adapte aussi aux couloirs et bureaux pour harmoniser votre intérieur Meuble Chambre Adulte Pratique: Mesurant 98.7x30x96.2cm, cette tour de rangement optimise l'espace sans encombrer. Idéal pour trier les affaires du quotidien tout en gardant un accès facile Chiffonnier Stable et Sûr: Le cadre en acier et les barres de renfort assurent la stabilité. Avec pieds réglables, kit anti-basculement et pièces numérotées pour un montage facile Commentaires client",
-    "price": 59.49,
-    "reference_price": 69.99,
-    "discount_percent": 15.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/commode-songmics-collection-gretha-lgs224w301-9-tiroirs-velours-cotele-cadre-en-acier-blanc-neige-987-x-30-x-962-cm-3430844",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:37:36+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 59.49,
-        "observed_at": "2026-10-12T12:59:39.198541+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montage et équilibrage à 5€ sur les pneus Goodyear & Kumho",
-    "description": "5€ - Auto E.Leclerc Du 13 au 31 octobre, le montage et l'équilibrage des pneus Goodyear et Kumho passe à 5€ ! :) → Voir nos pneus KUMHO et GOODYEAR et prendre rdv dès maintenant ! Mentions légales Offre valable sur les pneus des marques KUMHO et GOODYEAR, pour un rendez-vous pris entre le 13 et le 31 octobre dans les centres l'auto E.Leclerc participants à l'opération (hors valves). La facturation du montage et de l'équilibrage sera effectuée par le centre auto choisi. Offre non cumulable avec d'autres opérations en cours. Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
-    "price": 5.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montage-et-equilibrage-a-5eur-sur-les-pneus-goodyear-kumho-3430843",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:36:33+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 5.0,
-        "observed_at": "2026-10-12T12:59:39.198547+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lego Star Wars 75424 L’Attaque du AT-ST sur Endor - Smart Play",
-    "description": "31,99€ - Carrefour • JOUET DE CONSTRUCTION INTERACTIF STAR WARS - Ce set LEGO Compatible SMART Play inclut 1 AT-ST avec toit ouvrant et fusil à tenons, 1 speeder bike, 2 SMART Tags, 1 SMART Minifigurine de Wicket et les minifigurines LEGO d'un AT-ST et d'un Scout Trooper • LA GALAXIE VOUS RÉPOND – Une fois connectée au SMART Tag du AT-ST ou du speeder bike, la SMART Brique LEGO (non incluse) répond aux mouvements et aux couleurs avec des bruits de moteur, de pas de AT-ST et de tirs laser • SMART MINIFIGURINE LEGO STAR WARS – Donnez vie à SMART Wicket l'Ewok avec une SMART Brique (non incluse) pour un jeu dynamique où les mouvements et situations du personnage déclenchent des réactions • COMMENT ACTIVER VOTRE SET – Vous aurez besoin de la SMART Brique d'un set Tout-en-un vendu séparément (75421, 75423 ou 75427) pour activer les fonctionnalités de jeu immersif (SMART Brique non disponible à la vente séparément) • JEU SANS ÉCRAN – Partagez un moment en famille ou entre ami.e.s pour recréer des scènes épiques : jouez avec Wicket qui dérobe le speeder bike au Scout Trooper et qui combat le AT-ST avec la minifigurine de pilote à l'intérieur • CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction interactif : une idée de cadeau d'anniversaire extraordinaire pour un garçon, une fille dès 8 ans, un.e ado ou un.e adulte collectionneur.se • INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide votre enfant dans cette aventure intuitive et lui permet de zoomer, de faire pivoter sa maquette en utilisant les instructions 3D, de suivre sa progression et de sauvegarder ses sets",
-    "price": 31.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-star-wars-75424-lattaque-du-at-st-sur-endor-smart-play-3430842",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:36:29+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 31.99,
-        "observed_at": "2026-10-12T12:59:39.198552+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie Externe Ugreen Nexode 145W - 25000 mAh, 145W, triple connectique, 2 x USB-C, 1 x USB-A (Vendeurs tiers)",
-    "description": "55,99€ - Amazon Marque qu'on ne présente plus non plus, tout comme Anker. Cela pour sa qualité. Ugreen propose ici une batterie plus puissante encore que l'Anker que je vous proposais ici . Et avec plus d'autonomie. Et ça, toujours sous service client Amazon. (whistleflame) Et avec deux câbles USB-C Ugreen supportant 100W, pour ceux qui n'en auraient pas. Ou pas de qualité. (laughflame) ⚙️ Mais elle ne bénéficie pas du PowerIQ. Donc moins de profils anciens sont supportés ( même s'il y en a encore beaucoup ), surtout côté Samsung, mais pour ce qui est du plus ou moins moderne, tout est là à sa place. PowerDelivery 3. 1 disposant donc de l'EPR ( Extended Power Rate ), qui permet de délivrer jusqu'à 140W sur un seul appareil. Sur le premier USB-C. PPS ( Programmable Power Supply ) : c'est une extension « intelligente » du PowerDelivery qui se fonde sur des tensions et courant ajustés en temps réel, permettant une meilleure efficacité... et moins d'échauffement. ♨️ QC ( QuickCharge de Qualcomm ) 4 et 4+. On perd ici la rétrocompatibilité de l'Anker. FCP ( Huawei Fast Charge ) SCP ( Huawei SuperCharge ) Apple 2.4A ( ancien protocole Apple, sur iPhone et iPad ) DCP / BC1.2 ( standard classique avant les charges rapides ) Et, pas totalement insignifiant, l'UFCS ou Universal Fast Charging Specification. Qui n'a rien d'universel cela dit. ☝️ C'est une norme poussée ensemble par les constructeurs Chinois (Huawei, Oppo, Vivo, Xiaomi, etc...) même si elle n'atteint pas les protocoles propriétaires, elle peut faire mieux qu'un fallback, cela dit, la norme est encore très peu répandue . (nerdflame) l'AFC ( Adaptive Fast Charging, ancien protocole Samsung ) disparaît. Et toujours pas de VOOC / SuperVOOC ( chez Oppo et OnePlus ) Ni de protocole propriétaire Xiaomi Turbo Il peut donc charger rapidement à peu près n'importe quel appareil moderne. ✅ Mais sans atteindre, sur certaines marques Chinoises, le plein potentiel. Ceci dit, en usage splitté , vous n'y verrez que du feu. Et l'UFCS apporte tout de même une possibilité de pousser jusqu'à possiblement 40W en fallback, voire plus si le PowerDelivery est bien supporté. ❓Quid en usage multiples des différents ports USB ? ▫️ en double USB-C, le premier passera à 100W, et le second à 45W. ▫️ en C1 et USB-A, on aura du 100W et 22,5W ▫️ en C2 et USB-A, du 65W et 22,5W ▫️ et en triple, le C1 descendra à 65W, le C2 à 45W. Et l'USB-A restera à 22,5W. ➡️ Là encore, pour le prix, le duo de puissance et d'autonomie, pour la qualité et la fiabilité, cela me semble une excellente offre. Côté dimensions : elle fait 16 x 8,1 x 2,7cm, là où l'Anker fait 15,7 x 7,3 x 2,6cm. Légèrement plus grande donc. C'était votre dévoué Singe toujours en exploration d'un biome différent de celui qu'il explore usuellement en Simia . N'hésitez pas à rejoindre la communauté simiesque pour en suivre les pérégrinations! Banane offerte à l'adhésion.",
-    "price": 55.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-externe-ugreen-nexode-145w-25000-mah-145w-triple-connectique-2-x-usb-c-1-x-usb-a-3430838",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:36:26+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 55.99,
-        "observed_at": "2026-10-12T12:59:39.198558+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures New Balance 1906R - Tailles 40 à 47,5",
-    "description": "70€ - Foot Locker New Balance 1906R coloris \"Light Silver Metallic / Alkaline Green\" dans toutes les tailles. Design et Matériaux Empeigne technique : Elle associe une base en mesh alvéolé blanc cassé/gris très clair à des empiècements en cuir synthétique argenté métallisé (Light Silver Metallic), offrant une silhouette à la fois respirante et structurée. Touches de couleur : Des accents jaune fluo et vert néon (Alkaline Green) dynamisent visuellement la paire. Ils se situent sur le logo « N », les passants des lacets, la doublure intérieure et des détails de la semelle. Cage de talon : Une armature en plastique rigide noir et gris à l'arrière renforce le maintien du pied tout en accentuant son look technique. Technologie et Confort Semelle intermédiaire ACTEVA LITE : Elle garantit un amorti flexible et un soutien optimal pour le quotidien. Amorti N-ergy et ABZORB SBS : Présents au talon (visibles grâce aux capsules vertes sous la chaussure), ces systèmes absorbent efficacement les chocs à chaque pas. Technologie Stability Web : Une arche de stabilité en plastique est intégrée sous la voûte plantaire pour un excellent contrôle des torsions.",
-    "price": 70.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-new-balance-1906r-tailles-40-a-475-3430841",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:35:47+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 70.0,
-        "observed_at": "2026-10-12T12:59:39.198563+00:00"
-      }
-    ]
-  },
-  {
-    "title": "BlazBlue: Cross Tag Battle Special Edition Xbox One / Xbox Series X|S / PC Windows",
-    "description": "9,99€ - Xbox Store BlazBlue: Cross Tag Battle Special Edition Xbox One / Xbox Series X|S / PC Windows Description *Contient le jeu original et tous les contenus téléchargeables sortis avant la version 2.0. LA COLLISION EST INÉLUCTABLE ! L'IMPACT SERA INÉVITABLE ! Un clash sans précédent aux proportions explosives ! La franchise BlazBlue croise des univers, associe des personnages préférés des fans et les fait s'affronter dans BlazBlue: Cross Tag Battle ! Né de la collaboration des célèbres BlazBlue, Persona d'Atlus, Under Night In-Birth de French Bread et de la série Web extrêmement populaire de Rooster Teeth, RWBY, le jeu Cross Tag Battle glorifie le genre du combat autant pour les pros que pour les débutants ! Choisissez votre équipe pour des combats rythmés en 2v2 reprenant la folie que vous aimez chez BlazBlue ainsi que la mécanique précise, le gameplay fluide et les magnifiques graphismes en 2D attendus de Arc System Works.",
-    "price": 9.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/blazblue-cross-tag-battle-special-edition-xbox-one-xbox-series-xs-pc-windows-3430840",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:35:11+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-12T12:59:39.198570+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lego Star Wars 75421 Le TIE Fighter de Dark Vador - Smart Play",
-    "description": "42,74€ - Carrefour • JOUET DE CONSTRUCTION INTERACTIF STAR WARS – Ce set Tout-en-un LEGO SMART Play inclut une SMART Brique et son chargeur, un SMART Tag et une SMART Minifigurine qui dynamisent le jeu immersif et réagissent à tous vos mouvements • LA GALAXIE VOUS RÉPOND – Une fois placée sur le SMART Tag du TIE Fighter, la SMART Brique répond aux mouvements et aux couleurs avec des sons et lumières, en activant les fonctions de tirs de laser, ravitaillement et réparation • SMART MINIFIGURINE LEGO STAR WARS – Donnez vie à SMART Dark Vador avec la SMART Brique pour un jeu dynamique où les mouvements et situations du personnage déclenchent des réactions • JEU SANS ÉCRAN – Jouez en famille ou entre ami.e.s pour recréer des scènes de films épiques : aidez le soldat de la Flotte Rebelle à défendre l'avant-poste avec son double fusil à tenons et son satellite pour des heures de jeu de rôle • CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction plein d'action : une idée de cadeau d'anniversaire extraordinaire pour un garçon, une fille dès 8 ans, un.e ado ou un.e adulte collectionneur.se • APPLICATION LEGO SMART ASSIST – Débutez le jeu, trouvez des solutions, contrôlez le niveau sonore, téléchargez des mises à jour ou activez le micro intégré pour aller plus loin (l'activation requiert une permission et une mise à jour de logiciel) • FONCTIONNALITÉS DE LA SMART BRIQUE – La SMART Brique offre 45 minutes de batterie par charge ; elle est compatible avec d'autres sets SMART Play pour encore plus d'aventures (la SMART Brique n'est pas disponible à la vente séparément)",
-    "price": 42.74,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-star-wars-75421-le-tie-fighter-de-dark-vador-smart-play-3430839",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:34:49+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 42.74,
-        "observed_at": "2026-10-12T12:59:39.198577+00:00"
-      }
-    ]
-  },
-  {
-    "title": "EcoFlow Qi2.2 Station de Charge 25W",
-    "description": "49,99€ - Amazon Bon prix pour cette station de charge je trouve qui est facilement pliable et transportable.",
-    "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecoflow-qi22-station-de-charge-25w-3430837",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:31:41+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-12T12:59:39.198585+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Clients Sosh] Smartphone Google Pixel 11 pro XL - 256 Go (via bonus reprise de 250€ + ODR Google de 200€)",
-    "description": "699€ - Sosh SUPER PRIX grâce au code SOSH15 200 € d'ODR Google : boutique.orange.fr/inf…pdf 250 € de Bonus reprise .",
-    "price": 699.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/clients-sosh-smartphone-google-pixel-11-pro-xl-256-go-via-bonus-reprise-de-250eur-odr-google-de-200eur-3430830",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:25:33+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 699.0,
-        "observed_at": "2026-10-12T12:59:39.198591+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Client Sosh] Smartphone 6,3\" Google Pixel 11 Pro - RAM 12 Go, 256 Go (Via 150€ d'ODR Google & 200€ de Bonus Reprise)",
-    "description": "599€ - Sosh SUPER PRIX grâce au code SOSH15 valable uniquement en ligne. -150€ d'ODR Google boutique.orange.fr/informations/medias/odr/261115-google-pixel-11-psg-j300e.pdf?webview_action=pdf&ampDeviceId=4faa3d6e-e213-41ad-89a1-0c184d1d27e4&ampSessionId=1791791122812&ampLastEventTime=1791792606952 -200€ de bonus reprise",
-    "price": 599.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-63-google-pixel-11-pro-ram-12-go-256-go-via-150eur-dodr-google-200eur-de-bonus-reprise-3430827",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:23:56+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 599.0,
-        "observed_at": "2026-10-12T12:59:39.198599+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 poêles De Buyer - 24cm et 28cm",
-    "description": "36,95€ - iBOOD Spécifications Marque: De Buyer Type: Set de poêles (Ø 24 et 28 cm) Garantie: 2 ans Caractéristiques Matériau: 99% de fer pur Revêtement antiadhésif naturel Poignée pratique Cool-Touch Matériau du manche: acier recouvert de résine époxyde Cuisinières compatibles: Electrique | Gaz | Halogène | Vitrocéramique | Four Convient au lave-vaisselle: non Convient au four à micro-ondes: non Résistant au four: oui, jusqu'à 180 °C Forme ergonomique: oui Indicateur de chaleur: non Remarque: ne convient pas pour l'induction. Sauf si vous restez sur la poêle, que vous ajoutez toujours de l'huile ou du beurre et que vous n'utilisez pas la fonction Boost. Dimensions & poids (poêle 24 cm) Diamètre (au bord supérieur): 24 cm hauteur: 3,5 cm longueur: 43,7 cm Épaisseur du fond: 2 mm Poids: env. 1.000 g Dimensions & poids (poêle 28 cm) Diamètre (au bord supérieur): 28 cm hauteur: 4,2 cm longueur: 50,5 cm Épaisseur du fond: 2 mm Poids: env. 1.500 g",
-    "price": 36.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-poeles-de-buyer-24-cm-et-28-cm-3430834",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:22:39+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 36.95,
-        "observed_at": "2026-10-12T12:59:39.198607+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Clients Sosh] Smartphone 6,3\" Google Pixel 11 - RAM 12 Go, 256 Go (Via 100€ d'ODR par Google & 150€ de Bonus Reprise)",
-    "description": "499€ - Sosh SUPER PRIX grâce au code SOSH15 valable uniquement en ligne. 100€ d'ODR par Google Pixel-PSG_Flyer_Offre_RVB_260910 + 150€ de bonus reprise",
-    "price": 499.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-63-google-pixel-11-256-go-via-100eur-dodr-par-google-150eur-de-bonus-reprise-3430829",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:20:32+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 499.0,
-        "observed_at": "2026-10-12T12:59:39.198624+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sauteuse Sauter Inox Triply - 28cm, avec Couvercle",
-    "description": "34,99€ - E.Leclerc Sauteuse de 28 cm en acier inoxydable multicouche Triply de la marque Sauter chez E.Leclerc, livrée avec son couvercle en verre et compatible tous feux dont induction et four. Contrairement aux poêles classiques à bords bas ou aux modèles dotés d'un revêtement anti-adhésif qui s'abîme au fil du temps, cette sauteuse offre des parois hautes droites idéales pour faire dorer, faire revenir des légumes, préparer des sauces ou mijoter des viandes sans éclaboussures. Conception multicouche Triply (3-ply) : La structure combine deux couches d'acier inoxydable entourant une âme centrale en aluminium à forte conductivité. Cette conception assure une montée rapide en température et une diffusion parfaitement homogène de la chaleur jusqu'en haut des parois, évitant les zones de surchauffe localisées. Caractéristiques techniques : • Diamètre : 28 cm avec bords hauts, offrant un grand volume de cuisson adapté aux repas familiaux de 4 à 6 personnes. • Matériau : corps intégral en inox Triply inaltérable, résistant aux rayures des ustensiles en métal et garantissant une cuisson saine sans dégradation chimique. • Couvercle en verre trempé cerclé d'acier inoxydable avec orifice d'échappement de vapeur, permettant de surveiller la réduction des sauces sans déperdition de chaleur. • Poignées rivetées : manche long ergonomique et contre-poignée en acier inoxydable pour faciliter la manipulation d'un récipient chargé et autoriser le passage au four. • Compatibilité : tous feux dont induction, vitrocéramique, gaz, électrique et compatible lave-vaisselle. Vendu en exclusivité web sur le site E.Leclerc avec retrait gratuit disponible en magasin.",
-    "price": 34.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sauteuse-inox-triply-28-cm-sauter-avec-couvercle-3430832",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:19:02+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 34.99,
-        "observed_at": "2026-10-12T12:59:39.198630+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 55\" Samsung Crystal U7025F - 2025, UHD 4K, Smart TV",
-    "description": "349,97€ - JoyBuy TV 55\" Samsung Crystal UHD U7025F 2025 - 4K, Smart TV Profitez d’une image éclatante en 4K grâce au processeur Crystal 4K et à la mise à l’échelle par IA. Son design métallique élégant, inspiré de l’aéronautique, offre une expérience immersive. Avec One UI Tizen, bénéficiez de fonctionnalités intelligentes, de la sécurité Samsung Knox et de 7 ans de mises à jour de Tizen OS. Marque : Samsung Couleur : Noir Classe énergétique : G Consommation électrique normale : 125 W Consommation en veille : 0,5 W Type d’écran : LED Format de l’écran : 16:9 Écran incurvé : Non Smart TV : Oui Compatibilité VESA : Oui Norme VESA : 200 × 200 mm Résolution : Ultra HD 4K Rétroéclairage LED : Oui Puissance sonore : 20 W Tuner satellite : Non Tuner câble : Oui (MPEG4 HD) Tuner TNT : Oui (MPEG4 HD) Nombre de prises HDMI : 3 Port Ethernet : Oui Nombre de ports USB : 1 Wi-Fi : Intégré",
-    "price": 349.97,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-55-samsung-crystal-uhd-u7025f-2025-4k-smart-tv-3430825",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:16:41+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 349.97,
-        "observed_at": "2026-10-12T12:59:39.198638+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Automatique Citizen NJ0190-51E - 10ATM, 40mm (ormoda.com)",
-    "description": "130,45€ Edit : baisse de prix de 14,5€ (merci @Onizuka2 ) Prix au plus bas pour accéder au monde de l'automatique chez Citizen Livraison gratuite Également disponible en blanc ormoda.com/fr/citizen-urban-military-nj0190-51a.html Détails du produit Principaux points forts À propos de cet article Cette montre possède un mouvement automatique (rechargé par n'importe quel mouvement de votre poignet ; n'a jamais besoin de pile). Cette montre analogique dispose d'une fonction calendrier : date et est équipée d'aiguilles lumineuses. Bracelet de Haute qualité en Acier inoxydable Argent ,21 cm de longueur et 19 mm de largeur avec une Boucle déployante avec poussoir Diamètre du boîtier: 40 mm, Épaisseur du boîtier: 12 mm, Couleur du boîtier: Argent et Couleur du cadran: Noir Résistant à l'eau: 10 bar -Poids: 144 g La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans Description Cette montre possède un mouvement automatique (rechargé par n'importe quel mouvement de votre poignet ; n'a jamais besoin de pile). Cette montre analogique dispose d'une fonction calendrier : date et est équipée d'aiguilles lumineuses Spécifications du produit Caractéristiques et spécifications Affichage Analogique Type de mouvement de la montre Automatique Caractéristiques spéciales Remontage automatique, longue réserve de marche Source d’alimentation Automatique Type de bretelles Bracelet en métal Profondeur d'étanchéité à l’eau 100 Mètres Type de fermoir Fermoir déployant à bouton-poussoir Niveau d' etancheite Imperméable Type de fermeture Boucle déployante de sécurité Style Style Classique Forme de l’article Rond Couleur de la bande Argent Couleur du cadran Noir Style de façade Sunray Détails de l’article Marque Citizen Nom du modèle Urban Military Pays d'origine Japon Composants inclus Boîte à montres Numéro de modèle NJ0190-51E Poids de l'article 144 Grammes Fabricant Citizen Description de la tranche d’âge Adulte Nom du type du produit Automatic Watch Numéro de pièce NJ0190-51E ASIN B0DT9QSFKX Moyenne des commentaires client 4,6 sur 5 étoiles 17Commentaires Matériaux et entretien Type du matériau de la bande Acier inoxydable Type de matériau du boîtier Acier Inoxydable Type de matériau de la fenêtre de cadran Verre en cristal Dimensions Diamètre du boîtier 40 Largeur de la bande 10 Épaisseur du boîtier 12.2 Guide d’utilisation Type de garantie Limited",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-automatique-citizen-nj0190-51e-10atm-40mm-3420544",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:16:10+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Vélo Électrique Ghost E-Riot CF Advanced Performance CX 800 Wh",
-    "description": "3 499€ - Statera Bikes Une vraie bête de trail : l' Ghost E-Riot Advanced, c'est ton VTT électrique pour les missions de folie. Avec son cadre en carbone et ses suspensions Rock Shox, tu es prêt à affronter même les descentes les plus rugueuses et les enchaînements de sauts. À l'avant, la fourche de 170 mm absorbe tous les chocs, tandis qu'à l'arrière, l'amortisseur de 160 mm lisse le reste. Le moteur Bosch puissant, associé à une batterie de 800 Wh, te procure une poussée impressionnante et une autonomie exceptionnelle. Un VTT électrique intelligent pour tous ceux qui recherchent une machine de plaisir capable de dompter n’importe quel sentier. Caractéristiques principales Cadre : carbone unidirectionnel Type : VTT électrique tout-suspendu Moteur : Bosch Performance Line CX Couple maximal : 120 Nm Batterie : Bosch PowerTube 800 Wh Autonomie annoncée : jusqu’à 150 km Vitesse assistée maximale : 25 km/h Écran : Bosch Kiox 300 Fourche : RockShox Domain Gold, débattement de 170 mm Amortisseur arrière : RockShox Super Deluxe Select+ RCT Transmission : SRAM Eagle 70 T-Type, 12 vitesses Freins : SRAM DB8 Stealth hydrauliques, 4 pistons Roues : 29 pouces à l’avant et 27,5 pouces à l’arrière Pneus : Continental Kryptotal Enduro / Downhill Tige de selle : télescopique Limotec, débattement de 150 mm Poids : environ 23,9 kg Poids total autorisé : 150 kg Pédales : non incluses Chargeur : inclus",
-    "price": 3499.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ghost-e-riot-cf-advanced-performance-cx-800-wh-3430823",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:16:07+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 3499.0,
-        "observed_at": "2026-10-12T12:59:39.198645+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Crimson Desert PS5",
-    "description": "47,01€ - E.Leclerc Crimson Desert sur PS5 est un jeu d'action-aventure en monde ouvert développé par Pearl Abyss. Vous y incarnez Macduff, un mercenaire luttant pour survivre et unifier le continent déchiré de Pywel. Le titre propose des graphismes next-gen époustouflants et un monde ouvert ultra-détaillé. Son système de combat en temps réel est extrêmement riche, mêlant maniement d'armes, projections, prises de lutte, acrobaties et attaques spéciales spectaculaires. L'exploration est totale à cheval ou verticalement dans des environnements dynamiques, ponctuée de quêtes immersives et de combats épiques face à des boss titanesques. Une aventure incontournable pour les amateurs d'action intense et de récits épiques.",
-    "price": 47.01,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/crimson-desert-ps5-3430828",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:13:14+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 47.01,
-        "observed_at": "2026-10-12T12:59:39.198651+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Album Vinyle UB40 Red, Red Wine : The Collection",
-    "description": "14,99€ - Amazon Porte drapeau d'un Reggae teinté de Pop, UB40 a démocratisé ce genre à travers leurs tubes. Retrouvez les plus grands titres comme 'Kingston Town', 'Red Red Wine' ou 'Falling In Love with you' sur cette édition vinyle. Face A 1 Kingston Town - UB40 2 Red Red Wine - UB40 3 I Got You Babe - UB40, Chrissie Hynde 4 (I Can't Help) Falling In Love With You - UB40 5 Don't Break My Heart - UB40 6 Don't Let It Pass You By - UB40 Face B 1 Food For Thought 2 My Way Of Thinking 3 Bring Me Your Cup 4 Until My Dying Day 5 I Did What I Did 6 Here I Am (Come And Take Me) https://www.discogs.com/fr/release/14007199-UB40-Red-Red-Wine-The-Collection",
-    "price": 14.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/album-vinyle-ub40-red-red-wine-the-collection-3430824",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:12:56+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-12T12:59:39.198656+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pack de 6 brique de lait - Le lait des 5 fermes",
-    "description": "1,45€ 0,24ct le litres Dans certain magasin Intermarché Dispo des demain",
-    "price": 1.45,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pack-de-6-brique-de-lait-le-lait-des-5-fermes-3430826",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/NsTUL/3430826_1/re/1200x1200/qt/90/3430826_1.jpg",
-    "detected_at": "2026-10-12T08:11:50+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1.45,
-        "observed_at": "2026-10-12T12:59:39.198662+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pressuriseur de Balles de Padel Tuboplus 29PSI X3 - Avec pompe",
-    "description": "31,99€ - Decathlon Ne laissez pas la perte de pression vous obliger à acheter de nouvelle balles de Padel... Grâce au pressuriseur 29PSI*3 avec pompe à air, vous pouvez retrouver la pression idéale pour continuer à jouer avec ID 9054116 Description du produit : Le pressuriseur de balles de padel Tuboplus 29PSI X3 est conçu pour maintenir la pression des balles de padel. caractéristiques du produit : Pression de 29 PSI. Capacité pour 3 balles. Inclus une pompe à air. Contenance : Permet de mettre 3 balles. Permet de récupérer la pression optimale (29PSI) pour les balles de padel. Tenue en pression : Pompe à air incluse.",
-    "price": 31.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pressuriseur-de-balles-de-padel-tuboplus-29psi-x3-avec-pompe-3430822",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:06:38+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 31.99,
-        "observed_at": "2026-10-12T12:59:39.198668+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque filaire SteelSeries Arctis Nova 3 - Pilotes Haute Fidélité, Son Spatial à 360°, Lumières RVB",
-    "description": "65,99€ - Amazon - Almighty Audio — Le système acoustique Nova conçu sur mesure offre le meilleur son de sa catégorie pour les jeux avec des Pilotes Haute fidélité. Personnalisez complètement votre expérience sonore idéale avec un égaliseur paramétrique de jeu vidéo intégré de qualité professionnelle. - Son spatial à 360° - Le son surround immersif vous transporte dans le monde du jeu, vous permettant d’entendre chaque pas, recharge ou repère vocal pour vous donner l’avantage. *Compatible avec Tempest 3D Audio pour PS5 / Microsoft Spatial Sound - Réglable pour un Ajustement Parfait - Le ComfortMAX System compr…",
-    "price": 65.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/steelseries-arctis-nova-3-casque-de-jeu-multi-systeme-pilotes-haute-fidelite-son-spatial-a-360-lumieres-rvb-3430820",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:04:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 65.99,
-        "observed_at": "2026-10-12T12:59:39.198673+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Kit Maquillage Namaki Offert pour l'achat d'un Tonies de la sélection Halloween",
-    "description": "Tonies Une offre sympa pour préparer Halloween avec les enfants ! À partir du 12 octobre, Tonies s’associe à Namaki, marque française spécialisée dans le maquillage pour enfants, pour proposer un cadeau avec l’achat d’un Tonie de la sélection Halloween sur la boutique officielle. Pour tout achat d’un Tonie éligible, vous recevez un kit de maquillage Namaki ainsi qu’un livret numérique de tutoriels pour transformer les enfants en petites créatures d’Halloween. Plusieurs inspirations sont proposées, notamment Pelote le petit monstre, Alix Pix la petite sorcière et une chauve-souris frissonnante. L’offre est valable sur le site officiel Tonies, dans la limite des 2 500 premières commandes, et le cadeau est limité à une fois par commande. Une bonne occasion de compléter sa collection tout en profitant d’une activité créative pour Halloween !",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/kit-de-maquillage-namaki-offert-pour-lachat-dun-tonies-de-la-selection-halloween-3430819",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:03:41+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "PC Portable 15,6\" XWU - Processeur N4000, RAM 8 Go, SSD 256 Go, Wi-Fi-5 Double Bande, Bluetooth 4.2, USB A, HDMI, Windows 11 (Vendeur Tiers)",
-    "description": "218,49€ - Amazon - Écran : Écran FHD 15,6\" éclatant pour le travail et les études, gamme de couleurs 100 % sRGB, résolution 1920 x 1080, luminosité de 250 nits et format d'image 16:9, micro-bords. Plus complet, plus vivant et plus simple, détails clairs et précis, angle de vision de 180°. Créez des effets visuels exceptionnels, pour vos études et votre bureau - 【Mémoire et stockage】8 Go de RAM et 256 Go de SSD. Équipé de 8 Go de mémoire DDR4 haute vitesse, d'un SSD de 256 Go et de performances plus rapides, plus fluides et économes en énergie, cet ordinateur portable gère facilement les tâches complexes - 【Pro…",
-    "price": 218.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/xwu-ordinateur-portable-156-pouces-8-go-ramssd-256-goprocesseur-n4000-win-11-pc-portable-wi-fi-5-double-bandebluetooth-42-usb-a-hdmi-3430818",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:03:37+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 218.49,
-        "observed_at": "2026-10-12T12:59:39.198679+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bouteille de vin rouge Château de Camensac, 5ème Grand Cru Classé Haut-Médoc AOC, 75cl",
-    "description": "23,25€ - Wine and Co Vente Flash pour ce Château Camensac, 5ème Grand Cru Classé dans l'appellation Haut Médoc et dans le superbe millésime 2019 ! Prêt à boire ou à garder encore de nombreuses années : 2026-2034. De 30,50€ à 35€ sur les autres sites spécialisés. Exemples : https://www.millesima.fr/chateau-de-camensac-2019.html ou https://www.premiumgrandscrus.com/fr/haut-medoc/5099-chateau-de-camensac-2019.html?srsltid=AU7gw4XcQGUyv8WJVWBgcr33v2VhRPK1m-R-FRTJTyco5fn-DmDaP0a5 ou https://www.chateaunet.com/chateau-de-camensac-1130930-chateau-de-camensac-haut-medoc-rouge-2019-150?srsltid=AU7gw4UGm9j6u5Rr6--LxIT6l8XJGIQQI7C__PfbLcCtu6qRMkAsmRjq Vivino 4/5 (d'ailleurs vendu à 24,50€ sur Vivino par le vendeur \"Une Histoire de Vin\" qui est le nom utilisé par WINEANDCO sur les sites partenaires comme CDiscount et autres...) Wine Advocate : 90 /100 Vinous Antonio Galloni : 91 /100 Vinous Neal Martin : 92 /100 James Suckling : 92 /100 Decanter : 91 /100",
-    "price": 23.25,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bouteille-de-vin-rouge-chateau-de-camensac-5eme-grand-cru-classe-haut-medoc-aoc-75cl-3430815",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:03:00+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 23.25,
-        "observed_at": "2026-10-12T12:59:39.198685+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ampli Guitare Transistor Vox Pathfinder 10 - Coloris Crème ou Rouge",
-    "description": "89,99€ - Cultura Deux coloris disponibles : https://www.cultura.com/p-pathfinder-10-1x6-5-cream-bronco-limited-edition-vox-12317758.html https://www.cultura.com/p-pathfinder-10-1x6-5-classic-vintage-red-limited-edition-vox-12317759.html Petit ampli dans l'esprit Vox pour travailler à la maison Descriptif du fournisseur Le VOX Pathfinder 10 revient en édition limitée avec une élégante finition Cream Bronco. Compact et abordable, ce mini combo de 10 watts est parfait pour débuter ou disposer d’un ampli portable. Il reprend les codes esthétiques emblématiques de VOX — revêtement façon cuir, tissu texturé, boutons chicken head et liseré blanc — tout en offrant une conception analogique à transistors, robuste et réactive, fidèle à la signature de la marque.",
-    "price": 89.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ampli-guitare-transistor-vox-pathfinder-10-creme-ou-rouge-3430814",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:02:50+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 89.99,
-        "observed_at": "2026-10-12T12:59:39.198692+00:00"
       }
     ]
   }
