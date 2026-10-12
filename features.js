@@ -85,24 +85,84 @@
     const params = new URLSearchParams({template:"deal-feedback.md", title: "[Communauté] " + labels[kind] + " : " + (offer.title || "offre DealRadar").slice(0, 90), body});
     return "https://github.com/bapsch38/dealradar-site/issues/new?" + params.toString();
   };
+  // Le score mesure la qualité des preuves disponibles, jamais la taille de la remise.
   const trust = offer => {
     let score = 0;
     const reasons = [];
+    const warnings = [];
     const url = cleanUrl(offer.url);
-    if (url) { score += 15; reasons.push("lien HTTPS"); }
-    if (offer.price_verified === true) { score += 30; reasons.push("prix marqué comme vérifié par le flux"); }
-    const p = priceOf(offer), r = referenceOf(offer);
-    if (p != null && r != null && r > p) { score += 20; reasons.push("prix actuel inférieur au prix de référence"); }
-    const history = Array.isArray(offer.price_history) ? offer.price_history.filter(x => x && Number(x.price) > 0) : [];
-    if (history.length >= 2) { score += 15; reasons.push("historique avec plusieurs observations"); }
-    const date = new Date(offer.detected_at || offer.published_at || "");
-    if (!Number.isNaN(date.getTime())) {
-      const age = Date.now() - date.getTime();
-      if (age <= 48 * 60 * 60 * 1000 && age >= -60 * 60 * 1000) { score += 10; reasons.push("détection récente"); }
-      else if (age > 7 * 24 * 60 * 60 * 1000) reasons.push("offre ancienne à recontrôler");
+    const price = priceOf(offer);
+    const reference = referenceOf(offer);
+    const discount = discountOf(offer);
+    const sourceText = String(offer.source || "") + " " + String(offer.url || "");
+    const image = typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url);
+    const knownSource = /amazon|dealabs|camelcamelcamel|cdiscount|fnac|darty|boulanger|ldlc|materiel\.net|rakuten|ebay/i.test(sourceText);
+    const validCategory = categories.includes(categoryOf(offer));
+    if (url) { score += 10; reasons.push("lien HTTPS présent"); }
+    else { warnings.push("lien HTTPS absent ou invalide"); }
+    if (knownSource) { score += 10; reasons.push("source identifiable"); }
+    else { warnings.push("source peu identifiable"); }
+    if (price != null) { score += 10; reasons.push("prix actuel renseigné"); }
+    else { warnings.push("prix actuel manquant"); }
+    if (reference != null && price != null && reference > price) {
+      score += 8;
+      reasons.push("prix de référence cohérent avec le prix actuel");
+    } else if (reference == null) {
+      warnings.push("prix de référence non fourni");
+    } else {
+      warnings.push("prix de référence à vérifier");
     }
-    if (/amazon|dealabs|camelcamelcamel/i.test(String(offer.source || "") + " " + url)) { score += 10; reasons.push("source identifiable"); }
-    return {score: Math.min(100, score), reasons};
+    if (image) { score += 5; reasons.push("image produit disponible"); }
+    else { warnings.push("image produit absente"); }
+    if (validCategory) { score += 5; reasons.push("catégorie renseignée"); }
+    if (offer.price_verified === true) { score += 20; reasons.push("prix explicitement vérifié"); }
+    else if (offer.price_verified === false) { warnings.push("prix non vérifié"); }
+    else { warnings.push("aucune confirmation de vérification du prix"); }
+
+    const history = Array.isArray(offer.price_history)
+      ? offer.price_history.filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0)
+      : [];
+    const distinctPrices = new Set(history.map(item => Number(item.price).toFixed(2))).size;
+    if (history.length >= 2) {
+      const historyPoints = Math.min(15, 5 + (Math.min(history.length, 5) - 2) * 2 + (distinctPrices >= 2 ? 4 : 0));
+      score += historyPoints;
+      reasons.push("historique de prix avec " + history.length + " observation(s)");
+      if (distinctPrices < 2) warnings.push("prix historique pas encore confirmé par une variation");
+    } else {
+      warnings.push("historique de prix insuffisant");
+    }
+
+    const rawDate = offer.detected_at || offer.published_at;
+    const date = rawDate ? new Date(String(rawDate).replace(" ", "T") + (/[zZ]|[+-]\d{2}:?\d{2}$/.test(String(rawDate)) ? "" : "Z")) : null;
+    if (date && !Number.isNaN(date.getTime())) {
+      const age = Date.now() - date.getTime();
+      if (age >= -60 * 60 * 1000 && age <= 24 * 60 * 60 * 1000) {
+        score += 12;
+        reasons.push("détection de moins de 24 h");
+      } else if (age <= 7 * 24 * 60 * 60 * 1000 && age >= 0) {
+        score += 6;
+        reasons.push("détection de moins de 7 jours");
+      } else if (age > 7 * 24 * 60 * 60 * 1000) {
+        warnings.push("offre ancienne à recontrôler");
+      } else {
+        warnings.push("date de détection incohérente");
+      }
+    } else {
+      warnings.push("date de détection manquante");
+    }
+
+    // Une remise exceptionnellement forte n'augmente pas la confiance : elle appelle une vérification.
+    if (discount != null && discount >= 70) {
+      score -= 12;
+      warnings.push("remise supérieure à 70 % : contrôle renforcé conseillé");
+    } else if (discount != null && discount >= 50) {
+      score -= 6;
+      warnings.push("remise très élevée : prix de référence à contrôler");
+    }
+    if (offer.price_verified === false) score -= 5;
+    score = Math.max(0, Math.min(100, Math.round(score)));
+    const level = score >= 75 ? "Élevée" : score >= 50 ? "Moyenne" : "Faible";
+    return {score, level, reasons, warnings};
   };
   const announce = (title, body) => {
     if ("Notification" in window && Notification.permission === "granted") {
