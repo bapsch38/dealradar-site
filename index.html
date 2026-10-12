@@ -485,7 +485,8 @@ categories.forEach(card => card.addEventListener("click", () => {
   const query = text.split(/\s+/).filter(word => word.length > 3).slice(0,2).join(" ");
   dealSearch.value = "";
   const category = card.dataset.category.toLocaleLowerCase("fr");
-  activeFilter = /gaming|high-tech|informatique|ordinateur|console/.test(category) ? "tech" :
+  activeFilter = /gaming|gamer|playstation|xbox|nintendo|console|manette/.test(category) ? "gaming" :
+    /high-tech|informatique|ordinateur|smartphone|\\bpc\\b/.test(category) ? "tech" :
     /électroménager|electromenager|aspirateur|cafetière|machine à café/.test(category) ? "electromenager" :
     /beauté|santé|parfum|cosmétique|maquillage/.test(category) ? "beaute" :
     /maison|décoration|jardin/.test(category) ? "maison" :
