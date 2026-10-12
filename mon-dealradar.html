@@ -108,6 +108,8 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .reset-filters{background:transparent;color:var(--green);border:1px solid var(--green);border-radius:8px;padding:9px 12px;cursor:pointer;font-size:12px;font-weight:700}.reset-filters:hover{background:#173b2a}
 .deal-stale{display:inline-flex;align-items:center;gap:5px;color:#ffd27a;background:#46351b;border-radius:6px;padding:5px 7px;font-size:10px;font-weight:800}
 .deal-report{font-size:11px;color:var(--muted);text-decoration:underline;text-underline-offset:3px}
+.deal-community-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:9px}
+.deal-community-actions .deal-report{font-size:10px;line-height:1.5}
 .deal-report:hover{color:var(--green)}
 .price-history{margin-top:3px;padding:9px 10px;background:#0b1724;border:1px solid var(--line);border-radius:9px}
 .price-history-head{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:11px;color:var(--muted)}
@@ -672,6 +674,18 @@ function renderPriceHistory(offer) {
     '<polyline points="' + points + '" fill="none" stroke="#46f58b" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
     '<div class="price-history-note">' + history.length + ' observations · selon les données collectées par DealRadar</div></div>';
 }
+function reportOfferUrl(offer, type) {
+  const title = (type === "confirm" ? "[Communauté] Prix confirmé : " : "[Communauté] Prix douteux ou offre expirée : ") + (offer.title || "offre DealRadar");
+  const body = "Type de retour : " + (type === "confirm" ? "prix correct / prix confirmé" : "prix douteux / offre expirée") +
+    "\nProduit : " + (offer.title || "") +
+    "\nPrix affiché : " + formatPrice(parsePriceValue(offer.price ?? offer.current_price)) +
+    "\nPrix constaté chez le marchand : " +
+    "\nLien de l'offre : " + (offer.url || "") +
+    "\nDate et heure du constat : " + new Date().toLocaleString("fr-FR") +
+    "\n\nPreuve ou détails : ";
+  return "https://github.com/bapsch38/dealradar-site/issues/new?template=deal-feedback.md&title=" +
+    encodeURIComponent(title) + "&body=" + encodeURIComponent(body);
+}
 function reportCategoryUrl(offer) {
   const title = 'Catégorie incorrecte : ' + (offer.title || 'offre DealRadar');
   const body = 'Produit : ' + (offer.title || '') + '\nCatégorie affichée : ' + inferCategory(offer) +
@@ -806,7 +820,7 @@ function renderOffers() {
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
       renderPriceHistory(offer) +
       (url ? '<a class="deal-cta" href="' + url + '" target="_blank" rel="noopener noreferrer sponsored">Voir l’offre ↗</a>' : '') +
-      '<a class="deal-report" href="' + escapeAttribute(reportCategoryUrl(offer)) + '" target="_blank" rel="noopener noreferrer">Signaler une catégorie incorrecte</a>' +
+      '<div class="deal-community-actions"><a class="deal-report" href="' + escapeAttribute(reportOfferUrl(offer, "confirm")) + '" target="_blank" rel="noopener noreferrer">✓ Confirmer le prix</a><a class="deal-report" href="' + escapeAttribute(reportOfferUrl(offer, "report")) + '" target="_blank" rel="noopener noreferrer">⚑ Signaler un prix ou une offre expirée</a><a class="deal-report" href="' + escapeAttribute(reportCategoryUrl(offer)) + '" target="_blank" rel="noopener noreferrer">Catégorie incorrecte</a></div>' +
       '</div></article>';
   }).join("");
 }
