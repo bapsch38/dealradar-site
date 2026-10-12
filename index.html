@@ -429,6 +429,12 @@ function inferCategory(offer) {
   // Corrections ciblées avant la catégorie enregistrée : elles règlent les erreurs connues
   // et évitent qu'un mot isolé comme "the" dans "Thermaltake" fasse basculer en alimentation.
   const overrides = [
+    ["Gaming", /\b(cyberpunk|phantom liberty|the witcher|black border [23]?|jeu(x)? video|video game|jeu pc|steam key|cle steam)\b/],
+    ["Bricolage", /\b(testeur de tension|detecteur de tension|multimetre|chaussures? de securite|bottes? de securite|coupe[- ]bordures?|debroussailleuse|tondeuse a gazon)\b/],
+    ["Électroménager", /\b(four encastrable|four pyrolyse|four multifonction|lave[- ]vaisselle|lave[- ]linge|seche[- ]linge|refrigerateur|congelateur|plaque de cuisson|hotte aspirante|cuisiniere)\b/],
+    ["High-tech", /\b(stream deck|controleur de studio|carte graphique|alimentation pc|pc[- ]netzteil|processeur|ordinateur|smartphone|routeur|ssd|ecran pc|webcam|insta360)\b/],
+    ["Bureau & papeterie", /\b(posca|marqueur acrylique|marqueurs? peinture|feutres? peinture|agrafeuse|agrafes)\b/],
+    ["Sport & loisirs", /\b(velo|bicyclette|vtt|velo electrique|velo de route|velo gravel|velo cargo)\b/],
     ["Bébé & enfants", /\b(protege matelas bebe|alese bebe|pot d apprentissage|potty|chaise haute bebe)\b/],
     ["Gaming", /\b(playstation|ps[345]|xbox|nintendo switch|steam deck|jeu(x)? video|gaming|gamer|clavier gamer|souris gamer|casque gamer|manette)\b/],
     ["Animaux", /\b(trixie|jr farm|kerbl|francodex|versele-laga|exoterra|biorb|croquettes|litiere|terrarium|aquarium|gamelle|foin pour|jouet pour chien|jouet pour chat|nourriture animale|collier pour chien|arbre a chat)\b/],
