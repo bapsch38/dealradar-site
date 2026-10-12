@@ -1,11 +1,96 @@
 [
   {
+    "title": "biOrb AIR 60 Blanc 1 Unité - down 4.67% (20,54€) to 419,36€ from 439,90€",
+    "price": 419.36,
+    "reference_price": 439.9,
+    "discount_percent": 4.67,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00I9DTXSK",
+    "image_url": "",
+    "detected_at": "2026-10-12 10:04:19",
+    "category": "Autre",
+    "price_verified": false
+  },
+  {
+    "title": "TRIXIE 76133 Sable pour Terrarium Rouge foncé 5 kg - down 35.24% (5,98€) to 10,99€ from 16,97€",
+    "price": 10.99,
+    "reference_price": 16.97,
+    "discount_percent": 35.24,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00435I66S",
+    "image_url": "",
+    "detected_at": "2026-10-12 10:04:18",
+    "category": "Autre",
+    "price_verified": false
+  },
+  {
+    "title": "Exoterra Bois d'Ornement pour Reptiles Pied de Vigne Sablé - down 23.38% (2,57€) to 8,42€ from 10,99€",
+    "price": 8.42,
+    "reference_price": 10.99,
+    "discount_percent": 23.38,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0032GAL4Y",
+    "image_url": "",
+    "detected_at": "2026-10-12 10:04:18",
+    "category": "Autre",
+    "price_verified": false
+  },
+  {
+    "title": "Kerbl Pet Enclos d’extérieur et d‘intéri EUR Noir - down 14.98% (4,33€) to 24,57€ from 28,90€",
+    "price": 24.57,
+    "reference_price": 28.9,
+    "discount_percent": 14.98,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CD24SF3F",
+    "image_url": "",
+    "detected_at": "2026-10-12 10:04:17",
+    "category": "Autre",
+    "price_verified": false
+  },
+  {
+    "title": "Francodex - Tortue VIT - 15 g - down 12.75% (1,46€) to 9,99€ from 11,45€",
+    "price": 9.99,
+    "reference_price": 11.45,
+    "discount_percent": 12.75,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00HVYHO20",
+    "image_url": "",
+    "detected_at": "2026-10-12 10:04:14",
+    "category": "Autre",
+    "price_verified": false
+  },
+  {
+    "title": "Tyrol | Litière Petits Animaux...squ'à 6 Semaines d'Utilisation - down 35.17% (10,30€) to 18,99€ from 29,29€",
+    "price": 18.99,
+    "reference_price": 29.29,
+    "discount_percent": 35.17,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CVN4KBXK",
+    "image_url": "",
+    "detected_at": "2026-10-12 10:04:13",
+    "category": "Autre",
+    "price_verified": false
+  },
+  {
+    "title": "TRIXIE Faule Grete Natural Living flammé Bois House-Parent - down 15.76% (6,64€) to 35,49€ from 42,13€",
+    "price": 35.49,
+    "reference_price": 42.13,
+    "discount_percent": 15.76,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01LSLH9EO",
+    "image_url": "",
+    "detected_at": "2026-10-12 10:04:13",
+    "category": "Autre",
+    "price_verified": false
+  },
+  {
     "title": "Disque d'exercice pour degus, ...râce à l’aire de course plate, - down 23.35% (4,87€) to 15,99€ from 20,86€",
     "price": 15.99,
     "reference_price": 20.86,
     "discount_percent": 23.35,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0089DCAXA",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:28",
     "category": "Autre",
     "price_verified": false
@@ -17,6 +102,7 @@
     "discount_percent": 37.78,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B002YK1S1O",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:27",
     "category": "Autre",
     "price_verified": false
@@ -28,6 +114,7 @@
     "discount_percent": 24.97,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00LV2I94A",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:27",
     "category": "Autre",
     "price_verified": false
@@ -39,6 +126,7 @@
     "discount_percent": 40.82,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00815PG5A",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:26",
     "category": "Autre",
     "price_verified": false
@@ -50,6 +138,7 @@
     "discount_percent": 27.68,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01LY9Y41W",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:25",
     "category": "Autre",
     "price_verified": false
@@ -61,6 +150,7 @@
     "discount_percent": 20.69,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0070TX3DU",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:22",
     "category": "Autre",
     "price_verified": false
@@ -72,6 +162,7 @@
     "discount_percent": 12.52,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0017NOWV2",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:21",
     "category": "Autre",
     "price_verified": false
@@ -83,6 +174,7 @@
     "discount_percent": 71.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B002BB4RJG",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:20",
     "category": "Autre",
     "price_verified": false
@@ -94,6 +186,7 @@
     "discount_percent": 10.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00DBTE7LA",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:19",
     "category": "Autre",
     "price_verified": false
@@ -105,6 +198,7 @@
     "discount_percent": 16.33,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01CHDBSOY",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:19",
     "category": "Autre",
     "price_verified": false
@@ -116,6 +210,7 @@
     "discount_percent": 26.88,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B000J66OB4",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:15",
     "category": "Autre",
     "price_verified": false
@@ -127,6 +222,7 @@
     "discount_percent": 6.96,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DG9331GY",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:14",
     "category": "Autre",
     "price_verified": false
@@ -138,6 +234,7 @@
     "discount_percent": 6.63,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0104LJZQO",
+    "image_url": "",
     "detected_at": "2026-10-12 09:52:14",
     "category": "Autre",
     "price_verified": false
@@ -149,6 +246,7 @@
     "discount_percent": 28.8,
     "source": "www.dealabs.com/rss",
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-vraiment-tres-fute-schmidt-4001504882273-roll-write-1-a-4-joueurs-des-10-ans-30-min-francais-3429482",
+    "image_url": "",
     "detected_at": "2026-10-09 13:32:12",
     "category": "Autre",
     "price_verified": false
@@ -160,6 +258,7 @@
     "discount_percent": 26.4,
     "source": "www.dealabs.com/rss",
     "url": "https://www.dealabs.com/bons-plans/jeu-de-54-cartes-a-jouer-bicycle-original-rider-back-jumbo-index-b0cq5xf36s-format-poker-coloris-aleatoire-rouge-ou-bleu-3429464",
+    "image_url": "",
     "detected_at": "2026-10-09 13:32:11",
     "category": "Autre",
     "price_verified": false
@@ -171,6 +270,7 @@
     "discount_percent": 85.0,
     "source": "www.dealabs.com/rss/groupe/mode-accessoires",
     "url": "https://www.dealabs.com/bons-plans/selection-de-pantalons-homme-en-promotion-chez-mango-outlet-3429447",
+    "image_url": "",
     "detected_at": "2026-10-09 13:32:07",
     "category": "Autre",
     "price_verified": false
@@ -182,6 +282,7 @@
     "discount_percent": 39.0,
     "source": "www.dealabs.com/rss/groupe/informatique",
     "url": "https://www.dealabs.com/bons-plans/pack-clavier-gaming-corsair-clipper-pro-mini-60-hall-effect-ch-979101j-fr-housse-de-protection-offerte-format-60-azerty-noir-3429433",
+    "image_url": "",
     "detected_at": "2026-10-09 13:32:07",
     "category": "Autre",
     "price_verified": false
@@ -193,6 +294,7 @@
     "discount_percent": 32.7,
     "source": "www.dealabs.com/rss/groupe/sports-plein-air",
     "url": "https://www.dealabs.com/bons-plans/velo-gravel-carbone-scott-addict-gravel-10-2026-sram-force-xplr-axs-1x13v-roues-fulcrum-rapid-red-carbon-84-kg-xs-a-xl-3429290",
+    "image_url": "",
     "detected_at": "2026-10-09 13:32:06",
     "category": "Autre",
     "price_verified": false
@@ -204,6 +306,7 @@
     "discount_percent": 20.0,
     "source": "www.dealabs.com/rss/groupe/sports-plein-air",
     "url": "https://www.dealabs.com/bons-plans/couteau-multifonctions-7-en-1-solognac-x7-lame-85-cm-acier-5cr15-scie-a-os-etui-polyester-1680d-x-access-3429262",
+    "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
     "category": "Autre",
     "price_verified": false
@@ -215,70 +318,28 @@
     "discount_percent": 36.8,
     "source": "www.dealabs.com/rss/groupe/sports-plein-air",
     "url": "https://www.dealabs.com/bons-plans/velo-de-route-carbone-bianchi-sprint-2026-shimano-105-di2-2x12v-electronique-disques-hydrauliques-2-coloris-sm-et-ml-3429280",
+    "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
     "category": "Autre",
     "price_verified": false
   },
   {
-    "title": "Lot de 3 paires de chaussettes de sport enfant RS160 - mi-hautes, Beige/Violet/Blanc, tailles 27-30 ou 31-34",
-    "description": "2,99€ - Decathlon Petit prix pour ces chaussettes enfant, pour le sport ou le quotidien (y) également au même prix en version basse . > Retrait gratuit en magasin Description & caractéristiques Résistance au frottement : Talon et pointe renforcés qui améliorent la durée de vie de la chaussette. Douceur du coton peigné, renforts \"bouclettes\" sur les zones de frottement. Maillage élastique sur toute la chaussette, élastique médio-pied. Matière : 75% coton, 23% polyamide, 2% élasthanne",
+    "title": "Pack casque Bluetooth EDIFIER Atom Max + écouteurs Xiaomi Redmi Buds 6 Play Blanc - ANC 44 dB, Bluetooth 5.4, multipoint",
+    "description": "50,99€ - JoyBuy Un bon plan sympa car il permet de se procurer un pack réunissant un casque Bluetooth EDIFIER Atom Max et des écouteurs sans fil Xiaomi Redmi Buds 6 Play blancs . Nickel pour celles et ceux qui aiment avoir un casque mais préfèrent la taille des écouteurs en voyage ou dans les transports. Livraison gratuite > Caractéristiques du casque EDIFIER Atom Max Casque Bluetooth circum-auriculaire pliable Bluetooth 5.4 Réduction de bruit active hybride jusqu'à 44 dB Transducteurs dynamiques de 40 mm avec diaphragme revêtu de titane Audio haute résolution via USB-C filaire Connexion multipoint à 2 appareils simultanément Microphone avec réduction de bruit par IA pour les appels Réponse en fréquence : 20 Hz - 20 kHz Impédance : 32 ohms > Caractéristiques des Xiaomi Redmi Buds 6 Play Écouteurs sans fil Xiaomi Redmi Buds 6 Play Coloris : blanc Transducteurs dynamiques de 10 mm Son calibré par Xiaomi Acoustic Lab Jusqu'à 7,5 h d'autonomie par charge Jusqu'à 36 h avec le boîtier Charge rapide : 10 min pour 3 h d'écoute Réduction de bruit par IA pour les appels 5 modes d'égalisation Commandes tactiles personnalisables via l'application Xiaomi Earbuds",
     "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-3-paires-de-chaussettes-de-sport-enfant-rs160-mi-hautes-beigevioletblanc-tailles-27-30-ou-31-34-3430907",
-    "detected_at": "2026-10-12T09:50:14+00:00",
+    "url": "https://www.dealabs.com/bons-plans/pack-casque-bluetooth-edifier-atom-max-ecouteurs-xiaomi-redmi-buds-6-play-blanc-anc-44-db-bluetooth-54-multipoint-3430911",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/uAAcX/3430911_1/re/150x150/qt/55/3430911_1.jpg",
+    "detected_at": "2026-10-12T09:57:58+00:00",
     "category": "Autre",
     "price_verified": false
   },
   {
-    "title": "Chargeur intelligent Ugreen Nexode Pro - 160W, 4 ports GaN",
-    "description": "Ugreen 1. Fonctionnalités Puissance globale de 160W (Power Delivery 3.1) : Permet une charge ultra-rapide capable d'alimenter simultanément plusieurs appareils gourmands (ex. un MacBook Pro 14\" atteint 56 % de charge en 30 minutes). Supporte le protocole PPS 60W (Samsung Galaxy). Câble USB-C rétractable intégré : Un câble directement intégré dans le boîtier que l'on déroule à la longueur souhaitée, évitant l'encombrement des câbles emmêlés. Écran couleur TFT interactif : Affiche en temps réel la puissance délivrée (W), la tension, le courant ainsi que le statut de charge de chaque port grâce à des animations dynamiques. Technologie GaNInfinity : Utilisation de semi-conducteurs au nitrure de gallium (GaN) offrant un rendement énergétique élevé (jusqu'à 93 %), un dégagement de chaleur maîtrisé et un format compact. Protection thermique Thermal Guard : Surveillance continue de la température et systèmes de sécurité intégrés contre les surtensions, surchauffes et court-circuits. 2. Avantages Tout-en-un & Portabilité : Grâce à son câble rétractable et ses multiples ports, vous n'avez plus besoin de transporter une multitude de câbles et de blocs de charge séparés. Lisibilité et suivi précis : L'écran TFT permet d'avoir un retour visuel direct sur la charge réelle de vos appareils. Recharge simultanée haute puissance : Capable de charger rapidement deux ordinateurs portables ou un ordinateur, une tablette et un smartphone en même temps sans chute de puissance critique. Efficacité énergétique : La technologie GaN réduit les pertes d'énergie et offre une charge plus stable et plus sûre. 3. Connectivité Nombre de ports (4 sorties au total) : 1x Câble USB-C rétractable (jusqu'à 140W) 2x Ports USB-C (supportant jusqu'à 140W sur le port principal) 1x Port USB-A (pour accessoires ou appareils plus anciens) Compatibilité logicielle : Connectivité sans fil (Bluetooth/Wi-Fi selon la version) permettant l'appairage à l' application mobile dédiée UGREEN . Compatibilité universelle : Prise en charge des protocoles PD 3.1 / 3.0, QC 4.0+/3.0, PPS, SCP, AFC pour ordinateurs (MacBook, PC), tablettes, smartphones (iPhone, Samsung, Pixel), consoles (Steam Deck, Switch) et accessoires. D'autres promo sont disponibles chez UGREEN directement ici : Promos UGREEN",
+    "title": "Veste Moto Textile IXS RS-400-ST 3.0 - Protection AA, Étanche - Noir, Blanc, Jaune, Tailles S, M et XL",
+    "description": "32,99€ - FC-Moto Veste textile IXS RS-400-ST 3.0 Moto Veste textile sportive et imperméable en polioxford 600D. Fonctions : Membrane monocouche à 2 couches® Z-Liner membrane Doublure en maille respirante avec barrière d'eau pour un climat corporel optimal Doublure thermique amovible Ajustement de la largeur sur le haut du bras, le coude et les poignets 2 poches extérieures Deux poches intérieures, une poche Napoléon 4 ouvertures de ventilation, 2 à l'avant, 2 à l'arrière Ajustement général sur la veste hemon Connexion complète (Ziper) Protège-coudes réglables en hauteur {EN17092-3:2020 (AA) } Protecteurs d'épaule et de coude d'impact ETP-02 (EN 1621-1:2012, niveau 1) Poche de protection arrière (facultativement réaménagée avec impact TP-06)",
     "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/codes-promo/chargeur-intelligent-ugreen-nexode-pro-160w-4-ports-gan-3430906",
-    "detected_at": "2026-10-12T09:48:51+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Séjour 8j/7n pour 4 en Mobilhome Camping Vilanova Park ★★★★ (Barcelone - Catalogne) du 24 au 31 octobre",
-    "description": "260,93€ - Campings.com Séjour 8j/7n pour 4 Camping Vilanova Park ★★★★ (Barcelone - Catalogne) du 24 au 31 octobre Mobilhome 4 personnes - Ambre 2 chambres, par Lifestyle Holidays Hébergement Surface, composition, chambre(s): la composition, les dimensions de l'hébergement et des couchages peuvent varier d'un logement à l'autre. Elles sont données à titre d'exemple et sont non contractuelles. Composition Surface de l'hébergement : 24m² Nombre de chambres : 2 Nombre de salles de bain : 1 Nombre de toilettes : 1 Toilettes séparées Terrasse non couverte Chambres 1 chambre : 1 lit double 1 chambre : 2 lits simples Autres informations Ancienneté de l'hébergement : Entre 6 et 10 ans Équipements Intérieurs et extérieurs de l'hébergement Services Climatisation : Inclus dans le prix Hébergement les oreillers et couvertures sont fournis Cuisine Type de cuisine : Coin cuisine Plaques au gaz Four Micro-ondes Réfrigérateur Congélateur Vaisselle et ustensiles de cuisine Cafetière électrique Salle de bain Type de toilettes : Toilettes Linge de lit / toilette Linge de lit : En option payante, 19,00 € par lit double, 12,50 € par lit simple Couettes ou couvertures inclues Oreillers inclus Linge de toilette : En option payante Pack serviettes (x3) : 18,5€ Extérieur Barbecue Salon de jardin Parasol Animaux Les montants indiqués sont susceptibles d'évoluer au cours de la saison et sont à titre indicatif, ils seront à régler sur place. Animaux de catégorie 1 et 2 non admis. Animaux : Animaux interdits, toutes catégories Informations d'arrivée Les montants indiqués sont susceptibles d'évoluer au cours de la saison et sont à titre indicatif, ils seront à régler sur place. Horaires arrivée/départ Heure d'arrivée : De 16:00 à 22:00 Heure de départ : De 08:00 à 10:00 Informations supplémentaires IMPORTANT : L'âge minimum pour louer cet hébergement est de 25 ans (sauf enfants avec leurs parents). Toute personne n'ayant pas 25 ans sera refusée lors du check-in. IMPORTANT – Formalités obligatoires avant votre départ Deux semaines avant vos vacances, vous allez recevoir un e-mail envoyé par l'équipe de Lifestyle Holidays. C'est une procédure tout à fait normale et très importante. Il vous sera demandé d'y renseigner vos informations personnelles (dates de naissance) et vos pièces d'identité. Attention : Vous devez impérativement compléter ce formulaire avant votre arrivée. C'est une condition obligatoire pour éviter tout blocage ou refus d'enregistrement à la réception du camping. Merci de votre vigilance ! Taxe de séjour à régler sur place. Pour les arrivées après 22h, un supplément de 25 € à régler en espèces vous sera demandé à l'arrivée Si vous souhaitez ajouter du linge de lit, des serviettes, ou un kit bébé par exemple, vous devez impérativement contacter Lifestyle au 01 70 70 45 50 afin d'ajouter ce que vous voulez et le régler directement par carte bancaire. Pour le linge de lit et les serviettes, la commande doit se faire au moins 4 semaines avant l'arrivée au camping. Numéro de téléphone : 01 70 70 45 50 (Tour Opérateur) Taxes et frais supplémentaires Les montants des cautions, frais obligatoires, taxe de séjour et éco-taxe sont susceptibles d'évoluer au cours de la saison et sont affichés uniquement à titre indicatif. Ils seront à régler sur place. Caution Montant de la caution : 100,00 € Moyen de paiement de la caution : espèces Frais obligatoires Taxe de séjour non incluse",
-    "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/sejour-8j7n-pour-4-camping-vilanova-park-barcelone-catalogne-du-24-au-31-octobre-3430905",
-    "detected_at": "2026-10-12T09:46:13+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Lave-vaisselle pose libre Beko BDFN26443G – 14 couverts, 42 dB, CornerIntense, SelfDry",
-    "description": "339,99€ - Cdiscount Bon prix sur ce Beko de la gamme bPRO 500, vendu et expédié par Cdiscount. Il est généralement vendu autour de 460-500 € ailleurs",
-    "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/lave-vaisselle-pose-libre-beko-bdfn26443g-14-couverts-42-db-cornerintense-selfdry-3430904",
-    "detected_at": "2026-10-12T09:45:59+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Pack drone DJI Neo 2 Fly More Combo + RC-N3 - 4K, 151 g, ActiveTrack, détection d'obstacles, 3 batteries",
-    "description": "299€ - JoyBuy Vraiment très bon prix pour ce DJI Neo 2 Fly More Combo , un drone compact pensé pour les débutants, les voyages et la création de contenu. Avec seulement 151 g , une certification C0 et des protections d'hélices intégrales, il mise sur la simplicité d'utilisation, tout en proposant l'enregistrement vidéo en 4K . Livraison gratuite > Caractéristiques Drone DJI Neo 2 Poids : 151 g Certification européenne C0 Vidéo jusqu'en 4K Photos de 12 Mpx Stabilisation mécanique sur 2 axes Protections d'hélices intégrales Détection d'obstacles omnidirectionnelle Suivi automatique ActiveTrack Mode SelfieShot pour les prises de vue automatisées Décollage et atterrissage depuis la paume Contrôle gestuel Connexions Wi-Fi et Bluetooth Autonomie maximale : 19 minutes par batterie Compatible avec certaines fonctions de suivi et de contrôle via Apple Watch > Contenu du pack 1x Drone DJI Neo 2 1x Radiocommande DJI RC-N3 3x Batteries de vol intelligentes DJI Neo 2 1x Station de recharge bidirectionnelle 1x Module de transmission vidéo numérique DJI Neo 2 1x Paire de protections d'hélices 1x Paire d'hélices de rechange 4x Vis d'hélices de rechange 1x Protection de nacelle 1x Câble RC USB-C 1x Câble RC Lightning 1x Câble USB-C vers USB-C 1x Tournevis",
-    "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/pack-drone-dji-neo-2-fly-more-combo-rc-n3-4k-151-g-activetrack-detection-dobstacles-3-batteries-3430903",
-    "detected_at": "2026-10-12T09:45:10+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Lot de 4 Localisateurs d'Objets Samsung SmartTag 2 (Vendeur Tiers)",
-    "description": "54,65€ - Amazon Bon prix pour le lot de 4 SmartTag 2 (2 blancs/ 2 noirs), et chez Amazon, c'est rassurant ! Batterie optimisée : l’accessoire de localisation Galaxy SmartTag2 possède une autonomie jusqu’à 500 jours, et 40 % de batterie en plus avec le mode économie d’énergie. Robuste : avec son indice de protection IP67, le Galaxy SmartTag2 est un compagnon de voyage pratique et résistant, conçu pour résister à la poussière et à l’eau. Mode connecté : Lorsque le mode connecté est activé, le système NFC (Near Field Communication) du Galaxy SmartTag2 affichera votre contact enregistré et enverra un message sur le smartphone de la personne qui trouve l’accessoire, quel que soit le système d’exploitation Mode navigation : Activez la fonctionnalité Rechercher à proximité pour obtenir des indications pas à pas de l’objet accroché au Galaxy SmartTag2 via le mode Navigation, ou appuyez sur le Galaxy SmartTag2 pour recevoir un bip sonore qui vous aidera à localiser facilement l’objet. Le Galaxy SmartTag2 est compatible avec les smartphones et tablettes Galaxy avec version Android 9.0 ou ultérieure et au moins 3 Go de mémoire vive. L’application SmartThings est requise.",
-    "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/samsung-smarttag-2-lot-de-4-3430873",
-    "detected_at": "2026-10-12T09:44:03+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Lot de 6 Socquettes Athlétiques Rembourrées Amazon Essentialls en coton mélangé - Noir (du 41 au 45)",
-    "description": "6,56€ - Amazon Baisse de prix ! :) ✨ Les points forts : Lot de 6 paires : idéal pour renouveler son stock à petit prix. Rembourrage au talon et à la pointe pour plus de confort et une meilleure absorption des chocs. ️ Zones en maille respirante favorisant la circulation de l’air. Gestion de l’humidité pour aider à garder les pieds au sec. Soutien de la voûte plantaire pour un meilleur maintien et davantage de stabilité. ✅ Coutures plates aux orteils pour limiter les frottements et les irritations. Mélange avec élasthanne pour un ajustement confortable et une meilleure tenue. ️ Polyvalentes : adaptées au sport, à la marche et à un usage quotidien. ️ Certification STANDARD 100 by OEKO-TEX : textile testé pour la présence de substances chimiques. Caractéristiques : Marque : Amazon Essentials Type : Chaussettes de sport pour homme Quantité : 6 paires Composition : Mélange de coton, polyester et élasthanne Confort : Talon et pointe rembourrés Respirabilité : Zones en maille Maintien : Soutien de la voûte plantaire Finition : Coutures plates aux orteils Gestion de l’humidité : Oui Coloris : Plusieurs couleurs disponibles selon la variante Certification : STANDARD 100 by OEKO-TEX",
-    "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-6-socquettes-athletiques-rembourrees-amazon-essentialls-en-coton-melange-noir-du-41-au-45-3430902",
-    "detected_at": "2026-10-12T09:42:41+00:00",
+    "url": "https://www.dealabs.com/bons-plans/veste-moto-textile-ixs-rs-400-st-30-protection-aa-etanche-noir-blanc-jaune-tailles-s-m-et-xl-3430909",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SdzMt/3430909_1/re/150x150/qt/55/3430909_1.jpg",
+    "detected_at": "2026-10-12T09:54:31+00:00",
     "category": "Autre",
     "price_verified": false
   }
