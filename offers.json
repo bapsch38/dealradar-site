@@ -1,5 +1,185 @@
 [
   {
+    "title": "Bosch Aerotwin eA 012 S Jeu de...ssuie-glaces - 500 mm / 360 mm",
+    "price": 22.49,
+    "reference_price": 33.67,
+    "discount_percent": 33.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FDY29KVJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0FDY29KVJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:45",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 22.49,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BRILONER - IP44 lampe de table..., dimmable, 36x10,5 cm, chrome",
+    "price": 18.45,
+    "reference_price": 39.95,
+    "discount_percent": 53.82,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DLH9SD9C",
+    "image_url": "https://m.media-amazon.com/images/P/B0DLH9SD9C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:44",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 18.45,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rotring Tikky Portemine | Mine... Léger avec prise caoutchoutée",
+    "price": 36.39,
+    "reference_price": 81.6,
+    "discount_percent": 55.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DWMGSTXG",
+    "image_url": "https://m.media-amazon.com/images/P/B0DWMGSTXG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:44",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 36.39,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Moule silicone 20 financiers",
+    "price": 13.99,
+    "reference_price": 19.88,
+    "discount_percent": 29.63,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00H8XTD78",
+    "image_url": "https://m.media-amazon.com/images/P/B00H8XTD78.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:43",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lucky Reptile Bright Sun UV De... UVB - pour Reptiles du désert",
+    "price": 27.97,
+    "reference_price": 39.36,
+    "discount_percent": 28.94,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B004NLHO4C",
+    "image_url": "https://m.media-amazon.com/images/P/B004NLHO4C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:42",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 27.97,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "WENKO Tapis d'égouttage Nelia ...ute qualité | 34x3x40cm | Gris",
+    "price": 21.29,
+    "reference_price": 35.41,
+    "discount_percent": 39.88,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0B211VT8J",
+    "image_url": "https://m.media-amazon.com/images/P/B0B211VT8J.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:39",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 21.29,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Konix Mythics Casque Gaming Fi...se Jack 3,5 mm - Noir et Rouge",
+    "price": 19.99,
+    "reference_price": 30.49,
+    "discount_percent": 34.44,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08CH5L4GK",
+    "image_url": "https://m.media-amazon.com/images/P/B08CH5L4GK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:38",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Schnitzen Komplett-Set: Bastel-Set",
+    "price": 20.86,
+    "reference_price": 35.52,
+    "discount_percent": 41.27,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09QCS52MB",
+    "image_url": "https://m.media-amazon.com/images/P/B09QCS52MB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:35",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 20.86,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Voyager Step-in Air – Harnais ...eture Auto-agrippante, Boucle,",
+    "price": 11.57,
+    "reference_price": 32.33,
+    "discount_percent": 64.21,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09NWDHJ35",
+    "image_url": "https://m.media-amazon.com/images/P/B09NWDHJ35.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:34",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.57,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaques de Mousse EVA Colorées...uelles m-office (Vert, 40 uds)",
+    "price": 59.54,
+    "reference_price": 76.0,
+    "discount_percent": 21.66,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F32DMTYP",
+    "image_url": "https://m.media-amazon.com/images/P/B0F32DMTYP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 17:19:33",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.54,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
     "title": "KS Tools 156.0216 Chasses goup...octogonale 7mm Longueur 150 mm",
     "price": 12.69,
     "reference_price": 18.04,
@@ -878,6 +1058,433 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaques de Mousse EVA Colorées...uelles m-office (Vert, 40 uds)",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0F32DMTYP",
+    "image_url": "https://m.media-amazon.com/images/P/B0F32DMTYP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:18:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "SANTE Naturkosmetik Lip to Che...e naturel certifié NaTrue, 6 g",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DYJZN8PJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0DYJZN8PJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:17:59+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Voyager Step-in Air – Harnais ...eture Auto-agrippante, Boucle,",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09NWDHJ35",
+    "image_url": "https://m.media-amazon.com/images/P/B09NWDHJ35.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:17:20+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Classical Dance-Simply the Best",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FL63VXLD",
+    "image_url": "https://m.media-amazon.com/images/P/B0FL63VXLD.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:17:17+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "APP R STOP - Convertisseur de ...oque sa prolifération | 100 ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B004GL7ELW",
+    "image_url": "https://m.media-amazon.com/images/P/B004GL7ELW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:16:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Schnitzen Komplett-Set: Bastel-Set",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09QCS52MB",
+    "image_url": "https://m.media-amazon.com/images/P/B09QCS52MB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:16:38+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Table basse relevable marron chêne",
+    "description": "68,99€ - Amazon Table basse relevable très pratique pour les soirées télé. Prix intéressant. Peut-être pas le meilleur prix vu pour cette article, mais intéressant.",
+    "price": 68.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/table-basse-relevable-marron-chene-3431214",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/TJ0vU/3431214_1/re/1200x1200/qt/90/3431214_1.jpg",
+    "detected_at": "2026-10-12T17:15:53+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 68.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blue Print ADN13627 Cylindre d'embrayage",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00B8W5TKK",
+    "image_url": "https://m.media-amazon.com/images/P/B00B8W5TKK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:15:30+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Blue Print ADN12324 Filtre à carburant",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00B8X6BTM",
+    "image_url": "https://m.media-amazon.com/images/P/B00B8X6BTM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:15:30+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "MAM | Ma première brosse à den... – Avec bouclier de protection",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0C1CNKWWF",
+    "image_url": "https://m.media-amazon.com/images/P/B0C1CNKWWF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:15:26+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Konix Mythics Casque Gaming Fi...se Jack 3,5 mm - Noir et Rouge",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B08CH5L4GK",
+    "image_url": "https://m.media-amazon.com/images/P/B08CH5L4GK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:14:44+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "WENKO Tapis d'égouttage Nelia ...ute qualité | 34x3x40cm | Gris",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B211VT8J",
+    "image_url": "https://m.media-amazon.com/images/P/B0B211VT8J.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:14:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Veste softshell de trek coupe vent Simond MT900 beige - Du XS au XXL",
+    "description": "49,99€ - Decathlon ️ SIMOND MT900 – Veste softshell de trek femme beige Une veste technique conçue pour les randonnées et treks par temps frais et venteux. Sa construction multicouche, sa doublure polaire et ses zones renforcées offrent un bon équilibre entre chaleur, protection contre le vent et liberté de mouvement. Les points forts : ️ Protection coupe-vent : sa structure multicouche protège du vent jusqu’à 30 km/h , pour limiter la sensation de froid pendant l’effort. ️ Doublure polaire chaude : la doublure micro-grid apporte un confort thermique adapté aux activités dynamiques jusqu’à environ 10 °C . Déperlante : son traitement de surface aide l’eau à glisser sur le tissu lors de petites projections. Attention, cette veste n’est pas imperméable et n’est pas conçue pour une pluie prolongée. Laine mérinos sous les bras : une doublure spécifique composée de laine mérinos favorise le confort dans cette zone. Respirabilité : le tissu aéré dans le dos facilite l’évacuation de la vapeur d’eau produite pendant l’effort. Épaules renforcées : une construction à deux couches sur les épaules améliore la résistance aux frottements, notamment lors du port d’un sac à dos. Capuche réglable : elle permet d’adapter la protection selon les conditions météorologiques. Ajustements pratiques : serrage élastique à la taille et poignets réglables par bandes auto-agrippantes pour limiter les entrées d’air. Compacte : elle peut se replier dans sa propre capuche, pratique pour la ranger dans un sac à dos lorsque le temps se radoucit. Coupe ajustée : suffisamment proche du corps pour limiter les entrées d’air, tout en permettant de porter une couche fine en dessous. ⚖️ Poids : environ 420 g en taille M . Coloris beige lin : une teinte sobre et facile à associer avec une tenue de randonnée. Une softshell technique, chaude et coupe-vent , idéale pour les treks et randonnées par temps frais, lorsque la protection contre le vent et le confort thermique sont essentiels.",
+    "price": 49.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/veste-softshell-de-trek-coupe-vent-simond-mt900-beige-tailles-xs-au-xxl-3431212",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DXVDC/3431212_1/re/1200x1200/qt/90/3431212_1.jpg",
+    "detected_at": "2026-10-12T17:14:13+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lucky Reptile Bright Sun UV De... UVB - pour Reptiles du désert",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B004NLHO4C",
+    "image_url": "https://m.media-amazon.com/images/P/B004NLHO4C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:13:58+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Corine de Farme - Huile Bronza...ates ou Déjà Bronzées - 150 ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CZXVMJHJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0CZXVMJHJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:13:57+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Corine de Farme - Lait Protect...u - Fabriqué en France - 50 ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CZXWBWWK",
+    "image_url": "https://m.media-amazon.com/images/P/B0CZXWBWWK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:13:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Moule silicone 20 financiers",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00H8XTD78",
+    "image_url": "https://m.media-amazon.com/images/P/B00H8XTD78.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:13:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "BRILONER - IP44 lampe de table..., dimmable, 36x10,5 cm, chrome",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DLH9SD9C",
+    "image_url": "https://m.media-amazon.com/images/P/B0DLH9SD9C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:12:36+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Rotring Tikky Portemine | Mine... Léger avec prise caoutchoutée",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DWMGSTXG",
+    "image_url": "https://m.media-amazon.com/images/P/B0DWMGSTXG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:12:23+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Bosch Aerotwin eA 012 S Jeu de...ssuie-glaces - 500 mm / 360 mm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FDY29KVJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0FDY29KVJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:12:20+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "DLC Voidtrain - Big Catch gratuit sur PC, PS5 et Xbox (Dématérialisé)",
+    "description": "Steam Offre Steam. Le DLC Big Catch ne nécessite pas le jeu de base sur console pour l'ajouter à la Bibliothèque. Voidtrain - Big Catch sur PS5 Voidtrain - Big Catch sur XBOX DLC et contenus additionnels de Voidtrain - Epic Games Store Qui a dit qu’il fallait de l’eau pour pêcher ? Le Néant abrite une faune bien à lui — il ne vous reste plus qu’à prendre votre équipement, tenter votre chance et voir ce que vous réussirez à attraper. Attrapez différentes espèces de poissons et gagnez des Écailles pour chaque prise que vous ramenez. Améliorez votre canne et votre moulinet, et utilisez comme appâts des ressources que vous connaissez déjà. Les Écailles que vous gagnez peuvent être dépensées non seulement en améliorations de pêche, mais aussi en nouvelles décorations pour votre train. Big Catch ajoute un nouveau thème pour les murs et les cabines, ainsi que plusieurs nouveaux éléments d’aménagement intérieur, afin de vous offrir encore plus de possibilités pour façonner l’apparence et l’ambiance de votre train. Et une fois toutes les améliorations et récompenses débloquées, les Écailles restantes ne seront pas perdues. Dépensez-les dans des Sacs de récompenses de différents niveaux pour faire le plein de ressources supplémentaires. Vous voyagez avec des amis ? Une belle prise sera alors aussi l’occasion de vous faire remarquer. Le classement révélera qui sait vraiment manier une canne à pêche et qui en est encore à raconter comment le poisson lui a échappé.",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/dlc-voidtrain-big-catch-gratuit-sur-pc-dematerialise-3431211",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dSx0b/3431211_1/re/1200x1200/qt/90/3431211_1.jpg",
+    "detected_at": "2026-10-12T17:12:14+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "XL Perform Tool 553915 2 Feux de Gabarit Blancs",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00BIGZEVA",
+    "image_url": "https://m.media-amazon.com/images/P/B00BIGZEVA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:11:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "BIOLANE - Spray Nasal Eau de M...s 6 mois - Fabriqués en France",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BZ8H5326",
+    "image_url": "https://m.media-amazon.com/images/P/B0BZ8H5326.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T17:10:51+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Biscuits Barilla Baiocchi Nocciola - 336 g (via Prévoyez et Économisez)",
+    "description": "1,99€ - Amazon Idéal pour le petit-déjeuner, le goûter et comme collation douce pour le goûter, 6 portions de 6 biscuits",
+    "price": 1.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/biscuits-barilla-baiocchi-nocciola-336-g-via-prevoyez-et-economisez-3431207",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/q8EwM/3431207_1/re/1200x1200/qt/90/3431207_1.jpg",
+    "detected_at": "2026-10-12T17:10:26+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Disque Vinyle Louise Attaque - Best Of",
+    "description": "9,99€ - Cultura Retrouvez tous les hits de Louise Attaque dans un vinyle simple. Louise Attaque, c'est un groupe qui a su traverser les époques. Après l'immense succès de son premier album en 1997, la bande de Gaëtan Roussel a continué son chemin sur les routes de France et d'ailleurs, et a su imposer un style reconnaissable entre tous. Et c'est aujourd'hui au moins trois générations qui chantent J'temmène au vent, Ton invtation, Les nuits parisiennes, La frousse... A1 J'Temmène Au Vent 3:05 A2 Ton Invitation 2:40 A3 Les Nuits Parisiennes 2:32 A4 Tu Dis Rien (Album Version) 2:22 A5 La Plume 3:56 B1 Si L'On Marchait Jusqu'À Demain 3:45 B2 Si C'Était Hier 4:24 B3 Chaque Jour Reste Le Nôtre 3:27 B4 La Frousse 4:12 B5 Sortir De L'Ordinaire 3:28",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-louise-attaque-best-of-3431201",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FGD5p/3431201_1/re/1200x1200/qt/90/3431201_1.jpg",
+    "detected_at": "2026-10-12T17:10:11+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte Micro SD SanDisk Extreme PRO carte SDXC + RescuePRO Deluxe, jusqu'à 200 Mo/s, UHS-I, Classe 10, U3, V30 - 256 Go",
+    "description": "72,99€ - Amazon Excellent prix (y) :) À propos de cet article Gagnez du temps avec des vitesses de déchargement de carte allant jusqu'à 200 Mo/s, optimisées par la technologie SanDisk QuickFlow (64 Go - 1To) Combinez la carte SanDisk Professional PRO-READER SD et la carte microSD afin d'atteindre des vitesses maximales (cartes vendues séparément) (64 Go - 1To) Vitesses de capture allant jusqu'à 140 Mo/s (256 Go-1To) Parfaite pour la réalisation de vidéos UHD 4K et une photographie en mode rafale séquentielle Enregistrez des vidéos ininterrompues avec une Classe de vitesse UHS 3 (U3) et une Classe de vitesse vidéo 30 (V30) Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à l'eau, aux chocs et aux rayons X",
+    "price": 72.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sandisk-64-go-extreme-pro-carte-sdxc-rescuepro-deluxe-jusqua-200-mos-uhs-i-classe-10-u3-v30-amazonfr-informatique-3431200",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ngeMw/3431200_1/re/1200x1200/qt/90/3431200_1.jpg",
+    "detected_at": "2026-10-12T17:09:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 72.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paire de leviers de freins v-brake pour vélos de ville Elops",
+    "description": "9,99€ - Decathlon ELOPS – Paire de leviers de freins V-Brake pour vélo de ville Remettez votre vélo en état avec cette paire de leviers de frein ELOPS en aluminium, conçue pour retrouver un freinage efficace et agréable au quotidien. Une pièce de remplacement pratique pour l’entretien et la réparation de votre vélo de ville. Les points forts : Freinage efficace : permet de commander les freins V-Brake et de retrouver un bon contrôle du freinage. Construction en aluminium : des leviers solides, adaptés à une utilisation régulière. Réglage de la tension : permet d’ajuster le levier pour obtenir une sensation de freinage adaptée. Compatibilité ELOPS : conçus notamment pour les vélos de ville ELOPS 100, 120, 520 et 540 , équipés de freins V-Brake. ️ Prise en main pratique : leviers d’environ 11,3 cm de longueur , pour une commande confortable. Montage sur guidon de 22,2 mm : diamètre compatible avec le standard indiqué pour ce modèle. ⚖️ Poids : environ 186 g la paire . ♻️ Réparation plutôt que remplacement : une solution pour prolonger la durée de vie de votre vélo en remplaçant ses leviers usés ou endommagés. Une paire de leviers de frein robuste et fonctionnelle , idéale pour l’entretien d’un vélo de ville équipé de freins V-Brake. Pensez à vérifier la compatibilité avec votre vélo et à contrôler le bon fonctionnement du freinage après montage.",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/paire-de-leviers-de-freins-v-brake-pour-velos-de-ville-elops-3431206",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yHdF6/3431206_1/re/1200x1200/qt/90/3431206_1.jpg",
+    "detected_at": "2026-10-12T17:09:47+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vélo gravel Lapierre Crosshill CF 6.0 - Carbone, Shimano GRX 2×12v, roues DT Swiss G 1800, du XS au XXL",
+    "description": "1 699€ - Statera Bikes Retour en stock du Lapierre Crosshill CF 6.0 chez Statera Bikes, en coloris Strong Ruby Red. Un gravel avec cadre et fourche carbone, transmission Shimano GRX 2×12 vitesses et roues DT Swiss G 1800 Spline, pour les sorties mêlant route et chemins. Prix et livraison • Vélo : 1 699 €, sans code promo. • Livraison en France : 79 € selon le barème du marchand, soit 1 778 € au total sur la base du prix affiché. • Tailles XS, S, M, L, XL et XXL vérifiées comme commandables le 12 octobre. Stock limité sur certaines tailles, notamment S (1 exemplaire annoncé au moment de la vérification). • La fiche annonce une disponibilité immédiate et une livraison sous 8 à 10 jours ouvrables. Équipement annoncé par le vendeur • Cadre carbone et fourche tout carbone avec fixation de frein Flatmount. • Transmission mécanique Shimano GRX : dérailleurs RD-RX820 Shadow+ et FD-RX820, manettes ST-RX820. • Pédalier GRX FC-RX820-2, plateaux 48/31 dents ; cassette Shimano HG710 11–36 dents, 12 vitesses. • Freins à disque hydrauliques Shimano GRX BR-RX820, disques de 160 mm. • Roues DT Swiss G 1800 Spline, profil de 24 mm, format 700C. • Pneus Continental Terra Trail ShieldWall 45-622 (700×45). • Selle Prologo Akero R PAS Steel 150 et tige de selle XLC de 27,2 mm. À prévoir à réception Les pédales ne sont pas fournies. Le vélo n'arrive pas entièrement assemblé : le marchand indique qu'il faut redresser le guidon, installer les pédales et poser la guidoline. Le poids n'est pas renseigné sur la fiche actuelle. Le marchand affiche un prix conseillé de 3 199 € ; il s'agit d'un prix conseillé, pas d'un prix de marché vérifié.",
+    "price": 1699.0,
+    "reference_price": 3199.0,
+    "discount_percent": 46.9,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/velo-gravel-lapierre-crosshill-cf-60-carbone-shimano-grx-212v-roues-dt-swiss-g-1800-du-xs-au-xxl-3431203",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/hn1FA/3431203_1/re/1200x1200/qt/90/3431203_1.jpg",
+    "detected_at": "2026-10-12T17:08:00+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1699.0,
+        "observed_at": "2026-10-12T17:20:04.153224+00:00"
       }
     ]
   },
@@ -9209,533 +9816,6 @@
       {
         "price": 299.99,
         "observed_at": "2026-10-12T12:59:39.199084+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baby foot Mannoni Copa",
-    "description": "299,99€ - Carrefour Baby foot Copa MANNONI Le baby-foot Mannoni Copa est idéal pour partager des moments de convivialité en famille ou entre amis. Inspiré des tables de jeu traditionnelles, il permet de retrouver le plaisir du baby-foot à domicile et de s'amuser autour de parties dynamiques et divertissantes. Adapté aux amateurs de jeux de société et aux passionnés de football, il promet de beaux moments de compétition et de bonne humeur. Un équipement parfait pour animer les loisirs à la maison. Description Caisse en bois, cages chromées, balles en liège, sortie de balles latérale. Poignées personnalisés Mannoni. Livré avec 2 balles en liège. Dimensions: 155 x 110 x 90 cm. A partir de 6 ans. Poids brut: 49,7kgs. Poids net: 45kg En résumé construction solide poignées personnalisées Mannoni sortie de balles latérale pour un jeu fluide.",
-    "price": 299.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baby-foot-mannoni-copa-3430749",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:41:57+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 299.99,
-        "observed_at": "2026-10-12T12:59:39.199091+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Set de 3 poêles en inox Triply Sauter Multinox 20/24/28 cm (Tous feux dont induction & four)",
-    "description": "69€ - E.Leclerc Set de 3 poêles en inox multicouche Triply (collection Multinox de chez Sauter) comprenant les trois diamètres indispensables : 20 cm, 24 cm et 28 cm. Compatible tous feux dont induction et utilisable au four. Conception multicouche 3-ply : La structure associe un intérieur en acier inoxydable, une couche centrale en aluminium conducteur pour une montée en température rapide et une diffusion homogène sans point chaud, et une base extérieure en acier inoxydable garantissant une réactivité optimale sur l'induction. Points forts et caractéristiques : • Composition du set : 3 poêles aux dimensions 20 cm, 24 cm et 28 cm (poids total 2,8 kg). • Cuisson saine : revêtement céramique anti-adhésif garanti sans PFOA ni PFAS pour cuisiner avec un minimum de matière grasse sans accrocher. • Poignées ergonomiques en acier inoxydable rivetées et athermiques, adaptées pour passer directement de la plaque de cuisson au four. • Rebords verseurs élargis anti-gouttes facilitant le service des sauces et sucs. • Entretien : compatible avec un lavage au lave-vaisselle. • Vendu directement par E.Leclerc (exclu web) avec retrait offert en magasin.",
-    "price": 69.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/set-de-3-poeles-en-inox-triply-sauter-multinox-202428-cm-tous-feux-dont-induction-four-3430748",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:40:03+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 69.0,
-        "observed_at": "2026-10-12T12:59:39.199099+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ecouteurs sans fil Baseus Open-Ear Inspire XC1 - Sound by Bose, Bluetooth, Blanc (Coloris Noir à 98,99€)",
-    "description": "97,49€ - Amazon À propos de cet article Sound by Bose : Probablement parmi les écouteurs ouverts les plus remarquables jamais expérimentés, avec Sound by Bose pour un son premium signature. À travers des centaines de tests acoustiques, les célèbres ingénieurs audio de Bose ont affiné les performances sonores pour garantir une profondeur et une clarté incroyables de chaque détail pour chaque note. Avec en plus, Dolby Spatial Audio pour une écoute immersive à 360°. Hi-Res Wireless et LDAC pour des détails riches en clarté. Moteur sonore hybride à 2 voies : Le traitement numérique et les filtres actifs combinent un woofer dynamique pour des basses percutantes et un tweeter à armature équilibrée Knowles exclusif pour des aigus éclatants. Accordés avec les technologies adaptatives SuperBass 3.0 et SuperBalance 3.0 de Baseus, ces écouteurs ouverts offrent un son haute-fidélité à spectre complet, exactement comme l'artiste l'a conçu. Coussins d'air Zero-Sense : Conçus pour être portés toute la journée, ces écouteurs à clip offrent un ajustement incurvé et adaptatif, avec des coussins d'air Zero-Sense, des joints souples annulaires (testés jusqu'à 10 000 flexions) et du silicone liquide doux non irritant. Légers et respirants idéaux pour la course, les entraînements ou l'usage quotidien, sans fatigue ni inconfort pour les oreilles. Appels clairs avec IA à 4 microphones : Profitez d'appels fluides d'une clarté cristalline en déplacement. Un ensemble de 4 microphones avec captation vocale par IA et réduction du bruit du vent vous permet d'être clairement entendu, même dans la circulation, la foule ou en pédalant à des vitesses allant jusqu'à 5 m/s. Longue durée de vie de la batterie : Bénéficiez de jusqu'à 8 heures par charge, et 40 heures avec l'étui. Une charge rapide de 10 minutes offre 2,5 heures d'autonomie vos écouteurs ouverts Bluetooth restent opérationnels du matin au soir. Étanchéité IP66 : Conçus pour résister à la pluie, à la transpiration, à la poussière et aux éclaboussures. Ces écouteurs à clip sont certifiés IP66, ce qui les rend idéaux pour les entraînements, les sports de plein air ou l'utilisation quotidienne — quelle que soit la météo.",
-    "price": 97.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casque-open-ear-baseus-inspire-xc1-sound-by-bose-bluetooth-3430745",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:36:23+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 97.49,
-        "observed_at": "2026-10-12T12:59:39.199108+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Écran PC 15,6\" Full HD Raspberry Pi Monitor (1920x1080), 2 haut-parleurs intégrés (2 x 1,2 W), 1 HDMI, 1 Jack (lextronic.fr)",
-    "description": "27,80€ L'Ecran moniteur HDMI 15,6 pouces Raspberry Pi Monitor est un écran Full HD conçu pour le Raspberry Pi et autres ordinateurs. *spécifications du produit:* - Écran Full HD (1920 x 1080) - Taille de 15,6 pouces - 2 haut-parleurs intégrés (2 x 1,2 W) - 1 entrée HDMI - 1 sortie Jack",
-    "price": 27.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecran-15-pouces-1920x1080-externe-pour-raspberry-pi-ou-autre-3430747",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:35:10+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 27.8,
-        "observed_at": "2026-10-12T12:59:39.199113+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Clients Sosh] Smartphone 6,83\" Xiaomi Redmi Note 17 Pro - RAM 8 Go, 256 Go (Via 70€ d'ODR & 50€ de Bonus Reprise)",
-    "description": "229€ - Sosh Excellent prix avec le code promo RN17BONPLAN50 50€ de réduction supplémentaire ! Attention non valable en click & collect Descriptif de l'offre : Exclu web : Jusqu'au 28/10/2026 , bénéficiez d'un code promo supplémentaire de 50€ avec le code RN17BONPLAN50 pour tout achat d'un Xiaomi REDMI Note 17 Pro avec un forfait Sosh mobile our pour nos déjà clients Sosh mobile. Non valable en Click&Collect. Bénéficiez de la montre Xiaomi REDMI Watch Active 6 à 19€ au lieu de 50€ et de 3 mois d'assurance remboursés jusqu'au 18/11/2026. Et jusqu'au 3 janvier 2027, bénéficiez de jusqu'à 70€ de remboursement et la chance de gagner un voyage à NEW YORK . Vous voulez faire une reprise ? 50 € de bonus reprise pour ce téléphone ! 1. Estimez la valeur de votre ancien mobile. 2. Achetez votre nouveau mobile en ligne, en Click & Collect ou en boutique Orange : Vérifiez ci-dessous les conditions d'éligibilité de la reprise et du bonus. En ligne Après l’achat, demandez la reprise de votre ancien mobile gratuitement (sur la page confirmation de commande ou via l’email de reprise) pour recevoir votre virement. Si la valeur de reprise est inférieure à 10 €, choisissez le Click & Collect pour profiter du bonus reprise. En boutique ou en Click & Collect La reprise est disponible pour tous les mobiles d’au moins 1 € (ou 0 € si un bonus s’applique). Pour profiter d’un bonus pour l’achat d’un iPhone neuf ou d’un Samsung neuf, votre ancien mobile doit avoir une valeur minimale de 10 € pour un iPhone et 1 € pour un Samsung. Quel que soit le modèle que vous achetez, pensez à vérifier son éligibilité au bonus sur cette page . Les clients Sosh qui renouvellent leur téléphone peuvent profiter d'un bonus reprise en Click & Collect. Bon à savoir : On vous confirmera le montant définitif de la reprise : il peut évoluer chaque jour.",
-    "price": 19.0,
-    "reference_price": 50.0,
-    "discount_percent": 62.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/smartphone-683-xiaomi-redmi-note-17-pro-ram-8-go-256-go-via-70eur-dodr-50eur-de-bonus-reprise-3430746",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:34:34+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.0,
-        "observed_at": "2026-10-12T12:59:39.199120+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Cocotte ovale en fonte d'acier Sauter 30 cm - Vert mat (Tous feux dont induction)",
-    "description": "39,99€ - E.Leclerc Cocotte ovale en fonte d'acier de 30 cm de la marque Sauter (coloris vert mat), compatible tous feux dont induction et four. Idéale pour les plats mijotés, rôtis et cuissons lentes grâce à l'excellente inertie thermique de la fonte qui assure une montée en température progressive et une diffusion homogène sans brûler les aliments. Caractéristiques techniques : • Format et dimensions : forme ovale 30 cm (dimensions 30 x 22 x 11,5 cm), particulièrement adaptée pour les volailles, rôtis et grosses pièces de viande. • Matériau : fonte d'acier robuste et durable assurant une forte rétention de chaleur. • Couvercle à condensation : conçu pour répartir la buée de façon homogène sur les préparations avec les sucs de cuisson afin de conserver des viandes tendres. Bouton en inox résistant aux hautes températures. • Prise en main : poignées latérales massives intégrées dans la masse pour sécuriser le transport de la cuisine à la table. • Compatibilité : tous feux dont induction, four et nettoyage possible au lave-vaisselle. • Poids : 5,4 kg (gage de densité et de qualité de fonte). Offre exclu web vendue directement par E.Leclerc avec retrait magasin gratuit.",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cocotte-ovale-en-fonte-dacier-sauter-30-cm-vert-mat-tous-feux-dont-induction-3430744",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:31:36+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-12T12:59:39.199128+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Filtre Réservoir d'Eau Aqua Gusto 250 CU - pour Machines à Café (Vendeur Tiers)",
-    "description": "16,58€ - Amazon Numéro de modèle AQUAGUSTO 250 Avantages Inhibition de la croissance de calcaire Marque BRITA Année de fabrication 2007 Nombre d’emballages 1 Nom de l'ensemble Filtre Unique Unité de comptage 1.0 unité Nombre d' articles 1",
-    "price": 16.58,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/aqua-gusto-250-cu-filtre-reservoir-deau-pour-machines-a-cafe-3430743",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:31:13+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 16.58,
-        "observed_at": "2026-10-12T12:59:39.199136+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chargeur Ugreen Nexode 65W - 3 Ports USB C, GaN Tech, PD 3.0, PSS, QC 4+/ 4.0/ 3.0, FCP (Vendeur Tiers)",
-    "description": "23,99€ - Amazon [ Performance Éblouissante ] Grâce à la puce GaNInfinity de nouvelle génération, profitez d'une puissance maximale de 65W sur chaque port USB-C. Chargez votre MacBook Air M2 à 51 % ou votre iPhone 15 Pro à 60 % en seulement 30 minutes (avec un unique port). [ Design Compact ] Avec des dimensions de 40*31.2*61mm, ce chargeur rapide USB-C est 51% plus petit que le modèle d'origine. Emportez-le partout et chargez jusqu'à trois appareils simultanément, tout en gardant votre bureau bien rangé et efficace. [ Sécurité Avancée ] La technologie ThermalGuard surveille la température en temps réel, tandis que le boîtier ignifuge et les protections contre les surcharges, surtensions et courts-circuits assurent une utilisation en toute sécurité. [ Charge Intelligente ] Compatible avec plusieurs protocoles (PD 3.0, Galaxy PPS 45W/ 25W, QC 4+/ 4.0/ 3.0, FCP), ce chargeur triple USB-C ajuste automatiquement le courant pour chaque appareil. Une solution intelligente pour tous vos besoins de charge rapide. [ Compatibilité Universelle ] Cette prise secteur USB-C est compatible avec iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max/ 16/ 16e/ 16 Plus/ 16 Pro/ 16Pro Max/ 15/ 14/ 13/ 12/ 11, Galaxy S26/ S26+/ S26 Ultra/ S25/ S24/ S23/ S22/ S21, Galaxy A57/ A56/ A76/ A55/ A75/ A54/ A74/ A16/ A15, Pixel 10/ 9/ 8/ 7/ 6, MacBook Neo/ Air/ Pro M5 M4 M3 M2 M1, iPad Pro/ Air/ mini, Galaxy Tab/ Z Fold/ Z Flip, Steam Deck, etc. (Petit conseil : il supporte Galaxy 45W)",
-    "price": 23.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chargeur-ugreen-nexode-65w-3-ports-usb-c-gan-tech-pd-30-pss-qc-4-40-30-fcp-vendeur-tiers-3430740",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:30:11+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 23.99,
-        "observed_at": "2026-10-12T12:59:39.199143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "klaxon HELLA TE26 SET pour Toyota",
-    "description": "21,49€ - Amazon Le klaxon des Toyota est, je trouve, très peu puissant. J'ai testé personnellement depuis 6 mois ce klaxon et j'en suis très content; Corne en plastique avec joint en téflon en option pour protéger contre l'humidité. Un signal sonore fort pour plus de sécurité routière. Large choix de sons grâce à l'installation de divers klaxons à haute et basse fréquence. Son harmonieux et large rayonnement sonore. Connecteurs spécifiques aux fabricants. Veuillez vous assurer de la bonne version du connecteur et que les composants sont adaptés au véhicule. Champs de température de: -40°C - Champ de température jusqu'à: 90°C - Puissance absorbée: 72W D1: 86mm",
-    "price": 21.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/klaxon-hella-te26-set-pour-toyota-3430742",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:29:07+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 21.49,
-        "observed_at": "2026-10-12T12:59:39.199149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lego Ideas 21367 La fusée de Tintin",
-    "description": "113,04€ - Carrefour Plongez dans vos souvenirs en construisant la maquette LEGO Ideas La fusée de Tintin (21367) pour adulte. Recréez son damier rouge et blanc découvert dans Objectif Lune et On a marché sur la Lune. Exposez-la avec Milou et 5 minifigurines en scaphandre lunaire avec casque et bouteille d'oxygène (Tintin et le Capitaine Haddock portent également un équipement radio). Retirez un panneau dans la partie supérieure de la fusée LEGO pour révéler une salle de contrôle détaillée. Placez-y un personnage pour recréer la scène magique de On a marché sur la Lune, où Tintin et ses compagnons découvrent pour la première fois la Terre depuis l'espace. Superbe cadeau pour adultes créatifs et amateurs.trices de BD, cette décoration fascinante offre aux constructeurs.trices novices ou expert.e.s une activité manuelle passionnante. L'application LEGO Builder propose une expérience de construction enrichie avec visualisation en 3D, suivi de la progression et instructions numériques étape par étape. DIMENSIONS - La maquette de fusée de ce set mesure plus de 49 cm de haut, 20 cm de long et 23 cm de large. Le kit contient 1 283 pièces.",
-    "price": 113.04,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-ideas-21367-la-fusee-de-tintin-3430741",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:28:43+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 113.04,
-        "observed_at": "2026-10-12T12:59:39.199154+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie de Cuisine Triply Sauter Multinox Pro - 9 Pièces, en Inox, 3 Poêles, Faitout, Sauteuse, Casserole & Couvercles",
-    "description": "99,99€ - E.Leclerc Batterie de cuisine 9 pièces en inox multicouche Triply (collection Multinox Pro de chez Sauter), compatible tous feux dont induction. La technologie Triply associe trois couches thermo-diffusantes (acier inoxydable 18/8 intérieur, cœur en aluminium haute conductivité et fond inox induction extérieur) garantissant une montée en température rapide et une répartition parfaitement homogène de la chaleur sans point chaud. Composition du set 9 pièces : • 3 poêles en inox (20 cm, 24 cm et 28 cm) avec revêtement céramique anti-adhésif structuré en nid d'abeille anti-rayures (sans PFOA/PFAS). • 1 faitout 22 cm avec couvercle en verre transparent et poignées inox athermiques. • 1 sauteuse 24 cm avec couvercle en verre transparent. • 1 casserole 16 cm avec son couvercle en verre transparent. Points forts : • Structure inox 3 couches (Triply) pour une cuisson saine et durable. • Revêtement nid d'abeille sur les poêles permettant l'usage d'ustensiles sans rayer le fond anti-adhésif. • Poignées ergonomiques en acier inoxydable rivetées et résistantes à la chaleur. • Bords verseurs anti-gouttes sur les récipients pour un service propre. • Compatible tous feux dont induction et passe au lave-vaisselle.",
-    "price": 99.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-de-cuisine-9-pieces-en-inox-triply-sauter-multinox-pro-3-poeles-faitout-sauteuse-casserole-couvercles-3430739",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:20:39+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 99.99,
-        "observed_at": "2026-10-12T12:59:39.199161+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie Externe Ugreen Nexode 55W - 20000mAh, Compatible Charge Rapide (Vendeur Tiers)",
-    "description": "30,85€ - Amazon [ Xiaomi 55W & PD 45W ] Cette batterie externe 20000mAh 55W intègre un câble USB C de 17.8cm et un port USB C compatibles avec Xiaomi 55W, PD 45W et Galaxy 45W. Elle recharge Xiaomi 17 Pro jusqu'à 58%, iPhone 17 Pro Max jusqu'à 66% et Galaxy S26 Ultra jusqu'à 71% en 30 min. Avec un chargeur 45W+ (non inclus), elle se recharge en 4 h, et peut alimenter un PC portable. [ 20000mAh Haute Capacité ] Cette batterie externe charge rapide de 20000mAh permet de recharger, selon l’appareil, environ 3.6 fois iPhone 17 Pro, 3.1 fois Galaxy S26 Ultra, 2.6 fois Xiaomi 17 Pro ou 2.8 fois iPad mini 7. Format 15.2 × 7.1 × 3.0cm, 470g, avec câble USB C intégré faisant office de poignée, adapté aux voyages en avion. Pour activer la batterie, effectuez 2 à 3 cycles complets (0% → 100% → 0%). Pour un stockage prolongé, rechargez-la tous les 3 mois. [ 3 EN 1 Charge Simultanée ] Cette batterie externe portable dispose de 3 ports : câble USB C1 intégré, port USB C2 et port USB A3. C1/C2 jusqu'à 55W chacun en utilisation individuelle, A3 jusqu'à 22.5W. En charge simultanée, la puissance totale est de 15W pour 2 ou 3 ports. Elle prend en charge la charge et la décharge simultanées. [ 3C & CE Certifiés ] Ce power bank USB C combine des matériaux ignifuges UL94 V-0 et le système ThermalGuard. Il intègre des protections contre les surtensions, surintensités, surcharges, surchauffes et courts-circuits. Son écran LED affiche le niveau de batterie en temps réel. Certifié 3C et CE. [ Large Compatibilité ] Ce chargeur externe portable prend en charge les protocoles Xiaomi 55W, PD 45W, Galaxy 45W, QC4.0, SCP et UFCS. Compatible avec séries Xiaomi POCO M8/M7/M6, Redmi Note 15/14/13/12, iPhone 18 Pro/18 Pro Max, iPhone 17/16/15/14/13, Galaxy S26/S25/S24/A56/A16, Pixel 10/9/8, MacBook Pro/Air/Neo, iPad Pro/Air/Mini et Galaxy Tab S11/S10. Maintenez le bouton 3 s pour activer le mode à faible courant, compatible avec AirPods, iWatch et autres petits appareils.",
-    "price": 30.85,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-externe-ugreen-nexode-55w-20000mah-compatible-charge-rapide-3430734",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:18:28+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 30.85,
-        "observed_at": "2026-10-12T12:59:39.199167+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Caméras Blink Outdoor 4 - avec Caméra Blink Mini 2K+ Blanc & Module de Synchronisation de Base",
-    "description": "47,99€ - Amazon À propos de cet article PACK DE SÉCURITÉ CONNECTÉE COMPLET POUR L'INTÉRIEUR ET L'EXTÉRIEUR – Procurez-vous la caméra extérieure 4 Blink sans fil et la Blink Mini 2K+ sur secteur. Gardez un œil sur tout, à l'intérieur comme autour de votre domicile, depuis l'application Blink. CAMÉRA INTÉRIEURE BLINK MINI 2K+ OFFERTE – Le pack comprend une Blink Mini 2K+ sans frais supplémentaires. Profitez d'une résolution vidéo 2K avec zoom x4 et vision nocturne couleur, pour tout garder à l'œil à tout moment. JUSQU'À DEUX ANS D'AUTONOMIE À L'EXTÉRIEUR – La caméra extérieure 4 fonctionne jusqu'à deux ans avec les piles AA au lithium incluses, sans aucun câblage. La Mini 2K+ se branche simplement sur une prise secteur pour une surveillance intérieure en continu. VOIR, ENTENDRE ET PARLER OÙ QUE VOUS SOYEZ – Profitez de la vidéo en direct, de la vision nocturne infrarouge et d'un système audio bidirectionnel d'une clarté exceptionnelle sur les deux appareils. La Mini 2K+ offre en plus une suppression du bruit pour des conversations encore plus claires à l'intérieur. DÉTECTION DE MOUVEMENTS AMÉLIORÉE ET ALERTES INTELLIGENTES – La caméra Outdoor 4 est dotée d'une détection de mouvements double zone améliorée. Avec un abonnement Blink vendu séparément, recevez des notifications optimisées par l'IA lorsqu'une personne ou un véhicule est détecté par l'une des deux caméras. UTILISEZ LA CAMÉRA COMME CARILLON DE PORTE – Associez la Mini 2K+ à une sonnette vidéo Blink (vendue séparément) et utilisez-la comme carillon prêt à brancher. Vous recevez ainsi une notification en temps réel chez vous dès que quelqu'un se présente à la porte. ENREGISTREZ ET PARTAGEZ VOS CLIPS – Pendant la période d'essai de 30 jours de l'abonnement Blink, vous pouvez stocker vos événements en toute sécurité dans le cloud. Vous pouvez enregistrer un nombre illimité de séquences pendant une durée maximale de 30 jours. Module de synchronisation de base inclus.",
-    "price": 47.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cameras-blink-outdoor-4-avec-blink-camera-mini-2k-blanc-module-de-synchronisation-de-base-inclus-3430738",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:17:44+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 47.99,
-        "observed_at": "2026-10-12T12:59:39.199175+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Book Nook DIY Puzzle 3D à construire Mojino - thème Monde Magique, en bois, avec Lampes LED (Vendeur tiers)",
-    "description": "27,52€ - Amazon Prix sympa pour ce DIY book nook en bois sur le thème de la magie <3 > Expédié par Amazon Description & caractéristiques 【Designs exquis】 Notre coin livre est conçu avec des éléments anciens et mystérieux pour créer un espace de rêve. Deux étages, des accessoires exquis et réalistes et un éclairage doux créent une scène mystérieuse et magnifique, vous faisant sentir instantanément immersif ! 【Puzzle en bois 3D】 Chacune de nos pièces est découpée avec précision dans du bois et est livrée avec des instructions d'assemblage détaillées étape par étape, afin que même les débutants puissent créer leurs propres modèles miniatures ! Vous invite à commencer le voyage d'assemblage et d'imagination et à ressentir l'existence de la beauté. 【Profitez du temps artistique】 notre livre vous donnera le plaisir de l'art pendant votre temps libre. En train de créer une micro-maison, elle détendra votre corps et votre esprit, vous permettant de vous immerger dans l'expérience du coin livre. Faites-le en famille et entre amis, vivez le plaisir de créer le monde ensemble et passez un moment intéressant ! 【Cadeaux créatifs】 En construisant un monde miniature étape par étape, vous dominez votre propre monde！ Le coin livre n'est pas seulement un excellent moyen d'exercer vos mains et votre imagination, mais il peut également être utilisé comme objet de collection ou objet de décoration. quand ce sera fini. Un cadeau unique pour les amateurs d'art, adolescents ou adultes. Chaque kit de coin de livre DIY est soigneusement inspecté avant l'expédition pour garantir que les accessoires sont complets et en bon état. Si vous rencontrez des problèmes de montage, nous vous fournirons une solution dans les 24 heures. Veuillez noter qu'en raison des restrictions de transport aérien, vous devrez fournir votre propre colle liquide silicone et 2 piles AA. Dimensions : 26,5L x 19,5l x 6,1H cm",
-    "price": 27.52,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/book-nook-diy-puzzle-3d-a-construire-mojino-theme-monde-magique-en-bois-avec-lampes-led-vendeur-tiers-3430737",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:15:53+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 27.52,
-        "observed_at": "2026-10-12T12:59:39.199182+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Speed Champions Hypercar Bugatti Vision GT 77253",
-    "description": "16,99€ - Amazon • VOITURE JOUET BUGATTI BLEUE – Voiture de sport pour garçons, filles & gamers dès 9 ans LEGO Speed Champions Hypercar Bugatti Vision GT à construire et à exposer • DÉTAILS AUTHENTIQUES – Inclut les détails de la voiture créée par Bugatti pour le jeu vidéo Gran Turismo en 2015, dont la calandre en fer à cheval, l’aileron arrière et les phares à 8 LED • 1 MINIFIGURINE LEGO DE PILOTE – Ce jouet voiture de course inclut une minifigurine de pilote portant une combinaison et un casque Bugatti avec des cheveux, ainsi qu’une clé permettant aussi d’appliquer les autocollants et de séparer les briques • DÉCORATION DE CHAMBRE POUR ENFANT – Garçons et filles peuvent exposer fièrement ce jeu de construction LEGO collector dans leur chambre, sur une étagère ou une table de chevet • CADEAU POUR GAMER OU FAN DE VOITURES – Cette maquette de Bugatti offre une expérience de construction et de jeu amusante et constitue un superbe cadeau gaming pour un garçon, une fille dès 9 ans ou un fan adulte de Gran Turismo • VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de véhicules à construire des répliques des plus grandes légendes automobiles",
-    "price": 16.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-hypercar-bugatti-vision-gt-77253-3430736",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:15:52+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 16.99,
-        "observed_at": "2026-10-12T12:59:39.199191+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Peluche sonore Mattel Disney Pixar Toy Story Lotso",
-    "description": "19,63€ - Amazon Peluche sonore officielle Disney Pixar représentant le célèbre ours Lotso issu de Toy Story, conçue par Mattel (référence JDG82). D'une hauteur d'environ 35 cm (13,75 pouces), cette peluche interactive reproduit des sons authentiques (fredonnements, rires et bruits caractéristiques) tirés de l'univers du film pour donner vie au personnage. Caractéristiques principales : • Effets sonores intégrés : fredonnements et rires fidèles au personnage lorsqu'on interagit avec lui. • Matière douce et confortable : finitions soignées en tissu peluche agréable au toucher, adaptée aussi bien au jeu qu'au doudou ou à la collection. • Dimensions : environ 35 cm de haut. • Recommandation : adapté aux enfants à partir de 3 ans. • Fabricant : Mattel / Licence officielle Disney Pixar. Une belle idée de cadeau pour les amateurs de l'univers Toy Story et les collectionneurs de produits dérivés Disney. À propos de ce produit Revivez l’aventure Toy Story de Disney · Pixar avec cette peluche Lotso qui fredonne. Les fans ne pourront jamais l’abandonner ! Appuyez sur le ventre de Lotso pour l’entendre fredonner, rire et émettre des sons amusants au rythme de son 'Dou de dou, de douu dou dou dou !' Lotso est confectionné avec des yeux et une bouche brodés et des matériaux doux et réconfortants. Vous ne trouverez pas de peluche plus douce ; que ce soit pour les histoires, les moments de jeu, la sieste ou simplement des câlins, elle vous accompagnera partout ! Mesurant 34,9 cm de haut et 25,4 cm de large, cet ours en peluche magenta fidèle au film sera immédiatement reconnu par tous les fans de Toy Story à travers le monde. Cette peluche Lotso avec effets sonores convient aux fans de Toy Story à partir de 3 ans. Commentaires client",
-    "price": 19.63,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/peluche-sonore-mattel-disney-pixar-toy-story-lotso-3430733",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:11:45+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.63,
-        "observed_at": "2026-10-12T12:59:39.199196+00:00"
-      }
-    ]
-  },
-  {
-    "title": "25% cagnottés sur une sélection de pâte à modeler Play-Doh - Ex : Coffret Play-Doh Tourbillon de smoothies (via 2,25€ en crédit fidélité)",
-    "description": "6,74€ - E.Leclerc Offre sympa si vous voulez compléter le stock de pâte à modeler des bambins, jusqu'au 25 octobre inclus : 25% en crédit fidélité sur une sélection Play-Doh > Livraison offerte en magasin, offre disponible en magasin selon les stocks Description du produit en exemple : COFFRET AVEC MIXEUR : Les enfants qui aiment les jouets de cuisine adoreront jouer avec leur propre mixeur ! Ils peuvent entre autres mouler des fruits et des légumes factices, puis les comprimer dans le mixeur pour les « verser » dans les verres DES ALIMENTS FACTICES À CRÉER : On peut utiliser les demi-moules et les outils pour créer des fruits factices, des glaçons imaginaires et d\\'autres ingrédients rigolos pour smoothies TOUCHE FINALE ET DÉCORATIONS : Les enfants peuvent utiliser le piston pour créer une crème Chantilly fantastique, ou encore mouler des fruits et légumes factices pour décorer leurs créations JEU IMAGINATIF : Ce coffret de cuisine inclut 2 verres que les enfants peuvent utiliser pour servir et partager leurs smoothies factices Contenu : Inclut mixeur jouet avec piston, extrudeur, cuillère, moule à glaçons, 2 verres et 5 pots de pâte à modeler Play-Doh (poids net 198 g). Reference : 5010996216557",
-    "price": 6.74,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/25-cagnottes-sur-une-selection-de-pate-a-modeler-play-doh-ex-coffret-play-doh-tourbillon-de-smoothies-via-225eur-en-credit-fidelite-3430731",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:08:10+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 6.74,
-        "observed_at": "2026-10-12T12:59:39.199202+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pack de 4 Yaourts Danette Edition spéciale Harry Potter saveur choco-citrouille (0,38€ via Carte fidélité)",
-    "description": "1,51€ - Carrefour En cette période proche d'Halloween petite promo sur la Danette saveur choco-citrouille. Promo présente dans le catalogue \"au coeur du goût\" valable du mardi 13 au lundi 26 octobre 2026.",
-    "price": 1.51,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/danette-edition-speciale-harry-potter-saveur-choco-citrouille-3430730",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:07:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1.51,
-        "observed_at": "2026-10-12T12:59:39.199207+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lave Linge Frontal Elsay - Hublot 10 Kg, Blanc (Via 66€ sur la Carte de Fidélité)",
-    "description": "263,90€ - E.Leclerc Retrait gratuit en magasin, sinon Livré au pied de l'immeuble à partir de 39,90€ Livré sur RDV, dans la pièce de votre choix à partir de 49,90€ ----- Lave-linge frontal pose libre blanc Capacité 10kg Moteur numérique Vitesse d'essorage : 1400 trs/min 16 programmes Volume du tambour : 62L niveau sonore : 60dBc classe énergétique A-30%",
-    "price": 263.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lave-linge-frontal-10kg-elsay-3430729",
-    "image_url": "",
-    "detected_at": "2026-10-12T06:07:25+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 263.9,
-        "observed_at": "2026-10-12T12:59:39.199213+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vol avec escale Aller/Retour Paris (CDG) Malé (MLE) Maldives, Du 23 Février au 12 Mars (Bagage à Main)",
-    "description": "574€ - Flight Network",
-    "price": 574.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vol-allerretour-paris-cdg-male-maldives-du-23-fevrier-au-12-mars-bagage-soute-23kg-inclus-3430710",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:53:13+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 574.0,
-        "observed_at": "2026-10-12T12:59:39.199219+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pull col rond finition roulottée vert kaki ou blanc - Tailles S ou XL",
-    "description": "14,40€ - Jules Craquez pour ce pull col rond finition roulottée, un basique revisité avec une attention particulière aux détails. Un essentiel à avoir dans votre garde-robe ! Coupe regular : une coupe intemporelle, ni trop ajustée, ni trop large Col rond roulotté Finitions côtelées en bas de corps et bas de manches Jersey 100% coton issu de l'agriculture régénérative : il imite les cycles naturellement présents dans la nature. L'agriculture régénérative aide à accroître la biodiversité, enrichir les sols et atténuer le réchauffement climatique Ce pull se marie parfaitement avec un jean pour un look casual. Il peut également être porté sous une veste légère pour un style plus habillé. Le mannequin mesure 1m86 et porte du L.",
-    "price": 14.4,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pull-col-rond-finition-roulottee-vert-kaki-ou-blanc-tailles-xl-3430728",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:52:15+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 14.4,
-        "observed_at": "2026-10-12T12:59:39.199225+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Machine à Café Expresso Manuelle Delonghi Stilosa EC230.BK - 15 Bars, Buse Vapeur, Réservoir 1L",
-    "description": "68,09€ - E.Leclerc Super prix ! Disponible avec la livraison offerte en magasin Leclerc ou directement en stock sur place (Click & Collect) La Machine Expresso Delonghi Stilosa EC230.BK est une machine à expresso avec une finition noire élégante. *spécifications du produit :* - Chaudière en acier inoxydable - Filtres 1 et 2 tasses - Système d'auto-amorçage - Buse vapeur - Bouton de sélection unique avec voyants lumineux - Grille égouttoir 2 en 1 - Réservoir d'eau amovible et transparent d'un litre - Système anti-goutte",
-    "price": 68.09,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/machine-expresso-manuelle-delonghi-stilosa-ec230bk-15-bars-buse-vapeur-reservoir-1-l-3430727",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:51:34+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 68.09,
-        "observed_at": "2026-10-12T12:59:39.199233+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jusqu'à 100% de cashback sur le montant HT pour toute première souscription à un abonnement CyberGhost VPN via iGraal",
-    "description": "iGraal Comment fonctionne le cashback CyberGhost VPN ? Dans la limite d'une souscription par compte iGraal. Pas de cashback pour les anciens clients (offres de renouvellement) Le cashback est calculé sur le montant HT. Attention, le partenaire enregistre les commandes en Dollar USD, ce qui peut entraîner des écarts de valeur jusqu'à 5 % dus à la conversion de devises, affectant le cashback. Nous vous prions de bien vouloir passer commande uniquement si vous acceptez cette condition, car nous ne pourrons pas procéder à des corrections.",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/100-cashaback-von-cyberghost-pour-tout-nouvelle-souscription-sur-le-montant-ht-3430726",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:50:36+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Débardeur de padel technique et respirant Kuikma PTK Light Beige - Tailles XS au XL",
-    "description": "8,99€ - Decathlon KUIKMA PTK Light – Débardeur de padel technique femme beige Un débardeur léger et respirant conçu pour accompagner les joueuses de padel pendant les échanges les plus intenses. Sa matière extensible et sa coupe ajustée favorisent une grande liberté de mouvement, tout en évacuant efficacement la transpiration.  Les points forts : ️ Respirabilité optimale : sa conception sans manches favorise la circulation de l’air pour davantage de confort pendant le jeu. Évacuation de la transpiration : son tissu technique hydrophobe retient peu l’humidité et sèche rapidement, pour rester plus à l’aise durant les matchs. Ultra-léger : seulement 82 g en taille 40 , pour jouer sans sensation de lourdeur. ‍♀️ Liberté de mouvement : le mélange de polyester et d’élasthanne accompagne les gestes et les déplacements sur le terrain. Coupe ajustée : épouse la silhouette et offre une tenue adaptée à la pratique du padel. Col en V : une finition féminine qui apporte une touche sportive et élégante. Matière extensible : composée de 84 % de polyester et 16 % d’élasthanne , elle associe légèreté, souplesse et confort. Entretien facile : séchage rapide et pas besoin de repassage pour un usage pratique au quotidien. Coloris beige : une teinte sobre et moderne, rehaussée de détails colorés selon le modèle. Spécial padel : idéal pour les entraînements et les matchs, lorsque respirabilité et mobilité sont essentielles. citeturn496718search0turn496718search1 Un débardeur technique, léger et confortable , parfait pour profiter pleinement de ses matchs de padel avec une tenue qui accompagne chaque mouvement.",
-    "price": 8.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/debardeur-de-padel-technique-et-respirant-kuikma-ptk-light-beige-tailles-xs-au-xl-3430725",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:46:35+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-12T12:59:39.199239+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur sans fil Xiaomi Vacuum Cleaner G30 Max - 700W, 90 min, Anti-enchevêtrement, Animaux 0,8L",
-    "description": "279,99€ - PcComponentes Voilà petite promo sur ce aspirateur balai, si vous avez des alternatives à ce prix n'hésitez pas je suis preneur",
-    "price": 279.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/aspirateur-sans-fil-xiaomi-vacuum-cleaner-g30-max-700w-90-min-anti-enchevetrement-animaux-08l-3430724",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:42:45+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 279.99,
-        "observed_at": "2026-10-12T12:59:39.199244+00:00"
-      }
-    ]
-  },
-  {
-    "title": "VTT tout-suspendu carbone 29\" Lapierre XR 6.9 - RockShox SID 120mm / SID Luxe 3P, Deore 1x12v, Taille M",
-    "description": "1 999€ - Statera Bikes affaire si vous cherchez un vrai VTT tout-suspendu carbone de Cross-Country / Downcountry : le Lapierre XR 6.9 (coloris Aquatic Awe Blue) s'affiche à 1 999 € au lieu de 4 399 € (-55 % / -2 400 € de remise). Passer sous les 2 000 € sur un châssis tout-suspendu full carbon équipé en suspensions RockShox SID 120 mm, c'est extrêmement rare. ⚙️ Points forts & Caractéristiques : Châssis : Cadre High Carbon léger, géométrie moderne 120 mm. Suspensions : Fourche RockShox SID Select 3P (télécommande Charger RL, Debonair+, 120 mm) + amortisseur RockShox SID Luxe Select+ 3P (185x50 mm Trunnion). Transmission : Shimano Deore 1x12 vitesses (cassette CS-M6200 10-51T, pédalier FC-M6200). Freinage : Disques hydrauliques Shimano Deore BR-M6220 à 4 pistons (180/160 mm). Équipements : Tige de selle télescopique JD YSI36 intégrée de série, selle Prologo Akero R PAS. Roues & Pneus : Jantes 29\" XLC WR-M49 SL (30 mm interne) montées en pneus Continental Trinotal Trail Grip 60-622. À 1 999 €, la plupart des marques proposent des tout-suspendus alu d'entrée de gamme pesants et mal équipés. Ici, vous avez le cadre carbone, les suspensions SID 120 mm ultra performantes, les freins 4 pistons et la tige télescopique. Une bête de rendement prête pour les randos engagées et le marathon. Les + : -55 % de remise (-2 400 €) Combo cadre carbone + suspensions RockShox SID 120 mm Tige télescopique et freins 4 pistons déjà installés Seuil psychologique des 2 000 € brisé",
-    "price": 1999.0,
-    "reference_price": 4399.0,
-    "discount_percent": 54.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vtt-tout-suspendu-carbone-29-lapierre-xr-69-rockshox-sid-120mm-sid-luxe-3p-deore-1x12v-tige-telescopique-freins-4-pistons-m-et-l-3430721",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:35:12+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1999.0,
-        "observed_at": "2026-10-12T12:59:39.199251+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo Gravel Lapierre Crosshill AL 2.0 - Shimano CUES 2x10v, Freins hydrauliques, Fourche Carbone, M et L",
-    "description": "888€ - Statera Bikes bon plan sur l'un des Gravels les plus recherchés pour débuter ou vélotaffer : le Lapierre Crosshill AL 2.0 (coloris Beige) passe à 888 € au lieu de 1 299 € (-32 % / -411 € de remise). Un tarif de 888 € particulièrement agressif pour un Gravel moderne équipé d'une fourche carbone et du nouveau groupe Shimano CUES. ⚙️ Points forts & Caractéristiques : Cadre & Fourche : Cadre aluminium 6061 robuste et fourche rigide carbone Lapierre Flatmount avec axes traversants (12x100 mm avant / 12x142 mm arrière). Transmission : Shimano CUES 2x10 vitesses (Pédalier CUES FC-U6010-2 Hollowtech II 46-32T, cassette CS-LG300-10 11-39T, dérailleur Shadow RD-U6020). Freinage : Disques hydrauliques Shimano CUES BR-U6030 (160 mm avant / 160 mm arrière). Roues & Pneus : Jantes XLC WR-M19 Disc montées en pneus Mitas X-Road Skinwall 700x40c (40-622). Poste de pilotage : Cintre Gravel Lapierre JD-RA120A avec 16° de Flare. Passer sous la barre des 900 € pour un Gravel complet en marque de premier plan (Lapierre) avec fourche carbone, axes traversants et freins hydrauliques est une excellente opportunité. À ce prix, la concurrence (Decathlon/Triban ou Intersport) propose souvent des transmissions mécaniques ou des axes à serrage rapide. Les + : Prix sous les 900 € avec numéro fétiche (888 €) Fourche carbone + axes traversants 12mm Groupe Shimano CUES 2x10v très fiable Freinage hydraulique de série",
-    "price": 888.0,
-    "reference_price": 1299.0,
-    "discount_percent": 31.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/velo-gravel-lapierre-crosshill-al-20-shimano-cues-2x10v-freins-hydrauliques-fourche-carbone-m-et-l-3430722",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:34:00+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 888.0,
-        "observed_at": "2026-10-12T12:59:39.199259+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pack Console Nintendo Switch 2 (Version UE) + Pokémon Legends : Z-A",
-    "description": "455,99€ - JoyBuy Pack Nintendo switch 2 ( version UE ) + pokemon Z-A",
-    "price": 455.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pack-gaming-nintendo-switch-2-version-ue-pokemon-z-a-3430719",
-    "image_url": "",
-    "detected_at": "2026-10-12T05:20:05+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 455.99,
-        "observed_at": "2026-10-12T12:59:39.199265+00:00"
       }
     ]
   }
