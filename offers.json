@@ -1,5 +1,149 @@
 [
   {
+    "title": "Kärcher 2.863-356.0 Buse en plastique",
+    "price": 26.99,
+    "reference_price": 33.49,
+    "discount_percent": 19.41,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CZ451RHB",
+    "image_url": "https://m.media-amazon.com/images/P/B0CZ451RHB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:26",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PHOTOCORRECTION [MAKE UP] crema SPF50+ #03 10 gr",
+    "price": 17.65,
+    "reference_price": 29.85,
+    "discount_percent": 40.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09XFK22BN",
+    "image_url": "https://m.media-amazon.com/images/P/B09XFK22BN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:24",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 17.65,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chicco Set de 2 Biberons Perfe...aquet économique, 2 m+, Garçon",
+    "price": 18.99,
+    "reference_price": 32.49,
+    "discount_percent": 41.55,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0B59YMS26",
+    "image_url": "https://m.media-amazon.com/images/P/B0B59YMS26.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:22",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "EISL et3800sev universel réservoir Soupape d'admission",
+    "price": 19.52,
+    "reference_price": 37.29,
+    "discount_percent": 47.65,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B075QGBTD2",
+    "image_url": "https://m.media-amazon.com/images/P/B075QGBTD2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:20",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.52,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "The INKEY List Oat Cleansing B...le Cleanser for Sensitive Skin",
+    "price": 12.94,
+    "reference_price": 18.0,
+    "discount_percent": 28.11,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0H3TW7MXP",
+    "image_url": "https://m.media-amazon.com/images/P/B0H3TW7MXP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:17",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.94,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Medela recueil-lait en silicon...llaitement quotidien 101044201",
+    "price": 12.9,
+    "reference_price": 19.9,
+    "discount_percent": 35.18,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0B8T7B91S",
+    "image_url": "https://m.media-amazon.com/images/P/B0B8T7B91S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:17",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SteelSeries Arctis Nova Pro Xb...2 - Xbox, PC, PS5, PS4, Switch",
+    "price": 149.99,
+    "reference_price": 219.0,
+    "discount_percent": 31.51,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09ZLS5L29",
+    "image_url": "https://m.media-amazon.com/images/P/B09ZLS5L29.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:11",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 149.99,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Physicians Formula, Murumuru B...igments Uniformisants, Bronzer",
+    "price": 12.5,
+    "reference_price": 18.95,
+    "discount_percent": 34.04,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BQC3Q5ZK",
+    "image_url": "https://m.media-amazon.com/images/P/B0BQC3Q5ZK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 16:50:09",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.5,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
     "title": "Noch - 60010 - Entrée De Tunnel",
     "price": 5.99,
     "reference_price": 13.46,
@@ -536,6 +680,514 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Physicians Formula, Murumuru B...igments Uniformisants, Bronzer",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BQC3Q5ZK",
+    "image_url": "https://m.media-amazon.com/images/P/B0BQC3Q5ZK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:48:59+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Physicians Formula, Murumuru B...s Uniformisants, Light Bronzer",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B2Q21FHS",
+    "image_url": "https://m.media-amazon.com/images/P/B0B2Q21FHS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:48:57+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "LAVERA Masque en Tissu Illuminateur",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07X8PKK4Q",
+    "image_url": "https://m.media-amazon.com/images/P/B07X8PKK4Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:48:51+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Montre Bulova Precisionist Icon",
+    "description": "291,53€ - Amazon.it ✅ « Très bon prix comparé au PVC (prix de vente conseillé). »✅ Caractéristiques : Mouvement : Mouvement à quartz Precisionist haute performance (calibre Citizen Miyota NN50-YAT). Fonctionnant à une fréquence ultra-élevée de 262 kHz (huit fois supérieure à celle d'un quartz standard), il présente une déviation de seulement quelques secondes par an et permet à la trotteuse de se déplacer de manière continue et fluide, à l'instar des montres mécaniques. Boîtier : Fabriqué en acier inoxydable 316L avec une finition polie et brossée. Son diamètre de 40 mm et son épaisseur de 13 mm le rendent très confortable et polyvalent pour les poignets de taille moyenne, contrairement à d’autres modèles Precisionist traditionnellement plus grands. Cadran : Noir à textures multiples et détails gris. Aiguilles et index argentés avec traitement luminescent pour une lisibilité optimale dans l'obscurité. Guichet de date à 3 heures. Verre : Verre saphir bombé avec traitement antireflet, très résistant aux rayures. Bracelet : Bracelet à maillons en acier inoxydable avec fermoir papillon pliant à boutons-poussoirs. Résistance à l'eau : 10 ATM / 100 mètres , ce qui la rend adaptée à la natation et aux activités aquatiques quotidiennes, mais pas à la plongée profonde. ✅ ✅ ✅ Clique sur le bouton •••SUIVRE••• si tu souhaites être notifié~~ de mes prochains deals ✅ ✅ ✅",
+    "price": 291.53,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-bulova-precisionist-icon-3431185",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gCDHh/3431185_1/re/1200x1200/qt/90/3431185_1.jpg",
+    "detected_at": "2026-10-12T16:48:22+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 291.53,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Love & Green Lingettes Hypoall...ables - Paquet de 64 Lingettes",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01EL02CVY",
+    "image_url": "https://m.media-amazon.com/images/P/B01EL02CVY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:48:08+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "SteelSeries Arctis Nova Pro Xb...2 - Xbox, PC, PS5, PS4, Switch",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09ZLS5L29",
+    "image_url": "https://m.media-amazon.com/images/P/B09ZLS5L29.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:48:06+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "KIKO Milano Hydra Pro Glow, Cr... À L’Acide Hyaluronique Spf 10",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DSLRYZ2N",
+    "image_url": "https://m.media-amazon.com/images/P/B0DSLRYZ2N.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:47:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Blu-ray 4K + Blu-ray - Le Père Noël est une ordure - Version restaurée 4K",
+    "description": "26,99€ - Amazon Cette édition restaurée en 4K Ultra HD propose le film sur un disque UHD-66 accompagné d’un Blu-ray classique. Présentée dans un boîtier avec fourreau, elle inclut deux bonus vidéo inédits qui plongent dans les coulisses de cette comédie devenue culte. Le film en quelques mots Réalisé par Jean-Marie Poiré en 1982, Le Père Noël est une ordure adapte la célèbre pièce de théâtre du même nom créée par la troupe du Splendid. L’action se déroule un soir de réveillon au sein de l’association “SOS Détresse Amitié”, où une succession d’incidents grotesques et de personnages décalés vient semer le chaos. Le casting réunit Anémone , Thierry Lhermitte , Josiane Balasko , Christian Clavier , Marie-Anne Chazel et Gérard Jugnot , figures emblématiques du Splendid ayant marqué les comédies françaises comme Les Bronzés , Les Visiteurs ou encore Gazon Maudit . Le film, aujourd’hui culte, est reconnu pour son humour noir et ses répliques devenues mythiques. Contenu physique : Boîtier avec fourreau contenant : 1 disque Blu-ray 4K UHD (UHD-66) du film 1 disque Blu-ray (BD-50) du film Bonus vidéo : Inédit à Salauds de pauvres (28min) : interview de Jean-Marie Poiré et Jean-Pierre Lavoignat par Dominique Maillet Dans la hotte du père noël (17min) : l’équipe du film évoque la création et le tournage du film Éditeur : Studiocanal. Dolby Vision. Audio : VF : DTS-HD MA 2.0.",
+    "price": 26.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/blu-ray-4k-blu-ray-le-pere-noel-est-une-ordure-version-restauree-4k-3431184",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oCn2h/3431184_1/re/1200x1200/qt/90/3431184_1.jpg",
+    "detected_at": "2026-10-12T16:47:19+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bouteille d'eau 1L, Gourde Spo...Randonnée, Cyclisme, Extérieur",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FCS88M3T",
+    "image_url": "https://m.media-amazon.com/images/P/B0FCS88M3T.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:47:05+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Vélo de route Nakamura Century 350 - Shimano 105 2×12, freins hydrauliques, roues Mavic Ksyrium 30, S au XL",
+    "description": "1 199,99€ - Intersport Le Nakamura Century 350 est un vélo de route à cadre aluminium et géométrie endurance, pensé pour les sorties longues et les entraînements. Il reçoit une transmission Shimano 105 R7100 à 12 vitesses avec double plateau, pour adapter le développement aux montées comme aux portions rapides. Le freinage est assuré par des freins à disque hydrauliques. Ses roues Mavic Ksyrium 30, compatibles tubeless ready, associent profil de 30 mm et polyvalence sur route. Le vélo est proposé en tailles S, M, L et XL; il est important de choisir la taille à partir de la géométrie et de sa morphologie. La selle Italia Model X SuperFlow et la tige de selle en aluminium complètent l’équipement. Certains éléments peuvent nécessiter un montage ou un réglage à la réception : Intersport fournit les indications de montage. La marque précise que les composants peuvent évoluer en fonction des approvisionnements.",
+    "price": 1199.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/velo-de-route-nakamura-century-350-shimano-105-212-freins-hydrauliques-roues-mavic-ksyrium-30-3431183",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/v9aGc/3431183_1/re/1200x1200/qt/90/3431183_1.jpg",
+    "detected_at": "2026-10-12T16:47:03+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1199.99,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "The INKEY List Oat Cleansing B...le Cleanser for Sensitive Skin",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0H3TW7MXP",
+    "image_url": "https://m.media-amazon.com/images/P/B0H3TW7MXP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:46:34+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Medela recueil-lait en silicon...llaitement quotidien 101044201",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B8T7B91S",
+    "image_url": "https://m.media-amazon.com/images/P/B0B8T7B91S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:45:28+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Lego Speed Champions 77241 - Honda S2000 Fast and Furious",
+    "description": "19,90€ - E.Leclerc • Les garçons et filles dès 9 ans et les adultes fans du film peuvent recréer des scènes du film culte 2 Fast 2 Furious avec le set Honda S2000 2 Fast 2 Furious LEGO Speed Champions (77241). La maquette réduite de ce cabriolet rose vif pour enfants présente des détails authentiques du vrai véhicule piloté par Suki dans le film. • Cette voiture Fast and Furious LEGO regorge d'accessoires réalistes, dont l’écran TV à l’intérieur, l’aileron, la calandre, les optiques, les roues, ainsi que le motif graphique distinctif de style anime sur la carrosserie. Le modèle LEGO s’accompagne d’une minifigurine de Suki, que les enfants peuvent placer au volant pour un jeu de rôle haletant. • Avec les sets LEGO Speed Champions, enfants et fans de voitures peuvent construire des maquettes de véhicules mythiques. Chaque bolide peut être créé en suivant les instructions imprimées ou à l'aide de l’application LEGO Builder, qui offre une aventure de construction simple et intuitive.",
+    "price": 19.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jouet-de-construction-lego-speed-champions-77241-honda-s2000-fast-and-furious-3431182",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aHkbA/3431182_1/re/1200x1200/qt/90/3431182_1.jpg",
+    "detected_at": "2026-10-12T16:44:32+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.9,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaque Induction 2 feux-Siemen...roduit (LxP en cm) : 30.2 / 52",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0171NIHQW",
+    "image_url": "https://m.media-amazon.com/images/P/B0171NIHQW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:44:28+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "EISL et3800sev universel réservoir Soupape d'admission",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B075QGBTD2",
+    "image_url": "https://m.media-amazon.com/images/P/B075QGBTD2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:44:26+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "TAMIYA - 87069 - PATE A POLIR GRAIN FIN",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000BLI6SQ",
+    "image_url": "https://m.media-amazon.com/images/P/B000BLI6SQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:44:23+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Bosch Accessories 2608831056 F... perforateur 22 x 200 x 250 mm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00D1V6CEI",
+    "image_url": "https://m.media-amazon.com/images/P/B00D1V6CEI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:44:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Makeup Revolution, Loose Baking Powder, Poudre, Lace, 32g",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07WHJQ6QB",
+    "image_url": "https://m.media-amazon.com/images/P/B07WHJQ6QB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:43:22+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Chicco Set de 2 Biberons Perfe...aquet économique, 2 m+, Garçon",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0B59YMS26",
+    "image_url": "https://m.media-amazon.com/images/P/B0B59YMS26.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:43:17+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Italeri- Militär Kit de modélisme, I407, Multicolore, 1:35",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00061HLLO",
+    "image_url": "https://m.media-amazon.com/images/P/B00061HLLO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:43:11+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Wella Professionals Masque Che... colorés fins à normaux, 500ml",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CB6VXK34",
+    "image_url": "https://m.media-amazon.com/images/P/B0CB6VXK34.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:42:58+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "PHOTOCORRECTION [MAKE UP] crema SPF50+ #03 10 gr",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09XFK22BN",
+    "image_url": "https://m.media-amazon.com/images/P/B09XFK22BN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:42:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Chaussures de padel k-Swiss K Frame - Du 41,5 au 46",
+    "description": "113,30€ - Extreme Padel Les chaussures de padel K-Swiss K-Frame Gris / Bleu sont conçues pour les joueurs de padel. Elles existent en rouge aussi et moins cher sur padel référence avec le code ROSE20 ( environ 75 euros) Les technologies expliquées Structure K-Frame : pièce en TPU moulé sous l'avant-pied, qui bloque la torsion quand on plante le pied pour repartir dans l'autre sens. Semelle spécifique padel avec point de pivot : elle accroche sur le sable et laisse tourner le pied sans forcer sur le genou, contrairement à une semelle terre battue détournée. Hyper Foam : mousse légère et très résiliente, qui garde son amorti jusqu'au bout du match plutôt que de s'écraser au bout d'une heure. DragGuard 7.0 : renfort de semelle sur la pointe et le talon, les deux zones que le sable détruit en premier. Tige Duraprint et Durawrap Light : légère, respirante, avec des renforts ciblés qui tiennent le pied sans transformer la chaussure en sabot. Inserts caoutchouc latéraux dans le laçage et col rembourré prolongé à l'arrière : le talon reste en place sur les appuis violents.",
+    "price": 113.3,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-padel-k-swiss-k-frame-3431180",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9G1E1/3431180_1/re/1200x1200/qt/90/3431180_1.jpg",
+    "detected_at": "2026-10-12T16:42:07+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 113.3,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kärcher 2.863-356.0 Buse en plastique",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CZ451RHB",
+    "image_url": "https://m.media-amazon.com/images/P/B0CZ451RHB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:41:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Medela Lot de 3 biberons de 15...ongélateur et le réfrigérateur",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B002LZU85O",
+    "image_url": "https://m.media-amazon.com/images/P/B002LZU85O.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T16:40:57+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "[Clients Orange/Sosh] Smartphone 6,3\" Apple iPhone 18 Pro - Bordeaux, 256 Go (via 100€ ODR sur facture)",
+    "description": "1 279€ - Sosh iPhone 18 Pro Performance : Puce A20 Pro pour des performances haut de gamme. Caméra : Système Pro 48 MP (principal, ultra grand-angle, téléobjectif) avec fonctions vidéo professionnelles (Dolby Vision 4K 120 fps, ProRes RAW). Écran : 6,3\" pour l’iPhone 18 Pro, 6,9\" pour l’iPhone 18 Pro Max. Autonomie : Jusqu’à 43 heures pour le Pro Max. Connectivité : 5G, Wi-Fi 7, Bluetooth 6, eSIM. Usage : Idéal pour la photo, la vidéo, les applications exigeantes, avec choix selon la taille d’écran et l’autonomie souhaitée. Excellent prix (y) :)",
+    "price": 1279.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/bon-plan-apple-iphone-18-pro-bordeaux-256-go-via-100-euros-rambourses-orange-code-promo-reduction-de-100-euros-3431173",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/uMvjE/3431173_1/re/1200x1200/qt/90/3431173_1.jpg",
+    "detected_at": "2026-10-12T16:39:34+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1279.0,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sèche-cheveux avec enrouleur de câble automatique CBHTK 2000 A1 Cien",
+    "description": "14,99€ - Lidl CIEN Sèche-cheveux avec enrouleur de câble automatique CBHTK 2000 A1",
+    "price": 14.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cien-seche-cheveux-avec-enrouleur-de-cable-automatique-cbhtk-2000-a1-3431177",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/d137Y/3431177_1/re/1200x1200/qt/90/3431177_1.jpg",
+    "detected_at": "2026-10-12T16:38:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets Air Jordan 1 Low - tailles 40,5 à 47 (via remise au panier)",
+    "description": "63,69€ - The Village Outlet Redécouvrez l’essence du style avec la Air Jordan 1 Low, une sneaker qui allie héritage et modernité. Son design intemporel s’adapte à toutes vos envies, pour un look affirmé en toute simplicité. Inspirée du modèle iconique de 1985, cette chaussure Nike se distingue par sa silhouette basse et épurée, idéale pour un usage quotidien. Sa construction soignée et ses lignes nettes offrent une esthétique à la fois classique et contemporaine, parfaite pour compléter aussi bien un look casual que plus travaillé. La Air Jordan 1 Low s’impose comme un incontournable du streetwear, fidèle à l’esprit légendaire de la marque. Conçue pour vous accompagner partout, cette sneaker garantit confort et maintien grâce à ses matériaux de qualité. Son design polyvalent facilite les associations vestimentaires, vous permettant de rester stylé sans effort, que ce soit en ville ou lors de vos sorties. La Air Jordan 1 Low présente une tige en cuir résistant, une semelle en caoutchouc durable pour une adhérence optimale, et une construction basse qui assure une grande liberté de mouvement.",
+    "price": 63.69,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baskets-air-jordan-1-low-tailles-405-a-47-via-remise-au-panier-3431169",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XdPlU/3431169_1/re/1200x1200/qt/90/3431169_1.jpg",
+    "detected_at": "2026-10-12T16:36:32+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 63.69,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de réflexion Smart Games Connexion Bille - 80 Défis, 6 Billes",
+    "description": "22,31€ - Amazon Ce jeu vous met au défi de construire un circuit à billes pour guider chaque bille colorée vers sa base désignée. Ce casse-tête logique de Smart Games est conçu pour un seul joueur et propose une difficulté progressive, idéale pour développer la pensée spatiale et les capacités de résolution de problèmes. L'objectif est d'agencer stratégiquement les éléments du jeu pour que chaque bille atteigne sa cible spécifique. Joueurs : 1 joueur Âge recommandé : Dès 8 ans Nombre de défis : 80, répartis sur 4 niveaux de difficulté (Starter, Junior, Expert, Master) Mécanique de jeu : Construction de circuit, logique spatiale, résolution de problèmes Contenu : 1 plan de jeu à six bases, 6 billes, 2 piliers, 5 rampes courtes, 2 rampes longues, 1 livret de défis et solutions C'est un excellent moyen d'occuper l'esprit et de stimuler la concentration, pour les enfants comme pour les adultes amateurs de casse-têtes. À propos de ce produit Défis passionnants : la connexion canique offre 80 défis uniques qui divertiront tout le monde. Idéal comme puzzle pour enfants et adultes et jeux pour enfants de 8 ans, ce jeu met à l'épreuve la logique et la créativité. Composants variés : comprend 1 plateau de jeu avec 6 bases, 6 billes, 2 entretoises et 5 rampes courtes. Parfait pour les jeux enfants et adultes, garantissant des heures de plaisir et d'apprentissage. Jouer seul ou en compagnie : conçu pour 1 joueur, connexion de canica est un excellent cadeau pour enfant de 8 ans. C'est également un excellent puzzle pour adultes, idéal pour ceux qui aiment les défis individuels. Carnet de défis : le carnet de défis guide les joueurs à travers 80 défis progressifs, transformant ce jeu en un outil éducatif. Parfait pour les jeux d'enfants et les jeux éducatifs. Développement des compétences : connexion canique est plus qu'un simple jeu. Aide à améliorer la concentration, la logique et la résolution de problèmes, ce qui en fait l'un des meilleurs puzzles et jeux pour enfants. Commentaires client",
+    "price": 22.31,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-reflexion-smart-games-connexion-bille-80-defis-6-billes-3431175",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/K84dB/3431175_1/re/1200x1200/qt/90/3431175_1.jpg",
+    "detected_at": "2026-10-12T16:36:15+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 22.31,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PC portable 15,6\" Full HD HP 255R G10 D0DQ3AT, SSD 512 Go, RAM 8 Go, Windows 11",
+    "description": "510,39€ - JoyBuy Le HP 255R G10 est un ordinateur portable de 15,6 pouces avec une finition noire mate assez sobre. Il embarque un processeur AMD Ryzen 3 7335U, accompagné de 8 Go de RAM DDR5. Le SSD de 512 Go offre un espace de stockage correct pour les documents, les logiciels et les fichiers du quotidien. Son écran Full HD de 1920 × 1080 pixels devrait convenir pour la bureautique, les vidéos et la navigation sur Internet. Windows 11 Famille est déjà installé, donc pas besoin de prévoir une installation supplémentaire. Le clavier français AZERTY est un vrai plus pour une utilisation en France. Il dispose aussi du Wi-Fi 6, du Bluetooth 5.4 et de plusieurs ports USB pour connecter ses accessoires. La puce graphique AMD Radeon 660M peut dépanner pour des tâches graphiques légères, mais ce n’est pas un PC dédié au gaming. La garantie annoncée est d’un an, ce qui est bon à vérifier selon les conditions du vendeur.",
+    "price": 510.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/hp-255r-g10-d0dq3at-ordinateur-portable-156-full-hd-ssd-512-go-ram-8-go-windows-11-famille-3431174",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mS55V/3431174_1/re/1200x1200/qt/90/3431174_1.jpg",
+    "detected_at": "2026-10-12T16:34:20+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 510.39,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Forfait NRJ illimité 5G NRJ Mobile à 8,75€ par mois pendant 3 mois - Data/SMS/MMS illimités, roaming 42 Go, réseau Bouygues, sans engagement",
+    "description": "8,75€ - NRJ Mobile Avec le code NMA2026,le forfait Illimité passe à 8,75 € par mois pendant trois mois au lieu de 17€49. L’offre est réservée aux nouvelles lignes souscrites du 12 au 25 octobre.",
+    "price": 8.75,
+    "reference_price": 17.0,
+    "discount_percent": 48.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/forfait-data-illimite-pendant-3-mois-3431172",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cgNg5/3431172_1/re/1200x1200/qt/90/3431172_1.jpg",
+    "detected_at": "2026-10-12T16:33:02+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.75,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Figurine Actarus (Goldorak) - 21 cm",
+    "description": "34,90€ - Amazon La superbe figurine d'Actarus par ABYstyle Studio en promo sur Amazon (y) Une pièce de collection incontournable pour les passionnés de Goldorak / Grendizer. Figurine en PVC de la gamme Super Figure Collection (SFC) Hauteur : 21 cm - Echelle : 1/10ème À propos de ce produit Figurine Actarus Durable Haute qualité Commentaires client",
+    "price": 34.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/figurine-actarus-goldorak-21-cm-3431171",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aBwAq/3431171_1/re/1200x1200/qt/90/3431171_1.jpg",
+    "detected_at": "2026-10-12T16:32:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 34.9,
+        "observed_at": "2026-10-12T16:50:34.411032+00:00"
       }
     ]
   },
