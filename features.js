@@ -38,7 +38,7 @@
     const raw = offer.price ?? offer.current_price;
     if (typeof raw === "number") return raw > 0 ? raw : null;
     if (typeof raw !== "string" || !raw.trim()) return null;
-    const normalized = raw.trim().replace(/[€\s\u00a0]/g, "").replace(/\./g, "").replace(",", ".");
+    const normalized = raw.trim().replace(/[€\s\u00a0]/g, "").includes(",") ? raw.trim().replace(/[€\s\u00a0]/g, "").replace(/\./g, "").replace(",", ".") : raw.trim().replace(/[€\s\u00a0]/g, "");
     const parsed = Number(normalized);
     return Number.isFinite(parsed) && parsed > 0 ? parsed : null;
   };
@@ -82,7 +82,7 @@
       "",
       "Merci : les retours sont publics et pourront être vérifiés avant correction."
     ].join("\n");
-    const params = new URLSearchParams({title: labels[kind] + " : " + (offer.title || "offre DealRadar").slice(0, 100), body});
+    const params = new URLSearchParams({template:"deal-feedback.md", title: "[Communauté] " + labels[kind] + " : " + (offer.title || "offre DealRadar").slice(0, 90), body});
     return "https://github.com/bapsch38/dealradar-site/issues/new?" + params.toString();
   };
   const trust = offer => {
