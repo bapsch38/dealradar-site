@@ -201,19 +201,48 @@ footer strong{color:var(--text)}
 .dr-community a:hover{color:#fff}
 @media(max-width:850px){.dr-personalized-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:620px){.dr-feature-panel,.dr-personalized-grid{grid-template-columns:1fr}.dr-pref-list{grid-template-columns:1fr 1fr}.dr-mini-card{grid-template-columns:72px minmax(0,1fr)}.dr-mini-card img{width:72px;height:72px}.dr-list-row{flex-wrap:wrap}.dr-list-row>div{flex-basis:100%}}
+
+/* Accueil allégé : chaque usage possède sa page dédiée */
+.nav{max-width:1320px;padding:18px 28px}
+.navlinks{gap:20px}
+.nav-publish{display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#46f58b,#b8ffcc);box-shadow:0 8px 24px #46f58b24;padding:13px 19px;font-size:13px;white-space:nowrap}
+main{max-width:1320px;padding:38px 28px 84px}
+.section{margin-top:58px}
+.hero{min-height:350px;padding:58px}
+.hero p{font-size:16px}
+.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px}
+.hero-action{display:inline-flex;align-items:center;justify-content:center;gap:9px;padding:15px 20px;border-radius:11px;font-size:14px;font-weight:850;transition:transform .18s,box-shadow .18s}
+.hero-action:hover{transform:translateY(-2px)}
+.hero-action-primary{background:linear-gradient(135deg,#46f58b,#b8ffcc);color:#07131c;box-shadow:0 10px 30px #46f58b24}
+.hero-action-secondary{background:#0b1724d9;color:var(--text);border:1px solid #476078}
+.home-shortcuts{margin-top:34px}
+.home-shortcut-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.home-shortcut{display:flex;align-items:flex-start;gap:16px;padding:23px;background:var(--panel);border:1px solid var(--line);border-radius:17px;min-height:132px;transition:border-color .2s,transform .2s}
+.home-shortcut:hover{border-color:var(--green);transform:translateY(-3px)}
+.home-shortcut-icon{display:grid;place-items:center;flex:0 0 48px;height:48px;border-radius:13px;background:#173b2a;color:var(--green);font-size:24px}
+.home-shortcut strong{display:block;font-size:16px;margin:1px 0 7px}
+.home-shortcut p{font-size:13px;line-height:1.6;color:var(--muted);margin:0}
+.home-shortcut .arrow{display:block;color:var(--green);font-size:12px;font-weight:800;margin-top:12px}
+.featured-section{margin-top:48px}
+.featured-grid{gap:18px}
+.featured-card{padding:16px}
+.featured-title{font-size:15px}
+body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-dealradar,body.home-page #fonctionnement,body.home-page #alertes{display:none!important}
+@media(max-width:850px){.nav{padding:14px 18px}.home-shortcut-grid{grid-template-columns:1fr}.hero{padding:38px 28px}.navlinks{display:none}main{padding:25px 18px 58px}}
+@media(max-width:520px){.nav-publish{font-size:10px;padding:10px 11px}.hero{padding:28px 20px}.hero-actions{flex-direction:column}.hero-action{width:100%}.home-shortcut{padding:18px}.section{margin-top:42px}}
+
 </style>
 </head>
-<body>
+<body class="home-page">
 <header>
   <div class="nav">
-    <a class="logo" href="#" aria-label="DealRadar accueil">Deal<span>Radar</span><small>Les bonnes affaires. Au bon moment.</small></a>
+    <a class="logo" href="./index.html" aria-label="DealRadar accueil">Deal<span>Radar</span><small>Les bonnes affaires. Au bon moment.</small></a>
     <nav class="navlinks">
-      <a href="#categories">Catégories</a>
-      <a href="#dernieres-offres">Dernières réductions</a>
-      <a href="#mon-dealradar">Mon DealRadar</a>
-      <a href="#fonctionnement">Notre méthode</a>
+      <a href="./offres.html">Explorer les offres</a>
+      <a href="./mon-dealradar.html">Mon espace</a>
+      <a href="./publier.html">Publier une offre</a>
     </nav>
-    <a class="pill" href="#alertes">Suivre les alertes ↗</a>
+    <a class="pill nav-publish" href="./publier.html">＋ Publier une offre</a>
   </div>
 </header>
 
@@ -227,7 +256,20 @@ footer strong{color:var(--text)}
         <input id="search" type="search" placeholder="Rechercher une catégorie ou un produit…" aria-label="Rechercher une catégorie ou un produit">
         <button type="submit">Rechercher ↗</button>
       </form>
-      <div class="hero-note">Un seul radar pour toutes vos envies d’économies.</div>
+      <div class="hero-actions">
+        <a class="hero-action hero-action-primary" href="./publier.html">＋ Publier une promo ou une erreur de prix</a>
+        <a class="hero-action hero-action-secondary" href="./offres.html">Explorer toutes les offres ↗</a>
+      </div>
+      <div class="hero-note">Les offres proposées par la communauté sont vérifiées avant d’être considérées comme fiables.</div>
+    </div>
+  </section>
+
+  <section class="home-shortcuts">
+    <div class="section-head"><div><h2>Que veux-tu faire ?</h2><p>Un espace clair pour chaque action, sans tout entasser sur la page d’accueil.</p></div></div>
+    <div class="home-shortcut-grid">
+      <a class="home-shortcut" href="./publier.html"><span class="home-shortcut-icon">＋</span><span><strong>Publier une offre</strong><p>Partage une promotion, un code promo ou une erreur de prix potentielle avec son prix et le lien marchand.</p><span class="arrow">Proposer à la communauté ↗</span></span></a>
+      <a class="home-shortcut" href="./offres.html"><span class="home-shortcut-icon">⌕</span><span><strong>Explorer le catalogue</strong><p>Recherche, filtre et trie les offres par date, réduction ou prix.</p><span class="arrow">Voir toutes les offres ↗</span></span></a>
+      <a class="home-shortcut" href="./mon-dealradar.html"><span class="home-shortcut-icon">☆</span><span><strong>Mon espace personnel</strong><p>Retrouve tes favoris, tes objectifs de prix et ta sélection personnalisée.</p><span class="arrow">Gérer mon espace ↗</span></span></a>
     </div>
   </section>
 
