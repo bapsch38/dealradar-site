@@ -499,7 +499,7 @@ categories.forEach(card => card.addEventListener("click", () => {
   dealSearch.value = "";
   const category = card.dataset.category.toLocaleLowerCase("fr");
   activeFilter = /gaming|gamer|playstation|xbox|nintendo|console|manette/.test(category) ? "gaming" :
-    /high-tech|informatique|ordinateur|smartphone|\\bpc\\b/.test(category) ? "tech" :
+    /high-tech|informatique|ordinateur|smartphone|\bpc\b/.test(category) ? "tech" :
     /électroménager|electromenager|aspirateur|cafetière|machine à café/.test(category) ? "electromenager" :
     /beauté|santé|parfum|cosmétique|maquillage/.test(category) ? "beaute" :
     /maison|décoration|jardin/.test(category) ? "maison" :
