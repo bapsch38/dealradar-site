@@ -221,6 +221,8 @@ footer strong{color:var(--text)}
       <button class="filter active" type="button" data-filter="all">Toutes les catégories</button>
       <button class="filter" type="button" data-filter="tech">High-tech</button>
       <button class="filter" type="button" data-filter="gaming">Gaming</button>
+      <button class="filter" type="button" data-filter="papeterie">Bureau & papeterie</button>
+      <button class="filter" type="button" data-filter="alimentation">Alimentation & boissons</button>
       <button class="filter" type="button" data-filter="maison">Maison</button>
       <button class="filter" type="button" data-filter="electromenager">Électroménager</button>
       <button class="filter" type="button" data-filter="bricolage">Bricolage</button>
@@ -229,6 +231,7 @@ footer strong{color:var(--text)}
       <button class="filter" type="button" data-filter="mode">Mode</button>
       <button class="filter" type="button" data-filter="sport">Sport & loisirs</button>
       <button class="filter" type="button" data-filter="beaute">Beauté & santé</button>
+      <button class="filter" type="button" data-filter="auto">Auto & moto</button>
       <button class="filter" type="button" data-filter="autre">Autre</button>
     </div>
     <p class="catalog-status" id="catalog-status" aria-live="polite">Chargement des offres…</p>
@@ -353,25 +356,30 @@ function handleProductImageError(img) {
   if (label) label.textContent = "Visuel indisponible";
 }
 function inferCategory(offer) {
-  const existing = String(offer.category || "").trim();
-  if (existing && !/^autre$/i.test(existing)) return existing;
-  const text = [offer.title, offer.description, offer.source, offer.url]
+  const text = [offer.title, offer.description]
     .filter(Boolean).join(" ").toLocaleLowerCase("fr")
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const rules = [
-    ["Gaming", /\b(gaming|gamer|playstation|ps[345]|xbox|nintendo|switch|steam deck|manette|casque gamer|clavier gamer|souris gamer)\b/],
-    ["High-tech", /\b(pc|ordinateur|laptop|smartphone|iphone|samsung galaxy|tablette|ipad|ssd|ram|processeur|carte graphique|gpu|cpu|informatique|ecran|moniteur|routeur|wifi|reseau|nas|imprimante 3d|ecouteurs|airpods|casque audio|televiseur|oled|projecteur|appareil photo|camera|drone)\b/],
-    ["Électroménager", /\b(lave-vaisselle|lave linge|lave-linge|seche-linge|aspirateur|robot aspirateur|frigo|refrigerateur|congelateur|four|micro-ondes|machine a cafe|cafetiere|bouilloire|mixeur|blender|air fryer|friteuse|grille-pain|robot cuisine|climatiseur|ventilateur|purificateur d'air|fer a repasser)\b/],
-    ["Bricolage", /\b(perceuse|visseuse|meuleuse|scie|ponceuse|outillage|outil|outils|bricolage|atelier|compresseur|cle a choc|etabli|quincaillerie|peinture|visserie|jardinage|tondeuse|taille-haie|debroussailleuse|tronconneuse|nettoyeur haute pression)\b/],
-    ["Bébé & enfants", /\b(bebe|enfant|enfants|puericulture|poussette|siege auto|biberon|couche|couches|lit bebe|lit enfant|chaise haute|babyphone|jouet|jouets|lego|playmobil|peluche|eveil)\b/],
-    ["Animaux", /\b(chien|chiens|chat|chats|animal|animaux|croquettes|litiere|laisse|arbre a chat|aquarium|terrarium|gamelle)\b/],
-    ["Mode", /\b(vetement|vetements|chaussure|chaussures|baskets|sneakers|manteau|veste|pantalon|jean|robe|chemise|t-shirt|sweat|pull|sac a main|mode|textile|chaussettes)\b/],
-    ["Sport & loisirs", /\b(sport|fitness|musculation|halteres?|tapis de course|velo|cyclisme|randonnee|camping|peche|football|basketball|tennis|yoga|running|ski|snowboard|paddle|kayak|golf|loisir|loisirs)\b/],
-    ["Beauté & santé", /\b(parfum|maquillage|cosmetique|beaute|soin visage|creme|shampoing|shampooing|rasoir|tondeuse barbe|brosse a dents|dentifrice|seche-cheveux|lisseur|epilateur|massage|bien-etre|hygiene|skincare)\b/],
-    ["Maison", /\b(maison|meuble|mobilier|canape|fauteuil|matelas|literie|oreiller|couette|drap|linge de lit|deco|decoration|luminaire|lampe|rideau|tapis|rangement|etagere|table basse|chaise|vaisselle|cuisine|jardin|terrasse|spa|piscine|barbecue|parasol)\b/]
+    ["Gaming", /\b(gaming|gamer|playstation|ps[345]|xbox|nintendo|switch|steam deck|manette|casque gamer|clavier gamer|souris gamer|jeu video|jeux video)\b/],
+    ["Bureau & papeterie", /\b(feutres?|marqueurs?|stylos?|stylo plume|crayons?|surligneurs?|gommes|regle|regles|cahiers?|carnets?|bloc notes|papier|ramette|encre|cartouches? d'encre|agrafeuse|agrafes|perforatrice|trousse|fournitures scolaires|papeterie|tableau blanc|tableau noir|ardoise)\b/],
+    ["Alimentation & boissons", /\b(the|thes|infusion|infusions|tisane|tisanes|cafe|capsules de cafe|dosettes|chocolat|bonbons|biscuits|gateaux|cereales|pates alimentaires|riz|huile d'olive|epices|sauces?|conserves?|sachets? de the|boissons?|sirop|jus de fruits|eau minerale|alimentaire|epicerie|vin|biere)\b/],
+    ["High-tech", /\b(pc|ordinateur|laptop|smartphone|iphone|samsung galaxy|tablette|ipad|ssd|ram|processeur|carte graphique|gpu|cpu|informatique|ecran|moniteur|routeur|wifi|reseau|nas|serveur|imprimante 3d|ecouteurs|airpods|casque audio|televiseur|tv oled|projecteur|appareil photo|camera|drone|cle usb|disque dur|webcam|microphone|clavier mecanique)\b/],
+    ["Électroménager", /\b(lave-vaisselle|lave linge|lave-linge|seche-linge|aspirateur|robot aspirateur|frigo|refrigerateur|congelateur|four|micro-ondes|machine a cafe|cafetiere|bouilloire|mixeur|blender|air fryer|friteuse|grille-pain|robot cuisine|extracteur de jus|climatiseur|ventilateur|purificateur d'air|fer a repasser|centrale vapeur|cuiseur|multicuiseur|cookeo)\b/],
+    ["Bricolage", /\b(perceuse|visseuse|meuleuse|scie|ponceuse|outillage|outils?|bricolage|atelier|compresseur|cle a choc|cle dynamometrique|etabli|quincaillerie|peinture|visserie|jardinage|tondeuse|taille-haie|debroussailleuse|tronconneuse|souffleur|nettoyeur haute pression|niveau laser|tournevis|marteau|forets?)\b/],
+    ["Bébé & enfants", /\b(bebe|enfants?|puericulture|poussette|siege auto|biberon|couches?|lit bebe|lit enfant|chaise haute|babyphone|jouets?|lego|playmobil|peluche|eveil|doudou|parc bebe|porte-bebe)\b/],
+    ["Animaux", /\b(chiens?|chats?|animaux?|croquettes|litiere|laisse|collier pour chien|arbre a chat|aquarium|terrarium|gamelle|friandises pour chien|friandises pour chat|nourriture animale)\b/],
+    ["Mode", /\b(vetements?|chaussures?|baskets|sneakers|manteau|veste|pantalon|jeans?|robe|chemise|t-shirts?|sweat|pull|sac a main|sac a dos|montre|lunettes de soleil|mode|textile|chaussettes|sous-vetements|pyjama)\b/],
+    ["Sport & loisirs", /\b(sport|fitness|musculation|halteres?|tapis de course|velo|cyclisme|randonnee|camping|peche|football|basketball|tennis|yoga|running|ski|snowboard|paddle|kayak|golf|loisirs?|jeu de societe|puzzle|instrument de musique|guitare)\b/],
+    ["Beauté & santé", /\b(parfum|maquillage|cosmetiques?|beaute|soin visage|creme|shampoings?|rasoir|tondeuse barbe|brosse a dents|dentifrice|seche-cheveux|lisseur|epilateur|massage|bien-etre|hygiene|skincare|serum visage|deodorant|protection solaire)\b/],
+    ["Maison", /\b(meubles?|mobilier|canape|fauteuil|matelas|literie|oreiller|couette|draps?|linge de lit|deco|decoration|luminaire|lampe|rideau|tapis|rangement|etagere|table basse|chaise|vaisselle|ustensiles de cuisine|jardin|terrasse|spa|piscine|barbecue|parasol|boite de rangement)\b/],
+    ["Auto & moto", /\b(voiture|automobile|auto|moto|scooter|pneus?|dashcam|chargeur voiture|accessoire voiture|batterie voiture|huile moteur|essuie-glace|porte-velo)\b/]
   ];
-  for (const [name, pattern] of rules) if (pattern.test(text)) return name;
-  return "Autre";
+  for (const [name, pattern] of rules) {
+    if (pattern.test(text)) return name;
+  }
+  // L'ancienne catégorie n'est gardée qu'en dernier recours, pour les produits sans indice textuel.
+  const existing = String(offer.category || "").trim();
+  return existing || "Autre";
 }
 function matchesFilter(offer) {
   const category = inferCategory(offer);
@@ -379,6 +387,9 @@ function matchesFilter(offer) {
   const map = {
     tech: "High-tech",
     gaming: "Gaming",
+    papeterie: "Bureau & papeterie",
+    alimentation: "Alimentation & boissons",
+    auto: "Auto & moto",
     maison: "Maison",
     electromenager: "Électroménager",
     bricolage: "Bricolage",
