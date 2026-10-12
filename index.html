@@ -423,7 +423,7 @@ function inferCategory(offer) {
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, " ").trim();
   const title = normalize(offer.title);
   const description = normalize(offer.description);
-  const text = title + " " + description;
+  const text = title;
   const source = normalize(offer.source + " " + offer.url);
 
   // Corrections ciblées avant la catégorie enregistrée : elles règlent les erreurs connues
