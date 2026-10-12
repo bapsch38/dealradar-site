@@ -8,7 +8,7 @@
     "url": "https://www.amazon.fr/dp/B08V9CMB7Q",
     "image_url": "https://m.media-amazon.com/images/P/B08V9CMB7Q.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 11:39:40",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://www.amazon.fr/dp/B00KVNMKWW",
     "image_url": "https://m.media-amazon.com/images/P/B00KVNMKWW.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 11:39:36",
-    "category": "Autre",
+    "category": "Bureau & papeterie",
     "price_verified": false
   },
   {
@@ -56,7 +56,7 @@
     "url": "https://www.amazon.fr/dp/B00435I66S",
     "image_url": "https://m.media-amazon.com/images/P/B00435I66S.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:18",
-    "category": "Autre",
+    "category": "Animaux",
     "price_verified": false
   },
   {
@@ -104,7 +104,7 @@
     "url": "https://www.amazon.fr/dp/B0CVN4KBXK",
     "image_url": "https://m.media-amazon.com/images/P/B0CVN4KBXK.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:13",
-    "category": "Autre",
+    "category": "Animaux",
     "price_verified": false
   },
   {
@@ -212,19 +212,19 @@
     "url": "https://www.amazon.fr/dp/B002BB4RJG",
     "image_url": "https://m.media-amazon.com/images/P/B002BB4RJG.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:20",
-    "category": "Autre",
+    "category": "Bébé & enfants",
     "price_verified": false
   },
   {
     "title": "Posca Acrylic Paint Marker Set... Color Medium, PC-5M (PC5M 8)",
     "price": 33.12,
     "reference_price": 36.8,
-    "discount_percent": 10.0,
+    "discount_percent": 10,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00DBTE7LA",
     "image_url": "https://m.media-amazon.com/images/P/B00DBTE7LA.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:19",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false
   },
   {
@@ -248,7 +248,7 @@
     "url": "https://www.amazon.fr/dp/B000J66OB4",
     "image_url": "https://m.media-amazon.com/images/P/B000J66OB4.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:15",
-    "category": "Autre",
+    "category": "Bureau & papeterie",
     "price_verified": false
   },
   {
@@ -260,7 +260,7 @@
     "url": "https://www.amazon.fr/dp/B0DG9331GY",
     "image_url": "https://m.media-amazon.com/images/P/B0DG9331GY.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:14",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false
   },
   {
@@ -284,7 +284,7 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-vraiment-tres-fute-schmidt-4001504882273-roll-write-1-a-4-joueurs-des-10-ans-30-min-francais-3429482",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:12",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false
   },
   {
@@ -303,7 +303,7 @@
     "title": "Sélection de pantalons en promotion",
     "price": 8.99,
     "reference_price": 59.99,
-    "discount_percent": 85.0,
+    "discount_percent": 85,
     "source": "www.dealabs.com/rss/groupe/mode-accessoires",
     "url": "https://www.dealabs.com/bons-plans/selection-de-pantalons-homme-en-promotion-chez-mango-outlet-3429447",
     "image_url": "",
@@ -315,7 +315,7 @@
     "title": "Pack Clavier Corsair Clipper Pro Mini 60 Hall Effect (CH-979101J-FR) + Housse de Protection Offerte - Format 60%, Azerty, Noir ou Blanc",
     "price": 79.99,
     "reference_price": 131.1,
-    "discount_percent": 39.0,
+    "discount_percent": 39,
     "source": "www.dealabs.com/rss/groupe/informatique",
     "url": "https://www.dealabs.com/bons-plans/pack-clavier-gaming-corsair-clipper-pro-mini-60-hall-effect-ch-979101j-fr-housse-de-protection-offerte-format-60-azerty-noir-3429433",
     "image_url": "",
@@ -325,38 +325,38 @@
   },
   {
     "title": "Vélo Gravel carbone Scott Addict Gravel 10 2026 - SRAM Force XPLR AXS 1x13v, Roues Fulcrum Rapid Red Carbon, 8.4 kg, XS à XL",
-    "price": 3499.0,
-    "reference_price": 5199.0,
+    "price": 3499,
+    "reference_price": 5199,
     "discount_percent": 32.7,
     "source": "www.dealabs.com/rss/groupe/sports-plein-air",
     "url": "https://www.dealabs.com/bons-plans/velo-gravel-carbone-scott-addict-gravel-10-2026-sram-force-xplr-axs-1x13v-roues-fulcrum-rapid-red-carbon-84-kg-xs-a-xl-3429290",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:06",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false
   },
   {
     "title": "Couteau multifonctions 7-en-1 Solognac X7 - Lame 8.5 cm Acier 5Cr15, Scie à os, Étui Polyester 1680D X-Access",
     "price": 23.99,
     "reference_price": 29.99,
-    "discount_percent": 20.0,
+    "discount_percent": 20,
     "source": "www.dealabs.com/rss/groupe/sports-plein-air",
     "url": "https://www.dealabs.com/bons-plans/couteau-multifonctions-7-en-1-solognac-x7-lame-85-cm-acier-5cr15-scie-a-os-etui-polyester-1680d-x-access-3429262",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false
   },
   {
     "title": "Vélo de route carbone Bianchi Sprint 2026 - Shimano 105 Di2 2x12v Électronique, Disques hydrauliques, S/M et M/L",
-    "price": 2269.0,
-    "reference_price": 3590.0,
+    "price": 2269,
+    "reference_price": 3590,
     "discount_percent": 36.8,
     "source": "www.dealabs.com/rss/groupe/sports-plein-air",
     "url": "https://www.dealabs.com/bons-plans/velo-de-route-carbone-bianchi-sprint-2026-shimano-105-di2-2x12v-electronique-disques-hydrauliques-2-coloris-sm-et-ml-3429280",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false
   },
   {
@@ -369,7 +369,7 @@
     "url": "https://www.dealabs.com/bons-plans/ventilateur-de-cou-portable-rechargeable-usb-bleu-3430966",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/I7d6x/3430966_1/re/1200x1200/qt/90/3430966_1.jpg",
     "detected_at": "2026-10-12T11:37:28+00:00",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false
   },
   {
@@ -382,7 +382,7 @@
     "url": "https://www.dealabs.com/bons-plans/congelateur-armoire-hisense-ft3k310saie-freshfit-312-l-total-no-frost-inox-3430964",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Ovh2E/3430964_1/re/1200x1200/qt/90/3430964_1.jpg",
     "detected_at": "2026-10-12T11:37:17+00:00",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false
   },
   {
@@ -395,20 +395,20 @@
     "url": "https://www.dealabs.com/bons-plans/chaussures-de-running-new-balance-fresh-foam-x-880v13-tailles-35-a-375-3430965",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/YaFxy/3430965_1/re/1200x1200/qt/90/3430965_1.jpg",
     "detected_at": "2026-10-12T11:36:37+00:00",
-    "category": "Autre",
+    "category": "Mode",
     "price_verified": false
   },
   {
     "title": "[Client Sosh] Smartphone 6,9\" Apple iPhone 18 Pro Max - RAM 12 Go, 256 Go (Via 100€ d'ODR sur Facture)",
     "description": "1 429€ - Sosh Prix du mobile : 1629€ -100€ d'ODR remboursés sur facture -100€ avec le code SOSH15 =1429€ prix final. Lien vers l'ODR : https://formulaires.sosh.fr/19496 iPhone 18 Pro Performance : Puce A20 Pro pour des performances haut de gamme. Caméra : Système Pro 48 MP (principal, ultra grand-angle, téléobjectif) avec fonctions vidéo professionnelles (Dolby Vision 4K 120 fps, ProRes RAW). Écran : 6,3\" pour l’iPhone 18 Pro, 6,9\" pour l’iPhone 18 Pro Max. Autonomie : Jusqu’à 43 heures pour le Pro Max. Connectivité : 5G, Wi-Fi 7, Bluetooth 6, eSIM. Usage : Idéal pour la photo, la vidéo, les applications exigeantes, avec choix selon la taille d’écran et l’autonomie souhaitée.",
-    "price": 100.0,
+    "price": 100,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-69-apple-iphone-18-pro-max-256-go-via-100eur-dodr-sur-facture-3430962",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/AqJXc/3430962_1/re/1200x1200/qt/90/3430962_1.jpg",
     "detected_at": "2026-10-12T11:32:36+00:00",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false
   },
   {
@@ -421,7 +421,7 @@
     "url": "https://fr.camelcamelcamel.com/product/B00KVNMKWW",
     "image_url": "",
     "detected_at": "2026-10-12T11:30:43+00:00",
-    "category": "Autre",
+    "category": "Bureau & papeterie",
     "price_verified": false
   }
 ]
