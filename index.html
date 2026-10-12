@@ -357,18 +357,18 @@ function inferCategory(offer) {
   if (existing && !/^autre$/i.test(existing)) return existing;
   const text = [offer.title, offer.description, offer.source, offer.url]
     .filter(Boolean).join(" ").toLocaleLowerCase("fr")
-    .normalize("NFD").replace(/[\\u0300-\\u036f]/g, "");
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const rules = [
-    ["Gaming", /\\b(gaming|gamer|playstation|ps[345]|xbox|nintendo|switch|steam deck|manette|casque gamer|clavier gamer|souris gamer)\\b/],
-    ["High-tech", /\\b(pc|ordinateur|laptop|smartphone|iphone|samsung galaxy|tablette|ipad|ssd|ram|processeur|carte graphique|gpu|cpu|informatique|ecran|moniteur|routeur|wifi|reseau|nas|imprimante 3d|ecouteurs|airpods|casque audio|televiseur|oled|projecteur|appareil photo|camera|drone)\\b/],
-    ["Électroménager", /\\b(lave-vaisselle|lave linge|lave-linge|seche-linge|aspirateur|robot aspirateur|frigo|refrigerateur|congelateur|four|micro-ondes|machine a cafe|cafetiere|bouilloire|mixeur|blender|air fryer|friteuse|grille-pain|robot cuisine|climatiseur|ventilateur|purificateur d'air|fer a repasser)\\b/],
-    ["Bricolage", /\\b(perceuse|visseuse|meuleuse|scie|ponceuse|outillage|outil|outils|bricolage|atelier|compresseur|cle a choc|etabli|quincaillerie|peinture|visserie|jardinage|tondeuse|taille-haie|debroussailleuse|tronconneuse|nettoyeur haute pression)\\b/],
-    ["Bébé & enfants", /\\b(bebe|enfant|enfants|puericulture|poussette|siege auto|biberon|couche|couches|lit bebe|lit enfant|chaise haute|babyphone|jouet|jouets|lego|playmobil|peluche|eveil)\\b/],
-    ["Animaux", /\\b(chien|chiens|chat|chats|animal|animaux|croquettes|litiere|laisse|arbre a chat|aquarium|terrarium|gamelle)\\b/],
-    ["Mode", /\\b(vetement|vetements|chaussure|chaussures|baskets|sneakers|manteau|veste|pantalon|jean|robe|chemise|t-shirt|sweat|pull|sac a main|mode|textile|chaussettes)\\b/],
-    ["Sport & loisirs", /\\b(sport|fitness|musculation|halteres?|tapis de course|velo|cyclisme|randonnee|camping|peche|football|basketball|tennis|yoga|running|ski|snowboard|paddle|kayak|golf|loisir|loisirs)\\b/],
-    ["Beauté & santé", /\\b(parfum|maquillage|cosmetique|beaute|soin visage|creme|shampoing|shampooing|rasoir|tondeuse barbe|brosse a dents|dentifrice|seche-cheveux|lisseur|epilateur|massage|bien-etre|hygiene|skincare)\\b/],
-    ["Maison", /\\b(maison|meuble|mobilier|canape|fauteuil|matelas|literie|oreiller|couette|drap|linge de lit|deco|decoration|luminaire|lampe|rideau|tapis|rangement|etagere|table basse|chaise|vaisselle|cuisine|jardin|terrasse|spa|piscine|barbecue|parasol)\\b/]
+    ["Gaming", /\b(gaming|gamer|playstation|ps[345]|xbox|nintendo|switch|steam deck|manette|casque gamer|clavier gamer|souris gamer)\b/],
+    ["High-tech", /\b(pc|ordinateur|laptop|smartphone|iphone|samsung galaxy|tablette|ipad|ssd|ram|processeur|carte graphique|gpu|cpu|informatique|ecran|moniteur|routeur|wifi|reseau|nas|imprimante 3d|ecouteurs|airpods|casque audio|televiseur|oled|projecteur|appareil photo|camera|drone)\b/],
+    ["Électroménager", /\b(lave-vaisselle|lave linge|lave-linge|seche-linge|aspirateur|robot aspirateur|frigo|refrigerateur|congelateur|four|micro-ondes|machine a cafe|cafetiere|bouilloire|mixeur|blender|air fryer|friteuse|grille-pain|robot cuisine|climatiseur|ventilateur|purificateur d'air|fer a repasser)\b/],
+    ["Bricolage", /\b(perceuse|visseuse|meuleuse|scie|ponceuse|outillage|outil|outils|bricolage|atelier|compresseur|cle a choc|etabli|quincaillerie|peinture|visserie|jardinage|tondeuse|taille-haie|debroussailleuse|tronconneuse|nettoyeur haute pression)\b/],
+    ["Bébé & enfants", /\b(bebe|enfant|enfants|puericulture|poussette|siege auto|biberon|couche|couches|lit bebe|lit enfant|chaise haute|babyphone|jouet|jouets|lego|playmobil|peluche|eveil)\b/],
+    ["Animaux", /\b(chien|chiens|chat|chats|animal|animaux|croquettes|litiere|laisse|arbre a chat|aquarium|terrarium|gamelle)\b/],
+    ["Mode", /\b(vetement|vetements|chaussure|chaussures|baskets|sneakers|manteau|veste|pantalon|jean|robe|chemise|t-shirt|sweat|pull|sac a main|mode|textile|chaussettes)\b/],
+    ["Sport & loisirs", /\b(sport|fitness|musculation|halteres?|tapis de course|velo|cyclisme|randonnee|camping|peche|football|basketball|tennis|yoga|running|ski|snowboard|paddle|kayak|golf|loisir|loisirs)\b/],
+    ["Beauté & santé", /\b(parfum|maquillage|cosmetique|beaute|soin visage|creme|shampoing|shampooing|rasoir|tondeuse barbe|brosse a dents|dentifrice|seche-cheveux|lisseur|epilateur|massage|bien-etre|hygiene|skincare)\b/],
+    ["Maison", /\b(maison|meuble|mobilier|canape|fauteuil|matelas|literie|oreiller|couette|drap|linge de lit|deco|decoration|luminaire|lampe|rideau|tapis|rangement|etagere|table basse|chaise|vaisselle|cuisine|jardin|terrasse|spa|piscine|barbecue|parasol)\b/]
   ];
   for (const [name, pattern] of rules) if (pattern.test(text)) return name;
   return "Autre";
