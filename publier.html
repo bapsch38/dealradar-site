@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#08111d">
+<meta name="description" content="Partage une promotion ou signale une erreur de prix potentielle à la communauté DealRadar.">
+<title>Publier une offre — DealRadar</title>
+<style>
+:root{color-scheme:dark;--bg:#08111d;--panel:#101c2b;--panel2:#142338;--text:#f3f7ff;--muted:#9eafc4;--green:#46f58b;--line:#24364b;--amber:#ffd27a}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 75% 0%,#123328 0,transparent 35%),var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif}a{color:inherit;text-decoration:none}button,input,select,textarea{font:inherit}
+header{position:sticky;top:0;z-index:5;background:#08111df2;backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}.nav{max-width:1200px;margin:auto;padding:17px 24px;display:flex;align-items:center;justify-content:space-between;gap:18px}.logo{font-size:27px;font-weight:850;letter-spacing:-1px}.logo span{color:var(--green)}.logo small{display:block;font-size:11px;font-weight:400;letter-spacing:.2px;color:var(--muted);margin-top:2px}.navlinks{display:flex;gap:22px;color:var(--muted);font-size:13px}.navlinks a:hover{color:var(--green)}.pill{background:var(--green);color:#07131c;padding:11px 16px;border-radius:10px;font-weight:850;font-size:12px;white-space:nowrap}
+main{max-width:1100px;margin:auto;padding:42px 24px 80px}.intro{max-width:760px;margin:0 auto 30px;text-align:center}.eyebrow{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--green);font-weight:850}.intro h1{font-size:clamp(34px,5vw,54px);line-height:1.06;letter-spacing:-1.8px;margin:15px 0}.intro h1 span{color:var(--green)}.intro p{font-size:15px;color:var(--muted);line-height:1.75;margin:0 auto;max-width:670px}
+.type-switch{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:28px 0 18px}.type-card{position:relative;display:flex;gap:13px;align-items:flex-start;padding:19px;background:var(--panel);border:1px solid var(--line);border-radius:15px;cursor:pointer;transition:border-color .18s,background .18s}.type-card:has(input:checked){border-color:var(--green);background:#10271f}.type-card input{accent-color:var(--green);margin-top:4px;width:18px;height:18px;flex:0 0 auto}.type-card strong{display:block;font-size:15px;margin-bottom:6px}.type-card small{display:block;font-size:12px;line-height:1.55;color:var(--muted)}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:20px;align-items:start}.form-panel,.side-panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:25px;min-width:0}.form-panel h2,.side-panel h2{font-size:19px;margin:0 0 7px}.panel-subtitle{font-size:12px;color:var(--muted);line-height:1.6;margin:0 0 22px}.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:17px}.field{display:flex;flex-direction:column;gap:7px;min-width:0}.field.full{grid-column:1/-1}.field label{font-size:12px;font-weight:800;color:#dbe7f5}.field label span{font-weight:400;color:var(--muted)}.field input,.field select,.field textarea{width:100%;min-width:0;background:#091522;border:1px solid #354a60;color:var(--text);border-radius:10px;padding:13px 14px;outline:none}.field textarea{min-height:110px;resize:vertical;line-height:1.6}.field input:focus,.field select:focus,.field textarea:focus{border-color:var(--green);box-shadow:0 0 0 3px #46f58b14}.field input::placeholder,.field textarea::placeholder{color:#687d92}.hint{font-size:11px;color:var(--muted);line-height:1.5}.required{color:var(--green)}
+.price-grid{display:grid;grid-template-columns:1fr 1fr;gap:13px}.warning{display:flex;gap:12px;padding:14px;border:1px solid #6b5124;background:#2a2114;border-radius:11px;color:#ffe2a7;font-size:12px;line-height:1.6;margin:0 0 20px}.warning strong{display:block;margin-bottom:3px}.warning[hidden]{display:none}.submit-zone{margin-top:22px;padding-top:19px;border-top:1px solid var(--line)}.consent{display:flex;gap:10px;align-items:flex-start;font-size:11px;line-height:1.6;color:var(--muted)}.consent input{margin-top:3px;accent-color:var(--green);flex:0 0 auto}.submit-button{display:flex;width:100%;justify-content:center;align-items:center;gap:10px;border:0;border-radius:11px;padding:16px 20px;margin-top:16px;background:linear-gradient(135deg,#46f58b,#b8ffcc);color:#07131c;font-size:14px;font-weight:900;cursor:pointer;box-shadow:0 12px 30px #46f58b20}.submit-button:hover{filter:brightness(1.04);transform:translateY(-1px)}.status{font-size:12px;line-height:1.6;color:var(--green);margin-top:12px;min-height:18px}.side-panel{position:sticky;top:96px}.side-panel h2{margin-bottom:15px}.steps{display:grid;gap:15px}.step{display:grid;grid-template-columns:34px 1fr;gap:11px}.step-number{display:grid;place-items:center;width:32px;height:32px;border:1px solid #31513f;background:#112b22;border-radius:10px;color:var(--green);font-weight:900;font-size:12px}.step strong{display:block;font-size:12px;margin:2px 0 5px}.step p{font-size:11px;line-height:1.6;color:var(--muted);margin:0}.side-divider{height:1px;background:var(--line);margin:20px 0}.side-note{font-size:11px;color:var(--muted);line-height:1.7}.side-note strong{color:var(--text)}.back-link{display:inline-block;margin-top:22px;font-size:12px;color:var(--green);font-weight:800}
+footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);font-size:11px;text-align:center;line-height:1.7}
+@media(max-width:850px){.layout{grid-template-columns:1fr}.side-panel{position:static}.navlinks{display:none}.type-switch{grid-template-columns:1fr}.side-panel{order:2}}
+@media(max-width:560px){.nav{padding:13px 15px}.logo{font-size:23px}.nav .pill{font-size:10px;padding:10px}.nav .logo small{font-size:10px}main{padding:30px 14px 54px}.intro h1{letter-spacing:-1px}.form-panel,.side-panel{padding:18px}.form-grid,.price-grid{grid-template-columns:1fr}.field.full{grid-column:auto}.type-card{padding:16px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <a class="logo" href="./index.html" aria-label="DealRadar accueil">Deal<span>Radar</span><small>Les bonnes affaires. Au bon moment.</small></a>
+    <nav class="navlinks"><a href="./index.html">Accueil</a><a href="./offres.html">Explorer les offres</a><a href="./mon-dealradar.html">Mon espace</a></nav>
+    <a class="pill" href="./offres.html">Voir les offres ↗</a>
+  </div>
+</header>
+<main>
+  <div class="intro">
+    <div class="eyebrow">La communauté fait le radar</div>
+    <h1>Tu as trouvé une pépite ?<br><span>Partage-la ici.</span></h1>
+    <p>Une promo intéressante, un code de réduction ou un prix qui semble être une erreur ? Envoie les informations en quelques secondes pour les proposer à la communauté DealRadar.</p>
+  </div>
+  <form id="publish-form">
+    <div class="type-switch" role="radiogroup" aria-label="Type de publication">
+      <label class="type-card"><input type="radio" name="kind" value="promo" checked><span><strong>🏷️ Bonne affaire / promotion</strong><small>Prix réduit, code promo, offre limitée ou bon plan à partager.</small></span></label>
+      <label class="type-card"><input type="radio" name="kind" value="price-error"><span><strong>⚠️ Erreur de prix potentielle</strong><small>Un prix anormalement bas ou une anomalie affichée par le marchand. À vérifier, jamais garanti.</small></span></label>
+    </div>
+    <div class="layout">
+      <section class="form-panel">
+        <h2>Les détails de l’offre</h2>
+        <p class="panel-subtitle">Le titre, le prix et le lien marchand sont les informations essentielles. Les autres détails sont facultatifs mais utiles pour vérifier l’offre.</p>
+        <div id="price-error-warning" class="warning" hidden><span>⚠️</span><div><strong>Une erreur de prix n’est pas une garantie d’achat.</strong>Le marchand peut corriger le prix, limiter les commandes ou annuler la vente selon ses conditions. N’indique pas que l’offre est confirmée si tu ne l’as pas vérifiée.</div></div>
+        <div class="form-grid">
+          <div class="field full">
+            <label for="title">Titre du produit <span class="required">*</span></label>
+            <input id="title" name="title" required maxlength="160" placeholder="Ex. Casque Sony WH-1000XM5">
+          </div>
+          <div class="field">
+            <label for="price">Prix affiché (€) <span class="required">*</span></label>
+            <input id="price" name="price" required type="number" min="0.01" max="10000000" step="0.01" inputmode="decimal" placeholder="Ex. 199,99">
+          </div>
+          <div class="field">
+            <label for="reference-price">Prix habituel / de référence (€) <span>facultatif</span></label>
+            <input id="reference-price" name="reference-price" type="number" min="0.01" max="10000000" step="0.01" inputmode="decimal" placeholder="Ex. 349,99">
+          </div>
+          <div class="field full">
+            <label for="url">Lien direct vers le produit <span class="required">*</span></label>
+            <input id="url" name="url" type="url" required maxlength="1500" placeholder="https://www.marchand.fr/produit">
+            <div class="hint">Colle le lien de la fiche produit, pas seulement la page d’accueil du marchand. Seuls les liens HTTP(S) sont acceptés.</div>
+          </div>
+          <div class="field">
+            <label for="merchant">Marchand / site <span class="required">*</span></label>
+            <input id="merchant" name="merchant" required maxlength="100" placeholder="Ex. Amazon, Fnac, Cdiscount">
+          </div>
+          <div class="field">
+            <label for="category">Catégorie <span class="required">*</span></label>
+            <select id="category" name="category" required>
+              <option value="">Choisir une catégorie</option>
+              <option>High-tech</option><option>Gaming</option><option>Maison</option><option>Électroménager</option><option>Bricolage</option><option>Bébé & enfants</option><option>Animaux</option><option>Mode</option><option>Sport & loisirs</option><option>Beauté & santé</option><option>Auto & moto</option><option>Bureau & papeterie</option><option>Alimentation & boissons</option><option>Autre</option>
+            </select>
+          </div>
+          <div class="field full">
+            <label for="details">Code promo, conditions ou explication <span>facultatif</span></label>
+            <textarea id="details" name="details" maxlength="1800" placeholder="Ex. code à saisir au panier, membres seulement, livraison incluse, taille/couleur précise… Pour une erreur de prix, explique pourquoi le prix semble anormal."></textarea>
+          </div>
+          <div class="field full">
+            <label for="evidence">Lien vers une preuve ou une capture <span>facultatif</span></label>
+            <input id="evidence" name="evidence" type="url" maxlength="1500" placeholder="https://...">
+            <div class="hint">N’ajoute pas de données personnelles. Une capture ou un lien vérifiable aide la modération.</div>
+          </div>
+        </div>
+        <div class="submit-zone">
+          <label class="consent"><input id="consent" type="checkbox" required><span>J’accepte que cette proposition et les informations saisies soient publiées publiquement pour être examinées par la communauté. Je comprends que je dois vérifier le lien, le prix et les conditions, et qu’une erreur de prix potentielle n’est pas garantie.</span></label>
+          <button class="submit-button" type="submit">Continuer vers la publication communautaire <span>↗</span></button>
+          <div class="status" id="status" aria-live="polite"></div>
+        </div>
+      </section>
+      <aside class="side-panel">
+        <h2>Comment ça marche ?</h2>
+        <div class="steps">
+          <div class="step"><div class="step-number">1</div><div><strong>Remplis la fiche</strong><p>Ajoute le produit, son prix et son lien direct. Le prix de référence est facultatif s’il n’est pas fiable.</p></div></div>
+          <div class="step"><div class="step-number">2</div><div><strong>Prépare la publication</strong><p>DealRadar prépare un signalement avec tes informations et ouvre le formulaire de publication.</p></div></div>
+          <div class="step"><div class="step-number">3</div><div><strong>Soumets sur GitHub</strong><p>La publication finale se fait sur la plateforme communautaire. Un compte GitHub est actuellement nécessaire.</p></div></div>
+          <div class="step"><div class="step-number">4</div><div><strong>Vérification avant affichage</strong><p>Les propositions sont publiques et triées pour modération. Elles ne deviennent pas automatiquement des offres validées dans le catalogue.</p></div></div>
+        </div>
+        <div class="side-divider"></div>
+        <p class="side-note"><strong>Transparence :</strong> cette version utilise GitHub Issues comme canal de publication et de modération. Il faut un compte GitHub pour envoyer la proposition ; la page ne publie pas directement ni anonymement sur le catalogue.</p>
+        <a class="back-link" href="./offres.html">← Retour au catalogue</a>
+      </aside>
+    </div>
+  </form>
+</main>
+<footer>DealRadar · Les offres communautaires sont des propositions à vérifier. Vérifie toujours le prix final, le stock et les conditions chez le marchand.</footer>
+<script>
+(function(){
+  const form=document.getElementById("publish-form");
+  const warning=document.getElementById("price-error-warning");
+  const status=document.getElementById("status");
+  const kindInputs=[...document.querySelectorAll('input[name="kind"]')];
+  function kind(){return kindInputs.find(input=>input.checked)?.value||"promo";}
+  function updateKind(){warning.hidden=kind()!=="price-error";}
+  kindInputs.forEach(input=>input.addEventListener("change",updateKind));
+  function safeHttpUrl(value,required){
+    if(!value.trim()) return required ? null : "";
+    try{const parsed=new URL(value);return ["https:","http:"].includes(parsed.protocol)?parsed.href:null;}catch(_){return null;}
+  }
+  form.addEventListener("submit",function(event){
+    event.preventDefault();
+    status.textContent="";
+    const title=document.getElementById("title").value.trim();
+    const price=Number(document.getElementById("price").value);
+    const referenceRaw=document.getElementById("reference-price").value.trim();
+    const reference=referenceRaw?Number(referenceRaw):null;
+    const url=safeHttpUrl(document.getElementById("url").value.trim(),true);
+    const merchant=document.getElementById("merchant").value.trim();
+    const category=document.getElementById("category").value;
+    const details=document.getElementById("details").value.trim();
+    const evidenceRaw=document.getElementById("evidence").value.trim();
+    const evidence=safeHttpUrl(evidenceRaw,false);
+    if(!url){status.textContent="Le lien du produit doit être une URL HTTP ou HTTPS valide.";document.getElementById("url").focus();return;}
+    if(evidenceRaw&&!evidence){status.textContent="Le lien de preuve doit être une URL HTTP ou HTTPS valide.";document.getElementById("evidence").focus();return;}
+    if(!Number.isFinite(price)||price<=0){status.textContent="Saisis un prix supérieur à zéro.";return;}
+    if(reference!==null&&(!Number.isFinite(reference)||reference<=0)){status.textContent="Le prix de référence doit être supérieur à zéro.";return;}
+    const error=kind()==="price-error";
+    const type=error?"ERREUR DE PRIX POTENTIELLE — À VÉRIFIER":"PROMOTION COMMUNAUTAIRE";
+    const discount=reference!==null&&reference>price?Math.round((1-price/reference)*100)+" %":"non calculable";
+    const body=[
+      "## Proposition communautaire DealRadar",
+      "",
+      "**Type :** "+type,
+      "**Titre :** "+title,
+      "**Prix affiché :** "+price.toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2})+" €",
+      "**Prix de référence fourni :** "+(reference===null?"non communiqué":reference.toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2})+" €"),
+      "**Réduction calculée à partir des prix fournis :** "+discount,
+      "**Marchand :** "+merchant,
+      "**Catégorie :** "+category,
+      "**Lien produit :** "+url,
+      "**Lien de preuve :** "+(evidence||"non fourni"),
+      "",
+      "### Détails, code promo et conditions",
+      details||"Aucun détail supplémentaire fourni.",
+      "",
+      "### Vérification",
+      error?"⚠️ Prix signalé comme erreur potentielle par un utilisateur. Ce prix n'est PAS confirmé ; le marchand peut le corriger ou annuler la vente selon ses conditions.":"Proposition communautaire à vérifier avant d'être reprise dans le catalogue.",
+      "",
+      "### Modération",
+      "Merci de vérifier le prix final, les frais, le stock, les variantes et les conditions du marchand. Ne pas ajouter d'informations personnelles."
+    ].join("\n");
+    const issueTitle=(error?"[Erreur de prix potentielle] ":"[Promo communautaire] ")+title.slice(0,100);
+    const params=new URLSearchParams({template:"publier-promo.md",title:issueTitle,body:body});
+    const destination="https://github.com/bapsch38/dealradar-site/issues/new?"+params.toString();
+    status.textContent="Ouverture du formulaire de publication. Vérifie les informations puis clique sur « Submit new issue » pour envoyer ta proposition.";
+    const win=window.open(destination,"_blank","noopener,noreferrer");
+    if(!win){status.textContent="Le navigateur a bloqué l’ouverture. Autorise les fenêtres contextuelles ou ouvre ce lien : "+destination;}
+  });
+  updateKind();
+})();
+</script>
+</body>
+</html>
