@@ -98,14 +98,14 @@
     const image = typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url);
     const knownSource = /amazon|dealabs|camelcamelcamel|cdiscount|fnac|darty|boulanger|ldlc|materiel\.net|rakuten|ebay/i.test(sourceText);
     const validCategory = categories.includes(categoryOf(offer));
-    if (url) { score += 10; reasons.push("lien HTTPS présent"); }
+    if (url) { score += 8; reasons.push("lien HTTPS présent"); }
     else { warnings.push("lien HTTPS absent ou invalide"); }
     if (knownSource) { score += 10; reasons.push("source identifiable"); }
     else { warnings.push("source peu identifiable"); }
-    if (price != null) { score += 10; reasons.push("prix actuel renseigné"); }
+    if (price != null) { score += 12; reasons.push("prix actuel renseigné"); }
     else { warnings.push("prix actuel manquant"); }
     if (reference != null && price != null && reference > price) {
-      score += 8;
+      score += 10;
       reasons.push("prix de référence cohérent avec le prix actuel");
     } else if (reference == null) {
       warnings.push("prix de référence non fourni");
@@ -129,7 +129,7 @@
       reasons.push("historique de prix avec " + history.length + " observation(s)");
       if (distinctPrices < 2) warnings.push("prix historique pas encore confirmé par une variation");
     } else {
-      score -= 12;
+      score -= 5;
       warnings.push("historique de prix insuffisant");
     }
 
@@ -138,16 +138,16 @@
     if (date && !Number.isNaN(date.getTime())) {
       const age = Date.now() - date.getTime();
       if (age >= -60 * 60 * 1000 && age <= 60 * 60 * 1000) {
-        score += 12;
+        score += 15;
         reasons.push("détection de moins d’une heure");
       } else if (age <= 6 * 60 * 60 * 1000 && age >= 0) {
-        score += 10;
+        score += 12;
         reasons.push("détection de moins de 6 h");
       } else if (age <= 24 * 60 * 60 * 1000 && age >= 0) {
-        score += 7;
+        score += 8;
         reasons.push("détection de moins de 24 h");
       } else if (age <= 7 * 24 * 60 * 60 * 1000 && age >= 0) {
-        score += 3;
+        score += 4;
         reasons.push("détection de moins de 7 jours");
       } else if (age > 7 * 24 * 60 * 60 * 1000) {
         warnings.push("offre ancienne à recontrôler");
@@ -155,24 +155,25 @@
         warnings.push("date de détection incohérente");
       }
     } else {
+      score -= 4;
       warnings.push("date de détection manquante");
     }
 
     // Une remise exceptionnellement forte n'augmente pas la confiance : elle appelle une vérification.
     if (discount != null && discount >= 70) {
-      score -= 12;
+      score -= 10;
       warnings.push("remise supérieure à 70 % : contrôle renforcé conseillé");
     } else if (discount != null && discount >= 50) {
-      score -= 6;
+      score -= 5;
       warnings.push("remise très élevée : prix de référence à contrôler");
     } else if (discount != null && discount >= 30) {
-      score -= 3;
+      score -= 2;
       warnings.push("remise importante : prix de référence à comparer");
     }
-    if (offer.price_verified === false) score -= 10;
-    else if (offer.price_verified !== true) score -= 8;
+    if (offer.price_verified === false) score -= 8;
+    else if (offer.price_verified !== true) score -= 4;
     score = Math.max(0, Math.min(100, Math.round(score)));
-    const level = score >= 75 ? "Élevée" : score >= 50 ? "Moyenne" : "Faible";
+    const level = score >= 65 ? "Élevée" : score >= 40 ? "Moyenne" : "Faible";
     return {score, level, reasons, warnings};
   };
   const announce = (title, body) => {
