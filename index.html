@@ -299,22 +299,37 @@ function safeDate(value) {
   return date && !Number.isNaN(date.getTime()) ? date : null;
 }
 
+function highResolutionImageUrl(value) {
+  if (typeof value !== "string" || !/^https:\/\//i.test(value)) return "";
+  let url = value.trim();
+  if (/pepper|static-pepper\.dealabs\.com/i.test(url)) {
+    url = url.replace(/\/re\/\d+x\d+\//i, "/re/1200x1200/")
+             .replace(/\/qt\/\d+\//i, "/qt/90/");
+    return url;
+  }
+  // Les miniatures Amazon ont souvent un suffixe SX300, UL320, QL70, etc.
+  return url.replace(/\._[A-Z0-9_,+-]+_\.(jpe?g|png|webp)(?=($|\?))/i, "._AC_SL1500_.$1");
+}
 function productImageCandidates(offer, url) {
   const candidates = [];
   const sourceImage = typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url)
     ? offer.image_url.trim() : "";
   if (sourceImage) {
-    const larger = sourceImage.replace("/re/150x150/", "/re/600x600/");
-    if (larger !== sourceImage) candidates.push(larger);
+    const highResolution = highResolutionImageUrl(sourceImage);
+    if (highResolution) candidates.push(highResolution);
+    if (/pepper|static-pepper\.dealabs\.com/i.test(sourceImage)) {
+      candidates.push(sourceImage.replace(/\/re\/\d+x\d+\//i, "/re/600x600/").replace(/\/qt\/\d+\//i, "/qt/90/"));
+    }
     candidates.push(sourceImage);
   }
   const asin = String(url || "").match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})(?:[/?]|$)/i);
   if (asin) {
     const id = asin[1].toUpperCase();
+    candidates.push("https://m.media-amazon.com/images/P/" + id + ".01._AC_SL1500_.jpg");
     candidates.push("https://m.media-amazon.com/images/P/" + id + ".01._SCLZZZZZZZ_.jpg");
     candidates.push("https://images-na.ssl-images-amazon.com/images/P/" + id + ".01.L.jpg");
   }
-  return [...new Set(candidates)];
+  return [...new Set(candidates.filter(Boolean))];
 }
 function escapeAttribute(value) {
   return String(value || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
