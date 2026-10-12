@@ -440,8 +440,14 @@ function renderOffers() {
     const images = productImageCandidates(offer, url);
     const image = images[0] || "";
     const imageFallbacks = escapeAttribute(JSON.stringify(images.slice(1)));
+    const offerTextForPrice = (String(offer.title || "") + " " + String(offer.description || "")).toLocaleLowerCase("fr");
+    const unknownPriceLabel = /\b(gratuit|gratuite|gratuitement|offert|offerte|offerts|offertes)\b/.test(offerTextForPrice)
+      ? "Gratuit"
+      : /code[s]? promo|cashback|cagnott|réduction sur une sélection|jusqu['’]?à\s*\d+\s*%|remise sur une sélection/.test(offerTextForPrice)
+        ? "Offre sans prix unique"
+        : "Prix à vérifier";
     const prices = '<div class="deal-prices">' +
-      (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">Prix non communiqué</span>') +
+      (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span>') +
       (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice
         ? '<span class="deal-old-price">' + oldPrice + '</span>'
         : (isDealabs && price ? '<span class="deal-price-note">Prix d’origine non communiqué</span>' : '')) +
