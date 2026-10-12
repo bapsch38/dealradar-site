@@ -433,7 +433,7 @@ function renderOffers() {
       : (currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
         ? (1 - currentPrice / referencePrice) * 100
         : null);
-    const isDealabs = /dealabs/.test(String(offer.source || "").toLowerCase()) || /dealabs\\.com/i.test(String(offer.url || ""));
+    const isDealabs = /dealabs/.test(String(offer.source || "").toLowerCase()) || /dealabs/i.test(String(offer.url || ""));
     const date = safeDate(offer.detected_at || offer.published_at);
     const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
     const images = productImageCandidates(offer, url);
