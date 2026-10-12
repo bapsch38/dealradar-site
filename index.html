@@ -391,29 +391,60 @@ function handleProductImageError(img) {
   if (label) label.textContent = "Visuel indisponible";
 }
 function inferCategory(offer) {
-  const text = [offer.title, offer.description]
-    .filter(Boolean).join(" ").toLocaleLowerCase("fr")
-    .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  const rules = [
-    ["Gaming", /\b(gaming|gamer|playstation|ps[345]|xbox|nintendo|switch|steam deck|manette|casque gamer|clavier gamer|clavier corsair|souris gamer|jeu video|jeux video)\b/],
-    ["Bureau & papeterie", /\b(feutres?|marqueurs?|markers?|acrylic paint|stylos?|stylo plume|crayons?|surligneurs?|gommes|regle|regles|cahiers?|carnets?|bloc notes|papier|ramette|encre|cartouches? d'encre|agrafeuse|agrafes|perforatrice|trousse|fournitures scolaires|papeterie|tableau blanc|tableau noir|ardoise)\b/],
-    ["High-tech", /\b(pc|ordinateur|laptop|smartphone|iphone|samsung galaxy|tablette|ipad|ssd|ram|processeur|carte graphique|gpu|cpu|informatique|ecran|moniteur|routeur|wifi|reseau|nas|serveur|imprimante 3d|ecouteurs|airpods|casque audio|televiseur|tv oled|projecteur|appareil photo|camera|drone|cle usb|disque dur|webcam|microphone|clavier mecanique|clavier|toner|rallonge secteur|cable|iec)\b/],
-    ["Électroménager", /\b(lave-vaisselle|lave linge|lave-linge|seche-linge|aspirateur|robot aspirateur|frigo|refrigerateur|congelateur|four|micro-ondes|machine a cafe|cafetiere|bouilloire|mixeur|blender|air fryer|friteuse|grille-pain|robot cuisine|extracteur de jus|climatiseur|ventilateur|purificateur d'air|fer a repasser|centrale vapeur|cuiseur|multicuiseur|cookeo)\b/],
-    ["Alimentation & boissons", /\b(the|thes|infusion|infusions|tisane|tisanes|cafe|capsules de cafe|dosettes|chocolat|bonbons|biscuits|gateaux|cereales|pates alimentaires|riz|huile d'olive|epices|sauces?|conserves?|sachets? de the|boissons?|sirop|jus de fruits|eau minerale|alimentaire|epicerie|vin|biere)\b/],
-    ["Bricolage", /\b(perceuse|visseuse|meuleuse|scie|ponceuse|outillage|outils?|bricolage|atelier|compresseur|cle a choc|cle dynamometrique|etabli|quincaillerie|peinture|visserie|jardinage|tondeuse|taille-haie|debroussailleuse|tronconneuse|souffleur|nettoyeur haute pression|niveau laser|tournevis|marteau|forets?)\b/],
-    ["Bébé & enfants", /\b(bebe|enfants?|puericulture|poussette|siege auto|biberon|couches?|lit bebe|lit enfant|chaise haute|babyphone|jouets?|lego|playmobil|peluche|eveil|doudou|parc bebe|porte-bebe)\b/],
-    ["Animaux", /\b(chiens?|chats?|animaux?|croquettes|litiere|laisse|collier pour chien|arbre a chat|aquarium|terrarium|gamelle|friandises pour chien|friandises pour chat|nourriture animale|reptiles?|tortues?|degus|rongeurs?|lapins?|foin|pissenlit|trixie|kerbl|francodex|versele-laga|jr farm|exoterra|biorb)\b/],
-    ["Mode", /\b(vetements?|chaussures?|baskets|sneakers|manteau|veste|pantalons?|jeans?|robe|chemise|t-shirts?|sweat|pull|sac a main|sac a dos|montre|lunettes de soleil|mode|textile|chaussettes|sous-vetements|pyjama)\b/],
-    ["Sport & loisirs", /\b(sport|fitness|musculation|halteres?|tapis de course|velo|cyclisme|randonnee|camping|peche|football|basketball|tennis|yoga|running|ski|snowboard|paddle|kayak|golf|loisirs?|jeu de societe|cartes? a jouer|poker|puzzle|instrument de musique|guitare)\b/],
-    ["Beauté & santé", /\b(parfum|maquillage|cosmetiques?|beaute|soin visage|creme|shampoings?|rasoir|tondeuse barbe|brosse a dents|dentifrice|seche-cheveux|lisseur|epilateur|massage|bien-etre|hygiene|skincare|serum visage|deodorant|protection solaire)\b/],
-    ["Maison", /\b(meubles?|mobilier|canape|fauteuil|matelas|literie|oreiller|couette|draps?|linge de lit|deco|decoration|luminaire|lampe|rideau|tapis|rangement|etagere|table basse|chaise|vaisselle|ustensiles de cuisine|jardin|terrasse|spa|piscine|barbecue|parasol|boite de rangement|philips hue|hue|rubans? cadeaux?)\b/],
-    ["Auto & moto", /\b(voiture|automobile|auto|moto|scooter|pneus?|dashcam|chargeur voiture|accessoire voiture|batterie voiture|huile moteur|essuie-glace|porte-velo)\b/]
+  const normalize = value => String(value || "").toLocaleLowerCase("fr")
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, " ").trim();
+  const title = normalize(offer.title);
+  const description = normalize(offer.description);
+  const text = title + " " + description;
+  const source = normalize(offer.source + " " + offer.url);
+
+  // Corrections ciblées avant la catégorie enregistrée : elles règlent les erreurs connues
+  // et évitent qu'un mot isolé comme "the" dans "Thermaltake" fasse basculer en alimentation.
+  const overrides = [
+    ["Gaming", /\b(playstation|ps[345]|xbox|nintendo switch|steam deck|jeu(x)? video|gaming|gamer|clavier gamer|souris gamer|casque gamer|manette)\b/],
+    ["Animaux", /\b(trixie|jr farm|kerbl|francodex|versele-laga|exoterra|biorb|croquettes|litiere|terrarium|aquarium|gamelle|foin pour|jouet pour chien|jouet pour chat|nourriture animale|collier pour chien|arbre a chat)\b/],
+    ["Sport & loisirs", /\b(velo|bicyclette|ski alpin|snowboard|chaussures? de running|running shoes|tapis de course|halteres?|musculation|fitness|randonnee|camping|peche|paddle|kayak|golf|raquette de tennis|velo gravel|velo de route)\b/],
+    ["Beauté & santé", /\b(la roche-posay|nuxe|effaclar|soin visage|gel nettoyant|serum visage|creme visage|maquillage|parfum|shampoings?|dentifrice|brosse a dents|tondeuse barbe|multigroom|rasoir|skincare|cosmetiques?)\b/],
+    ["Électroménager", /\b(raclette|appareil a raclette|poeles? de cuisine|casserole|friteuse|air fryer|lave-vaisselle|lave linge|seche-linge|aspirateur|congelateur|refrigerateur|cafetiere|bouilloire|mixeur|blender|micro-ondes|cookeo|robot cuisine|ventilateur de cou|ventilateur portable)\b/],
+    ["Maison", /\b(canape|fauteuil|meuble|mobilier|lampe de bureau|luminaire|matelas|linge de lit|protege matelas|gobelets?|vaisselle|philips hue|rubans? cadeaux|decoration|rangement|etagere|table basse|spa|piscine|barbecue|kit solaire|panneau solaire)\b/],
+    ["Bébé & enfants", /\b(bebe|puericulture|poussette|siege auto|biberon|couches?|lit bebe|chaise haute|babyphone|pot d'apprentissage|articles enfants|lego|playmobil|peluche|doudou|jouets?|jeu de construction|book nook|blu-ray|coffret blu-ray)\b/],
+    ["Mode", /\b(t-shirts?|tee-shirts?|chemise|pantalons?|jeans?|robe|manteau|veste|chaussettes|sous-vetements|pyjama|lunettes de soleil|sac a dos|chaussures de securite|chaussures?|baskets|sneakers|vetements?|mode|textile|laine merinos)\b/],
+    ["High-tech", /\b(pc|ordinateur|laptop|smartphone|iphone|mac mini|tablette|ipad|ssd|ram|processeur|carte graphique|gpu|cpu|informatique|ecran|moniteur|routeur|wifi|ethernet|hdmi|splitter|reseau|nas|serveur|lightroom|adobe|logiciel|watercooling|alimentation pc|pc-netzteil|cable ethernet|cle usb|disque dur|webcam|microphone|clavier|toner|multimetre|speaker wire|cable haut-parleur|ventilateur pc|insta360)\b/],
+    ["Bricolage", /\b(perceuse|visseuse|meuleuse|scie|ponceuse|outillage|outils?|bricolage|cle dynamometrique|chaine d'arrimage|remorquage|quincaillerie|peinture|visserie|coupe-bordures|tondeuse a gazon|taille-haie|debroussailleuse|tronconneuse|souffleur|nettoyeur haute pression|tournevis|marteau|forets?|foret helicoidal|cle a tube)\b/],
+    ["Bureau & papeterie", /\b(feutres?|marqueurs?|stylos?|crayons?|surligneurs?|cahiers?|carnets?|bloc notes|papier|ramette|encre|cartouches? d'encre|agrafeuse|agrafes|perforatrice|fournitures scolaires|papeterie|tableau blanc|ardoise|pochette|stylo bille)\b/],
+    ["Alimentation & boissons", /\b(thé|the|thes|infusions?|tisanes?|cafe|capsules de cafe|dosettes|chocolat|bonbons|biscuits|gateaux|cereales|pates alimentaires|riz|huile d'olive|epices|sauces?|conserves?|sachets? de the|boissons?|sirop|jus de fruits|eau minerale|epicerie|vin|biere)\b/],
+    ["Auto & moto", /\b(voiture|automobile|moto|scooter|pneus?|dashcam|chargeur voiture|accessoire voiture|batterie voiture|huile moteur|essuie-glace|porte-velo)\b/]
   ];
-  for (const [name, pattern] of rules) {
-    if (pattern.test(text)) return name;
+  for (const [category, pattern] of overrides) {
+    if (pattern.test(text)) return category;
   }
-  // L'ancienne catégorie n'est gardée qu'en dernier recours, pour les produits sans indice textuel.
+
+  // Les catégories du flux RSS Dealabs aident quand le titre est trop court ou tronqué.
+  const sourceHints = [
+    ["Gaming", /\/groupe\/(?:jeux-video|gaming|consoles?)(?:\/|$)/],
+    ["High-tech", /\/groupe\/(?:informatique|high-tech|smartphones?)(?:\/|$)/],
+    ["Sport & loisirs", /\/groupe\/(?:sports?-plein-air|sport|loisirs?)(?:\/|$)/],
+    ["Mode", /\/groupe\/(?:mode|mode-accessoires|vetements?)(?:\/|$)/],
+    ["Maison", /\/groupe\/(?:maison|jardin|decoration)(?:\/|$)/],
+    ["Électroménager", /\/groupe\/(?:electromenager|cuisine)(?:\/|$)/],
+    ["Beauté & santé", /\/groupe\/(?:beaute|hygiene|sante)(?:\/|$)/],
+    ["Animaux", /\/groupe\/(?:animaux|animalerie)(?:\/|$)/],
+    ["Bébé & enfants", /\/groupe\/(?:bebe|enfants|jouets)(?:\/|$)/],
+    ["Bricolage", /\/groupe\/(?:bricolage|outillage)(?:\/|$)/],
+    ["Bureau & papeterie", /\/groupe\/(?:papeterie|bureau)(?:\/|$)/],
+    ["Alimentation & boissons", /\/groupe\/(?:alimentation|courses|boissons)(?:\/|$)/]
+  ];
+  for (const [category, pattern] of sourceHints) {
+    if (pattern.test(source)) return category;
+  }
+
+  const validCategories = new Set([
+    "Gaming", "Bureau & papeterie", "High-tech", "Électroménager",
+    "Alimentation & boissons", "Bricolage", "Bébé & enfants", "Animaux",
+    "Mode", "Sport & loisirs", "Beauté & santé", "Maison", "Auto & moto", "Autre"
+  ]);
   const existing = String(offer.category || "").trim();
+  if (validCategories.has(existing) && existing !== "Autre") return existing;
   return existing || "Autre";
 }
 function matchesFilter(offer) {
