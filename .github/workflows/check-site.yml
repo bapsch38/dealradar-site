@@ -1,0 +1,33 @@
+name: Vérifier les fonctionnalités DealRadar
+
+on:
+  push:
+    paths:
+      - "index.html"
+      - "features.js"
+      - ".github/workflows/check-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le site
+        uses: actions/checkout@v4
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Vérifier la syntaxe JavaScript
+        run: node --check features.js
+      - name: Vérifier les composants attendus
+        run: |
+          grep -q 'id="mon-dealradar"' index.html
+          grep -q 'id="dr-category-preferences"' index.html
+          grep -q 'id="dr-watchlist"' index.html
+          grep -q 'id="dr-target-list"' index.html
+          grep -q 'community-feedback' .github/ISSUE_TEMPLATE/deal-feedback.md
+          echo "OK : personnalisation, favoris, objectifs de prix et retours communautaires présents."
