@@ -1,5 +1,149 @@
 [
   {
+    "title": "Zygomatic | Dobble : XXL | Jeu...s | 2 à 8 Joueurs | 15 Minutes",
+    "price": 9.99,
+    "reference_price": 24.5,
+    "discount_percent": 59.22,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DV9XQ7CP",
+    "image_url": "https://m.media-amazon.com/images/P/B0DV9XQ7CP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:36",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Matagot - Asmodee - Kites - Je...0 Ans - 2 à 6 Joueurs - 10 Min",
+    "price": 13.19,
+    "reference_price": 25.0,
+    "discount_percent": 47.24,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BZJQWNZ9",
+    "image_url": "https://m.media-amazon.com/images/P/B0BZJQWNZ9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:33",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 13.19,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Call to Arms & Angels",
+    "price": 11.0,
+    "reference_price": 24.0,
+    "discount_percent": 54.17,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09L1QJCQK",
+    "image_url": "https://m.media-amazon.com/images/P/B09L1QJCQK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:28",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.0,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mr.Wonderful - Agenda Wonder 2...e moment de réaliser tes rêves",
+    "price": 15.12,
+    "reference_price": 24.95,
+    "discount_percent": 39.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DWGXHDD6",
+    "image_url": "https://m.media-amazon.com/images/P/B0DWGXHDD6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:27",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 15.12,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Connex Lot de 242 crochets à v...sation universelle - DP8500110",
+    "price": 12.37,
+    "reference_price": 19.62,
+    "discount_percent": 36.95,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B085WP6BNV",
+    "image_url": "https://m.media-amazon.com/images/P/B085WP6BNV.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:22",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 12.37,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEDVANCE SMART+ Wi-Fi - Lampe ...radable, 2700 à 6500K réglable",
+    "price": 38.62,
+    "reference_price": 64.03,
+    "discount_percent": 39.68,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09F345WS1",
+    "image_url": "https://m.media-amazon.com/images/P/B09F345WS1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:21",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 38.62,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blue Print ADG02543 Filtre d'habitacle",
+    "price": 6.59,
+    "reference_price": 16.25,
+    "discount_percent": 59.45,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00B8VLJ5K",
+    "image_url": "https://m.media-amazon.com/images/P/B00B8VLJ5K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:21",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 6.59,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DJI ROMO A Robot aspirateur Laveur",
+    "price": 749.0,
+    "reference_price": 849.0,
+    "discount_percent": 11.78,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FPRCXJMB",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPRCXJMB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 18:21:20",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 749.0,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
     "title": "Clinique High Impact Eyeliner ...ent aux Yeux Sensibles, 0.67 g",
     "price": 22.45,
     "reference_price": 28.87,
@@ -1418,6 +1562,476 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Schleich ELDRADOR Creatures | ...ants dès 6 Ans | 10 x 5 x 6 cm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0F19DSFLN",
+    "image_url": "https://m.media-amazon.com/images/P/B0F19DSFLN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:20:51+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "DJI ROMO A Robot aspirateur Laveur",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FPRCXJMB",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPRCXJMB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:20:44+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Croci Ceremony Harnais pour Ch...liances, réglable, XS/22-35 cm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CYTQ2BDR",
+    "image_url": "https://m.media-amazon.com/images/P/B0CYTQ2BDR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:20:36+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "LEDVANCE SMART+ Wi-Fi - Lampe ...radable, 2700 à 6500K réglable",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09F345WS1",
+    "image_url": "https://m.media-amazon.com/images/P/B09F345WS1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:20:26+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Theo Klein Little Foot Ensembl...de Jardinage 3 pièces dès 3 an",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0D1CBG28H",
+    "image_url": "https://m.media-amazon.com/images/P/B0D1CBG28H.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:20:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Blue Print ADG02543 Filtre d'habitacle",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00B8VLJ5K",
+    "image_url": "https://m.media-amazon.com/images/P/B00B8VLJ5K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:20:14+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Connex Lot de 242 crochets à v...sation universelle - DP8500110",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B085WP6BNV",
+    "image_url": "https://m.media-amazon.com/images/P/B085WP6BNV.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:20:11+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Vinyle LP - Fauve \"Vieux Freres Partie 2\"",
+    "description": "19,99€ - Amazon On continue avec cette fois la partie 2 en promo. Liste des titres 1 Juillet (1998) 2 Paraffine 3 Rag #5 4 Tallulah 5 Bermudes 6 Azulejos 7 Sous Les Arcades 8 T.R.W. 9 Rag #6 10 Révérence 11 Les Hautes Lumières",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-lp-fauve-vieux-freres-partie-2-3431256",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Erw9J/3431256_1/re/1200x1200/qt/90/3431256_1.jpg",
+    "detected_at": "2026-10-12T18:18:46+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mr.Wonderful - Agenda Wonder 2...e moment de réaliser tes rêves",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DWGXHDD6",
+    "image_url": "https://m.media-amazon.com/images/P/B0DWGXHDD6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:18:44+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Call to Arms & Angels",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09L1QJCQK",
+    "image_url": "https://m.media-amazon.com/images/P/B09L1QJCQK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:18:41+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "The Expend4bles 4K Ultra HD Steelbook [Blu-ray]",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CNS19ZSX",
+    "image_url": "https://m.media-amazon.com/images/P/B0CNS19ZSX.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:18:35+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "RoboCop: Rogue City - Unfinished Business sur PS5 (vendeur tiers)",
+    "description": "26,90€ - Cdiscount RoboCop: Rogue City – Unfinished Business est une aventure autonome sur PS5. Affrontez des mercenaires dans l'OmniTower, un complexe résidentiel devenu forteresse. Utilisez l'arsenal de RoboCop pour restaurer l'ordre et la justice dans un monde chaotique. Préparez-vous à des combats intenses et à des ennemis high-tech!",
+    "price": 26.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/robocop-rogue-city-unfinished-business-ps5-3431253",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CyuXP/3431253_1/re/1200x1200/qt/90/3431253_1.jpg",
+    "detected_at": "2026-10-12T18:18:34+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 26.9,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rowenta Optiliss Lisseur cheve...stème de verrouillage SF3210F0",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B08GCDYC89",
+    "image_url": "https://m.media-amazon.com/images/P/B08GCDYC89.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:17:53+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Playmobil 71689 Junior Aqua : ...origine végétale - Dès 12 Mois",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CS85DFF7",
+    "image_url": "https://m.media-amazon.com/images/P/B0CS85DFF7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:17:31+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "KIKO Milano Coloured Balm - Teinte 02 Vanilla",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0GXFPQV4G",
+    "image_url": "https://m.media-amazon.com/images/P/B0GXFPQV4G.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:17:29+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "VT COSMETICS VT SPOT PATCH Cica Acné/boutons (48pcs)",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07MXH6LBB",
+    "image_url": "https://m.media-amazon.com/images/P/B07MXH6LBB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:17:22+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Carte Graphique Nvidia Geforce RTX 5060 Asus Dual 8GB GDDR7 OC (Vendeur Tiers)",
+    "description": "404,99€ - Amazon Bonne baisse de prix pour une bonne carte graphique. La livraison est prévue pour début novembre si commandée dans les prochains jours. Très bon model pour l’avoir déjà testé.",
+    "price": 404.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nvidia-geforce-rtx-5060-asus-dual-8gb-gddr7-oc-3431255",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/63WRz/3431255_1/re/1200x1200/qt/90/3431255_1.jpg",
+    "detected_at": "2026-10-12T18:17:08+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 404.99,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KIKO Milano Coloured Balm - Teinte 06 Blackberry",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0GXFQPKKC",
+    "image_url": "https://m.media-amazon.com/images/P/B0GXFQPKKC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:16:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "KIKO Milano Coloured Balm 04, ...ante À L'Arôme Fruité Agréable",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0GXFNRVRS",
+    "image_url": "https://m.media-amazon.com/images/P/B0GXFNRVRS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:16:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Matagot - Asmodee - Kites - Je...0 Ans - 2 à 6 Joueurs - 10 Min",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BZJQWNZ9",
+    "image_url": "https://m.media-amazon.com/images/P/B0BZJQWNZ9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:16:23+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Doudoune longue femme Up 2 Fashion – Tailles du S au XL",
+    "description": "18,99€ - Aldi Doudoune longue femme UP 2 FASHION – 18,99 € chez ALDI L'hiver approche et ALDI a pensé à ceux qui veulent rester bien au chaud sans dépenser une fortune ! ❄️ Dès le mercredi 14 octobre, retrouvez cette doudoune longue UP 2 FASHION à seulement 18,99 €. Un prix plutôt sympa pour une veste qui permet de se couvrir davantage qu'une doudoune courte, notamment quand les températures commencent à chuter. Avec sa coupe longue et son style matelassé, elle se porte facilement au quotidien, que ce soit pour aller travailler, faire les courses ou partir en balade. Et à ce prix, pas besoin de casser sa tirelire pour renouveler sa garde-robe ! Marque : UP 2 FASHION Tailles disponibles : du S au XL Dessus : 100 % polyamide ☁️ Doublure et rembourrage : 100 % polyester Modèle noir présenté 18,99 € l'unité Disponible dès le 14 octobre chez ALDI Une doudoune longue à moins de 20 €, c'est une option intéressante pour s'équiper avant les premiers vrais coups de froid. Et le noir, au moins, ça va avec presque tout !",
+    "price": 18.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/doudoune-longue-femme-up-2-fashion-tailles-disponibles-du-s-au-xl-3431251",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4BB7d/3431251_1/re/1200x1200/qt/90/3431251_1.jpg",
+    "detected_at": "2026-10-12T18:16:01+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Zygomatic | Dobble : XXL | Jeu...s | 2 à 8 Joueurs | 15 Minutes",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DV9XQ7CP",
+    "image_url": "https://m.media-amazon.com/images/P/B0DV9XQ7CP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:15:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Asmodee - Cocktail Games - Una...s - 20 min - Version Française",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07H9V63CP",
+    "image_url": "https://m.media-amazon.com/images/P/B07H9V63CP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:15:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Blue Orange Kingdomino Origins, KINGDOM_ORIGINS",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09FM5W7M1",
+    "image_url": "https://m.media-amazon.com/images/P/B09FM5W7M1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T18:15:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Mortal Kombat Legacy Kollection sur PS5",
+    "description": "32,06€ - Cdiscount Découvrez Mortal Kombat : Legacy Kollection sur PS5, une compilation des jeux emblématiques de la franchise. Revivez les classiques des salles d’arcade et explorez des versions rares sur diverses consoles. Plongez dans l’histoire de Mortal Kombat avec des témoignages exclusifs et des archives vidéo, célébrant plus de 30 ans d’héritage révolutionnaire.",
+    "price": 32.06,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mortal-kombat-legacy-kollection-jeu-ps5-3431249",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ylHVj/3431249_1/re/1200x1200/qt/90/3431249_1.jpg",
+    "detected_at": "2026-10-12T18:15:32+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 32.06,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Meuleuse d'angle Parkside PWS 125 I9",
+    "description": "19,99€ - Lidl",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/meuleuse-dangle-pws-125-i9-3431250",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/nkgDB/3431250_1/re/1200x1200/qt/90/3431250_1.jpg",
+    "detected_at": "2026-10-12T18:14:18+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 4 pneus été Goodyear Eagle F1 Asymmetric 6 – 225/40 R18 92Y XL (via ODR de 110 €)",
+    "description": "264€ - 1001pneus Pour ceux qui cherchent 4 pneus été performants en 18 pouces, les Goodyear Eagle F1 Asymmetric 6 en 225/40 R18 92Y XL sont proposés chez 1001Pneus, avec une offre de remboursement Goodyear de 110 €. Prix final annoncé : 264 € les 4 après remboursement, hors frais de montage. Ce modèle est conçu pour les compactes sportives, berlines et véhicules électriques, avec une bonne tenue de route sur sol sec comme mouillé. Caractéristiques : Marque : Goodyear Modèle : Eagle F1 Asymmetric 6 Dimensions : 225/40 R18 Indices : 92Y XL (pneu renforcé) Saison : été Adhérence sur sol mouillé : A Efficacité énergétique : C Bruit de roulement : 70 dB (classe B) Rebord de protection de jante Compatible véhicules électriques et hybrides Livraison offerte chez 1001Pneus Modalités de l'ODR Goodyear 2026 Offre valable du 7 octobre au 21 novembre 2026 inclus. Goodyear rembourse jusqu'à 140 € par virement bancaire pour l'achat et le montage de 2 ou 4 pneus éligibles chez un revendeur participant. Comment obtenir les 110 € de remboursement ? Commander simultanément les 4 pneus sur le site d'un revendeur participant à l'opération entre le 07/10 et le 21/11/2026. Faire monter les pneus dans un garage dans les 10 jours calendaires suivant la commande. Conserver le bon de commande en ligne et la facture de montage. Récupérer le code de l'opération, fourni par le revendeur lors de la commande ou du montage. Il doit figurer sur un des justificatifs. Effectuer la demande sur le site officiel Goodyear dans les 10 jours calendaires suivant le montage, avec les justificatifs et le RIB. Recevoir le remboursement par virement bancaire environ 6 à 8 semaines après validation du dossier. Conditions importantes : Offre limitée aux 18 000 premières inscriptions. Un seul remboursement par foyer ou entreprise. Pneus été, hiver et toutes saisons éligibles, sous réserve de porter l'offre. Offre non cumulable avec une autre promotion Goodyear. Les demandes par courrier ou e-mail ne sont pas acceptées. Le montage est obligatoire pour bénéficier du remboursement. Consulter les modalités officielles complètes (PDF)",
+    "price": 264.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-4-pneus-ete-goodyear-eagle-f1-asymmetric-6-22540-r18-92y-xl-via-odr-de-110-eur-3431248",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wU4xy/3431248_1/re/1200x1200/qt/90/3431248_1.jpg",
+    "detected_at": "2026-10-12T18:10:56+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 264.0,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Terminator 2D: No Fate sur PS5",
+    "description": "30,36€ - Cdiscount Terminator 2D No Fate sur PS5 propose une expérience d’action en 2D rythmée et intense, fidèle à l’univers emblématique de la saga Terminator. Idéal pour les amateurs de gameplay nerveux.",
+    "price": 30.36,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/terminator-2d-no-fate-jeu-ps5-3431247",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/T67wo/3431247_1/re/1200x1200/qt/90/3431247_1.jpg",
+    "detected_at": "2026-10-12T18:10:17+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 30.36,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Alan Wake sur PC (Dématérialisé)",
+    "description": "1,25€ - GOG SANS DRM. Aucune activation ou connexion en ligne requise pour jouer. Quand Alan Wake, écrivain best-seller, part à la recherche de son épouse disparue sur leur lieu de vacances, son dernier roman qu'il ne se souvient pas avoir écrit, prend vie. Une présence sinistre rôde dans les rues de la petite ville de Bright Falls et Wake devra se battre pour ne pas sombrer dans la folie alors qu'il tente de retrouver sa bien-aimée. Ancré dans un style de thriller télévisé, Alan Wake propose un scénario bien ficelé et des séquences d'action palpitantes, dignes de ce que l'on pouvait attendre de son développeur, Remedy Entertainment. Les joueurs devront élucider un sombre mystère riche en rebondissements, intrigues et suspense. Dans ce thriller d'action psychologique, il faudra maîtriser la lumière et ses mécanismes de combat pour ne pas succomber à l'obscurité qui envahit Bright Falls. Mêlant habilement action effrénée et thriller psychologique, l'atmosphère tendue d'Alan Wake, son scénario complexe, ses moments de pure horreur et ses séquences de combat extrêmement intenses promettent aux joueurs une expérience aussi divertissante qu'originale. Comprend les chapitres spéciaux d'Alan Wake \"Le signal\" et \"L'écrivain\". DES CINÉMATIQUES INTENSES – Remedy, le maître de l'action, signe un jeu d'action à la 3e personne aux obstacles infranchissables et aux échappées désespérées. UN SUSPENSE À COUPER LE SOUFFLE – Grâce à un scénario prenant, Alan Wake ressemble à une série télévisée à suspense rythmée qui offre de multiples rebondissements menant à une conclusion épique. LA LUMIÈRE EST VOTRE ARME – La lumière est votre meilleure arme et votre seule protection contre l'obscurité qui envahit tout et tout le monde, avant de se retourner contre vous.",
+    "price": 1.25,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/alan-wake-3431243",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/7h9hP/3431243_1/re/1200x1200/qt/90/3431243_1.jpg",
+    "detected_at": "2026-10-12T18:07:14+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1.25,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Metaphor Refantazio sur PS5/PS4 (Dématérialisé)",
+    "description": "27,99€ - PlayStation Store Fin de l'offre le 22 octobre.",
+    "price": 27.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/metaphor-refantazio-ps5ps4-via-ps-store-3431244",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fg96I/3431244_1/re/1200x1200/qt/90/3431244_1.jpg",
+    "detected_at": "2026-10-12T18:07:12+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 27.99,
+        "observed_at": "2026-10-12T18:21:49.412746+00:00"
       }
     ]
   },
@@ -9331,537 +9945,6 @@
       {
         "price": 66.9,
         "observed_at": "2026-10-12T12:59:39.198361+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bracelet de suivi d'activité physique Google Fitbit Air - noir volcanique",
-    "description": "97,92€ - Amazon Petite baisse de prix. Découvrez la puissance d'un suivi sans effort. Avec le Google Fitbit Air, améliorez votre bien-être de façon incroyablement confortable et intelligente. Découvrez Coach Google Health. L'achat d'un Google Fitbit Air inclut trois mois de conseils personnalisés en fonction de vos besoins. Le tout grâce à un suivi simple, fiable et continu. Votre zone cardio idéale. Découvrez comment évolue votre forme physique grâce à un objectif d'activité personnalisé chaque semaine. Suivi continu de la fréquence cardiaque. Obtenez une vue complète de votre fréquence cardiaque pour mieux comprendre votre état de bien-être général. Le Google Fitbit Air est compatible avec iOS, avec Android… et avec vous. Découvrez le bracelet performance, un accessoire confortable fabriqué avec des matériaux recyclés. Souple et ajustable au millimètre près, il vous accompagne dans toutes vos activités.",
-    "price": 97.92,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/google-fitbit-air-noir-volcanique-3430879",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:19:37+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 97.92,
-        "observed_at": "2026-10-12T12:59:39.198367+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets basses Nike Sportswear AIR MAX 90 SE - noir, du 38,5 au 49,5",
-    "description": "74,90€ - Privé by Zalando Occasion: loisirs Sport: fitness et entraînement Bout de la chaussure: rond Largeur de chaussure: classique Informations additionnelles: découpes Motif: imprimé Fermeture: laçage Référence du modèle: IR5903-010 Référence: NI112P06Q-Q11",
-    "price": 74.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nike-sportswear-air-max-90-se-baskets-basses-noir-plusieurs-tailles-3430878",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:18:56+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 74.9,
-        "observed_at": "2026-10-12T12:59:39.198373+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Construisez une petite rue hantée en briques LEGO et repartez avec votre construction - Magasins participants",
-    "description": "Lego [Gratuit] Construisez une rue hantée LEGO et repartez avec votre création Bon plan gratuit chez LEGO ! À l’occasion d’Halloween, les LEGO Stores participants proposent une animation gratuite : construisez une petite rue hantée en briques LEGO et repartez avec votre construction ! Dates et horaires selon les magasins : Vendredi 23/10 : de 16h à 18h Samedi 24/10 : de 10h à 12h Clermont-Ferrand Lille Lyon Paris So Ouest Samedi 24/10 : de 10h à 12h Dimanche 25/10 : de 11h à 13h Disneyland Paris Paris Forum des Halles Paris Les 4 Temps Marseille Nice Bordeaux ⚠️ Conditions : Animation gratuite. Réservée aux enfants de 6 ans et plus. Une seule construction par personne. Quantités limitées : premier arrivé, premier servi, dans la limite des stocks disponibles. La construction ne peut pas être achetée séparément. Liens officiels pour vérifier les horaires : Magasins de Clermont-Ferrand, Lille, Lyon et So Ouest Magasins de Bordeaux, Disneyland Paris, Forum des Halles, Les 4 Temps, Marseille et Nice Bonne chasse aux briques !",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/construisez-une-rue-hantee-lego-et-ramenez-la-chez-vous-3430877",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:17:51+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "FEIN Meuleuse d’angle sans fil...IN, sans Batteries ni Chargeur",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0DG9331GY",
-    "image_url": "https://m.media-amazon.com/images/P/B0DG9331GY.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T09:17:03+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Lave Vaisselle Beko BDFN26441G - 60cm, 14 Couverts, 46dB, Hauteur 85cm",
-    "description": "399€ - Boulanger Type d'installation Pose libre avec panneau de commande apparent Avantage pose libre il peut être posé librement dans la cuisine et possède sa propre façade. Pour une niche de (l x h x p) 59.8 x 85 x 60 cm Façade décorative Elle n'est pas nécessaire pour cet appareil Compatible plinthe basse ( ou glissière) Non, la porte d'habillage décorative à ajouter est à visser et sera fixe sur le lave vaisselle Top amovible Non Confort sonore Niveau sonore mesuré en décibels 46 dB Classe d'efficacité du niveau sonore C Programme différé 24 heures Avantage du programme différé Permet de programmer un cycle de lavage aux heures creuses ou quand vous n'êtes pas présent Séchage Type de séchage standard, porte fermée Ouverture automatique de la porte Oui Avantage de l'ouverture automatique de la porte Après le cycle de lavage , la porte du lave vaisselle s'ouvre automatiquement pour laisser la vapeur s'échapper. Cela permet à l'air de pénétrer à l'intérieur et de sécher les ustensiles, plats et couverts. Aménagement intérieur Nombre de couverts standard 14 couverts Panier à couverts 1 Emplacement du panier à couverts Modulable Tiroir à couverts Non Panier supérieur réglable en hauteur Oui, chargé Avantage du panier supérieur réglable en hauteur Permet de laver des plats de grandes tailles ou de grands verres à pieds. Picots rabattables Oui Boite à produits maxiPerformance Non Programmes Nombre de programmes 6 Détails des programmes et températures 35 40 50 65 70 Programme demi charge Oui Praticité Affichage du temps restant Non Connecté Non Dosage automatique Non Connecté Demandez des conseils directement à votre assistant (via App ou vocal selon compatibilité) Non Accédez à des astuces, manuels d'utilisation et un support maintenance Oui Consommation et économie d'énergie Nous avons calculé pour vous les consommations des appareils ménagers (lave linge, lave-linge séchant, lave-vaisselle, sèche linge) sont calculées avec le programme éco 40 60° Durée du cylce du programme de référence (programme éco) 3 h Label énergie C Consommation en électricité pour 100 cycles (programme éco) 75 kWh Consommation en eau (programme eco) 10,9 litres / cycle Coût annuel électricité (basé sur 280 cycles) 41 euros par an Coût annuel eau (basé sur 280 cycles) 14 euros par an Coût annuel d'utilisation (basé sur 280 cycles) 55 euros par an Basse consommation un changement de classe représente 10% d'économies sur la consommation d'énergie Source ADEME Conception Type de moteur Classique Paroi de la cuve Inox Avantage de l'inox L'inox est un matériau de haute résistance gage de qualité et de durabilité. En plus, l'inox permet d'éviter les mauvaises odeurs ! Fond de la cuve Inox Sécurité Sécurité enfant Oui Principe de la sécurité enfant Nécessite plus de force pour ouvrir la porte du lave-vaisselle Sécurité aquastop Non Dimensions Poids net 44,7 kg Poids brut 48,2 kg L x H x P 59.8 x 85 x 60 cm Informations complémentaires Fabriqué en Turquie Garantie 2 ans Disponibilité des pièces détachées (données fournisseur) Pendant 15 ans, à compter de la date d'achat Référence constructeur BDFN26441G Marque BEKO Nos services complémentaires Les experts B'dom vous accompagnent Pour l'installation de votre lave-vaisselle, cliquez ici ! Boulanger INFINITY Réparez en illimité* vos appareils achetés chez Boulanger ou ailleurs (*conditions détaillées dans la notice d'information de la garantie Boulanger INFINITY) en savoir plus Détail conformité produit Personne responsable au sein de l’Union européenne Beko France Beko Europe Management S.r.l Via Varesina 204 20156 Milan (Ml) IT www.bekoeurope.com/safety",
-    "price": 399.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lave-vaisselle-60-cm-beko-bdfn26441g-3430876",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:13:00+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 399.0,
-        "observed_at": "2026-10-12T12:59:39.198380+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac à Dos Voyage Cabine Lossga 40x30x20 - Noir (vendeur tiers)",
-    "description": "18,72€ - Amazon Petite baisse de prix ! :) Détails : propos de cet article 【Taille et Capacité】 nos sacs à dos de voyage sont soigneusement conçus pour répondre aux exigences de taille de Ryanair. La taille du sac à dos à pleine charge est de 40x20x25cm, il peut y avoir une erreur de 2-3cm en raison de la différence de mesure manuelle et de la méthode de mesure. Ces dimensions compactes vous permettent de les placer facilement sous votre siège et conviennent également à easyJet, wizz air, Tui, vueling, etc. 【Compartiment multifonctionnel 】Ce sac à dos a une poche humide pour stocker des articles de toilette tels que des serviettes humides; Plusieurs petits compartiments internes pour les documents tels que les passeports; Une poche avant pour les billets de banque, les clés; Compartiment principal pour le rangement des vêtements et autres nécessités de voyage; Il y a une poche antivol dans le dos et une poche séparée pour ordinateur de 14”. 【Soulage le stress sur les épaules】Nous utilisons un matériau respirant en nid d’abeille dans les bretelles rembourrées et le dos afin que vous restiez au frais lorsque vous le portez pendant une longue durée. En outre le sac à dos est doté d’une sangle lui permettant d’être accroché sur un trolley sans l’appesantir. 【Résistant à l'eau et Durable 】En matériau composite résistant à l'eau, avec fermeture éclair de haute qualité et couture de renforcement, durable. C'est le sac à dos idéal pour le travail de bureau et les voyages en plein air. 【Poche Principale Ouverte à 180° 】La poche principale du sac à dos peut être ouverte à 180°, ce qui rend son utilisation pratique et rapide. Ainsi, vous pourrez y insérer plus facilement et rapidement vos affaires, comme votre ordinateur portable, au moment de passer le contrôle de sécurité.",
-    "price": 18.72,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-voyage-cabine-lossga-40x30x20-noir-vendeur-tiers-3430875",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:12:55+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 18.72,
-        "observed_at": "2026-10-12T12:59:39.198389+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chargeur USB-C Anker Nano II - 65W, Technologie GaN II (Vendeur tiers)",
-    "description": "23,99€ - Amazon Chargeur USB-C Anker Nano II 65 W avec Technologie GaN II À propos de cet article Le seul chargeur USB-C dont vous avez besoin : jetez vos vieilles alimentations. Le petit chargeur rapide Anker Nano II vous offre la puissance dont vous avez besoin pour charger rapidement votre téléphone, votre tablette et votre ordinateur portable USB-C. Charge à haute vitesse : chargez un MacBook Air 2020 en moins de 2 heures, un MacBook Pro 13″ ultrarapidement, un iPhone 12 jusqu'à 3 fois plus vite qu'avec un chargeur Apple de 5 W, idem pour les derniers téléphones Samsung grâce à la compatibilité avec la technologie Super Fast Charging de Samsung. Conception compacte : le chargeur Anker Nano II est 58 % plus petit qu'un chargeur USB-C de 61 W standard, il prend moins de place tout en vous offrant autant de puissance. Alimenté par la technologie GaN II : avec une fréquence de fonctionnement optimale, une conception empilée innovante et une structure de carte de circuit améliorée, la technologie GaN II nous a permis de concevoir un petit chargeur très puissant et compact. Ce que vous obtenez : le chargeur usb-c Anker Nano II 65 W, le guide de bienvenue, notre garantie sérénité de 18 mois et notre service client attentionné (câble non inclus). Spécifications Marque: Anker Type de connecteur: USB Type C Appareils compatibles: MacBook Air 2020, MacBook Pro 13'', Dell XPS 13 9360/9380, ThinkPad E490, HP Spectre Folio, ThinkPad X390, Google Pixelbook, Microsoft Surface Book 2, Nintendo Switch, Apple Watch, AirPods, Ankers magnetische Ladepads mit USB-C Ladekabel, iPad mini 5 / 4, iPad Pro, ab iPad 2018, iPhone 15 / Pro / Pro Max / SE 2020 / 11 / 11 Pro / 11 Pro Max / XS / XS Max / XR / X / 8 Plus / 8 / 7 Plus / 7 / 6 Plus, Galaxy S21 / S21+ / S21 Ultra / Galaxy S10 / S10+ / S10e / S9 / S9+ / S8 / S8+, Note10 / 9 / 8, Google Pixel 3a / 3XL / 3 / 2 XL / 2, Sony XZ3, Sony Xperia 1 Voir plus Modèles de téléphone compatibles: iPhone 12/Pro/Mini, 11/Pro/Pro Max/XS/XS Max/XR/X/8 Plus/8/7 Plus/7/6 Plus, Galaxy S21/S21+/S21 Ultra/S20/S10/S10+/S10e/S9/S9+/S8/S8+, Note10/9/8, Google Pixel 3a/3XL/3/2 XL/2, Sony XZ33. , Xperia 1, iPad Mini 5/4, Pro, MacBook Air 2020, Pro 13\", Dell XPS 13 9360/9380, ThinkPad E490, HP Spectre Folio, X390, Pixelbook, Microsoft Surface Book 2, Nintendo Switch, Apple Watch, AirPods Voir plus Composants inclus: Charger Caractéristique spéciale: Charge rapide Couleur: blanc Tension d'entrée: 240 Volts Ampérage: 3,25 A Total de ports USB: 1 entrée rgb analogique: USB Type C appareils compatibles: MacBook Air 2020, MacBook Pro 13'', Dell XPS 13 9360/9380, ThinkPad E490, HP Spectre Folio, ThinkPad X390, Google Pixelbook, Microsoft Surface Book 2, Nintendo Switch, Apple Watch, AirPods, Ankers magnetische Ladepads mit USB-C Ladekabel, iPad mini 5 / 4, iPad Pro, ab iPad 2018, iPhone 15 / Pro / Pro Max / SE 2020 / 11 / 11 Pro / 11 Pro Max / XS / XS Max / XR / X / 8 Plus / 8 / 7 Plus / 7 / 6 Plus, Galaxy S21 / S21+ / S21 Ultra / Galaxy S10 / S10+ / S10e / S9 / S9+ / S8 / S8+, Note10 / 9 / 8, Google Pixel 3a / 3XL / 3 / 2 XL / 2, Sony XZ3, Sony Xperia 1 Modèles de téléphones compatibles: iPhone 12/Pro/Mini, 11/Pro/Pro Max/XS/XS Max/XR/X/8 Plus/8/7 Plus/7/6 Plus, Galaxy S21/S21+/S21 Ultra/S20/S10/S10+/S10e/S9/S9+/S8/S8+, Note10/9/8, Google Pixel 3a/3XL/3/2 XL/2, Sony XZ33. , Xperia 1, iPad Mini 5/4, Pro, MacBook Air 2020, Pro 13\", Dell XPS 13 9360/9380, ThinkPad E490, HP Spectre Folio, X390, Pixelbook, Microsoft Surface Book 2, Nintendo Switch, Apple Watch, AirPods Caractéristiques spéciales: Charge rapide Intensité du courant: 3,25 A nombre total de ports usb: 1 Puissance en watts: 65 Courant de sortie: 3,25 A Tension de sortie: 5 Volts Source énergétique: Câble électrique Évaluation du courant: 2,4 A Type de connecteur d’alimentation principal: 2 pin Portable: Oui Nombre de niveaux de puissance: 1 type de prise électrique: Type A – 2 broches (Amérique du Nord) Modèles de téléphones cellulaires compatibles: Apple iPhone 13, Sa",
-    "price": 23.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chargeur-usb-c-anker-nano-ii-65-w-avec-technologie-gan-ii-3430874",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:12:46+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 23.99,
-        "observed_at": "2026-10-12T12:59:39.198395+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Panneaux Muraux Monzana - avec 68 Supports & 28 Boites de Rangements (Vendeur Tiers)",
-    "description": "48,99€ - Amazon SYSTÈME DE RANGEMENT PRATIQUE : Ne cherchez plus vos outils ! Le panneau mural de rangement est idéal pour accrocher vos outils. Que ce soit un tournevis, une clé ou un marteau, chaque outil trouvera sa place. L'organisateur à outils est un indispensable dans votre atelier ou garage. MODULABLE : Les 65 supports d'outils ainsi que les 28 boites de rangement empilables peuvent être fixés individuellement sur le panneau mural perforé. Vous pouvez concevoir votre propre système de rangement et le modifier si nécessaire lorsque vous achetez des nouveaux outils. EXTENSIBLE : Les 4 panneaux muraux de 47,5 x 54 cm chacun peuvent être superposés ou juxtaposés selon vos besoins. Grâce à la possibilité d'extension du système de rangement, les panneaux peuvent être combinés et étendus avec d'autres bacs empilables, crochets à outils et supports. PEU ENCOMBRANT : Grâce au montage mural, vous ne perdez plus de place sur votre établi ! L'ensemble de rangement mural est un véritable gain de place pour votre établi. CARACTÉRISTIQUES TECHNIQUES : Matériau : plastique polypropylène / 60 crochets à outils (20 crochets standard, 10 crochets en forme de 'O', 10 en forme de 'J', 10 en forme de 'VV' et 10 en forme de 'V') / 2 Tablettes pour outils / 2 Supports pour outils / 28 boîtes de rangement / Dimensions panneaux : 95 x 45 cm Spécifications Marque: Monzana Couleur: Multicolore Matériau: plastique polypropylène Dimensions de l'article L x l x H: 47,5 x 47,5 x 54 centimètres Nombre d'unités: 1.0 unité Type de fixation: Montage mural Nombre d'articles: 96 Fabricant: Monzana Point fort de l’article: 2x panneau mural, 14x bac noir, 14x bac rouge, 60 crochets, 2 supports tournevis, 2 plateaux outils, 1 support clé à molette Voir plus Dimensions de l’article: 47,5 x 47,5 x 54 centimètres Unité de comptage: 1.0 unité Type d'installation: Montage mural Charge maximale recommandée: 5 Kilogrammes Type de matériau: plastique polypropylène Pays d'origine: Chine Numéro du modèle: 997843 Numéro de pièce: 997843 Classement des meilleures ventes d'Amazon: 6366 en Bricolage (Voir les 100 premiers en Bricolage) 118 en Râteliers muraux ASIN: B0GL23BJZK Moyenne des commentaires client: 3,5 3,5 sur 5 étoiles (20) 3,5 sur 5 étoiles Commentaires client",
-    "price": 48.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/panneaux-muraux-monzana-avec-68-supports-et-28-boites-de-rangements-vendeur-tiers-3430871",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:12:31+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 48.99,
-        "observed_at": "2026-10-12T12:59:39.198400+00:00"
-      }
-    ]
-  },
-  {
-    "title": "2€ de réduction dès 19€ d'achat, 7€ dès 59€, 13€ dès 109€, 29€ dès 239€ & 39€ dès 329€ sur une sélection d'articles",
-    "description": "AliExpress Quelques codes AliExpress valables sur une sélection de produits ! :) → Du 13/10 00h00 au 16/10 23h59 -2€ dès 19€ d'achat : WOFR02 -7€ dès 59€ d'achat : WOFR07 -13€ dès 109€ d'achat : WOFR13 -29€ dès 239€ d'achat : WOFR29 -39€ dès 329€ d'achat : WOFR39 Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
-    "price": 19.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/2eur-de-reduction-des-19eur-dachat-7eur-des-59eur-13eur-des-109eur-29eur-des-239eur-39eur-des-329eur-sur-une-selection-darticles-3430872",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:11:35+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.0,
-        "observed_at": "2026-10-12T12:59:39.198406+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tensiomètre grand écran Beurer BC 28 au poignet - 2 x 60 mémoires ( 8.4 x 2.9 x 6 cm)",
-    "description": "17,99€ Nouvelle baisse de prix ! :) Le tensiomètre au poignet Beurer permet de mesurer automatiquement la pression artérielle et le pouls en quelques instants. Simple à utiliser, il dispose d’un grand écran LCD lisible, d’un indicateur coloré pour interpréter les résultats et d’une mémoire intégrée pour suivre vos mesures au fil du temps. Détails : Mesure automatique de la tension artérielle et du pouls au poignet. Échelle de couleurs pour faciliter la classification des valeurs mesurées. ❤️ Détection des arythmies : signale les irrégularités du rythme cardiaque détectées par l’appareil. Grande mémoire intégrée : 2 × 60 emplacements pour conserver les mesures. Grand écran LCD : affichage clair et facile à lire. Fonctionnement sur piles : pratique sans câble d’alimentation. ⚡ Arrêt automatique pour limiter la consommation d’énergie. Format compact : facile à ranger et à transporter. Caractéristiques techniques : Marque : Beurer Modèle : Beurer Wrist Blood Pressure Monitor Type : Tensiomètre électronique au poignet Mesures : Pression artérielle et pouls Affichage : Écran LCD Fonctionnement : Sur piles Mémoire : 2 × 60 mesures Fonctions : Classification colorée, détection des arythmies, arrêt automatique Longueur du bracelet : Environ 19,5 cm Dimensions : 8,4 × 6 × 2,9 cm Contenu inclus : Manchette Quantité : 1 appareil",
-    "price": 17.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tensiometre-grand-ecran-beurer-bc-28-au-poignet-2-x-60-memoires-84-x-29-x-6-cm-3430870",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:07:14+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 17.99,
-        "observed_at": "2026-10-12T12:59:39.198412+00:00"
-      }
-    ]
-  },
-  {
-    "title": "KMP 75–SA Toner équivalent de Samsung MLT-D111L/ELS noir",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0104LJZQO",
-    "image_url": "https://m.media-amazon.com/images/P/B0104LJZQO.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T09:04:53+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "TV 65\" LG 65QNED80A6A - QNED AI, 165,1cm, 4K Ultra HD, Smart TV, Wifi, Noir",
-    "description": "489,99€ - JoyBuy • En savoir plus sur l'étiquette de performance énergétique ou information sur le produit À quoi sert ce téléviseur ? Home cinéma Expérience cinéma immersive : 65 pouces, 4K Ultra HD, HDR10 et son Dolby Digital. Streaming et applications Smart TV WebOS : accès instantané à Netflix, Prime Video, Disney+, AirPlay 2 et Alexa. Design minimaliste Profil ultra-fin, bords quasi-invisibles et montage VESA flexible LG QNED AI 65QNED80A6A. Taille de l'écran : 165,1 cm (65 \"), Résolution de l'écran : 3840 x 2160 pixels, Type de HD : 4K Ultra HD, Technologie d'affichage : QNED, Forme de l'écran : plat, Rétroéclairage LED : Edge-LED. Smart TV. Format d'image : 16:9.Format du système de signal numérique : DVB-S2, DVB-T, DVB-T2. Wi-Fi, Ethernet/LAN. Couleur du produit : noir",
-    "price": 489.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-65-lg-65qned80a6a-qned-ai-1651cm-4k-ultra-hd-smart-tv-wifi-noir-3430867",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:02:53+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 489.99,
-        "observed_at": "2026-10-12T12:59:39.198420+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sweat à capuche Adidas Entrada 22 - Rouge (taille S)",
-    "description": "22,50€ - Amazon Baisse de prix :) Description : Coupe standard. Capuche réglable par cordon de serrage. 70 % coton, 30 % polyester (recyclé). Poche kangourou. Base et poignets côtelés. Soutient Better Cotton Initiative. Taille : S",
-    "price": 22.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sweat-a-capuche-adidas-entrada-22-rouge-taille-s-3430865",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:00:59+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 22.5,
-        "observed_at": "2026-10-12T12:59:39.198425+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chauffage électrique connecté Philips 5000 - 2000w, 20m2, noir",
-    "description": "79,99€ - Amazon CHAUFFAGE RAPIDE EN 2 SECONDES : avec puissance réglable jusqu'à 2000W. Idéal pour les pièces jusqu'à 20m². AFFICHAGE DE LA TEMPÉRATURE : offre un contrôle rapide et sans effort, vous permettant de surveiller et d'ajuster les réglages de chaleur selon votre confort. L'affichage amélioré de la température offre une précision accrue[2]. ALIMENTÉ PAR L'INTELLIGENCE ARTIFICIELLE (IA) : la première gamme de chauffage électrique au monde utilisant l'IA pour économiser l'énergie tout en chauffant, permettant jusqu'à 50 % d'économies d'énergie[1]. CONNEXION AVEC L'APPLICATION PHILIPS AIR+ : ajustez, surveillez ou programmez votre chauffage, que vous soyez à la maison ou en déplacement. 5 FONCTIONS DE SÉCURITÉ AVANCÉES : comprend une protection anti-basculement, une protection contre la surchauffe, une prise de sécurité certifiée VDE, des matériaux ignifuges et un arrêt automatique de sécurité",
-    "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chauffage-electrique-connecte-5000-philips-2000w-20m2-noir-3430864",
-    "image_url": "",
-    "detected_at": "2026-10-12T09:00:45+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-12T12:59:39.198431+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Clients Sosh] Smartphone 6,83\" Xiaomi Redmi Note 17 Pro Max 5G - 256Go (Via 70€ d'ODR & 50€ de Bonus Reprise)",
-    "description": "279€ - Sosh Super prix pour le Xiaomi REDMI Note 17 Pro Max ! Bonus reprise50 € Remboursement Xiaomi 70 € 270117-xiaomi-redmi-note-17-series-j70e.pdf code SOSH15",
-    "price": 279.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/clients-sosh-smartphone-683-xiaomi-redmi-note-17-pro-max-5g-256go-via-70eur-dodr-50eur-de-bonus-reprise-3430856",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:59:37+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 279.0,
-        "observed_at": "2026-10-12T12:59:39.198436+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Adaptateur Secteur USB C Apple 20W - Édition 2025",
-    "description": "19€ - Amazon L' adaptateur secteur USB-C 20 W Apple (édition 2025) est l'accessoire officiel indispensable pour recharger vos appareils de manière rapide, efficace et sécurisée, que ce soit à la maison, au bureau ou en déplacement. Il permet de profiter pleinement de la charge rapide sur tous les modèles d' iPhone compatibles (recharge jusqu'à 50 % de la batterie en 30 minutes environ), ainsi que sur les iPad et Apple Watch . Son format compact et élégant garantit une portabilité maximale, tandis que l'ingénierie officielle Apple assure une protection optimale contre la surchauffe et les surtensions. Points forts ⚡ Charge Ultra-Rapide : Recharge votre iPhone compatible jusqu'à 50 % en seulement 30 minutes. Qualité Officielle Apple : Sécurité maximale contre les surchauffes, surcharges et court-circuits. Compatibilité Étendue : Fonctionne avec tous les iPhone, iPad, Apple Watch et boîtiers AirPods équipés d'un câble USB-C. ✈️ Design Compact & Nomade : Format discret et léger, facile à glisser dans n'importe quel sac ou poche. ️ Fiche technique ComposantSpécificationsMarque / Modèle Apple / Adaptateur secteur USB-C 20 W (2025) Type de produit Chargeur mural / Adaptateur secteur USB-C Puissance de sortie 20 W (Power Delivery) Connectique de sortie Port USB-C unique Compatibilité principale iPhone (8 et ultérieurs), iPad Pro/Air/mini, Apple Watch, AirPods Type de prise Secteur UE (Type C/F) Couleur Blanc",
-    "price": 19.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/adaptateur-secteur-usb-c-apple-20-w-edition-2025-3430863",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:58:54+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.0,
-        "observed_at": "2026-10-12T12:59:39.198446+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie Externe Anker A1383 - 20000 mAh, 87W en charge maximale, 65W sur USB-C, PowerIQ, câble USB-C intégré ( Vendeur Tiers )",
-    "description": "42,99€ - Amazon Marque qu'on ne présente plus dans sa qualité, Anker propose là une batterie puissante, dédiée avant tout aux appareils un peu gourmands, même si on peut avoir un usage splitté . Et ça, sous service client Amazon. (whistleflame) ⚙️ Avec son PowerIQ, elle gère une majorité des protocoles de charge : PowerDelivery 3.0 PPS ( Programmable Power Supply ) : c'est une extension « intelligente » du PowerDelivery qui se fondant sur des tensions et courant ajustés en temps réel, permet une meilleure efficacité... et moins d'échauffement. ♨️ QC (QuickCharge) dans les révisions 2.0, 3.0, 4+ FCP ( Huawei Fast Charge ) SCP ( Huawei SuperCharge ) AFC ( Adaptive Fast Charging, ancien protocole Samsung ) Apple 2.4A ( ancien protocole Apple, sur iPhone et iPad ) DCP / BC1.2 ( standard classique avant les charges rapides ) Il peut donc charger rapidement à peu près n'importe quel appareil moderne. ✅ Et dispose de modes fallback adéquats pour des appareils anciens. Que l'on branchera alors plutôt sur l'USB-A, laissant au type-C la pleine possibilité d'exprimer ses 65W maximaux ( sauf à utiliser également le 2nd port USB-C, qui sert à charge la PowerBank ). ☝️ A noter cependant deux exceptions : VOOC / SuperVOOC chez Oppo et OnePlus Protocole propriétaire Xiaomi Turbo ➡️ Dans ces cas, on retombe sur le PowerDelivery. Voire du QuickCharge sur des modèles anciens ( ou si vous les branchez sur le port USB Type-A ). Pour le prix, ce duo de puissance et d'autonomie, pour sa qualité et sa fiabilité, cela me semble une bonne offre. C'était votre dévoué Singe qui est parti explorer un biome différent de celui qu'il explore usuellement en Simia . N'hésitez pas à rejoindre la communauté simiesque pour en suivre les pérégrinations! Banane offerte à l'adhésion.",
-    "price": 42.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-externe-anker-a1383-20000-mah-87w-en-charge-maximale-65w-sur-usb-c-poweriq-cable-usb-c-integre-vendeur-tiers-3430860",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:58:53+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 42.99,
-        "observed_at": "2026-10-12T12:59:39.198454+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Daemon X Machina: Titanic Scion sur Nintendo Switch 2",
-    "description": "33,99€ - JoyBuy • UNE ÉVOLUTION TITANESQUE. Des siècles après la guerre pour sol rouge de Prime-Terre, l'humanité a colonisé la planète bleue. Les Outers, un peuple doté de capacités hors du commun après avoir été exposé au Femto, une ressource unique, reprochent aux hommes de les avoir maltraités sur cette nouvelle et dangereuse planète. Ils ont pris le contrôle des Jardins, des satellites de défense orbitale, depuis lesquels ils imposent leur puissance militaire sous le nom d'Axiome Souverain. Alors que les humains luttent pour leur survie, harcelés par les éléments et une race de créatures biomécaniques, les Immortals, un groupe de résistants est apparu, les Reclaimers. Et ils comptent bien défier l'ordre établi. Lorsqu'un soldat Outer s'écrase dans le désert aux abords du plus grand camp humain, c'est tout l'échiquier des forces en présence qui s'en trouve retourné.",
-    "price": 33.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/daemon-x-machina-titanic-scion-sur-nintendo-switch-2-3430861",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:58:21+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 33.99,
-        "observed_at": "2026-10-12T12:59:39.198465+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Power Rangers: Battle for the Grid Xbox One / Series X|S / PC — super édition a 9.99€",
-    "description": "3,99€ - Xbox Store Power Rangers: Battle for the Grid Xbox One / Series X|S / PC — Édition Standard Super édition à 9.99€ : https://www.xbox.com/fr-FR/games/store/power-rangers-battle-for-the-grid-super-edition/9n167rtv1wdh Description C'est l'heure du Morphin ! Les Power Rangers sont finalement arrivés sur Xbox One. Voyez les Rangers d'hier et d'aujourd'hui s'affronter comme jamais dans des combats 3 contre 3. Revisitant la franchise de 25 ans, Power Rangers: Battle for the Grid propose des graphismes magnifiques d'une précision saisissante. Les Rangers et les méchants d'hier et d'aujourd'hui s'affrontent comme jamais dans des combats 3 contre 3. Testez vos compétences en ligne contre vos amis et d'autres joueurs de partout dans le monde, pour rejouer inlassablement. Le système de combat efficace accueille les nouveaux venus avec des commandes simplifiées, tout en maintenant une profondeur que les compétiteurs acharnés pourront apprendre et maîtriser. 25 ANS DE RANGERS Des générations de Power Rangers entrent en collision à travers les 25 années de l'histoire du multivers. Vivez comme jamais auparavant des scènes de combat authentiques et réinventées. FACILE À APPRENDRE, DIFFICILE À MAÎTRISER Power Rangers: Battle for the Grid présente des commandes traditionnelles de jeu de combat. Ce jeu facile à apprendre et difficile à maîtriser est conçu pour accueillir des joueurs de tous les niveaux.",
-    "price": 3.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/power-rangers-battle-for-the-grid-xbox-one-series-xs-pc-edition-standard-3430857",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:48:49+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 3.99,
-        "observed_at": "2026-10-12T12:59:39.198477+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mallette à Outils Sundpey - 257 Pièces (Vendeur tiers - via coupon)",
-    "description": "47,19€ - Amazon Malette Outils Complete: Sundpey Caisse à outils complete de 257 pièces pour la réparation domestique et la réparation automobile, boite a outils complete rendent les tâches générales de réparation, de fixation et d’entretien de bricolage beaucoup plus rapides. Parfait pour les bricoleurs, les réparateurs, les ouvriers du bâtiment, les mécaniciens, etc.Le tout stocké dans un boîtier pliable pratique, avec verrous, pour un accès facile Variétés Complètes: Le boite outils comprend tous les outils nécessaires pour effectuer une petite rénovation.Comprend une Lame de scie à métaux, Ruban à Mesurer,clés mixtes,Clé hexagonale, niveau à bulle, Clé à molette, Arrache-clou, etc.Une gamme complète de douilles métriques 1/4\" et 3/8\", La poignée à prise souple des tournevis, pinces, srtipper et Marteau ,offre un excellent confort et contrôle.Variété d'embouts de tournevis 1/4 pouce : Phillips, à fente, carré, étoile et pozi Kit Jeu Tournevis de Précision 32 en 1: Cet Mini Set tournevis Magnétique Outils comprend 30 embouts de tournevis et une pince à épiler. L'embout de tournevis est magnétique, ce qui vous permet d'insérer facilement les vis miniatures dans les trous. Compatible avec le démontage et l'entretien de diverses réparations d'ordinateur portable, iPhone, tablette, montre, lunettes, appareil photo numérique, PS4, Nintendo, etc Boîte Compact et Robuste: Les malette outillage complet sont soigneusement rangés dans logé dans un boîtier moulé par soufflage pratique pour un stockage et une portabilité faciles des outils. Et chaque slot a une position exclusive, ce n'est pas facile à perdre. La structure interne robuste maintient l'outil en place. Et il peut être facilement placé dans l'armoire de la maison ou derrière la voiture Haute Qualité: Ces kits d'outils de base sont forgés à partir d'acier de haute qualité et finis en chrome poli, résistant et durable. Toutes les trousses d'outils respectent ou dépassent les normes de l'industrie. Remarque : Lors du déballage, assurez-vous que le côté LOGO est orienté vers le haut. Taille du boîtier : 11,82 \" * 3,94 \" * 17,72\". Poids : 10,4 lb",
-    "price": 47.19,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coupons-mallette-a-outils-257-pieces-sundpey-vendeur-tiers-3430855",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:47:48+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 47.19,
-        "observed_at": "2026-10-12T12:59:39.198483+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Wuchang: Fallen Feathers Day One Edition sur PS5",
-    "description": "31,99€ - JoyBuy • Des combats précis, portés par la Puissance céleste Enchaînez frappes au corps à corps, sorts et techniques d'arme avec fluidité pour déclencher des combos dévastateurs. Grâce au système unique de WUCHANG basé sur la Puissance céleste, adaptez-vous aux attaques ennemies en temps réel : chaque affrontement devient une véritable épreuve de timing, de placement et de talent pur. Un système de combat tactique grisant, pensé pour vous faire sentir invincible... à condition de le mériter,Des combats de boss qui vous poussent dans vos retranchements Chaque boss présente une apparence terrifiante entre mythe et pure menace. Attendez-vous à des attaques uniques, des mécaniques oppressantes et des visuels mémorables. La victoire n'est jamais facile : seule votre maîtrise de la situation fera la différence. Rejoignez les rares à avoir triomphé de l'impossible et inscrivez votre nom dans la légende.,Votre histoire. Votre voie. Votre légende. Personnalisez votre style avec un large éventail de tenues, d'armes, d'accessoires et de sorts. Grâce au Réceptacle d'impulsion, répartissez vos points de compétence pour améliorer vos attributs et débloquer des capacités puissantes correspondant à votre façon de jouer. Affrontez des boss redoutables et absorbez leurs pouvoirs uniques pour enrichir votre arsenal. Ce système interconnecté vous permet de façonner une guerrière à l'image de vos choix, de votre stratégie et de votre maîtrise.,Système du démon intérieur : un pouvoir à double tranchant La marque du démon intérieur grandit à chaque mort subie ou ennemi terrassé, augmentant votre puissance d'attaque... au prix d'une vulnérabilité accrue. Si vous allez trop loin, le démon prendra forme : un reflet implacable de votre propre force. Triomphez de lui ou perdez tout ce que vous avez gagné. Un système fondé sur la tension, où chaque combat revêt une importance capitale et où chaque erreur peut se retourner contre vous.,Un monde riche et interconnecté à explorer Parcourez une terre envoûtante inspirée de la Chine de la dynastie Ming. Dans ce vaste univers interconnecté, vous découvrirez des temples oubliés, des villages maudits et des ruines englouties. Chaque sentier dissimule des secrets, chaque raccourci change votre manière d'explorer le monde. Ce royaume d'ombre prend vie grâce à des personnages entièrement doublés, des graphismes en haute définition et une ambiance sonore immersive. Vos décisions façonnent l'histoire : débloquez plusieurs fins et révélez de nouveaux mystères à chacun de vos pas.",
-    "price": 31.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/wuchang-fallen-feathers-day-one-edition-sur-ps5-3430854",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:47:14+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 31.99,
-        "observed_at": "2026-10-12T12:59:39.198488+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Citizen Damen-Uhren Eco-Drive FE6151-82L (bleu)",
-    "description": "145,92€ - Amazon Baisse de prix ! :) ⌚ Une montre élégante, légère et sans changement de pile ! La Citizen FE6151-82L associe un design raffiné à une technologie fiable et pratique. Son cadran bleu, son boîtier rond et son bracelet en Super Titanium™ lui donnent un style chic et intemporel, idéal aussi bien au quotidien que pour les occasions plus habillées. ✨ Les points forts Super Titanium™ : un matériau léger et résistant, avec finition Duratect TIC. ☀️ Technologie Eco-Drive : fonctionne grâce à la lumière, sans remplacement régulier de pile. Autonomie jusqu’à 240 jours selon les spécifications du mouvement. Cadran bleu élégant avec index arabes et bâtons pour une lecture facile. Affichage de la date et indicateur de décharge de l’accumulateur. Étanchéité 5 bar (50 mètres) : adaptée aux éclaboussures et à un usage quotidien. Bracelet massif en Super Titanium™ avec boucle déployante de sécurité. Caractéristiques techniques Marque : Citizen Référence : FE6151-82L Genre : Femme Mouvement : Eco-Drive, quartz analogique Calibre : J810 Précision annoncée : ±15 secondes par mois Réserve de marche : jusqu’à 240 jours Couleur du cadran : Bleu Index : Chiffres arabes et bâtons Verre : Verre minéral Forme du boîtier : Rond Diamètre du boîtier : 34 mm Matériau du boîtier : Super Titanium™ Finition du boîtier : Duratect TIC, ton titane clair Couleur du bracelet : Titane clair Matériau du bracelet : Super Titanium™ Fermoir : Boucle déployante avec sécurité Largeur entre-cornes : 18 mm Étanchéité : 5 bar / 50 m",
-    "price": 145.92,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-citizen-damen-uhren-eco-drive-fe6151-82l-bleu-3430853",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:45:57+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 145.92,
-        "observed_at": "2026-10-12T12:59:39.198494+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gang Beast sur Nintendo Switch (Dématérialisé)",
-    "description": "11,99€ - Nintendo Gang Beasts Nintendo Switch 1 et 2 Gang Beasts est un jeu multijoueur loufoque avec des personnages gélatineux hargneux, des combats brutalo-comiques, et des lieux absurdement dangereux situés dans la cité de Ville-bœuf. Personnalisez votre personnage pour combattre des ennemis en local ou en ligne dans le mode corps à corps, ou bien combattez avec des amis contre les gangs de Ville-bœuf dans le mode gang. Gang Beasts est créé par Boneloaf, un petit studio de jeux indépendant qui a conçu une série de jeux multijoueur expérimentaux.",
-    "price": 11.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gang-beasts-dematerialise-switch-1-et-2-3430852",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:44:35+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 11.99,
-        "observed_at": "2026-10-12T12:59:39.198500+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Écran PC 24,5\" AOC Q25G4SR - QHD, 300Hz, Fast IPS, HDR400, 1 ms, HDMI 2.1, Noir & Rouge",
-    "description": "178,50€ - PcComponentes 1. Écran et affichage Taille de l’écran : 24,5 pouces (62,2 cm). Type de dalle : Fast IPS. Format d’affichage : 16:9. Type d’écran : plat avec traitement antireflet. Résolution native : QHD, 2560 × 1440 pixels. Densité de pixels : environ 119,9 ppp. Nombre de couleurs : 16,7 millions. Angles de vision : 178° horizontalement et verticalement. 2. Performances gaming Fréquence de rafraîchissement : 300 Hz. Temps de réponse GtG : 1 ms. Temps de réponse MPRT : 0,3 ms. Technologie Adaptive Sync pour réduire les déchirures d’image (tearing). Compatibilité NVIDIA G-SYNC. Plage de synchronisation variable : 48 à 300 Hz. Modes de jeu dédiés : FPS, RTS, Racing et profils Gamer personnalisables. 3. Qualité d’image et couleurs Luminosité maximale annoncée : 400 cd/m². Contraste statique : 1000:1. Couverture sRGB : 114,7 %. Couverture DCI-P3 : 91,3 %. Couverture Adobe RGB : 91 %. Certification VESA DisplayHDR 400. Type de rétroéclairage : WLED. 4. Connectivité 2 × HDMI 2.1. 1 × DisplayPort 1.4. 1 × sortie casque audio jack 3,5 mm. Compatibilité avec les PC gaming et les consoles récentes. Prise en charge du QHD jusqu’à 120 Hz sur PS5 et Xbox Series X/S, selon les modes vidéo compatibles. 5. Ergonomie et installation Réglage en hauteur : jusqu’à 130 mm. Inclinaison : environ −3° à +21°. Rotation horizontale : environ ±30°. Pivot vertical : ±90°, pour une utilisation en mode portrait. Support amovible. Fixation murale VESA : 100 × 100 mm. Pied de type eSports avec système de gestion des câbles. Design noir et rouge avec cadre sans bordure sur trois côtés. 6. Audio et confort visuel Haut-parleurs intégrés : 2 × 2 W, soit 4 W au total. Technologie Flicker-Free pour limiter le scintillement. Mode Low Blue Light pour réduire l’émission de lumière bleue. Fonctions Picture-in-Picture (PiP) et Picture-by-Picture (PbP). Menu OSD multilingue, incluant le français. 7. Consommation et dimensions Consommation électrique typique : 23 W. Consommation en veille : 0,5 W. Consommation à l’arrêt : 0,3 W. Dimensions avec pied : environ 560,1 × 498,9 × 380,9 mm (L × H × P). Poids sans pied : environ 3,76 kg. Poids avec pied : environ 4,76 kg. Garantie constructeur annoncée : 3 ans. 8. Accessoires fournis Câble d’alimentation. Câble HDMI. Câble DisplayPort.",
-    "price": 178.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecran-pc-aoc-q25g4sr-245-qhd-300-hz-fast-ips-hdr400-1-ms-hdmi-21-noirrouge-3430851",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:42:55+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 178.5,
-        "observed_at": "2026-10-12T12:59:39.198506+00:00"
-      }
-    ]
-  },
-  {
-    "title": "The Talos Principle 2 sur PC (Dématérialisé - Steam)",
-    "description": "2,89€ - Steam The Talos Principle 2 pc Steam Deluxe a 14.44€ Né dans un futur où l'humanité s'est éteinte, mais où la culture humaine perdure dans une cité peuplée de robots, vous vous lancez dans une aventure bouleversante pour élucider le mystère d'une mégastructure aux pouvoirs inimaginables. Au fil de vos découvertes, vous serez confronté à des questions sur la nature du cosmos et la finalité de toute civilisation. Entre la promesse illusoire de lendemains meilleurs, la crainte de répéter les erreurs de l'humanité, la foi en la raison ou le rejet de la nature humaine, vos choix et vos prises de position détermineront le cours des événements. Une nouvelle génération de puzzles Résolvez une multitude d'énigmes de complexité variable, dont des puzzles métaphysiques ingénieux et des puzzles en or qui mettront votre matière grise à rude épreuve. De nouvelles capacités, tels la manipulation de la gravité et le transfert d'esprit, viennent s'ajouter aux mécaniques du premier volet pour offrir une expérience de jeu à la fois nouvelle et familière. Une odyssée philosophique Poursuivez l'intrigue de The Talos Principle dans un récit interactif axé sur les personnages. Avec ses questions existentielles et ses fins multiples, signées par les deux écrivains renommés, Jonas Kyratzes (The Eternal Cylinder, Clash : Artifacts of Chaos) et Tom Jubert (The Swapper, Subnautica), rejoints par la plume de Verena Kyratzes (The Hand of Merlin, Serious Sam 4), The Talos Principle 2 promet une expérience narrative absolument bouleversante. Un monde nouveau Parcourez plus de douze nouveaux environnements, allant d'une ville à l'aube d'un changement de paradigme aux paysages variés d'une île mystérieuse qui pourrait bien receler les clés de l'avenir. Profitez d'une pause entre deux énigmes pour mettre au jour des secrets enfouis depuis des lustres, voire même des pans oubliés de l'histoire. Les mélodies de la création Plongez dans l'univers riche et émouvant de The Talos Principle et laissez-vous transporter par une bande-son exceptionnelle du maître compositeur Damjan Mravunac (Serious Sam, The Talos Principle), avec la participation de Chris Christodoulou (Risk of Rain 1 et 2). Configuration requise Minimale : Système d'exploitation et processeur 64 bits nécessaires Système d'exploitation : 64-bit Windows 10 (version 2004 or newer) Processeur : 4 core CPU @ 2.5 GHz (AMD Ryzen 5, Intel core i3/i5) Mémoire vive : 8 GB de mémoire Graphiques : 4 GB VRAM; Radeon RX 470, GeForce GTX 970, Intel Arc A580 DirectX : Version 12",
-    "price": 2.89,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/the-talos-principle-2-pc-dematerialise-steam-3430850",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:42:01+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 2.89,
-        "observed_at": "2026-10-12T12:59:39.198514+00:00"
-      }
-    ]
-  },
-  {
-    "title": "30% de réduction sur une sélection de maillots & équipements de football Ligue 1 & Ligue 2",
-    "description": "Decathlon ⚽ Decathlon propose actuellement 30 % de réduction sur une sélection de maillots et équipements officiels de Ligue 1 et Ligue 2 avec le code FOOT30. L'offre concerne une sélection de produits de plusieurs clubs français : PSG, OM, LOSC, RC Lens, OL et bien d'autres. ✅ Code promo : FOOT30 Valable jusqu'au 31 octobre 2026. Offre disponible sur le site et l'application Decathlon, uniquement sur les articles éligibles. :)",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/30-de-reduction-sur-une-selection-de-maillots-et-equipements-de-football-ligue-1-et-ligue-2-3430847",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:41:47+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Camera Blurams HelioCam Pro Surveillance Exterieur Solaire sans Fil Enregistreur 24h (Vendeur Tiers - Via Coupon)",
-    "description": "70,71€ - Amazon Marque blurams Nom de modèle HelioCam Pro Caractéristique spéciale Résolution HD , Technologie PTZ Utilisation intérieure/extérieure Extérieure Protocole de connectivité Wi-Fi Type de fixation Montage mural Qualité d'image 4K Ultra-HD: lisez les plaques d'immatriculation à 10 mètres et distinguez les visages avec une netteté exceptionnelle. La F20C propose 3 niveaux réglables (8MP/3MP/1MP) – la plupart des concurrents n'en offrent que 2. Basculez facilement entre le 4K pour les détails maximaux et les résolutions inférieures pour un streaming fluide lorsque le signal Wi-Fi faiblit. Batterie 12000mAh: Équipée d'une batterie rechargeable de 12 000 mAh (la plupart des concurrents n'offrent que 5 000–8 000 mAh) et d'un panneau solaire 5W à haut rendement. Seulement 2–3 heures d'ensoleillement direct suffisent pour une journée complète de fonctionnement. À savoir : Par temps nuageux/pluvieux ou en hiver, la recharge solaire peut être insuffisante – une recharge manuelle occasionnelle via USB-C peut s'avérer nécessaire. Installation en quelques minutes, n'importe où: 100 % sans fil – pas de câbles à tirer, pas d'électricien requis. Le panneau solaire 5W peut être monté directement sur la caméra ou séparément jusqu'à 3 mètres (câble inclus). L'installation ne prend que quelques minutes grâce au kit de montage fourni (vis, chevilles, gabarit). À savoir : La caméra est relativement volumineuse – prévoyez un espace suffisant. WiFi 6 Double Bande (2,4 GHz & 5 GHz): La plupart des caméras extérieures sont limitées au Wi-Fi 2,4 GHz simple bande – avec des saccades et des coupures. La F20C est équipée du WiFi 6 double bande (2,4 GHz pour la portée, 5 GHz pour une transmission jusqu'à 3x plus rapide) – pour un streaming 4K fluide, même éloigné de votre box. Indice d'étanchéité IP66 – fiable par tous les temps: Certifiée IP66 (la plupart des concurrents n'offrent qu'IP65) – résiste à la poussière, à la pluie, à la neige et aux jets d'eau puissants. Fonctionne de –20 °C à 60 °C avec chauffage intégré pour basses températures – des performances constantes en hiver comme en été. Enregistrement Continu 24h/24 et 7j/7: Alors que les caméras solaires classiques n'enregistrent que 15 secondes par mouvement – laissant des lacunes critiques – la F20C, grâce à la technologie AOV (mode d'économie d'énergie intelligent), permet un véritable enregistrement continu 24/7 avec une carte microSD (non incluse). Pas d'angles morts. Pas de scènes manquées. À savoir : L'enregistrement continu en 4K consomme beaucoup d'espace – nous recommandons une carte SD de grande capacité ou une résolution inférieure pour l'enregistrement continu. Détection IA avancée (abonnement): L'IA intégrée distingue avec précision les personnes, les véhicules et les animaux domestiques, réduisant les fausses alertes (feuilles, insectes, animaux de passage). Recevez des notifications push instantanées et visionnez des clips d'événements de 12 secondes gratuitement dans le cloud pendant 24 heures – sans carte SD. Pour aller plus loin : En abonnement optionnel, débloquez la reconnaissance faciale, la détection de colis et l'identification des animaux, ainsi qu'un stockage cloud étendu. Commentaires client",
-    "price": 70.71,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/camera-blurams-heliocam-pro-surveillance-exterieur-solaire-sans-fil-enregistreur-24h-vendeur-tiers-via-remise-panier-3430848",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:39:06+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 70.71,
-        "observed_at": "2026-10-12T12:59:39.198520+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lego Star Wars Smart Play 75426 - Faucon Millenium",
-    "description": "58,39€ - Carrefour • JOUET DE CONSTRUCTION INTERACTIF STAR WARS - Ce set LEGO Compatible SMART Play inclut une maquette de Faucon Millenium avec 4 SMART Tags, 4 SMART Minifigurines, des canons à tenons et un toit articulé pour accèder à tout l'intérieur détaillé • LA GALAXIE VOUS RÉPOND – Une fois connectée à l'un des SMART Tags du vaisseau spatial, la SMART Brique LEGO (non incluse) active les fonctionnalités d'entraînement au sabre laser, chocs de sabres laser, ravitaillement et saut hypervitesse • 4 SMART MINIFIGURINES LEGO STAR WARS – Donnez vie aux SMART Minifigurines de Luke Skywalker avec un sabre laser, Han Solo, Chewbacca et C-3PO grâce à une SMART Brique (non incluse), en dévoilant leurs voix uniques et leurs réactions • COMMENT ACTIVER VOTRE SET – Vous aurez besoin de la SMART Brique d'un set Tout-en-un vendu séparément (75421, 75423 ou 75427) pour activer les fonctionnalités de jeu immersif (SMART Brique non disponible à la vente séparément) • JEU SANS ÉCRAN – Jouez en famille ou entre ami.e.s pour recréer des scènes de films emblématiques : aidez Luke Skywalker à appréhender la Force, jouez au Dejarik, transportez le réservoir de carburant précaire et voyagez à la vitesse de la lumière • CADEAU STAR WARS POUR ENFANTS – Surprenez un fan avec ce jeu de construction interactif : une idée de cadeau d'anniversaire extraordinaire pour un garçon, une fille dès 9 ans, un.e ado ou un.e adulte collectionneur.se • INSTRUCTIONS NUMÉRIQUES – L’application LEGO Builder guide votre enfant dans cette aventure intuitive et lui permet de zoomer, de faire pivoter sa maquette en utilisant les instructions 3D, de suivre sa progression et de sauvegarder ses sets",
-    "price": 58.39,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-star-wars-smart-play-faucon-millenium-75426-3430846",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:38:08+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 58.39,
-        "observed_at": "2026-10-12T12:59:39.198528+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Carte mère Colorful Battle-AX B850M-PLUS S WIFI7 V14 - M-ATX",
-    "description": "119,99€ - JoyBuy Seulement 113,99 € avec JoyPlus Une carte mère AM5 bien équipée à prix intéressant pour monter une configuration gaming autour d'un processeur AMD Ryzen récent. Caractéristiques principales Chipset : AMD B850 Socket : AM5, compatible AMD Ryzen 7000 / 8000 / 9000 Format : Micro-ATX Mémoire : 4 slots DDR5, jusqu'à 192 Go Fréquence mémoire : jusqu'à 8000 MT/s en overclocking selon configuration Carte graphique : 1 slot PCIe 5.0 x16 Stockage : 2 emplacements M.2 (PCIe 5.0 et PCIe 4.0) + 4 ports SATA Réseau : Wi-Fi 7, Bluetooth 5.4 et Ethernet 5 Gb/s Alimentation CPU : VRM 10+2+1 phases avec DrMOS 55 A Connectique : USB-C, USB-A, HDMI et DisplayPort Fonction pratique : mise à jour du BIOS via le bouton dédié à l'arrière",
-    "price": 119.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/carte-mere-colorful-battle-ax-b850m-plus-s-wifi7-v14-format-m-atx-11399-eur-pour-les-membres-joyplus-3430845",
-    "image_url": "",
-    "detected_at": "2026-10-12T08:38:06+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 119.99,
-        "observed_at": "2026-10-12T12:59:39.198534+00:00"
       }
     ]
   }
