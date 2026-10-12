@@ -286,6 +286,7 @@
         try { await Notification.requestPermission(); } catch (_) {}
       }
       renderTargets();
+      checkTargets();
       alert("Objectif enregistré sur cet appareil. L’alerte fonctionne lorsque DealRadar est ouvert dans ce navigateur.");
       return;
     }
