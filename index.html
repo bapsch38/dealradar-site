@@ -290,10 +290,39 @@ function safeDate(value) {
   return date && !Number.isNaN(date.getTime()) ? date : null;
 }
 
-function productImage(offer, url) {
-  if (typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url)) return offer.image_url;
-  const asin = String(url || "").match(/\/dp\/([A-Z0-9]{10})(?:[/?]|$)/i);
-  return asin ? "https://images-na.ssl-images-amazon.com/images/P/" + asin[1].toUpperCase() + ".01.L.jpg" : "";
+function productImageCandidates(offer, url) {
+  const candidates = [];
+  const sourceImage = typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url)
+    ? offer.image_url.trim() : "";
+  if (sourceImage) {
+    const larger = sourceImage.replace("/re/150x150/", "/re/600x600/");
+    if (larger !== sourceImage) candidates.push(larger);
+    candidates.push(sourceImage);
+  }
+  const asin = String(url || "").match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})(?:[/?]|$)/i);
+  if (asin) {
+    const id = asin[1].toUpperCase();
+    candidates.push("https://m.media-amazon.com/images/P/" + id + ".01._SCLZZZZZZZ_.jpg");
+    candidates.push("https://images-na.ssl-images-amazon.com/images/P/" + id + ".01.L.jpg");
+  }
+  return [...new Set(candidates)];
+}
+function escapeAttribute(value) {
+  return String(value || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+function handleProductImageError(img) {
+  let candidates = [];
+  try { candidates = JSON.parse(img.dataset.imageFallbacks || "[]"); } catch (_) {}
+  const next = candidates.shift();
+  img.dataset.imageFallbacks = JSON.stringify(candidates);
+  if (next) {
+    img.src = next;
+    return;
+  }
+  img.onerror = null;
+  img.src = img.dataset.placeholder || "";
+  const label = img.parentElement && img.parentElement.querySelector(".deal-image-label");
+  if (label) label.textContent = "Visuel indisponible";
 }
 function matchesFilter(offer) {
   if (activeFilter === "all") return true;
@@ -340,7 +369,9 @@ function renderOffers() {
         : null);
     const date = safeDate(offer.detected_at || offer.published_at);
     const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
-    const image = productImage(offer, url);
+    const images = productImageCandidates(offer, url);
+    const image = images[0] || "";
+    const imageFallbacks = escapeAttribute(JSON.stringify(images.slice(1)));
     const prices = '<div class="deal-prices">' +
       (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">Prix à vérifier</span>') +
       (oldPrice && price && Number(offer.reference_price ?? offer.original_price ?? offer.list_price) > Number(offer.price ?? offer.current_price) ? '<span class="deal-old-price">' + oldPrice + '</span>' : '') +
@@ -353,7 +384,7 @@ function renderOffers() {
     const description = String(offer.description || "").replace(/[<>]/g,"");
     const fallbackImage = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef2f6"/><g fill="none" stroke="#9aa8b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><rect x="315" y="145" width="170" height="150" rx="18"/><path d="M350 330h100M400 295v35"/></g><text x="400" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#64748b">Image indisponible</text></svg>');
     return '<article class="deal-card">' +
-      '<div class="deal-image-wrap"><img class="deal-image" src="' + (image || fallbackImage) + '" alt="' + title.replace(/"/g,"&quot;") + '" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src=\'' + fallbackImage + '\';"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
+      '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + title.replace(/"/g,"&quot;") + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
       '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + category + '</div><span class="deal-source-badge">' + source + '</span></div><h3 class="deal-title">' + title + '</h3>' +
       prices + (description ? '<p class="deal-meta">' + description + '</p>' : '') +
       '<div class="deal-meta">' + (date ? 'Détectée le ' + date.toLocaleDateString("fr-FR") + ' · ' : '') +
