@@ -350,6 +350,8 @@ body.offers-page .page-intro{display:block}
       </label>
       <label>Prix maximum (€)<input id="max-price" type="number" min="0" step="1" placeholder="Sans limite" inputmode="decimal"></label>
       <label class="check-filter"><input id="hide-old" type="checkbox"> Masquer les offres de plus de 7 jours</label>
+      <label class="check-filter"><input id="only-verified" type="checkbox"> Prix confirmé</label>
+      <label class="check-filter"><input id="only-high-confidence" type="checkbox"> Confiance moyenne ou élevée</label>
       <button class="reset-filters" id="reset-filters" type="button">Réinitialiser les filtres</button>
     </div>
     <div class="filters" aria-label="Filtres des offres">
@@ -453,6 +455,8 @@ const dealSort = document.getElementById("deal-sort");
 const minDiscountInput = document.getElementById("min-discount");
 const maxPriceInput = document.getElementById("max-price");
 const hideOldInput = document.getElementById("hide-old");
+const onlyVerifiedInput = document.getElementById("only-verified");
+const onlyHighConfidenceInput = document.getElementById("only-high-confidence");
 const dealGrid = document.getElementById("deals-grid");
 const catalogStatus = document.getElementById("catalog-status");
 const featuredGrid = document.getElementById("featured-grid");
@@ -721,6 +725,8 @@ function renderOffers() {
     if (minDiscount > 0 && (discount === null || discount < minDiscount)) return false;
     if (maxPrice !== null && (price === null || price > maxPrice)) return false;
     if (hideOldInput.checked && offerIsOld(offer)) return false;
+    if (onlyVerifiedInput.checked && offer.price_verified !== true) return false;
+    if (onlyHighConfidenceInput.checked && !(typeof window.DealRadarTrust === "function" && window.DealRadarTrust(offer).score >= 50)) return false;
     return true;
   });
   const sort = dealSort.value;
@@ -864,6 +870,8 @@ dealSort.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 minDiscountInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 maxPriceInput.addEventListener("input", () => { currentPage = 1; renderOffers(); });
 hideOldInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+onlyVerifiedInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+onlyHighConfidenceInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 document.getElementById("reset-filters").addEventListener("click", () => {
   dealSearch.value = "";
   search.value = "";
@@ -871,6 +879,8 @@ document.getElementById("reset-filters").addEventListener("click", () => {
   minDiscountInput.value = "0";
   maxPriceInput.value = "";
   hideOldInput.checked = false;
+  onlyVerifiedInput.checked = false;
+  onlyHighConfidenceInput.checked = false;
   activeFilter = "all";
   currentPage = 1;
   filters.forEach(item => item.classList.toggle("active", item.dataset.filter === "all"));
