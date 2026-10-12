@@ -105,6 +105,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .advanced-filters .check-filter{flex-direction:row;align-items:center;gap:8px;min-height:38px}
 .check-filter input{accent-color:var(--green);width:16px;height:16px}
 .filter-count{display:inline-block;margin-left:5px;padding:2px 6px;border-radius:10px;background:#26384a;color:#dbe7f5;font-size:10px}
+.reset-filters{background:transparent;color:var(--green);border:1px solid var(--green);border-radius:8px;padding:9px 12px;cursor:pointer;font-size:12px;font-weight:700}.reset-filters:hover{background:#173b2a}
 .deal-stale{display:inline-flex;align-items:center;gap:5px;color:#ffd27a;background:#46351b;border-radius:6px;padding:5px 7px;font-size:10px;font-weight:800}
 .deal-report{font-size:11px;color:var(--muted);text-decoration:underline;text-underline-offset:3px}
 .deal-report:hover{color:var(--green)}
@@ -266,6 +267,7 @@ footer strong{color:var(--text)}
       </label>
       <label>Prix maximum (€)<input id="max-price" type="number" min="0" step="1" placeholder="Sans limite" inputmode="decimal"></label>
       <label class="check-filter"><input id="hide-old" type="checkbox"> Masquer les offres de plus de 7 jours</label>
+      <button class="reset-filters" id="reset-filters" type="button">Réinitialiser les filtres</button>
     </div>
     <div class="filters" aria-label="Filtres des offres">
       <button class="filter active" type="button" data-filter="all">Toutes les catégories</button>
@@ -718,6 +720,19 @@ dealSort.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 minDiscountInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
 maxPriceInput.addEventListener("input", () => { currentPage = 1; renderOffers(); });
 hideOldInput.addEventListener("change", () => { currentPage = 1; renderOffers(); });
+document.getElementById("reset-filters").addEventListener("click", () => {
+  dealSearch.value = "";
+  search.value = "";
+  dealSort.value = "newest";
+  minDiscountInput.value = "0";
+  maxPriceInput.value = "";
+  hideOldInput.checked = false;
+  activeFilter = "all";
+  currentPage = 1;
+  filters.forEach(item => item.classList.toggle("active", item.dataset.filter === "all"));
+  updateCategories();
+  renderOffers();
+});
 pagination.addEventListener("click", event => {
   const button = event.target.closest("button[data-page]");
   if (!button || button.disabled) return;
