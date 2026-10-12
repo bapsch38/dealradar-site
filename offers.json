@@ -1,5 +1,41 @@
 [
   {
+    "title": "Philips ampoule LED Spot GU5.3 35W Blanc Chaud, Verre",
+    "price": 8.99,
+    "reference_price": 14.61,
+    "discount_percent": 38.47,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09F9M69ZH",
+    "image_url": "https://m.media-amazon.com/images/P/B09F9M69ZH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 14:00:23",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-12T14:00:29.104092+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thermostat de radiateur Eurotronic Comet, blanc, 700083",
+    "price": 25.94,
+    "reference_price": 32.89,
+    "discount_percent": 21.13,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B015PM6ZE2",
+    "image_url": "https://m.media-amazon.com/images/P/B015PM6ZE2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 14:00:22",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 25.94,
+        "observed_at": "2026-10-12T14:00:29.104264+00:00"
+      }
+    ]
+  },
+  {
     "title": "Hazet 652 Démonte-pneus, Voir Illustration, 600mm",
     "price": 31.1,
     "reference_price": 51.26,
@@ -324,6 +360,422 @@
     ]
   },
   {
+    "title": "Pattex colle de montage Power,... extérieur, 1x 370 g cartouche",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00I3IQSP2",
+    "image_url": "https://m.media-amazon.com/images/P/B00I3IQSP2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T13:59:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Outer wilds - archeologist edition (jeu + DLC) (dématérialisé) - jeu de base à 11,49€",
+    "description": "17,56€ - Steam Meilleur jeu vidéo de tout les temps (objectivement) Chef d'oeuvre, unique, magnifique et plein d'autre adjectifs. Mieux vaut ne pas le décrire pour vivre au mieux l'expérience, faites moi confiance et achetez ce jeu.",
+    "price": 17.56,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/outer-wilds-archeologist-edition-jeu-dlc-dematerialise-jeu-de-base-a-1149eur-3431081",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QlIgd/3431081_1/re/1200x1200/qt/90/3431081_1.jpg",
+    "detected_at": "2026-10-12T13:58:41+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 17.56,
+        "observed_at": "2026-10-12T14:00:29.104451+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures de marche Mammut Colorado LTH en Cuir - Tailles 36 2/3 au 46 2/3",
+    "description": "89,99€ - Veepee Très bon prix pour ces chaussures vendues autour de 300€, à l'origine. Tailles disponibles 36 2/3 - 40 2/3 - 41 1/3 - 42 - 43 1/3 - 44 - 44 2/3 et 46 2/3 Chaussures de randonnée légères, parfaites pour le quotidien et la marche. Ajustement plus large. Fermeture de languette imperméable. Semelle intérieure confortable. Talon rembourré. Testées par l'armée. (embarrassed) Composition Dessus / Tige : Cuir Semelle intérieure : Cuir Semelle extérieure : Vibram®",
+    "price": 89.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-de-marche-mammut-colorado-lth-en-cuir-tailles-36-23-au-46-23-3431080",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0r7Pi/3431080_1/re/1200x1200/qt/90/3431080_1.jpg",
+    "detected_at": "2026-10-12T13:58:12+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-12T14:00:29.104533+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Reveil Musical Nintendo Alarmo",
+    "description": "89,99€ - JoyBuy Petite baisse de prix pour le réveil musical de Nintendo Alarme à détection de mouvements : l’alarme s’éteint d’un simple mouvement de la main ou lorsque vous sortez du lit Thèmes Nintendo (Zelda, Mario Kart) Fonction « Coucher » avec des paysages relaxants pour aider à s’endormir",
+    "price": 89.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nintendo-reveil-musical-alarmo-3431079",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XmUOO/3431079_1/re/1200x1200/qt/90/3431079_1.jpg",
+    "detected_at": "2026-10-12T13:53:48+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-12T14:00:29.104561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Séjour 3J/2N pour 3 à Venise (Italie) - LH Hôtel Sirio 4* + Petit déjeuner - Du 10 au 12 janvier (36,89€/pers)",
+    "description": "110,68€ - Showroomprivé Envie de découvrir Venise en plein hiver , loin de l'affluence des beaux jours ? En janvier, la Sérénissime dévoile une atmosphère plus calme et intimiste, idéale pour flâner dans les ruelles, traverser les ponts et admirer les canaux sans la foule de la haute saison. Prévoyez simplement des vêtements chauds : les températures sont fraîches à cette période et l'humidité peut accentuer la sensation de froid. Je vous ai trouvé un séjour au LH Hôtel Sirio 4 *, situé à Mestre , sur la terre ferme, à proximité de Venise. Son emplacement permet de rejoindre le centre historique en environ 15 minutes en bus, avec un arrêt à quelques minutes à pied de l'hôtel. Une solution pratique pour profiter de Venise tout en maîtrisant son budget. Pour 3 adultes , les 2 nuits reviennent à seulement 110,68€ au total , soit 36,89€ par personne pour 3 jours / 2 nuits , sans transport. > L'hôtel est noté : 8/10 sur Booking > Inclus 2 nuits au LH Hôtel Sirio 4* Petit déjeuner inclus Carnet de voyage inclus Frais de dossier offerts Séjour pour 3 adultes Du dimanche 10 au mardi 12 janvier 2027 Sans transport > Le petit plus Venise en janvier, c'est une autre ambiance : une escapade hivernale pour découvrir les incontournables, se perdre dans les petites rues et profiter des cafés et restaurants de la ville. En logeant à Mestre, vous pouvez rejoindre Venise facilement tout en profitant d'un hébergement à prix doux. ✤ L'hôtel Installé au sein du groupe Lamin Hotels, cet établissement 4 étoiles occupe une position de choix à seulement 200 mètres du centre animé de Mestre, quartier continental de Venise. Son architecture sobre et moderne abrite un intérieur soigné et chaleureux, où salon, bar et restaurant créent une atmosphère accueillante propice à la décompression après les émotions de la Sérénissime. L'hôtel dispose également d'une salle de réunion, d'un parking privé et d'une borne de recharge pour véhicules électriques, autant d'équipements qui en font une adresse aussi pratique que confortable. ✤ La chambre L'hôtel dispose de 112 chambres réparties sur plusieurs catégories. Chambre Triple : Conçue pour 3 personnes avec 1 grand lit double et 1 lit simple (ou 3 lits simples), cette chambre spacieuse offre les mêmes équipements de qualité pour profiter pleinement de votre séjour en toute sérénité.",
+    "price": 110.68,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sejour-3j2n-pour-3-a-venise-italie-lh-hotel-sirio-4-petit-dejeuner-du-10-au-12-janvier-3689eurpers-3431078",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LxCXp/3431078_1/re/1200x1200/qt/90/3431078_1.jpg",
+    "detected_at": "2026-10-12T13:51:34+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 110.68,
+        "observed_at": "2026-10-12T14:00:29.104601+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 93875 Kit encastrés P...0K, 230V, 51 mm, Blanc mat/Alu",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01LH30HCO",
+    "image_url": "https://m.media-amazon.com/images/P/B01LH30HCO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T13:48:48+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Kit Solaire plug and play Hoymiles - 1000Wc bifacial",
+    "description": "344,48€ - Allo Solar Le kit solaire Plug and Play 1000Wc bifacial est conçu pour réduire les factures d'électricité. *caractéristiques du produit :* - Panneaux bifaciaux haute performance - Micro-onduleur Hoymiles Wi-Fi intégré - Garantie de 12 ans sur le micro-onduleur",
+    "price": 344.48,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/kit-solaire-plug-and-play-3431077",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/HdpVO/3431077_1/re/1200x1200/qt/90/3431077_1.jpg",
+    "detected_at": "2026-10-12T13:48:47+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 344.48,
+        "observed_at": "2026-10-12T14:00:29.104624+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque moto intégral Premier Hyper Carbon PS 2 - Fibre de carbone, ECE 22.06, Pinlock inclus, noir/gris (S, M) et noir/rouge (XL)",
+    "description": "236,62€ - La Bécanerie 236,62 € au lieu de 395,94 €, soit une réduction de 40 %, chez La Bécanerie. Très belle offre sur le Premier Hyper Carbon PS 2 , un casque moto intégral sportif doté d’une coque en fibre de carbone, d’une homologation ECE 22.06 et d’un équipement particulièrement complet. La promotion concerne deux coloris et trois tailles, avec une disponibilité limitée selon les versions. Coloris et tailles disponibles : Noir / Gris : tailles S et M. Noir / Rouge : taille XL. Il s’agit d’une vente flash. Les disponibilités peuvent donc évoluer rapidement. Le casque appartient à la gamme Hyper Carbon de Premier, conçue pour les motards recherchant un équipement léger, protecteur et adapté aussi bien à une utilisation routière qu’à une conduite sportive. Caractéristiques techniques Marque : Premier Gamme : Hyper Carbon Modèle : PS 2 Type : casque moto intégral Utilisation : route et conduite sportive Matériau de la coque : fibre de carbone Homologation : ECE 22.06 Poids annoncé pour la gamme : 1 220 ± 50 g Nombre de tailles de coque : 2 Fermeture : boucle double D Visière : traitement antirayures et protection UV Pinlock : inclus Démontage de l’écran : rapide, sans outils Ventilation : entrées d’air frontales réglables et extracteur arrière Intérieur : démontable et lavable Compatibilité : adapté au port de lunettes Aérodynamique : spoiler arrière intégré Intercom : pré-équipement pour système Bluetooth compatible Coque en fibre de carbone Le principal intérêt du Premier Hyper Carbon réside dans sa construction en fibre de carbone. Ce matériau est particulièrement apprécié dans l’univers des équipements moto pour son excellent rapport entre résistance et légèreté. Par rapport aux casques utilisant une coque en polycarbonate, le carbone permet de concevoir des structures plus légères tout en conservant les propriétés mécaniques nécessaires à la protection du pilote. Cette conception présente un intérêt particulier pour les motards effectuant de longs trajets, notamment lorsque le poids de l’équipement devient un facteur important de confort. Le fabricant utilise deux tailles de coque afin d’adapter les proportions du casque aux différentes morphologies. Le design sportif est complété par un spoiler arrière intégré, destiné à améliorer le comportement aérodynamique du casque. Homologation européenne ECE 22.06 Le Premier Hyper Carbon bénéficie de la certification ECE 22.06 , correspondant à la réglementation européenne actuelle applicable aux casques de protection pour motocyclistes. Cette norme introduit des essais plus complets que l’ancienne homologation ECE 22.05. Elle prévoit notamment des évaluations réalisées selon différentes conditions d’impact, avec une attention particulière portée aux accélérations rotationnelles pouvant intervenir lors d’un accident. L’homologation constitue donc un élément important pour les motards recherchant un casque récent répondant aux exigences européennes. Le modèle est de type intégral, avec une mentonnière fixe assurant une protection permanente de la partie inférieure du visage. Écran et système Pinlock Le casque est équipé d’une visière transparente bénéficiant d’un traitement antirayures et d’une protection contre les rayons ultraviolets. Son système de démontage rapide permet de retirer l’écran sans utiliser d’outils, ce qui facilite les opérations de nettoyage ou de remplacement. Un Pinlock est inclus , un avantage appréciable pour les utilisateurs circulant régulièrement par temps froid ou humide. Le principe du Pinlock repose sur la création d’une couche d’air isolante entre l’écran principal et l’insert intérieur. Ce dispositif contribue à limiter la formation de condensation, particulièrement lorsque la température extérieure est basse ou que l’humidité est importante. La visibilité constitue un élément essentiel de la sécurité à moto, notamment lors des déplacements quotidiens et des trajets prolongés. Ventilation et confort intérieur Le Premier Hyper Carbon dispose d’un sy",
+    "price": 236.62,
+    "reference_price": 395.94,
+    "discount_percent": 40.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-moto-integral-premier-hyper-carbon-ps-2-fibre-de-carbone-ece-2206-pinlock-inclus-noirgris-s-m-et-noirrouge-xl-3431075",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/WMd6r/3431075_1/re/1200x1200/qt/90/3431075_1.jpg",
+    "detected_at": "2026-10-12T13:47:58+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 236.62,
+        "observed_at": "2026-10-12T14:00:29.104650+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Batman: Arkham Collection sur PC (Steam - Dématérialisé)",
+    "description": "4,22€ - Gamivo Plongez dans l’univers de Batman avec la collection Arkham, qui regroupe plusieurs jeux incontournables : Batman: Arkham Asylum, Batman: Arkham City et Batman: Arkham Knight. Incarnez le Chevalier Noir, affrontez les plus grands ennemis de Gotham et profitez d’une expérience d’action-aventure riche en combats, infiltration et exploration. Plateforme: PC (Steam)",
+    "price": 4.22,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/batman-arkham-collection-sur-pc-steam-dematerialise-3431076",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/flGNB/3431076_1/re/1200x1200/qt/90/3431076_1.jpg",
+    "detected_at": "2026-10-12T13:46:59+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 4.22,
+        "observed_at": "2026-10-12T14:00:29.104671+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thermostat de radiateur Eurotronic Comet, blanc, 700083",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B015PM6ZE2",
+    "image_url": "https://m.media-amazon.com/images/P/B015PM6ZE2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T13:46:02+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Ecran Pc 27\" LG Ultragear 27GX704A-B - QHD, OLED 240 Hz, HDR True Black 400",
+    "description": "349,99€ - Amazon Marque LG Taille de l'écran 27 Pouces Résolution QHD Wide 1440p Format d'image 16:9 Description de la surface d'écran Brillant Taux de contraste d'image 1500000:1 [LUMINOSITÉ NOUVELLE GÉNÉRATION AVEC MLA+] Découvrez un univers de jeu vibrant grâce à un écran WOLED avancé intégrant la technologie Micro Lens Array+ (MLA+). Profitez de couleurs riches, d’un contraste exceptionnel sans avoir à jouer dans l’obscurité et d'une luminosité luminosité maximale allant jusqu’à 1 300 nits. [VITESSE EXTRÊME ET RÉACTIVITÉ INSTANTANÉE] Éliminez le flou de mouvement et la rémanence grâce à un taux de rafraîchissement de 240 Hz et un temps de réponse quasi instantané de 0,03 ms (GtG). Ces performances ultrarapides vous permettent de réagir rapidement face à vos adversaires et de suivre les cibles en mouvement avec une fluidité visuelle exceptionnelle, sans latence. [NOIR ABSOLU ET EXCELLENCE VISUELLE CERTIFIÉE] La certification VESA DisplayHDR True Black 400 révèle une profondeur saisissante et des détails réalistes grâce à un rapport de contraste exceptionnel de 1,5 M:1. Associés à une large couverture DCI-P3 de 98,5 % (typ.) sur une dalle OLED, les jeux sont restitués avec la précision cinématographique voulue par leurs développeurs. [SYNCHRONISATION OPTIMISÉE ET HDMI 2.1 SANS COMPROMIS] Éliminez les déchirures d’image et les saccades grâce à une intégration fluide. Entièrement compatible avec NVIDIA G-SYNC, AMD FreeSync Premium Pro et certifié VESA AdaptiveSync. Les deux entrées HDMI 2.1 et l’entrée DisplayPort permettent de profiter de la pleine résolution QHD à 240 Hz sur PC et consoles nouvelle génération. [DESIGN PENSÉ POUR LES JOUEURS] Améliorez votre expérience de jeu grâce au design pratiquement sans bord sur les quatre côtés et au pied réglable en rotation horizontale, inclinaison, hauteur et pivot pour un confort optimal. Commentaires client",
+    "price": 349.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lg-ultragear-ecran-gaming-oled-27-qhd-240hz-003ms-3431073",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2jDFt/3431073_1/re/1200x1200/qt/90/3431073_1.jpg",
+    "detected_at": "2026-10-12T13:44:12+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 349.99,
+        "observed_at": "2026-10-12T14:00:29.104696+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Philips ampoule LED Spot GU5.3 35W Blanc Chaud, Verre",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09F9M69ZH",
+    "image_url": "https://m.media-amazon.com/images/P/B09F9M69ZH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T13:43:27+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Appareil à Raclette Carrefour Home HRG8P-26 - 8 personnes, 800W, Plaque Amovible",
+    "description": "10,49€ - Carrefour Réplique côté Carrefour par rapport à l'appareil à raclette 6 personnes chez E.Leclerc, ici modèle 8 personnes avec caquelons pour 10,49€ (y) Plus qu'à trouver une promo sur le fromage (cheeky) > Disponible à partir du 20 octobre Caractéristiques Plaque de cuisson amovible (plate) avec revêtement antiadhésif Bouton Marche/Arrêt Oui Type de plaque Plaque de cuisson amovible (plate) avec revêtement antiadhésif Puissance (en W) 800 Voyant lumineux marche/arrêt Oui Dimensions (L x l x H) : 31 cm x 14 cm x 31 cm Poids : 1.8 kg",
+    "price": 10.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/appareil-a-raclette-carrefour-home-hrg8p-26-8-personnes-800w-plaque-amovible-3431072",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DTATi/3431072_1/re/1200x1200/qt/90/3431072_1.jpg",
+    "detected_at": "2026-10-12T13:43:13+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.49,
+        "observed_at": "2026-10-12T14:00:29.104707+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Client Sosh] Smartphone Pliable 8\" Google Pixel 11 Pro Fold - 256 Go (Via 300€ ODR Google & 250€ Bonus Reprise)",
+    "description": "1 049€ - Sosh Prix jamais vu ! Pensez bien au code promo SOSH15 dans le panier ! 300€ de remise immédiate 300€ d'ODR Google ici : https://boutique.orange.fr/informations/medias/odr/261115-google-pixel-11-psg-j300e.pdf?webview_action=pdf 250€ de bonus reprise ! Vous voulez faire une reprise ? Montant du bonus: 250 € de bonus reprise pour ce téléphone ! 1. Estimez la valeur de votre ancien téléphone. 2. Achetez votre nouveau téléphone en ligne, ou en boutique Orange : Vérifiez ci-dessous les conditions d'éligibilité de la reprise et du bonus. En ligne Après l'achat, demandez la reprise de votre ancien mobile gratuitement (sur la page confirmation de commande ou via l'email de reprise) pour recevoir votre virement. Si la valeur de reprise est inférieure à 10 €, choisissez le Click & Collect pour profiter du bonus reprise. En boutique ou en Click & Collect On estime votre ancien mobile sur place : vous profitez d'une réduction immédiate sur votre achat. Tout savoir sur la reprise et le bonus : Vous faites une reprise 100% en ligne ? Vous commandez et payez votre nouveau mobile en ligne. Lors de la confirmation de commande, on vous propose la reprise de votre ancien mobile en ligne. Vous recevez par virement bancaire le montant de la reprise et du bonus éventuel. Vous aurez juste besoin : Du numéro IMEI de votre téléphone actuel (composez *#06# pour l'obtenir) De votre IBAN De votre pièce d'identité Votre ancien mobile doit avoir une valeur de 10 € minimum pour profiter d'une reprise en ligne. Vous faites une reprise en Click & Collect ? Réservez en ligne votre nouveau mobile en Click & Collect. Venez le chercher en boutique, et revendez votre mobile actuel auprès du conseiller avant de passer en caisse. Le montant de la reprise et du bonus est déduit en caisse du prix de votre nouveau mobile. Tout simplement. La reprise en boutique est disponible pour tous les mobiles, sauf si vous voulez un bonus sur un iPhone neuf. Dans ce cas, votre ancien mobile doit avoir une valeur de 10 € minimum. Les clients Sosh qui renouvellent leur téléphone peuvent profiter d'un bonus reprise en Click & Collect. On vous donne un exemple avec un bonus reprise ? Voici l'exemple d'une reprise à laquelle on a ajouté un bonus reprise : Reprise de votre ancien mobile : 200 € Bonus reprise : 100 € Viré sur votre compte bancaire ou déduit en caisse = 300 € La valeur réelle de votre mobile actuel est déterminée en fonction du modèle, de son état et de sa capacité. Si vous achetez un iPhone neuf, votre ancien mobile doit avoir une valeur de 10 € minimum pour profiter du bonus reprise. Pour un Google Pixel 11 Pro Fold Vert 256 Go , le bonus reprise est valable du 07/10/2026 au 21/10/2026.",
+    "price": 1049.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-pliable-8-google-pixel-11-pro-fold-256-go-via-300eur-odr-google-200eur-bonus-reprise-3431071",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pvLHj/3431071_1/re/1200x1200/qt/90/3431071_1.jpg",
+    "detected_at": "2026-10-12T13:40:29+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1049.0,
+        "observed_at": "2026-10-12T14:00:29.104721+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[ODR] Jusqu'à 120€ de remboursé Pour l’achat et le montage d'au moins 2 pneus éligibles Michelin",
+    "description": "Michelin Pour tout achat et montage d'au moins 2 pneus Michelin chez les enseignes participantes, recevez jusqu'à 120€ en remboursement par virement bancaire. Attention, l'offre n'est valable que pour les pneus voiture et si l'achat est effectué entre le 05/10/2026 et le 29/11/2026. La demande de remboursement peut se faire au plus tard jusqu'au 13/12/2026 sur le site de Michelin. J'ai déjà pu profiter de cette offre par le passé, l'évaluation du montant remboursé se base sur le nombre de pneu, le modèle (premium ou pas) et le prix. Par exemple, j'avais acheté 4 pneus Michelin CrossClimate 2 pour ma mégane, j'en avait eu pour 450€, ils m'ont remboursé 80€.",
+    "price": 120.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/promo-pneu-michelin-jusqua-120eur-de-rembourse-3431070",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DYWOc/3431070_1/re/1200x1200/qt/90/3431070_1.jpg",
+    "detected_at": "2026-10-12T13:39:00+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 120.0,
+        "observed_at": "2026-10-12T14:00:29.104753+00:00"
+      }
+    ]
+  },
+  {
+    "title": "10% de réduction sur tout le site Whirlpool",
+    "description": "Whirlpool Sur tout l'électroménager Whirlpool",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/10-sur-tout-le-site-whirlpool-3431068",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/3565_1/re/1200x1200/qt/90/3565_1.jpg",
+    "detected_at": "2026-10-12T13:35:09+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Jeu de société Chat'Trappe Goliath (dès 5 ans)",
+    "description": "5€ - Auchan Dans le catalogue des hypermarchés Auchan du 13 au 25 octobre, le jeu Chat'Trappe de Goliath passe à 5€ grâce à 75% de remise immédiate (selon le prix de vente conseillé). Il est à 17,95€ sur Amazon aujourd'hui, et son plus bas sur un an y tourne autour de 10€ d'après l'historique Rufus, tandis que Pearl le vend 9,99€ hors port. Les souris doivent échapper aux griffes du chat, et la dernière en jeu devient le chat à la manche suivante. C'est un jeu de rapidité et de réflexes pour toute la famille, à partir de 5 ans. Offre en magasin, dans les hypermarchés Auchan participants. Page 51 du catalogue ici",
+    "price": 5.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-chattrappe-goliath-des-5-ans-5eur-des-le-1310-3431067",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZC20w/3431067_1/re/1200x1200/qt/90/3431067_1.jpg",
+    "detected_at": "2026-10-12T13:33:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.0,
+        "observed_at": "2026-10-12T14:00:29.104764+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Best Price Square Cable Knife ...OKARI NO. 27) T10270 by JOKARI",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001MSBDSW",
+    "image_url": "https://m.media-amazon.com/images/P/B001MSBDSW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T13:32:58+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Manette filaire Hori Horipad Turbo pour Switch - Édition Zelda (5.99€ via l'application nouveaux clients)",
+    "description": "9,99€ - JoyBuy HORI Manette filaire Horipad Turbo pour Switch - Édition Zelda A 5.99€ via l'application pour nouveau client Points forts du produit Sous licence officielle Nintendo : garantit une compatibilité totale et des performances fiables avec la Nintendo Switch. Connectique filaire pour le jeu compétitif : offre une latence ultra‑faible et une réponse des commandes ultra‑rapide. Joysticks analogiques à décalage de haute précision : conçus pour un contrôle précis et confortable. Gâchettes rapides et fonctionnalité Turbo : améliore le gameplay avec un tir rapide et des commandes automatisées. Conception ergonomique et légère : assure le confort lors de longues sessions de jeu. Design aux couleurs de la saga The Legend of Zelda – motif arborant le célèbre emblème Triforce. Spécifications Spécification Description Marque HORI Plateforme compatible Nintendo Switch (sous licence officielle) Connectivité Filaire Longueur du câble 3 mètres Fonctionnalités spéciales Gâchettes rapides, joysticks analogiques à décalage, fonction Turbo réglable Fonctionnalités absentes Contrôle par mouvement, vibrations Principes de conception Ergonomique, légère, faible latence Poids 218 g Dimensions 12 × 15,5 × 6,5 cm Numéro de modèle NSW‑463U Instructions d'utilisation Connectez la manette à votre Nintendo Switch via le câble USB intégré de 3 mètres (branchez‑le sur le dock de la console ou sur un adaptateur USB). La manette est automatiquement reconnue. Pour activer la fonction Turbo, appuyez sur le bouton Turbo, puis sur le bouton que vous souhaitez assigner. Appuyez plusieurs fois sur le bouton Turbo pour modifier la vitesse (plusieurs niveaux disponibles). La manette ne dispose ni de capteurs de mouvement ni de fonction vibration. Nettoyez l’extérieur avec un chiffon doux et sec. Évitez les produits chimiques agressifs.",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/hori-manette-filaire-horipad-turbo-pour-switch-edition-zelda-via-lapplication-3431066",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/AWkDZ/3431066_1/re/1200x1200/qt/90/3431066_1.jpg",
+    "detected_at": "2026-10-12T13:32:31+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T14:00:29.104774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Top Case offert (easy-watts.com)",
+    "description": "Bonjour, Je suis tombé sur ce top case pour scooter affiché à 0 € sur le site Easy-Watts. Il est indiqué en stock avec 592 exemplaires disponibles au moment de la publication. Je ne sais pas s’il s’agit d’une erreur de prix ou d’une offre volontaire. Les dimensions ne sont malheureusement pas précisées sur la fiche produit. À voir si les commandes seront honorées.",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/top-case-offert-easy-watts-3431063",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/AdCyp/3431063_1/re/1200x1200/qt/90/3431063_1.jpg",
+    "detected_at": "2026-10-12T13:31:05+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "PROXXON 2228515 - Taladradora fresadora + acc. micromot 50/e",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B000S8DEDE",
+    "image_url": "https://m.media-amazon.com/images/P/B000S8DEDE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T13:30:43+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Casque moto modulable LS2 Advant X Carbon Future II Gloss H-V Yellow - Carbone, ECE 22.06, double homologation P/J, taille XL",
+    "description": "267,30€ - Amazon Une offre particulièrement intéressante pour un casque moto modulable haut de gamme en carbone. Seul bémol : ce prix est uniquement disponible en taille XL. Offre à durée limitée sur le LS2 Advant X Carbon Future II Gloss H-V Yellow , un casque moto modulable haut de gamme doté d’une coque en fibre de carbone, d’une mentonnière pivotante à 180° et d’une double homologation P/J. Le tarif de 267,30 € concerne uniquement la taille XL , affichée en stock au moment de la publication. Les autres tailles sont proposées à des prix différents, notamment la taille M à 374,25 €. Le prix affiché constitue également une réduction intéressante par rapport aux tarifs habituellement pratiqués pour cette déclinaison du LS2 Advant X Carbon. Caractéristiques principales Marque : LS2 Modèle : Advant X Carbon Décoration : Future II Gloss H-V Yellow Type : casque moto modulable Matériau de la coque : fibre de carbone Mentonnière : pivotante à 180° Homologation : ECE 22.06 Double homologation : P/J Écran solaire : intégré et rétractable Écran principal : transparent Pinlock : MaxVision Taille concernée par la promotion : XL Coloris : noir, gris et jaune haute visibilité Livraison : gratuite avec Amazon Prime Retours : gratuits selon les conditions affichées par Amazon Coque en fibre de carbone Le LS2 Advant X Carbon se distingue des casques modulables classiques par l’utilisation d’une coque en fibre de carbone. Ce matériau permet d’obtenir une structure résistante tout en limitant le poids du casque. Il représente un avantage particulièrement appréciable pour les motards qui effectuent régulièrement de longs trajets ou qui utilisent leur équipement quotidiennement. La construction en carbone contribue également au positionnement haut de gamme de cette série, qui se distingue des modèles modulables utilisant une coque en polycarbonate. La décoration Future II Gloss H-V Yellow associe une finition sombre à des éléments graphiques jaunes haute visibilité. Mentonnière pivotante à 180° L’une des principales caractéristiques de ce modèle est son mécanisme de mentonnière pivotante. Contrairement aux casques modulables traditionnels, dont la mentonnière reste relevée au-dessus du front, celle du LS2 Advant X Carbon peut pivoter complètement vers l’arrière. Cette conception permet de passer d’une configuration intégrale à une configuration jet, tout en conservant un ensemble relativement compact. Le mécanisme est particulièrement pratique pour les déplacements urbains, les arrêts fréquents et les trajets touristiques. La double homologation P/J permet l’utilisation du casque dans les deux configurations prévues par le fabricant, sous réserve de respecter les conditions d’utilisation indiquées dans sa notice. Homologation ECE 22.06 Le casque répond à la norme européenne ECE 22.06 , qui introduit des exigences de sécurité plus étendues que l’ancienne réglementation ECE 22.05. Cette homologation prend notamment en compte différents scénarios d’impact et des procédures d’essai actualisées. La conformité à cette norme constitue un critère important lors du choix d’un casque moto récent. Le LS2 Advant X Carbon associe cette homologation à une conception modulable, permettant de bénéficier de la polyvalence d’un casque transformable. Écran solaire intégré et Pinlock Le casque dispose d’un écran solaire interne rétractable. Ce système permet d’adapter rapidement la protection visuelle aux changements de luminosité, sans devoir remplacer l’écran principal. Il peut être particulièrement utile lors des trajets alternant passages ensoleillés, zones ombragées et tunnels. Le modèle bénéficie également d’un système compatible avec le Pinlock MaxVision , destiné à limiter la formation de buée sur l’écran principal. Cette technologie améliore le confort visuel, notamment lorsque les températures baissent ou lorsque l’humidité augmente. L’écran principal transparent offre une protection contre le vent et les projections rencontrées pendant la conduite. Confo",
+    "price": 267.3,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-moto-modulable-ls2-advant-x-carbon-future-ii-gloss-h-v-yellow-carbone-ece-2206-double-homologation-pj-taille-xl-3431061",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/MY96A/3431061_1/re/1200x1200/qt/90/3431061_1.jpg",
+    "detected_at": "2026-10-12T13:30:34+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 267.3,
+        "observed_at": "2026-10-12T14:00:29.104804+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection d'articles de cuisson en promotion - Ex: Faitout 20 cm Napoli 100% inox",
+    "description": "16,19€ - Hema > Retrait en magasin gratuit ou 3,95 € de livraison > Spécifications et composition : dimensions: faitout 20 cm diamètre (cm): 20 hauteur (cm): 10 sans: PFAS poids (kilo): 1.17 contenance (litres): 3.1 couleur: métallisé composition: body: 100% acier inoxydable / poignée: 100% acier inoxydable / couvercle: 100% acier inoxydable > Page complète ici > D'autres produits en promotion : Casserole 14 cm Napoli 10.49 € ici Faitout 16 cm Napoli à 12,59€ ici Faitout 18 cm Napoli à 14.99 € ici Faitout 20 cm Napoli à 16.19 € ici Poêle 20 cm Milano sans PFAS à 17.39 € ici",
+    "price": 16.19,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/selection-darticles-de-cuisson-en-promotion-ex-faitout-20-cm-napoli-100-inox-3431064",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/s1zCW/3431064_1/re/1200x1200/qt/90/3431064_1.jpg",
+    "detected_at": "2026-10-12T13:30:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.19,
+        "observed_at": "2026-10-12T14:00:29.104815+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TRIOMINOS Voyager - Edition Voyage Boîte Métal - Jeu de Société de Stratégie Famille et Enfants dès 6 Ans",
+    "description": "8,26€ - Amazon Très bon prix ! UN JEU DE STRATÉGIE : Le Triominos Tour est une version moderne d'un jeu de société classique. Faites preuve de stratégie pour placer vos pièces Triominos et marquer des points COFFRET EN MÉTAL : Le jeu est livré dans un élégant coffret en métal, parfait pour le rangement et le transport en Voyage. Le contenu de cette édition guidée, dans une élégante boîte en métal, comprend 56 briques Triominos triangulaires, 4 plateaux de rangement et des instructions de jeu PLAISIR EN FAMILLE OU ENTRE AMIS : Jouez au Triominos Tour avec votre famille ou vos amis lors de soirées conviviales. Défiez-vous mutuellement et découvrez qui sera le meilleur stratège. Triominos s'adresse aux joueurs à partir de 6 ans JEU DE DOMINOS :Triominos est une version fascinante du jeu de dominos avec beaucoup plus d'options de combinaison pour des jeux passionnants qui nécessitent de la perspicacité, de la logique et de la tactique FACILE À APPRENDRE : Les règles simples du jeu permettent une prise en main rapide. Les joueurs de tous niveaux peuvent s'amuser dès la première partie. Il permet à 2 à 4 personnes de démarrer rapidement le jeu Spécifications Tranche d'âge (description): Enfant Nombre de joueurs: 4 Marque: Goliath Thème: Nombre Matériau: Pierre Couleur: Tour : Boîte Métal Personnage de dessin animé: Ticket to Ride Composants inclus: 56 briques triangulaires Triominos, 4 bancs de rangement, instructions de jeu (français non garanti) Informations sur l'emballage: Étain Dimensions du produit: 19,2L x 12,4l centimètres Description de la tranche d’âge: Enfant Pays d'origine: Chine Unité de comptage: 1.0 unité Année du modèle: 2015 Nom du type du produit: jeu de société Nom du modèle: Triominos Tour Nombre d’emballages: 1 Nom de l'ensemble: Triominos Tour UPC: 734548764321 777904358604 Edition: Tour Code article international: 08711808606326 Fabricant: Goliath Numéro de modèle: 60632 Numéro de pièce: 60632 Description de la garantie du fabricant: 2 ans Classement des meilleures ventes d'Amazon: 5328 en Jeux et Jouets (Voir les 100 premiers en Jeux et Jouets) 13 en Jeux de dominos ASIN: B005X4TDSI Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (5 236) 4,5 sur 5 étoiles Âge recommandé par le fabricant: 6 ans et plus Type de matériau: Pierre Type de contenant: Étain Caractéristiques spéciales: Portable Nombre d' articles: 1 Langue: Allemand, Anglais, Espagnol, Français, Néerlandais Type d'Emballage: Boîte en métal Produit en kit?: Non Disponibilité du règlement: Oui Objectif pédagogique: Développer des compétences mathématiques telles que la pensée logique, la résolution de problèmes et le calcul Utilisation extérieure ou intérieure: Intérieur Mode de fonctionnement: Manuel Source d'energie: Manuel (français non garanti) Personnage représenté: Ticket to Ride Style: Boîte métal Genre: Puzzle_et_Logique Dimensions de l’article L x l: 19,2L x 12,4l centimètres Quantité de lot: 1 Poids de l'article: 12,95 Onces Taille: 1.77\" x 4.92\" x 7.68\" Dimensions de l’article: 12,5 x 4,5 x 19,5 centimètres GTIN: 734548764321 777904358604 Commentaires client",
+    "price": 8.26,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/triominos-voyager-edition-voyage-boite-metal-jeu-de-societe-de-strategie-famille-et-enfants-des-6-ans-3431062",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0r5ow/3431062_1/re/1200x1200/qt/90/3431062_1.jpg",
+    "detected_at": "2026-10-12T13:29:37+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.26,
+        "observed_at": "2026-10-12T14:00:29.104838+00:00"
+      }
+    ]
+  },
+  {
     "title": "Distribution Gratuite d'Arbres Fruitiers (Cerisiers,Pommiers,Poiriers,Figuiers, Pruniers, Abricotiers...) aux habitants du Val-de-Marne (94)",
     "description": "Samedi 07 Novembre, de 10h à 14h, aura lieu la nouvelle édition du dispositif \"Adopte ton Arbre\", Place des Marronniers à Saint-Maur-des-Fossés. Pour l'occasion, le Département du Val-de-Marne distribuera près de 300 Arbres Fruitiers (Cerisiers, Pommiers, Poiriers, Figuiers, Pruniers, Abricotiers, Pêchers selon les stocks disponibles) aux Val-de-Marnais. Le plant sera remis contre signature d'un acte d'engagement, où le signataire s'engage notamment à planter l'arbre en pleine terre et à lui apporter les soins nécessaires à son développement. Informations pratiques : comment adopter un arbre ? Étape 1 : Inscrivez-vous en ligne Pour réserver votre arbre et votre créneau, inscrivez-vous grâce au formulaire en ligne. Les inscriptions ouvriront prochainement. Étape 2 : Venez chercher votre Arbre Venez chercher votre Arbre sur le créneau horaire choisi, Place des Marronniers (Saint-Maur-des-Fossés). Pour les personnes non-inscrites, quelques arbres seront également disponibles dans la limite des stocks disponibles. Attention ! Les plants peuvent mesurer environ 300 cm : prévoyez donc un mode de transport adapté pour déplacer votre arbre. Sur place, des jardiniers seront présents pour vous aider à choisir votre essence d'arbre et vous conseiller sur la plantation. Nous vous invitons également à consulter les conseils des jardiniers départementaux : Tout savoir pour réussir sa plantation d'arbre Étape 3 : Donnez-nous des nouvelles de votre arbre Vous avez planté votre arbre ? Il donne ses premières feuilles ou des nouvelles fleurs ? N'hésitez pas à partager quelques photos de votre jeune adopté via le formulaire en ligne. Infos & Inscription Via Formulaire",
     "price": null,
@@ -336,6 +788,25 @@
     "category": "Autre",
     "price_verified": false,
     "price_history": []
+  },
+  {
+    "title": "[via App] Survêtement de sport enfant UMBRO - Noir, tailles du 7 ans au 16 ans",
+    "description": "11,99€ - Decathlon Polyvalent et confortable, ce survêtement enfant, avec une veste zippée et un pantalon ajusté, est idéal pour le sport comme pour un usage quotidien. lieu de pratique intérieur, extérieur type de ceinture ceinture élastiquée, ceinture avec cordon type de col col rond type de zip full zip capuche sans capuche matière principale polyester hauteur de ceinture taille médiane style à motifs vendu en set vendu ensemble (haut + bas)",
+    "price": 11.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/via-app-umbro-survetement-de-sport-enfant-noir-du-7-ans-au-16-ans-3431060",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/41xpQ/3431060_1/re/1200x1200/qt/90/3431060_1.jpg",
+    "detected_at": "2026-10-12T13:27:09+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-12T14:00:29.104857+00:00"
+      }
+    ]
   },
   {
     "title": "Chargeur sans fil UGREEN Zapix Qi2 25 W 2-en-1 - MagSafe, iPhone et AirPods, charge magnétique - Noir (Vendeur tiers)",
@@ -448,6 +919,25 @@
       {
         "price": 35.99,
         "observed_at": "2026-10-12T13:31:11.577663+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lampe LED RGB Smallrig RF10C - 4 couleurs, 20 filtres à motifs, batterie 7500mAh (Vendeur tiers)",
+    "description": "37,03€ - Amazon La Smallrig RF10C est une lampe LED portable plutôt sympa pour la photo et la vidéo. Elle propose 4 couleurs d'éclairage (blanc, rouge, bleu et orange) avec 20 filtres pour créer différents effets lumineux. Puissance de 10 W avec un IRC ≥ 96 pour un bon rendu des couleurs. Le faisceau est réglable de 10° à 60°, pratique pour ajuster l'éclairage selon les besoins.",
+    "price": 37.03,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lampe-led-rgb-smallrig-rf10c-4-couleurs-20-filtres-a-motifs-batterie-7500mah-3431048",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/25qfj/3431048_1/re/1200x1200/qt/90/3431048_1.jpg",
+    "detected_at": "2026-10-12T13:22:33+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 37.03,
+        "observed_at": "2026-10-12T14:00:29.104908+00:00"
       }
     ]
   },
