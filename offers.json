@@ -1,5 +1,77 @@
 [
   {
+    "title": "XIAOMI H500 Water Ionic Secador de Pelo 1800W",
+    "price": 40.17,
+    "reference_price": 50.21,
+    "discount_percent": 20.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09TB4RL9S",
+    "image_url": "https://m.media-amazon.com/images/P/B09TB4RL9S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:17:47",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 40.17,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Space, Energy & Light: Experim...d Acoustic Soundscapes 1961-88",
+    "price": 8.59,
+    "reference_price": 16.68,
+    "discount_percent": 48.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BRZTN1SH",
+    "image_url": "https://m.media-amazon.com/images/P/B0BRZTN1SH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:17:41",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 8.59,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Colop e-mark Multitiline Print...er ou en plastique 155719 Noir",
+    "price": 19.1,
+    "reference_price": 55.99,
+    "discount_percent": 65.89,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09J48JYFL",
+    "image_url": "https://m.media-amazon.com/images/P/B09J48JYFL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:17:40",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.1,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "MasterPRO Gastro Reeco - Batte... de cuisine et 1 protège-poêle",
+    "price": 264.09,
+    "reference_price": 379.99,
+    "discount_percent": 30.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D2RLDSNB",
+    "image_url": "https://m.media-amazon.com/images/P/B0D2RLDSNB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 19:17:37",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 264.09,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
     "title": "Sante Naturkosmetik Mineral Wa...u contouring, végétalien, 8 ml",
     "price": 6.4,
     "reference_price": 12.54,
@@ -1904,6 +1976,495 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fackelmann 31246 Lot de 15 piq...is, Papier, multicolore, 15 cm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0D1RF9RW4",
+    "image_url": "https://m.media-amazon.com/images/P/B0D1RF9RW4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:16:57+00:00",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "MasterPRO Gastro Reeco - Batte... de cuisine et 1 protège-poêle",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0D2RLDSNB",
+    "image_url": "https://m.media-amazon.com/images/P/B0D2RLDSNB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:16:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Carpoint Grattoir Brabantia Vileda",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B006GD9UWE",
+    "image_url": "https://m.media-amazon.com/images/P/B006GD9UWE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:16:13+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Staedtler - Lumocolor 344 - Et...ointe 2,4 mm Assortis - 344 C4",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09T33TFMN",
+    "image_url": "https://m.media-amazon.com/images/P/B09T33TFMN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:16:06+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "NYX Professional Makeup Eyelin...re, Jumbo Lash!, Baddest Black",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09XRGZGTT",
+    "image_url": "https://m.media-amazon.com/images/P/B09XRGZGTT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:15:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Papo- Papillon LA Vie Sauvage Figurine, 50260, Multicolore",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B083FD2MGZ",
+    "image_url": "https://m.media-amazon.com/images/P/B083FD2MGZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:15:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Baskets Puma Club II enfant et adolescent",
+    "description": "26,90€ - Amazon En 36 / 37 / 38 / 38,5 / 39",
+    "price": 26.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/puma-baskets-club-ii-enfant-et-adolescent-3431304",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6Vhd9/3431304_1/re/1200x1200/qt/90/3431304_1.jpg",
+    "detected_at": "2026-10-12T19:15:27+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 26.9,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Schleich Bébé Tigre du Bengale",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B00PESXDVQ",
+    "image_url": "https://m.media-amazon.com/images/P/B00PESXDVQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:15:22+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Colop e-mark Multitiline Print...er ou en plastique 155719 Noir",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09J48JYFL",
+    "image_url": "https://m.media-amazon.com/images/P/B09J48JYFL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:14:38+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "KIKO Milano Instamoisture Foun...Perfecteur Et Hydratant Spf 25",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DB8RYKKP",
+    "image_url": "https://m.media-amazon.com/images/P/B0DB8RYKKP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:13:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Papo -Figurine Peinte A La Mai...et Garçons - A Partir de 3 Ans",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09TDHCZDC",
+    "image_url": "https://m.media-amazon.com/images/P/B09TDHCZDC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:13:15+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Space, Energy & Light: Experim...d Acoustic Soundscapes 1961-88",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BRZTN1SH",
+    "image_url": "https://m.media-amazon.com/images/P/B0BRZTN1SH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:12:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "KIKO Milano Unlimited Blush 10...t Modulable Tenue Longue Durée",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DJPCDFLP",
+    "image_url": "https://m.media-amazon.com/images/P/B0DJPCDFLP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:12:30+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Chargeur Baseus Enercore - 67W, USB C avec Câble Rétractable, Chargeur GaN 2 Ports USB-C (via remise panier - Vendeur tiers)",
+    "description": "19,97€ - Amazon ⚡ Chargeur Baseus GaN6 67W – 3 USB-C avec câble rétractable intégré Chargeur secteur Baseus 67W équipé de la technologie GaN6, avec un câble USB-C rétractable intégré de 80 cm. Pratique pour éviter de transporter plusieurs chargeurs et câbles. Caractéristiques : - ⚡ Puissance maximale de 67W pour la charge rapide - 3 connexions USB-C, dont un câble rétractable intégré - Câble USB-C de 80 cm, ajustable et rétractable - Charge simultanée de 3 appareils, avec partage de la puissance - ️ Technologie GaN6 pour un format compact et une meilleure efficacité énergétique - Compatible avec de nombreux smartphones, tablettes et ordinateurs portables USB-C - Dimensions : 10,5 × 5,6 × 3,6 cm - ⚖️ Poids : 182 g - ️ Protections contre la surchauffe, les surcharges et les courts-circuits Compatibilité : Samsung Galaxy, iPhone, Google Pixel, MacBook, iPad, Lenovo, HP, Dell et autres appareils USB-C compatibles. Un chargeur polyvalent pour le bureau, les déplacements ou les voyages, avec l'avantage de toujours avoir un câble USB-C à portée de main. À noter : les 67W correspondent à la puissance maximale en sortie unique. La puissance est répartie lorsque plusieurs appareils sont branchés.",
+    "price": 19.97,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baseus-enercore-chargeur-usb-c-67w-avec-cable-retractable-chargeur-gan-2-ports-usb-c-3431302",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ebqMX/3431302_1/re/1200x1200/qt/90/3431302_1.jpg",
+    "detected_at": "2026-10-12T19:12:04+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.97,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "T3 Lucea Professional Fer à li...des ondulations et des boucles",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BNLVQP68",
+    "image_url": "https://m.media-amazon.com/images/P/B0BNLVQP68.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:11:51+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Figurine Antilope Koudou Réali...nfant Collection Sauvage 3 Ans",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001PIJE5I",
+    "image_url": "https://m.media-amazon.com/images/P/B001PIJE5I.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:11:46+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Fire Angel FA3322-EUX10 Détect...onoxyde de Carbone Multicolore",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BS49NV76",
+    "image_url": "https://m.media-amazon.com/images/P/B0BS49NV76.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:11:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Baskets Puma Club II Era Sneaker Mixte",
+    "description": "32€ - Amazon Plusieurs taille dispo",
+    "price": 32.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/puma-club-ii-era-sneaker-mixte-3431299",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/qrgRX/3431299_1/re/1200x1200/qt/90/3431299_1.jpg",
+    "detected_at": "2026-10-12T19:10:44+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 32.0,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KIKO Milano Skin Tech Serum Hy...isage Hydratant Et Nourrissant",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FT93YZ8V",
+    "image_url": "https://m.media-amazon.com/images/P/B0FT93YZ8V.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:10:44+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Schleich 14782 Renard, dès 3 A... Life - Figurine, 3 x 8 x 5 cm",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CH1H4V8M",
+    "image_url": "https://m.media-amazon.com/images/P/B0CH1H4V8M.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:10:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Mattel Disney · Pixar Figurine...ilm et Chapeau Amovible, JKV14",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FDH2CB79",
+    "image_url": "https://m.media-amazon.com/images/P/B0FDH2CB79.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:10:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "KIKO Milano Lip Volume Trasparente - Teinte Transparent",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07W8V7NGW",
+    "image_url": "https://m.media-amazon.com/images/P/B07W8V7NGW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:10:00+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Alan Wake 2 Deluxe Edition sur Xbox Series X|S (Dématérialisé)",
+    "description": "23,99€ - Xbox Store Alan Wake 2 Deluxe Edition sur Xbox store en promo supplémentaire) - Extension La maison du lac (Contenu scénaristique supplémentaire) - Coupe-vent écarlate pour Saga - Tenue de star pour Alan - Tenue Alan Wake classique pour Alan - Skin Fusil Parliament pour Alan - Breloque lanterne pour Saga Extension La maison du lac Dans la dernière extension d'Alan Wake 2, plongez dans une expérience horrifique éprouvante au cœur d'un nouveau lieu sur les rives de Cauldron Lake. Entre les murs d'une station de recherche du Bureau Fédéral de Contrôle, la maison du lac, une catastrophe s'est produite. De dangereuses expériences ont provoqué une collision entre la réalité et l'antre noir. Cette extension se déroule en parallèle du jeu principal et vous met dans la peau de l'agente du FBC Kiran Estevez, jouée par Janina Gavankar. En tant qu'Estevez, explorez les couloirs inquiétants de la maison du lac, un site consacré à des recherches sur le surnaturel, et dévoilez les sombres mystères qui s'y cachent. Caractéristiques principales : - Nouveau lieu : la maison du lac, qui se dresse près de Cauldron Lake, est un nouveau lieu inquiétant aux nombreux niveaux à explorer. - Nouveaux ennemis : affrontez « les Esquissés », des ennemis inédits terrifiants qui mettront vos talents de survie à l'épreuve. - Nouvelle arme : équipez-vous du puissant lanceur de pierre noire pour combattre les menaces qui rôdent dans le complexe. - Nouvelle musique : vivez une expérience immersive grâce à une nouvelle chanson de Poe, ainsi qu'à une chanson de fin de chapitre signée Petri Alanko. Extension Zone X Zone X vous permet d'incarner plusieurs personnages de l'univers de Remedy appréciés des fans dans 3 épisodes très stylisés. Bien qu'ils rappellent des personnages déjà connus des joueurs, ils sont différents : ce sont des versions d'eux à la sauce Zone X. Épisodes : - Time Breaker : L'Acteur, qui ressemble étonnamment au shérif de Bright Falls, Tim Breaker, incarne un héros du multivers dans le jeu « Time Breaker ». Son personnage doit traquer le maître de mondes multiples et l'empêcher de tuer les différentes versions de lui-même dans des univers parallèles. - L'étoile Polaire : La Sœur, une femme inconnue qui ressemble étonnamment à Jesse Faden, directrice du FBC, tente de retrouver son frère disparu, retenu prisonnier à Coffee World. - La plus grande fan : La Serveuse, qui ressemble étonnamment à Rose Marigold, serveuse du Oh Deer Diner, doit sauver son idole, l'Écrivain, qui court un grand danger. Pour ce faire, il lui faut affronter ceux qui critiquent l'élu de son cœur, ainsi que le jumeau diabolique de ce dernier, le Rebelle. Jeu de base en version dématérialisée Une série de meurtres rituels menace Bright Falls, une petite ville au cœur de la nature du Nord-Ouest Pacifique. Saga Anderson, talentueuse agente du FBI ayant la réputation de résoudre les affaires insolubles, arrive à Bright Falls afin d'enquêter sur ces meurtres. L'enquête tourne au cauchemar quand elle découvre les pages d'une histoire horrifique qui commence à devenir réalité. Alan Wake, écrivain piégé dans un cauchemar hors de notre monde, écrit une histoire sombre afin de modifier la réalité et de s'enfuir de sa prison. Traqué par une entité horrifique, Wake tente de ne pas devenir fou et de battre le mal à son propre jeu. Nourries par le récit d'horreur, des ténèbres surnaturelles envahissent Bright Falls, corrompant ses habitants et menaçant les proches d'Anderson et de Wake. La lumière est l'arme et l'abri de ces derniers contre l'obscurité qu'ils affrontent. Piégés dans une histoire horrifique composée uniquement de victimes et de monstres, pourront-ils s'échapper pour devenir les héros qu'ils sont censés être ?",
+    "price": 23.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/alan-wake-2-deluxe-edition-xbox-dematerialise-3431301",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ON9KG/3431301_1/re/1200x1200/qt/90/3431301_1.jpg",
+    "detected_at": "2026-10-12T19:09:27+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "XIAOMI H500 Water Ionic Secador de Pelo 1800W",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B09TB4RL9S",
+    "image_url": "https://m.media-amazon.com/images/P/B09TB4RL9S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12T19:09:17+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Jouet Lego Technic McLaren P1-42172",
+    "description": "297,49€ - Amazon Construisez le bolide suprême Recréez les détails de la McLaren P1 mythique en construisant cette hypercar à l’échelle pour adultes. Propulsez votre passion pour McLaren Prenez le temps de construire les superbes éléments de la voiture pour créer un modèle complexe à l'échelle 1:8 riche en détails réalistes. LEGO Technic McLaren P1 Équipement détaillé Boîte à 7 vitesses et moteur à pistons V8 à construire. Détails de conception authentiques Ouvrez les portes dièdres ainsi que l'aileron arrière réglable. Trouvez l’inspiration en ligne Le numéro de série unique donne accès à un contenu exclusif. Une expérience de construction immersive Ce kit LEGO Technic représente un défi gratifiant pour les adultes fans de construction.",
+    "price": 297.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-technic-mclaren-p1-42172-3431300",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/crhjG/3431300_1/re/1200x1200/qt/90/3431300_1.jpg",
+    "detected_at": "2026-10-12T19:08:28+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 297.49,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets New Balance 2010 (U2010ETB) - Noir/Rouge, tailles 41,5 à 44",
+    "description": "67,99€ - Solebox Si vous cherchez une paire de New Balance 2010, le coloris noir/rouge est actuellement proposé à -60 % chez Solebox. La 2010 reprend l'esprit des running des années 2000 avec une silhouette assez massive, une tige mélangeant cuir et mesh et des empiècements superposés. Le coloris noir avec ses touches de rouge foncé reste plutôt discret et facile à porter au quotidien. Caractéristiques : Modèle : New Balance 2010 Référence : U2010ETB Coloris : noir/rouge Tige en cuir et mesh pour un mélange de maintien et de respirabilité Amorti conçu pour le confort au quotidien Style rétro running des années 2000 Pointures disponibles : 41,5 / 42 / 42,5 / 44 Autres coloris également en promotion, mais à des tarifs plus élevés : noir, vert, pourpre, rose, brun et argent « Grey Days ». Les remises varient selon les références. Livraison : sous 2 à 4 jours ouvrables, offerte à partir de 139,99 € d'achat. Retours : droit de retour de 14 jours.",
+    "price": 67.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sneakers-new-balance-2010-u2010etb-noirrouge-tailles-415-a-44-3431298",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SaMaC/3431298_1/re/1200x1200/qt/90/3431298_1.jpg",
+    "detected_at": "2026-10-12T19:06:22+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 67.99,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Perceuse-visseuse sans fil Bosch UniversalDrill 18V-60 Perc, UniversalDrill 18V-60 EC (sans batterie ni chargeur)",
+    "description": "50,51€ - Amazon Bosch Perceuse-visseuse sans fil UniversalDrill 18V-60 Performances élevées et endurance maximale Perc UniversalDrill 18V-60 EC outil seul Système de batteries POWER FOR ALL 18V Détails Explorer Avis Nos prix incluent l'éco-participation sur tous les produits concernés. Vous voulez recycler votre appareil électrique ou électronique gratuitement ? En savoir plus ici. Signaler un problème avec ce produit Les clients ont également acheté Sur la base des produits que les clients ont achetés ensemble Bosch Perceuse-visseuse sans fil UniversalDrill 18V-60 | Performances élevées et endurance maximale Perc UniversalDrill 18V-6 + Bosch 34 pièces Ensemble de forets et de tournevis en titane X-Line (pour bois, pierre et métal, accessoires perceuses) Sponsorisé + Bosch 32x Set d’embouts de vissage Extra Hard mixte, 32 pcs | Longueur 25 mm Professional Accessoire Visseuse Sponsorisé Acheter les trois: 74,72 € Produits liés à cet article Sponsorisé Détails du produit Principaux points forts MarqueBosch Source d'alimentationAlimenté par batterie Vitesse de rotation maximale1900 tr/min Tension18 Volts Ampérage2 A CouleurGreen Plus de puissance et plus grande autonomie avec le moteur sans charbon Maintien ferme des embouts et forets et changement d’accessoire très facile grâce au robuste mandrin en métal de 13 mm Bonne maîtrise et grande précision grâce à l’engrenage 2 vitesses et aux 20 positions de présélection de couple Couple maximal de 60 Nm (vissages durs) Lieferumfang: Embout de vissage double;Boîte carton",
+    "price": 50.51,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/bosch-perceuse-visseuse-sans-fil-universaldrill-18v-60-performances-elevees-et-endurance-maximale-perc-universaldrill-18v-60-ec-outil-seul-3431296",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/V0qxl/3431296_1/re/1200x1200/qt/90/3431296_1.jpg",
+    "detected_at": "2026-10-12T19:04:38+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 50.51,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vélo gravel Lapierre Crosshill CF 7.0 – Tailles XS, S, M",
+    "description": "2 499€ - Private Sport Shop Pour changer des annonces Lapierre de Statera, gravel carbone avec transmission électronique Shimano GRX Di2 2x12V, à 2 499,99 €. Au programme : - Cadre et fourche carbone, freins à disque hydrauliques - Roues DT Swiss GR1600 Spline, pneus WTB Raddler 44 mm - Cintre carbone, selle Fizik Terra Argo X7 Bon à savoir : - Tailles disponibles XS, S et M - Livraison gratuite avec le code BIKE - Livraison estimée du 15 au 19 octobre",
+    "price": 2499.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/velo-gravel-lapierre-crosshill-cf-70-tailles-xs-s-m-3431295",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y2DOY/3431295_1/re/1200x1200/qt/90/3431295_1.jpg",
+    "detected_at": "2026-10-12T19:04:31+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2499.0,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot Aspirateur laveur Roborock Qrevo Curv2 flow X",
+    "description": "481,44€ - Pixmania Le Roborock Qrevo Curv 2 FlowX est un aspirateur robot laveur de nouvelle génération. Optimisation possible avec Wildilo et 4% de cashback ce qui le ramène à 465€ environ. Et surtout c'est la version X avec des consommables fournis.",
+    "price": 481.44,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-roborock-qrevo-curv2-flow-x-3431294",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gXIR1/3431294_1/re/1200x1200/qt/90/3431294_1.jpg",
+    "detected_at": "2026-10-12T19:03:09+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 481.44,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Machine à café automatique Nescafé Dolce Gusto Mini Me 2 Krups KP143BF0 Gris Cosmique",
+    "description": "49,99€ - Amazon Vente flash dolce gusto À propos de ce produit Capsules NESCAFÉ Dolce Gusto pour votre machine à café Mini Me 2 (L 16,1 cm x P 23,2 cm x H 30,5 cm) Cette machine à café compacte et élégante s’intègre dans toutes les cuisines. Profitez de plus de 45 de vos boissons chaudes et froides préférées Mini Me 2 est fabriquée avec au moins 30 % de matériaux recyclés.30 % correspond à la quantité totale de matériaux recyclés utilisés dans la machine. Produit réparable : nous vous recommandons de faire réparer votre produit dans notre réseau de 6 200 centres de réparation à travers le monde afin de prolonger sa durée de vie. Commentaires client",
+    "price": 49.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nescafe-dolce-gusto-mini-me-2-par-krups-gris-cosmique-machine-a-cafe-automatique-kp143bf0-3431291",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DRPh6/3431291_1/re/1200x1200/qt/90/3431291_1.jpg",
+    "detected_at": "2026-10-12T19:01:50+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      }
+    ]
+  },
+  {
+    "title": "T-shirt petit logo Champion - Plusieurs tailles disponibles",
+    "description": "5€ - JD Sports Champion T-shirt petit logo Détails du produit: Le T-shirt Champion petit logo est un basique pour homme avec un petit logo sur la poitrine. caractéristiques du produit : Exclusivité JD Coupe classique Col rond côtelé Logo Champion sur la poitrine Lavable en machine",
+    "price": 5.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/champion-t-shirt-coupe-classique-3431292",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aMhsB/3431292_1/re/1200x1200/qt/90/3431292_1.jpg",
+    "detected_at": "2026-10-12T19:00:40+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 5.0,
+        "observed_at": "2026-10-12T19:17:58.667305+00:00"
       }
     ]
   },
@@ -9529,570 +10090,6 @@
       {
         "price": 20.16,
         "observed_at": "2026-10-12T12:59:39.197794+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac à Dos Eastpak Powr Pak'R - 40x25x18cm, Coloris Bleu",
-    "description": "19,99€ - Veepee Le sac à dos Eastpak Powr Pak'R revisite l'iconique modèle de la marque dans une version urbaine et fonctionnelle. Avec sa capacité de 18 litres et ses dimensions équilibrées ( 40 cm de hauteur, 28 cm de largeur et 18 cm de profondeur ), il offre un volume idéal pour transporter facilement vos affaires de cours, de travail ou de sorties quotidiennes. Conçu dans un tissu synthétique haute résistance de couleur bleue, il dispose d'un compartiment principal zippé spacieux et de la célèbre poche avant pour conserver vos petits objets à portée de main. Ses bretelles rembourrées et ajustables garantissent un confort de portage optimal tout au long de la journée. Points forts Format Compact & Ergonomique (18L) : Capacité idéale pour le quotidien sans être encombrant. ️ Robustesse Iconique Eastpak : Matériaux durables et coutures renforcées pour une grande longévité. Confort de Portage : Bretelles matelassées réglables et dos rembourré pour préserver vos épaules. Rangement Pratique : Compartiment principal spacieux + poche frontale zippée d'accès rapide. ️ Fiche technique ComposantSpécificationsMarque / Modèle Eastpak / Powr Pak'R Type de produit Sac à dos urbain / scolaire / quotidien Volume / Capacité 18 Litres Dimensions (H x L x l) 40 cm x 28 cm x 18 cm Coloris Bleu Compartiments 1 grand compartiment principal + 1 poche avant zippée Fermeture Glissières zippées renforcées Confort Bretelles ajustables et panneau dorsal rembourrés",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-eastpak-powr-pakr-coloris-bleu-3430979",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/R47QS/3430979_1/re/1200x1200/qt/90/3430979_1.jpg",
-    "detected_at": "2026-10-12T11:53:52+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-12T12:59:39.197799+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Xilence Performance C Série | ...38 | 3Pin | 92 mm | Rouge/Noir",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B01L6PMFAU",
-    "image_url": "https://m.media-amazon.com/images/P/B01L6PMFAU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T11:51:10+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Lego Pokémon 72168 Rayquaza",
-    "description": "116,99€ - Amazon 10 sur amazon",
-    "price": 116.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-rayquaza-3430974",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/16i3N/3430974_1/re/1200x1200/qt/90/3430974_1.jpg",
-    "detected_at": "2026-10-12T11:48:55+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 116.99,
-        "observed_at": "2026-10-12T12:59:39.197805+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Vols à partir de 23,35€ en Novembre, plusieurs aéroports et destinations",
-    "description": "23,35€ - easyJet Sélection de vols à partir de 23,35€ en novembre (plusieurs aéroports et destinations) > Depuis Bordeaux : https://www.easyjet.com/fr/inspirez-moi#inspire=1&origin=BOD&date=France_One-way_Autumn-Winter-2026&type=City+explorer Londres à 23,35€ Majorque à 24,85€ Rome à 24,85€ Milan à 24,85€ Faro à 24,85€ etc > Depuis Nantes: https://www.easyjet.com/fr/inspirez-moi#inspire=1&origin=NTE&date=France_One-way_Autumn-Winter-2026&type=City+explorer Faro à 23,95€ Bruxelles à 23,95€ Milan à 22,45€ Toulouse à 23,95€ > Depuis Lyon : https://www.easyjet.com/fr/inspirez-moi#inspire=1&origin=LYS&date=France_One-way_Autumn-Winter-2026&type=City+explorer Naples à 23,35€ Majorque à 23,35€ Londres à 23,35€ Madère à 23,35€ > Depuis Toulouse: https://www.easyjet.com/fr/inspirez-moi#inspire=1&origin=TLS&date=France_One-way_Autumn-Winter-2026&type=City+explorer Milan à 23,35€ Majorque à 25,35€ > Depuis Paris (Orly) : https://www.easyjet.com/fr/inspirez-moi#inspire=1&origin=ORY&date=France_One-way_Autumn-Winter-2026&type=City+explorer Sicile à 30,15€ Genève à 33;65€ D'autres aéroports et d'autres destinations disponibles",
-    "price": 23.35,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-vols-a-partir-de-2335eur-en-novembre-plusieurs-aeroports-et-destinations-3430977",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/BWhll/3430977_1/re/1200x1200/qt/90/3430977_1.jpg",
-    "detected_at": "2026-10-12T11:48:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 23.35,
-        "observed_at": "2026-10-12T12:59:39.197811+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Alpen 92100700100 Foret hélicoïdal, Gris, 7,0mm",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00MDIJ3W8",
-    "image_url": "https://m.media-amazon.com/images/P/B00MDIJ3W8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T11:45:13+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "MAUL Lampe de bureau MAULstudy rouge E27 articulée métal",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0CYQB795Z",
-    "image_url": "https://m.media-amazon.com/images/P/B0CYQB795Z.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T11:44:33+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Mini PC GMKtec - AMD Ryzen 5 3500U, 16GO/512GO, WiFi 5, W11 Pro (Vendeur tiers)",
-    "description": "287,84€ - Amazon MINI PC POUR BUREAU ET JEUX LÉGERS – La série GMKtec Nucbox G10 intègre le processeur Ryzen 5 3500U, un quadricœur 64 bits performant basé sur l’architecture Zen+ de 12 nm d’AMD. Fréquence de base : 2,1 GHz, Boost jusqu’à 3,7 GHz, TDP 15 W. Prend en charge jusqu’à 32 Go DDR4-2400 double canal et GPU Radeon Vega 8 (jusqu’à 1,2 GHz). +35 % de performances par rapport aux puces Intel N150/N100/N97/N95. \"RYZEN 5 3500U vs RYZEN 3 4300U : Pourquoi choisir ? Meilleures performances multitâches grâce à plus de threads, idéal pour les applications exigeantes. Graphiques Vega 8 plus performants pour le gaming léger, la vidéo et les tâches GPU. Fréquence boost plus élevée pour de meilleures performances globales. Pour un processeur équilibré avec un meilleur multitâche et GPU, le Ryzen 5 3500U est le meilleur choix.\" Pourquoi choisir un SSD PCIe 3.0 NVMe plutôt que SATA ? Double emplacement M.2 2280 PCIe 3.0 x4 avec plus de 3500 MB/s – jusqu’à 7× plus rapide que le SATA (~500 MB/s). Démarrage rapide, lancement accéléré des logiciels et jeux, transfert fluide des gros fichiers. Le SATA convient aux tâches simples mais reste limité pour les usages intensifs. Le NVMe offre de meilleures performances et évolutivité. 16 Go de mémoire DDR4+ SSD de 512 Go - Équipé de 16 Go de mémoire vive DDR4 SO-DIMM et d'un SSD de 512 Go, le mini PC Nucbox G10 prend en charge l'extension de mémoire jusqu'à 32 Go de RAM. Doté de deux emplacements M.2 2280 PCIe 3.0, il permet d'étendre le stockage jusqu'à 16 To avec un SSD de 2 x 8 To (extension non incluse). Ce modèle prend en charge un TDP configurable de 12 W en mode down et de 35 W en mode up. Réseau Ethernet 2,5 GbE ultra-rapide : profitez d’une vitesse de transmission de données jusqu’à 2 500 Mbits/s sans latence. Idéal pour le travail, les jeux et la navigation Internet. Parfait pour Untangle, pfSense ou comme serveur de bureau. PC DE BUREAU TRIPLE ÉCRAN – Intègre une Radeon Vega 8 (1200 MHz) pour le montage vidéo, la lecture multimédia ou les jeux occasionnels. Affichage simultané sur 3 écrans via HDMI 2.1 TMDS, DP 1.4 et USB-C. INTERNET SANS FIL RAPIDE WIFI 5 + BT5.0 - Profitez d'une connexion WiFi 5 et Bluetooth 5.0 ultra-rapide ainsi que d'une sélection performante de ports : deux ports USB 3.2, un port USB 2.0, un superbe port HDMI 2.1 TMDS 4K à 60 Hz, un port USB-C toutes fonctions (PD/DP/Data), un port DisplayPort dédié, une prise audio 3,5 mm et une alimentation PD pour un multitâche fluide et une connectivité optimale. GARANTIE GMKTEC - Chaque mini PC bénéficie d'une garantie limitée de 3 ans à compter de la date d'achat. Tous les défauts de conception et de fabrication sont couverts. Grâce à notre équipe après-vente professionnelle toujours prête à répondre à vos besoins, vous pouvez profiter pleinement de votre mini PC en toute sérénité. Spécifications Marque: GMKtec Système d'exploitation: 11 Pro Modèle du CPU: Ryzen 5 Vitesse du CPU: 3.7 Taille du cache: 16 GB Description de la carte graphique: Intégré Coprocesseur graphique: Integrated Graphics Capacité de stockage mémoire: 512 Go Usages spécifiques pour le produit: Éducation Type de PC: Mini PC Système d’exploitation: 11 Pro Usages particuliers du produit: Éducation Type de design de l'ordinateur individuel: Mini PC Couleur: White Appareil de stockage optique: Aucun Technologie du disque dur: SSD Connectivité du matériel: Bluetooth, Ethernet, HDMI, Port d'écran, USB spécifications énergétique remplies: True Interface de sortie vidéo: HDMI 2.1, DisplayPort 1.4, Type-C Interface du disque dur: PCIE x 4 Type de produit: Minimaliste Disponibilité de pièces détachées: 3 Ans Méthode de refroidissement: Air appareils compatibles: Clavier, Souris, Moniteur, Haut-parleur, Imprimante, Projecteur, Smartphone, Casque type de prise électrique: Prise européenne CEE 7/16 Sortie vidéo: HDMI, DisplayPort, USB-C Taille de la mémoire cache installée: 16 GB Capacité de stockage: 512 Go Mémoire RAM installée: 16 Go Technologie de Mémoire RAM: ",
-    "price": 287.84,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-amd-ryzen-5-3500u-16go512go-wifi-5-w11-pro-16go1to-a-32299eur-3430972",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/PGRhZ/3430972_1/re/1200x1200/qt/90/3430972_1.jpg",
-    "detected_at": "2026-10-12T11:40:49+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 287.84,
-        "observed_at": "2026-10-12T12:59:39.197820+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo de Route Nakamura Century Team - Tailles S, M ou L",
-    "description": "1 999,99€ - Intersport Le vélo de route haut de gamme de chez Intersport ! Carbon + transmission électronique 2x12v",
-    "price": 1999.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/velo-de-route-nakamura-century-team-3430971",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/qxvbA/3430971_1/re/1200x1200/qt/90/3430971_1.jpg",
-    "detected_at": "2026-10-12T11:40:45+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1999.99,
-        "observed_at": "2026-10-12T12:59:39.197826+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo Gravel Nakamura Allroad Team (Carbon + SRAM APEX AXS) - Plusieurs tailles disponibles",
-    "description": "1 899,99€ - Intersport Le gravel haut de gamme de chez Intersport. Un cadre carbon + une transmission électronique (pas d'équivalent à ce prix). Je l'ai depuis quelques mois très bon vélo !",
-    "price": 1899.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gravel-nakamura-allroad-team-carbon-sram-apex-axs-3430967",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JWppt/3430967_1/re/1200x1200/qt/90/3430967_1.jpg",
-    "detected_at": "2026-10-12T11:38:31+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1899.99,
-        "observed_at": "2026-10-12T12:59:39.197832+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ventilateur de Cou Portable Rechargeable USB Bleu",
-    "description": "19,99€ - Amazon Utilisation mains libres : se porte confortablement autour du cou avec un design pliable et léger pour un confort optimal lors de vos activités 5 vitesses réglables : adaptez le flux d'air selon vos besoins et préférences de refroidissement pour un confort personnalisé Batterie 2000mAh rechargeable USB : profitez de plusieurs heures d'autonomie grâce à la recharge pratique par câble USB Silencieux et puissant : bénéficiez d'un refroidissement efficace sans gêne sonore pour une utilisation discrète Utilisation polyvalente : convient pour le bureau, le sport, les voyages, la voiture et les activités en extérieur Design sans pales : technologie de ventilation moderne et sécuritaire pour une utilisation en toute tranquillité",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ventilateur-de-cou-portable-rechargeable-usb-bleu-3430966",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/I7d6x/3430966_1/re/1200x1200/qt/90/3430966_1.jpg",
-    "detected_at": "2026-10-12T11:37:28+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-12T12:59:39.197840+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Congélateur armoire Hisense FT3K310SAIE - FreshFit, 312 L, Total No Frost, Inox",
-    "description": "579,99€ - Darty Les points forts : Volume 312 L - HxLxP : 185,6 x 59,5 x 60 cm - Classe E Congélateur à froid ventilé (No Frost) - Sans givre 4 tiroirs - Autonomie 20h - Puissance de congélation 16kg/24h Enchâssable - MetalTechCooling - Convertactive Le congélateur FT3K310SAIE est conçu pour offrir une intégration élégante et discrète dans la cuisine grâce à sa technologie FreshFit enchassable qui dissimule parfaitement le système de flux d’air. Sa capacité généreuse de 312 litres permet de stocker une grande quantité d’aliments tout en garantissant une conservation optimale grâce au refroidissement No Frost associé au Metal‑Tech Cooling pour une diffusion homogène du froid. La fonction congélation profonde jusqu’à moins vingt huit degrés assure une prise en glace rapide et efficace, tandis que le contrôle électronique avec alarme et congélation rapide apporte précision, sécurité et praticité au quotidien. Ce congélateur armoire en pose libre utilise un système ventilé sans givre pour maintenir des performances constantes et éviter toute accumulation de glace. Il dispose d’un panneau de commande électronique, du Multi Air Flow et de la technologie Metal Cooling pour un contrôle optimal du froid. Il est équipé d’une porte réversible, de poignées externes, de pieds ajustables et peut s’ouvrir à quatre vingt dix degrés sans débord pour faciliter son installation. L’intérieur est organisé avec un bac à glaçons et cinq compartiments dont quatre tiroirs plus un espace additionnel. Il offre une autonomie de vingt heures en cas de coupure de courant et intègre un moteur inverter pour garantir une efficacité énergétique stable et silencieuse. Le FT3K310SAIE présente une classe énergétique E avec une consommation annuelle de deux cent cinquante neuf kilowattheures et un niveau sonore réduit de trente cinq décibels classé B. Il offre une capacité de congélation de seize kilogrammes par vingt quatre heures et fonctionne dans une classe climatique SN ST pour assurer une stabilité de performances selon les environnements.",
-    "price": 579.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/congelateur-armoire-hisense-ft3k310saie-freshfit-312-l-total-no-frost-inox-3430964",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Ovh2E/3430964_1/re/1200x1200/qt/90/3430964_1.jpg",
-    "detected_at": "2026-10-12T11:37:17+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 579.99,
-        "observed_at": "2026-10-12T12:59:39.197846+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures de Running New Balance Fresh Foam X 880v13 - Tailles 35 à 37.5",
-    "description": "45,37€ - Outlet 46 Prix en baisse depuis le deal précédent à 65.54€, pour les dernières tailles disponibles. Amorti Fresh Foam X Polyvalentes pour entraînements quotidiens Convient pour longues distances Semelle intermédiaire innovante Confort optimal Maintien stable Couleur : bleu Modèle : XW880B13",
-    "price": 45.37,
-    "reference_price": 65.54,
-    "discount_percent": 30.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-de-running-new-balance-fresh-foam-x-880v13-tailles-35-a-375-3430965",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YaFxy/3430965_1/re/1200x1200/qt/90/3430965_1.jpg",
-    "detected_at": "2026-10-12T11:36:37+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 45.37,
-        "observed_at": "2026-10-12T12:59:39.197855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Client Sosh] Smartphone 6,9\" Apple iPhone 18 Pro Max - RAM 12 Go, 256 Go (Via 100€ d'ODR sur Facture)",
-    "description": "1 429€ - Sosh Prix du mobile : 1629€ -100€ d'ODR remboursés sur facture -100€ avec le code SOSH15 =1429€ prix final. Lien vers l'ODR : https://formulaires.sosh.fr/19496 iPhone 18 Pro Performance : Puce A20 Pro pour des performances haut de gamme. Caméra : Système Pro 48 MP (principal, ultra grand-angle, téléobjectif) avec fonctions vidéo professionnelles (Dolby Vision 4K 120 fps, ProRes RAW). Écran : 6,3\" pour l’iPhone 18 Pro, 6,9\" pour l’iPhone 18 Pro Max. Autonomie : Jusqu’à 43 heures pour le Pro Max. Connectivité : 5G, Wi-Fi 7, Bluetooth 6, eSIM. Usage : Idéal pour la photo, la vidéo, les applications exigeantes, avec choix selon la taille d’écran et l’autonomie souhaitée.",
-    "price": 1429.0,
-    "reference_price": 1629.0,
-    "discount_percent": 12.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-69-apple-iphone-18-pro-max-256-go-via-100eur-dodr-sur-facture-3430962",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AqJXc/3430962_1/re/1200x1200/qt/90/3430962_1.jpg",
-    "detected_at": "2026-10-12T11:32:36+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1429.0,
-        "observed_at": "2026-10-12T12:59:39.197860+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Schneider 151276 XB 1 pochette...der et 1 stylo bille Rave Noir",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00KVNMKWW",
-    "image_url": "https://m.media-amazon.com/images/P/B00KVNMKWW.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T11:30:43+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Vélo de Route Lapierre Xelius DRS 9.0 - Gris, Tailles XS, M ou L",
-    "description": "3 999,99€ - Private Sport Shop DESCRIPTION Note : Montage à 70% à réaliser par vos soins : Mise en place du cintre, potence, roues, pédales, réglage des freins et dérailleur, passage de câble/purge (parfois). Le pivot de fourche arrive non coupé. Ce produit ne peut être livré en zones insulaires, DROM-COM, Grande-Bretagne et Andorre. Tout composant indisponible pourra être remplacé par un équivalent ou supérieur. Visuel non contractuel, vous fiez aux spécificités pour les composants. L'ESSENTIEL : Utilisation : Route Cadre : Carbone Transmission : Shimano Dura-Ace Di2 2x12V Freins : Disques hydrauliques Roues : 28ồii Garantie * CADRE & FOURCHE : • Coore, frein à disque flammoue, Non Boost Fourche : Lapierre Xelius DRS Carbon Fork, pivot carbone 1 1/8\" - 1 1/2\" conique, axe traversant 12 x 100mm Poids max. conseillé : 110kg TRANSMISSION & FREINS : • Boîtier de pédalier : Shimano SM-BB71-41B, Pressfit • Pédalier : Shimano Dura Ace R9200 165mm, 52 dents Levier gauche : Shimano Dura-Ace Di2 ST-R9270-L, • Di2 Dual Control Lever 2x12s, combinaison levier de frein / manette de dérailleur Levier droit : Shimano Dura-Ace Di2 ST-R9270-L, Di2 • Dual Control Lever 2x12s, combinaison levier de frein / manette de dérailleur • Dérailleur avant : Shimano Dura-Ace Di2 FD-R9250 2x12V, Brazed-On, Down Swing Dérailleur arrière : Shimano Dura-Ace Di2 RD-R9250 • 12V, Shadow, wireless, 24 vit. Cassette : Shimano Dura-Ace CS-R9200-12, 11-34 • dents • Chaîne : Shimano XTR CN-M9100 12V Leviers de frein : Shimano Dura-Ace R9270 Shift-Brake-Lever • Disques : Shimano Dura-Ace 9270 ROUES : Roues : DT Swiss ERC1400 Spline 35 mm, CL Pneus : Continental GP5000S TR 25-622 PÉRIPHÉRIQUES : Cintre : Lapierre RB167 Carbone, Semi-Intégré, -10°; prop: 125mm, Reach: 72mm, Flare: 5° 370mm Guidoline : Velo Tape VLT-5072SG Jeu de direction : Acros ICR Selle : Prologo Dimension T4.0 rails Tige de selle : Lapierre Xelius DRS UD Performance • Carbone, L: 350 mm, recul 0 mm • Pédales : non incluses *Cadre : 5 ans / Composants : 2 ans / Peintures et Graphismes : 1 an",
-    "price": 3999.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lapierre-velo-de-route-xelius-drs-90-gris-3430963",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XV17j/3430963_1/re/1200x1200/qt/90/3430963_1.jpg",
-    "detected_at": "2026-10-12T11:28:56+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 3999.99,
-        "observed_at": "2026-10-12T12:59:39.197866+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Clients Sosh] Smartphone 6,3\" Apple iPhone 18 Pro - RAM 12 Go, 256 Go (Via 100€ d'ODR sur Facture)",
-    "description": "1 279€ - Sosh Prix du mobile : 1479€ -100€ d'ODR remboursés sur facture -100€ avec le code SOSH15 =1279€ prix final. Lien vers l'ODR: https://formulaires.sosh.fr/19496 iPhone 18 Pro Performance : Puce A20 Pro pour des performances haut de gamme. Caméra : Système Pro 48 MP (principal, ultra grand-angle, téléobjectif) avec fonctions vidéo professionnelles (Dolby Vision 4K 120 fps, ProRes RAW). Écran : 6,3\" pour l’iPhone 18 Pro, 6,9\" pour l’iPhone 18 Pro Max. Autonomie : Jusqu’à 43 heures pour le Pro Max. Connectivité : 5G, Wi-Fi 7, Bluetooth 6, eSIM. Usage : Idéal pour la photo, la vidéo, les applications exigeantes, avec choix selon la taille d’écran et l’autonomie souhaitée.",
-    "price": 1279.0,
-    "reference_price": 1479.0,
-    "discount_percent": 13.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-sosh-smartphone-63-apple-iphone-18-pro-256-go-via-100eur-dodr-sur-facture-3430957",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/q8i3m/3430957_1/re/1200x1200/qt/90/3430957_1.jpg",
-    "detected_at": "2026-10-12T11:28:38+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 1279.0,
-        "observed_at": "2026-10-12T12:59:39.197874+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Watercooling PC AIO 240 mm MSI MAG CoreLiquid A13 - Blanc",
-    "description": "53,96€ - Amazon Kit de watercooling tout-en-un (AIO) MSI MAG CoreLiquid A13 240 en version White (radiateur 240 mm et finition blanche intégrale), compatible avec les sockets récents Intel LGA 1700 / 1851 et AMD AM5 / AM4. Conçu pour associer efficacité thermique et esthétique soignée pour les configurations blanches, ce modèle intègre un bloc pompe performant avec éclairage ARGB Gen2 indirect ainsi que deux ventilateurs 120 mm PWM préinstallés reliés par un câblage simplifié (EZ Connect) pour limiter l'encombrement des câbles à l'arrière du boîtier. Caractéristiques techniques : • Radiateur : format 240 mm en aluminium blanc (dimensions 277 x 119,6 x 27,2 mm) équipé de canaux Split-Flow pour une dissipation calorifique rapide. • Waterblock & pompe : plaque de contact en cuivre à microcanaux de 0,1 mm, pompe à roulement céramique tournant jusqu'à 3800 tr/min (niveau sonore moyen de 20 dBA). • Ventilation : 2 ventilateurs 120 mm PWM ARGB Gen2 préinstallés (débit d'air max 62,6 CFM, pression statique optimisée, roulement Rifle Bearing). • Tubing : tubes en caoutchouc EPDM de 390 mm renforcés pour prévenir l'évaporation du liquide et faciliter les courbures sans pincement. • Compatibilité sockets : Intel LGA 1700 / 1851 (bracket préinstallé) et AMD AM4 / AM5. • Éclairage : compatible avec le contrôle RGB de la carte-mère (Mystic Light, connecteur ARGB standard 3 broches 5V). Expédié par Amazon avec la livraison offerte (ou rapide avec Prime).",
-    "price": 53.96,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/kit-watercooling-aio-240-mm-msi-mag-coreliquid-a13-blanc-argb-lga-17001851-am4am5-3430961",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Z4q3n/3430961_1/re/1200x1200/qt/90/3430961_1.jpg",
-    "detected_at": "2026-10-12T11:28:30+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 53.96,
-        "observed_at": "2026-10-12T12:59:39.197880+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot 10 Paires de Chaussettes de Sport Everlast - Blanc, Taille 39-42",
-    "description": "5,03€ - Outlet 46 Disponibles en blanc. Soit 1.40€ la paire, frais de livraison inclus. 10 paires de chaussettes Bords côtelés élastiques Certifié OEKO-TEX Standard 100 52% coton, 46% polyester, 2% élasthanne",
-    "price": 5.03,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-10-paires-de-chaussettes-de-sport-everlast-taille-39-42-3430959",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/zd0xl/3430959_1/re/1200x1200/qt/90/3430959_1.jpg",
-    "detected_at": "2026-10-12T11:26:16+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 5.03,
-        "observed_at": "2026-10-12T12:59:39.197887+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Kit Solaire Plug & Play bifacial 1000Wc + Prise intelligente",
-    "description": "323,15€ - Allo Solar Le kit solaire Plug and Play bifacial 1000Wc + Prise intelligente est conçu pour réduire les factures d'électricité dès son installation. *caractéristiques du produit:* - Panneaux bifaciaux haute performance - Micro-onduleurs Solenso garantis 25 ans - Suivi intelligent sans passerelle - Distributeur officiel Solenso: ALLO SOLAR",
-    "price": 323.15,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/kit-solaire-plug-and-play-3430958",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DI5xq/3430958_1/re/1200x1200/qt/90/3430958_1.jpg",
-    "detected_at": "2026-10-12T11:24:16+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 323.15,
-        "observed_at": "2026-10-12T12:59:39.197893+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Thermaltake Toughpower GF2 ARG...TT Premium Edition PC-Netzteil",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B08V9CMB7Q",
-    "image_url": "https://m.media-amazon.com/images/P/B08V9CMB7Q.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T11:21:03+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Coupe-Bordures sans fil 36V Black & Decker BCSTE636L1-QW - Ø 33 cm, Tête pivotante, 1 batterie 36V 2,5Ah, Chargeur(Via ODR de 30€)",
-    "description": "79,99€ - Cdiscount Excellent prix pour un modèle 36V avec batterie et chargeur > 109,99€ avec le code B&D59 > 79,99€ après ODR (30€) > Lien de l'ODR > Livraison gratuite Description & Caractéristiques : Type de Produit Coupe-Bordures 33cm - sans fil LITHIUM 36V POWERCOMMAND™- 2,5Ah Description du produit Technologie Powercommand™: déroulement du fil par simple pression sur un bouton pour une maitrise totale de l'utilisateur Nouveau design droit pour diminuer la fatigue dans les usages prolongés Transmission bi-étagée E-Drive® par pignons pour plus d'efficacité sur les herbes denses Manche métal télescopique, tête pivotante, 2ème poignée réglable en hauteur Vitesse variable : éco-turbo pour une meilleure gestion de l'autonomie Sabot de guidage en métal, Poids de 3,2 kg Livré avec une bobine Reflex® (100 % automatique) de 10m - fil simple 1,6mm, 1 batterie Slide Pack Lithium 36V - 2,5Ah et un chargeur 1h50 Gamme coupe-bordure Modèle sans fil batterie lithium 36 V 1 coupe bordure livré avec une bobine Reflex® de 10m - fil simple 1,6mm, 1 batterie Slide Pack Lithi um 36V - 2,5Ah et un chargeur 1h50Type d'outilMotoriséFonction du produit Coupe-bordures avec fonction Trim & Edge™ pour une coupe nette et soignée le long des bordures Grande largeur de coupe 33 cm apportant un réel gain de temps et d'energie Moteur à transmission directe E-DRIVE pour un excellent rendement sur les herbes denses Manche métal télescopique réglable et 2eme poignée pour une meilleure ergonomie Technologie PowerCommand pour dérouler le fil en un seul click et contrôler la quantité utilisée Tête pivotante à 180°pour passer en mode dresse bordure",
-    "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coupe-bordures-sans-fil-36v-blackdecker-bcste636l1-qw-o-33-cm-tete-pivotante-1-batterie-36v-25ah-chargeurvia-odr-de-30eur-3430955",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6uIfx/3430955_1/re/1200x1200/qt/90/3430955_1.jpg",
-    "detected_at": "2026-10-12T11:19:31+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-12T12:59:39.197900+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Écran à Selfie 3,5\" Insta360 Snap - Plug & Play, Écran Tactile, Fixation Magnétique, Gris Clair",
-    "description": "72€ - Digit Photo L'INSTA360 Écran Snap Selfie avec Lumière est un écran tactile conçu pour améliorer vos selfies. *caractéristiques du produit:* - Éclairage intégré réglable (3 températures / 5 intensités) - Écran tactile 3,5” - Cadrage avec caméra arrière (qualité max smartphone) Descriptif Le Snap Selfie Screen (version Light) de Insta360 reprend le principe de l'écran déporté pour smartphone, en y ajoutant un éclairage intégré optimisé pour le visage. Il permet de cadrer avec la caméra arrière tout en améliorant le rendu en conditions de faible luminosité. Un éclairage intégré pensé pour le portrait Cette version intègre un module lumineux développé avec AMIRO : 3 températures de couleur (chaud / neutre / froid) 5 niveaux d'intensité lumière douce qui : atténue les ombres améliore le teint homogénéise l'éclairage Idéal pour : selfies vlogs contenus réseaux sociaux Écran tactile toujours au centre du dispositif Écran 3,5 pouces HD tactile retour vidéo en temps réel (caméra arrière) réglages accessibles directement (expo, zoom, modes) Tu cadres précisément avec la meilleure caméra du smartphone. Fonctionnement simple et fiable Connexion USB-C directe (filaire) Aucune batterie interne à recharger latence très faible (~30 ms) fonctionnement plug & play Stable, sans Bluetooth ni Wi-Fi. Format compact et mobile Fixation magnétique rapide poids léger (~75 g) format ultra compact Utilisable à main levée, trépied ou rig mobile. Points forts Éclairage intégré réglable (3 températures / 5 intensités) Cadrage avec caméra arrière (qualité max smartphone) Écran tactile 3,5” Connexion directe sans latence Format compact et magnétique GARANTIE CONSTRUCTEUR2 ans* *(certaines garanties nécessitent une inscription, voir conditions sur le site constructeur)",
-    "price": 72.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecran-selfie-insta360-snap-plug-play-ecran-tactile-fixation-magnetique-gris-clair-3430951",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6GvdL/3430951_1/re/1200x1200/qt/90/3430951_1.jpg",
-    "detected_at": "2026-10-12T11:19:31+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 72.0,
-        "observed_at": "2026-10-12T12:59:39.197907+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Kit Book Nook Twilight Library avec led",
-    "description": "24,50€ - Amazon Très jolie maquette avec tous ses meubles, sa fenêtre gothique. 194 pièces Conçu pour les débutants : Cette œuvre d’art architecturale en bois de haute qualité est conçue pour les amoureux des livres, passionnés de nostalgie et débutants en bricolage. Elle comprend 194 pièces en bois découpées au laser de précision, à emboîtement parfait. Grâce à son manuel d’instructions couleur complet étape par étape, vous assemblez en seulement 2 à 3 heures un charmant bureau miniature chaleureux, plein d’inspiration vintage et d’attrait intemporel. Un Design Vintage au Charme élégant: Ce Kit Book Nook pour adultes intègre l’essence des arts décoratifs dans le moindre de ses détails. Son cabinet d'étude miniature recrée une scène classique européenne, avec une cheminée finement ciselée, des livres et des journaux éparpillés. Alliant à la perfection esthétique rétro et réalisme, il fait office à la fois d’élément de décoration raffiné pour votre bibliothèque et de pièce de collection unique. Conçu pour créer une Atmosphère Chaleureuse : Équipée de deux lumières LED chaudes (piles non incluses), cette maison miniature diffuse une lueur douce et confortable. Les fenêtres illuminées et la bibliothèque lumineuse, accompagnées de la cheminée vacillante, créent un effet visuel agréable—une décoration attrayante le jour et une expérience immersive le soir.",
-    "price": 24.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/kit-book-nook-twilight-library-avec-led-3430954",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Xisk2/3430954_1/re/1200x1200/qt/90/3430954_1.jpg",
-    "detected_at": "2026-10-12T11:18:37+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 24.5,
-        "observed_at": "2026-10-12T12:59:39.197916+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie de Cuisine - 7 Pièces, en Acier Inoxydable, 3 Poêles & Protection 20, 24 & 26cm, avec Poignée",
-    "description": "49,99€ - E.Leclerc Promo valable sur beaucoup de produit de la marque La Batterie de cuisine 7 pièces en acier inoxydable est un ensemble polyvalent et pratique pour votre cuisine. **spécifications du produit :** - 3 poêles en inox (20/24/26 cm) - Acier inoxydable 18/8 de haute qualité - Conception empilable - Poignée amovible ergonomique et résistante à la chaleur - Compatible tous feux, y compris induction - Va au four et au lave-vaisselle - Couleur argenté",
-    "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-de-cuisine-7-pieces-en-acier-inoxydable-3-poeles-202426-cm-3430953",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/kY5GK/3430953_1/re/1200x1200/qt/90/3430953_1.jpg",
-    "detected_at": "2026-10-12T11:18:23+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-12T12:59:39.197922+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 20 Sachets Infusion du Monde Lipton Escapade Grand Sud",
-    "description": "0,97€ - Amazon ‼️‼️Via prévoyez et économisez ‼️‼️ Laissez-vous emporter par le parfum enivrant des délicieuses infusions Saveurs du Soir Grand Sud de Lipton avec son mélange de réglisse et de menthe. Tout le savoir-faire de Sir Thomas Lipton dans infusion emblématique à la menthe et la réglisse, sans sucre, pour un moment de détente au naturel. Les ingrédients de cette tisane iconique ont été sélectionnés avec soin pour apporter un goût authentique et un parfum enivrant. Pour une dégustation parfaite, versez 200 ml d'eau à 100 °C, sans lait ni sucre et laissez infuser vos tisanes pendant 4 à 5 mn selon l'intensité désirée. Le sachet Pyramid mis au point par Lipton laisse tous les ingrédients exprimer généreusement leurs arômes naturels pour vous faire profiter de tous les plaisirs de votre infusion. Les ingrédients de l'infusion Saveurs du Soir Infusion Grand Sud Menthe et Réglisse sont d'origine naturelle.",
-    "price": 0.97,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/20-sachets-infusion-du-monde-escapade-grand-sud-lipton-3430949",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bCZeT/3430949_1/re/1200x1200/qt/90/3430949_1.jpg",
-    "detected_at": "2026-10-12T11:15:22+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 0.97,
-        "observed_at": "2026-10-12T12:59:39.197932+00:00"
-      }
-    ]
-  },
-  {
-    "title": "20% de réduction dès 59€ d'achat sur une sélection Black & Decker (Cumulable avec ODR)",
-    "description": "Cdiscount 20% de réduction dès 59€ sur une sélection Black&Decker avec le code B&D59, cumulable en plus avec l'ODR en cours de la marque (y) Conditions complètes",
-    "price": 59.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/20-de-reduction-des-59eur-dachat-sur-une-selection-black-decker-cumulable-avec-odr-3430950",
-    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/1_5/re/1200x1200/qt/90/1_5.jpg",
-    "detected_at": "2026-10-12T11:14:38+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 59.0,
-        "observed_at": "2026-10-12T12:59:39.197938+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 4 Trackers Ugreen FineTrack Mini 2 - Alarme 110dB, Réseau Apple Find My iOS, Autonomie 5-7 Ans, Fluorescent, IP68 (Vendeur Tiers)",
-    "description": "26,16€ - Amazon 110 dB et Revêtement Fluorescent ] Lorsque le tracker est à proximité, ouvrez l’application “Find My” ou demandez de l’aide à Siri. Le haut-parleur intégré du tracker émet un bip puissant (110 dB) pour indiquer son position. De plus, le tracker est conçu avec un matériau fluorescent et un revêtement réfléchissant, restant bien visible même dans des environnements sombres ou complexes, afin de retrouver rapidement vos objets. Remarque : compatible uniquement avec iOS, iPadOS. [ Grande batterie, autonomie prolongée ] Équipé d'une batterie haute capacité de 600 mAh, ce tracker offre une autonomie longue durée et prend en charge jusqu'à 2 700 recherches sonores dans les conditions de test du laboratoire UGREEN. Vous pouvez consulter le niveau de batterie à tout moment dans l'application. (Remarque : la batterie n'est ni rechargeable ni remplaçable.) [ IP68 Étanche et Résistant à la Poussière ] Certifié IP68, le plus haut niveau de protection contre la poussière et l’eau, le tracker résiste à la poussière ainsi qu’à une immersion prolongée sous l’eau selon la norme IEC 60529 (jusqu’à 2 mètres de profondeur pendant 60 minutes maximum). Idéal pour les activités extérieures, que ce soit sous la pluie, dans un environnement humide ou même lors de la baignade de votre animal, l’appareil garantit un suivi précis de vos objets perdus. [ Certifié “Find My” (iOS Uniquement) ] Certifié par l’application “Find My”, il est sûr et sécurisé, vous n’avez donc pas à vous soucier d’une fuite de votre vie privée. Ce tracker d’objets peut être utilisé pour suivre vos clés, portefeuille, sac, passeport, valise, vélo, voiture, etc. Aucune installation requise ; connectez-le simplement via l’application “Find My” intégrée à votre iPhone (compatible avec iPhone 18 Pro/iPhone 18 Pro Max/iPhone 17 et autres séries d’iPhone). [ Alerte de Perte et Localisation Mondiale ] Si votre appareil associé dépasse une certaine distance, votre téléphone recevra une alerte de perte et vous indiquera sa dernière position connue. Grâce au réseau “Find My”, des centaines de millions d’appareils iOS dans le monde peuvent vous aider à localiser vos objets. Le tracker prend en charge le partage de position avec jusqu’à 5 personnes ; vous pouvez demander à votre famille et à vos amis de vous aider à retrouver un objet perdu. [ État de la batterie ] Après avoir ajouté le produit à l’app Localiser d’Apple, l’état de la batterie se met progressivement à jour pour afficher les informations les plus récentes. Ce processus correspond au fonctionnement normal de l’app. Veuillez patienter, aucune inquiétude à avoir.",
-    "price": 26.16,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-4-trackers-ugreen-finetrack-mini-2-alarme-110-db-reseau-apple-find-my-ios-autonomie-5-7-ans-fluorescent-etanche-ip68-3430948",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ToPAH/3430948_1/re/1200x1200/qt/90/3430948_1.jpg",
-    "detected_at": "2026-10-12T11:13:25+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 26.16,
-        "observed_at": "2026-10-12T12:59:39.197944+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Balai plat Vileda Ultramax Turbo XL - Kit avec Balai Plat, Serpillière Microfibre XL et Seau Essoreur à Pédale à Bec Verseur",
-    "description": "35,99€ - Amazon Kit complet Vileda Ultramax Turbo XL Achetez tout le matériel nécessaire au nettoyage de votre sol dans un seul kit. Vous réaliserez ainsi des économies par rapport à l’achat de chaque pièce séparément. Commandez dès aujourd’hui le kit Vileda Ultramax Turbo XL ! Kit de nettoyage complet pour tous les types de sols avec une housse de serpillière XL Le kit Vileda Ultramax Turbo XL permet un nettoyage aisé de tous les sols, y compris les parquets et les sols stratifiés. La housse est 20 % plus large que celle des kits comparables pour un nettoyage encore plus facile. Grâce à l’essoreuse actionnée par une pédale intégrée dans le seau de l’Ultramax Turbo XL, vous adaptez parfaitement le niveau d’humidité de la housse de serpillière aux caractéristiques de votre sol. Ce kit inclut un manche télescopique, un seau avec essoreuse actionnée par une pédale ainsi qu’un balai à plat avec housse en microfibre de grande qualité qui élimine la saleté tenace et détache les particules. Avantages : Housse de serpillière extralarge avec technologie microfibre de pointe Kit complet Essoreuse actionnée par une pédale pour un nettoyage plus rapide et plus amusant Convient à tous les sols durs Lavable en machine à 60 °C maximum – laver avec des textiles semblables Pour une action nettoyante optimale, remplacez la housse de serpillière tous les 6 mois Essoreuse activée par une pédale Grâce au kit Vileda Ultramax Turbo XL, vous n’avez pas besoin de vos mains pour essorer la housse de serpillière. L’essoreuse actionnée par une pédale intégrée dans le seau vous permet de ne pas vous pencher lorsque vous nettoyez. Housse de serpillière XL La housse de serpillière est 20 % plus large que celle des kits comparables. Résultat ? Vous nettoyez une surface plus grande en un seul coup de serpillière. Gagnez du temps lorsque vous passez la serpillière. Nettoyage facile sous les meubles La tête de la serpillière est dotée d’un joint flexible qui lui permet de passer et pivoter facilement sous les meubles ou dans les coins et les endroits difficiles. Résultat ? Chaque recoin de votre maison est nettoyé sans effort. Convient à tous les sols durs Adaptez facilement le degré d’humidité de la housse grâce à l’essoreuse intégrée dans le seau – cette housse convient ainsi à tous les types de sols durs. Housse de serpillière XL en microfibre 2en1 La housse de serpillière 20 % plus large nettoie facilement même la saleté et les taches tenaces grâce à une Power zone composée de microfibres rouges et grises spéciales. Lavable en machine à 60 °C maximum La housse de serpillière du kit Vileda Ultramax Turbo XL est lavable en machine jusqu’à 60 °C – pour un nettoyage hygiénique en profondeur. Laver avec des textiles semblables. Système de nettoyage durable Ce système de nettoyage contient plus de 30 % de matériaux recyclés et est produit en Europe, ce qui réduit son empreinte CO2. Notre mission ? Toujours travailler sur de nouvelles technologies et méthodes pour donner une seconde vie au plastique. La mission LOVE IT CLEAN Nous veillons à tenir compte de l’ensemble du cycle de vie de nos produits. De l’approvisionnement en matières premières au déchet final, nous prenons en compte tous les critères environnementaux. Et comme toujours, nous nous efforçons d’améliorer l’excellente performance de nos produits. Pour en savoir plus sur notre initiative, rendez-vous sur notre site Internet !",
-    "price": 35.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vileda-balai-plat-ultramax-turbo-xl-kit-avec-balai-plat-serpilliere-microfibre-xl-et-seau-essoreur-a-pedale-a-bec-verseur-3430946",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/NZ0xx/3430946_1/re/1200x1200/qt/90/3430946_1.jpg",
-    "detected_at": "2026-10-12T11:08:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 35.99,
-        "observed_at": "2026-10-12T12:59:39.197950+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Robot Aspirateur Laveur Roborock Q10 S5 Set - 10000 Pa",
-    "description": "109,99€ - JoyBuy Détails Aspiration Ultra-puissante de 10 000 Pa : Le dernier aspirateur robot roborock Q10 S5 offre une aspiration puissante de 10 000 Pa pour ramasser efficacement la poussière, les miettes, les poils d'animaux et les débris des sols durs et des tapis, pour un nettoyage en profondeur et une maison impeccable. Nettoyage sans Enchevêtrement : Équipé d'une brosse principale anti-emmêlement JawScrapers Comb et d'une brosse latérale en arc, l'aspirateur robot laveur glisse sans effort à travers les poils d'animaux et les longues mèches sans s'encrasser, pour une expérience de nettoyage sans tracas. Système de Serpillères VibraRise 2.0 : Le système de nettoyage avancé de l'robot laveur de sol offre une fréquence de vibration de 3 000 tours par minute et une vibration active à deux zones pour éliminer facilement les taches tenaces et réduire les traces d'eau. Ce module serpillères se soulève également automatiquement de 8 mm pour nettoyer les tapis à poils courts et assurer un nettoyage en profondeur. Navigation LiDAR PreciSense : Le système de navigation LiDAR effectue un balayage à 360° et crée simultanément des cartes détaillées pour une navigation optimale. Le robot aspirateur laveur mémorise également plusieurs cartes jusqu'à 4 étages pour un nettoyage impeccable sur chaque étage, sans manquer une seule zone. Évitement d'obstacles Reactive Tech : Alimenté par Reactive Tech avec lumière structurée, le robot aspirateur laveur détecte et contourne les obstacles sans effort, même dans les pièces encombrées où les objets sont éparpillés sur le sol. Il identifie aussi intelligemment les zones interdites, comme les escaliers ou les espaces restreints, pour éviter de rester bloqué et assurer un nettoyage ininterrompu. Durée du Nettoyage de Toute la Maison : Conçu pour une couverture complète de la maison, le robot laveur et aspirateur est doté d'un réservoir haute capacité de 200 ml pour un balayage prolongé jusqu'à 130㎡, tandis que l'aspiration atteint 180㎡ sur une seule charge. Avec 150 minutes d'autonomie continue, il offre un nettoyage ininterrompu pour les grands espaces, se rechargeant et reprenant automatiquement pour s'assurer qu'aucun endroit n'est oublié.",
-    "price": 109.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-roborock-q10-s5-set-10000-pa-3430947",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Q0ggV/3430947_1/re/1200x1200/qt/90/3430947_1.jpg",
-    "detected_at": "2026-10-12T11:08:15+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 109.99,
-        "observed_at": "2026-10-12T12:59:39.197956+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pooboo C966S Power Tower Dip Station Pull Up Bar for Fitness Home Gym Workout",
-    "description": "112,99€ - JoyBuy Matériaux et fabrication Fabriqué en acier allié haute résistance avec une conception structurelle stable, assurant un soutien robuste et une durabilité à long terme pour les entraînements de force à domicile. Caractéristiques du produit et scénarios d'utilisation Structure multifonctionnelle pour développés, dips et exercices de musculation Conception réglable en hauteur adaptée aux différents besoins d'entraînement de la salle de sport à domicile Structure en alliage d'acier robuste supportant jusqu'à 200 kg Idéal pour une salle de sport à domicile, le fitness et l'entraînement de la force du corps entier.",
-    "price": 112.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pooboo-c966s-power-tower-dip-station-pull-up-bar-for-fitness-home-gym-workout-3430945",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jojNo/3430945_1/re/1200x1200/qt/90/3430945_1.jpg",
-    "detected_at": "2026-10-12T11:02:30+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 112.99,
-        "observed_at": "2026-10-12T12:59:39.197962+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Four Encastrable AquaClean Série 300",
-    "description": "329,99€ - Electrolux Caractéristiques principales Couleur Noir mat Classe d'efficacité énergétique* A Dimensions d'encastrement HxLxP (mm): 590x560x550 Fonctions de cuisson Cuisson traditionnelle, Chaleur tournante, Turbo Gril, Chaleur tournante humide, Fonction pizza Puissance électrique totale (W) 2780 Four vapeur Non Volume utile cavité (L) 68 Mode de nettoyage AquaClean",
-    "price": 329.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/four-encastrable-aquaclean-serie-300-3430944",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cN84n/3430944_1/re/1200x1200/qt/90/3430944_1.jpg",
-    "detected_at": "2026-10-12T11:02:25+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 329.99,
-        "observed_at": "2026-10-12T12:59:39.197969+00:00"
       }
     ]
   }
