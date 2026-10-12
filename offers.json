@@ -6,7 +6,7 @@
     "discount_percent": 12.88,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0FJY174B3",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0FJY174B3.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0FJY174B3.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:26:14",
     "category": "Autre",
     "price_verified": false
@@ -18,7 +18,7 @@
     "discount_percent": 4.67,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00I9DTXSK",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00I9DTXSK.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B00I9DTXSK.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:19",
     "category": "Autre",
     "price_verified": false
@@ -30,9 +30,9 @@
     "discount_percent": 35.24,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00435I66S",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00435I66S.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B00435I66S.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:18",
-    "category": "Autre",
+    "category": "Animaux",
     "price_verified": false
   },
   {
@@ -42,7 +42,7 @@
     "discount_percent": 23.38,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0032GAL4Y",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0032GAL4Y.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0032GAL4Y.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:18",
     "category": "Autre",
     "price_verified": false
@@ -54,7 +54,7 @@
     "discount_percent": 14.98,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CD24SF3F",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CD24SF3F.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0CD24SF3F.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:17",
     "category": "Autre",
     "price_verified": false
@@ -66,7 +66,7 @@
     "discount_percent": 12.75,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00HVYHO20",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00HVYHO20.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B00HVYHO20.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:14",
     "category": "Autre",
     "price_verified": false
@@ -78,9 +78,9 @@
     "discount_percent": 35.17,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CVN4KBXK",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0CVN4KBXK.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0CVN4KBXK.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:13",
-    "category": "Autre",
+    "category": "Animaux",
     "price_verified": false
   },
   {
@@ -90,7 +90,7 @@
     "discount_percent": 15.76,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01LSLH9EO",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B01LSLH9EO.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B01LSLH9EO.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 10:04:13",
     "category": "Autre",
     "price_verified": false
@@ -102,7 +102,7 @@
     "discount_percent": 23.35,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0089DCAXA",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0089DCAXA.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0089DCAXA.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:28",
     "category": "Autre",
     "price_verified": false
@@ -114,7 +114,7 @@
     "discount_percent": 37.78,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B002YK1S1O",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B002YK1S1O.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B002YK1S1O.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:27",
     "category": "Autre",
     "price_verified": false
@@ -126,7 +126,7 @@
     "discount_percent": 24.97,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00LV2I94A",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00LV2I94A.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B00LV2I94A.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:27",
     "category": "Autre",
     "price_verified": false
@@ -138,7 +138,7 @@
     "discount_percent": 40.82,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00815PG5A",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00815PG5A.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B00815PG5A.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:26",
     "category": "Autre",
     "price_verified": false
@@ -150,7 +150,7 @@
     "discount_percent": 27.68,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01LY9Y41W",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B01LY9Y41W.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B01LY9Y41W.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:25",
     "category": "Autre",
     "price_verified": false
@@ -162,7 +162,7 @@
     "discount_percent": 20.69,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0070TX3DU",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0070TX3DU.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0070TX3DU.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:22",
     "category": "Autre",
     "price_verified": false
@@ -174,7 +174,7 @@
     "discount_percent": 12.52,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0017NOWV2",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0017NOWV2.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0017NOWV2.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:21",
     "category": "Autre",
     "price_verified": false
@@ -186,9 +186,9 @@
     "discount_percent": 71.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B002BB4RJG",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B002BB4RJG.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B002BB4RJG.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:20",
-    "category": "Autre",
+    "category": "Bébé & enfants",
     "price_verified": false
   },
   {
@@ -198,9 +198,9 @@
     "discount_percent": 10.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00DBTE7LA",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B00DBTE7LA.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B00DBTE7LA.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:19",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false
   },
   {
@@ -210,7 +210,7 @@
     "discount_percent": 16.33,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01CHDBSOY",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B01CHDBSOY.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B01CHDBSOY.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:19",
     "category": "Autre",
     "price_verified": false
@@ -222,7 +222,7 @@
     "discount_percent": 26.88,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B000J66OB4",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B000J66OB4.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B000J66OB4.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:15",
     "category": "Autre",
     "price_verified": false
@@ -234,9 +234,9 @@
     "discount_percent": 6.96,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DG9331GY",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0DG9331GY.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0DG9331GY.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:14",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false
   },
   {
@@ -246,7 +246,7 @@
     "discount_percent": 6.63,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0104LJZQO",
-    "image_url": "https://images-na.ssl-images-amazon.com/images/P/B0104LJZQO.01.L.jpg",
+    "image_url": "https://m.media-amazon.com/images/P/B0104LJZQO.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 09:52:14",
     "category": "Autre",
     "price_verified": false
@@ -308,7 +308,7 @@
     "url": "https://www.dealabs.com/bons-plans/velo-gravel-carbone-scott-addict-gravel-10-2026-sram-force-xplr-axs-1x13v-roues-fulcrum-rapid-red-carbon-84-kg-xs-a-xl-3429290",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:06",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false
   },
   {
@@ -320,7 +320,7 @@
     "url": "https://www.dealabs.com/bons-plans/couteau-multifonctions-7-en-1-solognac-x7-lame-85-cm-acier-5cr15-scie-a-os-etui-polyester-1680d-x-access-3429262",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false
   },
   {
@@ -332,59 +332,46 @@
     "url": "https://www.dealabs.com/bons-plans/velo-de-route-carbone-bianchi-sprint-2026-shimano-105-di2-2x12v-electronique-disques-hydrauliques-2-coloris-sm-et-ml-3429280",
     "image_url": "",
     "detected_at": "2026-10-09 13:32:05",
+    "category": "Sport & loisirs",
+    "price_verified": false
+  },
+  {
+    "title": "Lot de 20 Sachets Infusion du Monde Lipton Escapade Grand Sud",
+    "description": "0,97€ - Amazon ‼️‼️Via prévoyez et économisez ‼️‼️ Laissez-vous emporter par le parfum enivrant des délicieuses infusions Saveurs du Soir Grand Sud de Lipton avec son mélange de réglisse et de menthe. Tout le savoir-faire de Sir Thomas Lipton dans infusion emblématique à la menthe et la réglisse, sans sucre, pour un moment de détente au naturel. Les ingrédients de cette tisane iconique ont été sélectionnés avec soin pour apporter un goût authentique et un parfum enivrant. Pour une dégustation parfaite, versez 200 ml d'eau à 100 °C, sans lait ni sucre et laissez infuser vos tisanes pendant 4 à 5 mn selon l'intensité désirée. Le sachet Pyramid mis au point par Lipton laisse tous les ingrédients exprimer généreusement leurs arômes naturels pour vous faire profiter de tous les plaisirs de votre infusion. Les ingrédients de l'infusion Saveurs du Soir Infusion Grand Sud Menthe et Réglisse sont d'origine naturelle.",
+    "price": 0.97,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/20-sachets-infusion-du-monde-escapade-grand-sud-lipton-3430949",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bCZeT/3430949_1/re/1200x1200/qt/90/3430949_1.jpg",
+    "detected_at": "2026-10-12T11:15:22+00:00",
+    "category": "Animaux",
+    "price_verified": false
+  },
+  {
+    "title": "20% de réduction dès 59€ d'achat sur une sélection Black & Decker (Cumulable avec ODR)",
+    "description": "Cdiscount 20% de réduction dès 59€ sur une sélection Black&Decker avec le code B&D59, cumulable en plus avec l'ODR en cours de la marque (y) Conditions complètes",
+    "price": 59.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/20-de-reduction-des-59eur-dachat-sur-une-selection-black-decker-cumulable-avec-odr-3430950",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/1_5/re/1200x1200/qt/90/1_5.jpg",
+    "detected_at": "2026-10-12T11:14:38+00:00",
     "category": "Autre",
     "price_verified": false
   },
   {
-    "title": "Pooboo C966S Power Tower Dip Station Pull Up Bar for Fitness Home Gym Workout",
-    "description": "112,99€ - JoyBuy Matériaux et fabrication Fabriqué en acier allié haute résistance avec une conception structurelle stable, assurant un soutien robuste et une durabilité à long terme pour les entraînements de force à domicile. Caractéristiques du produit et scénarios d'utilisation Structure multifonctionnelle pour développés, dips et exercices de musculation Conception réglable en hauteur adaptée aux différents besoins d'entraînement de la salle de sport à domicile Structure en alliage d'acier robuste supportant jusqu'à 200 kg Idéal pour une salle de sport à domicile, le fitness et l'entraînement de la force du corps entier.",
-    "price": 112.99,
+    "title": "Lot de 4 Trackers Ugreen FineTrack Mini 2 - Alarme 110dB, Réseau Apple Find My iOS, Autonomie 5-7 Ans, Fluorescent, IP68 (Vendeur Tiers)",
+    "description": "26,16€ - Amazon 110 dB et Revêtement Fluorescent ] Lorsque le tracker est à proximité, ouvrez l’application “Find My” ou demandez de l’aide à Siri. Le haut-parleur intégré du tracker émet un bip puissant (110 dB) pour indiquer son position. De plus, le tracker est conçu avec un matériau fluorescent et un revêtement réfléchissant, restant bien visible même dans des environnements sombres ou complexes, afin de retrouver rapidement vos objets. Remarque : compatible uniquement avec iOS, iPadOS. [ Grande batterie, autonomie prolongée ] Équipé d'une batterie haute capacité de 600 mAh, ce tracker offre une autonomie longue durée et prend en charge jusqu'à 2 700 recherches sonores dans les conditions de test du laboratoire UGREEN. Vous pouvez consulter le niveau de batterie à tout moment dans l'application. (Remarque : la batterie n'est ni rechargeable ni remplaçable.) [ IP68 Étanche et Résistant à la Poussière ] Certifié IP68, le plus haut niveau de protection contre la poussière et l’eau, le tracker résiste à la poussière ainsi qu’à une immersion prolongée sous l’eau selon la norme IEC 60529 (jusqu’à 2 mètres de profondeur pendant 60 minutes maximum). Idéal pour les activités extérieures, que ce soit sous la pluie, dans un environnement humide ou même lors de la baignade de votre animal, l’appareil garantit un suivi précis de vos objets perdus. [ Certifié “Find My” (iOS Uniquement) ] Certifié par l’application “Find My”, il est sûr et sécurisé, vous n’avez donc pas à vous soucier d’une fuite de votre vie privée. Ce tracker d’objets peut être utilisé pour suivre vos clés, portefeuille, sac, passeport, valise, vélo, voiture, etc. Aucune installation requise ; connectez-le simplement via l’application “Find My” intégrée à votre iPhone (compatible avec iPhone 18 Pro/iPhone 18 Pro Max/iPhone 17 et autres séries d’iPhone). [ Alerte de Perte et Localisation Mondiale ] Si votre appareil associé dépasse une certaine distance, votre téléphone recevra une alerte de perte et vous indiquera sa dernière position connue. Grâce au réseau “Find My”, des centaines de millions d’appareils iOS dans le monde peuvent vous aider à localiser vos objets. Le tracker prend en charge le partage de position avec jusqu’à 5 personnes ; vous pouvez demander à votre famille et à vos amis de vous aider à retrouver un objet perdu. [ État de la batterie ] Après avoir ajouté le produit à l’app Localiser d’Apple, l’état de la batterie se met progressivement à jour pour afficher les informations les plus récentes. Ce processus correspond au fonctionnement normal de l’app. Veuillez patienter, aucune inquiétude à avoir.",
+    "price": 26.16,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pooboo-c966s-power-tower-dip-station-pull-up-bar-for-fitness-home-gym-workout-3430945",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jojNo/3430945_1/re/150x150/qt/55/3430945_1.jpg",
-    "detected_at": "2026-10-12T11:02:30+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Four Encastrable AquaClean Série 300",
-    "description": "329,99€ - Electrolux Caractéristiques principales Couleur Noir mat Classe d'efficacité énergétique* A Dimensions d'encastrement HxLxP (mm): 590x560x550 Fonctions de cuisson Cuisson traditionnelle, Chaleur tournante, Turbo Gril, Chaleur tournante humide, Fonction pizza Puissance électrique totale (W) 2780 Four vapeur Non Volume utile cavité (L) 68 Mode de nettoyage AquaClean",
-    "price": 329.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/four-encastrable-aquaclean-serie-300-3430944",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cN84n/3430944_1/re/150x150/qt/55/3430944_1.jpg",
-    "detected_at": "2026-10-12T11:02:25+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Sélection de Figurines Dinosaures Schleich en promotion - Le Mans (72)",
-    "description": "5,99€ - Carrefour Figurines Dinausores Schleich. Prix destockage -70% ( exemple d'étiquette sur photo 3). Par exemple Tyrannosaure (19€99 => 5€99) Soixantaine d'exemplaires disponibles à l'entrée du Carrefour Le Mans (sud glonnière).",
-    "price": 5.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/figurines-dinausores-schleich-3430938",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rJaet/3430938_1/re/150x150/qt/55/3430938_1.jpg",
-    "detected_at": "2026-10-12T11:02:02+00:00",
-    "category": "Autre",
-    "price_verified": false
-  },
-  {
-    "title": "Robot multifonction KENWOOD FDP31.170GY Multipro compact170GY",
-    "description": "59,99€ - Kenwood Le Kenwood MultiPro Compact FDP31.170GY est un robot multifonction compact de 800 W, avec un bol de 2,1 L, un blender de 1,2 L et deux vitesses plus une fonction Pulse. Il est conçu pour les préparations courantes comme hacher, râper, émincer, pétrir, émulsionner et mixer.",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/robot-multifonction-kenwood-fdp31170gy-multipro-compact170gy-3430943",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/fad97/3430943_1/re/150x150/qt/55/3430943_1.jpg",
-    "detected_at": "2026-10-12T10:56:48+00:00",
-    "category": "Autre",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-4-trackers-ugreen-finetrack-mini-2-alarme-110-db-reseau-apple-find-my-ios-autonomie-5-7-ans-fluorescent-etanche-ip68-3430948",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ToPAH/3430948_1/re/1200x1200/qt/90/3430948_1.jpg",
+    "detected_at": "2026-10-12T11:13:25+00:00",
+    "category": "High-tech",
     "price_verified": false
   }
 ]
