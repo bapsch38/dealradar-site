@@ -383,6 +383,7 @@
   if (originalLoadOffers) {
     loadOffers = async function() { await originalLoadOffers(); renderAll(); };
   }
+  window.DealRadarTrust = trust;
   const init = () => {
     renderPreferences();
     renderAll();
