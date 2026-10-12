@@ -1,0 +1,21 @@
+name: Classer les retours communautaires
+
+on:
+  issues:
+    types: [opened, reopened]
+
+permissions:
+  issues: write
+
+jobs:
+  triage:
+    if: contains(github.event.issue.labels.*.name, 'community-feedback') || startsWith(github.event.issue.title, '[Communauté]') || startsWith(github.event.issue.title, 'Retour communauté') || startsWith(github.event.issue.title, 'Signalement communauté')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ajouter le statut de modération
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          gh issue edit "$ISSUE_NUMBER" --repo "$REPOSITORY" --add-label "community-feedback,needs-triage"
