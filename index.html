@@ -486,14 +486,14 @@ categories.forEach(card => card.addEventListener("click", () => {
   dealSearch.value = "";
   const category = card.dataset.category.toLocaleLowerCase("fr");
   activeFilter = /gaming|high-tech|informatique|ordinateur|console/.test(category) ? "tech" :
-    /maison|électroménager|décoration|jardin/.test(category) ? "maison" :
+    /électroménager|electromenager|aspirateur|cafetière|machine à café/.test(category) ? "electromenager" :
+    /beauté|santé|parfum|cosmétique|maquillage/.test(category) ? "beaute" :
+    /maison|décoration|jardin/.test(category) ? "maison" :
     /bricolage|outil/.test(category) ? "bricolage" :
     /bébé|enfant|famille/.test(category) ? "famille" :
     /animal|chien|chat/.test(category) ? "animaux" :
     /mode|vêtement|chaussure/.test(category) ? "mode" :
-    /sport|fitness|loisir/.test(category) ? "sport" :
-    /électroménager|electromenager|aspirateur|cafetière|machine à café/.test(category) ? "electromenager" :
-    /beauté|santé|parfum|cosmétique|maquillage/.test(category) ? "beaute" : "all";
+    /sport|fitness|loisir/.test(category) ? "sport" : "all";
   filters.forEach(item => item.classList.toggle("active", item.dataset.filter === activeFilter));
   document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth"});
   renderOffers();
