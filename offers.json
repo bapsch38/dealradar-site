@@ -1,5 +1,25 @@
 [
   {
+    "title": "RWEV 1600-2 * Agitateur",
+    "price": 251.22,
+    "reference_price": 287.64,
+    "discount_percent": 12.66,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0B9LS45KZ",
+    "image_url": "https://m.media-amazon.com/images/P/B0B9LS45KZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 23:56:24",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 251.22,
+        "observed_at": "2026-10-13T23:57:33.024938+00:00"
+      }
+    ]
+  },
+  {
     "title": "HP 56X Cartouche de toner 1 pièce(s) Original Noir",
     "price": 59.8,
     "reference_price": 76.08,
@@ -271,7 +291,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
     "price_history": [
       {
         "price": 40.88,
@@ -291,7 +311,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
     "price_history": [
       {
         "price": 54.58,
@@ -311,7 +331,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
     "price_history": [
       {
         "price": 41.83,
@@ -6744,6 +6764,48 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DLC Indiana Jones et le Cercle Ancien : L'Ordre des Géants sur PS5 (Dématérialisé)",
+    "description": "13,99€ - PlayStation Store Indiana Jones et le Cercle Ancien : L'Ordre des Géants – DLC PS5 -30 % sur le PlayStation Store ! Le DLC passe à seulement 13,99 € au lieu de 19,99 € ! Une première réduction intéressante pour prolonger l'aventure d'Indy. ️ Au programme : ✅ Une nouvelle aventure au cœur de Rome ✅ Des catacombes mystérieuses et des ruines antiques à explorer ✅ Des énigmes inédites à résoudre ✅ Une secte dangereuse liée au culte de Mithra ✅ Environ 8 heures de contenu supplémentaire Une bonne occasion pour les fans d'Indiana Jones de retrouver l'univers du jeu et de découvrir une nouvelle enquête ! ⚠️ Attention : le jeu de base Indiana Jones et le Cercle Ancien est nécessaire. Il n'est pas inclus dans cette offre.",
+    "price": 13.99,
+    "reference_price": 19.99,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/indiana-jones-et-le-cercle-ancien-lordre-des-geants-dlc-ps5-3432028",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/brRZH/3432028_1/re/1200x1200/qt/90/3432028_1.jpg",
+    "detected_at": "2026-10-13T23:38:00+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-13T23:57:33.024938+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Marvel’s Midnight Suns – Enhanced Edition sur PS5 (Dématérialisé)",
+    "description": "11,24€ - PlayStation Store Marvel’s Midnight Suns – Enhanced Edition | PS5 -85 % sur le PlayStation Store ! Le jeu passe à seulement 11,24 € au lieu de 74,99 € ! ⚔️ Incarnez les héros Marvel dans un RPG tactique au tour par tour ! Face à la menace de Lilith et aux forces d'Hydra, formez votre équipe de super-héros et partez sauver le monde aux côtés de personnages emblématiques de Marvel. L'Enhanced Edition comprend : ✅ Le jeu complet Marvel’s Midnight Suns ✅ 5 skins Premium exclusifs pour personnaliser vos héros : ️ Captain America – Soldat du futur ⭐ Captain Marvel – Mar-Vell Magik – Phoenix 5 Nico Minoru – Sister Grimm Wolverine – X-Force Au programme : ✅ Des combats tactiques au tour par tour ✅ Une équipe de super-héros à composer selon votre stratégie ✅ Des compétences et des cartes à utiliser intelligemment en combat ✅ Des relations à développer avec les personnages ✅ Une aventure originale dans l'univers Marvel ⭐ Un jeu idéal pour les amateurs de stratégie et de super-héros, notamment ceux qui apprécient les combats tactiques façon XCOM. À 11,24 €, une énorme réduction de 85 % pour découvrir ce jeu et ses bonus ! Un essai de 2 heures est également proposé aux abonnés PlayStation Plus Premium.",
+    "price": 11.24,
+    "reference_price": 74.99,
+    "discount_percent": 85.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/marvels-midnight-suns-enhanced-edition-ps5-3432027",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vmvul/3432027_1/re/1200x1200/qt/90/3432027_1.jpg",
+    "detected_at": "2026-10-13T23:33:05+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.24,
+        "observed_at": "2026-10-13T23:57:33.024938+00:00"
       }
     ]
   },
