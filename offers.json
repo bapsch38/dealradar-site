@@ -1,5 +1,225 @@
 [
   {
+    "title": "LINDY 36491 Câble DisplayPort 1 M Noir",
+    "price": 7.3,
+    "reference_price": 13.26,
+    "discount_percent": 44.95,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07DFMNFST",
+    "image_url": "https://m.media-amazon.com/images/P/B07DFMNFST.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:19",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 7.3,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BS 200 Plus * Ponceuse à bande combinée",
+    "price": 256.0,
+    "reference_price": 365.94,
+    "discount_percent": 30.04,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BCZRG24R",
+    "image_url": "https://m.media-amazon.com/images/P/B0BCZRG24R.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:17",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 256.0,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "C Amir (Édition Limitée)",
+    "price": 9.54,
+    "reference_price": 14.99,
+    "discount_percent": 36.36,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D98P965J",
+    "image_url": "https://m.media-amazon.com/images/P/B0D98P965J.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:16",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.54,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LINDY Câble fibre optique hybride DP 2.0 UHBR10 10 m",
+    "price": 172.89,
+    "reference_price": 208.22,
+    "discount_percent": 16.97,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C591CPQT",
+    "image_url": "https://m.media-amazon.com/images/P/B0C591CPQT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:15",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 172.89,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "douceur d'intérieur, Brosse WC...t Blanc, Polystyrène et Bambou",
+    "price": 11.49,
+    "reference_price": 16.98,
+    "discount_percent": 32.33,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09G36D37S",
+    "image_url": "https://m.media-amazon.com/images/P/B09G36D37S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:14",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.49,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca - Tiroir Coulissant Cuis...r 350mm, Acier, Gris Antracite",
+    "price": 27.76,
+    "reference_price": 35.88,
+    "discount_percent": 22.63,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DXL3GL5H",
+    "image_url": "https://m.media-amazon.com/images/P/B0DXL3GL5H.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:13",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 27.76,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "dr.organic argan night cream c...er tutti i tipi di pelle 50 ml",
+    "price": 16.99,
+    "reference_price": 22.69,
+    "discount_percent": 25.12,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00EA0B6H2",
+    "image_url": "https://m.media-amazon.com/images/P/B00EA0B6H2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:11",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "MEN EXPERT HYDRA ENERGETIC - S...tant Anti-Fatigue Longue Durée",
+    "price": 10.32,
+    "reference_price": 15.9,
+    "discount_percent": 35.09,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00ID52G2Y",
+    "image_url": "https://m.media-amazon.com/images/P/B00ID52G2Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:10",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.32,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "NGS XPRESSCAM300 - Webcam pour...Connexion USB 2.0 et Plug&Play",
+    "price": 5.21,
+    "reference_price": 14.01,
+    "discount_percent": 62.81,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B004919FY8",
+    "image_url": "https://m.media-amazon.com/images/P/B004919FY8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:09",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.21,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Flamingo Coussin Jacquard Rect... Convient aux Cages métallique",
+    "price": 29.58,
+    "reference_price": 36.79,
+    "discount_percent": 19.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D1RD1T8Q",
+    "image_url": "https://m.media-amazon.com/images/P/B0D1RD1T8Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:08",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.58,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Aten Commutateur de périphériq...s USB 2.0 (Import Royaume Uni)",
+    "price": 14.99,
+    "reference_price": 28.47,
+    "discount_percent": 47.35,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B002NTOZYI",
+    "image_url": "https://m.media-amazon.com/images/P/B002NTOZYI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:46:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
     "title": "Belkin Chargeur sans fil porta...teur secteur non inclus, bleu)",
     "price": 29.02,
     "reference_price": 35.82,
@@ -6492,6 +6712,195 @@
     ]
   },
   {
+    "title": "Sac à dos cabine Lynxcher - 24 litres, 40x30x20cm (vendeur tiers)",
+    "description": "24,85€ - Amazon Sac à dos Cabine Avion 40x30x20 pour Ryanair EasyJet Bagage Cabine Anti-vol Unisexe Homme Femme avec Compartiment pour Ordinateur 15,6 Pouces Noir pour Voyage et Travail 【Bagage cabine 40x30x20 conforme aux compagnies aériennes】Avec des dimensions de 40x30x20 cm, ce sac à dos respecte les règles de bagage à main des principales compagnies aériennes : Ryanair, EasyJet, Wizz Air, Eurowings, British Airways, Lufthansa, TUI fly, Etihad et bien d’autres. 【Organisation optimisée pour voyage et travail】Conçu avec un compartiment dédié pour ordinateur portable jusqu’à 15,6 pouces, un grand compartiment principal et des poches à deux niveaux. Chaque niveau comporte une poche à accès rapide pour passeport, billets et petits essentiels, ainsi qu’un espace pour écouteurs, chargeurs et power banks. Deux poches latérales pour bouteilles et un passe-câble de recharge permettent de garder tout bien organisé. 【Confort et sécurité renforcées】Doté d’une poche séparée pour objets humides, d’une poignée supérieure résistante et de quatre boucles latérales pour plus de stabilité. Le système d’ouverture à 180° facilite le rangement et l’accès à vos affaires. La poche anti-vol à l’arrière protège efficacement vos objets de valeur. 【Durabilité et protection maximale】Réalisé en polyester léger et haute densité avec coutures renforcées pour une grande résistance. Des doubles fermetures éclair métalliques assurent une protection supplémentaire de vos effets pendant vos déplacements. 【Confort ergonomique toute la journée】Design ergonomique avec bretelles rembourrées et panneau arrière respirant pour un confort optimal même lors d’une utilisation prolongée. Les sangles ajustables répartissent le poids uniformément et réduisent la fatigue sur les épaules.",
+    "price": 24.85,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-cabine-lynxcher-24-litres-40x30x20cm-vendeur-tiers-3431974",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3h3hL/3431974_1/re/1200x1200/qt/90/3431974_1.jpg",
+    "detected_at": "2026-10-13T20:36:56+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.85,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Souris Sans Fil HP 200 Rouge (2HU82AAABB) - 2,4 GHz, 1000 DPI, Optique, Ambidextre",
+    "description": "12€ - Amazon Description : La souris HP 200 se connecte sans fil en 2,4 GHz grâce à un récepteur USB (portée d'environ 10 m). Sa forme galbée est conçue pour être confortable toute la journée, que l'on soit droitier ou gaucher. Le capteur optique à LED rouge de 1 000 DPI assure une bonne précision sur de nombreuses surfaces. Elle se branche et fonctionne tout de suite, sur Windows, Mac et Chromebook. Caractéristiques : Marque : HP Série : 200 Référence : 2HU82AA#ABB EAN : 0191628416394 Couleur : Rouge Connexion : Sans fil 2,4 GHz, récepteur USB Portée : Jusqu'à 10 m Capteur : Optique, LED rouge Résolution : 1 000 DPI Prise en main : Ambidextre (droitier et gaucher) Nombre de boutons : 3 Alimentation : 2 piles AAA Compatibilité : Windows 7 et supérieur, macOS 10.x et supérieur, Chrome OS À propos de ce produit Avec la souris rose impératrice HP 200 oubliez les fils avec la connexion sans fil fiable de 2,4 GHz (connectivité sans fil jusqu’à 10 m). Une forme galbée conçue pour être confortable toute la journée que vous soyez droitier ou gaucher. Avec les 2 piles AAA incluses et sans aucun logiciel à installer, vous êtes prêt à démarrer. La technologie LED rouge et le capteur optique de 1 000 DPI vous offrent une précision et une vitesse exceptionnelles sur un large éventail de surfaces. Les directives et les normes strictes de HP garantissent une qualité durable. Prend en charge Windows 7 et les versions supérieures, ainsi que Mac OS X 10.x et les versions supérieures. Commentaires client",
+    "price": 12.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-hp-200-rouge-2hu82aaabb-24-ghz-1000-dpi-optique-ambidextre-3431973",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Wq7at/3431973_1/re/1200x1200/qt/90/3431973_1.jpg",
+    "detected_at": "2026-10-13T20:31:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.0,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Maison pour Chat Feandrea, Meuble à litière - 85 x 48,5 x 50 cm",
+    "description": "49,49€ - Amazon Historique des prix : Feandrea Maison pour Chat, Meuble à litière, 85 x 48,5 x 50 cm Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS 【ESPACE LITIÈRE STYLISÉ】 Avec sa finition marron miel et blanc rustique, ce meuble à litière s'intègre facilement à votre mobilier existant et donne un coup de jeune à l'espace litière jadis encombré 【PLUS D'INTIMITÉ ET DE PROPRETÉ】L'espace fermé offre à votre ami à fourrure un lieu d'intimité, l'entrée devant permet de tenir à distance les camarades chiens curieux et de limiter la dispersion de la litière 【CONVIENT AUX GRANDS CHATS, CONÇU POUR DURER】Mesurant 59 x 45 x 47 cm, le compartiment intérieur est adapté aux bacs et convient aux grandes races de chats comme les Maine Coons. Fabriquée en panneaux d'aggloméré, ce placard supporte jusqu’à 75 kg 【POUR LES CHATS ET AUSSI POUR VOUS】Utilisez ce meuble pour cacher le bac à litière, ajoutez un coussin pour chat à l'intérieur pour créer un abri douillet ou garnissez-le de jolies plantes pour égayer votre intérieur : c'est comme vous voulez 【MONTAGE FACILE】Le montage vous préoccupe ? Vous n’avez pas de souci à vous faire. Grâce à des instructions claires et à des pièces numérotées, vous l’installerez en seulement 20 minutes et votre chat pourra profiter immédiatement de sa nouvelle litière Spécifications Marque: FEANDREA Dimensions du produit: 85L x 48,5l x 50H centimètres Matériau: Bois d'ingénierie Usages spécifiques pour le produit: Intérieur Caractéristique spéciale: Montage facile Composants inclus: Bac à litière Recommandation par race: Taille L Couleur: Marron Miel + Blanc Rustique Poids de l'article: 15,4 Kilogrammes Point fort de l’article: Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS PCL012K01 Voir plus Usages spécifiques: Intérieur Recommandé pour la race: Taille L Point fort de l’article: Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS PCL012K01 Fabricant: Feandrea Nombre d' articles: 3 UPC: 194343315324 Type d’animal de compagnie: Chat Nom du modèle: PCL012K01 Pays d'origine: Chine Numéro du modèle: PCL012K01 Numéro de pièce: PCL012K01 Nombre d'unités: 1 unité Classement des meilleures ventes d'Amazon: 1460 en Animalerie (Voir les 100 premiers en Animalerie) 26 en Maisons de toilette pour chats ASIN: B0DN6354FY Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (414) 4,5 sur 5 étoiles Fonctionnalités spéciales: Montage facile Dimensions de l'article L x l x H: 85L x 48,5l x 50H centimètres Poids de l’article: 15,4 Kilogrammes GTIN: 194343315324 Commentaires client",
+    "price": 49.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/maison-pour-chat-feandrea-meuble-a-litiere-85-x-485-x-50-cm-3431972",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wfEhO/3431972_1/re/1200x1200/qt/90/3431972_1.jpg",
+    "detected_at": "2026-10-13T20:29:20+00:00",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 49.49,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Clavier filaire Razer Huntsman V2 Clavier Azerty - Noir (Vendeur tiers)",
+    "description": "119€ - Amazon Super tarif pour ce clavier qu’on ne présente plus ! Switchs optiques analogiques Razer: Définissez un point d’activation en fonction de votre style de jeu, ou utilisez l’entrée analogique pour un contrôle plus fluide et plus nuancé, en éliminant le mouvement WASD rigide à 8 directions pour un mouvement à 360 degrés Touches en PBT à double injection: Plus dures et plus durables que l’ABS, ces touches robustes ne s’useront pas et leurs caractères ne s’effaceront jamais grâce à leur processus de moulage à double injection Alimenté par Razer Chroma RGB: Avec 16,8 millions de couleurs et une suite d’effets, synchronisez ses touches et l’éclairage inférieur avec le reste de votre poste de combat, et profitez d’une plus grande immersion, car il réagit dynamiquement avec plus de 150 jeux intégrés Repose-poignet magnétique en similicuir moelleux: Doté d’un éclairage inférieur Razer Chroma RGB, le support de poignet doux et moelleux s’enclenche magnétiquement sur le clavier pour réduire la pression sur votre poignet. Ainsi, vous ressentez moins de fatigue, même lorsque vous jouez sur de longues périodes Bouton numérique multifonction et 4 touches multimédias: Configurez-les pour mettre en pause, jouer, passer et modifier absolument tout, de la luminosité au volume : profitez d’un confort ultime tout en vous divertissant Spécifications Marque: Razer Appareils compatibles: Console de jeu Technologie de connectivité: USB Description du clavier: Filaire Utilisations recommandées pour le produit: Jeu Caractéristique spéciale: Repose-poignet magnétique Couleur: Switch Optique Analogique Gestion de la couleur de rétro-éclairage du clavier: RVB Style: Huntsman V2 Dimensions du produit: 44,6L x 14,1l x 4,5H centimètres appareils compatibles: Console de jeu technologie de la connectivité: USB Fonctionnalités du produit: Repose-poignet magnétique Prise en charge des couleurs de rétroéclairage du clavier: RVB Source énergétique: Alimentation USB/filaire Type d’interrupteur: Tactile Disposition du clavier: AZERTY Orientation de la main: Ambidextre Quantité de boutons: 104 niveau de résistance à l'eau: Non étanche Modèle de commutateur de clavier mécanique: Switchs optiques analogiques Razer Famille de systèmes d'exploitation compatible: Windows Nombre de touches: 104 Nombre de sections: 3 Type de produit: Huntsman V2 Thème: Arc-en-ciel Dimensions de l'article L x l x H: 44,6L x 14,1l x 4,5H centimètres matériel interne: Polytéréphtalate de butylène Matériau de la plaque de clavier: Polybutylène Terephthalate (PBT) Usages recommandés pour le produit: Jeu contenu de la boîte: Câble USB, Manuel de l'utilisation, Razer Huntsman V2 Numéro du modèle: RZ03-03610500-R3F1 Nom du modèle: Huntsman V2 (Analog Switch) - French Layout Code article international: 08886419346678 Unité de comptage: 1.0 unité fabriquant: Razer nombre d'articles: 1 Génération: 2ème génération Poids de l'article: 2,22 Kilogrammes numéro de pièce: 8886419346678 Description de la garantie: 2 year Classement des meilleures ventes d'Amazon: 3904 en Jeux vidéo (Voir les 100 premiers en Jeux vidéo) 243 en Claviers gaming pour PC ASIN: B08P4XX518 Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (146) 4,4 sur 5 étoiles Commentaires client",
+    "price": 119.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/clavier-razer-huntsman-v2-3431971",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/plb2w/3431971_1/re/1200x1200/qt/90/3431971_1.jpg",
+    "detected_at": "2026-10-13T20:27:42+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 119.0,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nettoyeur de sol multifonction sans fil – Aspirateur laveur 2-en-1, Manche ergonomique (Via coupon)",
+    "description": "79,99€ - JoyBuy Aspirateur laveur de sol multifonction 2-en-1 sans fil. Conçu pour aspirer les saletés liquides et solides tout en lavant les sols durs en un seul passage. Points forts et caractéristiques : • Tarif de 79,99 € via coupon : S'obtient en récupérant le coupon de réduction de 50 € dès 100 € d'achats sur la fiche produit (73,49 € pour les membres JoyPlus). • Nettoyage 2-en-1 : Aspire la poussière et nettoie les liquides simultanément pour faire gagner un temps précieux. • Manche ergonomique & Conception sans fil : Grande liberté de mouvement pour nettoyer toute la maison sans contrainte de fil. • Entretien simplifié : Double réservoir séparant l'eau propre de l'eau usée pour un lavage hygiénique. • Polyvalence : Idéal pour tous les sols durs de la maison (carrelage, parquet vitrifié, linoléum, stratifié).",
+    "price": 79.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-sol-multifonction-sans-fil-aspirateur-laveur-2-en-1-manche-ergonomique-via-coupon-de-50eur-3431970",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zoHAr/3431970_1/re/1200x1200/qt/90/3431970_1.jpg",
+    "detected_at": "2026-10-13T20:27:21+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "T-shirt technique pour homme - Manches courtes, tailles S ou M",
+    "description": "3,76€ - Amazon Historique des prix : T-Shirt Technique pour Homme, Sport, Manches Courtes, Mesh | Vêtements de Sport d'été Respirants à séchage Rapide | Idéal pour la Salle de Sport, l'entraînement, Les Loisirs et Le Fitness À propos de ce produit Tissu mesh 100 % polyester. Col arrondi. Compatible :Tennis, fitness, running, cyclotourisme, football ou basket. Matériau léger, doux pour la peau et respirant. Produit officiel Asioka. Commentaires client",
+    "price": 3.76,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/t-shirt-technique-pour-homme-manches-courtes-tailles-s-ou-m-3431969",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6Y1BJ/3431969_1/re/1200x1200/qt/90/3431969_1.jpg",
+    "detected_at": "2026-10-13T20:25:57+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 3.76,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Portefeuille Lacoste FG M Billfold Coin",
+    "description": "64,56€ - Zalando Ref. NH1112FG Intemporel et élégant, ce portefeuille compact en cuir lisse intègre toutes les caractéristiques d'un grand modèle. Sa double-poche dorsale réservée aux billets s'accompagne d'un rangement trois cartes et d'un porte-monnaie. Pratique, il se glisse facilement dans la poche d'un pantalon. • Dimensions : L 11,5 x H 9,5 x P 2,5 cm • Un compartiment à billets • Un porte-monnaie • Rangement six cartes et deux poches plates •Crocodile en métal brossé Composition : Extérieur : Cuir de vachette (100%) / Interieur: Cuir de vachette (100%) / Doublure: Coton (100%)",
+    "price": 64.56,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lacoste-fg-m-billfold-coin-portefeuille-3431968",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZqK1W/3431968_1/re/1200x1200/qt/90/3431968_1.jpg",
+    "detected_at": "2026-10-13T20:22:36+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 64.56,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Airfryer Ninja Crispi FN101EUST en verre - Beige",
+    "description": "79,99€ - Auchan Le Crispi Airfryer FN101EUST en verre est une friteuse à air puissante et polyvalente. *caractéristiques du produit :* - Puissance de 1700 W - Deux contenants en verre de 3.8 L et 1.4 L - 4 modes de cuisson",
+    "price": 79.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ninja-crispi-airfryer-fn101eust-en-verre-beige-3431967",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jfGE2/3431967_1/re/1200x1200/qt/90/3431967_1.jpg",
+    "detected_at": "2026-10-13T20:21:20+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eau de Parfum Emporio Armani Stronger With You Intensely - 100ml",
+    "description": "57,39€ - Primor Emporio Armani Stronger With You Eau de Parfum , une fragrance caractérisée par ses notes boisées et sa vanille épicée. Ce parfum fougère addictif dévoile des notes de poivre rose, de vanille et un accord boisé ambré. Il reflète la personnalité de l’homme moderne en quête d’une fragrance puissante pour illuminer son histoire d’amour intense. Cette fragrance masculine intense révèle des notes de cœur chaleureuses de vanille et des accords boisés ambrés vibrants, contrastés par des touches épicées de poivre rose. Sa teinte cognac vieilli incarne parfaitement l’intensité de cette nouvelle fragrance. FLACON : Les lignes épurées et les formes essentielles, caractéristiques de Giorgio Armani, se retrouvent dans le flacon d’Emporio Armani. Sa simplicité traduit une sensualité profonde, avec des courbes évoquant des épaules masculines, révélant l’élégance d’une véritable œuvre d’art. Issu de la fusion des flacons féminin et masculin, son capot rond et métallique souligne l’élégance discrète du duo. Sous ce capot, les anneaux entrelacés symbolisent une connexion forte et un amour inconditionnel. NOTES : ESSENCE DE POIVRE ROSE : L’essence épicée de poivre rose se mêle à un accord addictif de châtaigne caramélisée pour une touche d’originalité. ESSENCE DE VANILLE : L’intensité de la vanille, associée à un accord de daim légèrement tanné, crée une signature olfactive sensuelle et unique. ACCORDS BOISÉS AMBRÉS : Les accords boisés ambrés, sublimés par de nouvelles notes de vétiver Bourbon, amplifient la facette vibrante du sillage. Emporio Armani Stronger With You est une fragrance masculine pour les hommes audacieux, appartenant à la famille olfactive Fougère Orientale. Parce qu’ensemble, nous sommes plus forts.",
+    "price": 57.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/eau-de-parfum-emporio-armani-stronger-with-you-intensely-3431965",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vAMU8/3431965_1/re/1200x1200/qt/90/3431965_1.jpg",
+    "detected_at": "2026-10-13T20:20:26+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 57.39,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      }
+    ]
+  },
+  {
     "title": "Jouet Lego Ninjago La Moto Tempête du Robot de Kai 71830",
     "description": "29,99€ - Carrefour LEGO Ninjago La Moto Tempête du Robot de Kai 71830 29.99€ au lieu de 39.99€ (voir 45.99€ chez king jouet) Bonne affaire avant Noël (y) Cashback de 5% avec Boursobank, soit 1.50 crédités sur la carte, soit 28.49€ le set lego Les enfants peuvent s'amuser avec le modèle combiné, puis le diviser en 2 véhicules plus petits : le robot de Kai doté d'une tête, de bras et de jambes mobiles, d'un cockpit et d'une grande lame tempête, et la moto volante de Nya avec un cockpit, des ailes mobiles et 2 fusils à ressort. Ce set ninja inclut 3 minifigurines NINJAGO : Kai armé de 2 katanas de cristal, Nya équipée de 2 katanas d'or et un horrible Guerrier draconique avec son sabre, pour permettre aux enfants de mettre en scène des combats épiques.",
     "price": 29.99,
@@ -6509,6 +6918,27 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chauffage Diesel - 12 volts, 8 Kw",
+    "description": "73,39€ - AliExpress Bon, c'est vraiment un deal de niche mais cela peut être intéressant en espérant que le froid se décide à arriver . Le prix me semble très correct par rapport à d'autres chauffages avec les mêmes caractéristiques.",
+    "price": 73.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chauffage-diesel-12-volts-8kw-3431961",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/qWg59/3431961_1/re/1200x1200/qt/90/3431961_1.jpg",
+    "detected_at": "2026-10-13T20:08:23+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 73.39,
+        "observed_at": "2026-10-13T20:47:38.506338+00:00"
       }
     ]
   },
@@ -9256,7 +9686,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 18.62,
@@ -9277,7 +9707,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 54.99,
@@ -9298,7 +9728,7 @@
     "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 4.47,
@@ -9319,7 +9749,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 3.44,
@@ -9340,7 +9770,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": []
   },
   {
@@ -9356,7 +9786,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 2.99,
@@ -9377,7 +9807,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 31.58,
@@ -9398,7 +9828,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 9.99,
@@ -9419,7 +9849,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 46.99,
@@ -9440,7 +9870,7 @@
     "category": "Auto & moto",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
     "price_history": [
       {
         "price": 106.99,
@@ -10742,258 +11172,6 @@
       {
         "price": 159.99,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pantalon de golf chino Oakley Icon homme - Coloris Fathom, du 28 au 36 US",
-    "description": "11,99€ - Private Sport Shop Un pantalon chino Oakley pensé pour le golf, mais avec une coupe assez sobre pour se porter aussi en dehors du parcours. Il est composé de 70 % coton, 28 % polyester et 2 % élasthanne, pour un peu d'extensibilité dans les mouvements. Plusieurs détails techniques sont mis en avant : des perforations découpées au laser au-dessus des genoux pour la ventilation, des chevilles fendues avec bande intérieure pour bien tomber sur les chaussures, et des doubles poches passepoilées. Côté finitions, on retrouve une fermeture à glissière Vislon siglée Oakley et le logo ellipse sur la cuisse gauche. Le coloris proposé est le Fathom, référence FOA402610. Tailles disponibles au moment du post : 28 US (L30), 30 US (L30), 32 US (L32), 34 US (L34) et 36 US (L34). Le vendeur indique un article prêt à l'envoi. Une inscription gratuite sur Private Sport Shop est nécessaire pour commander.",
-    "price": 11.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pantalon-de-golf-chino-oakley-icon-homme-coloris-fathom-du-28-au-36-us-3431709",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/TjZMK/3431709_1/re/1200x1200/qt/90/3431709_1.jpg",
-    "detected_at": "2026-10-13T12:42:53+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 11.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 lampes frontales LED rechargeables Blukar – 8 modes d’éclairage, détecteur de mouvement, IPX5",
-    "description": "19,85€ - Amazon Lot de 2 lampes frontales LED rechargeables Blukar, idéales pour le bricolage, le camping, la randonnée, la course à pied ou les activités en extérieur. Caractéristiques : * Lot de 2 lampes frontales * Éclairage LED puissant, annoncé à 2000 lumens * Rechargeables par USB * Capteur de mouvement pour allumer ou éteindre sans toucher la lampe * 8 modes d’éclairage, dont lumière rouge * Résistance à l’eau IPX5 * ⏱️ Autonomie annoncée jusqu’à 30 heures * Légères et équipées d’un bandeau réglable Produit noté 4,6/5 sur Amazon, avec plus de 21 000 avis. Un lot pratique pour avoir une lampe à la maison et une autre dans la voiture, au garage ou dans son sac.",
-    "price": 19.85,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-lampes-frontales-led-rechargeables-blukar-8-modes-declairage-detecteur-de-mouvement-ipx5-3431708",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3OW4S/3431708_1/re/1200x1200/qt/90/3431708_1.jpg",
-    "detected_at": "2026-10-13T12:42:32+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 19.85,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Marchine a café avec Broyeur De’Longhi ECAM13.123B",
-    "description": "279,99€ - Carrefour ☕ De’Longhi Magnifica S ECAM13.123.B Cafetière expresso avec broyeur intégré, idéale pour savourer un café fraîchement moulu à la maison. ☕ ✅ Broyeur à grains intégré avec réglage de la mouture ✅ Préparation d’espressos et de cafés longs ✅ Réglage de l’intensité et de la quantité de café ✅ Buse vapeur pour préparer une mousse de lait ✅ Commandes simples et entretien facilité ✅ Format compact et design noir élégant Un bon choix pour les amateurs de café qui souhaitent profiter d’un expresso fraîchement moulu sans investir dans une machine haut de gamme ! Disponible en retrait magasin gratuit!",
-    "price": 279.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/marchine-a-cafe-avec-broyeur-delonghi-ecam13123b-3431702",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/UFOGN/3431702_1/re/1200x1200/qt/90/3431702_1.jpg",
-    "detected_at": "2026-10-13T12:34:17+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 279.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[JoyPlus] Lot de 3 Boîtes de 200 Mouchoirs Breeze - Papier, Grande Taille, Doux, 2 Épaisseurs",
-    "description": "1,89€ - JoyBuy 【Matière première principale】 100% pâte de bois vierge 【Spécifications】190mm x 198mm, 2 couches, 200 feuilles × 3 boîtes (total 600 feuilles) 【Points saillants du produit】 Papier doux, lisse et finement texturé, respectueux de la peau et non irritant pour une utilisation quotidienne Grande taille de feuille — une feuille couvre les tâches d'essuyement quotidiennes Exquis design d'emballage floral décore votre maison et crée une ambiance romantique Sans substances fluorescentes migratrices, sûr pour toute la famille 【Scénarios d'application】Convient pour l'essuyement quotidien dans les salons, les zones à manger, les chambres à coucher, les bureaux et plus encore Conditions de stockage Conserver dans un endroit frais et sec loin de l'humidité 【Durée de conservation】 3 ans 【Type de parfum】Non parfumé 【Attention】S'il vous plaît ne pas rincer les toilettes pour éviter l'obstruction. Effets secondaires et contre-indications Généralement aucun effet secondaire. Évitez d'utiliser si vous êtes allergique à la pâte de bois ou aux produits en papier. Si une irritation de la peau ou un malaise survient après l'utilisation, arrêtez l'utilisation et consultez un médecin.",
-    "price": 1.89,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/joyplus-lot-de-3-boites-de-mouchoirs-breeze-papier-grande-taille-et-doux-2-epaisseurs-600-feuilles-3431703",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/GjEQr/3431703_1/re/1200x1200/qt/90/3431703_1.jpg",
-    "detected_at": "2026-10-13T12:33:54+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 1.89,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Street Fighter 30th Anniversary Collection sur PC (Dématérialisé - Steam)",
-    "description": "4,49€ - Steam Parmi les 12 jeux Street Fighter de cette compilation, quatre titres révolutionnaires (SFII Hyper Fighting, Super SFII Turbo, SF Alpha 3 et SFIII: Third Strike) vous permettent d'aller en ligne pour revivre l'expérience d’arcade grâce au mode Arcade en ligne, ou de jouer avec des amis.",
-    "price": 4.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/street-fighter-30th-anniversary-collection-3431701",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/q2bmJ/3431701_1/re/1200x1200/qt/90/3431701_1.jpg",
-    "detected_at": "2026-10-13T12:33:01+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 4.49,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 55\" Philips Ambilight 55PUS8560 - QLED, 4K UHD, Dolby Atmos, DTS:X, HDR10+, Titan OS, Smart TV",
-    "description": "290,99€ - PcComponentes Vendu et expédié par PcComponentes Préparez-vous à l'éclat des couleurs QLED 4K. À l'expérience immersive Ambilight. Au son Dolby Atmos 3D digne du cinéma. Avec Titan OS pour accéder à tout ce que vous aimez regarder, ce téléviseur ne se contente pas de sublimer l'instant : il vous offre une expérience visuelle supérieure. Immersion totale avec Ambilight Grâce aux LED intégrées qui réagissent à chaque scène, Ambilight vous plonge dans un halo de lumière colorée. Films, événements sportifs, clips musicaux et jeux vidéo dépassent les limites de l’écran pour vous immerger encore davantage dans l’action. Une fois que vous y aurez goûté, vous ne voudrez plus jamais d’un téléviseur sans Ambilight. QLED 4K pour des images éclatantes et des couleurs de qualité grâce aux points quantiques Des couleurs éclatantes. Des scènes ultra-nettes. La perfection de l’image à son apogée. Avec la 4K (UHD), ce téléviseur Ambilight s’adapte à tous vos formats HDR. Chaque instant incroyable, sombre ou lumineux, lu ou diffusé en streaming, révèle tous ses détails, scène après scène. Au plus près des détails grâce à la précision des pixels Avec 8 millions de pixels fonctionnant ensemble en parfaite harmonie, vous découvrez la 4K comme jamais auparavant. Grâce à des images d’une netteté exceptionnelle qui révèlent des scènes plus détaillées et plus réalistes, rien ne restitue l’instant avec autant de fidélité que ce téléviseur Philips Ambilight. Dolby Atmos crée un son digne du cinéma Préparez-vous. Dolby Atmos restitue le son exactement comme le réalisateur l’a voulu. Chaque instant vous plonge encore plus profondément au cœur de la scène. Films, séries, sports ou jeux : vous serez vite totalement absorbé par l’action. Une connectivité prête pour le gaming Les technologies HDMI 2.1 et VRR vous aident à tirer le meilleur parti de votre console, avec une jouabilité plus rapide et des graphismes plus fluides. Grâce au réglage de faible latence d’entrée qui s’active automatiquement lorsque vous allumez votre console, vous êtes prêt à passer au niveau supérieur. Gardez vos contenus à portée de main avec Titan OS La plateforme Titan OS des Smart TV Philips vous permet d’accéder rapidement à tout ce que vous aimez regarder. Des suites aux séries, des documentaires aux drames, tout ce que vous voulez est accessible d’une simple pression sur un bouton. Quels que soient vos programmes préférés, gardez les meilleures applications de streaming à portée de main. Fiche constructeur [shortcode id=\"20619131\"/]",
-    "price": 290.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-55-philips-ambilight-55pus8560-qled-4k-uhd-dolby-atmos-dtsx-hdr10-titan-os-smart-tv-3431700",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cJDA1/3431700_1/re/1200x1200/qt/90/3431700_1.jpg",
-    "detected_at": "2026-10-13T12:29:35+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 290.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mouse: P.I. For Hire sur PC (Dématérialisé - GOG)",
-    "description": "22,49€ - GOG SANS DRM. Aucune activation ou connexion en ligne requise pour jouer. MOUSE: P.I. For Hire est un jeu de tir à la première personne débordant d'action qui s'inspire des cartoons des années 30. Son animation rétro en noir et blanc est dessinée à la main, image par image, afin d'offrir une esthétique vintage saisissante. Naviguez entre les couches de corruption dans cette histoire de détective passionnante aux aspects de film noir, avec des environnements dynamiques à explorer, une bande originale jazz orchestrale ainsi qu'un arsenal bien chargé d'armes cartoon et de bonus destructeurs. Découvrez le détective privé Jack Pepper, un ancien héros de guerre à présent enquêteur dans un monde où le danger rôde jusque dans le plus petit des trous de souris. Découvrez la vérité lorsqu'un simple cas de personnes disparues se transforme rapidement en une intrigue complexe où les enlèvements et les meurtres sont de la partie. Enquêtez dans les bas-fonds de Sourisville, combattez des gangs lourdement armés ainsi que des policiers corrompus, et découvrez des indices pour mettre au jour la conspiration enterrée sous la surface. Des mitrailleuses crépitantes aux projectiles explosifs, chaque arme de l'arsenal de Pepper est conçue pour créer un chaos cartoonesque inarrêtable. Équipez-vous avec un éventail d'armes à feu classiques mais créatives, et consommez des améliorations puissantes lorsque vous aurez besoin d'un supplément d'épinards dans vos coups ! Des batailles létales et des combats contre des boss fous vous attendent dans cette aventure rétro explosive. Les habitants de Sourisville ne lâchent pas facilement l'affaire. Explorez un terrain de jeu urbain varié, des rues sombres aux studios de cinéma, en passant par des opéras opulents, des marais empoisonnés et des égouts. Avec une myriade d'affaires à résoudre et d'objets à trouver, Sourisville est le paradis des détectives ! Utilisez chaque outil à votre disposition pour courir sur les murs, utiliser votre grappin et votre double saut dans ce monde cartoon impitoyable.",
-    "price": 22.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mouse-pi-for-hire-3431696",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/j9gec/3431696_1/re/1200x1200/qt/90/3431696_1.jpg",
-    "detected_at": "2026-10-13T12:24:22+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 22.49,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[JoyPlus] Lot de 6 Boîtes Transparent de Rangement- avec Poignée, 12x28x18cm",
-    "description": "7,59€ - JoyBuy Les boîtes de rangement sont très appréciées pour leurs dimensions appropriées et leur qualité robuste, ce qui les rend pratiques et polyvalentes pour organiser divers articles dans toute la maison. Les clients apprécient le caractère complet de l'ensemble, notant que les tailles sont particulièrement adaptées à l'organisation des tiroirs. De plus, le produit est exempt d'odeurs désagréables, et la quantité reçue correspond systématiquement à la description. Cette boîte de rangement en plastique est fabriquée dans un matériau épais, sans bavures, avec une bonne finition. Son couvercle permet de protéger contre la poussière et l'humidité, et sa capacité est idéale pour ranger les petits objets et articles divers sur un bureau. Les boîtes sont empilables, ce qui permet de gagner de l'espace et facilite l'accès. La transparence est modérée, permettant de voir clairement le contenu. Avec un excellent rapport qualité-prix, elle est très pratique pour l'organisation de la maison.",
-    "price": 7.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/joyplus-lot-de-6-boites-transparent-de-rangement-avec-poignee-ideal-pour-frigo-12-x-28-x-18-cm-3431695",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ANLKs/3431695_1/re/1200x1200/qt/90/3431695_1.jpg",
-    "detected_at": "2026-10-13T12:22:40+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "price_history": [
-      {
-        "price": 7.59,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Ideas 21367 - La fusée de Tintin",
-    "description": "113,04€ - Amazon LEGO Ideas La fusée de Tintin : Un kit de construction Tintin pour adultes Construisez et exposez une réplique détaillée de la fusée de Tintin, telle qu’on la voit dans les albums emblématiques Objectif Lune et On a marché sur la Lune. Créez votre propre décor nostalgique Reconstituez des scènes d’exploration spatiale avec Tintin, le capitaine Haddock, Dupond et Dupont, le professeur Tournesol et Milou. LEGO Ideas La fusée de Tintin (21367) pour adulte. Recréez son damier rouge et blanc découvert dans Objectif Lune et On a marché sur la Lune. Exposez-la avec Milou et 5 minifigurines en scaphandre lunaire avec casque et bouteille d'oxygène (Tintin et le Capitaine Haddock portent également un équipement radio). Retirez un panneau dans la partie supérieure de la fusée LEGO pour révéler une salle de contrôle détaillée. Placez-y un personnage pour recréer la scène magique de On a marché sur la Lune, où Tintin et ses compagnons découvrent pour la première fois la Terre depuis l'espace. Superbe cadeau pour adultes créatifs et amateurs.trices de BD, cette décoration fascinante offre aux constructeurs.trices novices ou expert.e.s une activité manuelle passionnante. L'application LEGO Builder propose une expérience de construction enrichie avec visualisation en 3D, suivi de la progression et instructions numériques étape par étape. DIMENSIONS - La maquette de fusée de ce set mesure plus de 49 cm de haut, 20 cm de long et 23 cm de large. Le kit contient 1 283 pièces.",
-    "price": 113.04,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-ideas-21367-la-fusee-de-tintin-3431693",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/c10rc/3431693_1/re/1200x1200/qt/90/3431693_1.jpg",
-    "detected_at": "2026-10-13T12:21:20+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
-    "price_history": [
-      {
-        "price": 113.04,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Moving Out sur Nintendo Switch (Dématérialisé)",
-    "description": "4,99€ - Nintendo Bon deal pour un bon jeu multijoueur sur Switch ! Le jeu est jouable : En solo. En coopération locale jusqu’à 4 joueurs . En coopération en ligne jusqu’à 4 joueurs . Compatible Switch 1 et 2. Test de Nintendo-Town -> https://www.nintendo-town.fr/2020/04/20/moving-out-nintendo-switch-le-test/ Avis critique: Points positifs : une coopération très amusante, avec de nombreux moments de chaos et de rires. Les commandes sont simples et accessibles, même pour les joueurs débutants. La physique des objets est volontairement exagérée et rend les déplacements imprévisibles. Les niveaux sont variés et deviennent progressivement plus absurdes. Les missions proposent des objectifs différents : transporter des meubles, sauver des objets, éviter des pièges ou gérer des situations impossibles. Le mode assistance permet d’ajuster la difficulté pour les joueurs moins expérimentés. Les personnages sont hauts en couleur et apportent une touche d’humour. Le jeu fonctionne très bien en famille ou entre amis. La durée des missions est courte, ce qui permet de jouer par petites sessions. Points négatifs : le jeu peut devenir frustrant en solo, car certains niveaux sont clairement conçus pour plusieurs joueurs. Les commandes physiques peuvent être imprécises, surtout avec les gros objets. La caméra peut parfois gêner la visibilité, notamment en coopération. Les niveaux deviennent répétitifs après plusieurs heures. Le scénario est très léger et sert surtout de prétexte aux missions. Les temps de chargement peuvent être un peu longs sur Switch. Certains passages demandent beaucoup d’essai-erreur. Le jeu peut devenir moins drôle si vous jouez seul ou avec des joueurs qui n’aiment pas le chaos. Les critiques apprécient surtout la coopération, l’humour et la simplicité du gameplay. Le jeu est souvent comparé à Overcooked pour son chaos et son accessibilité.",
-    "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/moving-out-sur-nintendo-switch-dematerialise-3431697",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/EYkgE/3431697_1/re/1200x1200/qt/90/3431697_1.jpg",
-    "detected_at": "2026-10-13T12:21:07+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
-    "price_history": [
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Clé Dynamométrique Lexivon Vélo 1/4 - 2-26Nm CW (±4%) CCW (±6%), Embouts Torx, Barre d'Extension (Via Coupon - Vendeur Tiers)",
-    "description": "32,37€ - Amazon.de Coupon -27% à cocher __ Précision supérieure: Clé dynamométrique vélo 15 pièces, échelle 2-26 Nm (17,7-232 in-lb), micro-ajustement 0,2 Nm, embouts HEX (H2 à H10) et TORX (T10 à T30), rallonge 7,6 cm et adaptateur 1/4\". Construction robuste: Tête 72 dents en acier chrome-molybdène, mécanisme de verrouillage rapide ; parfaite comme cle dynamometrique moto, cle dynamometrique voiture ou clé dynamométrique vélo. Calibration fiable: Clef dynamometrique double sens pré-calibrée CW (±4%) et CCW (±6%) avec certificat ; idéale pour protéger vélos et voitures contre les serrages excessifs. Durabilité avancée: Finition électro-noir résistante à la corrosion ; poignée moletée en aluminium aviation avec système Slide-to-Lock, pour utilisateurs exigeant une cles dynamometrique fiable. Confort de lecture: Échelle double jaune ultra-lisible ; notre clé dynamométrique 1/4 réduit la fatigue jusqu’à 62 %, surpassant d’autres clés dynamométriques classiques.",
-    "price": 32.37,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lexivon-cle-dynamometrique-velo-14-2-26nm-cw-4-ccw-6-cle-dynamometrique-moto-embouts-torx-barre-dextension-3431692",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AcMv1/3431692_1/re/1200x1200/qt/90/3431692_1.jpg",
-    "detected_at": "2026-10-13T12:20:18+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
-    "price_history": [
-      {
-        "price": 32.37,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "PC fixe gamer Captain 28 - Ryzen 7 5700X, RTX 5060 Ti, RAM DDR4 16 Go, SSD NVMe 2 To, Alim 750W 80+ Gold, Watercooling 360mm",
-    "description": "1 259,99€ - Grosbill Prix intéressant pour le marché actuel ! :) Pour les 28 ans de Grosbill, nous avons voulu sortir une configuration qui a du caractère. Le PC Gamer CAPTAIN ne se contente pas de célébrer l’événement : il prend la barre de votre setup avec un processeur AMD Ryzen 7 5700X, une carte graphique RTX 5060 Ti 8 Go, 16 Go de mémoire RAM DDR4 et un SSD NVMe de 2 To. Avec son boîtier BlackBird ARGB, son refroidissement liquide 360 mm et son alimentation 750W 80+ Gold, ce PC anniversaire est prêt à hisser vos sessions gaming au niveau supérieur. ► Caractéristiques & Description Avec le PC Gamer CAPTAIN, nous vous proposons une configuration anniversaire pensée pour ceux qui veulent jouer, naviguer et profiter d’une machine réactive sans se poser mille questions. Son Ryzen 7 garde le cap dans les jeux comme dans le multitâche, tandis que la RTX 5060 Ti apporte l’énergie graphique nécessaire pour profiter de vos titres favoris avec confort. Une machine taillée pour embarquer dans votre setup et prolonger la fête bien après les 28 ans de Grosbill. Processeur AMD Ryzen 7 5700X Le processeur AMD Ryzen 7 5700X donne au PC Gamer CAPTAIN une base solide pour jouer, naviguer et gérer plusieurs tâches avec aisance. Avec ses 8 cœurs, il accompagne efficacement les jeux actuels, les applications du quotidien et les usages multitâches. Vous pouvez garder plusieurs logiciels ouverts, discuter en ligne ou consulter vos contenus sans perdre facilement le fil de la partie. Associé au refroidissement liquide 360 mm, il garde la tête froide même quand l’action monte à bord. Carte graphique RTX 5060 Ti 8 Go La carte graphique RTX 5060 Ti 8 Go Overclocked Dual Fan donne au PC Gamer CAPTAIN toute sa dimension gaming. Elle accompagne les jeux récents avec un rendu détaillé selon les titres et les réglages choisis. Ses 8 Go de mémoire vidéo permettent de profiter de textures plus riches, d’effets visuels soignés et d’environnements plus immersifs. Les technologies NVIDIA compatibles renforcent aussi le confort visuel, notamment sur la fluidité et la qualité d’image. Avec elle, le CAPTAIN ne reste pas à quai : il est prêt à larguer les amarres. Mémoire RAM DDR4 16 Go Les 16 Go de mémoire RAM DDR4 apportent au PC Gamer CAPTAIN le confort nécessaire pour jouer, naviguer et utiliser plusieurs applications au quotidien. Cette capacité permet de garder un navigateur, une application de discussion ou quelques logiciels ouverts pendant vos sessions. La DDR4 reste cohérente avec la plateforme AM4 retenue sur cette configuration et accompagne efficacement le Ryzen 7 5700X. De quoi garder le rythme à bord, même quand plusieurs tâches s’invitent dans la traversée. SSD NVMe Gen3 2 To Le SSD CS1030 de 2 To en M.2 NVMe Gen3 apporte au PC Gamer CAPTAIN un vrai confort au quotidien. Le système démarre rapidement, les logiciels se lancent avec réactivité et les chargements deviennent plus agréables. Sa capacité de 2 To permet d’installer vos applications essentielles et une large sélection de jeux sans devoir faire de tri trop rapidement. Avec son Ryzen 7 5700X, sa RTX 5060 Ti, ses 16 Go de mémoire RAM et son SSD NVMe 2 To, le PC Gamer CAPTAIN forme une configuration anniversaire prête à prendre les commandes de votre setup. Pour les 28 ans de Grosbill, nous vous proposons un PC qui ne se contente pas d’être dans la fête : il est prêt à la mener. Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
-    "price": 1259.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pc-fixe-gamer-captain-28-ryzen-7-5700x-rtx-5060-ti-ram-ddr4-16-go-ssd-nvme-2-to-alim-750w-80-gold-watercooling-360mm-3431694",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/S3fhL/3431694_1/re/1200x1200/qt/90/3431694_1.jpg",
-    "detected_at": "2026-10-13T12:16:02+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
-    "price_history": [
-      {
-        "price": 1259.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
       }
     ]
   }
