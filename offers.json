@@ -1,5 +1,125 @@
 [
   {
+    "title": "Equip 606146 Câble patch fin catégorie 6A F/FTP Rouge 3 m",
+    "price": 5.11,
+    "reference_price": 13.11,
+    "discount_percent": 61.02,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09DKQ779G",
+    "image_url": "https://m.media-amazon.com/images/P/B09DKQ779G.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:03:42",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.11,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sodastream Fizz & Go Easy Mix ...chines Sodastream, blanc sable",
+    "price": 26.16,
+    "reference_price": 32.21,
+    "discount_percent": 18.78,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GK354F68",
+    "image_url": "https://m.media-amazon.com/images/P/B0GK354F68.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:03:41",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 26.16,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "rOtring 600 Portemine | Mine H...tidérapante et corps hexagonal",
+    "price": 18.99,
+    "reference_price": 32.34,
+    "discount_percent": 41.28,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DSJMN338",
+    "image_url": "https://m.media-amazon.com/images/P/B0DSJMN338.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:03:33",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Melissa & Doug Blockables à em...ts (16 pièces) - Certifiés FSC",
+    "price": 7.42,
+    "reference_price": 14.99,
+    "discount_percent": 50.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DMQFPBRL",
+    "image_url": "https://m.media-amazon.com/images/P/B0DMQFPBRL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:03:30",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 7.42,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 160.0705 Purgeur de l...e frein 20l BS 20 - éléctrique",
+    "price": 1173.2,
+    "reference_price": 1403.04,
+    "discount_percent": 16.38,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B007XUFPAK",
+    "image_url": "https://m.media-amazon.com/images/P/B007XUFPAK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:03:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1173.2,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Canon LU-101 Papier Photo Lust...A3+ (20 feuilles) - 260g/m², L",
+    "price": 30.24,
+    "reference_price": 60.49,
+    "discount_percent": 50.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B009DKZZ4O",
+    "image_url": "https://m.media-amazon.com/images/P/B009DKZZ4O.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:03:20",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 30.24,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
     "title": "Severin Barbecue Électrique Su...ed, Céramique Sans PFAS, 2000W",
     "price": 46.2,
     "reference_price": 57.67,
@@ -1071,7 +1191,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:04:39.799432+00:00",
     "price_history": [
       {
         "price": 12.9,
@@ -1091,7 +1211,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:04:39.799432+00:00",
     "price_history": [
       {
         "price": 10.2,
@@ -1111,7 +1231,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:04:39.799432+00:00",
     "price_history": [
       {
         "price": 22.99,
@@ -3376,6 +3496,10 @@
       {
         "price": 12.69,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 12.69,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3396,6 +3520,10 @@
       {
         "price": 10.43,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 10.43,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3416,6 +3544,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3436,6 +3568,10 @@
       {
         "price": 10.95,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 10.95,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3456,6 +3592,10 @@
       {
         "price": 14.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3476,6 +3616,10 @@
       {
         "price": 51.38,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 51.38,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3496,6 +3640,10 @@
       {
         "price": 10.49,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 10.49,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3516,6 +3664,10 @@
       {
         "price": 41.0,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 41.0,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3536,6 +3688,10 @@
       {
         "price": 26.02,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 26.02,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3556,6 +3712,10 @@
       {
         "price": 25.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3576,6 +3736,10 @@
       {
         "price": 17.98,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 17.98,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3596,6 +3760,10 @@
       {
         "price": 26.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3616,6 +3784,10 @@
       {
         "price": 17.65,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 17.65,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3636,6 +3808,10 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3656,6 +3832,10 @@
       {
         "price": 19.52,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 19.52,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3676,6 +3856,10 @@
       {
         "price": 12.94,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 12.94,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3696,6 +3880,10 @@
       {
         "price": 12.9,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3716,6 +3904,10 @@
       {
         "price": 149.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 149.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -3736,6 +3928,10 @@
       {
         "price": 12.5,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 12.5,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -4456,6 +4652,164 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Peluche Yoshi 60 cm",
+    "description": "34,99€ - Smyths Toys Découvrez la plus douce et la plus câline des peluches Super Mario ! Avec ses détails réalistes et son rembourrage doux, Yoshi est parfait pour les câlins ou pour jouer. Les fans de Super Mario et les collectionneurs adoreront le design authentique de cette peluche. Peluche issue de l'univers Super Mario Parfait pour jouer, câliner ou exposer Design réaliste et rembourrage doux Contenu : 1x peluche Yoshi Dimension : 60 H cm",
+    "price": 34.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/peluche-yoshi-60-cm-3431862",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4PoSf/3431862_1/re/1200x1200/qt/90/3431862_1.jpg",
+    "detected_at": "2026-10-13T17:01:44+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 34.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 10 Piles alcalines Energizer AAA ou AA",
+    "description": "1,99€ - Action Elles sont pas mal du tout, je les utilise pour les thermostats des radiateurs. Lot de 10 piles alcalines Energizer AAA ou AA Semaine Action du 14/10 au 20/10/2026",
+    "price": 1.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/piles-alcalines-energizer-aaa-ou-aa-3431861",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0owPJ/3431861_1/re/1200x1200/qt/90/3431861_1.jpg",
+    "detected_at": "2026-10-13T17:00:08+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Deuxième coque de téléphone offerte sur les marques imoshion, Selencia & Accezz",
+    "description": "Coquedetelephone.fr Jusqu’à ce soir 23h59, achète une coque imoshion , Selencia ou Accezz et reçois la deuxième offerte. Utilise le code 1+1offert dans ton panier avant la fin du compte à rebours !",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coque-telephone-3431860",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YRFqP/3431860_1/re/1200x1200/qt/90/3431860_1.jpg",
+    "detected_at": "2026-10-13T16:57:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Reconditionné : Aspirateur Dyson V15 Detect Absolute (grade parfait état)",
+    "description": "399,99€ - Veepee Aspirateur Dyson V15 Detect Absolute - Reconditionné grade parfait état Description Dyson V15 Detect Absolute - Reconditionné grade parfait état - Livraison offerte par Dyson Aspiration puissante, capture des allergènes, nettoie en profondeur. Idéal pour les foyers avec animaux. Dyson révèle la poussière microscopique¹. ¹Lumière intégrée conçue pour les sols durs. Son efficacité varie en fonction de la luminosité ambiante, du type de débris et du type de surface. Sa lumière révèle les particules invisibles à l’œil nu Sa lumière rend la poussière invisible, visible sur les sols durs pour qu’aucune poussière ne vous échappe. Mesure et compte les particules de poussières microscopiques Un capteur piézo mesure et compte en continu les particules de poussière - adaptant automatiquement la puissance en fonction du volume depoussière². Preuve scientifique d’un nettoyage en profondeur L’écran LCD affiche ce qui a été aspiré, affichant en temps réel la preuve scientifique d’un nettoyage en profondeur. Fonctionne avec le moteur numérique Hyperdymium™ Le moteur Dyson Hyperdymium™ tourne jusqu’à 125 000 tours/mn, générant 240 AW d’aspiration puissante pour un nettoyage en profondeur. Brosses et accessoires inclus Brosse Optic Fluffy™ Sa lumière rend la poussière invisible, visible sur les sols durs. Brosse conçue avec du nylon souple et des filaments en fibre de carbone antistatiques pour éliminer la poussière des sols durs et des espaces étroits. Avec profil bas pour aller sous les meubles. Brosse Digital Motorbar Avec un système de détection dynmique de la charge qui s’adapte automatiquement aux différents types de sols - pour nettoyer en profndeur les tapis et optimiser l’autonomie lors de l’aspiration sur les sols durs. La technnologe auto-démêlante enlève automatiquement les cheveux du rouleau de brosse. Accessoire combiné Large conduit pour les miettes et les grosses particules et brosse pour la poussière. Long suceur Pour nettoyer dans les endroits confinés. Station murale de chargement Pour recharger et ranger l’appareil et ses accessoires lorsqu’il n’est pas utilisé. Chargeur Recharge votre aspirateur, avec ou sans la station d’accueil. Produit reconditionné Dyson Qu’est-ce qu’un produit reconditionné? Ce produit est reconditionné, testé et vérifié par Dyson. Les produits reconditionnés Dyson disposent du même état fonctionnel qu’un produit neuf. La différence résidant seulement dans l’aspect esthétique du produit en fonction de son grade « Parfait état » ou « Très bon état ». Quelle est la garantie sur les produits reconditionnés ? Les produits reconditionnés disposent d’une garantie légale de 1 an. Un grade est disponible sur la vente : Le grade parfait état présente un aspect impeccable et peut présenter de très légères traces d’usure, invisibles à plus de 20 cm. Le produit dispose du même état fonctionnel qu’un produit neuf. La durabilité chez Dyson : Nos ingénieurs entreprennent un processus de certification rigoureux pour chaque élément technologique qu’ils reconditionnent. Cela comprend les tests de fonctionnalité, les contrôles de sécurité, l’inspection de la qualité, la propreté et les tests de normes cosmétiques. La démarche d’économie circulaire nous permet de récupérer les machines d’occasion auprès de nos utilisateurs, de les réparer et de les reconditionner. Cela nous permet, ainsi qu’aux acheteurs Dyson, de réduire les déchets et permet à notre technologie de fonctionner aussi longtemps que possible. La technologie de Dyson est conçue pour durer. Certification: Produit reconditionné Dyson. Une alternative durable à l’achat de neuf. Toutes les machines, pièces et accessoires Dyson sont conçus pour durer. En 2021, plus de 500 000 appareils Dyson ont pu avoir une seconde vie grâce à notre programme de reconditionnement.",
+    "price": 399.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/aspirateur-dyson-v15-detect-absolute-reconditionne-grade-parfait-etat-3431859",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pPEk2/3431859_1/re/1200x1200/qt/90/3431859_1.jpg",
+    "detected_at": "2026-10-13T16:55:17+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 399.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Précommande] Blu-ray 4K L'Odyssée",
+    "description": "29,99€ - Cultura Le tant attendu \"L'odyssée\" de christopher Nolan enfin disponible à bon prix en précommande!",
+    "price": 29.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/precommande-lodyssee-blu-ray-4k-3431858",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8074n/3431858_1/re/1200x1200/qt/90/3431858_1.jpg",
+    "detected_at": "2026-10-13T16:54:03+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Décoration de hangar gratuite sur Star Citizen après 4h de visionnage de stream Twitch",
+    "description": "Roberts Space Industries En parallèle du mois spécial du constructeur de vaisseaux RSI, dans le jeu Star Citizen, un event Twitch est organisé, et permet de gagner une décoration de hangar sympa, un Display Insigne de Phoenix (ok, ne jetez pas de pierres, c'est la traduction directe), en souvenir du vaisseau RSI Constellation Phoenix, qui prend sa retraite en Janvier. Concrètement, il faut lier ses comptes Star Citizen et Twitch, choisir puis regarder 4h d'un stream SC avec \"!drops\" ou \"drops enabled\" dans le titre, entre le 14 et le 27 Octobre. Une fois les 4h écoulées, il faut réclamer le cadeau içi : https://www.twitch.tv/drops/inventory Cette page permet également de surveiller la progression de visionnage. A propos de Star Citizen : C'est une période de l'année un peu folle, après un début assez mou, pas mal de nouvelles et de hype autour de Squadron 42, la version solo du jeu, prévue pour une sortie Q2 2027. Un gros event est en cours, pour la sortie du nouvveau Constellation Centaurus MKV, une version sérieusement améliorée des précédentes versions, avec de nombreuses récompenses gratuites ingame à gagner. En gros groupe, ca se fait en une soirée, pour récupérer des armes, armures, peintures et composants de vaisseaux, une douzaine... ils sont assez généreux cette fois ! L'Intergalactic Aerospace Exposition arrive à grand pas, en Novembre, le plus gros évènement en jeu. Les serveurs se sont stabilisés, grâce à des hotfixes ces dernières heures, les bugs sont de moins en moins présents, et le jeu de plus en plus sympa. N'hésitez pas à revenir tester quelques heures, pour les anciens. Et pour les nouveaux, si vous créez un compte, n'oubliez pas d'ajouter un code referral (de parrainage), trouvable juste en dessous de ce deal grâce au lien Dealabs. See you in the 'Verse !",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/star-citizen-decoration-de-hangar-gratuite-apres-4h-de-visionnage-de-stream-twitch-3431857",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0VxVv/3431857_1/re/1200x1200/qt/90/3431857_1.jpg",
+    "detected_at": "2026-10-13T16:52:42+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "[Carte bibi!] 40% cagnottés sur 59 produits Nivea - déodorants, soins visage, démaquillants",
+    "description": "Franprix Avec la carte de fidélité gratuite bibi!, Franprix reverse 40% du prix de 59 produits NIVEA sur votre cagnotte, du 11 octobre au 1er novembre 2026 en magasin. Le déroulé : - Avoir un compte bibi! (inscription gratuite dans l'appli franprix, sur franprix.fr ou en demandant une carte en caisse) - Présenter la carte en caisse avant la fin du passage des articles, sinon rien n'est crédité après coup, même avec le ticket - Les 40% tombent sur la cagnotte et se dépensent lors d'un prochain passage Exemples sur les prix conseillés (le prix affiché en magasin fait foi) : - Sérum Cellular Epigenetics 30ml à 29,35€, soit 11,74€ cagnottés - Crème de jour anti-rides Q10 50ml à 14,55€, soit 5,82€ cagnottés - Eau micellaire peaux sensibles 400ml à 5,05€, soit 2,02€ cagnottés - Déodorant bille Dry Comfort 50ml à 3,45€, soit 1,38€ cagnottés À lire avant de se lancer : - Pas de remise immédiate, uniquement des euros de cagnotte à dépenser chez Franprix - La cagnotte expire le 31 mars de chaque année, donc les euros d'octobre sont à utiliser avant le 31/03/2027 - Magasins participants uniquement, hors franprix des gares et des autoroutes et hors plateformes de livraison - Offre non cumulable - Carte utilisable 7 fois par jour maximum, au-delà plus rien n'est crédité jusqu'au lendemain - Les fiches produits du site indiquent une fin au 31 octobre alors que la page de l'offre annonce le 1er novembre. Dans le doute, passez avant le samedi 31 Pour vérifier : avant de quitter la caisse, contrôlez sur le ticket ou dans l'appli que la cagnotte a bougé. Une fois sorti, rien n'est rattrapable. Liste complète des 59 produits : https://www.franprix.fr/search/nivea",
+    "price": 29.35,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/carte-bibi-40-cagnottes-sur-59-produits-nivea-deodorants-soins-visage-demaquillants-franprix-3431856",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1JO21/3431856_1/re/1200x1200/qt/90/3431856_1.jpg",
+    "detected_at": "2026-10-13T16:52:23+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.35,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets basses homme Air Force 1 '07 - white/ghost, Du 38.5 au 49.5",
+    "description": "61,16€ - Zalando Encore une belle offre avec le code LASTCHANCE de -15%.",
+    "price": 61.16,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baskets-basses-air-force-1-07-baskets-basses-pour-homme-whiteghost-du-385-au-495-3431855",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/P8oja/3431855_1/re/1200x1200/qt/90/3431855_1.jpg",
+    "detected_at": "2026-10-13T16:49:11+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 61.16,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -10244,174 +10598,6 @@
       {
         "price": 53.99,
         "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 77\" LG OLED C6 - 4K UHD, Tandem OLED 2.0, 165Hz, HDR10, Dolby Vision, HLG (Via ODR 300€)",
-    "description": "1 846,20€ - Icoza Pour ceux qui ne veulent pas attendre un restock sur le site LG (:I Lien de l'ODR https://www.lg.com/fr/promotions/offres-de-remboursement/actives/2609-offre-tv/?sortCriteria=%40ec_stock_status+ascending%2C%40ec_discount_amount+descending Caractéristiques TV OLED evo 4K - Ultra HD 3840 x 2160 pixels - 77 pouces (195 cm) Fréquence native 120 Hz - VRR jusqu'à 165 Hz Processeur d'image alpha11 AI Processor 4K Gen3 Technologie OLED evo - Brightness Booster - Perfect Black webOS 26 - Wi-Fi 6 et Bluetooth 5.3 4 HDMI 2.1 et 2 USB Audio 2.2 canaux 40 W - Dolby Atmos - WOW Orchestra Dolby Vision, HDR10 et HLG NVIDIA G-Sync, AMD FreeSync Premium, ALLM et Optimiseur de Jeu LG ThinQ, Alexa, Google Assistant, Google Cast et AirPlay 2",
-    "price": 1846.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-77-lg-oled-c6-4k-uhd-tandem-oled-20-165hz-hdr10-dolby-vision-hlg-via-odr-300eur-3431524",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9rZPs/3431524_1/re/1200x1200/qt/90/3431524_1.jpg",
-    "detected_at": "2026-10-13T08:22:54+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 1846.2,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Moniteur de Fréquence Cardiaque Garmin HRM 200",
-    "description": "64,99€ - Amazon Transmet en temps réel des données précises de fréquence cardiaque et de variabilité de la fréquence cardiaque aux montres connectées et compteurs de vélo Garmin, aux équipements tiers et aux applications compatibles Autonomie : jusqu’à 1 an (pile remplaçable par l'utilisateur) Ceinture confortable, disponible en deux tailles pour s’adapter à toutes les morphologies (XS/S pour 22 à 29’’ et M/L pour 29-42’’) Durable et étanche jusqu'à 3 ATM (30 m) Lavable en machine",
-    "price": 64.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/garmin-hrm-200-moniteur-de-frequence-cardiaque-3431522",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/EHkjw/3431522_1/re/1200x1200/qt/90/3431522_1.jpg",
-    "detected_at": "2026-10-13T08:20:17+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 64.99,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sèche-linge à Pompe à Chaleur Elsay HB1065BAD - 10 kg, Tambour Inox 115L, 16 Programmes, Classe D (Via 80€ en crédit fidélité)",
-    "description": "319,90€ - E.Leclerc Tarif plutôt bon pour une machine à pompe à chaleur de 10kg. (y) 80€ cagnottés sur le compte fidélité > Retrait gratuit en magasin, livraison à partir de 39,90€ Caractéristiques Porte réversible Non Part Number (référence fabricant) HB1065BAD Disponibilité des pièces détachées 2 ans Classe d’efficacité énergétique D Catégorie produits seche_linge Marque Elsay Type de pose Pose libre Consommation d'énergie annuelle (kWh) 125 Type de sèche linge Sèche-linge à pompe à chaleur Libellé SÈCHE LINGE POMPE A CHALEUR 10KG ELSAY Hauteur du produit 85 cm Longueur du produit 67 cm Couleur Blanc Origine de fabrication Autre Niveau sonore (dB) 66 Capacité de séchage pour une pleine charge (kg) 10 Position de l'ouverture Hublot EAN 3603313616721 Largeur produit 59,5 cm",
-    "price": 319.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/seche-linge-a-pompe-a-chaleur-elsay-10-kg-tambour-inox-115l-16-programmes-classe-d-via-80eur-en-credit-fidelite-3431521",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/CUNCr/3431521_1/re/1200x1200/qt/90/3431521_1.jpg",
-    "detected_at": "2026-10-13T08:14:26+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 319.9,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pack Découverte Kit de Démarrage - Pont, Télécommande, 2 Barres Lumineuses Philips Hue Play & 2 Ampoules Ambiance Blanc & Couleur",
-    "description": "119,99€ - Darty Retour de cette super offre! Ce pack Découverte Philips Hue comprend un kit de démarrage avec 2 ampoules connectées E27 White and Color Ambiance, un Hue Bridge, une télécommande Dimmer Switch et 2 barres lumineuses Hue Play en noir. Pilotage via l'application Hue, la voix ou la télécommande incluse.",
-    "price": 119.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ampoules-connectees-philips-hue-pack-decouverte-kit-de-demarrage-philips-hue-ambiance-blanc-et-couleur-3431519",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ffpd4/3431519_1/re/1200x1200/qt/90/3431519_1.jpg",
-    "detected_at": "2026-10-13T08:11:50+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 119.99,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Sacs à main en Promotion - Ex : Sac Christian Lacroix Haussman 100% Cuir, Plusieurs coloris",
-    "description": "69€ - André Je viens de voir que les sacs Christian Lacroix sont encore moins chers que sur le deal Veepee. Actu oblige, André brade notamment la maroquinerie avec de grosses réductions. Sacs Haussmann en 4 coloris à 69€ au lieu de 299€, avec livraison gratuite (à partir de 50€ d'achat). • Cuir de veau Ruga • Fermeture avec rabat • Bandoulière amovible • 4 pieds de protection • Doublure imprimée signée CXL by Christian Lacroix • Fabriqué en Italie",
-    "price": 69.0,
-    "reference_price": 299.0,
-    "discount_percent": 76.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-sacs-a-main-en-promotion-ex-sac-christian-lacroix-haussman-plusieurs-coloris-3431520",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/f5LMt/3431520_1/re/1200x1200/qt/90/3431520_1.jpg",
-    "detected_at": "2026-10-13T08:07:44+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 69.0,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Nouveaux adhérents] PER Individuel Carac : 50 € à 1 000 € offerts en e-carte cadeau selon le versement initial (dès 1 000 €)",
-    "description": "Jusqu'au 31 décembre 2026, la Carac offre une e-carte cadeau multi-enseignes aux nouveaux adhérents qui ouvrent un PER Individuel Carac : 50 € pour un versement initial de 1 000 € à moins de 10 000 €, 100 € de 10 000 € à moins de 30 000 €, 500 € de 30 000 € à moins de 50 000 € et 1 000 € à partir de 50 000 €. Le premier palier représente 5 % du versement, et le contrat ne prélève aucun frais sur les versements. Les frais de gestion sont de 0,60 % sur le fonds en euros, qui a servi 4,05 % net de frais de gestion en 2025. L'offre est réservée aux personnes qui n'ont pas déjà de contrat à la Carac, et le lien de l'e-carte (réseau UpCadhoc) est envoyé par e-mail au plus tard 5 mois après la signature du bulletin d'adhésion. Attention, un PER bloque l'épargne jusqu'à la retraite hors cas de déblocage anticipé prévus par la loi, et la fiche MoneyVox du contrat mentionne 20 € de droit d'entrée au GERP Carac.",
-    "price": 1000.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nouveaux-adherents-per-individuel-carac-50-eur-a-1-000-eur-offerts-en-e-carte-cadeau-selon-le-versement-initial-des-1-000-eur-3431518",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/SEpWw/3431518_1/re/1200x1200/qt/90/3431518_1.jpg",
-    "detected_at": "2026-10-13T08:03:57+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 1000.0,
-        "observed_at": "2026-10-13T08:08:13.845379+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Poupée Barbie JJN57 Fashionistas",
-    "description": "6,53€ - Amazon Barbie a des cheveux bruns à mèches violettes et un bandeau rose noué Elle porte un haut violet assorti à une jupe imprimée à fleurs et des sandales à plateforme vert citron",
-    "price": 6.53,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/barbie-fashionistas-3431517",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/KnW9f/3431517_1/re/1200x1200/qt/90/3431517_1.jpg",
-    "detected_at": "2026-10-13T08:02:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 6.53,
-        "observed_at": "2026-10-13T08:08:13.845379+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de Société Tag Team",
-    "description": "15,99€ - Amazon Tag Team, le nouveau jeu de baston en 1 contre 1 entre dans l’arène ! Rencontrez 12 combattants stylés et charismatiques qui ont leurs propres techniques et coups spéciaux. Composez votre équipe de 2 et développez la synergie ultime combinant leurs 2 decks uniques ! Commencez avec un deck de 2 cartes seulement. Le combat se déroule automatiquement ; dépilez vos cartes en appliquant leurs effets. Chaque fin de round est capitale ! Programmez votre deck en y ajoutant stratégiquement de nouvelles cartes sans modifier l’ordre de celles qui s’y trouvent déjà afin de planifier un assaut décisif ! Dans Tag Team , maîtrisez votre équipe, créez des combos dévastateurs et dominez votre adversaire en déjouant habilement ses attaques. Chaque décision compte pour triompher et mettre votre opposant KO ! Round 1… FIGHT!",
-    "price": 15.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-tag-team-3431513",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/yeHUa/3431513_1/re/1200x1200/qt/90/3431513_1.jpg",
-    "detected_at": "2026-10-13T08:02:29+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-13T08:08:13.845379+00:00"
       }
     ]
   }
