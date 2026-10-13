@@ -2411,7 +2411,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:11:35.963393+00:00",
     "price_history": [
       {
         "price": 59.9,
@@ -6744,6 +6744,69 @@
     ]
   },
   {
+    "title": "Eau de toilette Hugo Boss Man - 75ml",
+    "description": "34,95€ - Primor [Primor] HUGO BOSS HUGO Man Eau de Toilette 75 ml à 34,95 € au lieu de 92 € (-62 %) L’eau de toilette HUGO Man de Hugo Boss est proposée à 34,95 € les 75 ml , au lieu de 92 €, soit 62 % de réduction . Notes olfactives : Tête : pomme verte, lavande, menthe, pamplemousse et basilic Cœur : sauge, géranium, jasmin et œillet Fond : cèdre, sapin et patchouli Un parfum frais et aromatique aux notes vertes et boisées. Livraison gratuite dès 50 € d’achat chez Primor : possibilité d’en profiter en ajoutant un autre produit à sa commande. Lien de l’offre : https://fr.primor.eu/fr_fr/hugo-boss-hugo-man-eau-de-toilette-112438.html Prix : 34,95 € les 75 ml",
+    "price": 34.95,
+    "reference_price": 92.0,
+    "discount_percent": 62.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/primor-hugo-boss-hugo-man-eau-de-toilette-des-3495-eur-au-lieu-de-92-eur-62-3432020",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/IhV5k/3432020_1/re/1200x1200/qt/90/3432020_1.jpg",
+    "detected_at": "2026-10-13T23:03:47+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 34.95,
+        "observed_at": "2026-10-13T23:11:37.822907+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Maillot PSG Extérieur 26/27 - Stadium",
+    "description": "79,99€ - ASOS Le nouveau maillot PSG extérieur de la saison 2026/2027 en version Stadium, modèle homme. Vendu par Asos avec une réduction de 20% sur le prix conseillé. Livraison standard incluse. Cumulable avec le coupon FIRSTSHOP pour -15% supplémentaire (première commande uniquement). Paiement possible en carte cadeau (donc cumulable avec The Corner et offres similaires).",
+    "price": 79.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/maillot-psg-exterieur-2627-stadium-3432014",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZSfTx/3432014_1/re/1200x1200/qt/90/3432014_1.jpg",
+    "detected_at": "2026-10-13T22:56:12+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T23:11:37.822907+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bidon de 5L d' Huile moteur essence et Diesel TotalEnergies Quartz Ineo Long Life 5W-30",
+    "description": "39,83€ - Amazon Bon prix À propos de ce produit Normes et homologations : Quartz Ineo Long Life 5W-30 répond aux normes internationales ACEA C3 et API SN/CF et est homologuée suivant les normes Volkswagen 504.00/507.00, BMW LL-04, Mercedes-Benz 229.51 et Porsche C30. Ces certifications garantissent des performances optimales et une compatibilité parfaite avec les motorisations modernes. Formulation 100 % synthétique : Développée spécialement pour les véhicules du groupe Volkswagen, cette huile moteur 5W-30 entièrement synthétique assure une lubrification de haute qualité. Compatible avec les moteurs essence et Diesel : Quartz Ineo Long Life 5W-30 est compatible avec les moteurs essence et Diesel, en particulier les plus récents respectant les exigences des normes EURO 6, contribuant ainsi à la réduction des émissions polluantes. Cette huile moteur satisfait les cycles d’entretien les plus sévères et les conditions d'utilisation les plus difficiles quelle que soit la saison. Protection et longévité : Cette huile moteur essence et Diesel est conçue pour protéger le filtre à particules en limitant les risques d'encrassement et en prévenant l'oxydation. Technologie Age-Resistance : Grâce à la technologie Age-Resistance de TotalEnergies Quartz, cette huile moteur 5W-30 forme un film protecteur ultra-résistant, assurant une protection optimale contre l'usure et l'oxydation, même dans des conditions extrêmes. Commentaires client",
+    "price": 39.83,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/totalenergies-quartz-ineo-long-life-5w-30-huile-moteur-essence-et-diesel-5-litres-3432017",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QYDcL/3432017_1/re/1200x1200/qt/90/3432017_1.jpg",
+    "detected_at": "2026-10-13T22:51:56+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 39.83,
+        "observed_at": "2026-10-13T23:11:37.822907+00:00"
+      }
+    ]
+  },
+  {
     "title": "ASICS GEL NYC - NOIR/GRIS",
     "description": "104,93€ - Footkorner Les Asics Gel NYC - Noir/Gris sont des sneakers conçues pour un style urbain et décontracté. *spécifications du produit :* - Tige en cuir gris et noir - Logo Asics sur les côtés et la languette - Semelle intermédiaire avec mousses légères - Technologie GEL pour un confort maximal - Améliore l'absorption de l'impact - Sensation plus douce de la foulée - Absorption de l'impact légère",
     "price": 104.93,
@@ -6782,6 +6845,27 @@
       {
         "price": 40.0,
         "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      }
+    ]
+  },
+  {
+    "title": "10€ offerts dès 40€ d'achat (Sous Conditions)",
+    "description": "Gemo Jusqu'au 1er décembre, 10€ offerts dès 40€ d'achat sur le site gemo.fr Pour info, l'offre est valable également dans les magasins, à condition de présenter le coupon présent sur le catalogue La grande récré : Conditions : Valable du 14/10/2026 au 01/12/2026 inclus, dans les magasins de France métropolitaine ou sur gemo.fr , sur présentation du coupon catalogue papier uniquement, ou sur gemo.fr grâce au code GEMOXLGR26. Offre non cumulable avec les autres promotions en cours, Dernière Chance, Outlet, les offres GémoPRO, les achats de cartes cadeaux et le règlement de services (livraison, retouches, IMBOX). Offre cumulable avec les offres du programme de fidélité G'M (bon d’achat Anniversaire de 5€, bons d’achat par palier de 5€, 15€ et 30€, et offre de naissance de 10€ pour 35€ d’achat). Offre non valable sur les bijoux, les produits d’entretien et les produits de la marque DIM. La réduction ne peut faire l’objet d’aucun remboursement ni d’aucune contrepartie de quelque nature que ce soit. Voir conditions en magasin et sur gemo.fr .",
+    "price": 40.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/10eur-offerts-des-40eur-dachat-3432015",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/69_2/re/1200x1200/qt/90/69_2.jpg",
+    "detected_at": "2026-10-13T22:50:52+00:00",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 40.0,
+        "observed_at": "2026-10-13T23:11:37.822907+00:00"
       }
     ]
   },
@@ -11539,48 +11623,6 @@
     "price_history": [
       {
         "price": 8.7,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets fille Puma Lally - Blanc, Plusieurs tailles disponibles",
-    "description": "22,77€ - Chaussea Type de fermeture: Lacets Marque: PUMA Genre: Fille Hauteur de talon: 0 cm Couleur: BLANC Motifs: Uni Tige: 100% Synthétique",
-    "price": 22.77,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-court-lally-blanc-3431722",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/dVnk5/3431722_1/re/1200x1200/qt/90/3431722_1.jpg",
-    "detected_at": "2026-10-13T13:14:19+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 22.77,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casquette MLB New York Yankees 100% Coton - Vert (taille unique)",
-    "description": "13,50€ - Privé by Zalando Bon prix ! :) Détails : Occasion: loisirs/sportswear Motif: uni Couleur: vert Composition: 100% coton Taille: unique/ajustable",
-    "price": 13.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casquette-mlb-new-york-yankees-100-coton-vert-taille-unique-3431724",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Qdj2c/3431724_1/re/1200x1200/qt/90/3431724_1.jpg",
-    "detected_at": "2026-10-13T13:12:33+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 13.5,
         "observed_at": "2026-10-13T13:36:14.466903+00:00"
       }
     ]
