@@ -5109,7 +5109,7 @@
   {
     "title": "Zalando -15 % de remise supplémentaire",
     "description": "Google Flights *Offre valable jusqu'au 14.10.2026 à 23h59, sur une sélection d'articles avec le code LASTCHANCE et un minimum d'achat de 60 € | Pas de remboursement possible | Non valable pour les cartes cadeaux | Dans la limite des stocks disponibles Possibilité d'utilliser une carte cadeau de 150€ max par commande.",
-    "price": null,
+    "price": 60.0,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -5120,7 +5120,12 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "price_history": []
+    "price_history": [
+      {
+        "price": 60.0,
+        "observed_at": "2026-10-13T08:44:08.703793+00:00"
+      }
+    ]
   },
   {
     "title": "Forfait Mobile Lebara - Appels/SMS illimités 5G + 250 Go de Data (8Go en UE) - Réseaux SFR",
@@ -5624,7 +5629,7 @@
   {
     "title": "Sélection d'Articles en Promotion + Points Doublés",
     "description": "Lego Jusqu'au 20 octobre à 1 heure du matin, profitez de remises sur une sélection de Lego avec en plus les points doublés. Le cadeau restaurants of the Word : Italy, est offert pour 180 euros d'achat. 7% de cashback avec Topcashback sur les produits non exclusifs. 3% sur les exclusivités. Livraison gratuite à partir de 55 euros.",
-    "price": null,
+    "price": 180.0,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -5635,7 +5640,12 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "price_history": []
+    "price_history": [
+      {
+        "price": 180.0,
+        "observed_at": "2026-10-13T08:44:08.703793+00:00"
+      }
+    ]
   },
   {
     "title": "Batterie de cuisine Tefal Ingenio Emotion L897S104 - 10 pièces (Vendeur Tiers Boulanger)",
@@ -7534,43 +7544,6 @@
     ]
   },
   {
-    "title": "OtterBox Symmetry Cactus Leather MagSafe Wallet, Gris",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FJTCRNZG",
-    "image_url": "https://m.media-amazon.com/images/P/B0FJTCRNZG.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:59:50+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": [
-      {
-        "price": 41.97,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LOKI 516009 Zoo Run, multicolore - Version Allemande",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07PYS9429",
-    "image_url": "https://m.media-amazon.com/images/P/B07PYS9429.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:59:43+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": []
-  },
-  {
     "title": "Casque Turtle Beach Recon 50PC - Multiplateforme compatible PS4, PS4 Pro, Nintendo Switch, Appareil mobiles",
     "description": "24,55€ - Auchan Le TURTLE BEACH Casque Gaming Recon 50PC est conçu pour offrir un confort optimal pendant les longues sessions de jeu. *spécifications du produit:* - Design léger - Oreillers en cuir synthétique - Oreillers repliables pour un stockage facile - Compatible avec PS4, PS4 Pro, Nintendo Switch, appareils mobiles",
     "price": 24.55,
@@ -7592,117 +7565,6 @@
     ]
   },
   {
-    "title": "Valeo Silencio x2 Balais d'Ess...F918 - Avant - 550 mm / 400 mm",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B077MK545P",
-    "image_url": "https://m.media-amazon.com/images/P/B077MK545P.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:58:26+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Ravensburger, 20575, No Color",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B083N39QRW",
-    "image_url": "https://m.media-amazon.com/images/P/B083N39QRW.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:58:18+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": [
-      {
-        "price": 7.9,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Braun Tête De Rasoir Electriqu...FICIEL Pour Rasoirs 60, 61, 62",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0F6YJ2R17",
-    "image_url": "https://m.media-amazon.com/images/P/B0F6YJ2R17.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:58:17+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": [
-      {
-        "price": 40.8,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Clinique High Impact Eyeliner ...ent aux Yeux Sensibles, 0.67 g",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B09SLMTLG1",
-    "image_url": "https://m.media-amazon.com/images/P/B09SLMTLG1.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:57:31+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": [
-      {
-        "price": 22.45,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Schmidt Spiele 88930 Escalier ...e & Junior, Marque DREI Magier",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DV9R839Q",
-    "image_url": "https://m.media-amazon.com/images/P/B0DV9R839Q.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:57:27+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Viva Catrina – Jeu de Société ...ejouabilité | The Flying Games",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FTGBVZKT",
-    "image_url": "https://m.media-amazon.com/images/P/B0FTGBVZKT.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:56:48+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": []
-  },
-  {
     "title": "UFC 6 sur PS5",
     "description": "49,99€ - Auchan La force d'EA SPORTS™ UFC™ 6, ce sont ses combattants. Les systèmes de frappe et mouvement évolués donnent vie aux stars de l'UFC, tandis que les nouveaux modes de jeu introduisent une narration immersive. Préparez-vous au combat.",
     "price": 49.99,
@@ -7722,22 +7584,6 @@
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
       }
     ]
-  },
-  {
-    "title": "Zik : Nouvelle édition - Flip ...lap - Blackrock Games FLI013ZI",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0B5KZZHP2",
-    "image_url": "https://m.media-amazon.com/images/P/B0B5KZZHP2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:54:08+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": []
   },
   {
     "title": "Pull col rond torsadé Jules – Coupe regular, manches longues, vert, tailles M, L et XL",
@@ -7782,38 +7628,6 @@
     ]
   },
   {
-    "title": "Asmodee - TIMELINE Nouvelle Ed...rs -15 Min - Version Française",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DSLKCS12",
-    "image_url": "https://m.media-amazon.com/images/P/B0DSLKCS12.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:53:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Asmodee - Time's UP Express - ...es Rapides - Version française",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FSDDQV58",
-    "image_url": "https://m.media-amazon.com/images/P/B0FSDDQV58.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:52:56+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": []
-  },
-  {
     "title": "Aspirateur Laveur Roborock Qrevo S Pro Robot 18500 Pa, anti-enchevêtrements (Vendeur tiers)",
     "description": "379,99€ - Amazon Station d'accueil tout-en-un pour un nettoyage mains libres : Version améliorée du modèle QV 35A, ce robot aspirateur laveur régénère ses serpillières grâce à un auto-nettoyage à haute température (75 °C) et à un séchage à l'air chaud (45 °C). Il assure également la vidange automatique de la poussière jusqu'à 65 jours, rendant l'entretien quotidien des sols totalement effortless pour les foyers au rythme de vie soutenu ou abritant des animaux de compagnie. Aspiration puissante de 18 500 Pa : Conçu pour des performances de nettoyage quotidiennes optimales, le robot aspirateur offre une aspiration puissante pour capturer sans effort la poussière, les miettes, la litière pour chat, les débris tenaces et les poils d’animaux sur les sols durs, les moquettes/tapis et dans les coins, contribuant ainsi à garder chaque pièce fraîche et impeccable avec moins d’effort. Système anti-emmêlement efficace : L'aspirateur robot laveur avec station est équipé d'une brosse latérale anti-emmêlement, d'une brosse principale entièrement en caoutchouc et d'une roue omnidirectionnelle facile à nettoyer ; ces éléments permettent de réduire l'enroulement des cheveux et de simplifier l'entretien, rendant le nettoyage quotidien plus facile et moins chronophage. Évitement des obstacles et nettoyage à profil bas de 9,65 cm : Grâce à sa détection intelligente des obstacles, le aspirateur robot laveur évite avec précision les chaussures, les jouets et les pieds des meubles tout en glissant en douceur sous les lits et les canapés pour éliminer la poussière cachée dans les espaces à faible dégagement pour une couverture plus complète. Nettoyage puissant et stratégie personnalisée pour les tapis : l'aspirateur laveur robot vient aisément à bout des salissures quotidiennes grâce à un débit d'eau réglable et à deux serpillières à rotation rapide. Il s'adapte aux différents types de tapis grâce à une puissance d'aspiration accrue, un relevage des serpillières de 10 mm et des modes de nettoyage personnalisés, contribuant ainsi à préserver les fibres des tapis tout en assurant un nettoyage en profondeur. Nettoyage intelligent de toute la maison : Grâce au système Roborock SmartPlan 2.0 basé sur l'IA, les paramètres de nettoyage de l'aspirateur robot s'ajustent automatiquement en fonction de la configuration de votre domicile, des types de sols et de l'historique de nettoyage. Profitez d'un nettoyage puissant avec un niveau sonore de 55 dB, idéal pour les foyers avec enfants et animaux de compagnie. *Compatible uniquement avec le WiFi 2,4 GHz.",
     "price": 379.99,
@@ -7833,160 +7647,6 @@
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
       }
     ]
-  },
-  {
-    "title": "Asmodee | Dobble : Teams | Jeu...6 Ans | 2 à 8 Joueurs | 15 Min",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0B1F4PH8K",
-    "image_url": "https://m.media-amazon.com/images/P/B0B1F4PH8K.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:52:47+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:40:08.171559+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Hasbro Gaming Taboo sans Censu...sion Française, 18 Ans et Plus",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CQ2VWKPB",
-    "image_url": "https://m.media-amazon.com/images/P/B0CQ2VWKPB.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:52:24+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": []
-  },
-  {
-    "title": "ATM Gaming Les Mini Détectives...e Société Éducatif - Dès 3 Ans",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DDTYRZ79",
-    "image_url": "https://m.media-amazon.com/images/P/B0DDTYRZ79.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:51:39+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": [
-      {
-        "price": 11.95,
-        "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Educa - Identic Stitch. Jeu de...ire. A partir de 3 Ans (20315)",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DW8Z1GCZ",
-    "image_url": "https://m.media-amazon.com/images/P/B0DW8Z1GCZ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:51:29+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Edding 3000 Marqueur permanent...stylos - pointe ronde 1,5-3 mm",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00473URYU",
-    "image_url": "https://m.media-amazon.com/images/P/B00473URYU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:51:16+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Educa-Le Lynx-Jeu de Cartes, 18716, Varié",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B089FQQZZG",
-    "image_url": "https://m.media-amazon.com/images/P/B089FQQZZG.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:50:58+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Maped 935020 Boîte de 100 Craies Blanc",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B003T45WES",
-    "image_url": "https://m.media-amazon.com/images/P/B003T45WES.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:50:24+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": [
-      {
-        "price": 5.4,
-        "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LOREAL Rouges à Lèvres",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0086MEEII",
-    "image_url": "https://m.media-amazon.com/images/P/B0086MEEII.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:50:19+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Comansi Dragon Egg - Œuf Surpr...r (Vendus séparément) - C18966",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B08L6Z6617",
-    "image_url": "https://m.media-amazon.com/images/P/B08L6Z6617.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:49:39+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
-    "price_history": []
   },
   {
     "title": "Concombre - 1 pièce, catégorie 1",
@@ -8031,80 +7691,6 @@
     ]
   },
   {
-    "title": "Foppapedretti Pretty Mama Sac Pierre",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CLCZ7J9N",
-    "image_url": "https://m.media-amazon.com/images/P/B0CLCZ7J9N.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:48:50+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": [
-      {
-        "price": 65.02,
-        "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gigamic - KATAMINO Tower",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CNKPSNY1",
-    "image_url": "https://m.media-amazon.com/images/P/B0CNKPSNY1.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:48:45+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Eglo connect LED lampe à encas..., Smart Home lampe à encastrer",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0767F4YSZ",
-    "image_url": "https://m.media-amazon.com/images/P/B0767F4YSZ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:48:40+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": [
-      {
-        "price": 28.9,
-        "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bioviva - Défis Nature - Mytho...nne - Jeu de Cartes Enfants 7+",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DSWLPWSN",
-    "image_url": "https://m.media-amazon.com/images/P/B0DSWLPWSN.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:48:34+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
-  },
-  {
     "title": "Meuble Salle de Bain Vasagle - Armoire de Rangement",
     "description": "85,87€ - Amazon Charme champêtre, caractère chaleureux : La Collection Sofie associe des pieds fins, des découpes de tiroirs inspirées d’un sourire et des panneaux de porte rainurés pour créer une allure légère et pleine de charme. Intimité et élégance : Le matériau translucide dépoli préserve votre intimité. Le placard supérieur est équipé d'une bande LED à contrôle multiple, vous permettant de localiser rapidement vos objets d'un simple toucher dans l'obscurité. Sécurité avant tout : Équipé d'un dispositif anti-basculement, ce meuble se fixe fermement au mur pour prévenir tout accident et assurer la sécurité de votre famille. Grande capacité : 2 placards fermés, 2 compartiments ouverts au centre et un grand tiroir offrent des espaces de rangement généreux. Les étagères réglables s’adaptent facilement à tous vos objets, quelle que soit leur taille. Polyvalent : Parfait pour la salle de bain, la cuisine, la buanderie ou le couloir, ce meuble sur pied répond à divers besoins de rangement et s’intègre avec naturel dans toutes les pièces de la maison. Facile à entretenir : Fabriqué en panneau MDF de qualité, sa surface lisse est imperméable et résistante à l'humidité. Elle se nettoie facilement d'un simple coup de chiffon, garantissant une grande durabilité sans se déformer.",
     "price": 85.87,
@@ -8147,38 +7733,6 @@
     ]
   },
   {
-    "title": "Bioviva DEFIS Nature - Capitales du Monde, Multicouleur",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DSWM3JND",
-    "image_url": "https://m.media-amazon.com/images/P/B0DSWM3JND.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:47:56+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Bioviva - Défis Nature - 15ème...ire - Jeu de Cartes Enfants 7+",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0BG16JSRS",
-    "image_url": "https://m.media-amazon.com/images/P/B0BG16JSRS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:47:16+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
-  },
-  {
     "title": "Meuble de Salle de Bain Vasagle - 1 Porte, 3 Tiroirs, 60 x 30 x 80 cm, Commode, Placard, Armoire de Rangement",
     "description": "55,98€ - Amazon Style minimaliste blanc pur : définie par des lignes épurées, la Collection Siren s'intègre facilement à divers décors, qu'ils soient modernes ou scandinaves, pour créer un intérieur harmonieux et soigné, Armoire de Toilette : Mesurant 60 x 30 x 80 cm, ce meuble 3-en-1 offre un compartiment ouvert, 3 tiroirs et des étagères réglables derrière la porte pour s'adapter à vos objets, des petits articles aux grands produits de nettoyage, Petit Meuble Rangement : Idéal pour classer facilement vos objets. Rangez vos serviettes et cosmétiques. Chaque tiroir a un butoir de sécurité pour éviter les chutes accidentelles lors de la prise d'objets, Colonne de Rangement : Fabriquée en MDF, cette structure offre une capacité de charge statique maximale de 90 kg pour placer des objets comme un chauffe-eau ou un panier à linge, Placard VASAGLE : Fixez le meuble au mur avec le kit anti-basculement pour plus de stabilité. Les pièces numérotées et les instructions illustrées permettent un assemblage rapide sans outils professionnels, même pour les débutants",
     "price": 55.98,
@@ -8200,22 +7754,6 @@
     ]
   },
   {
-    "title": "Denta Fun - Os à mà ¢cher avec poulet (Taille:17 cm )",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B007TGXHKI",
-    "image_url": "https://m.media-amazon.com/images/P/B007TGXHKI.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:46:33+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
-  },
-  {
     "title": "Protection Céramique Meguiar's Spray - Ultimate G240108EU, Bouteille de 8 oz (237 ML), Blanc",
     "description": "29,52€ - Amazon PROTECTION ULTRA-DURABLE : Issue d'une technologie professionnelle, cette formule avancée est une protection céramique haut de gamme pour voitures ultra durable qui rend la peinture brillante et lisse. Obtenez des résultats de qualité professionnelle avec un produit facile à appliquer FORMULE FACILE À UTILISER : Obtenez une protection céramique durable sans avoir besoin de suivre un processus d’application professionnel long et difficile. Après avoir nettoyé et préparé la peinture, il suffit de pulvériser le produit, de l'étaler avec un chiffon microfibre de qualité supérieure et de retourner le chiffon pour l'essuyage final EFFET DEPERLANT INCROYABLE : Vous bénéficiez non seulement d’une durabilité exceptionnelle, mais cette protection céramique offre également un effet déperlant incroyable et rend la peinture lisse, facilitant grandement l’entretien et le séchage de votre peinture MASQUE LES DÉFAUTS LÉGERS : Autre avantage, cette protection céramique tolère une application sur une surface non polie et lustrée. Pulvérisez sur une petite section, étalez avec une microfibre et essuyez. Le produit aidera à masquer les trés légers défauts de la peinture SANS DANGER SUR D’AUTRES SURFACES : Bien que formulé spécifiquement pour une application sur les peintures brillantes, ce Spray Protection Céramique fonctionne également très bien sur les garnitures extérieures en plastique, les films covering, les films de protection de peinture (PPF) et les jantes",
     "price": 29.52,
@@ -8235,54 +7773,6 @@
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
       }
     ]
-  },
-  {
-    "title": "Corine de Farme Brume Relaxante Bébé Tilleul 100ml",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DYV74RGK",
-    "image_url": "https://m.media-amazon.com/images/P/B0DYV74RGK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:44:51+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Corine de Farme - Crème de Soi...- Fabriquée en France - 200 ml",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DCW7KKZD",
-    "image_url": "https://m.media-amazon.com/images/P/B0DCW7KKZD.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:44:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Corine de Farme - Crème de Soi...émêle - Sans Silicone - 200 ml",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DCW63L1Y",
-    "image_url": "https://m.media-amazon.com/images/P/B0DCW63L1Y.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T17:44:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
-    "price_history": []
   },
   {
     "title": "Gazon artificiel de 40 mm, Rouleau de 1 x 2m (via coupon - Vendeur tiers)",
