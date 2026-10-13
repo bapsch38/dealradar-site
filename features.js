@@ -96,12 +96,12 @@
     const validCategory = categories.includes(categoryOf(offer));
     if (url) { score += 8; reasons.push("lien HTTPS présent"); } else warnings.push("lien HTTPS absent ou invalide");
     if (knownSource) { score += 8; reasons.push("source identifiable"); } else warnings.push("source peu identifiable");
-    if (price != null) { score += offer.price_verified === true ? 22 : 10; reasons.push(offer.price_verified === true ? "prix lu sur une fiche marchand" : "prix fourni par la source, non recontrôlé chez le marchand"); }
-    else warnings.push("prix de vente introuvable");
+    if (price != null) { score += offer.price_verified === true ? 22 : 10; reasons.push(offer.price_verified === true ? "prix lu sur une fiche marchand" : "prix annoncé par la source, non recoupé directement"); }
+    else { warnings.push("prix de vente introuvable"); score -= 18; }
     if (reference != null && price != null && reference > price) {
       score += offer.reference_price_verified === true ? 18 : 8;
-      reasons.push(offer.reference_price_verified === true ? "prix de référence vérifié" : "prix de référence présent sans preuve indépendante");
-    } else warnings.push("prix de référence absent ou incohérent");
+      reasons.push(offer.reference_price_verified === true ? "prix de référence vérifié" : "prix de comparaison présent sans preuve indépendante");
+    } else { warnings.push("prix de référence absent ou incohérent"); if (price != null) score -= 8; }
     if (image) { score += 5; reasons.push("image produit disponible"); } else warnings.push("image produit absente");
     if (validCategory) score += 4;
     if (offer.price_verified === true) reasons.push("prix actuel recoupé avec le marchand");
@@ -130,7 +130,7 @@
     if (offer.price_verified !== true) score -= 8;
     if (reference != null && offer.reference_price_verified !== true) score -= 3;
     score = Math.max(0, Math.min(100, Math.round(score)));
-    return {score, level:score >= 75 ? "Élevée" : score >= 48 ? "Moyenne" : "Faible", reasons, warnings};
+    return {score, level:score >= 75 ? "Élevée" : score >= 42 ? "Moyenne" : "Faible", reasons, warnings};
   };
   const announce = (title, body) => {
     if ("Notification" in window && Notification.permission === "granted") {
