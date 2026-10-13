@@ -1,5 +1,45 @@
 [
   {
+    "title": "C.K T3711 5 Pince à circlips droite extérieurs 140 mm",
+    "price": 16.6,
+    "reference_price": 35.99,
+    "discount_percent": 53.88,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0052CEIUO",
+    "image_url": "https://m.media-amazon.com/images/P/B0052CEIUO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 09:42:22",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 16.6,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lindy Câble réseau Basic Cat.6 U/UTP Gris, 10m",
+    "price": 8.56,
+    "reference_price": 17.75,
+    "discount_percent": 51.77,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B019F7JDD8",
+    "image_url": "https://m.media-amazon.com/images/P/B019F7JDD8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 09:42:09",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.56,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
     "title": "KS TOOLS 310.0455 Gants avec e...sur paume Taille XL, 12 paires",
     "price": 23.68,
     "reference_price": 33.64,
@@ -2920,6 +2960,358 @@
     ]
   },
   {
+    "title": "Samsung Carte Mémoire microSDXC Sonic PRO Plus 128 Go avec Adaptateur SD",
+    "description": "36,54€ - Amazon Carte mémoire MicroSDXC haute performance conçue pour étendre l'espace de stockage des consoles de jeux portables, smartphones, tablettes et caméras. Elle offre des débits optimisés pour le transfert rapide de données lourdes, la lecture de jeux vidéo et l'enregistrement vidéo en haute résolution. Points forts et caractéristiques : • Hautes performances de transfert : Offre une vitesse de lecture allant jusqu'à 180 Mo/s grâce à l'interface UHS-I, réduisant les temps de chargement des applications et des fichiers. • Spécifications A2 et V30 : Certifiée A2 pour un chargement plus rapide des applications et classe de vitesse vidéo V30 assurant un enregistrement fluide en vidéo 4K UHD. • Polyvalence et adaptateur inclus : Livrée avec un adaptateur SD plein format pour une compatibilité étendue avec les appareils photo, caméras et ordinateurs portables. • Conception robuste : Protection intégrée contre l'eau, les températures extrêmes, les rayons X, les chutes et les champs magnétiques pour sécuriser les données stockées.",
+    "price": 36.54,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/samsung-carte-memoire-microsdxc-sonic-pro-plus-128-go-avec-adaptateur-sd-3431577",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/grDMm/3431577_1/re/1200x1200/qt/90/3431577_1.jpg",
+    "detected_at": "2026-10-13T09:36:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 36.54,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casquette trucker New Balance Core 47 - Vert ou Beige, taille ajustable",
+    "description": "12,99€ - Espace des marques Une casquette trucker New Balance de la ligne Core, simple à porter au quotidien, aussi bien avec une tenue de sport qu'avec un look décontracté. Elle est construite en 6 panneaux avec le logo New Balance brodé sur l'avant. La composition indiquée sur la fiche est 100 % coton, et la taille est ajustable à l'arrière pour s'adapter à la plupart des tours de tête. Deux coloris sont disponibles au même tarif : Vert et Beige (le modèle beige est accessible depuis la fiche du vert, via le choix de la couleur). Référence NBCTK04CNP. Côté livraison, plusieurs options sont proposées : point relais Chronopost, livraison à domicile en Colissimo, ou retrait gratuit dans l'un des magasins physiques Espace des Marques. Les retours sont possibles sous 30 jours.",
+    "price": 12.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casquette-trucker-new-balance-core-47-vert-ou-beige-taille-ajustable-3431575",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jE1AB/3431575_1/re/1200x1200/qt/90/3431575_1.jpg",
+    "detected_at": "2026-10-13T09:35:27+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Prime] Braun Rasoir Electrique Series 9 Sport 9110si + brosse de nettoyage + etui - Noir",
+    "description": "229,98€ - Amazon Rasage de près à 0,05 mm et confortable : le rasoir premium Series 9 Sport de Braun offre un rasage précis et doux au quotidien Précis dans les zones difficiles : 4+1 éléments de rasage synchronisés dans une tête compacte et flexible à 40°, pour un rasage de près et doux, même sous le nez et le menton Efficacité optimisée à chaque utilisation : la technologie SensoAdapt analyse la densité de votre barbe 160x/sec et ajuste la puissance pour un rasage efficace et doux Fabriqué en Allemagne et conçu pour durer : ce rasoir est conçu avec des matériaux de qualité et dans le souci du détail. Il est 100% étanche pour une utilisation sur une peau mouillée ou sèche. Sa batterie Li-Ion offre jusqu'à 60 minutes d'autonomie Avec jusqu'à 5 ans de garantie (voir les conditions générales applicables sur le site web de Braun)",
+    "price": 229.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/prime-braun-rasoir-electrique-series-9-sport-9110si-brosse-de-nettoyage-etui-noir-3431574",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Ngfi1/3431574_1/re/1200x1200/qt/90/3431574_1.jpg",
+    "detected_at": "2026-10-13T09:35:12+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 229.98,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Entrée gratuite pour les enfants déguisés - Zoo du Bois d'Attilly - Férolles-Attilly (77)",
+    "description": "Bon plan sortie pour Halloween ! Le zoo du Bois d'Attilly offre l'accès aux gosses qui viennent déguisés ! (devil) Ils ont aussi prévu une distribution de bonbons sur place <3 L'opération tourne sur deux jours : samedi 31 octobre et dimanche 1er novembre Attention ! Les accompagnateurs payent le plein tarif classique. À checker sur leur site pour les tranches d'âge exactes avant de faire la route !",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/entree-gratuite-pour-les-enfants-deguises-zoo-du-bois-dattilly-ferolles-attilly-77-3431567",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0bgdf/3431567_1/re/1200x1200/qt/90/3431567_1.jpg",
+    "detected_at": "2026-10-13T09:34:30+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Vol A/R Lyon (LYS) Bangkok (BKK), du 18 novembre au 1er décembre avec 1 escale (Bagage en soute 23kg)",
+    "description": "432€ - Trip.com Vol Aller-Retour vers Bangkok, en Thaïlande depuis Lyon, avec une escale, du 18 novembre au 8 décembre, pendant la saison sèche. Le vol est opéré par la compagnie Royal Jordanian. Un bagage en soute de 23kg, un bagage cabine et un bagage à main sont inclus dans le prix du billet.",
+    "price": 432.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vol-ar-lyon-lys-bangkok-bkk-du-18-novembre-au-1er-decembre-avec-1-escale-bagage-en-soute-23kg-3431573",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/tbIyb/3431573_1/re/1200x1200/qt/90/3431573_1.jpg",
+    "detected_at": "2026-10-13T09:34:27+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 432.0,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO 80118 - Le feu d'artifice porte-bonheur",
+    "description": "47,99€ - Lego Grosse réduction avec laquelle s’ajoute la promotion de points doublés donc -50% techniquement !",
+    "price": 47.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-80118-le-feu-dartifice-porte-bonheur-3431572",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yCiob/3431572_1/re/1200x1200/qt/90/3431572_1.jpg",
+    "detected_at": "2026-10-13T09:33:50+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 47.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini PC Chuwi AuBox Barebone - Ryzen 7 8745HS, IGP 780M, eGPU sur USB4 ou Oculink, sans RAM, ni SSD, Wi-Fi 6 & BT 5.3, Boitier en Alu",
+    "description": "221,12€ - AliExpress Affinités avec le design, noblesse des matériaux, avec un WAF excellent , l'AuBox se fait sauveur des couples. (laughflame) ⚙️ Synthèse Processeur : AMD Ryzen 7 8745HS 8 cores physiques et 16 cores logiques (via SMT ) Fréquence nominale : 3,8 Ghz Fréquence boost maximale : 4,9 Ghz TDP nominal de 45W cTDP de 35 à 54W Tjmax de 100°C Sécurité AMD Enhanced Virus Protection ( NX bit ) C'est un avantage en soi, puisque cette température est la température à partir de laquelle un processeur devient instable. Et shutdown en général. Certains CPU ont une Tjmax de 95°C, ce qui forcément rend le throttling d'autant plus précoce. Même si AMD fait aussi bien, voire pousse plus loin. Je vous renvoie au sujet de cette température à cette page , certes un peu datée, mais qui explique clairement le phénomène je trouve. C'est le meilleur de la catégorie sur Passmark; à égalité \"statistique\" cependant avec ses trois \"frères\" à mon sens, son échantillon statistique étant nettement plus réduit. Mais il reste que, lui, souffre de la perte de la NPU . Et ce n'est pas pour rien que l'on croise bien plus souvent le 8745HS que les autres aux prix les plus bas. Puisque c'est après tout un processeur \"déclassé\" du fait d'une NPU déficiente et désactivée. ☝️ Notebookcheck , avec son comparatif bien plus exhaustif, vient nuancer et mettre un ordre dans la fratrie. Ryzen 7 8745HS → 100% Ryzen 7 8845HS → 109% Ryzen 9 8945HS → 111% On y voit là que les 8845HS et 8945HS sortent plus aisément les muscles. Mais, cela au détriment rappelez-vous du 3ème slot M.2 2280. Et ces écarts expliquent aisément pourquoi nous voyons bien plus d'AuBox ou de K12 avec leur 8745HS à prix promotionnels sur Aliexpress que ses grands frères dotés de NPU. Circuit graphique : Radeon 780M ( lien vers les benchs Notebookcheck ) AMD Freesync ( VRR ) Miracast (envoi d'un signal audio-vidéo par Wifi) supporte l'HBR3*, l'UHBR10, l' HDR Metadata et l' Adaptive-Sync ( VRR ) Voir un récapitulatif là concernant l'HBR3, l'UHBR10 et les Metadata. Variable Refresh Rate, ou taux de rafraichissement variable : G-Sync chez Nvidia, Freesync chez AMD, et Adaptive-Sync sous norme VESA . Synchrone entre les fps calculés et ceux affichés par le moniteur pour éviter le tearing. A noter contrairement à l'Adaptative-Sync, que si le moniteur est certifié Freesync, le VRR peut fonctionner sans pour autant que la norme de la connectique réponde à la hauteur de ce qu'elle devrait, normativement ( HDMI 2.1 pour le VRR ! en théorie ), ceci du fait du freesync-over-HDMI. Voir ici concernant les problématiques spécifiques qui peuvent le concerner J'ai finalement effectuée l'étude des IGP AMD que j'avais promise. Je vous renvoie ici pour plus de détails la concernant car elle est à circonstancier. Donc cette petite lecture ne vous sera pas anodine. ☝️ Bien qu'Intel soit en avance sur l'encodage/transcodage, sur Emby ou Jellyfin, le 780M sera le plus à son aise. Corrigeant donc le tir par rapport aux gammes inférieures. D'ailleurs il vaut quoi en pratique❓ bah voyons ça ! [shortcode id=\"20618594\"/] Les vidéos sont légions , je ne peux toutes les mettre. Mais une recherche Google vous amènera vite aux titres spécifiques qui vous intéressent. Il va sans dire que dès qu'il y aura usage d'eGPU, le Mini PC deviendra une bête de course. Mémoire vive : 2 x slots pour DDR5 5600 MT/s au format SODIMM Rappel : l'IGP prend sa mémoire allouée sur la mémoire vive Stockage : 2 x slot M.2 2280 En PCIe 4.0 Connexions réseaux : 2 x 2,5 Gb Ethernet ( contrôleur Realtek RTL8125* ) Wifi 6 & Bluetooth 5.3 ( contrôleur Realtek RTL8852BE* ) * comme je m'y attendais, et ce, confirmé sur cette réponse . Merci encore à mes chers loulous de répondre présents ! ‍↕️ Ports USB Sur le côté droit 2 x USB 3.2 Gen2x1 ( 10 Gb/s ) Type-A 1 x USB 3.2 Gen2x1 ( 10 Gb/s ) Type‑C \"full featured\" ( Alt DP Mode, Data ) A l'arrière 2 × USB 2.0 ( 480 Mb/s ) Type-A 1 × Thunderbolt 4 (40 Gb/s) supportant DP Alt Mode et PCIe Tunneling (pour eG",
+    "price": 221.12,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-barebone-ryzen-7-8745hs-igp-780m-egpu-sur-usb4-ou-oculink-wifi-6-bt-53-boitier-en-alu-3422803",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dTEj6/3422803_1/re/1200x1200/qt/90/3422803_1.jpg",
+    "detected_at": "2026-10-13T09:33:41+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 221.12,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lego Creator 3-en-1 31165 Animaux Sauvages : La Famille de Pandas",
+    "description": "27,90€ - Amazon Une ristourne intéressante si on considère les derniers deals sur ce set en remise cagnottée (pas forcément intéressant pour tout le monde). Je me suis personnellement laissé tenter par celui-ci. Dispo au même prix chez Smyth Toys d'ailleurs.",
+    "price": 27.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-creator-3-en-1-animaux-sauvages-la-famille-de-pandas-31165-3431571",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cEzZY/3431571_1/re/1200x1200/qt/90/3431571_1.jpg",
+    "detected_at": "2026-10-13T09:31:38+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 27.9,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle 2LP Alliance Ethnik Simple & Funky",
+    "description": "19,99€ - Amazon L'album culte INCLUS LES HITS : Respect, Simple et Funky et Honesty et Jalousie (fais un choix dans la vie) FACE A 1 Intro 02:15 2 Respect (feat. Vinia Mojica) 04 :3 4 3 L'union du son 04:15 4 Demi tour vers le futur 03 :3 7 FACE B 1 Non stop 02:56 2 Sincerité et jalousie 03:15 3 Je conjugue 00:43 4 Salsalliancia 03:22 FACE C 1 Qui paye ses pv 03:43 2 L'original 04:55 3 Psycho funk de l'alliance 04:24 4 Ainsi va la vie 01:01 FACE D 1 Simple et funky 03:41 2 Voulez vous rendez vous 04:03 3 Jamais à l'heure 04:00 Détails sur le produit Dimensions du produit (L x l x h) ‏ : ‎ 0,6 x 31,3 x 31,5 cm; 453,59 grammes Fabricant ‏ : ‎ Parlophone Label ‏ : ‎ Parlophone ASIN ‏ : ‎ B09NDZQN4T Pays d'origine ‏ : ‎ France Nombre de disques ‏ : ‎ 2",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-2lp-alliance-ethnik-simple-et-funky-3431570",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/IP7FE/3431570_1/re/1200x1200/qt/90/3431570_1.jpg",
+    "detected_at": "2026-10-13T09:31:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaque de Signalisation Toilettes Thirard - Plexiglass Adhésif, Design Élégant, Facile à Poser, 170x45mm, Blanc (Vendeur Tiers)",
+    "description": "2,46€ - Amazon Petit prix sympa pour des toilettes ! Si tes toilettes sont aussi sales que la plupart des toilettes publiques, c’est sûrement le moment d’investir dans cette plaque ! Usage pratique : Idéale pour signaler les toilettes, cette plaque adhésive est parfaite pour une utilisation dans les bureaux, restaurants, magasins et établissements publics, offrant une signalétique claire et élégante Dimensions optimales : avec des dimensions de 170 x 45 mm, elle assure une visibilité adéquate tout en s'intégrant harmonieusement dans divers environnements intérieurs Sécurité et robustesse : Fabriquée en plexiglass avec une finition brillante, cette plaque est résistante aux rayures, garantissant une durabilité et une esthétique durable Utilisation et fonctionnement : Facile à poser grâce à son adhésif puissant, elle se fixe aisément sur toutes les surfaces lisses telles que portes et murs, sans nécessiter d'outils supplémentaires Garantie de 2 ans : Ce produit bénéficie d’une garantie de 2 ans, gage de sa qualité et de sa durabilité pour une tranquillité d’esprit assurée",
+    "price": 2.46,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/thirard-plaque-de-signalisation-toilettes-plexiglass-adhesif-design-elegant-facile-a-poser-170-x-45-mm-blanc-3431569",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ugQJt/3431569_1/re/1200x1200/qt/90/3431569_1.jpg",
+    "detected_at": "2026-10-13T09:30:36+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2.46,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Séjour Parc Asterix - Billets pour 4 pour un jour de parc + Une nuit à l'hôtel Les Trois Hiboux + Petit déj + Parking - Mai (69€/pers)",
+    "description": "279,50€ - Showroomprivé Hello ! Voilà une offre sympa pour le Parc Astérix, du 2 au 3 mai 2027 pour 4 personnes au Parc Asterix , vous pourrez profiter d'une entrée au parc avec l'accès au parc pendant un jour, et une nuit d'hôtel avec petit déjeuner compris, à l'hôtel Les Trois Hiboux 3* situé dans le parc, pour 279,50€ soit 69€ par personne avec parking inclus et bornes de recharge pour véhicules électriques (sous réserve de disponibilité). (y) > L'hôtel est noté : 4,5/5 sur Tripavisor 9,6/10 sur Booking ✤ Activités et loisirs Le Parc Astérix propose une multitude d'attractions et de spectacles pour tous les âges : Toutatis : la montagne russe la plus rapide de France, atteignant 110 km/h. OzIris : montagne russe inversée avec des loopings spectaculaires. Goudurix : montagne russe avec 7 inversions pour les amateurs de sensations fortes. Pégase Express : montagne russe familiale avec un parcours en avant et en arrière. La Forêt d'Idéfix : zone dédiée aux plus petits avec des attractions adaptées. Spectacles en direct : plongez dans l'univers gaulois avec des spectacles vivants et interactifs. ✤ L’hôtel Une pause nature et authentique, hors du temps. Situé au cœur de la forêt, l’hôtel Les Trois Hiboux offre l’opportunité de séjourner en famille dans une atmosphère authentique. Des chambres à la décoration naturelle et un restaurant-buffet destiné à tous les goûts vous réserveront une pause détente bien méritée. ✤ Les chambres Durant votre séjour, vous séjournerez dans la chambre de votre choix : Les chambres spacieuses de l’Hôtel Les Trois Hiboux avec mobilier en bois vous offrent le grand confort dans un cadre exceptionnel. Elles sont confortables et bien équipées avec un lit double ou deux lits jumeaux, un accès Wi-Fi et une salle de bain avec baignoire ou douche. Chambre familiale 4 personnes (environ 25 m²) : La chambre dispose d'un lit double et d'un lit superposé. Maximum 3 adultes (12 ans et +).",
+    "price": 279.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sejour-parc-asterix-billets-pour-4-pour-un-jour-de-parc-une-nuit-a-lhotel-les-trois-hiboux-petit-dej-parking-mai-69eurpers-3431568",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Sjukh/3431568_1/re/1200x1200/qt/90/3431568_1.jpg",
+    "detected_at": "2026-10-13T09:28:37+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 279.5,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra d'Action XbotGo Chameleon AI - 4K, 60 FPS (Via Coupon)",
+    "description": "249,99€ - JoyBuy Photographe IA en évolution continue : le XbotGo Chameleon transforme votre smartphone en un photographe alimenté par l'IA.Il offre un suivi sportif automatique, un streaming en direct en temps réel et la génération automatique de highlights à venir, le tout via l'application XbotGo, qui se met régulièrement à jour pour améliorer ses performances et son intelligence. Suivi sportif révolutionnaire : avec l'algorithme xbotVision AI 2.0, XbotGo Chameleon offre un suivi précis pour plus de 20 sports, garantissant une précision inégalée pour les sports d'équipe comme le football et le basket-ball, ainsi que pour les sports individuels tels que la gymnastique etarts martiaux. Montage automatique et diffusion en direct assistés par l'IA : exploitez la puissance de l'IA pour améliorer votre expérience de montage vidéo.Capturez et éditez sans effort des moments époustouflants, créez des montages impressionnants et partagez vos meilleurs moments de sport avec le monde entier grâce au streaming en direct intégré sur les plateformes populaires. Améliorations matérielles supérieures : profitez d'une polyvalence exceptionnelle avec un suivi panoramique à 360° et un objectif IA ultra grand-angle à 120°.Le système d'analyse sportive avancé par IA du Chameleon, son autonomie impressionnante et son design portable en font le choix ultime pour capturer des scènes dynamiques avec un impact visuel. Commandes et accessoires intuitifs : profitez d'une commande intuitive avec une télécommande Bluetooth et l'intégration d'Apple Watch pour des réglages d'angle faciles et des prévisualisations en temps réel.Associez-le au trépied XbotGo T4 pour obtenir une perspective professionnelle de 12 pieds, améliorant ainsi votre expérience de tournage comme jamais auparavant.",
+    "price": 249.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coffrets-cadeaux-pour-les-fans-de-football-xbotgo-chameleon-ai-camera-daction-de-sport-dequipe-4k-60-fps-3431566",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ubOGq/3431566_1/re/1200x1200/qt/90/3431566_1.jpg",
+    "detected_at": "2026-10-13T09:26:58+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 249.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fallout: New Vegas Ultimate Edition sur PC (Dématérialisé - Microsoft Store)",
+    "description": "4,99€ - Xbox Store Content de vous revoir à New Vegas ! Avec l'introduction de l'Ultimate Edition, Bethesda Softworks vous offre la chance de doubler la mise et d'obtenir l'ensemble du pack New Vegas. Pour la première fois dans un même pack, vous pouvez bénéficier de tous les éléments de Fallout: New Vegas, avec la totalité des contenus additionnels acclamés par la critique : Dead Money, Honest Hearts, Old World Blues et Lonesome Road. Et cerise sur le gâteau, vous serez armé grâce aux dernières caches uniques d'armes, de munitions et de recettes issues des plus récentes extensions : Courier’s Stash et Gun Runners Arsenal. Que vous soyez un explorateur chevronné du Mojave ou que vous jouiez au jeu pour la première fois, vous vous rendrez compte qu'il y a plus d'amis et d'ennemis à se faire, plus de conséquences à vos actions et plus d'opportunités de vivre dans la gloire ou dans l'infamie dans les Terres désolées. Vos choix seront plus importants que jamais pour votre survie. - Au-delà des Terres désolées : Le monde de New Vegas est plus étendu que jamais. Chaque zone distincte présente un nouvel ensemble de quêtes, de personnalités remarquables et plus de chances de jouer le sauveur ou le paria envers les habitants de New Vegas. - De superbes nouveaux joujoux : Chaque extension enrichit l'arsenal à votre disposition. Que vous soyez un bagarreur adepte du corps à corps ou un tireur à distance, des armes telles que le Two-Step Goodbye (poings balistiques uniques) ou le Sleepytime (une mitraillette 10mm plutôt pratique) vous aideront à faire naître le guerrier qui sommeille en vous. - Repoussez vos limites : Grâce aux quatre extensions, le niveau maximal passe de 45 à 50. - Dead Money : Attiré dans un piège qui ressemble fort au casino de la Sierra Madre, vous participez à une partie aux enjeux élevés où vous devrez faire équipe avec 3 autres desperados pour survivre. - Honest Hearts : Une expédition en Utah, dans le parc national de Zion tourne au cauchemar et vous vous vous retrouvez impliqué dans une guerre tribale et dans un conflit opposant un missionnaire de New Canaan et le mystérieux Homme brûlé. - Old World Blues : Transporté vers le centre de recherche Big MT, vous êtes engagé pour sauver le Think Tank de ses propres expérimentations qui ont mal tourné. - Lonesome Road : Ulysses, le véritable Courrier Six, vous contacte et promet de dire pourquoi il a refusé de remettre le Jeton de platine au début de Fallout: New Vegas, à condition que vous acceptiez de vous rendre une dernière fois dans les canyons semés d'embûches de la Ligne de partage.",
+    "price": 4.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fallout-new-vegas-ultimate-edition-3431561",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Q9MqE/3431561_1/re/1200x1200/qt/90/3431561_1.jpg",
+    "detected_at": "2026-10-13T09:26:04+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini PC GMKtec K12 Barebone - Ryzen 7 H 255, Radeon 780M, Oculink, 3 Slots M.2 Nvme, 2 x 2,5 Go Ethernet, Wifi 6E & BT5.2",
+    "description": "262,39€ - AliExpress Le K12 revient, moins cher que la dernière fois. C'est pour son implantation plus généreuse qu'il peut se permettre d'être plus cher qu'un AuBox. Souvenez vous qu'il dispose de 3 slots Nvme, et qu'à contrario du Chuwi, son Oculink est directement câblé via le PCB. Alors qu'avec l'usage d'Oculink sur l'AuBox via son module en M.2, il ne reste qu'un unique slot pour Nvme. ☝️ Sans parler évidemment de son ample dimensionnement, hors-norme, très représentative de la politique de GMKtec sur les séries K. (embarrassedflame) Petites vidéos : unboxing, teardown, benchmarks... [shortcode id=\"20619117\"/][shortcode id=\"20619118\"/] ⚙️ Synthèse Processeur : AMD Ryzen 7 H 255 ( 8745HS rebadgé ) Fréquence d'horloge de base : 3,8 GHz Fréquence boost maximale : 4,9 Ghz 8 cores (16 threads via SMT ) TDP nominal de 45W TDP peak de 70W indiqué mais throttle testé à hauteur de 65W, je tiens à le souligner Alors? qu'est-ce qu'il a dans le ventre sinon? Bah, ce qu'on lui connaissait déjà! (coolflame) J'ai là voulu marquer l'écart avec le 6600H (660M) toujours bien en place et le 6800H (680M), qui a été il fut un temps l'ambassadeur du segment à près de 300€, remplacé ensuite qu'il a été par les 7840HS du Gmktec K6 et le 8745HS du Firebat MN56. ☝️ Notebookcheck , avec son comparatif bien plus exhaustif, vient nuancer et mettre un ordre dans la fratrie. Ryzen 7 8745HS → 100% Ryzen 7 8845HS → 109% Ryzen 9 8945HS → 111% On y voit là que les 8845HS et 8945HS sortent plus aisément les muscles. Mais, cela au détriment rappelez-vous du 3ème slot M.2 2280. Et ces écarts expliquent aisément pourquoi nous voyons bien plus d'AuBox ou de K12 avec leur 8745HS à prix promotionnels sur Aliexpress que ses grands frères dotés de NPU. ... Le HX 370, lui, marque l'entrée du 890M et d'un potentiel IA plus accru que le 7840HS, avec une NPU de 50 TOPS contre 10. Car oui, il faut se rappeler que le 8745HS, ou Ryzen 7 H 255, ici présent, en est lui dépossédé, et n'est pas compatible avec le moteur Ryzen AI . Notre bon processeur a un cTDP de 35 à 54W. Contrôle que peuvent apprécier ceux soucieux de la facture énergétique. ⚡ Le produit dispose d'ailleurs de trois modes à ce titre. Comme je l'avais déjà évoqué, la puissance consommée n'est pas, sur une architecture identique, une fonction linéaire. Comme je l'évoquais sur JoL ici : « [La consommation] est proportionnel[le] à la fréquence et au carré de la tension appliquée. » ] Donc sur des travaux légers, autant profiter d'une consommation moindre et d'un confort sonore accru. Vous y êtes gagnants sur tous les plans ! Circuit graphique : Radeon 780M AMD Freesync ( VRR ) Miracast (envoi d'un signal audio-vidéo par Wifi) supporte l'HBR3*, l'UHBR10, l' HDR Metadata et l' Adaptive-Sync ( VRR ) * et comme nous le verrons plus bas, il doit se rabattre dessus Voir un récapitulatif là concernant l'HBR3 et les Metadata. Variable Refresh Rate, ou taux de rafraichissement variable : G-Sync chez Nvidia, Freesync chez AMD, et Adaptive-Sync sous norme VESA . Synchrone entre les fps calculés et ceux affichés par le moniteur pour éviter le tearing. A noter contrairement à l'Adaptative-Sync, que si le moniteur est certifié Freesync, le VRR peut fonctionner sans pour autant que la norme de la connectique réponde à la hauteur de ce qu'elle devrait, normativement ( HDMI 2.1 pour le VRR ! en théorie ), ceci du fait du freesync-over-HDMI. Voir ici concernant les problématiques spécifiques qui peuvent le concerner J'ai finalement effectuée l'étude des IGP AMD que j'avais promise. Je vous renvoie ici pour plus de détails la concernant car elle est à circonstancier. Donc cette petite lecture ne vous sera pas anodine. ☝️ A noter qu'il s'agit là des performances en jeu. Ce pourquoi je n'ai pas vraiment inviter Intel à la fête, leur IGP étant limités pour une telle orientation face à leur concurrence. ❓Mais alors il vaut quoi? bah voyons ça en pratique ! [shortcode id=\"20619119\"/] Sachant que la K12 est parmi les meilleurs implanta",
+    "price": 262.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mini-pc-gmktec-k12-barebone-ryzen-7-h-255-radeon-780m-oculink-3-slots-m2-nvme-2-x-25-go-ethernet-wifi-6e-bt52-3431563",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ED70M/3431563_1/re/1200x1200/qt/90/3431563_1.jpg",
+    "detected_at": "2026-10-13T09:25:36+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 262.39,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque sans fil Xiaomi Redmi Headphones Neo - Bluetooth, Anti-Bruit, Noir ou Bleu",
+    "description": "39,66€ - Amazon.es 【Réduction de bruit】ANC jusqu’à 42 dB bloque les bruits de circulation et de bureau. Trois niveaux manuels + mode adaptatif automatique. 【Audio filaire】Connexion USB filaire compatible téléphone et ordinateur. Sortie audio Hi‑Res sans perte pour un rendu ultra-net et authentique. 【Appels】Trois micros associés à l’IA distinguent votre voix des bruits ambiants pour des communications fluides sur la route. 【Performance sonore】Le grand transducteur 40 mm pour des graves pleins. Diaphragme composite titane offre des aigus brillants et un son équilibré. 【Autonomie】Jusqu’à 72 heures d’écoute par charge complète, adapté aux longs voyages et à une utilisation quotidienne intensive.",
+    "price": 39.66,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/xiaomi-redmi-headphones-neo-casque-bluetooth-sans-fil-anti-bruit-3431559",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2vt59/3431559_1/re/1200x1200/qt/90/3431559_1.jpg",
+    "detected_at": "2026-10-13T09:24:03+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 39.66,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Barre de Son PC Creative Sound Blaster GS5 - 30W RMS, USB, Bluetooth, Optique, avec Écouteurs Zen Air Plus",
+    "description": "76,49€ - Creative Labs La Creative Sound Blaster GS5 revient à 76,49 € livré avec le code AMAZING , et des écouteurs Creative Zen Air Plus sont offerts par le marchand. Une offre surtout intéressante si vous souhaitez les deux produits. Pour obtenir le prix : Ouvrir la fiche GS5 et cliquer sur « Acheter ». Vérifier que les Zen Air Plus apparaissent dans la rubrique « Article(s) gratuit(s) », puis ajouter la barre de son au panier. Appliquer le code AMAZING : 84,99 € − 8,50 € = 76,49 € TTC . Vérifier la présence des Zen Air Plus offerts et la livraison gratuite avant de commander. Aucun autre produit à ajouter pour déclencher le cadeau. Panier contrôlé le 13 octobre 2026 à 11:09 (heure de Paris) : une GS5, une paire de Zen Air Plus offerte, les deux indiqués en stock, total 76,49 € avec expédition gratuite. La quantité réellement disponible reste inconnue. À savoir sur la GS5 : les 60 W mis en avant sont une puissance de crête ; la puissance annoncée en continu est de 30 W RMS (2 × 15 W) . C’est une barre de son compacte sans caisson externe, alimentée sur secteur. Elle possède l’audio USB-C, le Bluetooth 5.3 (codec SBC), une entrée optique TOSLINK, une entrée AUX 3,5 mm et une sortie casque. Pas de HDMI ARC/eARC : pour une TV, vérifier la présence d’une sortie optique ou analogique compatible. Dimensions : 51 × 10,27 × 8,26 cm. Éclairage RGB réglable, modes SuperWide champ proche / champ lointain. Adaptateur secteur 30 W, câble USB-A vers USB-C et télécommande IR inclus. Piles AAA de la télécommande non incluses. Les câbles optique et AUX ne figurent pas dans le contenu du coffret annoncé. Les Zen Air Plus disposent de l’ANC hybride, du mode ambiant, du Bluetooth 5.3 et d’une protection IPX4. Autonomie annoncée : jusqu’à 8 h par charge / 32 h avec le boîtier, ANC et mode ambiant désactivés ; jusqu’à 5 h / 20 h avec ces fonctions activées. Leur LE Audio nécessite un émetteur compatible acheté séparément selon Creative ; aucun émetteur n’est inclus dans cette offre. Livraison Creative Saver annoncée sous 2 à 7 jours ouvrables en France métropolitaine, selon les conditions de livraison . Outre-mer exclu. Le panier conserve ici la livraison gratuite après application du code. Date de fin : les conditions du code consultées confirment les 10 % de remise hors livraison, mais ne précisent pas de date ni d’heure d’expiration. Offre et cadeau à revérifier au moment de commander, sous réserve de disponibilité.",
+    "price": 76.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/barre-de-son-pc-creative-sound-blaster-gs5-30-w-rms-usbbluetoothoptique-ecouteurs-zen-air-plus-offerts-via-code-3431564",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZQqxN/3431564_1/re/1200x1200/qt/90/3431564_1.jpg",
+    "detected_at": "2026-10-13T09:23:51+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 76.49,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
+    "title": "15€ de réduction supplémentaire dès 89€ d'achat sur une sélection Philips",
+    "description": "Cdiscount 15€ de réduction supplémentaire dès 89€ d'achat sur une sélection Philips avec le code PHILIPS15D89 Conditions complètes",
+    "price": 89.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/15eur-de-reduction-supplementaire-des-89eur-dachat-sur-une-selection-philips-3431562",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/1_5/re/1200x1200/qt/90/1_5.jpg",
+    "detected_at": "2026-10-13T09:22:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 89.0,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      }
+    ]
+  },
+  {
     "title": "Marrons glacés morceaux 1KG",
     "description": "33€ OFFRE EXCEPTIONNELLE DU 1er au 31 OCTOBRE. Offre valable en ligne et en boutique. 500g de marrons glacés achetés 500g offerts soit 33€ LE COFFRET D'UN KILO DE GROS MORCEAUX DE MARRONS GLACÉS AU LIEU DE 66€ Nos gros morceaux de marrons glacés sont fabriqués selon un savoir faire artisanal : peu sucrés, onctueux à cœur, légèrement vanillés et enrobés d’un glaçage fin et translucide. CONSEIL DE CONSERVATION: Les morceaux de marrons glacés doivent se conserver dans un endroit frais et sec. Température conseillée 4 à 8°C dans le bas du frigidaire. CONSEIL DE DÉGUSTATION: sortir 30 minutes avant dégustation.",
     "price": null,
@@ -3053,7 +3445,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 32.99,
@@ -3074,7 +3466,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 73.49,
@@ -3095,7 +3487,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 39.99,
@@ -3116,7 +3508,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 449.98,
@@ -3137,7 +3529,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 8.0,
@@ -3158,7 +3550,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 3.99,
@@ -3179,7 +3571,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 10.99,
@@ -3200,7 +3592,7 @@
     "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 2.19,
@@ -3221,7 +3613,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 1999.0,
@@ -3284,7 +3676,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
     "price_history": [
       {
         "price": 10.99,
@@ -8237,90 +8629,6 @@
       {
         "price": 27.99,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque Turtle Beach Recon 50PC - Multiplateforme compatible PS4, PS4 Pro, Nintendo Switch, Appareil mobiles",
-    "description": "24,55€ - Auchan Le TURTLE BEACH Casque Gaming Recon 50PC est conçu pour offrir un confort optimal pendant les longues sessions de jeu. *spécifications du produit:* - Design léger - Oreillers en cuir synthétique - Oreillers repliables pour un stockage facile - Compatible avec PS4, PS4 Pro, Nintendo Switch, appareils mobiles",
-    "price": 24.55,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/turtle-beach-turtle-beach-casque-gaming-recon-50pc-multiplateforme-compatible-ps4-ps4-pro-nintendo-switch-appareil-mobiles-tbs-6003-02-3431239",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/P1H8m/3431239_1/re/1200x1200/qt/90/3431239_1.jpg",
-    "detected_at": "2026-10-12T17:59:38+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 24.55,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "UFC 6 sur PS5",
-    "description": "49,99€ - Auchan La force d'EA SPORTS™ UFC™ 6, ce sont ses combattants. Les systèmes de frappe et mouvement évolués donnent vie aux stars de l'UFC, tandis que les nouveaux modes de jeu introduisent une narration immersive. Préparez-vous au combat.",
-    "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ufc-6-ps5-3431234",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9KJzy/3431234_1/re/1200x1200/qt/90/3431234_1.jpg",
-    "detected_at": "2026-10-12T17:54:44+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pull col rond torsadé Jules – Coupe regular, manches longues, vert, tailles M, L et XL",
-    "description": "16€ - Jules Si vous cherchez un pull simple à porter au quotidien, ce pull col rond torsadé Jules est proposé à -60 % dans le cadre des Jours J. Sa maille texturée avec un point torsadé lui donne un style classique, facile à associer avec un jean ou un chino. La coupe regular permet de le porter sans être trop ajusté, aussi bien seul qu'avec une veste légère. Caractéristiques : Marque : Jules Modèle : pull col rond torsadé Coupe regular, ni trop ajustée ni trop large Manches longues Maille à point torsadé Base et poignets en bord-côtes Coloris : vert Tailles disponibles : M, L et XL Référence : 100873016742 Livraison gratuite en magasin, avec possibilité de réserver l'article en boutique via le Click & Reserve. Les retours sont possibles pendant 90 jours, selon les conditions de Jules. Le modèle affiche également une note de 5/5 sur 3 avis clients, qui soulignent notamment son confort et son style facile à porter.",
-    "price": 16.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pull-col-rond-torsade-jules-coupe-regular-manches-longues-vert-tailles-m-l-et-xl-3431236",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/D4Xfz/3431236_1/re/1200x1200/qt/90/3431236_1.jpg",
-    "detected_at": "2026-10-12T17:53:45+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 16.0,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Indiana Jones and the Staff of Kings sur PS4 & PS5 (dématérialisé)",
-    "description": "2,39€ - PlayStation Store Vivez l’expérience Indiana Jones and the Staff of Kings lancée à l’origine sur la console PlayStation®2, amélioré par des fonctions de rendu, de retour arrière, de sauvegarde rapide et de filtres vidéo personnalisés. MUNISSEZ-VOUS DE VOTRE FOUET et préparez-vous à vivre une aventure palpitante dans la plus grande tradition d'Indiana Jones. Une toute NOUVELLE HISTOIRE vous entraîne au cœur d'une périlleuse quête autour du monde à la recherche du bâton de Moïse. MAÎTRISEZ VOTRE FOUET afin d'éliminer les ennemis, de surmonter les obstacles et de résoudre les casse-tête. UTILISEZ VOTRE ENVIRONNEMENT de manière créative pour tirer votre épingle du jeu, même quand tout semble perdu.",
-    "price": 2.39,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/indiana-jones-and-the-staff-of-kings-3431232",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8DcNG/3431232_1/re/1200x1200/qt/90/3431232_1.jpg",
-    "detected_at": "2026-10-12T17:53:22+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 2.39,
-        "observed_at": "2026-10-12T18:02:17.905969+00:00"
       }
     ]
   }
