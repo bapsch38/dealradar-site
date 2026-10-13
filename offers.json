@@ -1,5 +1,165 @@
 [
   {
+    "title": "Hazet 198-8 Mesurette",
+    "price": 25.0,
+    "reference_price": 37.78,
+    "discount_percent": 33.83,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B007IQX2QS",
+    "image_url": "https://m.media-amazon.com/images/P/B007IQX2QS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:54",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 25.0,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TAMS Elektronik 51-04118-01-C ...oire pour module de base Hades",
+    "price": 10.28,
+    "reference_price": 36.34,
+    "discount_percent": 71.71,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07K7PPC39",
+    "image_url": "https://m.media-amazon.com/images/P/B07K7PPC39.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:52",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.28,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS TOOLS 911.1344 Douille tour... KS 1/2 XZN, M12 longueur55 mm",
+    "price": 5.0,
+    "reference_price": 17.08,
+    "discount_percent": 70.73,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NYQWTK",
+    "image_url": "https://m.media-amazon.com/images/P/B001NYQWTK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:51",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.0,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "EPSON KIT Maint WF78/ET58/ET166/L65, Noir",
+    "price": 25.99,
+    "reference_price": 32.52,
+    "discount_percent": 20.08,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B085LR8Q6N",
+    "image_url": "https://m.media-amazon.com/images/P/B085LR8Q6N.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Whisker Waters Playstation 5 - Import Europe",
+    "price": 21.79,
+    "reference_price": 30.99,
+    "discount_percent": 29.69,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CSZ88L91",
+    "image_url": "https://m.media-amazon.com/images/P/B0CSZ88L91.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:43",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 21.79,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ABUS Cadenas Granit 37/55HB50 ...Haute, Acier Trempé, Niveau 10",
+    "price": 92.89,
+    "reference_price": 124.98,
+    "discount_percent": 25.68,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B014USEO4U",
+    "image_url": "https://m.media-amazon.com/images/P/B014USEO4U.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:42",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 92.89,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "GLORIOUS The Glorious GMMK Compact Clavier",
+    "price": 79.99,
+    "reference_price": 89.95,
+    "discount_percent": 11.07,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07L32V19W",
+    "image_url": "https://m.media-amazon.com/images/P/B07L32V19W.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:41",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Canon PP-201 Papier Photo Brillant Format A3+ (20 feuilles)",
+    "price": 40.49,
+    "reference_price": 46.0,
+    "discount_percent": 11.98,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00126I3M8",
+    "image_url": "https://m.media-amazon.com/images/P/B00126I3M8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:20:39",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 40.49,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
     "title": "Equip 606146 Câble patch fin catégorie 6A F/FTP Rouge 3 m",
     "price": 5.11,
     "reference_price": 13.11,
@@ -403,7 +563,7 @@
     "title": "Tefal - Bouilloire Thermo Prot... Froides - 1,5 L - Inox - Noir",
     "price": 29.99,
     "reference_price": 34.99,
-    "discount_percent": 14.29,
+    "discount_percent": 14.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DXQ9SZBQ",
     "image_url": "https://m.media-amazon.com/images/P/B0DXQ9SZBQ.01._AC_SL1500_.jpg",
@@ -411,7 +571,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 29.99,
@@ -423,7 +583,7 @@
     "title": "Lenovo Sacoche de transport po...) Sac à dos décontracté, noir.",
     "price": 21.99,
     "reference_price": 29.94,
-    "discount_percent": 26.55,
+    "discount_percent": 26.6,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B075Y72PHZ",
     "image_url": "https://m.media-amazon.com/images/P/B075Y72PHZ.01._AC_SL1500_.jpg",
@@ -431,7 +591,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 21.99,
@@ -451,7 +611,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 29.32,
@@ -463,7 +623,7 @@
     "title": "Bosch Professional 18V System ...XX, sans batterie ni chargeur)",
     "price": 283.23,
     "reference_price": 377.05,
-    "discount_percent": 24.88,
+    "discount_percent": 24.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DQV6ZVVK",
     "image_url": "https://m.media-amazon.com/images/P/B0DQV6ZVVK.01._AC_SL1500_.jpg",
@@ -471,7 +631,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 283.23,
@@ -491,7 +651,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 366.69,
@@ -503,7 +663,7 @@
     "title": "Akyga AK-HD-05A Câble HDMI Hig...Full HD 4K pour Prise TV 50 cm",
     "price": 6.72,
     "reference_price": 15.71,
-    "discount_percent": 57.22,
+    "discount_percent": 57.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07TXJXPBR",
     "image_url": "https://m.media-amazon.com/images/P/B07TXJXPBR.01._AC_SL1500_.jpg",
@@ -511,7 +671,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 6.72,
@@ -523,7 +683,7 @@
     "title": "Leitz, Pochettes de plastifica...ieuses à chaud A4 et A3, 33818",
     "price": 11.48,
     "reference_price": 24.14,
-    "discount_percent": 52.44,
+    "discount_percent": 52.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B000OIQB0G",
     "image_url": "https://m.media-amazon.com/images/P/B000OIQB0G.01._AC_SL1500_.jpg",
@@ -531,7 +691,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 11.48,
@@ -543,7 +703,7 @@
     "title": "hünersdorff GmbH Doppelkaniste..., 14,5 x 30,8 x 25,4 cm 804000",
     "price": 13.99,
     "reference_price": 20.57,
-    "discount_percent": 31.99,
+    "discount_percent": 32.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00TA33SMU",
     "image_url": "https://m.media-amazon.com/images/P/B00TA33SMU.01._AC_SL1500_.jpg",
@@ -551,7 +711,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 13.99,
@@ -563,7 +723,7 @@
     "title": "Makita E-05658 Genouillères renforcées",
     "price": 39.54,
     "reference_price": 49.9,
-    "discount_percent": 20.76,
+    "discount_percent": 20.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B08L6V7YRM",
     "image_url": "https://m.media-amazon.com/images/P/B08L6V7YRM.01._AC_SL1500_.jpg",
@@ -571,7 +731,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 39.54,
@@ -583,7 +743,7 @@
     "title": "BONKOTE 0FMPEN Stylo de flux p... verre non rempli, volume 7 ml",
     "price": 19.61,
     "reference_price": 25.02,
-    "discount_percent": 21.62,
+    "discount_percent": 21.6,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00M1NPAYA",
     "image_url": "https://m.media-amazon.com/images/P/B00M1NPAYA.01._AC_SL1500_.jpg",
@@ -591,7 +751,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
     "price_history": [
       {
         "price": 19.61,
@@ -1191,7 +1351,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:04:39.799432+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 12.9,
@@ -1211,7 +1371,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:04:39.799432+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 10.2,
@@ -1231,7 +1391,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:04:39.799432+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 22.99,
@@ -3296,6 +3456,10 @@
       {
         "price": 22.49,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 22.49,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3316,6 +3480,10 @@
       {
         "price": 18.45,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 18.45,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3336,6 +3504,10 @@
       {
         "price": 36.39,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 36.39,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3356,6 +3528,10 @@
       {
         "price": 13.99,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3376,6 +3552,10 @@
       {
         "price": 27.97,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 27.97,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3396,6 +3576,10 @@
       {
         "price": 21.29,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 21.29,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3416,6 +3600,10 @@
       {
         "price": 19.99,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3436,6 +3624,10 @@
       {
         "price": 20.86,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 20.86,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3456,6 +3648,10 @@
       {
         "price": 11.57,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 11.57,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -3476,6 +3672,10 @@
       {
         "price": 59.54,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 59.54,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -4652,6 +4852,111 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hogwarts Legacy : L'heritage de Poudlard sur Xbox Series X (via retrait en magasin)",
+    "description": "9,99€ - Micromania Zing Hogwarts Legacy: L'Héritage de Poudlard est un jeu de rôle (RPG) et d'action-aventure immersif en monde ouvert qui se déroule dans l'univers des livres Harry Potter. Embarquez dans un voyage à travers des lieux familiers, et d'autres nouveaux, découvrez des animaux fantastiques, personnalisez votre personnage, préparez des potions, maîtrisez les sortilèges, développez vos talents et devenez le sorcier que vous avez toujours rêvé d'être. Le Poudlard des années 1800 vous attend ! Vous y incarnez un élève détenant la clé d'un secret antique qui menace d'anéantir le monde des sorciers. Découvrez la vie à Poudlard, forgez des alliances, combattez des mages noirs et façonnez le destin du monde des sorciers. Votre héritage dépend de vous. Écrivez votre propre histoire.Pr écommandez maintenant pour obtenir la monture d'Hippogriffe d'Onyx.",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/hogwarts-legacy-lheritage-de-poudlard-xbox-series-x-uniquement-via-retrait-en-magasin-3431869",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CfmvA/3431869_1/re/1200x1200/qt/90/3431869_1.jpg",
+    "detected_at": "2026-10-13T17:11:29+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lampe Frontale LED Rechargeable Super Lumineux-10 Modes (vendeur tiers)",
+    "description": "13,99€ - Amazon 10 Modes & Détecteur de Mouvement: Projecteur et éclairage diffus, 5 modes standards + 5 modes à détection : XPG blanc, COB blanc, XPG+COB blanc, COB rouge fixe, COB rouge clignotant. Commande par geste, accessoire mains‑libres idéal pour l’extérieur. Variateur Progressif & Mémoire Intelligente: Maintenez le bouton pour régler la luminosité de 100 % à 30 %. Elle conserve le dernier mode, réinitialise la luminosité au max à l’allumage ; démarrage pleine puissance sans tâtonner dans l’obscurité. Batterie Améliorée 1400 mAh & Recharge USB‑C: La batterie intégrée de 1400 mAh se charge en 2,5 h avec le câble fourni, offrant jusqu’à 8 h d'autonomie (selon le mode). Parfaite pour le camping, longs travaux extérieurs et situations d’urgence.Réglable, Confortable & Ergonomique: Bandeau élastique pour un maintien sûr sans pression. Tête de lampe inclinable à 45°. Trois boutons distincts ; bouton d’alimentation en relief, facile à repérer dans l’obscurité. Excellent cadeau pour famille et amis. Compacte, Portable & Robuste: Boîtier ABS résistant, conception étanche contre les intempéries. Idéale pour course, pêche, vélo, promenades canines, festivals, randonnée, bricolage, spéléologie. Lampe frontale fiable, fournie avec 4 clips pour casque.",
+    "price": 13.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lampe-frontale-led-rechargeable-super-lumineux-10-modes-vendeur-tier-3431867",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FRc9p/3431867_1/re/1200x1200/qt/90/3431867_1.jpg",
+    "detected_at": "2026-10-13T17:10:43+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Battlefield 6 sur PC (dématérialisé)",
+    "description": "27,99€ - Steam L'expérience de guerre totale ultime. Participez à des combats d'infanterie intenses aux quatre coins du monde. Dominez les cieux dans des combats aériens. Démolissez votre environnement pour profiter d'un avantage stratégique. Exercez un contrôle total sur chaque action et mouvement grâce au système de combat kinesthésique. Dans une guerre de chars, d'avions de chasse et d'arsenaux massifs, le plus redoutable, c'est votre escouade. Bienvenue dans Battlefield 6. La victoire comme vous l'entendez. Battlefield 6 vous offre plus de façons de gagner que jamais. Triomphez sur des cartes gigantesques ou participez à des combats rapprochés au rythme effréné. Changez les règles de la guerre grâce à un Battlefield Portal repensé et amélioré. Combattez au Caire, à Brooklyn, à Gibraltar, au Japon et dans bien d'autres lieux emblématiques. Toujours plus de façons de jouer. Toujours plus de chemins vers la victoire. Pilotez des chars dans le Sahara. Prenez d'assaut les plages de Gibraltar. Défendez New York contre une invasion. Rejoignez une escouade d'élite de Fusiliers marins luttant sans relâche pour sauver un monde au bord de l'effondrement. Redessinez la ligne de front. Battlefield Portal est un immense bac à sable qui permet aux créateurs et aux créatrices de contenu ainsi qu’aux joueurs et aux joueuses de repousser les limites de Battlefield. Exercez un contrôle inédit sur votre environnement en déplaçant, redimensionnant et dupliquant des objets. Créez un mode de jeu entièrement unique grâce à une interface personnalisable et des scripts permettant de programmer les PNJ. Des expériences Battlefield légendaires n'attendent que d'être créées : montrez-leur de quoi vous êtes capable. Le nouveau système de combat kinesthésique de Battlefield vous permet d'être plus en phase avec votre soldat et votre environnement que jamais. Grâce à l'amélioration du combat armé et du déplacement tactique, qu'il s'agisse du sprint accroupi ou de la réanimation d'alliés en les traînant au sol, les tirs et les mouvements sont plus intuitifs et précis. Dominez la terre, les airs et les mers dans une guerre totale mêlant combats d'infanterie et de véhicules, jeu en équipe basé sur les classes et immersion audiovisuelle à la pointe de la technologie. Navires de guerre, avions de chasse, chars, lance-roquettes parachutés, artillerie lourde et combats d'infanterie intenses : dans Battlefield, la guerre est partout. La destruction est une arme : transformez votre véhicule en machine de destruction, enterrez une escouade sous les décombres, démolissez votre environnement pour prendre un avantage tactique. Plus réactifs et précis que jamais, les signaux audiovisuels indiquent exactement la quantité d'efforts à fournir pour détruire un élément. Maîtrisez votre environnement pour donner l'avantage à votre escouade.",
+    "price": 27.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/battlefield-6-sur-pc-dematerialise-steam-3431865",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jrDSz/3431865_1/re/1200x1200/qt/90/3431865_1.jpg",
+    "detected_at": "2026-10-13T17:07:48+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 27.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Moustiquaire magnétique pour Porte, 95x210 cm (vendeur tiers)",
+    "description": "6,16€ - Amazon Moustiquaire magnétique pour Porte, 95x210 cm Rideau de Porte Antimoustique, Noir Moustiquaire Mailles ultra fines pour Couloirs, Portes, Patio, Fermeture Automatique À propos de ce produit Amélioration de la Qualité : utilisation d'aimants agrandis et allongés avec un compartiment silencieux intégré qui se ferme en une seconde sans faire de bruit. Velcro amélioré et plus large, plus large en haut à 4 cm pour une fixation plus stable et sans chute. Barre de gravité coupe-vent en bas pour une meilleure résistance au vent du Moustiquaire. Amélioration des Matériaux : par rapport aux autres modèles, notre Moustiquaire est fabriqué en gaze de soie de glace épaissie, qui présente une meilleure résistance à la déchirure et à l'abrasion et durera des années, et qui est plus écologique et plus esthétique. Physiquement à l'abri des moustiques, adapté aux animaux domestiques et aux enfants, avec une bonne perméabilité à la lumière et à l'air, idéal pour les patios, terrasses, balcons, etc. Différentes Tailles : nous avons des centaines de tailles parmi lesquelles vous pouvez choisir. Moustiquaire ne peut pas être coupé pour s'adapter à votre cœur. Veuillez mesurer soigneusement la taille selon les instructions avant de passer votre commande. Veuillez mesurer le cadre intérieur de la porte et acheter une taille d'au moins (largeur + 4) x (hauteur + 4). Nous vous recommandons d'acheter le plus grand plutôt que le plus petit. Facile à Installer et à Retirer : super facile à installer. Aucune vis, aucun clou ou autre outil n'est nécessaire. Le velcro inclus convient aux cadres de porte plats de tous les matériaux. Les cadres de porte en bois inégaux peuvent être renforcés par des clous. Garantie de Qualité à 100 % : la taille du produit étant mesurée à la main, il peut y avoir une erreur de 1 à 3 cm dans la taille, ce qui est normal. Si vous avez besoin d'ajuster la taille ou si vous avez un problème après l'achat, n'hésitez pas à nous contacter via le formulaire de commande. Vous obtiendrez une réponse satisfaisante dans les 24 heures. Commentaires client",
+    "price": 6.16,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/moustiquaire-magnetique-pour-porte-95x210-cm-3431864",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yd9bS/3431864_1/re/1200x1200/qt/90/3431864_1.jpg",
+    "detected_at": "2026-10-13T17:06:23+00:00",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 6.16,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaise Suspendue Yitahome Oeuf avec Coussin",
+    "description": "69,99€ - Amazon Fauteuil Hamac Suspendu Extérieur/Intérieur avec Porte-gobelet, Siège Pendentif en Rotin pour Jardin Terrasse Balcon Salon Max 150kg À propos de ce produit Chaise Œuf Confortable pour la Détente Extérieure : Ce fauteuil suspendu YITAHOME combine un cadre en acier robuste avec un tissage en rotin durable. Cette structure lui confère une excellente stabilité tout en restant légère. L'assise est équipée d'un coussin moelleux en coton PP, garantissant un confort optimal pour vos moments de relaxation en toute sécurité Installation Simple & Rangement Gain de Place : Grâce à son système de pliage ingénieux, cette chaise hamac suspendue s'ouvre en un instant sans outillage. Lorsqu’elle n’est pas utilisée, elle se replie facilement pour occuper un minimum d’espace de rangement Espace Généreux pour un Confort Total : Avec une hauteur totale de 195 cm, une hauteur de panier de 105 cm et une largeur de 74 cm, ce siège suspendu s’adapte facilement à tous vos espaces. Il offre suffisamment de place pour qu’un adulte puisse s’y lover confortablement Construction Durable & Design Contemporain : Ce fauteuil suspendu œuf allie une esthétique moderne au rotin PE résistant et une forme ergonomique en coque. Il constitue un véritable accent décoratif pour votre jardin, votre terrasse ou votre balcon Utilisation Polyvalente – Intérieur & Extérieur : Cette chaise balançoire suspendue est parfaite pour le jardin, le balcon, la chambre, la terrasse, près de la piscine ou sur la pelouse. C’est le complément idéal pour embellir et optimiser vos espaces de vie, aussi bien à l’intérieur qu’à l’extérieur Commentaires client",
+    "price": 69.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaise-suspendue-oeuf-avec-coussin-3431863",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/UadYr/3431863_1/re/1200x1200/qt/90/3431863_1.jpg",
+    "detected_at": "2026-10-13T17:03:32+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -10267,337 +10572,6 @@
       {
         "price": 2.19,
         "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Vidéoprojecteur Xgimi Horizon 30 Pro - avec Accessoires",
-    "description": "1 999€ - Xgimi Petite offre de précommande pour le futur best seller de Xgimi. -500€ + Support pied ou plafond + 2 paires de lunettes 3D Actives . Pack HORIZON 30 Pro avec fixation de plafond XGIMI (2026) : Comprend : HORIZON 30 Pro + une fixation de plafond XGIMI (2026) + 2 paires de lunettes 3D actives + un coupon XGIMI Ascend de 500 € Pack HORIZON 30 Pro avec pied de sol XGIMI (gris éléphant) : Comprend : HORIZON 30 Pro + un pied de sol XGIMI (gris éléphant) + 2 paires de lunettes 3D + un coupon XGIMI Ascend de 500 € 4 800 lumens ISO, luminosité triple laser : Jusqu'à 4 800 lumens ISO et une couverture colorimétrique de 110 % BT.2020 offrent des images vives et fidèles, avec une luminosité, une profondeur et une clarté remarquables. Double iris intelligent, contraste natif de 8 000:1 : Le système à double iris contrôle dynamiquement la lumière pour des noirs plus profonds, des hautes lumières plus éclatantes et des détails plus riches dans les ombres, même dans les scènes les plus sombres. 4K 120 Hz, fluidité nouvelle génération : Profitez de mouvements plus fluides, de détails en mouvement plus nets et d'un effet arc-en-ciel considérablement réduit grâce à un véritable taux de rafraîchissement 4K 120 Hz, idéal pour les films, le sport et les jeux vidéo. Optique sans perte, installation flexible : Le lens shift flexible et le zoom optique vous offrent plus de liberté pour positionner et dimensionner l'image sans compromettre la clarté, avec des images nettes et sans distorsion dans un large éventail d'installations. Gaming sur grand écran, latence ultra-faible : Une latence d'entrée de 1 ms, le VRR, l'ALLM et la certification AMD FreeSync™ offrent une réactivité extrême sur grand écran, avec des visuels de jeu HDR réglés pour une immersion totale et un contrôle précis.",
-    "price": 1999.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-xgimi-horizon-30-pro-accessoires-3431543",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gcsqL/3431543_1/re/1200x1200/qt/90/3431543_1.jpg",
-    "detected_at": "2026-10-13T08:55:21+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 1999.0,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Technic 42215 - Pelleteuse Volvo EC500 hybride",
-    "description": "239,99€ - Carrefour À 399.99 € chez LEGO 5% supplémentaires via bourso Plongez dans un projet de construction immersif en recréant les détails du set Pelleteuse Volvo EC500 hybride LEGO Technic (42215). La construction n’est que la première étape avec ce véhicule motorisé riche en fonctions. Testez votre pelleteuse en démarrant le moteur et la transmission pour explorer ses fonctionnalités. Utilisez le levier pour sélectionner l’une des 4 fonctions actionnant la flèche, le bras, le marteau et la pelle LEGO. Les portes de la cabine s’ouvrent manuellement, les chenilles bougent et la cabine pivote. Avec ses mouvements réalistes, ce set constitue un superbe cadeau pour les adultes passionnés de véhicules de chantier et de sets LEGO complexes. Exprimez votre passion pour les véhicules haute performance en vous plongeant dans la construction des modèles de la collection LEGO Technic pour adultes. L’application LEGO Builder propose une version numérique des instructions de montage incluses dans la boîte. Contient 2 359 pièces.",
-    "price": 239.99,
-    "reference_price": 399.99,
-    "discount_percent": 40.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pelleteuse-volvo-ec500-hybride-lego-technic-42215-3431542",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6yHRZ/3431542_1/re/1200x1200/qt/90/3431542_1.jpg",
-    "detected_at": "2026-10-13T08:54:04+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 239.99,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Écran PC 27\" Acer Nitro KG270W5 - Full HD IPS, 260 Hz via DP (240 Hz HDMI), FreeSync Premium",
-    "description": "89,99€ - Acer Le Acer Nitro KG270W5 est à 89,99 € livré sur la boutique Acer France, sans code promo ni ODR. Le total a été vérifié dans le panier le 13 octobre : 89,99 € TTC, expédition gratuite. Acer affiche un prix barré de 129,99 €. Une offre intéressante pour un écran IPS de 27 pouces à haute fréquence, notamment pour jouer en Full HD avec un budget limité. À bien prendre en compte : il s’agit d’un 27″ Full HD (1920 × 1080), pas d’un écran QHD. Le pied est inclinable, mais ne se règle pas en hauteur. Le maximum annoncé est de 260 Hz via DisplayPort et 240 Hz via HDMI. La fréquence maximale dépend aussi de la source et du réglage utilisé. Caractéristiques du modèle UM.HX0EE.506 : Dalle IPS plate de 27″, format 16:9, angles de vision 178°. AMD FreeSync Premium. 1 DisplayPort, 2 HDMI et sortie audio/casque. Haut-parleurs intégrés : 2 × 2 W. Luminosité annoncée : 250 cd/m² ; contraste natif : 1 000:1. Pied inclinable de −5° à +25° ; fixation VESA 100 × 100 mm. Câbles DisplayPort, HDMI et cordon secteur inclus d’après Acer. Garantie standard annoncée : 2 ans. Le HDR10 est pris en charge, mais le label « HDR Ready » et la luminosité de 250 cd/m² ne doivent pas faire attendre un rendu HDR haut de gamme. À courte distance, le Full HD sur 27″ est aussi moins fin qu’un 27″ QHD. Le produit est indiqué en stock , avec une livraison annoncée sous 1 à 5 jours ouvrés. La campagne du 50e anniversaire Acer , dans laquelle figure cet écran, se termine le 3 novembre 2026 à 9 h , ou plus tôt en cas d’épuisement des stocks. Le prix et la disponibilité restent à vérifier au moment de commander.",
-    "price": 89.99,
-    "reference_price": 129.99,
-    "discount_percent": 30.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-acer-nitro-kg270w5-full-hd-ips-260-hz-via-dp-240-hz-hdmi-freesync-premium-3431541",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RCpX3/3431541_1/re/1200x1200/qt/90/3431541_1.jpg",
-    "detected_at": "2026-10-13T08:53:54+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 89.99,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Plaquettes Ventillées Organiques SHIMANO J05A-RF",
-    "description": "10,99€ - Probikeshop Les Plaquettes Organiques SHIMANO J05A-RF XTR/XT/SLX/DEORE/ALFINE /ULTEGRA sont destinées aux freins à disque des groupes VTT (2 pistons) et Route de la marque nipponne. Leur garniture organique leur accorde davantage de mordant que des plaquettes métalliques. Ce modèle vient remplacer les J03A. Elles sont aussi plus silencieuses. Ce modèle est l'un des plus performant de la gamme de plaquette de Shimano, elles proposent une excellente précision de freinage afin de ne perdre le moins de temps en descente. Ref: 7977576300710 Points forts Moins de bruit ; Performance en toute situation ; Pour conditions sèches et humides. Caractéristiques Compatibilité Marque : SHIMANO Goupille Fournie : Oui Ressort Fourni : Oui Type de Garniture : Organique Type de Support : Aluminium Informations techniques Plaquette organique; Compatibilité : BR-M9000, BR-M9020, BR-M987, BR-M985, BR-M8100, BR-M8000, BR-M785, BR-M7100, BR-M7000, BR-M675, BR-M666, BR-M6100, BR-M6000, BR-M615, BR-S700, BR-RS785, BR-R785",
-    "price": 10.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/plaquettes-shimano-jo5a-rf-3431540",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/mKRGk/3431540_1/re/1200x1200/qt/90/3431540_1.jpg",
-    "detected_at": "2026-10-13T08:52:34+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de pulls en cachemire Galerie Lafayette - ex: Pull homme Nachron uni cachemire rouge grenade, tailles S à XXL",
-    "description": "59€ - BAZARCHIC Pulls homme 100 % cachemire dès 49 € au lieu de 99,99 € : jusqu'à -70 % chez BazarChic BazarChic propose actuellement une vente privée Galeries Lafayette Cachemire , avec une sélection de 64 articles pour homme , comprenant des pulls, gilets et pantalons en cachemire à prix réduits. Plusieurs modèles 100 % cachemire sont proposés dès 49 € , avec des remises intéressantes sur différents coloris et coupes. Quelques exemples de promotions : Pull Nachron 100 % cachemire, col rond, rose : 49 € au lieu de 129 € (-62 %) Pull Nachron 100 % cachemire, col V, rose : 49 € au lieu de 129 € (-62 %) Pull Nachron 100 % cachemire, col rond, bordeaux : 59 € au lieu de 129 € (-54 %) Pull Nachron 100 % cachemire, col rond, bleu canard : 59 € au lieu de 129 € (-54 %) Pull Nachve 100 % cachemire, col V, bordeaux : 49 € au lieu de 99,99 € (-50 %) Pull Rachmok 100 % cachemire, col montant, camel : dès 59 € au lieu de 139 € (-57 %) Gilet zippé Nachgil 100 % cachemire, bleu clair : 69 € au lieu de 139 € (-50 %) ✅ À retenir : Plusieurs modèles 100 % cachemire Col rond, col V, col montant, col roulé et gilets Nombreux coloris ️ Réductions affichées jusqu'à -70 % sur la vente Expédition annoncée sous 5 jours Livraison estimée entre le 16 et le 22 octobre Une sélection intéressante pour s'équiper en pulls en cachemire à l'approche de l'hiver, avec plusieurs modèles sous la barre des 60 €.",
-    "price": 49.0,
-    "reference_price": 99.99,
-    "discount_percent": 51.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-pull-en-cachemire-galerie-lafayette-ex-pull-nachron-uni-cachemire-rouge-grenade-tailles-s-a-xxl-3431538",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5OD2r/3431538_1/re/1200x1200/qt/90/3431538_1.jpg",
-    "detected_at": "2026-10-13T08:51:54+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 49.0,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coffret de pâte à modeler Play-Doh La Cuisine des Petits Chefs, dès 3 ans",
-    "description": "34,90€ - Amazon Inclus : coffret de cuisine avec 4 accessoires pour la machine à pâtes, poêle, casserole, lecteur de cartes et carte de crédit factices, bol, assiette, 2 couteaux factices, spatule, fourchette, rouleau, 2 contenants Play-Doh en forme d'aliment et 6 pots de pâte à modeler Play-Doh (poids net : 453 g).",
-    "price": 34.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/play-doh-cuisine-des-petits-chefs-3431539",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/04huw/3431539_1/re/1200x1200/qt/90/3431539_1.jpg",
-    "detected_at": "2026-10-13T08:50:03+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:39:37.144636+00:00",
-    "price_history": [
-      {
-        "price": 34.9,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Play doh coffret tourbillon de smoothies",
-    "description": "8,99€ COFFRET DE PÂTE À MODELER POUR ENFANTS : on appuie sur le couvercle du mélangeur pour mélanger les ingrédients ensemble et créer des smoothies factices multicolores, pour un jeu de cuisine qui occupera pendant des heures DES TOURBILLONS ET DES SMOOTHIES COLORÉS : on peut imaginer toutes sortes d'ingrédients. On peut créer des avocats roses, des bananes bleues et des cubes de glace verts ! Un jouet de cuisine rigolo avec plein de couleurs à découvrir UNE ACTIVITÉ MANUELLE AVEC DES CRÉATIONS LOUFOQUES ET AMUSANTES : de la crème fouettée factice jaune et verte ? Pourquoi pas ! Laissez vos enfants exprimer leur créativité avec toute une gamme de couleurs IDÉAL POUR LES JEUX IMAGINATIFS ENTRE AMIS OU AVEC LA FAMILLE : les enfants peuvent faire semblant de gérer leur propre bar à smoothies en versant le contenu dans des tasses et partager leurs créations avec des amis. UNE INITIATION À L'ART DÈS LE PLUS JEUNE ÂGE : disponible à parti de 3 ans, les garçons et les filles pourront faire une activité manuelle ludique et apprendront à s'amuser tout en créant et en expérimentant avec les couleurs",
-    "price": 8.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/play-doh-coffret-tourbillon-de-smoothies-3431536",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/OuAKZ/3431536_1/re/1200x1200/qt/90/3431536_1.jpg",
-    "detected_at": "2026-10-13T08:47:59+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:50:08.725157+00:00",
-    "price_history": [
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T08:50:15.387360+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Nouveaux clients] 80€ offerts en ouvrant un compte jusqu'au 23/10",
-    "description": "LCL [Nouveaux clients] 80€ offerts en ouvrant un compte jusqu'au 23/10/2026 Du 15 septembre au 23 octobre 2026, ouvrez votre compte sur l’appli LCL Mes Comptes et souscrivez au service de mobilité interbancaire(3) pour bénéficier de 80€ offerts. (1) Pour souscrire à l’offre de bienvenue, le prospect doit être une personne physique majeure capable, résidente fiscale française et ne pas être client ou avoir été client LCL. Offre valable jusqu’au 23/10/2026. Conditions en vigueur au 15/09/2026 susceptibles d’évolution. (2) La prime de bienvenue est de 80€ pour une ouverture de compte sur l’appli LCL Mes Comptes avec la souscription au service de mobilité bancaire. La demande de mobilité bancaire doit être signée dans le mois qui suit l'ouverture de compte. La prime sera créditée sur le compte du nouveau client sous 4 mois après l’entrée en relation.",
-    "price": 80.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-80eur-offerts-en-ouvrant-un-compte-jusquau-2310-3431535",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/dkCSX/3431535_1/re/1200x1200/qt/90/3431535_1.jpg",
-    "detected_at": "2026-10-13T08:47:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:50:08.725157+00:00",
-    "price_history": [
-      {
-        "price": 80.0,
-        "observed_at": "2026-10-13T08:50:15.387360+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coffret de 25 embouts de vissage DeWalt Toughcase DT71521-QZ - PZ2, 25mm x 25",
-    "description": "5€ - Amazon Petit boîtier solide et ergonomique. Les embouts de tournevis sont de très bonne qualité. Particulièrement adapté aux tâches de vissage répétitives. Trépan durci pour plus de solidité et de durabilité. Embouts à usage professionnel idéaux pour insérer des fixations dans le bois, le métal, le plastique et les cloisons sèches. Embouts 25mm: PZ2 x 25.",
-    "price": 5.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coffret-de-25-embouts-de-vissage-dewalt-toughcase-dt71521-qz-pz2-25mm-x-25-3431534",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Z5lX5/3431534_1/re/1200x1200/qt/90/3431534_1.jpg",
-    "detected_at": "2026-10-13T08:44:54+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:50:08.725157+00:00",
-    "price_history": [
-      {
-        "price": 5.0,
-        "observed_at": "2026-10-13T08:50:15.387360+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu The Crew Motorfest sur Switch 2",
-    "description": "39,99€ - Cdiscount The Crew Motorfest débarque sur Nintendo Switch 2 avec son expérience de course en monde ouvert, dans un décor inspiré des îles hawaïennes. Au programme : exploration des îles d'O'ahu, Maui et Kauai, courses urbaines, épreuves tout-terrain, drift et nombreuses playlists thématiques autour de la culture automobile. Le jeu permet de collectionner et personnaliser des centaines de véhicules, avec des activités renouvelées au fil des saisons. Informations : - Plateforme : Nintendo Switch 2 - Genre : course automobile en monde ouvert - Format : carte clé de jeu - Sortie : 8 octobre 2026 - PEGI 12 - Jouable en mode portable, sur table ou sur téléviseur ⚠️ À savoir avant d'acheter : le jeu nécessite une connexion Internet permanente et un compte Ubisoft. La carte clé de jeu nécessite également de télécharger le jeu, qui occupe environ 58,5 Go. Un abonnement Nintendo Switch Online est nécessaire pour les fonctionnalités multijoueur en ligne. À 39,99 €, le tarif est intéressant pour une nouveauté, mais pensez à vérifier les frais de livraison Cdiscount avant de valider. Le même prix est disponible livraison incluse chez certains concurrents.",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-the-crew-motorfest-sur-switch-2-3431533",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/OLtf7/3431533_1/re/1200x1200/qt/90/3431533_1.jpg",
-    "detected_at": "2026-10-13T08:44:52+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:51:38.638184+00:00",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-13T08:50:15.387360+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de Société Dobble Asmodee Disney",
-    "description": "12,50€ - Amazon PRINCIPE DU JEU : Dobble Disney est un jeu de société où l'objectif principal est de repérer rapidement des symboles identiques entre deux cartes. Chaque carte du jeu présente une série de symboles des univers Disney et Pixar, et il n'y a qu'un seul symbole commun entre deux cartes données. RAPIDITE ET OBSERVATION : Le jeu stimule plusieurs compétences chez les joueurs, notamment la rapidité d'observation, la concentration et les réflexes. En cherchant les symboles communs, les joueurs améliorent leur capacité à identifier des correspondances rapidement. UNIVERS DISNEY ET PIXAR : Ce jeu propose des illustrations basées sur les personnages et les films populaires de Disney, ce qui le rend particulièrement attrayant pour les enfants et les fans de Disney. Les joueurs peuvent ainsi retrouver des figures emblématiques comme Mickey Mouse, Stitch, La Petite Sirène et bien d'autres. UN JEU RAPIDE ET FACILE A APPRENDRE : Dobble Disney est facile à apprendre et à jouer, ce qui le rend accessible à un large public, y compris les jeunes enfants. Les règles sont simples et le jeu peut être expliqué en quelques minutes, permettant des parties rapides et dynamiques. PLUSIEUR VARIANTES DE JEU : Le jeu propose plusieurs variantes de jeu, ajoutant de la diversité et de la rejouabilité. Par exemple, les joueurs peuvent choisir entre des modes comme la Tour Infernale, le Puits, ou encore le Chaudron, chacun offrant une façon différente de jouer et de gagner.",
-    "price": 12.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/asmodee-dobble-disney-3431532",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/fIvUn/3431532_1/re/1200x1200/qt/90/3431532_1.jpg",
-    "detected_at": "2026-10-13T08:44:16+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:51:38.638184+00:00",
-    "price_history": [
-      {
-        "price": 12.5,
-        "observed_at": "2026-10-13T08:50:15.387360+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Soirée gratuite des Trophées APAJH 2026 avec Hélène Ségara et Ycare au Carrousel du Louvre",
-    "description": "Billetweb Soirée gratuite: 21e édition des Trophées APAJH au Carrousel du Louvre, Paris Vendredi 6 novembre 2026 Carrousel du Louvre, 99 rue de Rivoli, Paris 1er Venez profiter d’une soirée festive mêlant musique live, danse, cabaret et performances artistiques à l’occasion de la 21e édition des Trophées APAJH, qui récompensent les initiatives en faveur de l’inclusion des personnes en situation de handicap. Au programme: • Hélène Ségara: concert et chansons de son répertoire • Ycare: performance musicale • LED Cancan Dancers: spectacle de danse cabaret avec costumes lumineux • Opéra Optique: jonglage lumineux et effets visuels • Bryan Rey: interprétation de sa chanson « Bébé » • Troupe de l’IME Le Jardin d’Asclépios: spectacle mêlant percussions et lumières, « Une constellation pour tous » • Ze Groupe: reprises rock de grands classiques La soirée comprend également la remise de trois trophées récompensant des initiatives dans les domaines de l’éducation, de la culture et du sport. ️ Entrée gratuite, inscription obligatoire et places limitées.",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/soiree-gratuite-des-trophees-apajh-2026-avec-helene-segara-et-ycare-au-carrousel-du-louvre-3431531",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5DnbZ/3431531_1/re/1200x1200/qt/90/3431531_1.jpg",
-    "detected_at": "2026-10-13T08:43:28+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": []
-  },
-  {
-    "title": "[Précommande] God Of War Laufey sur PS5",
-    "description": "61,99€ - Auchan God of war laufey sur ps5",
-    "price": 61.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-god-of-war-laufey-sur-ps5-3431530",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/X1ctU/3431530_1/re/1200x1200/qt/90/3431530_1.jpg",
-    "detected_at": "2026-10-13T08:41:40+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 61.99,
-        "observed_at": "2026-10-13T08:45:57.048564+00:00"
-      }
-    ]
-  },
-  {
-    "title": "4 Interrupteurs Connecté Matter MSS815 Meross - Commande d'Éclairage, Suivi Conso d'Énergie, Compatible Apple/Alexa/Google",
-    "description": "39,99€ - Amazon Bon prix sur ce lot de 4 interrupteurs connectés (y) Prix de revient à l'unité : 9,99€ . > Vendu par Meross, expédié par Amazon Description & caractéristiques Interrupteur matter avec dimension compact : Cet interrupteur (5,0 x 4,6 x 1,9 cm) est compatible avec les boîtes d'encastrement d'un diamètre d'au moins 60 mm et d'une profondeur minimale de 60 mm. Il est non seulement conçu pour une installation encastrée avec la plupart des plaques de finition, mais peut également contrôler indépendamment les petits appareils électroménagers de moins de 10A/2300W (Boîtier de jonction étanche requis pour l'installation en surface). Interrupteur connecté avec fonction matter simple setup (MSS) : Dites adieu au processus d'appairage complexe! Il suffit d'installer l'interrupter MSS815 et de demander à votre Amazon echo de découvrir l'appareil, votre Alexa scannera l'appareil et effectuera l'appairage automatiquement. (Note: MSS ne peut être utilisé que si votre compte d'achat correspond à votre compte Echo, et si cela n'est pas le cas, l'appareil pourra être appairé de manière conventionnelle avec Matter). Interrupteur intelligent avec suivi de consommation d'énergie : L'interrupteur WiFi suit la consommation d'énergie des appareils connectés en temps réel et fournit des données historiques via l'appli Meross. Ces données vous aideront à mieux comprendre la consommation d'énergie des appareils dans votre maison et vous fourniront une base de référence pour optimiser la consommation d'électricité. Éteignez les appareils inutilisés à temps pour réduire efficacement votre facture d'électricité. Interrupteur smart avec commande vocale : Appréciez la praticité ultime avec la interrupteur connecté Meross. L'interrupteur connecté fonctionne avec Apple Home, Siri, HomePod, Alexa, Echo Dot, Google Home, Google Assistant et Google Nest Hub. Gérez directement vos appareils connectés avec les interrupteurs WiFi Meross via une commande vocale à l'aide des assistants vocaux. Transformez votre maison en un espace intelligent et confortable et simplifiez votre vie grâce à l'interrupteur Meross. Interrupteur wi fi avec contrôle à distance : Utilisez l'APP Meross, allumez ou éteignez l'appareil via un smartphone partout avec l'accès à internet. Éteignez l'interrupteur à distance sur l'APP afin d'économiser une consommation électrique indésirable. Contrôlez à distance les accessoires compatibles avec Apple Home / Alexa / Google Home / Home Assistant et automatisez les accessoires pour faire ce que vous voulez. Programme, minuterie et contrôle hors ligne : Vous pouvez créer des programmes, des minuteries ou des comptes à rebours pour allumer / éteindre l'appareil automatiquement en fonction de votre routine. Lorsque le WiFi ne peut pas à se connecter à Internet, l'appareil Matter peut toujours communiquer de manière fluide sur le réseau local et se contrôler mutuellement, vous pouvez toujours contrôler l'interrupteur connecté via l'appli Meross. Votre phone et appareil doivent être sur le même WiFi.",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/4-interrupteurs-connecte-matter-mss815-meross-commande-declairage-suivi-conso-denergie-compatible-applealexagoogle-3431528",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8pvc1/3431528_1/re/1200x1200/qt/90/3431528_1.jpg",
-    "detected_at": "2026-10-13T08:35:06+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-13T08:40:10.328937+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de Société So Clover !",
-    "description": "16,99€ - Amazon Excellent jeu d’ambiance ! Je l’adore personnellement : c’est sans aucun doute l’un des meilleurs jeux d’association d’idées auxquels j’ai eu l’occasion de jouer ! (y)",
-    "price": 16.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-so-clover-3431527",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/hu2CG/3431527_1/re/1200x1200/qt/90/3431527_1.jpg",
-    "detected_at": "2026-10-13T08:34:02+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T14:58:59.232704+00:00",
-    "price_history": [
-      {
-        "price": 16.99,
-        "observed_at": "2026-10-13T08:40:10.328937+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Icons Ferrari F2004 et Michael Schumacher 11375",
-    "description": "53,99€ - Amazon À 89.99 € chez LEGO (-40 % ) Célébrez l’âge d’or de la Formule 1 avec le set Ferrari F2004 et Michael Schumacher LEGO Icons (11375). Construisez un modèle réduit de la voiture légendaire qui, avec Michael Schumacher au volant, a dominé la saison 2004. Cette réplique de Ferrari avec direction fonctionnelle, pneus rainurés et moteur V10 détaillé, inclut un présentoir affichant les détails et les statistiques du véhicule. La minifigurine de Michael Schumacher s’accompagne d’un casque, d’un trophée et d’un présentoir-podium avec une image et une citation du septuple champion du monde. Ce modèle fascinant constitue un superbe cadeau de fêtes ou d’anniversaire pour les fans de courses et les collectionneurs de F1. Découvrez la gamme dynamique de sets LEGO F1 (vendus séparément) conçus pour les adultes, les enfants et les familles. L’application LEGO Builder propose une expérience de construction enrichie avec visualisation en 3D, suivi de la progression et instructions numériques étape par étape. Contient 735 pièces. Contenu du set : - MODÈLE DE VOITURE F1 À COLLECTIONNER POUR ADULTES – Célébrez une légende de la course automobile avec le kit de construction Ferrari F2004 et Michael Schumacher LEGO Icons (11375) conçu pour les adultes et les collectionneurs - QUE CONTIENT LA BOÎTE ? – Tout ce dont vous avez besoin pour créer une réplique détaillée de la voiture de course de F1 Ferrari F2004, ainsi qu’une minifigurine de Michael Schumacher, un présentoir, un podium, un casque de pilote et un trophée - CARACTÉRISTIQUES ET FONCTIONNALITÉS – Ce modèle LEGO® de Ferrari de F1 est doté d’une direction fonctionnelle, d’un cockpit et d’un moteur V10 détaillés, ainsi que de pneus rainurés marqués Bridgestone Potenza - UNE PRÉSENTATION SOIGNÉE – Inclut un présentoir pour la voiture de course de Formule 1 affichant les statistiques du véhicule, ainsi qu’un podium pour exposer la minifigurine du pilote affichant une image et une citation de Michael Schumacher - CADEAUX POUR FANS DE COURSES DE FORMULE 1 – Fêtez un anniversaire ou une occasion spéciale avec ce set de construction d’une voiture de F1 LEGO à collectionner pour adultes - INSTRUCTIONS DE MONTAGE EN 3D – Savourez pleinement la construction de cette voiture de F1 avec l’application LEGO Builder, où vous pouvez visualiser vos modèles 3D pendant la construction, suivre votre progression et explorer d’autres sets - ENCORE PLUS D’ACTION F1 À GRANDE VITESSE – Découvrez d’autres sets de construction LEGO sur le thème de la Formule 1 (vendus séparément), pour construire, décorer une pièce et faire la course en famille - DIMENSIONS – La voiture de course de F1 de ce set de construction Ferrari F2004 LEGO Icons de 735 pièces mesure plus de 7 cm de haut, 32 cm de long et 13 cm de large",
-    "price": 53.99,
-    "reference_price": 89.99,
-    "discount_percent": 40.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-icons-ferrari-f2004-et-michael-schumacher-11375-3431525",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/A20Jr/3431525_1/re/1200x1200/qt/90/3431525_1.jpg",
-    "detected_at": "2026-10-13T08:26:22+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 53.99,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
       }
     ]
   }
