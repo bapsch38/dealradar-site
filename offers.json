@@ -1,5 +1,23 @@
 [
   {
+    "title": "C.K Magma MA2740 Ensemble de 3 Pochettes",
+    "price": 11.44,
+    "reference_price": 24.44,
+    "discount_percent": 53.19,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07R17VD6Z",
+    "image_url": "https://m.media-amazon.com/images/P/B07R17VD6Z.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 07:12:26",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.44,
+        "observed_at": "2026-10-13T07:12:33.878873+00:00"
+      }
+    ]
+  },
+  {
     "title": "LACOR - 44424 - Poêle en acier...aisselle, Ø24 cm, hauteur 6 cm",
     "price": 27.81,
     "reference_price": 39.95,
@@ -2354,6 +2372,171 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Pied à coulisse numérique PMCD A1 ou Rapporteur d'angle numérique Parkside PWSD A1 (Pile CR2032 incluse)",
+    "description": "7,99€ - Lidl Fermeture : Vis de blocage Pied à coulisse numérique « PMCD A1 » et rapporteur d'angle numérique « PWSD A1 » : Deux outils de mesure de précision pour des mesures exactes de longueur et d'angle dans l'atelier et le domaine du bricolage. Valeurs de mesure précises jusqu'à une résolution de 0,01 mm Fixation de la valeur mesurée par vis de blocage pour un report sûr Grand écran LC pour une lecture rapide même par faible luminosité Étui rigide et pile CR2032 inclus pour une utilisation immédiate Démarrage rapide (Quick-Start) et arrêt automatique (Auto-Off) pour un fonctionnement économe en énergie PARKSIDE® Pied à coulisse numérique PMCD A1 / Rapporteur d'angle numérique PWSD A1 Précision pour l'atelier et les loisirs Le pied à coulisse numérique et le rapporteur d'angle numérique fournissent des résultats de mesure précis pour les dimensions intérieures, extérieures et de profondeur ainsi que pour les angles intérieurs et extérieurs. Avec une plage de mesure de 0 à 150 mm pour le pied à coulisse et de 0 à 360° pour le rapporteur d'angle, les composants, les pièces à usiner et les situations d'installation peuvent être saisis de manière fiable. La fine résolution de 0,01 mm ou 0,1° garantit que les petits écarts restent perceptibles, ce qui réduit la tolérance aux erreurs lors des travaux d'ajustement et augmente la qualité du travail. Confort et prise en compte sûre des valeurs mesurées Les deux appareils disposent d'un écran LC bien lisible et d'une vis de blocage qui facilite la fixation de la valeur mesurée. Le réglage du zéro dans n'importe quelle position permet des mesures comparatives et l'affichage de valeurs négatives, ce qui simplifie les processus de mesure répétés. La molette du pied à coulisse permet un guidage sensible, de sorte que les résultats de mesure restent reproductibles et plus faciles à transférer. Gestion de l'énergie et fonctions pratiques La fonction d'arrêt automatique intégrée prolonge la durée de vie des piles, tandis que la fonction de démarrage rapide active automatiquement les appareils après un mouvement. Cette combinaison garantit un temps de réponse court avec des fonctionnalités complètes et évite une consommation inutile de piles. La possibilité de changer l'unité de longueur entre millimètres et pouces permet d'utiliser le pied à coulisse de manière flexible, sans conversions supplémentaires. Domaines d'application et groupe cible Les outils de mesure conviennent aussi bien aux bricoleurs qu'aux amateurs et aux professionnels de l'artisanat qui recherchent des aides précises et faciles à manipuler. Qu'il s'agisse de réparations, de construction de meubles ou de travaux de micromécanique, les appareils soutiennent le travail quotidien avec des résultats de mesure clairs et une manipulation robuste. misez sur la précision PARKSIDE® : procurez-vous le kit de mesure pour des résultats de mesure fiables à chaque projet et profitez d'une utilisation simple ainsi que d'une fixation sécurisée des valeurs mesurées Propriétés Plage de mesure et précision Le pied à coulisse couvre 0 à 150 mm avec une résolution de 0,01 mm, le rapporteur d'angle mesure de 0 à 360° avec une précision de 0,1°. Ces valeurs permettent des ajustements fins et des contrôles précis, de sorte que les composants peuvent être ajustés en toute sécurité et les tolérances considérablement réduites. Utilisation et lisibilité Les deux instruments disposent d'un grand écran LC et d'une utilisation intuitive ; la fonction de zéro dans n'importe quelle position ainsi que la molette du pied à coulisse facilitent la manipulation. Cela permet d'effectuer les séries de mesures plus rapidement et de minimiser les erreurs de mesure lors de la lecture. Fixation et transfert des valeurs mesurées La vis de blocage assure une fixation sûre du résultat de mesure, de sorte que les transferts sur des pièces ou des croquis sont possibles sans nouvelle mesure. Cette propriété est particulièrement utile lors de mesures de contrôle répétées",
+    "price": 7.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pied-a-coulisse-numerique-pmcd-a1-ou-rapporteur-dangle-numerique-parkside-pwsd-a1-pile-cr2032-incluse-3431473",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/TdlZJ/3431473_1/re/1200x1200/qt/90/3431473_1.jpg",
+    "detected_at": "2026-10-13T07:10:07+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 7.99,
+        "observed_at": "2026-10-13T07:12:33.878873+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Garmin Forerunner 265",
+    "description": "224€ - AliExpress Garmin Forerunner 265 version CN. Prix AE 253€ - 29€ avec le code.",
+    "price": 224.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/garmin-forerunner-265-3431475",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/K2qFO/3431475_1/re/1200x1200/qt/90/3431475_1.jpg",
+    "detected_at": "2026-10-13T07:09:14+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 224.0,
+        "observed_at": "2026-10-13T07:12:33.878873+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures de football Nike Zoom Vapor 16 Academy - Rouge (du 42.5 au 44)",
+    "description": "14,99€ - PickSport Petit prix ! :) Description : Les chaussures de football pour homme NIKE ZOOM VAPOR 16 ACADEMY FG/MG apportent une vitesse explosive, de la précision et un toucher de balle de premier ordre sur le terrain. Conçues avec une tige NikeSkin spécialement structurée, elles permettent un contrôle du ballon encore meilleur à grande vitesse et lors des dribbles. L’unité Air Zoom intégrée au talon assure un amorti réactif, restituant une énergie supplémentaire lors des accélérations et des changements de direction rapides. La coupe anatomique enveloppe le pied en toute sécurité pour un maintien optimal, tandis que le profil de crampons polyvalent FG/MG garantit une traction et une stabilité fiables aussi bien sur pelouse naturelle que sur terrains en gazon synthétique. Marque : Nike Matière : synthétique, textile Couleur : rouge, rose, vert Adaptées pour pelouse naturelle ferme FG et plusieurs surfaces MG Tige NikeSkin pour une sensation de football proche du pied nu Motif de traction ondulé pour une adhérence fiable Combinaison de crampons Chevron et Blade pour faciliter les changements de direction rapides NEUF, étiquette & boîte d’origine Tailles : 42.5 / 43 / 44 / 47",
+    "price": 14.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-de-football-nike-zoom-vapor-16-academy-rouge-du-425-au-44-3431474",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5jnQF/3431474_1/re/1200x1200/qt/90/3431474_1.jpg",
+    "detected_at": "2026-10-13T07:08:09+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T07:12:33.878873+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Demak'Up Original Ovales Cotons à Démaquiller - 70 Cotons",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01N4KR641",
+    "image_url": "https://m.media-amazon.com/images/P/B01N4KR641.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T07:06:41+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Lot De 5 Voitures Hot Wheels - Échelle 1:64, Modèle aléatoire",
+    "description": "7,85€ - Amazon Chaque commande comprend un article de la gamme. Le modèle que vous recevrez sera sélectionné au hasard et pourra différer des images présentées. Chaque coffret comprend cinq véhicules Hot Wheels. De nombreux véhicules à collectionner et à échanger à tes amis. Chaque coffret de 5 permet de démarrer ou de compléter une collection ! Des véhicules classiques à l'échelle 1:64, avec des détails très réalistes et des décorations soignées. Le cadeau idéal pour les enfants et les collectionneurs ! Certains coffrets de 5 véhicules contiennent des voitures des mini-collections HW Basic Singles !",
+    "price": 7.85,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/hot-wheels-coffret-de-5-voitures-et-camions-jouets-styles-varies-3431472",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/VlaAW/3431472_1/re/1200x1200/qt/90/3431472_1.jpg",
+    "detected_at": "2026-10-13T07:06:15+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 7.85,
+        "observed_at": "2026-10-13T07:12:33.878873+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Demak'Up Sensitive Ovales Cotons à Démaquiller - 48 Cotons",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B01N6HL2MF",
+    "image_url": "https://m.media-amazon.com/images/P/B01N6HL2MF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T07:04:24+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Velamp Bloc multiprise 10/16A ...nterrupteur - 3G1mm2, 4 Prises",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07G8P8WBP",
+    "image_url": "https://m.media-amazon.com/images/P/B07G8P8WBP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T07:02:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "C.K Magma MA2740 Ensemble de 3 Pochettes",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B07R17VD6Z",
+    "image_url": "https://m.media-amazon.com/images/P/B07R17VD6Z.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T07:01:02+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "LogiLink CU0041 Câble USB 3.0 A Mâle/A Femelle 1 m Noir",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B007XT0N94",
+    "image_url": "https://m.media-amazon.com/images/P/B007XT0N94.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T06:59:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Sélection de Sacs à Main Christian Lacroix - Ex : Sac à Main Haussmann 100% Cuir - Plusieurs Coloris",
+    "description": "74,99€ - Veepee Livraison estimée : entre le 06/11 et le 13/11 Les 6 autres coloris sont à 79.99€ au lieu de 299€. Cuir de veau Ruga Pochette avant en Cocco Balo Fermeture avec rabat Bandoulière amovible 4 pieds de protection Doublure imprimée signée CXL by Christian Lacroix Composition 100% cuir de veau Doublure : 80% polyester et 20% coton Fabriqué en Italie",
+    "price": 79.99,
+    "reference_price": 299.0,
+    "discount_percent": 73.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/selection-de-sacs-christian-lacroix-ex-sac-a-main-haussmann-100-cuir-plusieurs-coloris-3431470",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YA8DR/3431470_1/re/1200x1200/qt/90/3431470_1.jpg",
+    "detected_at": "2026-10-13T06:52:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T07:12:33.878873+00:00"
       }
     ]
   },
@@ -10165,165 +10348,6 @@
     "image_url": "https://m.media-amazon.com/images/P/B0H3TW7MXP.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T16:46:34+00:00",
     "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Medela recueil-lait en silicon...llaitement quotidien 101044201",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0B8T7B91S",
-    "image_url": "https://m.media-amazon.com/images/P/B0B8T7B91S.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:45:28+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Lego Speed Champions 77241 - Honda S2000 Fast and Furious",
-    "description": "19,90€ - E.Leclerc • Les garçons et filles dès 9 ans et les adultes fans du film peuvent recréer des scènes du film culte 2 Fast 2 Furious avec le set Honda S2000 2 Fast 2 Furious LEGO Speed Champions (77241). La maquette réduite de ce cabriolet rose vif pour enfants présente des détails authentiques du vrai véhicule piloté par Suki dans le film. • Cette voiture Fast and Furious LEGO regorge d'accessoires réalistes, dont l’écran TV à l’intérieur, l’aileron, la calandre, les optiques, les roues, ainsi que le motif graphique distinctif de style anime sur la carrosserie. Le modèle LEGO s’accompagne d’une minifigurine de Suki, que les enfants peuvent placer au volant pour un jeu de rôle haletant. • Avec les sets LEGO Speed Champions, enfants et fans de voitures peuvent construire des maquettes de véhicules mythiques. Chaque bolide peut être créé en suivant les instructions imprimées ou à l'aide de l’application LEGO Builder, qui offre une aventure de construction simple et intuitive.",
-    "price": 19.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jouet-de-construction-lego-speed-champions-77241-honda-s2000-fast-and-furious-3431182",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/aHkbA/3431182_1/re/1200x1200/qt/90/3431182_1.jpg",
-    "detected_at": "2026-10-12T16:44:32+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 19.9,
-        "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Plaque Induction 2 feux-Siemen...roduit (LxP en cm) : 30.2 / 52",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0171NIHQW",
-    "image_url": "https://m.media-amazon.com/images/P/B0171NIHQW.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:44:28+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "EISL et3800sev universel réservoir Soupape d'admission",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B075QGBTD2",
-    "image_url": "https://m.media-amazon.com/images/P/B075QGBTD2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:44:26+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "TAMIYA - 87069 - PATE A POLIR GRAIN FIN",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B000BLI6SQ",
-    "image_url": "https://m.media-amazon.com/images/P/B000BLI6SQ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:44:23+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Bosch Accessories 2608831056 F... perforateur 22 x 200 x 250 mm",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00D1V6CEI",
-    "image_url": "https://m.media-amazon.com/images/P/B00D1V6CEI.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:44:19+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Makeup Revolution, Loose Baking Powder, Poudre, Lace, 32g",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B07WHJQ6QB",
-    "image_url": "https://m.media-amazon.com/images/P/B07WHJQ6QB.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:43:22+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Chicco Set de 2 Biberons Perfe...aquet économique, 2 m+, Garçon",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0B59YMS26",
-    "image_url": "https://m.media-amazon.com/images/P/B0B59YMS26.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:43:17+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Italeri- Militär Kit de modélisme, I407, Multicolore, 1:35",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B00061HLLO",
-    "image_url": "https://m.media-amazon.com/images/P/B00061HLLO.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:43:11+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Wella Professionals Masque Che... colorés fins à normaux, 500ml",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0CB6VXK34",
-    "image_url": "https://m.media-amazon.com/images/P/B0CB6VXK34.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:42:58+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "PHOTOCORRECTION [MAKE UP] crema SPF50+ #03 10 gr",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B09XFK22BN",
-    "image_url": "https://m.media-amazon.com/images/P/B09XFK22BN.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:42:40+00:00",
-    "category": "Autre",
     "price_verified": false,
     "price_history": []
   }
