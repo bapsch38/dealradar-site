@@ -1,5 +1,45 @@
 [
   {
+    "title": "Ravensburger -PLAY + - Peluche...ce - version française - 34016",
+    "price": 10.27,
+    "reference_price": 19.99,
+    "discount_percent": 48.62,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D5BRCD9C",
+    "image_url": "https://m.media-amazon.com/images/P/B0D5BRCD9C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 09:03:53",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.27,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca - Kit charnière coudée p...e 105°, Nickelé, Acier, 20 ut.",
+    "price": 33.28,
+    "reference_price": 39.69,
+    "discount_percent": 16.15,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BVR25K8N",
+    "image_url": "https://m.media-amazon.com/images/P/B0BVR25K8N.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 09:03:43",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 33.28,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
     "title": "Majorette - Giftpack Anniversa...éhicules Exclusifs - 212054101",
     "price": 16.79,
     "reference_price": 23.99,
@@ -1331,7 +1371,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:45:54.822922+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 5.15,
@@ -1351,7 +1391,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 28.9,
@@ -1371,7 +1411,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 65.02,
@@ -1531,7 +1571,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:47:35.365311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 12.31,
@@ -1551,7 +1591,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:47:35.365311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 10.85,
@@ -1571,7 +1611,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:47:35.365311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 56.99,
@@ -1591,7 +1631,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:45:54.822922+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 20.45,
@@ -1611,7 +1651,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:45:54.822922+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 122.4,
@@ -2800,6 +2840,258 @@
     ]
   },
   {
+    "title": "ASICS Gel-Lyte III NS ou Gel Mai Knit MT du 35 au 47",
+    "description": "39,99€ - Sport-Outlet La ASICS Gel-Lyte III NS Unisexe est une sneaker au design rétro et sportif. *caractéristiques du produit:* - Design rétro Running - Confort optimal - Semelle extérieure adhérente - Utilisation polyvalente pour les loisirs et la vie quotidienne",
+    "price": 39.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/asics-gel-lyte-iii-ns-ou-gel-mai-knit-mt-du-35-au-47-3431549",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/AYeoV/3431549_1/re/1200x1200/qt/90/3431549_1.jpg",
+    "detected_at": "2026-10-13T09:02:37+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sèche-linge pompe à chaleur 10 kg VALBERG DHP 10 C W566C",
+    "description": "449,98€ - Electro Dépôt Avec ses 10 kg de capacité et son tambour de 125 L, ce sèche-linge laisse de la place aux serviettes et au linge de toute la famille.",
+    "price": 449.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/seche-linge-pompe-a-chaleur-10-kg-valberg-dhp-10-c-w566c-3431548",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XkVff/3431548_1/re/1200x1200/qt/90/3431548_1.jpg",
+    "detected_at": "2026-10-13T09:02:31+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 449.98,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Entrée Gratuite à la Forêt Des Singes pour les Enfants Déguisés jusqu'à 14 Ans Inclus - Rocamadour (46)",
+    "description": "À l'occasion d’Halloween, l'entrée à la Forêt Des Singes sera offerte aux Enfants Déguisés de 5 jusqu'à 14 Ans Inclus, du 26 Octobre au 1er Novembre 2026. Les enfants de moins de 5 Ans bénéficient déjà de l’entrée Gratuite. Au programme : Un jeu dans le parc avec une surprise à récupérer Et une ambiance Halloween pendant toute la semaine. Tarif en vigueur en temps normal pour l'entrée Enfant de 08€ Adresse La Forêt des Singes 442 Route de Gramat L'Hospitalet 46500 Rocamadour Infos",
+    "price": 8.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/entree-gratuite-a-la-foret-des-singes-pour-les-enfants-deguises-jusqua-14-ans-inclus-rocamadour-46-3431547",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/TNgWG/3431547_1/re/1200x1200/qt/90/3431547_1.jpg",
+    "detected_at": "2026-10-13T09:00:54+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.0,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Triangle de Signalisation Compact",
+    "description": "3,99€ - Norauto Les points forts de ce produit : Homologué. Triangle compact pouvant se ranger facilement. Stable grâce à son poids, même en cas de vent fort. - Un triangle de signalisation est très utile en cas de panne car il permet de signaler la présence d'un véhicule en panne sur le bord d'une route ou autoroute en plus des feux de détresse. Il doit être placé sur la chaussée à une distance de 30 mètres au moins du véhicule ou de l'obstacle à signaler, de telle sorte qu'il puisse être visible par le conducteur d'un véhicule venant sur la même voie de circulation, par temps clair, à une distance de 100 mètres , en toutes circonstances. De même que pour les gilets, le triangle est obligatoire depuis le 1er juillet 2008 pour tous les véhicules. - En Espagne, il est obligatoire de posséder 2 triangles de sécurité, pour en positionner un à l'avant et un à l'arrière du véhicule. Les législations pouvant être sujet à modification, il est indispensable de se renseigner avant tout déplacement à l'étranger des règles en vigueur dans chaque pays.",
+    "price": 3.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/triangle-de-signalisation-compact-3431546",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ybcuo/3431546_1/re/1200x1200/qt/90/3431546_1.jpg",
+    "detected_at": "2026-10-13T09:00:06+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 3.99,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Poupée L.O.L. Surprise! OMG Doll",
+    "description": "10,99€ - Amazon L.O.L. Surprise OMG Entry-Miss Royale",
+    "price": 10.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/poupee-lol-miss-royale-3431545",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SM4A4/3431545_1/re/1200x1200/qt/90/3431545_1.jpg",
+    "detected_at": "2026-10-13T08:55:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Gel lavant mains pour enfants à la poire certifié Cosmos Organic 250mL",
+    "description": "2,19€ - La Fourche N'hésitez pas à me contacter en MP si vous voulez que je vous parraine et bénéficier de 20€ de réduction sur l'adhésion. Gel lavant pour les mains à base d’ingrédients naturels et biologiques, associant la POIRE pour nettoyer efficacement tout en adoucissant la peau. Sa formule douce permet un usage fréquent sans irriter les mains et laisse un léger parfum de poire après le lavage. Ingrédients Aqua, Sodium coco-sulfate, Glycerin, Anthemis nobilis flower water*, Lauryl glucoside, Decyl glucoside, Parfum, Fragaria vesca fruit extract*, Gossypium herbaceum extract*, Aloe barbadensis leaf juice powder*, Bisabolol, Coco-glucoside, Glyceryl oleate, Citric acid, Cocamidopropyl betaine, Sodium benzoate, Potassium sorbate, Sodium chloride, Tocopherol, Hydrogenated palm glycerides citrate, Limonene. *Ingrédients issus de l’agriculture biologique. 99 % du total est d’origine naturelle. 21 % du total des ingrédients sont issus de l’agriculture biologique. Adhésion gratuite pour les faibles revenus et essai gratuit pendant 1 mois pour tous puis 59,90€ l'année. Le montant minimal d'une commande est de 49€. L'impact carbone et social d'une commande La Fourche La livraison est un important poste de pollution. Mais saviez-vous que se faire livrer à domicile génère moins d’impact carbone qu'acheter en magasin ? D’autant plus à La Fourche, car nous avons mis en place une politique volontariste pour diminuer les déchets générés par la livraison ainsi qu’un programme d’insertion professionnelle pour les employés de notre entrepôt. La livraison à domicile : un impact carbone limité par rapport aux supermarchés traditionnels C'est contre-intuitif mais faire ses courses en ligne pollue en moyenne 2,8 fois moins qu’en magasin, et jusqu’à 5 fois moins selon les cas. Découvrez les résultats de notre étude avec ECO2 Initiative, basée sur les données de l’ADEME et un sondage auprès de 8 000 adhérents. Nous ne proposons pas de livraison express afin de pouvoir optimiser les trajets de livraison et limiter ainsi les émissions, mais aussi pour offrir des conditions de travail plus éthiques aux livreurs. Quant à notre livraison à domicile sur créneau , celle-ci se fait essentiellement en véhicules roulant au biogaz ou électriques et avec un allègement du poids grâce aux sacs en kraft qui remplacent les cartons et emballages. Des colis en matériaux recyclés et recyclables Parce qu’il n’y a pas que la livraison qui compte, nous nous engageons aussi pour vos colis : pas de plastique, uniquement des matériaux majoritairement recyclés et recyclables comme du carton ou du kraft ; les cartons de nos fournisseurs sont broyés et réutilisés pour caler les produits ; tout peut être réutilisé à la maison (pour faire du papier cadeau, dans votre compost, etc.) ou donné autour de vous (aux producteurs sur les marchés, aux centres aérés ou aux écoles, etc.). Avec la livraison à domicile dans des sacs en papier kraft nous allons encore plus loin : 3 kg de déchets sont évités par commande en moyenne par rapport à la livraison en colis. Vous pouvez rendre ses sacs en kraft lors de vos prochaines livraisons pour qu'ils soient réutilisés. Ce service est disponible pour la majorité de nos adhérents . Un système de consigne pour le verre Dans notre démarche visant à limiter notre impact sur l’environnement, nous avons décidé de favoriser le réemploi de certains contenants en verre. C’est pourquoi nous avons lancé un projet de consigne des bouteilles et bocaux en verre . Vous vous faites livrer vos courses à domicile avec notre livraison à domicile sur créneau ? Alors retournez tous vos bocaux et bouteilles en verre en même temps que vos sacs en kraft , afin qu’ils nous soient retournés, lavés, et aient une seconde vie (enfin, plusieurs même). Un geste tout simple, qui vous permet de réduire vos déchets en un rien de temps (et de vous éviter la corvée de sortir le verre). Pour en savoir plus, consultez notre FAQ sur la Consigne . Des créations d'emplois et un pro",
+    "price": 2.19,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/gel-lavant-mains-pour-enfants-a-la-poire-certifie-cosmos-organic-250ml-3431544",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Wuscp/3431544_1/re/1200x1200/qt/90/3431544_1.jpg",
+    "detected_at": "2026-10-13T08:55:24+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2.19,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Précommande] Vidéoprojecteur Xgimi Horizon 30 Pro - avec Accessoires",
+    "description": "1 999€ - Xgimi Petite offre de précommande pour le futur best seller de Xgimi. -500€ + Support pied ou plafond + 2 paires de lunettes 3D Actives . Pack HORIZON 30 Pro avec fixation de plafond XGIMI (2026) : Comprend : HORIZON 30 Pro + une fixation de plafond XGIMI (2026) + 2 paires de lunettes 3D actives + un coupon XGIMI Ascend de 500 € Pack HORIZON 30 Pro avec pied de sol XGIMI (gris éléphant) : Comprend : HORIZON 30 Pro + un pied de sol XGIMI (gris éléphant) + 2 paires de lunettes 3D + un coupon XGIMI Ascend de 500 € 4 800 lumens ISO, luminosité triple laser : Jusqu'à 4 800 lumens ISO et une couverture colorimétrique de 110 % BT.2020 offrent des images vives et fidèles, avec une luminosité, une profondeur et une clarté remarquables. Double iris intelligent, contraste natif de 8 000:1 : Le système à double iris contrôle dynamiquement la lumière pour des noirs plus profonds, des hautes lumières plus éclatantes et des détails plus riches dans les ombres, même dans les scènes les plus sombres. 4K 120 Hz, fluidité nouvelle génération : Profitez de mouvements plus fluides, de détails en mouvement plus nets et d'un effet arc-en-ciel considérablement réduit grâce à un véritable taux de rafraîchissement 4K 120 Hz, idéal pour les films, le sport et les jeux vidéo. Optique sans perte, installation flexible : Le lens shift flexible et le zoom optique vous offrent plus de liberté pour positionner et dimensionner l'image sans compromettre la clarté, avec des images nettes et sans distorsion dans un large éventail d'installations. Gaming sur grand écran, latence ultra-faible : Une latence d'entrée de 1 ms, le VRR, l'ALLM et la certification AMD FreeSync™ offrent une réactivité extrême sur grand écran, avec des visuels de jeu HDR réglés pour une immersion totale et un contrôle précis.",
+    "price": 1999.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/precommande-xgimi-horizon-30-pro-accessoires-3431543",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gcsqL/3431543_1/re/1200x1200/qt/90/3431543_1.jpg",
+    "detected_at": "2026-10-13T08:55:21+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1999.0,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Technic 42215 - Pelleteuse Volvo EC500 hybride",
+    "description": "239,99€ - Carrefour À 399.99 € chez LEGO 5% supplémentaires via bourso Plongez dans un projet de construction immersif en recréant les détails du set Pelleteuse Volvo EC500 hybride LEGO Technic (42215). La construction n’est que la première étape avec ce véhicule motorisé riche en fonctions. Testez votre pelleteuse en démarrant le moteur et la transmission pour explorer ses fonctionnalités. Utilisez le levier pour sélectionner l’une des 4 fonctions actionnant la flèche, le bras, le marteau et la pelle LEGO. Les portes de la cabine s’ouvrent manuellement, les chenilles bougent et la cabine pivote. Avec ses mouvements réalistes, ce set constitue un superbe cadeau pour les adultes passionnés de véhicules de chantier et de sets LEGO complexes. Exprimez votre passion pour les véhicules haute performance en vous plongeant dans la construction des modèles de la collection LEGO Technic pour adultes. L’application LEGO Builder propose une version numérique des instructions de montage incluses dans la boîte. Contient 2 359 pièces.",
+    "price": 239.99,
+    "reference_price": 399.99,
+    "discount_percent": 40.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pelleteuse-volvo-ec500-hybride-lego-technic-42215-3431542",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6yHRZ/3431542_1/re/1200x1200/qt/90/3431542_1.jpg",
+    "detected_at": "2026-10-13T08:54:04+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 239.99,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Écran PC 27\" Acer Nitro KG270W5 - Full HD IPS, 260 Hz via DP (240 Hz HDMI), FreeSync Premium",
+    "description": "89,99€ - Acer Le Acer Nitro KG270W5 est à 89,99 € livré sur la boutique Acer France, sans code promo ni ODR. Le total a été vérifié dans le panier le 13 octobre : 89,99 € TTC, expédition gratuite. Acer affiche un prix barré de 129,99 €. Une offre intéressante pour un écran IPS de 27 pouces à haute fréquence, notamment pour jouer en Full HD avec un budget limité. À bien prendre en compte : il s’agit d’un 27″ Full HD (1920 × 1080), pas d’un écran QHD. Le pied est inclinable, mais ne se règle pas en hauteur. Le maximum annoncé est de 260 Hz via DisplayPort et 240 Hz via HDMI. La fréquence maximale dépend aussi de la source et du réglage utilisé. Caractéristiques du modèle UM.HX0EE.506 : Dalle IPS plate de 27″, format 16:9, angles de vision 178°. AMD FreeSync Premium. 1 DisplayPort, 2 HDMI et sortie audio/casque. Haut-parleurs intégrés : 2 × 2 W. Luminosité annoncée : 250 cd/m² ; contraste natif : 1 000:1. Pied inclinable de −5° à +25° ; fixation VESA 100 × 100 mm. Câbles DisplayPort, HDMI et cordon secteur inclus d’après Acer. Garantie standard annoncée : 2 ans. Le HDR10 est pris en charge, mais le label « HDR Ready » et la luminosité de 250 cd/m² ne doivent pas faire attendre un rendu HDR haut de gamme. À courte distance, le Full HD sur 27″ est aussi moins fin qu’un 27″ QHD. Le produit est indiqué en stock , avec une livraison annoncée sous 1 à 5 jours ouvrés. La campagne du 50e anniversaire Acer , dans laquelle figure cet écran, se termine le 3 novembre 2026 à 9 h , ou plus tôt en cas d’épuisement des stocks. Le prix et la disponibilité restent à vérifier au moment de commander.",
+    "price": 89.99,
+    "reference_price": 129.99,
+    "discount_percent": 30.8,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-acer-nitro-kg270w5-full-hd-ips-260-hz-via-dp-240-hz-hdmi-freesync-premium-3431541",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/RCpX3/3431541_1/re/1200x1200/qt/90/3431541_1.jpg",
+    "detected_at": "2026-10-13T08:53:54+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaquettes Ventillées Organiques SHIMANO J05A-RF",
+    "description": "10,99€ - Probikeshop Les Plaquettes Organiques SHIMANO J05A-RF XTR/XT/SLX/DEORE/ALFINE /ULTEGRA sont destinées aux freins à disque des groupes VTT (2 pistons) et Route de la marque nipponne. Leur garniture organique leur accorde davantage de mordant que des plaquettes métalliques. Ce modèle vient remplacer les J03A. Elles sont aussi plus silencieuses. Ce modèle est l'un des plus performant de la gamme de plaquette de Shimano, elles proposent une excellente précision de freinage afin de ne perdre le moins de temps en descente. Ref: 7977576300710 Points forts Moins de bruit ; Performance en toute situation ; Pour conditions sèches et humides. Caractéristiques Compatibilité Marque : SHIMANO Goupille Fournie : Oui Ressort Fourni : Oui Type de Garniture : Organique Type de Support : Aluminium Informations techniques Plaquette organique; Compatibilité : BR-M9000, BR-M9020, BR-M987, BR-M985, BR-M8100, BR-M8000, BR-M785, BR-M7100, BR-M7000, BR-M675, BR-M666, BR-M6100, BR-M6000, BR-M615, BR-S700, BR-RS785, BR-R785",
+    "price": 10.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/plaquettes-shimano-jo5a-rf-3431540",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mKRGk/3431540_1/re/1200x1200/qt/90/3431540_1.jpg",
+    "detected_at": "2026-10-13T08:52:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection de pulls en cachemire Galerie Lafayette - ex: Pull homme Nachron uni cachemire rouge grenade, tailles S à XXL",
+    "description": "59€ - BAZARCHIC Pulls homme 100 % cachemire dès 49 € au lieu de 99,99 € : jusqu'à -70 % chez BazarChic BazarChic propose actuellement une vente privée Galeries Lafayette Cachemire , avec une sélection de 64 articles pour homme , comprenant des pulls, gilets et pantalons en cachemire à prix réduits. Plusieurs modèles 100 % cachemire sont proposés dès 49 € , avec des remises intéressantes sur différents coloris et coupes. Quelques exemples de promotions : Pull Nachron 100 % cachemire, col rond, rose : 49 € au lieu de 129 € (-62 %) Pull Nachron 100 % cachemire, col V, rose : 49 € au lieu de 129 € (-62 %) Pull Nachron 100 % cachemire, col rond, bordeaux : 59 € au lieu de 129 € (-54 %) Pull Nachron 100 % cachemire, col rond, bleu canard : 59 € au lieu de 129 € (-54 %) Pull Nachve 100 % cachemire, col V, bordeaux : 49 € au lieu de 99,99 € (-50 %) Pull Rachmok 100 % cachemire, col montant, camel : dès 59 € au lieu de 139 € (-57 %) Gilet zippé Nachgil 100 % cachemire, bleu clair : 69 € au lieu de 139 € (-50 %) ✅ À retenir : Plusieurs modèles 100 % cachemire Col rond, col V, col montant, col roulé et gilets Nombreux coloris ️ Réductions affichées jusqu'à -70 % sur la vente Expédition annoncée sous 5 jours Livraison estimée entre le 16 et le 22 octobre Une sélection intéressante pour s'équiper en pulls en cachemire à l'approche de l'hiver, avec plusieurs modèles sous la barre des 60 €.",
+    "price": 49.0,
+    "reference_price": 99.99,
+    "discount_percent": 51.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/selection-de-pull-en-cachemire-galerie-lafayette-ex-pull-nachron-uni-cachemire-rouge-grenade-tailles-s-a-xxl-3431538",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5OD2r/3431538_1/re/1200x1200/qt/90/3431538_1.jpg",
+    "detected_at": "2026-10-13T08:51:54+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 49.0,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coffret de pâte à modeler Play-Doh La Cuisine des Petits Chefs, dès 3 ans",
+    "description": "34,90€ - Amazon Inclus : coffret de cuisine avec 4 accessoires pour la machine à pâtes, poêle, casserole, lecteur de cartes et carte de crédit factices, bol, assiette, 2 couteaux factices, spatule, fourchette, rouleau, 2 contenants Play-Doh en forme d'aliment et 6 pots de pâte à modeler Play-Doh (poids net : 453 g).",
+    "price": 34.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/play-doh-cuisine-des-petits-chefs-3431539",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/04huw/3431539_1/re/1200x1200/qt/90/3431539_1.jpg",
+    "detected_at": "2026-10-13T08:50:03+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 34.9,
+        "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      }
+    ]
+  },
+  {
     "title": "Play doh coffret tourbillon de smoothies",
     "description": "8,99€ COFFRET DE PÂTE À MODELER POUR ENFANTS : on appuie sur le couvercle du mélangeur pour mélanger les ingrédients ensemble et créer des smoothies factices multicolores, pour un jeu de cuisine qui occupera pendant des heures DES TOURBILLONS ET DES SMOOTHIES COLORÉS : on peut imaginer toutes sortes d'ingrédients. On peut créer des avocats roses, des bananes bleues et des cubes de glace verts ! Un jouet de cuisine rigolo avec plein de couleurs à découvrir UNE ACTIVITÉ MANUELLE AVEC DES CRÉATIONS LOUFOQUES ET AMUSANTES : de la crème fouettée factice jaune et verte ? Pourquoi pas ! Laissez vos enfants exprimer leur créativité avec toute une gamme de couleurs IDÉAL POUR LES JEUX IMAGINATIFS ENTRE AMIS OU AVEC LA FAMILLE : les enfants peuvent faire semblant de gérer leur propre bar à smoothies en versant le contenu dans des tasses et partager leurs créations avec des amis. UNE INITIATION À L'ART DÈS LE PLUS JEUNE ÂGE : disponible à parti de 3 ans, les garçons et les filles pourront faire une activité manuelle ludique et apprendront à s'amuser tout en créant et en expérimentant avec les couleurs",
     "price": 8.99,
@@ -3227,7 +3519,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 59.99,
@@ -3248,7 +3540,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 12.9,
@@ -3269,7 +3561,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 89.98,
@@ -3290,7 +3582,7 @@
     "category": "Auto & moto",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 14.99,
@@ -3311,7 +3603,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": []
   },
   {
@@ -3327,7 +3619,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": []
   },
   {
@@ -3343,7 +3635,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 240.0,
@@ -3364,7 +3656,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 38.99,
@@ -3385,7 +3677,7 @@
     "category": "Auto & moto",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 299.6,
@@ -3406,7 +3698,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T09:04:52.927920+00:00",
     "price_history": [
       {
         "price": 549.0,
@@ -7933,48 +8225,6 @@
       {
         "price": 29.52,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gazon artificiel de 40 mm, Rouleau de 1 x 2m (via coupon - Vendeur tiers)",
-    "description": "13,66€ - Amazon.es ✅ « Très bon prix comparé au PVC (prix de vente conseillé). »✅ CONFORT MAXIMUM (40 MM) : L'expérience ultime du gazon artificiel. Sa hauteur de brin de 40 mm offre une sensation exceptionnellement douce et moelleuse sous les pieds. Idéal pour se détendre, marcher pieds nus et pour les aires de jeux pour enfants où un bon amorti est souhaité. RÉALISME TOTAL (HAUTE DENSITÉ) : Oubliez que c'est du synthétique. L'association de fibres hautes dans deux nuances de vert avec un remplissage brun bouclé ultra-dense le rend difficile à distinguer du gazon naturel. Il masque complètement le support et offre un aspect luxuriant, comme « fraîchement coupé ». EFFET MÉMOIRE ET RÉTABLISSEMENT : Le gazon haut a tendance à s'aplatir, mais ce modèle intègre des fibres dotées d'une technologie de récupération (forme concave ou nervure centrale) et d'une forte courbure qui redresse la fibre pour qu'elle reste droite plus longtemps après avoir été piétinée. RÉSISTANCE ET PROTECTION : Conçu pour une exposition intense au soleil (protection UV) et un usage familial. Sa base de haute qualité permet un drainage rapide de l'eau, évitant les flaques même en cas de fortes pluies ou de nettoyage au jet d'eau. ✅ ✅ ✅ Clique sur le bouton •••SUIVRE••• si tu souhaites être notifié~~ de mes prochains deals ✅ ✅ ✅",
-    "price": 13.66,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gazon-artificiel-de-40-mm-rouleau-de-1-x-2-metres-via-coupon-3431223",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vKQYB/3431223_1/re/1200x1200/qt/90/3431223_1.jpg",
-    "detected_at": "2026-10-12T17:40:28+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 13.66,
-        "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Day of the Tentacle Remastered sur PC (Dématérialisé)",
-    "description": "2,25€ - GOG Publié à l’origine par LucasArts en 1993 comme suite du révolutionnaire Maniac Mansion de Ron Gilbert, Day of the Tentacle est une aventure à énigmes qui défie l’entendement et le temps : trois amis improbables coopèrent pour empêcher un tentacule violet mutant maléfique de conquérir le monde ! Aujourd’hui, plus de vingt années après, Day of the Tentacle fait son retour dans une édition remastérisée qui comporte de toutes nouvelles illustrations en haute résolution faites à la main, ainsi qu’un son, une musique et des effets sonores (que la présentation marketing originale des années 90 décrivait comme \"loufoque !\") remastérisés. Les joueurs pourront alterner entre les modes classique et remastérisé, et mélanger l’audio, les graphismes et l’interface selon leur envie. Nous avons aussi inclus un navigateur d'illustrations conceptuelles, et enregistré une piste de commentaires des créateurs originels du jeu, Tim Schafer, Dave Grossman, Larry Ahern, Peter Chan, Peter McConnell et Clint Bajakian. Day of the Tentacle fut le premier jeu de Tim Schafer en tant que codirecteur de projet, et le jeu a acquis un statut culte ! Cette édition spéciale a été restaurée et repensée avec un soin et une attention qui n’étaient imaginables qu’en faisant participer ses créateurs d’origine. De nouveaux graphismes en haute résolution entièrement dessinés à la main Passez en un instant du mode classique au mode remastérisé Des effets sonores, une bande originale et des voix remastérisés de grande qualité, avec une musique dynamique type \"iMuse\" Choisissez entre deux modes remastérisés pour la bande-son : modernisée avec de nouvelles voix, ou classique avec un son tout droit sorti des 90's Un navigateur d'illustrations conceptuelles Une interface et une expérience personnalisables sous de nombreux points, avec des options pour mélanger les styles de jeu anciens et nouveaux : amusez-vous avec la barre de dialogue dans le mode remastérisé, ou le nouveau cadran dans le mode classique Une piste de commentaires des créateurs originels du jeu, Tim Schafer, Dave Grossman, Larry Ahern, Peter Chan, Peter McConnell et Clint Bajakian. Un jeu dans le jeu : une version complète de Maniac Mansion est incluse !",
-    "price": 2.25,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/day-of-the-tentacle-remastered-3431222",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xYvl0/3431222_1/re/1200x1200/qt/90/3431222_1.jpg",
-    "detected_at": "2026-10-12T17:37:19+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 2.25,
-        "observed_at": "2026-10-12T17:38:31.505165+00:00"
       }
     ]
   }
