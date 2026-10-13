@@ -1,5 +1,165 @@
 [
   {
+    "title": "Souviens-toi. l'été dernier",
+    "price": 9.99,
+    "reference_price": 19.99,
+    "discount_percent": 50.03,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FHKF9RJK",
+    "image_url": "https://m.media-amazon.com/images/P/B0FHKF9RJK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:27",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "NBA Bounce - PS5",
+    "price": 14.99,
+    "reference_price": 29.99,
+    "discount_percent": 50.02,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FB474XQN",
+    "image_url": "https://m.media-amazon.com/images/P/B0FB474XQN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:26",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Confessions II",
+    "price": 26.99,
+    "reference_price": 32.31,
+    "discount_percent": 16.47,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GXBZYZWQ",
+    "image_url": "https://m.media-amazon.com/images/P/B0GXBZYZWQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:25",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lampe de table sans fil pied e...immable STANDY MINI Rock H25cm",
+    "price": 23.9,
+    "reference_price": 35.15,
+    "discount_percent": 32.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07MQXR4ZQ",
+    "image_url": "https://m.media-amazon.com/images/P/B07MQXR4ZQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:24",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 23.9,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Karx 07079 Lot de 6 Forets multifonction en Acier HSS",
+    "price": 12.95,
+    "reference_price": 22.02,
+    "discount_percent": 41.19,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00SRLM4CG",
+    "image_url": "https://m.media-amazon.com/images/P/B00SRLM4CG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:23",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.95,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sains et Saufs",
+    "price": 15.99,
+    "reference_price": 24.18,
+    "discount_percent": 33.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FBGZVVNV",
+    "image_url": "https://m.media-amazon.com/images/P/B0FBGZVVNV.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:22",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "8",
+    "price": 14.99,
+    "reference_price": 22.19,
+    "discount_percent": 32.45,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FTMRQHM1",
+    "image_url": "https://m.media-amazon.com/images/P/B0FTMRQHM1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:21",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Oehlbach i-Connect Câble Audio...laqués Or 2X fiche Jack 3,5 mm",
+    "price": 26.99,
+    "reference_price": 34.49,
+    "discount_percent": 21.75,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00HA00PFI",
+    "image_url": "https://m.media-amazon.com/images/P/B00HA00PFI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:35:07",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
     "title": "HORI Manette filaire HORIPAD T... Pokémon Company International",
     "price": 28.03,
     "reference_price": 37.9,
@@ -531,7 +691,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:36:12.573907+00:00",
     "price_history": [
       {
         "price": 34.99,
@@ -551,7 +711,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:36:12.573907+00:00",
     "price_history": [
       {
         "price": 5.99,
@@ -571,7 +731,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:36:12.573907+00:00",
     "price_history": [
       {
         "price": 20.62,
@@ -591,7 +751,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:36:12.573907+00:00",
     "price_history": [
       {
         "price": 32.99,
@@ -3748,6 +3908,279 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vidéoprojecteur Akiyo O2 avec WiFi6 BT 5.4 (vendeur tiers)",
+    "description": "47,49€ - Amazon 【Apps intégrées】Le projecteur O2 offre un accès à plus de 8 000 applications via Wi-Fi, y compris de nombreux services populaires tels que YouTube. Vous pouvez également télécharger des applications supplémentaires depuis le Play Store. Profitez de plus de 500 000 films sans avoir besoin d'une clé TV supplémentaire 【Projection à courte focale 0,8:1】Le projecteur O2 bénéficie d'un rapport de projection unique de 0,8:1, offrant des images de 35 à 200 pouces à une distance de seulement 0,6 à 3,5 mètres ! Combiné à une capacité de zoom de 50 %, il permet un visionnage sur grand écran dans des espaces compacts tels que les camping-cars, les chambres à coucher ou les campings. Sa taille ultra-compacte, légèrement plus grande qu'un smartphone, lui permet de se glisser facilement dans une poche de manteau. 【Wi-Fi 6 + Bluetooth Bidirectionnel】Le projecteur vidéo O2 utilise la dernière technologie Wi-Fi 6, compatible avec le Wi-Fi 5 GHz et 2,4 GHz, pour un streaming vidéo en ligne plus fluide et sans décalage. Son Bluetooth 5.4 intégré prend en charge à la fois l'entrée et la sortie audio. Connectez sans effort des écouteurs Bluetooth pour une qualité sonore améliorée, ou associez-le à votre smartphone pour transformer le projecteur en haut-parleur 【Rotation à 180° + Auto Keystone】 Le projecteur O2 est doté d'un design rotatif à 180°, qui vous libère des contraintes d'orientation traditionnelles des projecteurs. Il suffit de faire pivoter le support pour projeter sur les murs, les plafonds ou même les tableaux à dessin. Équipé d'une correction automatique de la distorsion trapézoïdale verticale, il permet d'obtenir un rectangle parfait en une seconde seulement. 【Plusieurs Modes de Contrôle】 Le projecteur O2 dispose d'un mode de contrôle exclusif à l'aide d'une souris, d'un mode de contrôle à distance et d'un mode de contrôle via une application. Au-delà de l'utilisation de la télécommande, vous pouvez facilement contrôler le projecteur via « tranScreen » . (Veuillez nous contacter pour obtenir une souris si nécessaire). Ne vous inquiétez plus jamais de perdre votre télécommande ! AKIYO offre une garantie de deux ans et une assistance technique à vie 【Portable Projecteur】Le mini projecteur portable AKIYO O2 mesure 9.5*9.5*15.8cm et ne pèse que 360 g. Aussi petit et léger qu'une bouteille d'eau, il se glisse facilement dans un sac de voyage, ce qui le rend quasiment imperceptible à transporter. Doté d'une puce performante, de 1 Go de RAM et de 16 Go de mémoire interne, il allie puissance et portabilité, ce qui le rend idéal pour le divertissement à domicile et le camping 【Service après-vente】AKIYO privilégie une vision à long terme, plaçant la qualité de ses produits et un service client fiable et durable au cœur de ses priorités. Le projecteur O2 est assorti d'une garantie de 2 ans et d'une assistance technique à vie. En cas de problème, nous vous répondrons dans les 24 heures. Nous proposons également un écran de projection 100 pouces ou une souris en édition limitée. Pour toute demande, veuillez contacter le service client officiel d'AKIYO",
+    "price": 47.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/videoprojecteur-akiyo-o2-avec-wifi6-bt-54-3431729",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/GHvjE/3431729_1/re/1200x1200/qt/90/3431729_1.jpg",
+    "detected_at": "2026-10-13T13:31:33+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 47.49,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "5 Sachets de 2 Barres - 285g Bounty Chocolat au Lait & Noix de Coco",
+    "description": "2,23€ - Amazon Journée difficile ? Bounty vous apporte le goût du paradis où que vous soyez - de votre café du matin à votre trajet en voiture. Chaque délicieuse barre de chocolat au lait Bounty est gorgée de noix de coco tendre et recouverte d'un épais chocolat au lait. Il y en a pour tous les goûts et tout le monde y trouvera son compte : Bounty met tout le monde d'accord. Nous savons tous que la noix de coco fait vibrer, alors pourquoi ne pas faire des réserves de ces chocolats pour votre réserve de friandises ou à votre assortiment de bonbons à Halloween, afin de faire goûter le paradis à tout le voisinage. Paquet contenant 5 sachets individuels de 2 barres, 285g. Convient aux végétariens.",
+    "price": 2.23,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/barres-bounty-chocolat-au-lait-noix-de-coco-5-sachets-de-2-barres-285g-3431735",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wnInb/3431735_1/re/1200x1200/qt/90/3431735_1.jpg",
+    "detected_at": "2026-10-13T13:30:12+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2.23,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rasoir Électrique Homme Braun (NEVO11005C) - 7-en-1, Technologie AeroTouch, Étanche, 60 min d’Autonomie",
+    "description": "449,98€ - Amazon Le rasoir électrique Braun NEVO associe la technologie AeroTouch à un système intelligent qui adapte le rasage à la densité de la barbe. Sa tête flexible facilite l’accès aux zones difficiles pour un rasage précis au quotidien. Caractéristiques principales : * Technologie AeroTouch pour réduire les frottements sur la peau. * 250 lames en acier inoxydable pour un rasage de près. * Système d’entretien automatique 7-en-1 pour nettoyer, entretenir et recharger le rasoir. * Tête flexible et tondeuse intégrée pour les contours et les poils longs. * Étanche à 100 % et autonomie jusqu’à 60 minutes. * Recharge rapide en 5 minutes pour un rasage d’appoint.",
+    "price": 449.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/braun-nevo11005c-rasoir-electrique-homme-7-en-1-technologie-aerotouch-etanche-60-min-dautonomie-3431734",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cl7ik/3431734_1/re/1200x1200/qt/90/3431734_1.jpg",
+    "detected_at": "2026-10-13T13:29:10+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 449.98,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Seau de Bonbons Krema Mix Party Halloween - 720 g",
+    "description": "4,89€ - Carrefour Pour préparer Halloween ! Carrefour propose une opération sur les seaux de bonbons Krema Mix Party Halloween de 720 g, à -30 % dans les magasins participants, soit -2,10€ par seau. *Offre constatée sur le drive Market Bordeaux Ferry , disponible dans de nombreux magasins/drive de France. Infos importantes : Marque : Krema / Carambar & Co. Produit : assortiment de bonbons Mix Party Halloween. Format : seau de 720 g. Code EAN : 3664346358057. Fabrication française indiquée sur la fiche produit. Offre à -30 % à vérifier dans le magasin ou Drive participant. À conserver à l'abri de la chaleur et de l'humidité. Allergènes possibles : lait et fruits à coque. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
+    "price": 4.89,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/bonbons-krema-mix-party-halloween-seau-de-720-g-le-2-a-70-carrefour-magasins-participants-3431733",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YR3d1/3431733_1/re/1200x1200/qt/90/3431733_1.jpg",
+    "detected_at": "2026-10-13T13:28:44+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4.89,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Pâte à tartiner Nutella, noisettes et cacao, 825 gr (via 1,62€ cagnotté)",
+    "description": "4,87€ - Carrefour Pâte à Tartiner Nutella, noisettes et cacao, 825 gr (via 1,62€ cagnotté) Description Vous êtes nombreux à apprécier le goût unique du Nutella sur une tranche de pain mais il existe aussi beaucoup d'autres recettes originales à essayer ! Pourquoi ne pas laisser place à votre créativité et tenter l'expérience avec Nutella ? Essayez quelque chose de nouveau pour réveiller votre enthousiasme ! Découvrez Nutella, la célèbre pâte à tartiner aux noisettes et au cacao, appréciée pour sa texture onctueuse et son goût gourmand. Idéale pour accompagner vos tartines de pain, brioches, crêpes et gaufres, elle apporte une touche de douceur à vos petits-déjeuners et goûters. Facile à étaler, Nutella ravit petits et grands pour des moments de plaisir à partager en famille.",
+    "price": 4.87,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pate-a-tartiner-nutella-noisettes-et-cacao-825-gr-via-162eur-cagnotte-3431732",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/iCusk/3431732_1/re/1200x1200/qt/90/3431732_1.jpg",
+    "detected_at": "2026-10-13T13:27:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4.87,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte mère SOYO B850ITX AMD, compatible avec les processeurs AMD Ryzen AM5 DDR5 7000 8000 9000",
+    "description": "108,55€ - AliExpress Présentation report > > Paramètres du processeur : Processeurs de bureau AMD AM5 Ruilong séries 7000/8000/9000 > > Paramètres de mémoire : 2*DDR5, prenant en charge une fréquence de 4800~6000+ MHz (overclocking synchrone), avec une capacité maximale de 64 Go. > > Interface du disque dur : 1 interface M.2 (prenant en charge la vitesse PCIE5.0 x4), 1 interface M.2 (prenant en charge la vitesse PCIE4.0 x4 à l'arrière), 4 interfaces SATA3.0. > > Interface USB : Il prend toujours en charge 6 interfaces USB 2.0, 5 interfaces USB 3.2 et 2 interfaces TYPC (jusqu'à 10 Gbps, transmission uniquement). > > interface d'affichage : 1*HDMI (compatible 2.0), 1*DP (compatible 1.4) > > emplacement d'extension 1*PCIE-16X (supportant 5.0x16) > > Paramètres audio : La carte son indépendante audio haute définition Realtek série ALC897 est adoptée. > > Interface NIC : 1*Carte réseau Realtek 8125 2.5G, 1*Interface WIFI M.2 (protocole PCIe). > > Interface d'alimentation : 1*24PIN ATXPWR 1*8PIN ATX12V",
+    "price": 108.55,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850itx-amd-compatible-avec-les-processeurs-amd-ryzen-am5-ddr5-7000-8000-9000-3431731",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/F99lr/3431731_1/re/1200x1200/qt/90/3431731_1.jpg",
+    "detected_at": "2026-10-13T13:26:12+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 108.55,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eau de toilette vaporisateur 105ml Club de Nuit Intense Man Armaf",
+    "description": "22,82€ - JoyBuy Caractéristiques principales et points forts • Club de Nuit Intense Man Eau de Toilette - un parfum boisé et épicé pour homme • Notes de tête : citron, ananas, bergamote, cassis, pomme - ouverture fraîche et fruitée • Notes de cœur : rose, jasmin, bouleau - élégantes et masculines • Notes de fond : vanille, ambre gris, musc, patchouli - chaudes et persistantes • Lancé en 2015 - un classique moderne d'ARMAF • Idéal pour les soirées et les occasions formelles - distinctif et audacieux ARMAF Club de Nuit Intense Man est un parfum boisé et épicé pour homme lancé en 2015.Le parfum s'ouvre sur des notes fraîches et fruitées de citron, d'ananas, de bergamote, de cassis et de pomme, menant à un cœur élégant de rose, de jasmin et de bouleau, avant de se poser sur une base chaleureuse de vanille, d'ambre gris, de musc et de patchouli.Un choix distinctif pour les soirées et les occasions formelles. Conseils d'utilisation Vaporisez sur les points de pulsation tels que les poignets, le cou et derrière les oreilles. Appliquez à une distance d'environ 15-20 cm pour une répartition uniforme. Évitez tout contact avec les yeux. Contenu net 105 ml",
+    "price": 22.82,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/armaf-club-de-nuit-intense-man-eau-de-toilette-vaporisateur-105ml-3431728",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oJphK/3431728_1/re/1200x1200/qt/90/3431728_1.jpg",
+    "detected_at": "2026-10-13T13:23:19+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 22.82,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Nouveaux clients] Analyseur logique FNIRSI DLA-16 Plus - 16 canaux, échantillonnage 1 GHz, mémoire 4 Gbit, USB 3.0",
+    "description": "103,25€ - Alibaba Bon plan sur Alibaba pour cet analyseur logique FNIRSI DLA-16 Plus Destiné aux passionnés d'électronique, aux développeurs de systèmes embarqués et aux techniciens, cet appareil permet de capturer et d'analyser les signaux numériques d'un circuit. Livraison gratuite > Caractéristiques Analyseur logique FNIRSI DLA-16 Plus 16 canaux d'acquisition Fréquence d'échantillonnage maximale annoncée : 1 GHz Mémoire annoncée : 4 Gbit Interface USB 3.0 Mode de stockage en flux USB Plage de tension d'entrée annoncée : -40 V à +40 V Analyse de signaux et de protocoles numériques Fonctionnement avec un ordinateur, sans écran intégré Indice de protection IP20 Poids brut du colis : environ 650 g",
+    "price": 103.25,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-analyseur-logique-fnirsi-dla-16-plus-16-canaux-echantillonnage-1-ghz-memoire-4-gbit-usb-30-3431727",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aLWDO/3431727_1/re/1200x1200/qt/90/3431727_1.jpg",
+    "detected_at": "2026-10-13T13:18:28+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 103.25,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sac à Outils Bosch GWT 20 1600A025L6 - 230 x 430 x 340 mm, Fixation L-Boxx, Charge max. 23kg",
+    "description": "45,90€ - Clickoutil Vendu 81€ sur Amazon (shock) passe ici à 45,90€ avec le code GWT20 > Livraison gratuite en point relais DPD Caractéristiques principales Dimensions : 430 x 230 x 340 mm Poids : 2,4 kg Charge maximale : 23 kg Matériau : Polyester 1000D très résistant et fond rigide antichocs Transport : Poignée ergonomique et bandoulière rembourrée Compatibilité : Clips intégrés pour le rattachement aux coffrets L-BOXX de Bosch Organisation : Boucles additionnelles, poches multiples et compatibilité avec le système ProClick",
+    "price": 45.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sac-a-outils-bosch-gwt-20-1600a025l6-230-x-430-x-340-mm-fixation-l-boxx-charge-max-23kg-3431726",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/MJPlS/3431726_1/re/1200x1200/qt/90/3431726_1.jpg",
+    "detected_at": "2026-10-13T13:17:49+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 45.9,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures 1ers pas bébé Kitchoun - Semelle extérieure souple, anti-dérapante",
+    "description": "8,70€ - Kiabi Dispo : En rose 11,60 au lieu de 29€ Référence : DMR14 Bébé explore le monde, ses chaussures l’accompagnent ! ✨ Légères et souples pour le confort, un bon maintien pour la sécurité. Avec scratch, elles s’adaptent à son rythme. - Chaussures à scratchs - Kitchoun - Motricité 3: pour faire mes 1ers pas - Semelle extérieure souple et anti-dérapante - Ouverture zippée sur le côté : pratique à enfiler - Bon maintien du pied et de la cheville - Renfort orteils - Couleur unie - Ce modèle a été développé avec la participation d'une ostéopathe et est recommandé par l'Union Française de la Santé du Pied Composition BASKET : Semelle exterieure, 100% elastomère thermoplastique, dont 51% TPR recyclé GRS 51% TPR recyclé GRS Ecocert Greenlife 271316 DOUBLURE ET SEMELLE DE PROPRETE, 100% polyester, dont 100% Polyester Recyclé GRS 100% Polyester Recyclé GRS Ecocert Greenlife 271316 Dessus chaussures, 100% polyurethane (pu),",
+    "price": 8.7,
+    "reference_price": 29.0,
+    "discount_percent": 70.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-1ers-pas-bebe-kitchoun-semelle-exterieure-souple-anti-derapante-3431725",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/TntYo/3431725_1/re/1200x1200/qt/90/3431725_1.jpg",
+    "detected_at": "2026-10-13T13:14:24+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.7,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets fille Puma Lally - Blanc, Plusieurs tailles disponibles",
+    "description": "22,77€ - Chaussea Type de fermeture: Lacets Marque: PUMA Genre: Fille Hauteur de talon: 0 cm Couleur: BLANC Motifs: Uni Tige: 100% Synthétique",
+    "price": 22.77,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baskets-court-lally-blanc-3431722",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dVnk5/3431722_1/re/1200x1200/qt/90/3431722_1.jpg",
+    "detected_at": "2026-10-13T13:14:19+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 22.77,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casquette MLB New York Yankees 100% Coton - Vert (taille unique)",
+    "description": "13,50€ - Privé by Zalando Bon prix ! :) Détails : Occasion: loisirs/sportswear Motif: uni Couleur: vert Composition: 100% coton Taille: unique/ajustable",
+    "price": 13.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casquette-mlb-new-york-yankees-100-coton-vert-taille-unique-3431724",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Qdj2c/3431724_1/re/1200x1200/qt/90/3431724_1.jpg",
+    "detected_at": "2026-10-13T13:12:33+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 13.5,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Séjour 7J/6N pour 2 à Khao Lak (Thaïlande) - Kappa Club Ananea Beyond Khao Lak 4* + Tout compris + Massage et dîner - Septembre (301€/pers)",
+    "description": "603€ - Voyage privé Envie de vous évader en Thaïlande et de profiter d'un séjour tropical entre plages, détente et découvertes locales ? Direction Khao Lak , une destination réputée pour son littoral bordé de longues plages et son ambiance plus paisible que les grandes stations balnéaires thaïlandaises. Je vous ai trouvé un séjour au Kappa Club Ananea Beyond Khao Lak 4 *, en formule tout compris , avec hébergement en villa Garden ou de catégorie supérieure . Pour ces dates, l'offre prévoit également de beaux avantages : un dîner en tête-à-tête sur la plage avec menu 3 plats et deux massages d'une heure par personne , pour une parenthèse placée sous le signe de la détente. Pour 2 personnes , le séjour revient à seulement 603€ au total , soit 301,50€ par personne , pour 6 nuits du 30 août au 5 septembre 2027 . > L'hôtel est noté : 9,1/10 sur Booking > Inclus 6 nuits au Kappa Club Ananea Beyond Khao Lak 4* Hébergement en villa Garden ou de catégorie supérieure Formule tout compris 1 dîner en tête-à-tête sur la plage, menu 3 plats 2 massages d'une heure par personne et par séjour Marché de Bang Niang Visite du Golden Temple Repas chez l'habitant Initiation à la boxe thaï dans un camp local Sans transport : vols non inclus > Le petit plus Un séjour qui combine détente et immersion locale : en plus de la formule tout compris, les avantages Kappa Club permettent de découvrir quelques facettes de la culture thaïlandaise, tandis que les massages et le dîner sur la plage ajoutent une touche romantique au séjour. ✤ Poussez les portes de votre 4* Envie de vous évader dans un complexe luxueux et romantique ? Bienvenue au Kappa Club Ananea Beyond Resort Khao Lak 4* ! À quelques pas du sable blanc et poudreux de la plage de Pakweep, à Phang Nga, entouré d'une nature intacte et verdoyante, cet établissement vous promet détente et évasion. Engagé pour la durabilité du tourisme, la préservation de l'environnement, votre pied-à-terre a reçu la certification Travelife Gold. N'attendez plus pour vous offrir des vacances bien méritées dans un petit coin de paradis... A noter : Activités et animations Kappa Club du 31/10/2026 au 29/08/2027. En dehors de cette période, l'hôtel ne bénéficie pas des activités Kappa Club. ✤ L'expérience Kappa Club Vivez le club de vacances comme vous ne l’avez jamais vécu ! Avec Kappa Club , voyagez de manière authentique... en club ! Découvrez plusieurs facettes d’une destination tout en bénéficiant de prestations haut de gamme, animations à la carte, rencontre et découverte, convivialité et authenticité... Kappa Club rassemble les conditions idéales pour vous offrir des vacances de rêve tout en vous proposant des animations ludiques et culturelles à la carte. Situation géographique : 9/69 Moo 1, Pak Weep Beach, Khuk Khak, Takua Pa, Phang Nga 82220 Thailand., Khao Lak, Thailand, Khao Lak, Thaïlande L'aéroport de Phuket se trouve à environ 90 kilomètres de l'hôtel. ✤ Les chambres Lors de cette échappée, vous séjournerez en Villa Garden ou en hébergement de catégorie supérieure, avec supplément : la Villa Premier. À noter : Si la Villa Garden de base est complète, vous serez automatiquement placés en chambre de catégorie supérieure avec supplément : la Villa Premier. Villa Garden (70 m²) Profitez pleinement du confort de votre Villa , située au milieu des jardins tropicaux. Son petit plus ? Le balcon privé qui vous permettra de vous relaxer sous l'air frais du début de journée... Vous bénéficierez de : Wi-Fi gratuit, télévision par câble et Smart TV, minibar et eau gratuite, nécessaire à café et thé avec bouilloire, salle de bains avec douche, peignoirs et chaussons, sac de plage et serviette de bain, climatisation, sèche-cheveux, service en chambre. Pas de possibilité de séjourner en chambre individuelle avec supplément. La capacité maximale en chambre est de 3 adultes. Villa Premier (61 m²) Optez pour une chambre à deux pas de la plage avec cette Villa Premier et profitez d'équipements de luxe et du balcon privé pour d",
+    "price": 603.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sejour-7j6n-pour-2-a-khao-lak-thailande-kappa-club-ananea-beyond-khao-lak-4-tout-compris-massage-et-diner-septembre-301eurpers-3431723",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y6eq7/3431723_1/re/1200x1200/qt/90/3431723_1.jpg",
+    "detected_at": "2026-10-13T13:08:56+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 603.0,
+        "observed_at": "2026-10-13T13:36:14.466903+00:00"
       }
     ]
   },
@@ -9915,195 +10348,6 @@
       {
         "price": 11.11,
         "observed_at": "2026-10-13T01:10:48.819149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Apple iPhone 18 Pro Max 256go (via 100€ ODR)",
-    "description": "1 429€ - Sosh Apple iPhone 18 Pro Max 5G (modèle 256 Go, coloris Glacier) qui revient à 1 429 € au lieu de 1 629 € chez Sosh grâce au cumul du code promo SOSH15 (-100 € immédiats au panier) et d'une offre de remboursement (ODR) de 100 €. Détail de l'optimisation tarifaire : • Prix de départ : 1 629 € • Code promo : SOSH15 (-100 € de remise immédiate au panier dès 500 € d'achat) • Prix payé à la commande : 1 529 € • Offre de remboursement (ODR) Sosh / Orange : -100 € remboursés sur demande après réception • Prix de revient final : 1 429 € (payable au comptant ou en étalement sans frais à 0 %) Caractéristiques techniques clés : • Écran Super Retina XDR : dalle OLED de 6,9 pouces avec technologie ProMotion 120 Hz adaptative et Dynamic Island. • Performances : processeur Apple série Pro de dernière génération assurant une fluidité maximale et la prise en charge complète d'Apple Intelligence. • Bloc photo Pro : triple module photo 48 MP avec téléobjectif périscopique zoom étendu, vidéo ProRes et enregistrement 4K Dolby Vision jusqu'à 120 fps. • Autonomie : batterie haute capacité offrant une excellente endurance en lecture vidéo continue. • Connectivité : compatible 5G+, Wi-Fi 7, Bluetooth et double SIM (Nano-SIM + eSIM). • Finition : châssis résistant en titane/alliage coloris Glacier, verre Ceramic Shield et étanchéité IP68. Appareil vendu neuf, non bloqué opérateur (utilisable avec n'importe quelle carte SIM), avec livraison offerte à domicile ou en point relais. N'oubliez pas de renseigner le formulaire de remboursement en ligne sur le portail Orange/Sosh dès l'achat validé..",
-    "price": 1429.0,
-    "reference_price": 1629.0,
-    "discount_percent": 12.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/apple-iphone-18-pro-max-256go-via-100eur-bonus-reprise-3431381",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vZQal/3431381_1/re/1200x1200/qt/90/3431381_1.jpg",
-    "detected_at": "2026-10-13T00:38:31+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1429.0,
-        "observed_at": "2026-10-13T00:52:07.274133+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Cafetière portionnée Tassimo Dosette Bosch TAS102E (Via Retrait Magasin)",
-    "description": "29,99€ - Conforama Cafetière Tassimo en promotion",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cafetiere-portionnee-tassimo-dosette-bosch-tas102e-3431378",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/nD3jq/3431378_1/re/1200x1200/qt/90/3431378_1.jpg",
-    "detected_at": "2026-10-12T23:28:04+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-12T23:32:40.004771+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Fallout 76 sur PC (Dématérialisé - Code Microsoft Store)",
-    "description": "0,37€ - Kinguin Fallout 76 – Code Microsoft Store Explorez les terres désolées des Appalaches dans ce RPG d'action en monde ouvert, jouable en solo ou en multijoueur avec vos amis ! Explorez, récupérez du loot, affrontez des créatures mutantes et construisez votre camp dans l'univers post-apocalyptique de Fallout. Il s'agit d'un code à entrer dans le Microsoft Store pour accéder au jeu. ✅ Acheté et testé personnellement : le code fonctionne parfaitement !",
-    "price": 0.37,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/fallout-76-microsoft-store-3431380",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/mtr1X/3431380_1/re/1200x1200/qt/90/3431380_1.jpg",
-    "detected_at": "2026-10-12T23:26:33+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 0.37,
-        "observed_at": "2026-10-12T23:32:40.004771+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets Homme Skechers Go Walk Flex Vespid - Noir",
-    "description": "44,99€ - Decathlon Voici pour moi les shoes idéales pour aller marcher. ! GO WALK : elles portent très bien leur nom avec un confort incroyable et une semelle très douce, elles m’ont permis de marcher 1500 kms cette année sans presque les sentir. Route et petits chemins sont leurs terrains favoris. Profitez d’un confort supplémentaire avec la GO WALK Flex - Vespid. Dotée d’une tige en maille technique à lacets, d’une semelle intérieure Air-Cooled Goga Mat™ et d’un coussin ULTRA GO® léger.",
-    "price": 44.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/skechers-basket-homme-go-walk-flex-vespid-noir-3431379",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/uGMUr/3431379_1/re/1200x1200/qt/90/3431379_1.jpg",
-    "detected_at": "2026-10-12T23:21:42+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 44.99,
-        "observed_at": "2026-10-12T23:32:40.004771+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gilet de course lumineux Noxgear Tracer2 avec lampe (Vendeur Tiers)",
-    "description": "65,95€ - Amazon A priori c’est pas mal prisé (même si ça vient des US), USB C, lumineux comme il faut etc. À propos de ce produit [TOUTES LES COULEURS EN UN] Choisissez parmi 8 couleurs unies ultra-lumineuses : vert, rouge, bleu, rose, jaune, bleu et rose (mélangées), rose et vert (mélangées) et bleu et rouge (mélangées), ainsi que 8 modes clignotants multicolores captivants. Nos modes d’éclairage spéciaux, basés sur les sciences de la vision, vous assurent une visibilité optimale et avertissent les automobilistes. Les modes sont facilement sélectionnables d’une simple pression sur un bouton, que vous marchiez, couriez, jouiez au frisbee, fassiez de l’équitation ou même conduisiez une moto. [ÉCLAIRAGE À 360°, RÉFLECTIVITÉ ET FLUORESCENCE] Contrairement aux autres gilets de course réfléchissants et équipements de cyclisme haute visibilité, nos câbles à fibres optiques flexibles et nos ceintures pectorales réfléchissantes 3M assurent votre sécurité en alertant les conducteurs distraits et les autres usagers de la route avant même que leurs phares ne vous éclairent. La forme unique en X des LED garantit une visibilité optimale, éclairant les deux côtés du corps et vous rendant visible à plus de 400 mètres dans toutes les directions. [LÉGÈRE, RESPIRANTE ET EXTRÊMEMENT CONFORTABLE] Que ce soit pour un petit jogging matinal avec les enfants, une promenade avec vos chiens le soir ou une longue sortie à vélo en solo, avec seulement 184 g, vous oublierez que vous la portez. Fabriquée en mesh sportif de haute qualité et dotée d'un élastique performant, la Tracer2 est résistante à la transpiration, anti-frottements et très confortable. Son design fin et minimaliste minimise le contact entre le tissu et la peau, réduit la transpiration et évite toute interférence avec votre cardiofréquencemètre. [HAUTE PERFORMANCE - À PORTER EN TOUTES SAISONS] Ajustez-la facilement par-dessus votre manteau ou veste d'hiver, ou resserrez-la pour un maintien optimal sur un t-shirt ou un débardeur lors de vos activités estivales. Profitez d'un ajustement parfait et d'un maintien impeccable, quelle que soit la saison ou vos vêtements : printemps, été, automne ou hiver, la Tracer2 vous accompagnera dans toutes vos activités. Grâce à sa conception imperméable, même la pluie et la neige ne vous ralentiront pas. [CONÇU POUR L'EXCELLENCE] Noxgear a été fondée par des ingénieurs athlètes, qui continuent d'appliquer la même rigueur et la même discipline qu'ils utilisaient pour concevoir des fusées et des robots afin de vous offrir un produit 5 étoiles avec un service client 5 étoiles. Commentaires client",
-    "price": 65.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gilet-de-course-lumineux-noxgear-tracer2-avec-ou-sans-lampe-3431376",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4J97a/3431376_1/re/1200x1200/qt/90/3431376_1.jpg",
-    "detected_at": "2026-10-12T23:19:30+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 65.95,
-        "observed_at": "2026-10-12T23:32:40.004771+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets Adidas Breaknet 3.0 Femme - Blanc (Via Retrait dans une sélection de Magasins)",
-    "description": "29,99€ - Gemo Les baskets Breaknet 3.0 femme d'Adidas sont conçues pour un style de vie actif. *spécifications du produit :* - Design inspiré des courts de tennis - Perforations sur le dessus - Surpiqûres",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-breaknet-30-femme-adidas-blanc-3431375",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XkqyK/3431375_1/re/1200x1200/qt/90/3431375_1.jpg",
-    "detected_at": "2026-10-12T23:14:33+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-12T23:16:14.838249+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Appareil Photo Hybride plein format Canon EOS R8 + Objectif RF 24-105 mm f/4-7.1 IS STM (Frontaliers Suisse)",
-    "description": "1 040,80€ - Galaxus CH Offre du jour chez Digitec : le Canon EOS R8 accompagné de l’objectif RF 24-105 mm f/4-7.1 IS STM à 969 CHF, soit environ 1 041 € selon le taux de change . Digitec affiche un ancien prix de 1 558 CHF, soit une réduction annoncée de 38 %. Offre limitée à 80 kits au total, dans la limite des stocks disponibles. Possiblité de retrait directement en magasin. Caractéristiques : • Capteur CMOS plein format de 24,2 mégapixels. • Autofocus Dual Pixel CMOS AF II. • Vidéo 4K jusqu’à 60 images/s. • Rafale jusqu’à 40 images/s. • Écran tactile de 3 pouces. • Wi-Fi et Bluetooth. • Objectif RF 24-105 mm f/4-7.1 IS STM avec stabilisation optique. Le kit comprend : • Boîtier Canon EOS R8. • Objectif RF 24-105 mm f/4-7.1 IS STM. • Batterie LP-E17. • Chargeur LC-E17.",
-    "price": 1040.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/frontaliers-suisse-appareil-photo-hybride-plein-format-canon-eos-r8-objectif-rf-24-105-mm-f4-71-is-stm-3431374",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/WHLxA/3431374_1/re/1200x1200/qt/90/3431374_1.jpg",
-    "detected_at": "2026-10-12T23:10:32+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 1040.8,
-        "observed_at": "2026-10-12T23:16:14.838249+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection d'Articles en Promotion + Points Doublés",
-    "description": "Lego Jusqu'au 20 octobre à 1 heure du matin, profitez de remises sur une sélection de Lego avec en plus les points doublés. Le cadeau restaurants of the Word : Italy, est offert pour 180 euros d'achat. 7% de cashback avec Topcashback sur les produits non exclusifs. 3% sur les exclusivités. Livraison gratuite à partir de 55 euros.",
-    "price": 180.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/20-a-40-de-reduction-sur-une-selection-points-doubles-3431372",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tRjog/3431372_1/re/1200x1200/qt/90/3431372_1.jpg",
-    "detected_at": "2026-10-12T22:56:11+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 180.0,
-        "observed_at": "2026-10-13T08:44:08.703793+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie de cuisine Tefal Ingenio Emotion L897S104 - 10 pièces (Vendeur Tiers Boulanger)",
-    "description": "79,99€ - Auchan La batterie de cuisine Ingenio Emotion 10pcs L897S104 est un ensemble d'ustensiles de cuisine. *caractéristiques du produit :* - Poids net : 4.6 kg - Technologie Thermo-Spot - Coloris : Inox - Forme : Rond",
-    "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tefal-batterie-de-cuisine-ingenio-emotion-10pcs-l897s104-poids-net-46-kg-3431371",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/dIE5J/3431371_1/re/1200x1200/qt/90/3431371_1.jpg",
-    "detected_at": "2026-10-12T22:52:12+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-12T23:01:14.790909+00:00"
       }
     ]
   }
