@@ -1,5 +1,105 @@
 [
   {
+    "title": "Belkin Chargeur sans fil porta...teur secteur non inclus, bleu)",
+    "price": 29.02,
+    "reference_price": 35.82,
+    "discount_percent": 18.98,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09BDCHNDD",
+    "image_url": "https://m.media-amazon.com/images/P/B09BDCHNDD.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:14:29",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.02,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "FreeBuds SE 2 (Hellblau, USB-C, Bluetooth, IP54)",
+    "price": 40.88,
+    "reference_price": 54.41,
+    "discount_percent": 24.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CDM94MJL",
+    "image_url": "https://m.media-amazon.com/images/P/B0CDM94MJL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:14:27",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 40.88,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tivoly 10923931600 1 Foret SDS...echnic, Gris, Ø 16 mm L 450 mm",
+    "price": 54.58,
+    "reference_price": 61.98,
+    "discount_percent": 11.94,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B079NZBRDW",
+    "image_url": "https://m.media-amazon.com/images/P/B079NZBRDW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:14:25",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 54.58,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "StarTech.com Adaptateur USB ve...OM Rétention, USB-A vers RS232",
+    "price": 41.83,
+    "reference_price": 77.08,
+    "discount_percent": 45.73,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CQMDMP8R",
+    "image_url": "https://m.media-amazon.com/images/P/B0CQMDMP8R.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:14:20",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 41.83,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "okuma C-65 Ceymar Moulinet Noi... et Rouge 17,8 x 15,2 x 7,6 cm",
+    "price": 71.36,
+    "reference_price": 92.43,
+    "discount_percent": 22.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B015RX2TJ4",
+    "image_url": "https://m.media-amazon.com/images/P/B015RX2TJ4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 20:14:18",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 71.36,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
     "title": "OtterBox Cable Performance Plu...tifié Apple MFI. Blanc 1 mètre",
     "price": 13.56,
     "reference_price": 22.99,
@@ -6392,6 +6492,169 @@
     ]
   },
   {
+    "title": "Jouet Lego Ninjago La Moto Tempête du Robot de Kai 71830",
+    "description": "29,99€ - Carrefour LEGO Ninjago La Moto Tempête du Robot de Kai 71830 29.99€ au lieu de 39.99€ (voir 45.99€ chez king jouet) Bonne affaire avant Noël (y) Cashback de 5% avec Boursobank, soit 1.50 crédités sur la carte, soit 28.49€ le set lego Les enfants peuvent s'amuser avec le modèle combiné, puis le diviser en 2 véhicules plus petits : le robot de Kai doté d'une tête, de bras et de jambes mobiles, d'un cockpit et d'une grande lame tempête, et la moto volante de Nya avec un cockpit, des ailes mobiles et 2 fusils à ressort. Ce set ninja inclut 3 minifigurines NINJAGO : Kai armé de 2 katanas de cristal, Nya équipée de 2 katanas d'or et un horrible Guerrier draconique avec son sabre, pour permettre aux enfants de mettre en scène des combats épiques.",
+    "price": 29.99,
+    "reference_price": 39.99,
+    "discount_percent": 25.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-ninjago-la-moto-tempete-du-robot-de-kai-71830-3431962",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y1tfU/3431962_1/re/1200x1200/qt/90/3431962_1.jpg",
+    "detected_at": "2026-10-13T20:08:32+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra Thermique Hikmicro D01 - Résolution Natif IR 96x96, 240x240 SuperIR (Vendeur Tiers)",
+    "description": "127,99€ - Amazon 【SuperScene Reconnaissance Intelligente de Scènes】 La caméra IR D01 intègre la technologie exclusive de reconnaissance de scènes SuperScene de HIKMICRO, conçue pour simplifier les inspections thermiques pour les débutants. Alimentée par le deep learning, elle diagnostique automatiquement, en quelques secondes, les problèmes courants à la maison, ce qui permet des inspections plus rapides. 【Facilité d'Utilisation】 La conception conviviale du bouton de la D01 vous permet d'allumer, de naviguer dans les menus, de capturer et d'enregistrer, et de changer les couleurs instantanément. Conçue pour les propriétaires afin de repérer des problèmes tels que les ponts thermiques, les courants d'air, les problèmes électriques, et plus encore — que ce soit pour vérifier les systèmes HVAC, les fours, les voitures ou même retrouver un animal perdu. 【240×240 SuperIR】 Avec l'algorithme d'amélioration d'image SuperIR et un taux de rafraîchissement de 20 Hz, la D01 améliore la clarté de l'image, passant de 96x96 IR natif à 240x240 SuperIR lors de la visualisation en direct, pour des détails nets. Dotée d’un champ de vision de 50°, elle offre une large couverture lors du balayage. Prend en charge la capture programmée pour l’analyse des gradients de chaleur de jour comme de nuit. Cinq palettes de couleurs pour répondre à différents besoins.",
+    "price": 127.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/camera-thermique-hikmicro-d01-resolution-natif-ir-96x96-240x240-superir-vendeur-tiers-3431960",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ddHel/3431960_1/re/1200x1200/qt/90/3431960_1.jpg",
+    "detected_at": "2026-10-13T20:05:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 127.99,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte graphique Sapphire Nitro+ AMD Radeon RX 9070 XT 16 Go",
+    "description": "889,99€ - Grosbill Sapphire Nitro+ Radeon RX 9070 XT 16 Go à 889,99 € au lieu de 1 029,99 €, prix en hausse sur Idealo La Sapphire Nitro+ Radeon RX 9070 XT GAMING OC 16GB est une carte graphique conçue pour les jeux exigeants. Caractéristiques : GPU : AMD Radeon RX 9070 XT, architecture RDNA 4 Mémoire : 16 Go GDDR6, bus 256 bits, 20 Gbps 4096 processeurs de flux, 64 CUs, 64 Mo d'Infinity Cache Fréquences : Game Clock jusqu'à 2520 MHz, Boost jusqu'à 3060 MHz Sorties vidéo : 2x HDMI, 2x DisplayPort 2.1a Interface : PCI-Express 5.0 x16 Refroidissement : Tri-X Cooling (ventilateurs AeroCurve à double roulement à billes, caloducs composites, technologie Free Flow) Format : 3,2 slots, 330,8 x 128,5 x 65,7 mm Consommation typique : 330 W, alimentation de 750 W minimum recommandée FSR 4 (upscaling IA), AFMF 2, Anti-Lag 2, encodage/décodage AV1 Fournis : support en L, câble ARGB 3 broches, backplate magnétique, adaptateur 12V-2x6 vers 3x8 broches Réf. constructeur : 11348-01-20G / EAN : 4895106295872",
+    "price": 889.99,
+    "reference_price": 1029.99,
+    "discount_percent": 13.6,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/grosbill-carte-graphique-sapphire-nitro-amd-radeon-rx-9070-xt-16-go-3431959",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KIZ7L/3431959_1/re/1200x1200/qt/90/3431959_1.jpg",
+    "detected_at": "2026-10-13T20:03:42+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 889.99,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque Moto BMW Modulable System 7 EVO",
+    "description": "411€ Le Casque Moto BMW Modulable System 7 EVO est conçu pour une utilisation routière polyvalente. *caractéristiques du produit :* - Casque modulable - Coque en carbone - Système de sécurité MIPS - Unisexe Description Le casque Moto BMW System 7 Evo est un casque unisexe destiné au Touring, tout comme à l'Urbain. Il se caractérise par sa mentonnière modulable et son accent sur la sécurité. La composition du casque BMW System 7 Evo : La coque extérieure du casque modulable BMW System 7 Evo existe en deux tailles, elle est composée de carbone donc vous offre un amortissement des chocs excellent pour un poids plume. La coque intérieure est faite de polystyrène expansé à segmentation multiple, afin de garantir votre protection tout en gardant un poids léger. Les mousses intérieures du casque BMW System 7 Evo sont faites de nouveaux matériaux déperlants afin de vous garder au sec en tout temps. Le confort du casque moto BMW System 7 Evo : Le casque System 7 Evo est équipé d'un mécanisme de visière et de joint optimisés pour éviter tout souci. Équipé d'une visière double-écran au nouveau design, l'intérieur est antibuée et les deux faces sont traitées anti-rayures . La visière pare-soleil est intégrée et commandée par coulisseau, elle reste accessible en mode jet. Le système de ventilation du casque est efficace, tout en gardant un excellent aérodynamisme et aéroacoustique. Avec le nouveau design Evo, le casque est équipé d'un spoiler de grande taille. Les mousses intérieures ont été pensées dans un but de grand confort. Un casque modulable avant tout : Le casque modulable repose sur un mécanisme à quatre articulations. L'ouverture de la partie menton se fait grâce à une touche centrale. La sécurité du casque modulable System 7 Evo BMW : Le casque BMW System 7 Evo est doté de la technologie MIPS qui vise à réduire la rotation en cas de chute, et vous protège donc au maximum. Aussi, un bandeau de nuque est intégré pour un maintien parfait. Le système de fermeture est d'une sangle avec boucle clip, afin de garantir sa stabilité en cas de chute. En cas de défaut, le casque est couvert par une garantie constructeur de 5 ans. Le casque moto BMW modulable System 7 Evo est compatible avec le système de communication V3 pour casque System 7. Le casque est livré avec une visière claire équipée d’un écran antibuée PinLock. Les visières colorées ou teintées sont disponibles en option et vendues séparément. Taille du XS au 3XL",
+    "price": 411.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-moto-bmw-modulable-system-7-evo-3431958",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/IovH9/3431958_1/re/1200x1200/qt/90/3431958_1.jpg",
+    "detected_at": "2026-10-13T20:03:32+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 411.0,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Table Agerby - Ø119cm, verre/chêne naturel",
+    "description": "175€ - Jysk La table AGERBY Ø119 verre/chêne naturel est une table de salle à manger ronde. **spécifications du produit :** - Plateau en verre trempé - Pieds en chêne massif - Bois traité à l'huile - Dimensions : Ø119 x H76 cm",
+    "price": 175.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/table-agerby-o119-verrechene-naturel-3431957",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/iE2vr/3431957_1/re/1200x1200/qt/90/3431957_1.jpg",
+    "detected_at": "2026-10-13T20:02:10+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 175.0,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Disney - Stitch (43249)",
+    "description": "36,79€ - Carrefour LEGO Disney Stitch 43249 36.79€ au lieu de 45.99€ Livraison 1.99€ en magasin, 3.99€ en point relais A optimiser avec le cashback 5% Boursobank, soit 1.84€ crédités sur la carte soit le set lego à 34.95€ Une figurine de Stitch pour les enfants dès 9 ans qui stimule l'imagination pendant la construction Inclus le personnage de Lilo et Stitch à exposer, avec un cornet de glace à construire et une fleur La figurine de Stitch peut bouger les oreilles, tourner la tête et tenir une glace à la main Recréez Stitch dans sa chemise hawaïenne, avec un cornet de glace et une fleur décorative",
+    "price": 36.79,
+    "reference_price": 45.99,
+    "discount_percent": 20.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-disney-stitch-43249-3431952",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/q7FAN/3431952_1/re/1200x1200/qt/90/3431952_1.jpg",
+    "detected_at": "2026-10-13T19:56:30+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 36.79,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Habitants] Distribution Gratuite de Pièges à Moustiques Tigres - Ormes (45)",
+    "description": "Lauréat du Budget Participatif 2026, le projet \"Pièges à Moustiques\", sera concrétisé par une Distribution Gratuite de Pièges à Moustiques Tigres prévue début du Printemps 2027 . Pour en bénéficier, inscription Obligatoire dès à présent sur la liste d’attente en envoyant un mail à budgetparticipatif@ville-ormes.fr en indiquant : nom et prénom, adresse postale, et numéro de téléphone. Distribution d'1 Piège/Foyer, dans la limite des stocks disponibles. Signature d’une charte obligatoire. Infos",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/habitants-distribution-gratuite-de-pieges-a-moustiques-tigres-ormes-45-3431951",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5HzCR/3431951_1/re/1200x1200/qt/90/3431951_1.jpg",
+    "detected_at": "2026-10-13T19:56:16+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Jeu de construction Lego Speed Champions Flash McQueen 77255",
+    "description": "17,90€ - Amazon VOITURE JOUET ROUGE FLASH McQUEEN DU FILM CARS – Les enfants dès 9 ans peuvent célébrer le 20ème anniversaire du film Cars de Disney Pixar avec le jouet de construction LEGO Speed Champions|Flash McQueen DESIGN & ACCESSOIRES AUTHENTIQUES – La réplique reprend des caractéristiques, dont le sourire de Flash, l'éclair jaune & orange, les autocollants de phares, le numéro 95, le logo du sponsor Rust-eze et l’inscription « Lightyear » sur les pneus CHÂSSIS DÉTAILLÉ – Ce modèle de Flash McQueen est la seule voiture LEGO Speed Champions dotée d’un châssis détaillé, pour un jeu encore plus passionnant MAQUETTE CARS À L'ÉCHELLE D'UNE MINIFIGURINE – Après la construction amusante de ce set collector Flash McQueen, les enfants peuvent l'exposer fièrement comme décoration sur une étagère ou un bureau CADEAU POUR FANS DE VOITURES – Ce jouet Flash McQueen offre une expérience de construction en famille et de jeu gratifiante et constitue une superbe idée de cadeau pour un garçon ou une fille dès 9 ans DÉVELOPPEZ LA PASSION DE LA COURSE – Découvrez d'autres sets de construction de voitures LEGO Speed Champions (vendus séparément) regorgeant de détails authentiques VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-unes des plus grandes légendes automobiles",
+    "price": 17.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-speed-champions-flash-mcqueen-77255-3431949",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/JUA1y/3431949_1/re/1200x1200/qt/90/3431949_1.jpg",
+    "detected_at": "2026-10-13T19:52:45+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 17.9,
+        "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      }
+    ]
+  },
+  {
     "title": "L'Odyssée (2026) Édition Collector fnac",
     "description": "29,99€ Je sais ce n’ai pas vraiment un deal, mais je pense que cela va vite partir alors je partageL'Odyssée (2026) Édition Collector Spéciale Fnac SteelBook® Blu-ray 4K Ultra HD Christopher Nolan - L'Odyssée OEn précommande, livraison prévue à partir du 18 novembre 2026",
     "price": 29.99,
@@ -6908,7 +7171,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 64.62,
@@ -6950,7 +7213,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 25.99,
@@ -6971,7 +7234,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 914.37,
@@ -6992,7 +7255,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 5.99,
@@ -7034,7 +7297,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 4999.0,
@@ -7055,7 +7318,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 24.0,
@@ -7076,7 +7339,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 14.49,
@@ -7097,7 +7360,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 392.0,
@@ -7118,7 +7381,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 143.99,
@@ -7139,7 +7402,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
     "price_history": [
       {
         "price": 59.99,
@@ -10730,27 +10993,6 @@
     "price_history": [
       {
         "price": 1259.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures Nike Air Max Plus Kids - Taille 38",
-    "description": "24,99€ - Veepee Excellent prix sur cette paire de Nike, affichée à 144.99€ sur le site Nike Un beau cadeau de fin d'année (party) Coloris : Team Red/Cool Grey",
-    "price": 24.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-enfant-nike-air-max-plus-taille-38-3431690",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/etFF4/3431690_1/re/1200x1200/qt/90/3431690_1.jpg",
-    "detected_at": "2026-10-13T12:08:22+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
-    "price_history": [
-      {
-        "price": 24.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
       }
     ]
