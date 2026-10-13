@@ -2250,6 +2250,20 @@
     ]
   },
   {
+    "title": "Clairefontaine 9547C Un Journa...Pelliculée - Couleur Aléatoire",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B004OCAYMO",
+    "image_url": "https://m.media-amazon.com/images/P/B004OCAYMO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T01:12:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
     "title": "Like a Dragon: Infinite Wealth sur Xbox One & Xbox Series X (version US/CA)",
     "description": "11,11€ - Amazon UNE AVENTURE INTENSE ET ÉPIQUE Deux héros hors du commun réunis par un coup du sort, ou peut-être par quelque chose de plus sinistre... Ichiban Kasuga, un outsider inarrêtable qui a toujours su remonter la pente, et Kazuma Kiryu, un homme brisé qui vit ses derniers jours. DE L'ACTION RPG DE PREMIER ORDRE Découvrez des combats uniques en leur genre avec des batailles RPG dynamiques et rapides, où le champ de bataille devient votre arme et où tous les coups sont permis. Adaptez les compétences de votre groupe à la situation grâce à des jobs et à des personnalisations extravagants pour terrasser stratégiquement vos ennemis à l'aide de mouvements délirants. UNE AVENTURE SANS FIN Menez la belle vie au Japon et explorez tout ce qu'Hawaï a à offrir Trailers sur Xbox : [shortcode id=\"20619107\"/] [shortcode id=\"20619108\"/] [shortcode id=\"20619109\"/] [shortcode id=\"20619110\"/]",
     "price": 11.11,
@@ -10161,25 +10175,6 @@
     "price_history": [
       {
         "price": 16.9,
-        "observed_at": "2026-10-12T14:45:29.366098+00:00"
-      }
-    ]
-  },
-  {
-    "title": "20% de réduction supplémentaire sur une sélection d'articles The Kooples en promotion - Ex : Veste The Kooples - Beige (du S au XL)",
-    "description": "49,59€ - Otrium Nouveau code Otrium pour optimiser vos achats :) 10% de réduction supplémentaire sur une sélection d'articles en promotion 20% pour la sélection The Kooples ! Utilisez le code DEAL lors du passage au panier Lien direct vers la sélection complète . Détails du produit présenté dans le titre : Veste The Kooples Poches avant Lining: 100% Viscose Pocket Lining: 68% Polyester 32% Cotton Exterior: 100% Cotton Rib: 89% Cotton 10% Polyamide 1% Elastane Tailles : S / M / XL D'autres exemples (avec les 10% supplémentaires appliqués) : Veste militaire The Kooples - 43.19€ Veste Tommy Hilfiger - 91.80€ Veste Levi's - 44.09€",
-    "price": 49.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/10-de-reduction-supplementaire-sur-une-selection-darticles-en-promotion-ex-veste-the-kooples-beige-du-s-au-xl-3431102",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Lvgob/3431102_1/re/1200x1200/qt/90/3431102_1.jpg",
-    "detected_at": "2026-10-12T14:26:37+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 49.59,
         "observed_at": "2026-10-12T14:45:29.366098+00:00"
       }
     ]
