@@ -1,5 +1,285 @@
 [
   {
+    "title": "28 Ans Plus Tard",
+    "price": 9.99,
+    "reference_price": 20.03,
+    "discount_percent": 50.12,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FDH6H39X",
+    "image_url": "https://m.media-amazon.com/images/P/B0FDH6H39X.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:47:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Marsupilami",
+    "price": 9.99,
+    "reference_price": 15.02,
+    "discount_percent": 33.49,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GL9C17CM",
+    "image_url": "https://m.media-amazon.com/images/P/B0GL9C17CM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:59",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Souviens-toi. l'été dernier [Blu-Ray]",
+    "price": 14.99,
+    "reference_price": 25.03,
+    "discount_percent": 40.11,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FHLX12NR",
+    "image_url": "https://m.media-amazon.com/images/P/B0FHLX12NR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:58",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Anaconda",
+    "price": 9.99,
+    "reference_price": 19.99,
+    "discount_percent": 50.03,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GD8Y5NM8",
+    "image_url": "https://m.media-amazon.com/images/P/B0GD8Y5NM8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:57",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "price": 9.99,
+    "reference_price": 19.99,
+    "discount_percent": 50.03,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DJ9VHLB8",
+    "image_url": "https://m.media-amazon.com/images/P/B0DJ9VHLB8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:56",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lilo & Stitch [Blu-Ray]",
+    "price": 10.5,
+    "reference_price": 24.99,
+    "discount_percent": 57.98,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FKC23YLB",
+    "image_url": "https://m.media-amazon.com/images/P/B0FKC23YLB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:55",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.5,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Marche ou crève",
+    "price": 9.99,
+    "reference_price": 19.99,
+    "discount_percent": 50.03,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FWMQ3SSN",
+    "image_url": "https://m.media-amazon.com/images/P/B0FWMQ3SSN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:53",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Super Mario Galaxy, le film [Blu-ray]",
+    "price": 19.99,
+    "reference_price": 24.99,
+    "discount_percent": 20.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GVPFW6QQ",
+    "image_url": "https://m.media-amazon.com/images/P/B0GVPFW6QQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:52",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Send Help",
+    "price": 9.99,
+    "reference_price": 19.99,
+    "discount_percent": 50.03,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GV5763BY",
+    "image_url": "https://m.media-amazon.com/images/P/B0GV5763BY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:50",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Number Ones",
+    "price": 26.99,
+    "reference_price": 37.69,
+    "discount_percent": 28.39,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FZL43997",
+    "image_url": "https://m.media-amazon.com/images/P/B0FZL43997.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:49",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lilo & Stitch",
+    "price": 8.36,
+    "reference_price": 20.03,
+    "discount_percent": 58.26,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FKC2WFMM",
+    "image_url": "https://m.media-amazon.com/images/P/B0FKC2WFMM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:48",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.36,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Show Me You'Re Fan Enough ! (1 CD Cristal)",
+    "price": 7.29,
+    "reference_price": 13.99,
+    "discount_percent": 47.89,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FT94MMT4",
+    "image_url": "https://m.media-amazon.com/images/P/B0FT94MMT4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:45",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 7.29,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "De Kendji À Vivre… L’essentiel",
+    "price": 22.99,
+    "reference_price": 27.99,
+    "discount_percent": 17.86,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0G15ZDPNT",
+    "image_url": "https://m.media-amazon.com/images/P/B0G15ZDPNT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:44",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 22.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PNY Elite Carte Mémoire microS...0 UHS-I, U1 pour vidéo Full HD",
+    "price": 25.05,
+    "reference_price": 32.32,
+    "discount_percent": 22.49,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07RBMXVG2",
+    "image_url": "https://m.media-amazon.com/images/P/B07RBMXVG2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:46:40",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 25.05,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
     "title": "LEGO City Le Fourgon pénitentiaire 60479",
     "price": 12.9,
     "reference_price": 19.99,
@@ -3280,6 +3560,279 @@
     ]
   },
   {
+    "title": "Pantalon de golf chino Oakley Icon homme - Coloris Fathom, du 28 au 36 US",
+    "description": "11,99€ - Private Sport Shop Un pantalon chino Oakley pensé pour le golf, mais avec une coupe assez sobre pour se porter aussi en dehors du parcours. Il est composé de 70 % coton, 28 % polyester et 2 % élasthanne, pour un peu d'extensibilité dans les mouvements. Plusieurs détails techniques sont mis en avant : des perforations découpées au laser au-dessus des genoux pour la ventilation, des chevilles fendues avec bande intérieure pour bien tomber sur les chaussures, et des doubles poches passepoilées. Côté finitions, on retrouve une fermeture à glissière Vislon siglée Oakley et le logo ellipse sur la cuisse gauche. Le coloris proposé est le Fathom, référence FOA402610. Tailles disponibles au moment du post : 28 US (L30), 30 US (L30), 32 US (L32), 34 US (L34) et 36 US (L34). Le vendeur indique un article prêt à l'envoi. Une inscription gratuite sur Private Sport Shop est nécessaire pour commander.",
+    "price": 11.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pantalon-de-golf-chino-oakley-icon-homme-coloris-fathom-du-28-au-36-us-3431709",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/TjZMK/3431709_1/re/1200x1200/qt/90/3431709_1.jpg",
+    "detected_at": "2026-10-13T12:42:53+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 lampes frontales LED rechargeables Blukar – 8 modes d’éclairage, détecteur de mouvement, IPX5",
+    "description": "19,85€ - Amazon Lot de 2 lampes frontales LED rechargeables Blukar, idéales pour le bricolage, le camping, la randonnée, la course à pied ou les activités en extérieur. Caractéristiques : * Lot de 2 lampes frontales * Éclairage LED puissant, annoncé à 2000 lumens * Rechargeables par USB * Capteur de mouvement pour allumer ou éteindre sans toucher la lampe * 8 modes d’éclairage, dont lumière rouge * Résistance à l’eau IPX5 * ⏱️ Autonomie annoncée jusqu’à 30 heures * Légères et équipées d’un bandeau réglable Produit noté 4,6/5 sur Amazon, avec plus de 21 000 avis. Un lot pratique pour avoir une lampe à la maison et une autre dans la voiture, au garage ou dans son sac.",
+    "price": 19.85,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-lampes-frontales-led-rechargeables-blukar-8-modes-declairage-detecteur-de-mouvement-ipx5-3431708",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3OW4S/3431708_1/re/1200x1200/qt/90/3431708_1.jpg",
+    "detected_at": "2026-10-13T12:42:32+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.85,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Marchine a café avec Broyeur De’Longhi ECAM13.123B",
+    "description": "279,99€ - Carrefour ☕ De’Longhi Magnifica S ECAM13.123.B Cafetière expresso avec broyeur intégré, idéale pour savourer un café fraîchement moulu à la maison. ☕ ✅ Broyeur à grains intégré avec réglage de la mouture ✅ Préparation d’espressos et de cafés longs ✅ Réglage de l’intensité et de la quantité de café ✅ Buse vapeur pour préparer une mousse de lait ✅ Commandes simples et entretien facilité ✅ Format compact et design noir élégant Un bon choix pour les amateurs de café qui souhaitent profiter d’un expresso fraîchement moulu sans investir dans une machine haut de gamme ! Disponible en retrait magasin gratuit!",
+    "price": 279.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/marchine-a-cafe-avec-broyeur-delonghi-ecam13123b-3431702",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/UFOGN/3431702_1/re/1200x1200/qt/90/3431702_1.jpg",
+    "detected_at": "2026-10-13T12:34:17+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 279.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[JoyPlus] Lot de 3 Boîtes de 200 Mouchoirs Breeze - Papier, Grande Taille, Doux, 2 Épaisseurs",
+    "description": "1,89€ - JoyBuy 【Matière première principale】 100% pâte de bois vierge 【Spécifications】190mm x 198mm, 2 couches, 200 feuilles × 3 boîtes (total 600 feuilles) 【Points saillants du produit】 Papier doux, lisse et finement texturé, respectueux de la peau et non irritant pour une utilisation quotidienne Grande taille de feuille — une feuille couvre les tâches d'essuyement quotidiennes Exquis design d'emballage floral décore votre maison et crée une ambiance romantique Sans substances fluorescentes migratrices, sûr pour toute la famille 【Scénarios d'application】Convient pour l'essuyement quotidien dans les salons, les zones à manger, les chambres à coucher, les bureaux et plus encore Conditions de stockage Conserver dans un endroit frais et sec loin de l'humidité 【Durée de conservation】 3 ans 【Type de parfum】Non parfumé 【Attention】S'il vous plaît ne pas rincer les toilettes pour éviter l'obstruction. Effets secondaires et contre-indications Généralement aucun effet secondaire. Évitez d'utiliser si vous êtes allergique à la pâte de bois ou aux produits en papier. Si une irritation de la peau ou un malaise survient après l'utilisation, arrêtez l'utilisation et consultez un médecin.",
+    "price": 1.89,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/joyplus-lot-de-3-boites-de-mouchoirs-breeze-papier-grande-taille-et-doux-2-epaisseurs-600-feuilles-3431703",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/GjEQr/3431703_1/re/1200x1200/qt/90/3431703_1.jpg",
+    "detected_at": "2026-10-13T12:33:54+00:00",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.89,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Street Fighter 30th Anniversary Collection sur PC (Dématérialisé - Steam)",
+    "description": "4,49€ - Steam Parmi les 12 jeux Street Fighter de cette compilation, quatre titres révolutionnaires (SFII Hyper Fighting, Super SFII Turbo, SF Alpha 3 et SFIII: Third Strike) vous permettent d'aller en ligne pour revivre l'expérience d’arcade grâce au mode Arcade en ligne, ou de jouer avec des amis.",
+    "price": 4.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/street-fighter-30th-anniversary-collection-3431701",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/q2bmJ/3431701_1/re/1200x1200/qt/90/3431701_1.jpg",
+    "detected_at": "2026-10-13T12:33:01+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4.49,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TV 55\" Philips Ambilight 55PUS8560 - QLED, 4K UHD, Dolby Atmos, DTS:X, HDR10+, Titan OS, Smart TV",
+    "description": "290,99€ - PcComponentes Vendu et expédié par PcComponentes Préparez-vous à l'éclat des couleurs QLED 4K. À l'expérience immersive Ambilight. Au son Dolby Atmos 3D digne du cinéma. Avec Titan OS pour accéder à tout ce que vous aimez regarder, ce téléviseur ne se contente pas de sublimer l'instant : il vous offre une expérience visuelle supérieure. Immersion totale avec Ambilight Grâce aux LED intégrées qui réagissent à chaque scène, Ambilight vous plonge dans un halo de lumière colorée. Films, événements sportifs, clips musicaux et jeux vidéo dépassent les limites de l’écran pour vous immerger encore davantage dans l’action. Une fois que vous y aurez goûté, vous ne voudrez plus jamais d’un téléviseur sans Ambilight. QLED 4K pour des images éclatantes et des couleurs de qualité grâce aux points quantiques Des couleurs éclatantes. Des scènes ultra-nettes. La perfection de l’image à son apogée. Avec la 4K (UHD), ce téléviseur Ambilight s’adapte à tous vos formats HDR. Chaque instant incroyable, sombre ou lumineux, lu ou diffusé en streaming, révèle tous ses détails, scène après scène. Au plus près des détails grâce à la précision des pixels Avec 8 millions de pixels fonctionnant ensemble en parfaite harmonie, vous découvrez la 4K comme jamais auparavant. Grâce à des images d’une netteté exceptionnelle qui révèlent des scènes plus détaillées et plus réalistes, rien ne restitue l’instant avec autant de fidélité que ce téléviseur Philips Ambilight. Dolby Atmos crée un son digne du cinéma Préparez-vous. Dolby Atmos restitue le son exactement comme le réalisateur l’a voulu. Chaque instant vous plonge encore plus profondément au cœur de la scène. Films, séries, sports ou jeux : vous serez vite totalement absorbé par l’action. Une connectivité prête pour le gaming Les technologies HDMI 2.1 et VRR vous aident à tirer le meilleur parti de votre console, avec une jouabilité plus rapide et des graphismes plus fluides. Grâce au réglage de faible latence d’entrée qui s’active automatiquement lorsque vous allumez votre console, vous êtes prêt à passer au niveau supérieur. Gardez vos contenus à portée de main avec Titan OS La plateforme Titan OS des Smart TV Philips vous permet d’accéder rapidement à tout ce que vous aimez regarder. Des suites aux séries, des documentaires aux drames, tout ce que vous voulez est accessible d’une simple pression sur un bouton. Quels que soient vos programmes préférés, gardez les meilleures applications de streaming à portée de main. Fiche constructeur [shortcode id=\"20619131\"/]",
+    "price": 290.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tv-55-philips-ambilight-55pus8560-qled-4k-uhd-dolby-atmos-dtsx-hdr10-titan-os-smart-tv-3431700",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cJDA1/3431700_1/re/1200x1200/qt/90/3431700_1.jpg",
+    "detected_at": "2026-10-13T12:29:35+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 290.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mouse: P.I. For Hire sur PC (Dématérialisé - GOG)",
+    "description": "22,49€ - GOG SANS DRM. Aucune activation ou connexion en ligne requise pour jouer. MOUSE: P.I. For Hire est un jeu de tir à la première personne débordant d'action qui s'inspire des cartoons des années 30. Son animation rétro en noir et blanc est dessinée à la main, image par image, afin d'offrir une esthétique vintage saisissante. Naviguez entre les couches de corruption dans cette histoire de détective passionnante aux aspects de film noir, avec des environnements dynamiques à explorer, une bande originale jazz orchestrale ainsi qu'un arsenal bien chargé d'armes cartoon et de bonus destructeurs. Découvrez le détective privé Jack Pepper, un ancien héros de guerre à présent enquêteur dans un monde où le danger rôde jusque dans le plus petit des trous de souris. Découvrez la vérité lorsqu'un simple cas de personnes disparues se transforme rapidement en une intrigue complexe où les enlèvements et les meurtres sont de la partie. Enquêtez dans les bas-fonds de Sourisville, combattez des gangs lourdement armés ainsi que des policiers corrompus, et découvrez des indices pour mettre au jour la conspiration enterrée sous la surface. Des mitrailleuses crépitantes aux projectiles explosifs, chaque arme de l'arsenal de Pepper est conçue pour créer un chaos cartoonesque inarrêtable. Équipez-vous avec un éventail d'armes à feu classiques mais créatives, et consommez des améliorations puissantes lorsque vous aurez besoin d'un supplément d'épinards dans vos coups ! Des batailles létales et des combats contre des boss fous vous attendent dans cette aventure rétro explosive. Les habitants de Sourisville ne lâchent pas facilement l'affaire. Explorez un terrain de jeu urbain varié, des rues sombres aux studios de cinéma, en passant par des opéras opulents, des marais empoisonnés et des égouts. Avec une myriade d'affaires à résoudre et d'objets à trouver, Sourisville est le paradis des détectives ! Utilisez chaque outil à votre disposition pour courir sur les murs, utiliser votre grappin et votre double saut dans ce monde cartoon impitoyable.",
+    "price": 22.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mouse-pi-for-hire-3431696",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/j9gec/3431696_1/re/1200x1200/qt/90/3431696_1.jpg",
+    "detected_at": "2026-10-13T12:24:22+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 22.49,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[JoyPlus] Lot de 6 Boîtes Transparent de Rangement- avec Poignée, 12x28x18cm",
+    "description": "7,59€ - JoyBuy Les boîtes de rangement sont très appréciées pour leurs dimensions appropriées et leur qualité robuste, ce qui les rend pratiques et polyvalentes pour organiser divers articles dans toute la maison. Les clients apprécient le caractère complet de l'ensemble, notant que les tailles sont particulièrement adaptées à l'organisation des tiroirs. De plus, le produit est exempt d'odeurs désagréables, et la quantité reçue correspond systématiquement à la description. Cette boîte de rangement en plastique est fabriquée dans un matériau épais, sans bavures, avec une bonne finition. Son couvercle permet de protéger contre la poussière et l'humidité, et sa capacité est idéale pour ranger les petits objets et articles divers sur un bureau. Les boîtes sont empilables, ce qui permet de gagner de l'espace et facilite l'accès. La transparence est modérée, permettant de voir clairement le contenu. Avec un excellent rapport qualité-prix, elle est très pratique pour l'organisation de la maison.",
+    "price": 7.59,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/joyplus-lot-de-6-boites-transparent-de-rangement-avec-poignee-ideal-pour-frigo-12-x-28-x-18-cm-3431695",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ANLKs/3431695_1/re/1200x1200/qt/90/3431695_1.jpg",
+    "detected_at": "2026-10-13T12:22:40+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 7.59,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Ideas 21367 - La fusée de Tintin",
+    "description": "113,04€ - Amazon LEGO Ideas La fusée de Tintin : Un kit de construction Tintin pour adultes Construisez et exposez une réplique détaillée de la fusée de Tintin, telle qu’on la voit dans les albums emblématiques Objectif Lune et On a marché sur la Lune. Créez votre propre décor nostalgique Reconstituez des scènes d’exploration spatiale avec Tintin, le capitaine Haddock, Dupond et Dupont, le professeur Tournesol et Milou. LEGO Ideas La fusée de Tintin (21367) pour adulte. Recréez son damier rouge et blanc découvert dans Objectif Lune et On a marché sur la Lune. Exposez-la avec Milou et 5 minifigurines en scaphandre lunaire avec casque et bouteille d'oxygène (Tintin et le Capitaine Haddock portent également un équipement radio). Retirez un panneau dans la partie supérieure de la fusée LEGO pour révéler une salle de contrôle détaillée. Placez-y un personnage pour recréer la scène magique de On a marché sur la Lune, où Tintin et ses compagnons découvrent pour la première fois la Terre depuis l'espace. Superbe cadeau pour adultes créatifs et amateurs.trices de BD, cette décoration fascinante offre aux constructeurs.trices novices ou expert.e.s une activité manuelle passionnante. L'application LEGO Builder propose une expérience de construction enrichie avec visualisation en 3D, suivi de la progression et instructions numériques étape par étape. DIMENSIONS - La maquette de fusée de ce set mesure plus de 49 cm de haut, 20 cm de long et 23 cm de large. Le kit contient 1 283 pièces.",
+    "price": 113.04,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-ideas-21367-la-fusee-de-tintin-3431693",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/c10rc/3431693_1/re/1200x1200/qt/90/3431693_1.jpg",
+    "detected_at": "2026-10-13T12:21:20+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 113.04,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Moving Out sur Nintendo Switch (Dématérialisé)",
+    "description": "4,99€ - Nintendo Bon deal pour un bon jeu multijoueur sur Switch ! Le jeu est jouable : En solo. En coopération locale jusqu’à 4 joueurs . En coopération en ligne jusqu’à 4 joueurs . Compatible Switch 1 et 2. Test de Nintendo-Town -> https://www.nintendo-town.fr/2020/04/20/moving-out-nintendo-switch-le-test/ Avis critique: Points positifs : une coopération très amusante, avec de nombreux moments de chaos et de rires. Les commandes sont simples et accessibles, même pour les joueurs débutants. La physique des objets est volontairement exagérée et rend les déplacements imprévisibles. Les niveaux sont variés et deviennent progressivement plus absurdes. Les missions proposent des objectifs différents : transporter des meubles, sauver des objets, éviter des pièges ou gérer des situations impossibles. Le mode assistance permet d’ajuster la difficulté pour les joueurs moins expérimentés. Les personnages sont hauts en couleur et apportent une touche d’humour. Le jeu fonctionne très bien en famille ou entre amis. La durée des missions est courte, ce qui permet de jouer par petites sessions. Points négatifs : le jeu peut devenir frustrant en solo, car certains niveaux sont clairement conçus pour plusieurs joueurs. Les commandes physiques peuvent être imprécises, surtout avec les gros objets. La caméra peut parfois gêner la visibilité, notamment en coopération. Les niveaux deviennent répétitifs après plusieurs heures. Le scénario est très léger et sert surtout de prétexte aux missions. Les temps de chargement peuvent être un peu longs sur Switch. Certains passages demandent beaucoup d’essai-erreur. Le jeu peut devenir moins drôle si vous jouez seul ou avec des joueurs qui n’aiment pas le chaos. Les critiques apprécient surtout la coopération, l’humour et la simplicité du gameplay. Le jeu est souvent comparé à Overcooked pour son chaos et son accessibilité.",
+    "price": 4.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/moving-out-sur-nintendo-switch-dematerialise-3431697",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/EYkgE/3431697_1/re/1200x1200/qt/90/3431697_1.jpg",
+    "detected_at": "2026-10-13T12:21:07+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Clé Dynamométrique Lexivon Vélo 1/4 - 2-26Nm CW (±4%) CCW (±6%), Embouts Torx, Barre d'Extension (Via Coupon - Vendeur Tiers)",
+    "description": "32,37€ - Amazon.de Coupon -27% à cocher __ Précision supérieure: Clé dynamométrique vélo 15 pièces, échelle 2-26 Nm (17,7-232 in-lb), micro-ajustement 0,2 Nm, embouts HEX (H2 à H10) et TORX (T10 à T30), rallonge 7,6 cm et adaptateur 1/4\". Construction robuste: Tête 72 dents en acier chrome-molybdène, mécanisme de verrouillage rapide ; parfaite comme cle dynamometrique moto, cle dynamometrique voiture ou clé dynamométrique vélo. Calibration fiable: Clef dynamometrique double sens pré-calibrée CW (±4%) et CCW (±6%) avec certificat ; idéale pour protéger vélos et voitures contre les serrages excessifs. Durabilité avancée: Finition électro-noir résistante à la corrosion ; poignée moletée en aluminium aviation avec système Slide-to-Lock, pour utilisateurs exigeant une cles dynamometrique fiable. Confort de lecture: Échelle double jaune ultra-lisible ; notre clé dynamométrique 1/4 réduit la fatigue jusqu’à 62 %, surpassant d’autres clés dynamométriques classiques.",
+    "price": 32.37,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lexivon-cle-dynamometrique-velo-14-2-26nm-cw-4-ccw-6-cle-dynamometrique-moto-embouts-torx-barre-dextension-3431692",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/AcMv1/3431692_1/re/1200x1200/qt/90/3431692_1.jpg",
+    "detected_at": "2026-10-13T12:20:18+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 32.37,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PC fixe gamer Captain 28 - Ryzen 7 5700X, RTX 5060 Ti, RAM DDR4 16 Go, SSD NVMe 2 To, Alim 750W 80+ Gold, Watercooling 360mm",
+    "description": "1 259,99€ - Grosbill Prix intéressant pour le marché actuel ! :) Pour les 28 ans de Grosbill, nous avons voulu sortir une configuration qui a du caractère. Le PC Gamer CAPTAIN ne se contente pas de célébrer l’événement : il prend la barre de votre setup avec un processeur AMD Ryzen 7 5700X, une carte graphique RTX 5060 Ti 8 Go, 16 Go de mémoire RAM DDR4 et un SSD NVMe de 2 To. Avec son boîtier BlackBird ARGB, son refroidissement liquide 360 mm et son alimentation 750W 80+ Gold, ce PC anniversaire est prêt à hisser vos sessions gaming au niveau supérieur. ► Caractéristiques & Description Avec le PC Gamer CAPTAIN, nous vous proposons une configuration anniversaire pensée pour ceux qui veulent jouer, naviguer et profiter d’une machine réactive sans se poser mille questions. Son Ryzen 7 garde le cap dans les jeux comme dans le multitâche, tandis que la RTX 5060 Ti apporte l’énergie graphique nécessaire pour profiter de vos titres favoris avec confort. Une machine taillée pour embarquer dans votre setup et prolonger la fête bien après les 28 ans de Grosbill. Processeur AMD Ryzen 7 5700X Le processeur AMD Ryzen 7 5700X donne au PC Gamer CAPTAIN une base solide pour jouer, naviguer et gérer plusieurs tâches avec aisance. Avec ses 8 cœurs, il accompagne efficacement les jeux actuels, les applications du quotidien et les usages multitâches. Vous pouvez garder plusieurs logiciels ouverts, discuter en ligne ou consulter vos contenus sans perdre facilement le fil de la partie. Associé au refroidissement liquide 360 mm, il garde la tête froide même quand l’action monte à bord. Carte graphique RTX 5060 Ti 8 Go La carte graphique RTX 5060 Ti 8 Go Overclocked Dual Fan donne au PC Gamer CAPTAIN toute sa dimension gaming. Elle accompagne les jeux récents avec un rendu détaillé selon les titres et les réglages choisis. Ses 8 Go de mémoire vidéo permettent de profiter de textures plus riches, d’effets visuels soignés et d’environnements plus immersifs. Les technologies NVIDIA compatibles renforcent aussi le confort visuel, notamment sur la fluidité et la qualité d’image. Avec elle, le CAPTAIN ne reste pas à quai : il est prêt à larguer les amarres. Mémoire RAM DDR4 16 Go Les 16 Go de mémoire RAM DDR4 apportent au PC Gamer CAPTAIN le confort nécessaire pour jouer, naviguer et utiliser plusieurs applications au quotidien. Cette capacité permet de garder un navigateur, une application de discussion ou quelques logiciels ouverts pendant vos sessions. La DDR4 reste cohérente avec la plateforme AM4 retenue sur cette configuration et accompagne efficacement le Ryzen 7 5700X. De quoi garder le rythme à bord, même quand plusieurs tâches s’invitent dans la traversée. SSD NVMe Gen3 2 To Le SSD CS1030 de 2 To en M.2 NVMe Gen3 apporte au PC Gamer CAPTAIN un vrai confort au quotidien. Le système démarre rapidement, les logiciels se lancent avec réactivité et les chargements deviennent plus agréables. Sa capacité de 2 To permet d’installer vos applications essentielles et une large sélection de jeux sans devoir faire de tri trop rapidement. Avec son Ryzen 7 5700X, sa RTX 5060 Ti, ses 16 Go de mémoire RAM et son SSD NVMe 2 To, le PC Gamer CAPTAIN forme une configuration anniversaire prête à prendre les commandes de votre setup. Pour les 28 ans de Grosbill, nous vous proposons un PC qui ne se contente pas d’être dans la fête : il est prêt à la mener. Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
+    "price": 1259.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pc-fixe-gamer-captain-28-ryzen-7-5700x-rtx-5060-ti-ram-ddr4-16-go-ssd-nvme-2-to-alim-750w-80-gold-watercooling-360mm-3431694",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/S3fhL/3431694_1/re/1200x1200/qt/90/3431694_1.jpg",
+    "detected_at": "2026-10-13T12:16:02+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1259.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures Nike Air Max Plus Kids - Taille 38",
+    "description": "24,99€ - Veepee Excellent prix sur cette paire de Nike, affichée à 144.99€ sur le site Nike Un beau cadeau de fin d'année (party) Coloris : Team Red/Cool Grey",
+    "price": 24.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-enfant-nike-air-max-plus-taille-38-3431690",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/etFF4/3431690_1/re/1200x1200/qt/90/3431690_1.jpg",
+    "detected_at": "2026-10-13T12:08:22+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      }
+    ]
+  },
+  {
     "title": "Carte Mère Soyo éternel B650ITX WiFi DDR5 AM5",
     "description": "86,89€ - AliExpress Pour les amateurs de configurations compactes (SFF), voici une des rares options Mini-ITX sous socket AM5 sous la barre des 100-120 € selon les coupons actifs sur AliExpress. La Soyo SY-Eternal B650ITX (plateforme partagée avec Maxsun) propose une fiche technique surprenante pour son positionnement tarifaire, idéale pour monter un petit PC gaming à budget maîtrisé. Caractéristiques principales : Format : Mini-ITX (170 x 170 mm), PCB blanc / dissipateurs argentés Socket & Chipset : AMD AM5 / AMD B650 (compatible Ryzen 7000, 8000 et 9000) Mémoire : 2 slots DDR5 (jusqu'à 96 Go, profil EXPO/XMP supporté jusqu'à 6000+ MHz) Graphique / Extension : 1x port PCIe 5.0 x16 blindé Stockage : 1x slot M.2 NVMe PCIe 5.0 x4 en façade (avec dissipateur thermique) 1x slot M.2 NVMe PCIe 4.0 x4 au dos du PCB 4x ports SATA 6 Gb/s Réseau : Ethernet 2.5 Gb/s (Realtek RTL8125) + Wi-Fi 6 (802.11ax) & Bluetooth Connectique arrière : USB-C (10 Gbps), USB 3.2, USB 2.0, sorties DisplayPort 1.4 & HDMI 2.0, bouton Clear CMOS Éclairage : Connecteurs ARGB 5V 3 broches",
     "price": 86.89,
@@ -4195,7 +4748,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 229.83,
@@ -4216,7 +4769,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 23.93,
@@ -4237,7 +4790,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 6.9,
@@ -4258,7 +4811,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 54.99,
@@ -4279,7 +4832,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 99.86,
@@ -4300,7 +4853,7 @@
     "category": "Animaux",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 4.65,
@@ -4321,7 +4874,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": []
   },
   {
@@ -4337,7 +4890,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 36.54,
@@ -4358,7 +4911,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 6.25,
@@ -4379,7 +4932,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
     "price_history": [
       {
         "price": 351.96,
@@ -9482,509 +10035,5 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "price_history": []
-  },
-  {
-    "title": "Convergence: A League of Legends Story ou Song of Nunu sur PC (Dématérialisé)",
-    "description": "7,49€ - GOG Au cœur de la ville tentaculaire de Zaun, incarnez Ekko, jeune inventeur d'une machine à remonter le temps qui doit s'unir avec ses amis pour protéger la ville. Confronté aux dangers et à certaines révélations, Ekko prend peu à peu conscience qu'il ne peut faire confiance à personne, pas même à lui-même. Développé par Double Stallion Games, CONVERGENCE: A League Of Legends Story est un jeu d'action et de plateformes narratif en 2D. Grâce aux compétences d'Ekko, qui est capable de voyager à travers le temps et l'espace, prenez part à des combats dynamiques et à des phases d'exploration uniques, et apprenez de vos erreurs en rembobinant vos actions pour surpasser vos ennemis. Réussirez-vous à sauver Zaun de son terrible destin ? CONTRÔLEZ LE TEMPS Activez la clepsydre-zéro d'Ekko pour remonter le temps, puis utilisez vos connaissances du futur pour adapter votre approche à chaque embûche et devancer vos ennemis. Combattez de manière fluide et dynamique en gérant votre timing et vos déplacements à la perfection. DÉCOUVREZ ZAUN Courez, sautez et glissez à travers les rues de Zaun.Rencontrez des champions, défiez vos ennemis et découvrez les recoins cachés de la basse-ville. AFFRONTEZ DES CHAMPIONS Découvrez les champions de League of Legends comme vous ne les avez jamais vus auparavant. Déverrouillez de nouvelles compétences et affrontez des rivaux dans une série de combats explosifs où vous apprendrez qui sont vos alliés, et qui sont vos ennemis... Saisissez chaque occasion qui se présente à vous dans CONVERGENCE: A League of Legends Story. Lien Song of Nunu: https://www.gog.com/fr/game/song_of_nunu_a_league_of_legends_story",
-    "price": 7.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/convergence-a-league-of-legends-story-dematerialise-3431346",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/zeDkn/3431346_1/re/1200x1200/qt/90/3431346_1.jpg",
-    "detected_at": "2026-10-12T20:47:22+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 7.49,
-        "observed_at": "2026-10-12T20:56:45.540647+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Nouveaux clients] Abonnement VPN Proton VPN Plus 24 mois",
-    "description": "59,76€ - Proton Une offre Proton VPN Plus à 2,49€ / mois pour 2 ans. 59,76€ au total. Si vous voulez profiter de cette offre et que vous avez déjà un compte Proton, veillez à entrer une adresse mail différente. Activer iGraal avnt achat et vous bénéficiez alors de 16,5% de cashback, soit 9.86€. Votre VPN revient alors à 2,08€ / mois.",
-    "price": 59.76,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/proton-vpn-plus-a-75-2-ans-3431321",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rJSXB/3431321_1/re/1200x1200/qt/90/3431321_1.jpg",
-    "detected_at": "2026-10-12T20:42:42+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 59.76,
-        "observed_at": "2026-10-12T20:56:45.540647+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chargeur secteur Samsung USB-C 45 W - Super Fast Charging 2.0",
-    "description": "16,99€ - Amazon L’adaptateur secteur Samsung USB-C 45 W est conçu pour recharger rapidement les appareils compatibles, notamment les smartphones et tablettes Galaxy. Il prend en charge la fonction Super Fast Charging 2.0, qui nécessite un appareil compatible avec USB Power Delivery et la charge directe. La puissance réellement délivrée dépend du modèle connecté, du câble utilisé et de son état de charge ; un téléphone ne prenant pas en charge 45 W se rechargera à sa puissance maximale compatible. Le chargeur peut également alimenter d’autres appareils USB-C compatibles. Son format secteur compact facilite le transport au quotidien. L’URL Amazon associée au suivi n’affiche actuellement pas de fiche exploitable ; les caractéristiques ont été recoupées sur la page officielle Samsung de l’adaptateur EP-T4511. Les deals historiques indiquaient une livraison gratuite.",
-    "price": 16.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chargeur-secteur-samsung-usb-c-45-w-super-fast-charging-20-3431343",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Jr9tX/3431343_1/re/1200x1200/qt/90/3431343_1.jpg",
-    "detected_at": "2026-10-12T20:37:07+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 16.99,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Alex Kidd in Miracle World DX sur PC (Dématérialisé)",
-    "description": "1,78€ - WinGameStore Avec de nouveaux graphismes en HD, des améliorations du gameplay et des animations, redécouvrez tous les niveaux du jeu original ainsi que de nouveaux qui développent l'histoire d'Alex Kidd.",
-    "price": 1.78,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/alex-kidd-in-miracle-world-dx-3431335",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/0Wbo7/3431335_1/re/1200x1200/qt/90/3431335_1.jpg",
-    "detected_at": "2026-10-12T20:33:34+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1.78,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Moniteur de fréquence Cardiaque Garmin HRM 200",
-    "description": "64,99€ - Amazon Le Garmin HRM 200 est un moniteur de fréquence cardiaque thoracique d'entrée de gamme lancé par Garmin, conçu pour fournir des mesures précises en temps réel de la fréquence cardiaque et de la variabilité de la fréquence cardiaque (VFC / HRV). Caractéristiques principales : Autonomie : Jusqu'à 1 an avec une pile bouton standard CR2032 (sur une base d'environ 1 heure d'utilisation par jour). Confort et entretien : Émetteur amovible permettant de laver la sangle textile en machine. Disponible en deux tailles (XS-S et M-XL). Connectivité : Double transmission ANT+ et Bluetooth Smart (mode ouvert ou sécurisé) compatible avec les montres Garmin, les compteurs Edge®, l'application Tacx Training™ et d'autres applications tierces (Zwift, Wahoo, etc.). Étanchéité : Certifié 3 ATM (étanche jusqu'à 30 mètres).",
-    "price": 64.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/garmin-hrm-200-moniteur-de-frequence-cardiaque-3431341",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6HMCP/3431341_1/re/1200x1200/qt/90/3431341_1.jpg",
-    "detected_at": "2026-10-12T20:31:21+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 64.99,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Joint de culasse 4 cylindres",
-    "description": "27,20€ - Oscaro Le joint de culasse assure l’étanchéité entre le bloc moteur et la culasse. Il empêche le mélange entre l’huile moteur, le liquide de refroidissement et les gaz de combustion. Il résiste à des températures et des pressions très élevées. Son usure ou sa détérioration peut provoquer une surchauffe du moteur. Les symptômes possibles sont une fumée blanche, une perte de liquide de refroidissement ou une huile contaminée. Son remplacement nécessite généralement un démontage important du moteur.",
-    "price": 27.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/joint-de-culasse-4-cylindres-3431340",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rnM9E/3431340_1/re/1200x1200/qt/90/3431340_1.jpg",
-    "detected_at": "2026-10-12T20:30:54+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 27.2,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Armoire de Rangement en Tissu Songmics LSF03H - 45 x 150 x 175 cm, 12 Compartiments,",
-    "description": "21,82€ - Amazon Principaux points forts Fermez la housse pour protéger vos vêtements de la poussière Montage sans outils en emboîtant simplement les barres et raccords La tringle supporte jusqu'à 15 kg pour vos manteaux et robes longs Résumé à partir des informations sur le produit [Grande capacité] D’une taille de 45 x 150 x 175 cm, cette armoire offre de l’espace pour ranger les habits de toute la famille. La zone de suspension a une hauteur de 132 cm pour les vêtements longs tels que les manteaux, les robes et plus encore [Bien compartimentée] Cette penderie est divisée en 12 cases et 1 zone de suspension. Vous pouvez suspendre les chemises sur la tringle, trier les pantalons et les chaussettes sur les étagères et placer les chaussures en bas [Excellente stabilité] Ce placard est constitué de barres métalliques épaisses d'un diamètre de 16 mm, de raccords en plastique de qualité et d'un tissu non-tissé de 120 g/㎡. La tringle supporte jusqu’à 15 kg, chaque étagère supporte jusqu'à 5 kg [Montage facile] Grâce aux instructions illustrées et aux pièces numérotées, il suffit d’emboîter les barres et les raccords, même pas besoin d’outil. En plus, des raccords de rechange sont fournis [Anti-poussière, accès facile] Fermez la fermeture éclair, la housse en tissu protègent vos vêtements. Vous pouvez aussi laisser la porte ouverte pour un accès facile dans votre chambre ou votre dressing",
-    "price": 21.82,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/armoire-de-rangement-en-tissu-songmics-3431338",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/uhciZ/3431338_1/re/1200x1200/qt/90/3431338_1.jpg",
-    "detected_at": "2026-10-12T20:29:57+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 21.82,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tondeuse tout-en-un Braun Series 7 AIO7545 12-en-1, Grise",
-    "description": "59,99€ - Amazon À propos de cet article: Rasage professionnel tout-en-un, pour visage et corps : kit 12-en-1 de Braun pour un rasage de la tête aux pieds avec des outils prévus pour tailler votre barbe, vos poils d’oreilles et de nez, couper vos cheveux et raser votre corps Précision ultime : obtenez un rasage sans effort avec la lame ProBlade ultra-affûtée à vie et une efficacité maximale pour tout type de barbe grâce à la technologie Autosense Grande polyvalence : obtenez des lignes parfaites et un rasage impeccable grâce à la tête PrecisionShave. La tondeuse à barbe offre 14 longueurs (3–21 mm) Douce pour les peaux sensibles : avec la technologie SkinGuard, conçue pour un maximum de sécurité et de confort, même pour les zones sensibles du corps Longue durée : 100% étanche avec le manche AquaGrip antidérapant, pour une manipulation contrôlée même sous la douche. Batterie Li-Ion offrant jusqu'à 120 minutes d'autonomie sans fil",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tondeuse-tout-en-un-braun-series-7-aio7545-12-en-1-grise-3431339",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/D0NDG/3431339_1/re/1200x1200/qt/90/3431339_1.jpg",
-    "detected_at": "2026-10-12T20:27:33+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bibliothèque pour enfants 2 cubes effet bois blanc (Vendeur Tiers)",
-    "description": "29,95€ - Maisons du Monde Bibliothèque rangement enfants",
-    "price": 29.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bibliotheque-pour-enfants-2-cubes-effet-bois-blanc-3431337",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/kp4KV/3431337_1/re/1200x1200/qt/90/3431337_1.jpg",
-    "detected_at": "2026-10-12T20:24:51+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 29.95,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Lego Star Wars AT-AT 75440 (via 6.75€ cagnottés)",
-    "description": "38,24€ - Carrefour LEGO Star Wars AT-AT 75440 44.99€ - 6.75€ cagnottés = 38.24€ Cashback 5% Boursobank sur 44.99€, soit 2.25€ crédités sur la carte Au final, le set revient à 44.99 - 6.75 - 2.25 = 35.99€ Plongez au cœur de la bataille de Hoth grâce à cette réplique dynamique d'un marcheur AT-AT avec le set de construction pour adulte LEGO Star Wars AT-AT. Recréez les détails authentiques du marcheur mythique, tel qu'il a été déployé par les troupes au sol de l'Empire galactique. Ajoutez un snowspeeder de l'Alliance rebelle en vol, enroulant son câble autour des pattes de l'AT-AT, et recréez le suspense de Star Wars : L'Empire contre-attaque.",
-    "price": 38.24,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-star-wars-at-at-75440-lego-3824eur-675eur-cagnottes-3431336",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DeL1Y/3431336_1/re/1200x1200/qt/90/3431336_1.jpg",
-    "detected_at": "2026-10-12T20:24:25+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 38.24,
-        "observed_at": "2026-10-12T20:39:30.567759+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de Société Cosmolancer",
-    "description": "10,69€ - Amazon Pour les intéressés par un bon jeu de placement de tuiles accessible, malin, et facile à prendre en main. Cosmolancer combine stratégie, optimisation et immersion dans un univers spatial original, signé par le légendaire concepteur de jeu de société moderne Reiner Knizia ! Description : Cosmolancer est un jeu de placement galactique, compétitif et stratégique. C'est une variante de Kingdoms qui se déroule dans l'espace. à partir de 9 ans 30 à 45min 2 à 4 joueur(s) DEVENEZ PHOTOGRAPHE SPATIAL FREELANCE DANS COSMOLANCER Cosmolancer vous met dans la peau d’un photographe spatial freelance chargé de capturer les plus beaux clichés de la galaxie afin de remporter un maximum de Crédits Interstellaires . Vous explorez un univers étrange peuplé de créatures insolites comme les Meutes galactiques et les mystérieux Poulpes astronomiques . UN JEU SIGNÉ REINER KNIZIA Cosmolancer est une variante galactique du célèbre jeu Kingdoms , reprenant les mécaniques classiques de placement de tuiles dans une version revisitée et thématique. UN GAMEPLAY DE PLACEMENT DE TUILES COMPÉTITIF Dans Cosmolancer, vous devez placer vos tuiles Photo et vos Imageurs de manière stratégique afin de maximiser vos gains. Chaque placement influence directement le scoring et les opportunités des autres joueurs, rendant chaque décision importante. LES DANGERS DE L’ESPACE L’univers n’est pas sans risques : des événements cosmiques peuvent perturber vos prises de vue et modifier la dynamique de la partie. Vous devrez adapter votre stratégie sur trois rounds pour optimiser vos gains en Crédits Interstellaires . UNE DIRECTION ARTISTIQUE IMMERSIVE Le jeu est sublimé par les illustrations de :contentReference[oaicite:1]{index=1} et :contentReference[oaicite:2]{index=2}, offrant une immersion visuelle forte dans un univers spatial coloré et original. POURQUOI CHOISIR COSMOLANCER ? Jeu de placement de tuiles stratégique Univers spatial original et humoristique Mécaniques signées Reiner Knizia Parties rapides en 3 rounds Illustrations immersives et détaillées CONTENU DE LA BOÎTE 1 plateau de jeu 22 tuiles en carton 41 pions en bois 94 Crédits Interstellaires en carton 1 livret de règles POUR QUEL TYPE DE JOUEUR ? Amateurs de jeux de stratégie Fans de jeux de placement de tuiles Joueurs de jeux rapides et tactiques Public attiré par les univers spatiaux originaux Avis clients :",
-    "price": 10.69,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-cosmolancer-3431331",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/j6i3g/3431331_1/re/1200x1200/qt/90/3431331_1.jpg",
-    "detected_at": "2026-10-12T20:14:27+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 10.69,
-        "observed_at": "2026-10-12T20:20:06.158461+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Doudoune Femme Calvin Klein Jeans-Puffer - Taille L",
-    "description": "97,95€ - Zalando En taille L, XL et XXL",
-    "price": 97.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/calvin-klein-jeans-puffer-doudoune-black-taille-l-3431330",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/B8L1q/3431330_1/re/1200x1200/qt/90/3431330_1.jpg",
-    "detected_at": "2026-10-12T20:12:54+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 97.95,
-        "observed_at": "2026-10-12T20:20:06.158461+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures de randonnée imperméables Salomon Saliba - Tailles disponibles du 41 au 46",
-    "description": "79,99€ - Decathlon Chaussures de randonnée imperméables SALOMON Saliba homme – 79,99 € au lieu de 109,99 € (-27 %) Envie de partir en randonnée sans finir avec les pieds trempés à la première flaque ? Voilà une réduction sympa chez Decathlon sur les chaussures de randonnée Salomon Saliba pour homme, qui passent à 79,99 € au lieu de 109,99 €, soit 30 € d'économie ! Ces chaussures sont conçues pour les sorties en montagne, notamment lorsque les sentiers deviennent humides, glissants ou accidentés. Leur gros avantage ? La membrane imperméable CSWP (ClimaSalomon Waterproof), pensée pour protéger les pieds de l'humidité pendant la marche. Et comme on est chez Salomon, l'accent est également mis sur l'accroche et la stabilité, deux points importants lorsqu'on marche sur des chemins irréguliers ou des terrains difficiles. ⛰️ Marque : Salomon Membrane imperméable CSWP ⛰️ Adaptées aux randonnées en montagne Accroche et stabilité renforcées sur terrains humides ou accidentés Tailles disponibles : du 41 au 46 Taillent normalement : choisissez votre pointure habituelle ⭐ Note : 4,3/5 79,99 € au lieu de 109,99 €, soit environ -27 % ️ Référence Decathlon : 9012752 Que ce soit pour une balade en forêt, une randonnée sur des sentiers caillouteux ou une sortie en montagne, c'est le genre de chaussures qu'on apprécie particulièrement quand la météo décide de changer en plein parcours ! ️ Promotion valable du 3 au 25 octobre 2026. ⚠️ Des frais de livraison de 1,99€ si vous commandez en ligne peuvent s'ajouter selon le mode de livraison choisi. À moins de 80 € la paire, c'est une offre intéressante pour s'équiper chez Salomon avant les randonnées d'automne !",
-    "price": 79.99,
-    "reference_price": 109.99,
-    "discount_percent": 27.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-de-randonnee-impermeables-salomon-saliba-tailles-disponibles-du-41-au-46-3431328",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6d3Ix/3431328_1/re/1200x1200/qt/90/3431328_1.jpg",
-    "detected_at": "2026-10-12T20:02:28+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-12T20:20:06.158461+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vol direct A/R Paris (CDG) New Delhi (DEL) Inde, du 16 au 30 janvier 2027 (Bagage en soute inclus)",
-    "description": "543€ - Skyscanner ✈️ Paris – New Delhi A/R à 543 € avec Air India – Vols directs + bagages cabine et soute inclus ! Envie de découvrir l'Inde en janvier ? Voilà un tarif plutôt sympa pour partir deux semaines à New Delhi avec Air India, sans escale et surtout avec les bagages cabine ET soute inclus dans le prix ! Pour 543 € aller-retour par personne, vous pouvez découvrir la capitale indienne, mais aussi en profiter pour visiter Agra et son célèbre Taj Mahal, ou encore Jaipur et ses magnifiques palais. ✈️ Aller – Samedi 16 janvier 2027 Départ de Paris CDG à 20h35 Arrivée à New Delhi le dimanche 17 janvier à 10h40Vol direct AI142 – 9h35 de vol ✈️ Retour – Samedi 30 janvier 2027 Départ de New Delhi à 12h40 Arrivée à Paris CDG à 19h05 Vol direct AI143 – 10h55 de vol Bagage cabine inclus Bagage en soute inclus ✅ Vols directs à l'aller comme au retour Du 16 au 30 janvier 2027 543 € aller-retour par personne ☀️ Pourquoi partir en janvier ? C'est une période intéressante pour découvrir le nord de l'Inde : les températures sont généralement plus douces qu'en été, même si les matinées peuvent être fraîches et brumeuses. Et avec deux semaines sur place, vous avez largement le temps de faire le fameux Triangle d'Or : Delhi, Agra et Jaipur. Entre le Taj Mahal, les marchés animés, les palais et la cuisine indienne, difficile de s'ennuyer ! À 543 € A/R en vol direct avec les deux bagages inclus, c'est une belle occasion de découvrir l'Inde sans exploser le budget transport. ✈️",
-    "price": 543.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vol-direct-ar-paris-cdg-new-delhi-del-inde-du-16-au-30-janvier-2027-bagage-en-soute-inclus-3431325",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/nhVcr/3431325_1/re/1200x1200/qt/90/3431325_1.jpg",
-    "detected_at": "2026-10-12T19:59:17+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 543.0,
-        "observed_at": "2026-10-12T20:02:30.179006+00:00"
-      }
-    ]
-  },
-  {
-    "title": "BBottes de pluie AIGLE GOMMA PLUS SOFTEX 35 à 46 Ref: 3702-6",
-    "description": "59,99€ - Veepee",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bbottes-de-pluie-aigle-gomma-plus-softex-35-a-46-ref-3702-6-3431327",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/0dSE7/3431327_1/re/1200x1200/qt/90/3431327_1.jpg",
-    "detected_at": "2026-10-12T19:54:43+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-12T20:02:30.179006+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pack Découverte Kit de démarrage Philips Hue Ambiance blanc et couleur + Pont + Télécommande + 2 Barres Lumineuses Philips Hue Play",
-    "description": "89,99€ - Fnac Pack reconditionné mais prix très intéressant pour commencer à s'équiper ou pour avoir des ampoules à pas trop cher https://www.fnac.com/Pack-Decouverte-Kit-de-demarrage-Philips-Hue-Ambiance-blanc-et-couleur-Pont-Telecommande-2-Barres-Lumineuses-Philips-Hue-Play/a21858114/w-4?oref=bfeac707-d25a-141c-f8a3-0d247d109bdc&Origin=USED_GOOGLE_MP_GPS&esl-k=sem-google|nx|c|m|k|p|t|dm|a20255252076|g20255252076&gclsrc=aw.ds&gad_source=1&gad_campaignid=19671794053&gclid=CjwKCAjwirLWBhBBEiwAlItbEosWfa828yQI8Xrs19YMnv-x0_BrO_eSKCVP4VJOwQcqsY7aq1zY3xoCfE0QAvD_BwE Pack Découverte Kit de démarrage Philips Hue Ambiance blanc et couleur + Pont + Télécommande + 2 Barres Lumineuses Philips Hue Play",
-    "price": 89.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pack-decouverte-kit-de-demarrage-philips-hue-ambiance-blanc-et-couleur-pont-telecommande-2-barres-lumineuses-philips-hue-play-3431326",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4yvVP/3431326_1/re/1200x1200/qt/90/3431326_1.jpg",
-    "detected_at": "2026-10-12T19:54:31+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 89.99,
-        "observed_at": "2026-10-12T20:02:30.179006+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vans OLD SKOOL UNISEX - Baskets basses - true white",
-    "description": "39€ - Zalando En 36,5 uniquement !!",
-    "price": 39.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vans-old-skool-unisex-baskets-basses-true-white-3431324",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/L2qmF/3431324_1/re/1200x1200/qt/90/3431324_1.jpg",
-    "detected_at": "2026-10-12T19:49:02+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 39.0,
-        "observed_at": "2026-10-12T19:51:11.593854+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Foret Bosch Expert HEX-9 Multi Construction - Haute Précision",
-    "description": "15,67€ - Amazon Bon plan pour les bricoleurs qui en ont marre de chercher le bon foret : le Bosch EXPERT HEX-9 Multi Construction est là pour vous simplifier la tâche. Ce foret polyvalent est conçu pour percer une grande variété de matériaux avec une précision notable, évitant les changements d'accessoires fastidieux. Compatibilité : Idéal pour le béton, la brique, le carrelage tendre, le bois, le métal et le plastique. Précision : Intègre une géométrie de centrage Bosch brevetée pour des débuts de perçage nets et sans glissement. Conception : Pointe en carbure optimisé pour une durabilité accrue et une efficacité de coupe. Queue : Hexagonale (HEX-9) pour une transmission sécurisée et maximale du couple dans les mandrins de perceuse et les porte-embouts ¼''. Usage : Compatible avec les perceuses à percussion et les perceuses rotatives. C'est l'accessoire indispensable pour votre boîte à outils, capable de s'attaquer à presque tous les matériaux que vous rencontrerez, avec une grande fiabilité.",
-    "price": 15.67,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/foret-bosch-expert-hex-9-multi-construction-haute-precision-3431323",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2lu7P/3431323_1/re/1200x1200/qt/90/3431323_1.jpg",
-    "detected_at": "2026-10-12T19:48:42+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 15.67,
-        "observed_at": "2026-10-12T19:51:11.593854+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Shampoing 400ml Klorane Fortifiant Quinine & Edelweiss Bio - Net (Via 2,97 € en Ticket E.Leclerc)",
-    "description": "6,92€ - E.Leclerc [Adhérents] Shampoing 400ml Klorane Fortifiant Quinine & Edelweiss Bio - Net (Via 30% en Ticket E.Leclerc ) Le shampoing fortifiant Klorane à la Quinine et Edelweiss Bio en flacon de 400 ml est affiché au prix de 9,89 € avec 30% cagnottés sur la carte de fidélité E.Leclerc , soit un prix de revient net de 6,92 €[cite: 4]. Conçu spécifiquement pour redonner de la force aux cheveux fatigués ou en perte de densité, ce soin lavant associe l'extrait d'écorce de quinquina et l'edelweiss bio pour stimuler la fibre capillaire dès la racine. Sa formule biodégradable nettoie en douceur tout en facilitant le démêlage. La livraison en magasin E.Leclerc est offerte[cite: 4]. Le retrait en Click & Collect gratuit sous 2h est également proposé selon les stocks des magasins participants[cite: 4]. Lien direct : https://www.e.leclerc/fp/shampoing-fortifiant-a-la-quinine-edelweiss-bio-chute-de-cheveux-cheveux-fatigues-400ml-3282770141283 Prix : 9,89 € (6,92 € de revient après 2,97 € en Ticket E.Leclerc ) Code promo : Aucun",
-    "price": 6.92,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/shampoing-400ml-klorane-fortifiant-quinine-edelweiss-bio-net-via-297-eur-en-ticket-eleclerc-3431322",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/W3TIC/3431322_1/re/1200x1200/qt/90/3431322_1.jpg",
-    "detected_at": "2026-10-12T19:47:04+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 6.92,
-        "observed_at": "2026-10-12T19:51:11.593854+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Livre d'or anniversaire 20 ans - Couleurs blanc et doré (Sélection de villes)",
-    "description": "1€ - La Foir'Fouille Livre d'or anniversaire 20 ans blanc et doré – 1 € au lieu de 6,49 € chez La Foir'Fouille (-85 %) Alors là, pour ceux qui préparent un anniversaire de 20 ans, difficile de faire beaucoup moins cher ! La Foir'Fouille propose ce joli livre d'or blanc avec inscriptions métallisées dorées à seulement 1 €, contre 6,49 € habituellement. Soit 5,49 € d'économie et près de 85 % de réduction ! Avec son grand chiffre 20 doré, ses petites étoiles et sa couverture blanche, il sera parfait pour garder un souvenir de cette journée (ou plutôt de cette soirée ). Spécial anniversaire 20 ans ✨ Couverture blanche avec motifs et inscriptions dorés ✍️ Pour recueillir les petits mots, anecdotes et messages des invités Possibilité d'y ajouter des photos souvenirs Un joli souvenir à conserver après la fête 1 € au lieu de 6,49 € (-85 %) ️ Référence : 10000528241 Une petite idée sympa : laissez le livre à l'entrée de la fête avec quelques stylos et demandez à chaque invité d'écrire un souvenir partagé ou un conseil pour les dix prochaines années. Il risque d'y avoir quelques dossiers qui ressortent ! ️ Retrait gratuit en magasin annoncé sous 4 heures, à partir de 25 € d'achat. À 1 € le livre d'or, autant prévoir ce petit détail qui fera plaisir à relire quelques années plus tard ! Disponibles dans plusieurs magasins Lafoir'fouilles : Aubagne (13400) et Pissy - Pôville (76360)",
-    "price": 1.0,
-    "reference_price": 6.49,
-    "discount_percent": 84.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/livre-dor-anniversaire-20-ans-couleurs-blanc-et-dore-3431306",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YVLdc/3431306_1/re/1200x1200/qt/90/3431306_1.jpg",
-    "detected_at": "2026-10-12T19:42:39+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1.0,
-        "observed_at": "2026-10-12T19:51:11.593854+00:00"
-      }
-    ]
-  },
-  {
-    "title": "EA Sports FC 27 Edition Standard sur XBOX Series X",
-    "description": "52,99€ - Amazon EA SPORTS FC 27 Edition Standard XBOX Series X EA SPORTS FC™ 27 - Édition Standard Bienvenue dans The World's Game. Découvrez une nouvelle façon de vivre le football avec EA SPORTS FC™ 27. Entrez dans The Grounds, un terrain de jeu social où la rue rencontre le stade. Que vous participiez à des Kickabouts, disputiez des matchs en 1 contre 1 ou fassiez équipe avec vos amis dans Clubs, échangez avec des mentors de renommée mondiale, perfectionnez vos compétences et affirmez votre style sur le terrain comme en dehors. Profitez d'un gameplay plus fluide et plus réaliste dans tous les modes de jeu grâce aux corners dynamiques, à une intelligence offensive améliorée, à une défense centrée sur le joueur pensée pour la compétition et à de nombreuses améliorations inspirées des retours de la communauté, pour un contrôle accru à chaque rencontre. Écrivez votre propre histoire dans Carrière Manager grâce à un Marché des transferts entièrement repensé, proposant des valeurs de joueurs plus réalistes, des enchères actives entre clubs et de nouvelles options de négociation, notamment les clauses de performance et de rachat. Les Notes dynamiques évoluent tout au long de la saison en fonction de la forme, du moral et de la condition physique des joueurs, donnant encore plus d'importance à chacune de vos décisions. Constituez l'équipe de vos rêves dans Football Ultimate Team™ et mettez en valeur vos plus grands succès grâce à la toute nouvelle Galerie FUT. Collectionnez vos éléments Joueur préférés, augmentez votre niveau de Galerie, débloquez des récompenses et façonnez l'identité de votre club tout au long de la saison. Grâce aux données officielles des plus grandes compétitions du monde, EA SPORTS FC™ 27 offre une authenticité inégalée avec plus de 21 000 joueurs sous licence, pour donner vie à The World's Game comme jamais auparavant. Informations importantes Ce jeu inclut des achats intégrés facultatifs de monnaie virtuelle pouvant être utilisée pour obtenir des objets virtuels, y compris une sélection aléatoire d'objets virtuels. Une connexion Internet, un Compte EA, l'acceptation du Contrat Utilisateur EA (terms.ea.com), de la Politique relative à la confidentialité et aux cookies (privacy.ea.com), ainsi que l'installation de l'application EA (ea.com/ea-app) sont nécessaires pour jouer. L'accès au contenu logiciel est limité à un seul Compte EA et ne peut pas être transféré après l'achat. Vous devez être âgé d'au moins 13 ans pour accéder aux fonctionnalités en ligne. EA peut fournir gratuitement certains contenus additionnels et/ou mises à jour. Les mises à jour obligatoires peuvent être téléchargées automatiquement, entraîner des frais liés à votre connexion Internet et nécessiter un espace de stockage supplémentaire. Ce produit collecte des données à des fins de publicité en jeu. EA peut mettre fin aux fonctionnalités en ligne après un préavis de 30 jours publié sur ea.com/service-updates. L'achat de FC Points n'est pas disponible en Belgique ni en Corée du Sud.",
-    "price": 52.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ea-sports-fc-27-edition-standard-xbox-series-x-3431320",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/SZY38/3431320_1/re/1200x1200/qt/90/3431320_1.jpg",
-    "detected_at": "2026-10-12T19:38:22+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 52.99,
-        "observed_at": "2026-10-12T19:51:11.593854+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Soin Contour Yeux Anti-Poches L'Oréal Paris Revitalift Laser - 15 ml, Technologie gel-liftant",
-    "description": "13€ - Amazon Soin contour des yeux anti-âge offrant une triple action visible sur les rides, les poches, les gonflements et le manque de fermeté À propos de ce produit Soin contour des yeux anti-âge offrant une triple action visible sur les rides, les poches, les gonflements et le manque de fermeté Résultats cliniquement prouvés sur tous les signes visibles de l'âge du contour de l'œil : les rides et ridules sont atténués, la peau est plus ferme, les poches décongestionnées Application : Appliquer quotidiennement une petite quantité sur le bout d'un doigt propre et tapoter délicatement sur la zone du contour de l'œil, du coin intérieur vers l'extérieur Formule à la technologie révolutionnaire qui agit en 15 minutes pour des résultats visibles et durables Contenu : 1x Soin contour des yeux Eye Bag Instant Eraser L'Oréal Paris Revitalift Laser, 15 ml Commentaires client",
-    "price": 13.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/loreal-paris-revitalift-laser-soin-contour-yeux-anti-poches-15ml-technologie-gel-liftant-3431316",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jzI4p/3431316_1/re/1200x1200/qt/90/3431316_1.jpg",
-    "detected_at": "2026-10-12T19:35:33+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 13.0,
-        "observed_at": "2026-10-12T19:51:11.593854+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie 2Ah ou 4Ah + chargeur offerts pour l'achat d'un outil DeWalt éligible (ex : perceuse à percussion DCD709N à 99€)",
-    "description": "Leroy Merlin Du 14 octobre au 3 novembre, Leroy Merlin offre une batterie DeWalt (2 Ah ou 4 Ah selon l'outil) et un chargeur pour l'achat d'une machine DeWalt vendue sans batterie, parmi une sélection outillage et jardin. Exemple : la perceuse-visseuse à percussion XR 18V DCD709N (brushless, 65 Nm) est à 99€, et le souffleur XR DCMBL562N à 145€. Pour environ 10€ de plus que la perceuse seule ailleurs (dès 88,98€ sur leDénicheur), on repart donc avec un pack que Leroy Merlin valorise à 79,90€ (2 Ah) ou 99€ (4 Ah). Prenez bien l'offre vendue par Leroy Merlin, les vendeurs Marketplace sont exclus, et le pack doit être rendu en cas de retour de l'outil. Offre limitée à 8 000 packs 2 Ah et 4 000 packs 4 Ah, dans tous les magasins sauf Paris 19 et La Réunion.",
-    "price": 99.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-2ah-ou-4ah-chargeur-offerts-pour-lachat-dun-outil-dewalt-eligible-ex-perceuse-a-percussion-dcd709n-a-99eur-3431317",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Qz0Ry/3431317_1/re/1200x1200/qt/90/3431317_1.jpg",
-    "detected_at": "2026-10-12T19:31:02+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 99.0,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur Balai Laveur sans Fil Lefant LS100 - Autonettoyage (Vendeur Tiers)",
-    "description": "99€ - Amazon Aspirateur laveur ! - de 100€",
-    "price": 99.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lefant-ls100-aspirateur-laveur-sans-fil-autonettoyage-nettoyage-des-bords-aspirateur-balai-sans-fil-3431309",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/OHiuH/3431309_1/re/1200x1200/qt/90/3431309_1.jpg",
-    "detected_at": "2026-10-12T19:30:43+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 99.0,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
   }
 ]
