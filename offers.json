@@ -1,5 +1,25 @@
 [
   {
+    "title": "Majorette - Giftpack Anniversa...éhicules Exclusifs - 212054101",
+    "price": 16.79,
+    "reference_price": 23.99,
+    "discount_percent": 30.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CM6KYTX6",
+    "image_url": "https://m.media-amazon.com/images/P/B0CM6KYTX6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 08:44:44",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 16.79,
+        "observed_at": "2026-10-13T08:45:57.048564+00:00"
+      }
+    ]
+  },
+  {
     "title": "D-Link DGS-1510-28X/E, 28-Port...n d'alimentation UE Uniquement",
     "price": 347.68,
     "reference_price": 394.41,
@@ -1311,7 +1331,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T08:45:54.822922+00:00",
     "price_history": [
       {
         "price": 5.15,
@@ -1331,7 +1351,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
     "price_history": [
       {
         "price": 28.9,
@@ -1351,7 +1371,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T08:42:35.845883+00:00",
     "price_history": [
       {
         "price": 65.02,
@@ -1371,7 +1391,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
     "price_history": [
       {
         "price": 5.4,
@@ -1391,7 +1411,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
     "price_history": [
       {
         "price": 11.95,
@@ -1571,7 +1591,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T08:45:54.822922+00:00",
     "price_history": [
       {
         "price": 20.45,
@@ -1591,7 +1611,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T08:45:54.822922+00:00",
     "price_history": [
       {
         "price": 122.4,
@@ -2776,6 +2796,27 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Précommande] God Of War Laufey sur PS5",
+    "description": "61,99€ - Auchan God of war laufey sur ps5",
+    "price": 61.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/precommande-god-of-war-laufey-sur-ps5-3431530",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/X1ctU/3431530_1/re/1200x1200/qt/90/3431530_1.jpg",
+    "detected_at": "2026-10-13T08:41:40+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 61.99,
+        "observed_at": "2026-10-13T08:45:57.048564+00:00"
       }
     ]
   },
@@ -7812,27 +7853,6 @@
     "price_history": [
       {
         "price": 2.25,
-        "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mad Max sur PC & Mac (Dématérialisé)",
-    "description": "1,67€ - Instant Gaming instant-gaming.com/fr/835-acheter-mad-max-pc-mac-steam/ Les fonctionnalités en ligne seront retirées le 31 octobre 2020. Incarnez Mad Max, guerrier solitaire dans un monde post-apocalyptique sauvage, où les voitures sont la clé de la survie. Dans ce jeu en monde ouvert bourré d'action, vous devrez vous battre pour rester en vie dans les Terres désolées, en affrontant des hordes de dangereux ennemis dans de sanglants combats au sol ou dans un véhicule. Héros malgré lui et doté d'un fort instinct de survie, Max désire plus que tout fuir cette folie et trouver la paix dans les légendaires \"Plaines du Silence\". Les joueurs seront mis au défi dans de difficiles missions, tandis qu'ils exploreront ce monde hostile à la recherche de matériaux pour construire l'ultime machine de combat.",
-    "price": 1.67,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mad-max-pc-mac-steam-steam-digital-download-18-users-on-this-page-3431216",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/OkCYp/3431216_1/re/1200x1200/qt/90/3431216_1.jpg",
-    "detected_at": "2026-10-12T17:31:03+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1.67,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
       }
     ]
