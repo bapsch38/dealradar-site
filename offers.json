@@ -931,7 +931,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 89.99,
@@ -951,7 +951,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 42.97,
@@ -971,7 +971,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 124.9,
@@ -991,7 +991,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 26.99,
@@ -1731,7 +1731,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
     "price_history": [
       {
         "price": 21.79,
@@ -1751,7 +1751,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
     "price_history": [
       {
         "price": 92.89,
@@ -1771,7 +1771,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
     "price_history": [
       {
         "price": 79.99,
@@ -1791,7 +1791,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
     "price_history": [
       {
         "price": 40.49,
@@ -3876,6 +3876,10 @@
       {
         "price": 17.36,
         "observed_at": "2026-10-12T22:17:06.696397+00:00"
+      },
+      {
+        "price": 17.36,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
       }
     ]
   },
@@ -6732,6 +6736,132 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Creator 31394 - Les Adorables Animaux : le Panda Roux",
+    "description": "22,99€ - Carrefour Une première baisse de prix sur cette boîte récente En livraison ou en Retrait magasin A 29.99 € chez LEGO+5,95 de fdp 5% supplémentaires via the corner de boursobank Les adorables animaux : le panda roux LEGO® Creator 3-en-1 (31394) est un set inspirant pour garçons et filles dès 8 ans. Ce jouet propose 3 options de construction avec les mêmes briques. Créez un panda roux articulé accompagné d’un petit modèle avec un papillon et des fleurs. Puis envolez-vous et transformez-le en hibou qui peut tourner la tête et bouger les ailes, les plumes, la queue et les pattes, avec un escargot et des fleurs. Ou plongez et construisez un poisson-clown nageant au milieudes plantes sous-marines. Une fois le jeu terminé, chaque modèle peut être exposé sur une étagère, un bureau ou une table de chevet, et ainsi ajouter une touche naturelle dans la chambre d’un enfant. Ce set 3-en-1 ravira les enfants qui aiment les animaux et le jeu d’imagination. Avec le mode Construire ensemble de l’appli LEGO Builder, ils peuvent partager une expérience collaborative entre amis ou en famille. Les modèles ne peuvent pas être construits simultanément. Contient 297 pièces. ANIMAUX 3-EN-1 – Assemblez et transformez d’adorables figurines d’animaux en utilisant les mêmes briques avec le set de construction LEGO® Creator 3-en-1 Les adorables animaux : le panda roux (31394) pour les enfants dès 8 ans MULTIPLES OPTIONSDE JEU – Les enfants peuvent créer 3 modèles d’animaux (qui ne peuvent pas être construits simultanément) : un panda roux avec papillon et fleurs, un hibou avec escargot et fleurs, et un poisson-clown avec plantes sous-marines DÉTAILS ARTICULÉS – Le panda roux peut bouger les pattes, la bouche, la queue et la tête, le hibou peut tourner la tête et bouger les ailes, la queue et les plumes, et le poisson-clown peut faire onduler son corps et sa nageoire supérieure DÉCORATION INSPIRÉE DE LA NATURE – La séance de jeu terminée, chaque construction peut être exposée sur une étagère, un bureau ou une table de chevet afin d’ajouter une touche colorée à une chambre d’enfant IDÉE DE CADEAU POUR LES PASSIONNÉS D’ANIMAUX – Ce set 3-en-1 constitue uneidée de cadeau originale à offrir pour les fêtes ou un anniversaire aux filles et aux garçons qui aiment le jeu d’imagination et les expériences de construction créatives UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO® Builder guide les enfants dans la construction intuitive. Ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D JOUETS LEGO® CREATOR 3-EN-1 – Chaque set propose aux enfants 3 options de construction, inspirant un jeu imaginatif et une décoration créative DIMENSIONS – Le panda roux de ce set d’animaux de 297 pièces mesure plus de 10 cm de haut, 9 cm de large et 22 cm de long",
+    "price": 22.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-creator-31394-les-adorables-animaux-le-panda-roux-3432008",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y3oNz/3432008_1/re/1200x1200/qt/90/3432008_1.jpg",
+    "detected_at": "2026-10-13T22:20:28+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 22.99,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ecran PC incurvé 34\" MsSIMAG 341CQP QD-OLED - UWQHD 3440 x 1440, 175 Hz, 0,03 ms, DisplayHDR True Black 400, Adaptive-Sync",
+    "description": "599,99€ - Darty Écran QD-OLED La technologie QD de MSI, combinée à la technologie OLED, garantit la meilleure qualité d’image possible et des contrastes incroyablement élevé pendant le jeu. Taux de rafraîchissement élevé de 175 Hz Profitez d’images fluides et précises grâce à un taux de rafraîchissement de 175 Hz. Plus rapide que jamais Avec seulement 0,03 ms, le temps de réponse GTG de l'écran MAG 341CQP QD-OLED est beaucoup plus rapide que celui des écrans LCD standards et surpasse les besoins en termes de taux de rafraîchissement. OLED Care 2.0 MSI a développé cette version plus avancée pour fournir différents services d'entretien et réduire de manière significative les risques de vieillissement de l'écran OLED. Gaming Intelligence APP Personnalisez votre écran facilement et activez des fonctions très pratiques pendant votre jeu pour prendre l'avantage sur vos adversaires. Film de graphène avec dissipateur thermique personnalisé La synergie entre ces deux éléments permet à l’écran de fonctionner sans ventilateur de refroidissement actif, ce qui lui confère une conception sans ventilateur et garantit une dispersion efficace et silencieuse de la chaleur, prolongeant ainsi la durée de vie de l'écran. VESA DisplayHDR True Black 400 La certification VESA DisplayHDR True Black 400 garantit des images aux couleurs ultraréalistes.",
+    "price": 599.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecran-pc-incurve-34-msi-mag-341cqp-qd-oled-uwqhd-3440-x-1440-175-hz-003-ms-displayhdr-true-black-400-adaptive-sync-3432007",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9xrWj/3432007_1/re/1200x1200/qt/90/3432007_1.jpg",
+    "detected_at": "2026-10-13T22:18:08+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 599.99,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Seau Kerbl en Acier Inoxydable - 5.7L",
+    "description": "11,49€ - Amazon Le seau en acier inoxydable Kerbl est un ustensile robuste conçu pour une utilisation polyvalente, que ce soit pour le transport de liquides ou l'alimentation animale. Fabriqué en acier inoxydable AISI 201, ce seau se distingue par sa résistance à la corrosion et sa surface polie brillante qui facilite son entretien, le rendant idéal pour les fermes, écuries, ateliers ou les tâches de nettoyage. Matériau : Acier inoxydable AISI 201. Capacité : 5,7 litres. Conception : Fond plat pour une bonne stabilité et anse de transport. Finition : Poli brillant à l'intérieur et à l'extérieur. Hygiène : Facile à nettoyer et désinfecter. Un compagnon de travail fiable pour toutes les tâches exigeantes, qui ne manquera pas de briller, même après une dure journée.",
+    "price": 11.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/seau-kerbl-en-acier-inoxydable-57-l-3432005",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BR5y3/3432005_1/re/1200x1200/qt/90/3432005_1.jpg",
+    "detected_at": "2026-10-13T22:15:22+00:00",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.49,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Billet Aller Simple Paris - Amsterdam à utiliser entre le 14 décembre 2026 et le 31 mars 2027",
+    "description": "19€ - Groupon GoVolta propose un nouveau train direct entre la France et les Pays-Bas, sans changement. Choisissez un aller simple, un aller-retour, ou un court séjour combinant l'aller-retour en train avec un hôtel 3 étoiles pour 3 à 5 jours. Trajet Direct, sans changement. Destination : Amsterdam. Gares de départ France : Paris, Amiens, Arras. Belgique : Gand, Anvers. Pays-Bas : Roosendaal, Lage Zwaluwe, Rotterdam, La Haye, Haarlem. Période de voyage Du 14 décembre 2026 au 31 mars 2027, avec des liaisons quotidiennes au départ de Paris. Billets dès 19 €, disponibilité limitée. Les horaires exacts sont affichés lors de la réservation. Inclus Une place garantie et deux bagages à main (55x40x25 cm et 30x20x15 cm).",
+    "price": 19.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/paris-amsterdam-des-19-eur-train-direct-sans-changement-3432004",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/TncYr/3432004_1/re/1200x1200/qt/90/3432004_1.jpg",
+    "detected_at": "2026-10-13T22:11:46+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.0,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eau de Parfum Homme Guy Laroche Drakkar Bleu - Parfum frais, 100ml (Via Prévoyez Et Économisez)",
+    "description": "18,52€ - Amazon MarqueGuy Laroche Forme de l'articleAérosol Volume de l'article100 Millilitres ParfumAquatique, Frais Concentration de parfumEau de parfum Matériau non utiliséSans aluminium Ressentez la puissance de l’océan. Laissez-vous emporter par un parfum masculin aquatique, glacé et aromatique. Fort et résilient, à l’image de la détermination inébranlable de l’homme moderne. Avec un sommet de pomme croquante et de menthe fraîche, un cœur de lavande et un fond de patchouli boisé. Vaporisez à 8-15 cm de votre peau propre et sèche sur les points de pulsation pour une expérience sensorielle. Spécifications Dimensions du produit (L x l x h): 8 x 4 x 8 cm; 272,16 grammes Date de mise en ligne sur Amazon.fr: 31 mars 2025 Fabricant: L'Oreal ASIN: B0F18YYQDK Numéro du modèle de l'article: 200LF2362 Pays d'origine: France Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Beauté et Parfum Conditionnement du produit: Aérosol Parfum: Aquatique, Frais Concentration du parfum: Eau de parfum Mode d’application: Spray Marque: Guy Laroche Description de la tranche d’âge: Adulte Nom du modèle: Guy Laroche Drakkar Bleu Numéro du modèle: 200LF2362 Numéro de pièce: GUY-L4707304 Classement des meilleures ventes d'Amazon: 3796 en Beauté et Parfum (Voir les 100 premiers en Beauté et Parfum) 10 en Eau de parfum homme Moyenne des commentaires client: 4,3 4,3 sur 5 étoiles (1 819) 4,3 sur 5 étoiles Volume de l’article: 100 Millilitres Nombre d' articles: 1 Unité de comptage: 100 millilitre Type de matériau non utilisé: Sans aluminium Commentaires client",
+    "price": 18.52,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/guy-laroche-drakkar-bleu-eau-de-parfum-homme-parfum-frais-100mlvia-prevoyez-et-economisez-3432002",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/7kKbN/3432002_1/re/1200x1200/qt/90/3432002_1.jpg",
+    "detected_at": "2026-10-13T22:08:37+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 18.52,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Occasion : Câble de Recharge de Voiture Electrique Type 2 3,7kW - 6m avec Écran LCD (Vendeur Tiers - Etat Bon)",
+    "description": "79,95€ - Amazon cable de recharge occasionnel 16a reglable, pas de connectivité, mais amperage reglable, 6m de long marque plutot reconnu je me suis arrété à 10 dans le paniers donc pas mal de stock en \"etat bon etat\" donc 79 ald 119e sachant qu'une version plus recente offre l'application . mais j'imagine que les VE ont leur logiciel interne qui peut gerer cela . il y'a aussi l'option joybuy a 59e sinon mais peut etre plus no name. donc pour un achat malin c'est ptet pas mal avec une hager ou legrand À propos de ce produit 【Charge 1,5 fois plus rapide Plug & Play】Le chargeur voiture electrique permet une recharge simple et rapide jusqu’à 3,7 kW (230 V, 16 A), offrant une vitesse de charge jusqu’à 1,5 fois supérieure à celle d’un chargeur standard 10 A. Réglez facilement le courant de charge (6/8/10/13/16 A) et programmez un départ différé de 0,5 à 8 heures grâce aux boutons intégrés afin de profiter des tarifs d’électricité en heures creuses. 【Protection Avancée contre la Surchauffe】Un capteur de température intégré surveille en continu la prise pendant la charge. Si la température atteint 77°C, la charge s’arrête automatiquement et reprend à 67°C après refroidissement, garantissant une utilisation plus sûre et protégeant la connexion au quotidien. 【Charge Extérieure & Sécurité Fiable】Conçu pour la recharge à domicile et en extérieur, ce chargeur EV offre une conception robuste adaptée aux conditions météorologiques variables. Le RCD Type A (30mA) avec protection DC 6mA améliore la sécurité de charge. Évitez toutefois une exposition prolongée aux fortes pluies ou à l’eau stagnante. 【Câble de 6 m & Kit de Charge Complet】Ce chargeur EV est équipé d’un câble de charge d’une longueur totale de 6 m, offrant un excellent équilibre entre flexibilité et facilité de rangement. Le kit complet comprend un cache étanche, un support mural, un support de câble, un sac de transport et un chiffon microfibre, pour un rangement pratique et une utilisation quotidienne à domicile ou en déplacement. 【Large compatibilité】Compatible avec la plupart des véhicules électriques et hybrides rechargeables équipés d’une prise de recharge Type 2, notamment Model Y/3, e-208, E-Tech, R5 E-Tech, ë-C3, 500e, XC40 Recharge, ainsi que de nombreux autres modèles BEV et PHEV. Commentaires client",
+    "price": 79.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cable-de-recharge-occasionel-de-16a-ideal-prise-renforce-type-green-up-bon-etat-3432001",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/kRJjS/3432001_1/re/1200x1200/qt/90/3432001_1.jpg",
+    "detected_at": "2026-10-13T22:01:00+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 79.95,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
       }
     ]
   },
@@ -11408,42 +11538,5 @@
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
-  },
-  {
-    "title": "Montre automatique Lorus - RL473BX9 (Acier inoxydable et Cadran bleu)",
-    "description": "87,41€ - Amazon Baisse de prix ! :) ⌚ Montre automatique homme Lorus RL473BX9 – Acier inoxydable & cadran bleu Lorus RL473BX9 , une montre automatique au look sportif et élégant qui associe un cadran bleu foncé à un boîtier et un bracelet en acier inoxydable. Un design intemporel qui s'adapte aussi bien à une tenue décontractée qu'à un style plus habillé ! Son mouvement automatique Y676 fonctionne grâce aux mouvements du poignet, sans pile. Elle dispose également d'un affichage du jour et de la date, d'une lunette rotative ainsi que d'un fond de boîtier transparent permettant d'admirer son mécanisme. Caractéristiques principales : Marque : Lorus Référence : RL473BX9 Mouvement : automatique, calibre Y676 Boîtier : acier inoxydable Bracelet : acier inoxydable avec fermoir déployant Cadran : bleu foncé Diamètre du boîtier : 44 mm Épaisseur : 13 mm Verre : minéral Fonctions : heures, minutes, secondes, jour et date Lunette : rotative Aiguilles et index : luminescents Réserve de marche : environ 40 heures Étanchéité : 10 bar (100 mètres) Fond de boîte : vissé et transparent Garantie constructeur : 2 ans Les points forts : ✔️ Mouvement automatique sans pile ✔️ Finition acier et cadran bleu très réussis ✔️ Fond transparent pour apprécier le mécanisme ✔️ Étanchéité adaptée à la baignade en surface, dans les limites des recommandations du fabricant ✔️ Un modèle polyvalent au design sportif, avec un excellent potentiel pour un usage quotidien",
-    "price": 87.41,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-automatique-lorus-rl473bx9-acier-inoxydable-et-cadran-bleu-3431720",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1wJXb/3431720_1/re/1200x1200/qt/90/3431720_1.jpg",
-    "detected_at": "2026-10-13T13:04:37+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 87.41,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Formation Gratuite Premiers Secours Citoyen (PSC) aux habitants de 16/25 Ans - Raismes (59)",
-    "description": "Le Service Jeunesse de Raismes organise une Formation Gratuite Premiers Secours Citoyen (PSC). Elle est destinée aux habitants âgés de 16 à 25 Ans et aura lieu le Jeudi 22 Octobre 2026 (de 09h à 17h) à la Maison de Quartier Joliot-Curie à Raismes. Information et Inscription dès à présent au 07.71.89.58.01 ou au 06.85.57.98.95 Infos",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/formation-gratuite-premiers-secours-citoyen-psc-aux-habitants-de-1625-ans-raismes-59-3431719",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YlQJj/3431719_1/re/1200x1200/qt/90/3431719_1.jpg",
-    "detected_at": "2026-10-13T13:01:38+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
   }
 ]
