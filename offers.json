@@ -1,5 +1,125 @@
 [
   {
+    "title": "HORI Manette filaire HORIPAD T... Pokémon Company International",
+    "price": 28.03,
+    "reference_price": 37.9,
+    "discount_percent": 26.04,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FQPHGFYB",
+    "image_url": "https://m.media-amazon.com/images/P/B0FQPHGFYB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:10:36",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 28.03,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tivoly 10802470002 Ranger T15 ... Pointes et mèches Bois Plates",
+    "price": 46.23,
+    "reference_price": 59.0,
+    "discount_percent": 21.64,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08JCWLS1P",
+    "image_url": "https://m.media-amazon.com/images/P/B08JCWLS1P.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:10:34",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 46.23,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Marvel Cosmic Invasion - PS5",
+    "price": 24.99,
+    "reference_price": 39.99,
+    "discount_percent": 37.51,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0G1Z7XHLJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0G1Z7XHLJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:10:33",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Red Dead Redemption PS5",
+    "price": 29.99,
+    "reference_price": 34.99,
+    "discount_percent": 14.29,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GXF9G7SS",
+    "image_url": "https://m.media-amazon.com/images/P/B0GXF9G7SS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:10:32",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wish-Asha et la Bonne étoile",
+    "price": 9.99,
+    "reference_price": 15.99,
+    "discount_percent": 37.52,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CSSRR5HS",
+    "image_url": "https://m.media-amazon.com/images/P/B0CSSRR5HS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:10:25",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vaiana 2",
+    "price": 9.99,
+    "reference_price": 16.99,
+    "discount_percent": 41.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DVWDD928",
+    "image_url": "https://m.media-amazon.com/images/P/B0DVWDD928.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 13:10:23",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
     "title": "28 Ans Plus Tard",
     "price": 9.99,
     "reference_price": 20.03,
@@ -3216,6 +3336,10 @@
       {
         "price": 31.1,
         "observed_at": "2026-10-12T12:59:39.197132+00:00"
+      },
+      {
+        "price": 31.1,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3236,6 +3360,10 @@
       {
         "price": 83.8,
         "observed_at": "2026-10-12T12:59:39.197242+00:00"
+      },
+      {
+        "price": 83.8,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3256,6 +3384,10 @@
       {
         "price": 62.88,
         "observed_at": "2026-10-12T12:59:39.197253+00:00"
+      },
+      {
+        "price": 62.88,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3276,6 +3408,10 @@
       {
         "price": 91.8,
         "observed_at": "2026-10-12T12:59:39.197261+00:00"
+      },
+      {
+        "price": 91.8,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3296,6 +3432,10 @@
       {
         "price": 50.99,
         "observed_at": "2026-10-12T12:59:39.197285+00:00"
+      },
+      {
+        "price": 50.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3316,6 +3456,10 @@
       {
         "price": 106.78,
         "observed_at": "2026-10-12T12:59:39.197308+00:00"
+      },
+      {
+        "price": 106.78,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3336,6 +3480,10 @@
       {
         "price": 287.48,
         "observed_at": "2026-10-12T12:59:39.197320+00:00"
+      },
+      {
+        "price": 287.48,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3356,6 +3504,10 @@
       {
         "price": 10.99,
         "observed_at": "2026-10-12T12:59:39.197331+00:00"
+      },
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3376,6 +3528,10 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-12T12:59:39.197352+00:00"
+      },
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3396,6 +3552,10 @@
       {
         "price": 35.49,
         "observed_at": "2026-10-12T12:59:39.197357+00:00"
+      },
+      {
+        "price": 35.49,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3416,6 +3576,10 @@
       {
         "price": 10.44,
         "observed_at": "2026-10-12T12:59:39.197367+00:00"
+      },
+      {
+        "price": 10.44,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3436,6 +3600,10 @@
       {
         "price": 13.9,
         "observed_at": "2026-10-12T12:59:39.197384+00:00"
+      },
+      {
+        "price": 13.9,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3456,6 +3624,10 @@
       {
         "price": 8.04,
         "observed_at": "2026-10-12T12:59:39.197400+00:00"
+      },
+      {
+        "price": 8.04,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3476,6 +3648,10 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T12:59:39.197446+00:00"
+      },
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3496,6 +3672,10 @@
       {
         "price": 79.99,
         "observed_at": "2026-10-12T12:59:39.197453+00:00"
+      },
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3516,6 +3696,10 @@
       {
         "price": 3499.0,
         "observed_at": "2026-10-12T12:59:39.197469+00:00"
+      },
+      {
+        "price": 3499.0,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3536,6 +3720,10 @@
       {
         "price": 23.99,
         "observed_at": "2026-10-12T12:59:39.197475+00:00"
+      },
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3556,6 +3744,257 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      },
+      {
+        "price": 2269.0,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 6 canettes de Oasis - 33cl",
+    "description": "1,99€ - JoyBuy Ex : Prix pour 24 canettes Livraison gratuite avec Joyplus (1 mois gratuit) Points forts du produit Une boisson au jus délicieuse et rafraîchissante saveur fraise offrant un goût fruité et sucré Parfait pour se désaltérer et agréable pour toute la famille Pack pratique de 6 x 330 ml, idéal pour les déjeuners, les pique-niques ou comme boisson quotidienne Enrichi en vitamine C pour un bénéfice nutritionnel supplémentaire Ingrédients Eau, sucre, correcteur d'acidité (acide citrique), jus de fraise à base de concentré (0,3 %), arômes, correcteur d'acidité (citrate de sodium), conservateur (sorbate de potassium), colorant (anthocyanes), vitamine C. Allergènes Aucun Informations nutritionnelles Nutriments Pour 100 ml Énergie 132 kJ / 31 kcal Matières grasses 0 g dont acides gras saturés 0 g Glucides 7,5 g dont sucres 7,4 g Protéines 0 g Sel 0,01 g Conditions de conservation À conserver dans un endroit frais et sec. Pour un goût optimal, servir frais. Conseils d'utilisation À servir frais pour un rafraîchissement optimal. À déguster directement ou à verser sur des glaçons. À consommer de préférence avant le Voir l'emballage pour plus de détails Informations sur la conformité du produit Détails du fabricant Nom : Refresco UK Ltd. Adresse : 2-4 Sir Frank Whittle Road, Longbridge, Birmingham, West Midlands, B31 2FZ, Royaume-Uni Site Web : www.refresco.co.uk Personne responsable (UE) Nom : FRONERI France SAS Adresse : KERGAMET PLOUEDERN CS 20809, 29208 LANDERNEAU CEDEX, France Adresse e-mail : service.consommateur@fr.froneri.com",
+    "price": 1.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-6-canettes-de-oasis-33cl-3431721",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/m2hre/3431721_1/re/1200x1200/qt/90/3431721_1.jpg",
+    "detected_at": "2026-10-13T13:07:04+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre automatique Lorus - RL473BX9 (Acier inoxydable et Cadran bleu)",
+    "description": "87,41€ - Amazon Baisse de prix ! :) ⌚ Montre automatique homme Lorus RL473BX9 – Acier inoxydable & cadran bleu Lorus RL473BX9 , une montre automatique au look sportif et élégant qui associe un cadran bleu foncé à un boîtier et un bracelet en acier inoxydable. Un design intemporel qui s'adapte aussi bien à une tenue décontractée qu'à un style plus habillé ! Son mouvement automatique Y676 fonctionne grâce aux mouvements du poignet, sans pile. Elle dispose également d'un affichage du jour et de la date, d'une lunette rotative ainsi que d'un fond de boîtier transparent permettant d'admirer son mécanisme. Caractéristiques principales : Marque : Lorus Référence : RL473BX9 Mouvement : automatique, calibre Y676 Boîtier : acier inoxydable Bracelet : acier inoxydable avec fermoir déployant Cadran : bleu foncé Diamètre du boîtier : 44 mm Épaisseur : 13 mm Verre : minéral Fonctions : heures, minutes, secondes, jour et date Lunette : rotative Aiguilles et index : luminescents Réserve de marche : environ 40 heures Étanchéité : 10 bar (100 mètres) Fond de boîte : vissé et transparent Garantie constructeur : 2 ans Les points forts : ✔️ Mouvement automatique sans pile ✔️ Finition acier et cadran bleu très réussis ✔️ Fond transparent pour apprécier le mécanisme ✔️ Étanchéité adaptée à la baignade en surface, dans les limites des recommandations du fabricant ✔️ Un modèle polyvalent au design sportif, avec un excellent potentiel pour un usage quotidien",
+    "price": 87.41,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-automatique-lorus-rl473bx9-acier-inoxydable-et-cadran-bleu-3431720",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1wJXb/3431720_1/re/1200x1200/qt/90/3431720_1.jpg",
+    "detected_at": "2026-10-13T13:04:37+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 87.41,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Formation Gratuite Premiers Secours Citoyen (PSC) aux habitants de 16/25 Ans - Raismes (59)",
+    "description": "Le Service Jeunesse de Raismes organise une Formation Gratuite Premiers Secours Citoyen (PSC). Elle est destinée aux habitants âgés de 16 à 25 Ans et aura lieu le Jeudi 22 Octobre 2026 (de 09h à 17h) à la Maison de Quartier Joliot-Curie à Raismes. Information et Inscription dès à présent au 07.71.89.58.01 ou au 06.85.57.98.95 Infos",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/formation-gratuite-premiers-secours-citoyen-psc-aux-habitants-de-1625-ans-raismes-59-3431719",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YlQJj/3431719_1/re/1200x1200/qt/90/3431719_1.jpg",
+    "detected_at": "2026-10-13T13:01:38+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Barquette de légumes pot au feu 1kg",
+    "description": "1,99€ - Aldi Avec le retour de l'automne et de la pluie vient le retour des plats emblématiques de cette période. Bon, peu cher et rassasiant, le pot au feu est un incontournable de la saison froide. Du 13 au 17 octobre, Aldi propose la barquette de légumes pour pot au feu d'1kg à seulement 1.99€. Cette barquette contient un mélanges de carottes, oignons jaunes, navets, poireaux, thym, bref tout le nécessaire pour concocter ce plat. Tous les légumes de cette barquette sont d'origine France.",
+    "price": 1.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/barquette-de-legumes-pot-au-feu-1kg-3431718",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6jfRU/3431718_1/re/1200x1200/qt/90/3431718_1.jpg",
+    "detected_at": "2026-10-13T13:00:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Brosse à Dents Électrique Sonique 7Magic - 3 Intensités, 5 Modes de Brossage, Noir (Vendeur Tiers)",
+    "description": "24,42€ - Amazon Marque7MAGIC Tranche d'âge (description)Adulte Caractéristique spéciale3 niveaux d'intensité, 5 modes, 40000 VPM, Une charge dure 180 jours Source d'alimentationAlimenté par pile Description de la fermeté de l'articleMoyenne CouleurNoir 3 Niveaux d'Intensité et 5 Modes Intelligents - La brosse à dents électrique 7MAGIC répond à vos besoins quotidiens. Le mode Nettoyage de la brosse à dents sonique élimine la plaque dentaire et les mauvaises odeurs, le mode Blanchiment et Polissage apporte un éclat, le mode Soin des gencives stimule la circulation sanguine, et le mode Sensibilité est doux pour les dents sensibles lors de la première utilisation. Simple, efficace et personnalisable. Une charge dure 180 jours - Puissance fiable à la maison ou en voyage. Que vous soyez en déplacement ou chez vous, la brosse à dents électrique 7MAGIC s'adapte à votre routine grâce à sa batterie longue durée de 180 jours. L'indicateur de batterie en temps réel de la brosse à dents vous aide à garder le contrôle pour une utilisation quotidienne fluide. 40000 VPM offre une expérience de nettoyage efficace – nos brosses à dents soniques éliminent plus de 300 % de plaque dentaire par rapport aux brosses à dents manuelles, garantissant un nettoyage approfondi tout en réduisant la fatigue liée au brossage manuel. La Fonction de Minuterie vous aide à prendre de bonnes habitudes – un indicateur de changement de 30 secondes rappelle aux utilisateurs de modifier la zone de nettoyage pour s’assurer que chaque Quadrant est bien nettoyé. Les dentistes recommandent deux minutes de brossage à chaque fois et la fonction de minutage de la brosse a dent electrique garantit que l'utilisateur respecte ce temps recommandé pour assurer un nettoyage complet de chaque surface dentaire et le bon brossage. Grâce à son étanchéité ipx7, la brosse à dents à ultrasons peut être utilisée directement dans le bain, ce qui facilite également le nettoyage électrique de la brosse à dents. Conception Silencieuse sans déranger – Conception ultra-silencieuse pour un confort absolu - Grâce à son fonctionnement discret, cette brosse à dents électrique préserve la tranquillité de toute la famille, sans risquer de réveiller les enfants ou de déranger les personnes âgées, surtout le matin ou en soirée. Elle s’utilise également en toute discrétion dans les lieux partagés, comme au bureau ou à la salle de sport, sans gêner votre entourage ni créer de situation embarrassante. Son utilisation silencieuse rend chaque brossage plus agréable, plus apaisant et offre un véritable sentiment de confort au quotidien. 6 têtes de rechange pour 18 mois d'utilisation — La brosse à dents électrique 7Magic est fournie avec 6 têtes de rechange de qualité supérieure (5 têtes standard et 1 tête pour un nettoyage en profondeur). La brosse à dents électrique 7Magic est fabriquée à partir de matériaux sûrs et doux pour les gencives. Ses poils en forme de W et sa tête compacte assurent une couverture optimale des espaces interdentaires et de la ligne des gencives, éliminant ainsi les résidus alimentaires difficiles d'accès. Chaque tête ayant une durée de vie d'environ 3 mois, vous disposez de jusqu'à 18 mois d'utilisation avant de devoir remplacer vos têtes de brosse. La brosse à dents électrique 7MAGIC est le cadeau idéal pour prendre soin de la santé bucco-dentaire de vos proches. Parfaite pour un anniversaire, Thanksgiving, Noël, la fête des Mères, la fête des Pères, la Saint-Valentin, une remise de diplôme ou toute autre occasion, cette édition spéciale est une belle façon de témoigner votre affection. Support Client - La brosse à dents électrique 7MAGIC est durable et résistante. Le paquet comprend : 1 * brosse à dents sonique 7MAGIC, 6 * têtes de brosse, 1 * USB-Type C (adaptateur non inclus), 1 * support mural, 1 * couvercle de tête de brosse et 1 * manuel d'utilisation. Nous offrons une politique de maintenance de 2 ans et un support technique professionnel à vie. Si vous avez des questions, v",
+    "price": 24.42,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/7magic-brosse-a-dents-electrique-sonique-180-jours-dautonomie-noir-3431711",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/e3mk1/3431711_1/re/1200x1200/qt/90/3431711_1.jpg",
+    "detected_at": "2026-10-13T12:55:49+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.42,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Red Dead Redemption 2: Ultimate Edition Rockstar Games Launcher - PC (Dématérialisée)",
+    "description": "12,74€ - Gamivo Red Dead Redemption 2: Ultimate Edition sur PC via Rockstar Games Launcher, avec une clé annoncée comme Global. Découvrez l'aventure de Arthur Morgan et de la bande de Van der Linde dans le Far West, avec du contenu bonus exclusif à l'Ultimate Edition.",
+    "price": 12.74,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/red-dead-redemption-2-ultimate-edition-rockstar-games-launcher-pc-dematerialisee-3431716",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bcBQ6/3431716_1/re/1200x1200/qt/90/3431716_1.jpg",
+    "detected_at": "2026-10-13T12:54:49+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.74,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 32 Tampons O.b. Pro Comfort Super Plus",
+    "description": "1,50€ - JoyBuy Livraison gratuit avec JOYPLUS (1 mois gratuit) Caractéristiques principales et points forts Conçu pour les très fortes journées de règles, offrant un confort ultime et une protection fiable dans la gamme o.b. La technologie Dynamic Fit avec expansion 3D permet au tampon de s'adapter naturellement au corps Des rainures interconnectées uniques aident à diriger le flux vers le cœur du tampon pour une absorption efficace La surface SilkTouch permet une insertion et un retrait faciles et sans gêne Cœur 100 % végétal, sans produits chimiques nocifs, y compris les pesticides Testés gynécologiquement, sans chlore et sans parfum Les tampons o.b. ProComfort Super Plus associent la technologie innovante Dynamic Fit à une surface douce et soyeuse pour une expérience confortable et sûre lors de vos règles très abondantes. Conseils d'utilisation Utiliser comme indiqué sur l'emballage. Insérer selon le confort personnel. Changer si nécessaire. Pour usage externe uniquement. Pays d'origine Fabriqué aux Pays-Bas Contenu net 32 unités Dimensions Absorption : Super Plus (flux très abondant) Instructions de sécurité et d'utilisation Suivez les instructions d'utilisation. Changez régulièrement de tampon (tous les 4 à 8 heures) pour réduire le risque de choc toxique (TSS). Consultez un médecin si vous présentez des symptômes du TSS (fièvre, vomissements, diarrhée, éruption cutanée semblable à un coup de soleil).Ne pas jeter les tampons dans les toilettes ; à jeter dans une poubelle. Tenir hors de portée des enfants. Cesser l'utilisation en cas d'irritation. À conserver dans un endroit frais et sec, à l'abri de la lumière directe du soleil. Durée de conservation Veuillez consulter l'emballage du produit pour connaître la date de péremption. Numéro de lot Veuillez vérifier l'emballage du produit pour connaître le numéro de lot.",
+    "price": 1.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tampons-procomfort-ob-super-32-unites-3431710",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8X3uO/3431710_1/re/1200x1200/qt/90/3431710_1.jpg",
+    "detected_at": "2026-10-13T12:54:28+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.5,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Adhérents] Pack appareil photo hybride Panasonic Lumix S5 II + 2 objectifs : 20-60 mm f/3.5-5.6 et 50 mm f/1.8 | (via ODR 300€)",
+    "description": "1 399€ - Fnac Super prix pour ce Panasonic Lumix S5 Mark II , un hybride plein format particulièrement polyvalent en photo comme en vidéo. Il est proposé avec deux objectifs : le Lumix S 20-60 mm f/3.5-5.6 et le Lumix S 50 mm f/1.8 . Le pack est affiché à 1699€ pour les adhérents Fnac, mais une offre de remboursement s'ajoute à cela ! On arrive donc à 1399€ (y) Offre de remboursement Du 20 août 2026 au 13 novembre 2026, enregistrez votre appareil photo LUMIX des séries S5M2*, S5M2X*, S9*, TZ300* ainsi que certains objectifs LUMIX S achetés chez un revendeur participant et bénéficiez d’une remise pouvant aller jusqu’à 400 € Cliquez ici pour télécharger les détails de l'offre . ❖ Caractéristiques Hybride Panasonic Lumix S5 Mark II Capteur CMOS plein format 24,2 MP Monture Leica L Autofocus hybride phase + contraste à 779 points Stabilisation du capteur avec Active I.S. Double ISO natif Vidéo interne 6K/30p 10 bits Vidéo C4K/60p 4:2:2 10 bits Profil V-Log / V-Gamut , plus de 14 stops de plage dynamique annoncés Ralenti jusqu'à 180 i/s en Full HD Enregistrement vidéo sans limite de durée prédéfinie Sortie ProRes RAW via HDMI avec option adaptée Mode haute résolution 96 MP en RAW Rafale électronique jusqu'à 30 i/s avec autofocus Viseur OLED 3,68 millions de points Écran tactile orientable 3 pouces Double emplacement pour cartes SD Boîtier tropicalisé Alimentation et recharge via USB ➜ Objectifs inclus : > Panasonic Lumix S 20-60 mm f/3.5-5.6 Un zoom polyvalent avec un grand-angle de 20 mm, intéressant pour le paysage, le voyage, l'architecture et la vidéo. Il permet également de réaliser des portraits et des photos du quotidien sans changer constamment d'objectif. > Panasonic Lumix S 50 mm f/1.8 Une focale fixe lumineuse, adaptée aux portraits, aux scènes en faible luminosité et aux prises de vue avec un arrière-plan flou. Son ouverture à f/1.8 complète bien le zoom 20-60 mm.",
+    "price": 1399.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/adherents-pack-appareil-photo-hybride-panasonic-lumix-s5-ii-2-objectifs-20-60-mm-f35-56-et-50-mm-f18-via-odr-300eur-3431715",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/R24KB/3431715_1/re/1200x1200/qt/90/3431715_1.jpg",
+    "detected_at": "2026-10-13T12:52:28+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1399.0,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Clé à Molette Workpro - avec Grande Ouverture, 30mm, Poignée Souple Bi-Matière, Métrique Complet, Longeur 200mm (Vendeur Tiers)",
+    "description": "11,99€ - Amazon Principaux points forts CouleurBleu MarqueWORKPRO MatériauAcier au chrome-vanadium Longueur de l'article200 Millimètres Poids de l'article310 Grammes Quantité d'articles dans le colis1 Matériau en acier Cr-V de haute qualité: Fabriqué en acier Cr-V de qualité supérieure, forgé et traité pour résister à la corrosion, offrant une longue durée de vie Esthétique et sensation de qualité: La combinaison de la finition oxyde noir et de la poignée bleue donne un aspect élégant et une sensation de qualité supérieure Échelles métriques double face: Les échelles métriques gravées au laser sur les deux faces, de 0 à 30mm, facilitent les ajustements de taille précis et faciles Conception ergonomique: La poignée est conçue pour une prise en main confortable, avec des angles doux et des surfaces antidérapantes, assurant un contrôle stable pendant l'utilisation Torque élevé: Conçu pour fournir un torque ≥305N.M, poids de 310g, idéal pour les tâches lourdes et les applications industrielles Commentaires client",
+    "price": 11.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/workpro-cle-a-molette-avec-grande-ouverture-30-mm-poignee-souple-bi-matiere-metrique-complet-longeur-200-mm-3431706",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/rORVN/3431706_1/re/1200x1200/qt/90/3431706_1.jpg",
+    "detected_at": "2026-10-13T12:50:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 Veilleuses - Rechargeables, à Détecteur de Mouvement, RVB & Blanc Chaud, 750mAh (Via Remise au Panier - Vendeur Tiers)",
+    "description": "19,19€ - Amazon Obtenez un coupon de réduction de 40 % Détection radar et éclairage automatique : dispose de capteurs de haute précision pour détecter les mouvements dans un rayon de 5 m et s'active automatiquement en cas de faible luminosité. Cette veilleuse à détecteur de mouvement réactif permet une sécurité mains libres dans les entrées et fonctionne comme une veilleuse activée par le mouvement, s'éteint après votre départ pour économiser de l'énergie. Batterie de 750 mAh et charge de type C : équipée d'une batterie haute capacité de 750 mAh, cette veilleuse sans fil prend en charge jusqu'à 3 mois d'utilisation sur une seule charge. Le design rechargeable élimine la dépendance de la prise, ce qui le rend fiable pour les pannes de courant ou les courses de cuisine tard dans la nuit sans chercher les interrupteurs. Base magnétique et placement flexible : aimants puissants intégrés et coussinets métalliques adhésifs pour un montage sûr sur les appareils ou les murs. Idéales comme veilleuse de couloir, ces veilleuses portables peuvent être placées dans les placards ou les zones de rangement, facilitant la navigation dans les escaliers sans laisser de résidus ou nécessitant des outils. Navigation sûre et confort oculaire : empêche les trébuchements et les chutes pour les personnes âgées tout en offrant un éclairage doux pour les crèches. La veilleuse à détecteur de mouvement sert parfaitement de veilleuse de salle de bain sans éblouissement, permettant aux parents de vérifier les bébés ou de gérer les besoins de minuit sans déranger les partenaires de sommeil avec des lumières agressives. 【11 scènes RVB et utilisation polyvalente】Basculez entre 11 scènes prédéfinies et couleurs dynamiques pour créer une atmosphère pour les fêtes ou des vibrations apaisantes pour les chambres des enfants. Cette lampe polyvalente s'adapte à tous les scénarios, du compagnon de lecture de chevet à l'accent décoratif pour les chambres d'hôtes, assurant confort et style. Spécifications Dimensions du produit: 11,4P x 9l x 9H centimètres Type de lampe: Veilleuse Couleur de l'ombre: Translucide Matériau de l'abat-jour: Plastique Type d'interrupteur: Bascule Style: Vega 2PS Marque: Yeelight Couleur: Rgb 2ps Type de source lumineuse: LED Matériau: Plastique Type d’interrupteur: Bascule Type d'ampoule: LED Type de prise: Câble électrique Nombre d'ampoules: 2 Type de montage: Montage mural Angle d'éclairage: LED étiquetteÉnergie: F Le produit est-il sans fil ?: Oui Couleur de l’abat-jour: Translucide Dimensions de l'article P x L x H: 11,4P x 9l x 9H centimètres Matériaux de l'abat-jour: Plastique Materiau: Plastique Composants inclus: Port USB Nombre d' articles: 2 Utilisation extérieure ou intérieure: Intérieur Numéro de modèle: YLYYD-0034 Nombre de pièces: 2 Fabricant: yeelight Unité de comptage: 2.0 unité ASIN: B0H24XZJS9 Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (403) 4,4 sur 5 étoiles Commentaires client",
+    "price": 19.19,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-veilleuses-rechargeables-a-detecteur-de-mouvement-rvb-et-blanc-chaud-750-mah-3431705",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/B1K4i/3431705_1/re/1200x1200/qt/90/3431705_1.jpg",
+    "detected_at": "2026-10-13T12:49:52+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.19,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TV 65\" Sony 65 Bravia 6 - 2026, OLED , 164cm, 4K",
+    "description": "1 499€ - Boulanger Les barres de son éligibles à l’offre : https://boulanger.scene7.com/is/content/Boulanger/2.B.com/Commerce/EMS/FOOT26IMAF.pdf Même prix chez DARTY sans l’offre barre de son OLED cinéma et couleurs réalistes Le Sony BRAVIA 6 65\" offre une expérience visuelle immersive grâce à son écran OLED 4K de 3840 x 2160 pixels. Plus de 8 millions de pixels auto-émissifs délivrent des noirs profonds et des pics de luminosité éclatants pour un contraste cinématographique exceptionnel, visible quel que soit l'angle de vision. La technologie TRILUMINOS Pro restitue plus d'un milliard de couleurs pour des nuances subtiles de saturation, teinte et luminosité, rendant chaque scène plus vraie que nature. Compatible Dolby Vision et HDR10/HLG, l'écran exploite la plage dynamique élevée pour un rendu détaillé des hautes lumières et des ombres. Fréquence native 120 Hz, images fluides et claires pour films et sports. Design flush surface contemporain et socle réglable en hauteur pour intégrer une barre de son et s'adapter aux meubles TV. Smart TV, son cinéma et gaming optimisé Google TV avec Gemini donne accès à plus de 400 000 films et épisodes, plus de 10 000 applications et jeux via le Google Play Store et la commande vocale pour rechercher et contrôler le téléviseur. Quatre entrées HDMI 2.1 permettent la 4K à 120 images par seconde, VRR et ALLM pour une expérience gaming dynamique et réactive. L'audio intègre Dolby Atmos et Dolby Audio pour une immersion sonore de type salle de cinéma. Connectique complète : 4 HDMI, 2 USB, sortie audio numérique et port Ethernet, Wi-Fi intégré et Google Cast pour diffuser facilement le contenu. Dimensions sans pied 144,3 x 83,2 x 4,0 cm, poids 17,3 kg.",
+    "price": 1499.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tv-oled-sony-65-bravia-6-2026-65-164-cm-4k-3431713",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8aKyR/3431713_1/re/1200x1200/qt/90/3431713_1.jpg",
+    "detected_at": "2026-10-13T12:46:50+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1499.0,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Machine expresso automatique Krups EA810870 - Noire ou Rouge, 1450W, 15 bars (Via 20€ sur la carte de fidélité) - Retrait magasin",
+    "description": "159,99€ - Carrefour Super prix ! Caractéristiques techniques Couleur Noir Capacité du réservoir (en l) 1.7 Arrêt automatique Oui Nombre de tasses 2 Témoin de détartrage Oui Encastrable Non Puissance (en W) 1450 Réservoir amovible Oui Fabrication française Oui Type de cafetière Expresso broyeur à grains Disponibilité pièces détachées 120 Pression (en bar) 15 Puissance totale (en W) 1450 Marque de console KRUPS Broyeur à Café Intégré Oui Réservoir à lait non Cuve amovible Oui Température réglable Oui",
+    "price": 159.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/machine-expresso-automatique-krups-ea810870-noire-ou-rouge-1450w-15-bars-via-20eur-sur-la-carte-de-fidelite-retrait-magasin-3431712",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Pove7/3431712_1/re/1200x1200/qt/90/3431712_1.jpg",
+    "detected_at": "2026-10-13T12:46:25+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 159.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -3740,7 +4179,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 113.04,
@@ -3761,7 +4200,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 4.99,
@@ -3782,7 +4221,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 32.37,
@@ -3803,7 +4242,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 1259.99,
@@ -3824,7 +4263,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 24.99,
@@ -3845,7 +4284,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 86.89,
@@ -3866,7 +4305,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 98.99,
@@ -3887,7 +4326,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 47.93,
@@ -3908,7 +4347,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
     "price_history": [
       {
         "price": 15.9,
@@ -9667,373 +10106,5 @@
         "observed_at": "2026-10-12T23:01:14.790909+00:00"
       }
     ]
-  },
-  {
-    "title": "LEGO Star Wars 75428 - Droïde de combat sur son STAP",
-    "description": "103,99€ - Lego Droïde de combat sur son STAP pas souvent en promo ; -20% ici + points insiders doublés. Le set est bientôt retiré ! Sûrement la dernière chance pour le chopper à ce prix. Perso j'ai hésité .. 30sec XD Ca semble être bon deal :)",
-    "price": 103.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/droide-de-combat-sur-son-stap-75428-3431367",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/7GZL8/3431367_1/re/1200x1200/qt/90/3431367_1.jpg",
-    "detected_at": "2026-10-12T22:32:08+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 103.99,
-        "observed_at": "2026-10-12T22:49:35.459727+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Chevalets Toughbuilt C550",
-    "description": "79,95€ - iBOOD Le chevalet/table de travail ToughBuilt est durable, robuste et apporte une véritable valeur ajoutée à chaque atelier. 100 % acier de haute qualité Le chevalet est fabriqué en acier 100 % haut de gamme et possède une capacité de charge maximale d'environ 498 kg. Et vous en recevez deux ! Ensemble, ils supportent donc jusqu’à 997 kg. Table de travail solide Des pinces (45 mm) sont fixées aux extrémités du support pour accueillir une poutre 2x4. Vous pouvez ainsi créer une table solide à l’aide d’un plateau ou par exemple stabiliser/guiderson poutre. Avec barres transversales Sur les côtés des supports se trouvent des barres transversales rabattables, très pratiques pour poser facilement d’importants panneaux. Vous avez ainsi, presque, votre propre mur de sciage. Il ne vous reste plus qu’à apporter votre propre scie. Procurez-vous deux de ces supports solides et facilitez-vous la tâche pour vos travaux. Spécifications Marque : ToughBuilt Modèle : Chevalet / Table de travail | C550 Quantité : 2 pièces Chevalet et table de travail 2-en-1 Facile à déplier et à transporter Capacité de charge jusqu'à 498 kg par unité Caractéristiques Matériau : 100 % acier Bras de support 2x4 Pions de soutien du matériau Pieds pivotants Surfaces poudrées et galvanisées Poignée Caractéristiques physiques Capacité de charge : max. 498 kg / unité Dimensions fermé : 105,51 x 10,49 x 11,81 cm (LxPxH) Dimensions ouvert : 105,51 x 67,48 x 73,20 cm (LxPxH)",
-    "price": 79.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-chevalets-toughbuilt-c550-3431366",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XKh9D/3431366_1/re/1200x1200/qt/90/3431366_1.jpg",
-    "detected_at": "2026-10-12T22:14:18+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 79.95,
-        "observed_at": "2026-10-12T22:17:06.696397+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Chevalets Toughbuilt C550",
-    "description": "79,95€ - iBOOD Le chevalet/table de travail ToughBuilt est durable, robuste et apporte une véritable valeur ajoutée à chaque atelier. 100 % acier de haute qualité Le chevalet est fabriqué en acier 100 % haut de gamme et possède une capacité de charge maximale d'environ 498 kg. Et vous en recevez deux ! Ensemble, ils supportent donc jusqu’à 997 kg. Table de travail solide Des pinces (45 mm) sont fixées aux extrémités du support pour accueillir une poutre 2x4. Vous pouvez ainsi créer une table solide à l’aide d’un plateau ou par exemple stabiliser/guiderson poutre. Avec barres transversales Sur les côtés des supports se trouvent des barres transversales rabattables, très pratiques pour poser facilement d’importants panneaux. Vous avez ainsi, presque, votre propre mur de sciage. Il ne vous reste plus qu’à apporter votre propre scie. Procurez-vous deux de ces supports solides et facilitez-vous la tâche pour vos travaux. Spécifications Marque : ToughBuilt Modèle : Chevalet / Table de travail | C550 Quantité : 2 pièces Chevalet et table de travail 2-en-1 Facile à déplier et à transporter Capacité de charge jusqu'à 498 kg par unité Caractéristiques Matériau : 100 % acier Bras de support 2x4 Pions de soutien du matériau Pieds pivotants Surfaces poudrées et galvanisées Poignée Caractéristiques physiques Capacité de charge : max. 498 kg / unité Dimensions fermé : 105,51 x 10,49 x 11,81 cm (LxPxH) Dimensions ouvert : 105,51 x 67,48 x 73,20 cm (LxPxH)",
-    "price": 79.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-chevalets-toughbuilt-c550-3431365",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pAhw8/3431365_1/re/1200x1200/qt/90/3431365_1.jpg",
-    "detected_at": "2026-10-12T22:10:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 79.95,
-        "observed_at": "2026-10-12T22:17:06.696397+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coque Spigen Zero One Blanc pour Samsung S26 Ultra",
-    "description": "13,49€ - Amazon Pour tous ceux qui viennent d'enchaîner le cashback igraal/widilo + code promo pour la seconde montre + pour la seconde coque + la revente des doublons (ninja) (et aux autres possesseurs du téléphone^^) Il s'agit du modèle Spigen Ultra Hybrid MagFit dans sa finition Zero One : Compatible MagSafe : Intègre la technologie MagFit pour utiliser facilement tous vos accessoires aimantés (supports voiture, chargeurs, porte-cartes, etc.). Design Zero One : Un visuel moderne et schématique signature de Spigen, qui laisse entrevoir les composants internes tout en révélant la couleur d’origine du téléphone. Protection Antichoc : Équipée de la technologie Air Cushion aux quatre coins, testée selon les normes de chute militaires (1,22 m). Structure Hybride : Association d'un cadre en TPU ultra-souple pour l'absorption des chocs et d'un dos rigide en polycarbonate (PC) transparent pour la durabilité. Une très bonne référence pour protéger efficacement le téléphone sans sacrifier le design.",
-    "price": 13.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coque-spigen-zero-one-blanc-pour-samsung-s26-ultra-3431363",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ygabN/3431363_1/re/1200x1200/qt/90/3431363_1.jpg",
-    "detected_at": "2026-10-12T21:58:31+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
-    "price_history": [
-      {
-        "price": 13.49,
-        "observed_at": "2026-10-12T22:02:00.505050+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Smartphone 6,83\" Xiaomi 15T - RAM 12 Go, 256 Go, Version Globale",
-    "description": "389€ - JoyBuy Le prix me semble pour ce Xiaomi 15T ! Avec de bonnes caractéristiques, dispo également en version noir",
-    "price": 389.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/xiaomi-15t-12256go-3431362",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Ijy8z/3431362_1/re/1200x1200/qt/90/3431362_1.jpg",
-    "detected_at": "2026-10-12T21:58:19+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 389.0,
-        "observed_at": "2026-10-12T22:17:06.696397+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Perceuse à percussion sans fil Einhell Professional TP-CD 18V-80 Li-i BL - 18 V, Brushless, 80 Nm + batterie 2,5 Ah et chargeur offerts",
-    "description": "109,90€ - Castorama 109,90 € chez Castorama pour la perceuse à percussion sans fil Einhell Professional TP-CD 18V-80 Li-i BL, avec un Starter Kit Power X-Change 18 V comprenant une batterie de 2,5 Ah et un chargeur offerts (valeur 35,90 €). OFFRE VALABLE DU 23 SEPTEMBRE 2026 AU 5 JANVIER 2027 INCLUS IMPORTANT : POUR OBTENIR LA BATTERIE ET LE CHARGEUR GRATUITEMENT, IL FAUT AJOUTER LES DEUX PRODUITS AU PANIER. COMMENT PROFITER DE L'OFFRE ? 1. Ajouter la perceuse Einhell Professional TP-CD 18V-80 Li-i BL au panier. 2. Ajouter également le Starter Kit Einhell Power X-Change 18 V 2,5 Ah, référence 4006825646962. 3. La remise correspondant au prix du Starter Kit s'applique automatiquement lorsque les deux produits éligibles sont présents dans le panier. 4. Vérifier que la réduction apparaît avant de valider la commande. Aucun code promotionnel n'est nécessaire. L'offre est proposée par Castorama du 23/09/2026 au 05/01/2027, sous réserve de disponibilité des produits. La livraison à domicile est proposée en supplément selon l'adresse. Le retrait en magasin peut également être disponible. PRÉSENTATION DU PRODUIT La Einhell Professional TP-CD 18V-80 Li-i BL est une perceuse-visseuse à percussion sans fil de la gamme Einhell Professional. Elle est équipée d'un moteur sans charbon Brushless, d'un couple maximal de 80 Nm et d'un mandrin métallique autoserrant de 13 mm. Cet outil est conçu pour les travaux de perçage, de vissage et de perçage à percussion dans différents matériaux. Grâce à son alimentation par batterie 18 V, il permet de travailler sans câble électrique, aussi bien dans un atelier que sur un chantier ou lors de travaux de rénovation à domicile. Son couple élevé, ses deux vitesses mécaniques et ses différents réglages permettent d'adapter le fonctionnement de la machine à la nature du travail. CARACTÉRISTIQUES TECHNIQUES • Marque : Einhell • Gamme : Einhell Professional • Modèle : TP-CD 18V-80 Li-i BL • Type : perceuse-visseuse à percussion sans fil • Plateforme de batterie : Power X-Change • Tension : 18 V • Technologie moteur : Brushless (sans charbon) • Couple maximal : 80 Nm • Transmission : 2 vitesses mécaniques • Mandrin : métallique autoserrant de 13 mm • Fonctions : vissage, perçage et perçage à percussion • Réglage électronique de la vitesse • Réglage du couple de serrage • Éclairage LED intégré • Poignée auxiliaire pour un meilleur contrôle • Revêtement Softgrip pour une prise en main confortable • Compatible avec les batteries Einhell Power X-Change 18 V STARTER KIT OFFERT L'offre comprend un Starter Kit Einhell Power X-Change 18 V 2,5 Ah. Référence du kit : 4006825646962. Ce kit comprend : • 1 batterie lithium-ion Power X-Change 18 V de 2,5 Ah • 1 chargeur compatible Power X-Change La batterie est compatible avec les autres outils et appareils de la plateforme Einhell Power X-Change. Cette compatibilité constitue un avantage pour les utilisateurs souhaitant développer progressivement leur équipement sans acheter systématiquement une nouvelle batterie et un nouveau chargeur. La batterie de 2,5 Ah convient notamment aux travaux ponctuels de vissage et de perçage. Pour les travaux particulièrement exigeants ou les utilisations prolongées à forte charge, une batterie de plus grande capacité peut offrir une meilleure autonomie. MOTEUR BRUSHLESS La TP-CD 18V-80 Li-i BL utilise un moteur électrique sans charbon. Contrairement à un moteur traditionnel à balais, cette technologie fonctionne sans charbons soumis à une usure mécanique régulière. Elle présente plusieurs avantages : • Réduction de l'usure liée aux charbons • Meilleure efficacité énergétique du moteur • Entretien réduit • Bonne capacité à fournir un couple élevé • Durabilité adaptée à une utilisation régulière Einhell propose une garantie moteur Brushless pouvant atteindre 10 ans après enregistrement, selon les conditions du fabricant. COUPLE MAXIMAL DE 80 NM Avec un couple maximal annoncé de 80 Nm, cette perceuse appartient à la catégorie des modèles relativ",
-    "price": 109.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/perceuse-a-percussion-sans-fil-einhell-professional-tp-cd-18v-80-li-i-bl-18-v-brushless-80-nm-batterie-25-ah-et-chargeur-offerts-3431361",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/UZ3s3/3431361_1/re/1200x1200/qt/90/3431361_1.jpg",
-    "detected_at": "2026-10-12T21:57:28+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 109.9,
-        "observed_at": "2026-10-12T22:02:00.505050+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Forfait Mobile : Appels/SMS/MMS Illimités avec 200 Go Data 5G & 35 Go depuis 164 destinations",
-    "description": "13,99€ - Cdiscount Mobile Forfait avec 35go disponible dans 164 pays à 13.99€ soit légèrement en dessous de la concurrence red et sosh",
-    "price": 13.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/forfait-200-go-5g-voyage-164-pays-3431356",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gstij/3431356_1/re/1200x1200/qt/90/3431356_1.jpg",
-    "detected_at": "2026-10-12T21:56:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 13.99,
-        "observed_at": "2026-10-12T22:02:00.505050+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Joyplus] Panier à linge coulissant 4 compartiments avec étagère (via coupon)",
-    "description": "31,99€ - JoyBuy 38.94€ pour les non membres 4 compartiments de tri : Volume total de 160 L (40 L par sac). La conception à 4 compartiments aide à organiser les vêtements par type ou à séparer les couleurs Plateau pratique : Le plateau de cette panière offre plus de place pour les bidons de lessive. La surface en lattes assure une bonne aération pour éviter les odeurs Sac amovible et lavable : Le sac est maintenu par un panneau plastique en bas. Grâce aux scratchs, il est facile à retirer et à laver Robuste, stable et résistant : Tube en acier de 2 cm et panneau MDF. Supporte jusqu'à 20 kg. Sacs en tissu Oxford résistants à l'eau. Les 4 pieds ajustables assurent la stabilité Polyvalent : Convient parfaitement à la buanderie, salle de bain ou chambre. Essuyez l'eau sur l'étagère immédiatement avec un chiffon sec Avec un volume total de 160 L réparti en 4 compartiments de 40 L chacun, il vous permet d'organiser efficacement vos vêtements. Le plateau pratique offre de l'espace pour les bidons de lessive et assure une bonne aération. Les sacs amovibles et lavables sont maintenus par un panneau plastique et sont faciles à retirer grâce aux scratchs. En plus, avec un tube en acier de 2 cm et un panneau MDF, il supporte jusqu'à 20 kg. Les sacs en tissu Oxford résistent à l'eau et les 4 pieds ajustables le maintiennent stable. Polyvalent, il convient à la buanderie, la salle de bain ou la chambre. Spécifications du produit : Taille du produit : 116 x 33 x 72 cm (L x l x H) Taille du sac : 25 x 30 x 51 cm (L x l x H) Poids du produit : 8,7 kg Capacité de charge totale : 62 kg Capacité de charge du sac : 8 kg Capacité de charge du plateau : 30 kg Couleur : Marron, noir Matériaux : Panneau MDF, acier, tissu Oxford",
-    "price": 31.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/joyplus-panier-a-linge-coulissant-avec-etagere-via-coupon-3431360",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/u8kQH/3431360_1/re/1200x1200/qt/90/3431360_1.jpg",
-    "detected_at": "2026-10-12T21:47:50+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 31.99,
-        "observed_at": "2026-10-12T21:52:48.306448+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Diffuseur de parfum connecté pour voiture Torras CF20 – Activation automatique",
-    "description": "51,90€ - JoyBuy Le TORRAS CF20 est un diffuseur de parfum intelligent pour voiture qui combine diffusion automatique, éclairage d’ambiance et design décoratif . Il se distingue par son esthétique inspirée d’un petit paysage miniature, ses deux bandes lumineuses personnalisables et son alimentation rechargeable solaire et USB-C . Le pack comprend également deux recharges parfumées , aux senteurs White Musk (musc blanc) et Cherry Blossom (fleur de cerisier) .",
-    "price": 51.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/diffuseur-de-parfum-intelligent-pour-voiture-torras-cf20-activation-automatique-3431359",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/r2IYQ/3431359_1/re/1200x1200/qt/90/3431359_1.jpg",
-    "detected_at": "2026-10-12T21:45:14+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 51.9,
-        "observed_at": "2026-10-12T21:52:48.306448+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo Bianchi Oltre Comp Shimano 105 Di2 12S Metallic Celeste - Full glossy (rdrbikes.it)",
-    "description": "3 262€ LES CARACTÉRISTIQUES COMPLÈTES DU OLTRE COMP 105 DI2 2026 Taille disponible : 55 , 57 , 59 CADRE Oltre Comp, carbon, disc brakes BATTERIE-FOURCHE Full Carbon aero, disc brakes D.ARRIÈRE Shimano, 105 Di2 RD-R7150, 12-vitesses D.AVANT Shimano 105 Di2, FD-R7150 12-vitesses MANETTE Shimano 105 Di2 hydraulic disc brake for road, ST-R7170 CASSETTE Shimano, 105 12vitesses, CS-R7100 11-34 dents CHAÎNE Shimano, 105 12vitesses, CN-M7100 PÉDALIER Shimano 105 12vitesses, FC-R7100 FREINS Shimano BR-R8170 Hydraulic disc brake, included in the shifter PNEUS Pirelli P7, 700 x 28c, 60TPI TAILLE DE ROUES28 Pouces ROUES Velomann Carbon V50R 50mm profile, 700x21c, HG body, UD carbon fiber, tubeless ready and clincher CINTRE Velomann Aero Compact handlebar, alloy diam. 31,8mm POIGNÉES OU GUIDOLINE Velo soft Microfiber tape, black POTENCEVelomann Aero stem, material alloy SELLE Velomann Mitora139, open flow, AISI rails, carbon-reinforced nylon Large 139mm Lenght 250mm TIGE DE SELLE Oltre Full Carbon Aero special dimension seatpost, 20mm EQUIPEMENTS-POIDS 8.0kg en taille 57 GAMME 2026",
-    "price": 3262.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/velo-bianchi-oltre-comp-shimano-105-di2-12s-metallic-celeste-full-glossy-3431357",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/GiZQB/3431357_1/re/1200x1200/qt/90/3431357_1.jpg",
-    "detected_at": "2026-10-12T21:40:40+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 3262.0,
-        "observed_at": "2026-10-12T21:52:48.306448+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Boîtier PC Acer Predator MI900",
-    "description": "145,99€ - TradeInn Boîtier gaming compact et haut de gamme au design futuriste, parfait pour une config Mini‑ITX puissante avec grande carte graphique et refroidissement liquide 240 mm, le tout dans seulement 15,4 litres. [shortcode id=\"20619102\"/] Points forts Format Mini‑ITX compact (15,4 L) pour configs gaming puissantes dans un minimum d’espace. Design futuriste Predator Orion X, façade travaillée et éclairage ARGB intégré pour un look gaming haut de gamme. Support watercooling 120/240 mm ou 2 ventilateurs 120 mm sur le dessus pour un refroidissement efficace. Layout “sandwich” à double chambre : séparation carte mère/CPU et GPU pour un meilleur flux d’air. Compatible grandes cartes graphiques : jusqu’à 310 mm de longueur. 2 emplacements 2,5\" pour SSD, idéal pour une config full SSD rapide et silencieuse. Panneau latéral avec fenêtre (selon version) pour mettre en valeur les composants et l’éclairage ARGB. Connectique en façade moderne : USB‑C, USB 3.2 Gen1 Type‑A, audio et micro. Ouverture sans outil (flip‑open) pour des montages et upgrades rapides. Description longue Le Predator MI900 est un boîtier PC gaming Mini‑ITX pensé pour les joueurs qui veulent une machine puissante dans un format ultra‑compact. Avec un volume d’environ 15,4 litres et un design en “sandwich”, il sépare la zone carte mère/CPU de la zone GPU pour optimiser la circulation de l’air et accueillir des composants hautes performances malgré sa petite taille. Son châssis mêle acier et plastique avec une esthétique inspirée du Predator Orion X, combinant lignes agressives, façade travaillée et éclairage ARGB pour un rendu véritablement futuriste sur un setup gaming moderne. Il est idéal pour monter un PC compact mais puissant sur un bureau, une étagère ou dans un espace restreint, sans sacrifier les performances ni le style. Côté refroidissement, le MI900 supporte jusqu’à un radiateur de 240 mm ou deux ventilateurs 120 mm en partie supérieure, complétés par des grilles mesh sur les côtés et le dessus pour garantir un flux d’air efficace. Il accepte des cartes graphiques jusqu’à 310 mm de longueur, un ventirad CPU jusqu’à environ 41,5 mm de hauteur (si vous optez pour un aircooling low profile) et une alimentation jusqu’à 100 mm, ce qui le rend parfaitement adapté aux dernières cartes graphiques et AIO compacts. Pour le stockage, le boîtier offre deux baies 2,5\" pour SSD, permettant de constituer une configuration rapide et silencieuse. La façade propose une connectique moderne avec USB‑C, USB 3.2 Gen1 Type‑A ainsi que prises audio et micro, pour brancher facilement casque, clé USB ou périphériques externes. Enfin, l’accès sans outil avec panneaux “flip‑open” simplifie énormément le montage et les mises à niveau, même dans un espace aussi compact. Fiche technique Format boîtier : Mini‑tour SFF, Mini‑ITX. Volume : env. 15,4 L. Dimensions (L × P × H) : 17,9 × 33,6 × 25,7 cm (approx. 336 × 179 × 258 mm). Matériaux : acier, plastique. Cartes mères supportées : Mini‑ITX, Thin Mini‑ITX. Slots d’extension : 3. Baies : 2 × 2,5\". Longueur GPU max : 310 mm. Hauteur ventirad CPU max : 41,5 mm. Longueur alimentation max : 100 mm. Support ventilateurs : haut 2 × 120 mm. Support radiateurs : haut 120 / 240 mm. Connectique façade : 1 × USB 3.2 Gen1 Type‑C, 1 × USB 3.2 Gen1 Type‑A, audio casque, micro. Éclairage : ARGB frontal. Poids : env. 5,5 kg. Couleur : blanc (version Orion X design).",
-    "price": 145.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/boitier-pc-acer-predator-mi900-3431355",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/u3LzH/3431355_1/re/1200x1200/qt/90/3431355_1.jpg",
-    "detected_at": "2026-10-12T21:37:55+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 145.99,
-        "observed_at": "2026-10-12T21:52:48.306448+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Via Inscription] Journées Portes Ouvertes Gratuites du 24 et 25 octobre 2026 dans les établissements thermaux",
-    "description": "♨️ Immersions Thermales – Une escapade bien-être pour se détendre et se ressourcer Envie de couper un peu avec le quotidien, de profiter d'une eau bien chaude et de s'accorder un vrai moment de détente ? Les expériences thermales sont une belle idée pour une escapade en couple, entre amis ou simplement pour prendre du temps pour soi. Journées portes ouvertes gratuites dans les établissements thermaux – 24 et 25 octobre 2026 Bonne nouvelle : les 24 et 25 octobre 2026, les établissements thermaux participants ouvrent gratuitement leurs portes partout en France à l'occasion de la première édition des Immersions Thermales ! Au programme, selon les établissements : ♨️ Découverte et possibilité de tester certains soins thermaux. Visites guidées des installations. ‍⚕️ Rencontres avec les équipes soignantes. Échanges autour des cures thermales et de leur fonctionnement. L'événement est ouvert aux curieux, aux futurs curistes et à toutes les personnes qui souhaitent découvrir cet univers sans forcément réserver une cure. C'est entièrement gratuit, mais attention, l'inscription est obligatoire et les places sont limitées. Les activités proposées varient selon les établissements. Samedi 24 et dimanche 25 octobre 2026 Dans les établissements thermaux participants en France Une occasion sympa de découvrir les thermes de l'intérieur, sans débourser un centime ! Provence-Alpes-Côte d'Azur Digne-les-Bains (04) : Thermes de Digne-les-Bains Gréoux-les-Bains (04) : Thermes de Gréoux-les-Bains Auvergne-Rhône-Alpes Aix-les-Bains (73) : Thermes Marlioz et Thermes Chevalley Allevard (38) : Thermes d'Allevard Bourbon-l'Archambault (03) : Thermes de Bourbon-l'Archambault Brides-les-Bains (73) : Thermes de Brides-les-Bains Châtel-Guyon (63) : Aïga Resort Thermal & Spa Chaudes-Aigues (15) : Thermes de Caleden La Bourboule (63) : Grands Thermes Le Mont-Dore (63) : Thermes du Mont-Dore Montbrun-les-Bains (26) : Thermes de Montbrun-les-Bains Montrond-les-Bains (42) : Thermes de Montrond-les-Bains Saint-Laurent-les-Bains (07) : Thermes de Saint-Laurent-les-Bains Thonon-les-Bains (74) : Thermes de Thonon-les-Bains Vichy (03) : VY Resort Thermal & Spa Bourgogne-Franche-Comté Lons-le-Saunier (39) : Thermes de Lons-le-Saunier Luxeuil-les-Bains (70) : Thermes de Luxeuil-les-Bains Saint-Honoré-les-Bains (58) : Thermes de Saint-Honoré-les-Bains Santenay (21) : Thermes de Santenay Grand Est Amnéville-les-Thermes (57) : Centre thermal Saint-Eloy Bains-les-Bains (88) : Thermes de Bains-les-Bains Morsbronn-les-Bains (67) : Thermes de Morsbronn-les-Bains Nancy (54) : Nancy Thermal Niederbronn-les-Bains (67) : Thermes de Niederbronn-les-Bains Vittel (88) : Vittel Thermes & Spa Hauts-de-France - Saint-Amand-les-Eaux (59) : Thermes de Saint-Amand-les-Eaux Île-de-France - Enghien-les-Bains (95) : Thermes d'Enghien-les-Bains Normandie - Bagnoles-de-l'Orne (61) : B'O Resort Thermal & Spa Nouvelle-Aquitaine Cambo-les-Bains (64) : Thermes de Cambo-les-Bains Casteljaloux (47) : Société thermale de Casteljaloux Dax (40) : Dax Les Thermes, Thermes Bérot, Thermes Borda, Thermes des Arènes, Thermes du Régina, Thermes Les Écureuils et Thermes Sarrailh Eugénie-les-Bains (40) : Thermes d'Eugénie-les-Bains Évaux-les-Bains (23) : Établissement thermal d'Évaux-les-Bains Jonzac (17) : Thermes de Jonzac La Roche-Posay (86) : Thermes du Connétable et Centre thermal de La Roche-Posay Préchacq-les-Bains (40) : Thermes de Préchacq-les-Bains Rochefort (17) : Établissement thermal de Rochefort Saint-Paul-lès-Dax (40) : Thermes de Christus et Thermes Sourcéo Salies-de-Béarn (64) : Selya Resort Thermal & Spa Saubusse (40) : Saubusse Thermal Saujon (17) : Thermes de Saujon Occitanie Allègre-les-Fumades (30) : Thermes des Fumades Amélie-les-Bains (66) : Thermes d'Amélie-les-Bains Argelès-Gazost (65) : Thermes d'Argelès-Gazost Aulus-les-Bains (09) : Thermes d'Aulus-les-Bains Avène (34) : Centre thermal d'Avène Bagnères-de-Bigorre (65) : Grands Thermes Bagnères-de-Luchon (31) : Thermes de Luchon Bagno",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/journees-portes-ouvertes-gratuites-dans-les-etablissements-thermaux-24-et-25-octobre-2026-3431352",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/WH2za/3431352_1/re/1200x1200/qt/90/3431352_1.jpg",
-    "detected_at": "2026-10-12T21:28:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
-  },
-  {
-    "title": "Eau de Toilette Hugo Boss Boss Bottled Night - 200 ml",
-    "description": "43,30€ - Parfums et Moi Hugo Boss No. 6 Bottled Night est un parfum masculin sensuel, créé pour les hommes qui veulent laisser une impression inoubliable et paraître confiants et séduisants. Lancé comme une version de soirée de l'emblématique Bos 6, ce pare parfum est destiné au gentleman moderne qui veut profiter de chaque instant d'une nuit de séduction et d'élégance. Bottled Night est synonyme de succède style, ce , ce qui en fait un choix idéal pour les hommes confiants qui souhaitent accentuer leur aura masculine et leur charisme. L'ouverture du parfum apporte une combinaison inhabituelle mais harmonieuse de lavande et de bouleau , qui donnent au parfum un caractère aromatique subtil avec une touche légèrement boisée. Cette combinaison est à la fois fraîche et sophistiquée, ce qui confère au parfum son originalité et son attrait. Le cœur du parfum est dominé par la mystérieuse violette , qui apporte une délicate note florale et confère au parfum sensualité et profondeur. Le fond est composé d' accords boisés profonds et de musc sensuel, donnant au parfum un fini durable et masculin. Hugo Boss Bottled Night a une durée et une intensité moyennes, ce qui le rend approprié pour être porté le jour et le soir tout au long de l'année. Sa composition riche et son flacon bleu profond évoquent la magie du ciel nocturne, ce qui en fait le parfum idéal pour les hommes qui veulent laisser une trace d'élégance et un attrait irrésistible dans la société.",
-    "price": 43.3,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/eau-de-toilette-hugo-boss-boss-bottled-night-200-ml-3431353",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6nPCb/3431353_1/re/1200x1200/qt/90/3431353_1.jpg",
-    "detected_at": "2026-10-12T21:15:17+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 43.3,
-        "observed_at": "2026-10-12T21:23:18.327266+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Short de fitness Under Armour homme - Gris",
-    "description": "20,99€ - Decathlon La matière UA Tech™ est parfaitement adaptée au training. Ce short est fabriqué dans un tissu tissé léger et ultra-résistant pour te permettre d'affronter toutes les situations Ce modèle est conçu intégralement en polyester (100 %). Il est fabriqué à partir d'un tissu tissé UA Tech™ ultra-léger et particulièrement résistant pour t'accompagner durablement dans toutes les situations. Cette matière innovante élimine efficacement la transpiration et sèche très rapidement, préservant ainsi ta fraîcheur pendant l'effort.",
-    "price": 20.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/under-armour-short-de-fitness-homme-gris-3431350",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/y0Y99/3431350_1/re/1200x1200/qt/90/3431350_1.jpg",
-    "detected_at": "2026-10-12T21:04:05+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 20.99,
-        "observed_at": "2026-10-12T21:07:49.672840+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Super Mario Fire Mario Stadium - Jeu d’action table (via Click & Collect)",
-    "description": "12,99€ - Smyths Toys Le jeu de société Super Mario Fire Mario Stadium est un duel de tir façon flipper, avec des figurines Fire Mario et Fire Luigi. Le jeu oppose deux à quatre joueurs dans une bataille rapide où chaque coup pousse la cible de votre personnage vers le centre pour faire tomber Bowser — simple et direct. Âge : recommandé dès 5 ans, pour 2‑4 joueurs Contenu : figurine Fire Mario, figurine Fire Luigi, arène à monter, deux boules de feu (disques), cibles et tour centrale pour Bowser Mécanique : action shooting sans piles – on utilise des palettes (gâchettes) pour tirer les disques de feu sur les cibles Compatibilité : système Link System, les figurines sont interchangeables avec d’autres jeux de la gamme Super Mario d’Epoch Games Le jeu se monte facilement, les manches s’enchaînent vite, idéal pour les moments où l’on veut se défouler un peu autour d’un concept simple. Aucun défaut majeur relevé, c’est la bonne petite baston Mario, sans prise de tête.",
-    "price": 12.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/super-mario-fire-mario-stadium-jeu-daction-table-via-click-collect-3431351",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gvZiD/3431351_1/re/1200x1200/qt/90/3431351_1.jpg",
-    "detected_at": "2026-10-12T21:02:28+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 12.99,
-        "observed_at": "2026-10-12T21:07:49.672840+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Veste Moto Hiver Alpinestars T-SP S Waterproof - Taille XL",
-    "description": "129€ - Outlet Moto Veste d'hiver Alpinestars T-SPS étanche. Confectionnée en polyester 600D de haute résistance avec double revêtement en polyuréthane pour offrir une protection supplémentaire. Membrane imperméable et respirante . Doublure thermique amovible à manches longues. Protections amovibles Nucleon Flex Plus (homologuées CE – Niveau 1) aux épaules et aux coudes. Compartiment dans le dos où l'on peut installer les protecteurs Alpinestars Nucleon (non inclus). Renforts internes en polyester 600D aux épaules et aux coudes pour une plus grande résistance à l'abrasion. Entrées d'air latérales avec zip pour une circulation optimale de l'air. Col profil bas avec finition en tissu doux à l'intérieur pour un confort maximal. Col, taille, manches et poignets ajustables . Manches pré-courbées pour un plus grand confort et des performances en position de conduite. 2 poches extérieures avec zip, 1 poche intérieure imperméable avec zip et deux poches dans la doublure intérieure. Détails réfléchissants dans la zone supérieure des manches pour être plus visible en conduite nocturne ou par faible luminosité. Zip de connexion veste-pantalon Alpinestars. Veste homologuée selon la réglementation CE Cat.II – EPI (UE) 2016/425 Classe A . Disponible protection dorsale Alpinestars Nucleon KR-2i : - Choisir la taille M : Tailles XS - XL - Choisir la taille L : Tailles XXL et plus. Fiche technique Homologations: EN 1621 Niveau 1, EN 17092 A Matériaux: Imperméable, Textile, Thermique Urbano: Oui Saison:Hiver",
-    "price": 129.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/veste-moto-hiver-alpinestars-t-sp-s-waterproof-taille-xl-3431349",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4weJu/3431349_1/re/1200x1200/qt/90/3431349_1.jpg",
-    "detected_at": "2026-10-12T20:56:37+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 129.0,
-        "observed_at": "2026-10-12T21:07:49.672840+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Radiateur soufflant céramique Totopia 1500 W - 4 modes de chauffage, technologie PTC, mode ÉCO, chauffage d’appoint",
-    "description": "18,90€ - JoyBuy 18,90 € au lieu de 34,90 €, soit environ 46 % de réduction, grâce à une remise automatique de 5 % dès l’achat d’un article chez Joybuy. Livraison à 3,99 €, soit 22,89 € au total. Bonus de bienvenue de 5 € pour les nouveaux inscrits sur Joybuy , à récupérer via l’offre de bienvenue affichée sur le site. Ce bonus est soumis aux conditions de l’offre et son cumul avec la réduction automatique reste à vérifier. Une offre intéressante sur le radiateur soufflant céramique Totopia 1500 W , un chauffage d’appoint électrique équipé de quatre modes de fonctionnement, dont un mode ÉCO permettant d’adapter automatiquement la puissance de chauffage à la température ambiante. Ce modèle est conçu pour réchauffer rapidement une chambre, un bureau ou une petite pièce, sans nécessiter d’installation particulière. Le produit est vendu et expédié directement par Joybuy, avec des retours gratuits sous 30 jours et une garantie fabricant annoncée de deux ans. Comment profiter de l’offre ? Ajouter le radiateur Totopia au panier. La réduction de 5 % est proposée automatiquement dès l’achat d’un article éligible. Pour les nouveaux utilisateurs, cliquer sur « Obtenir » dans la bannière des offres de bienvenue afin de consulter les conditions du bonus de 5 €. Vérifier les réductions appliquées avant de valider la commande. Aucun abonnement JoyPlus n’est nécessaire pour bénéficier de la réduction automatique. Le marchand propose également un tarif réservé aux membres JoyPlus, mais celui-ci n’est pas nécessaire pour profiter de l’offre présentée. Caractéristiques techniques Marque : Totopia Type : radiateur soufflant électrique Puissance maximale : 1 500 W Technologie : élément chauffant en céramique PTC Nombre de modes : 4 Mode ventilation seule : sans production de chaleur Mode chauffage réduit : 750 W Mode chauffage maximal : 1 500 W Mode ÉCO : adaptation automatique de la puissance selon la température ambiante Utilisation : chauffage d’appoint intérieur Pièces adaptées : chambre, bureau et petites pièces Vendeur : Joybuy Expédition : assurée par Joybuy Retours : gratuits sous 30 jours Garantie fabricant : 2 ans annoncés Avis clients : 4,1/5 sur plus de 10 avis Ventes indiquées : plus de 400 unités Chauffage rapide grâce à la technologie céramique PTC Le Totopia utilise un élément chauffant en céramique PTC, une technologie couramment employée dans les radiateurs soufflants modernes. Le principe repose sur une résistance électrique dont les propriétés évoluent avec la température. Cette technologie permet une montée en température rapide et contribue à réguler l’échauffement de l’élément chauffant. Contrairement aux radiateurs à inertie, qui accumulent progressivement la chaleur avant de la restituer, un radiateur soufflant diffuse directement de l’air chaud dans la pièce. Cette conception est particulièrement intéressante pour les besoins ponctuels. Par exemple, il peut être utilisé pour réchauffer un bureau avant de commencer à travailler, améliorer le confort dans une chambre pendant quelques minutes ou apporter un complément de chauffage lorsque la température extérieure diminue. Le ventilateur intégré permet de répartir l’air chaud autour de l’appareil. Il s’agit donc principalement d’une solution de chauffage localisée, destinée à compléter une installation existante plutôt qu’à remplacer le chauffage principal d’un logement. Quatre modes de fonctionnement L’appareil propose quatre modes permettant d’adapter son utilisation aux conditions ambiantes. Mode ventilation seule Cette fonction permet de faire fonctionner le ventilateur sans activer l’élément chauffant. Elle peut être utile pour créer une légère circulation d’air lorsque le chauffage n’est pas nécessaire. Mode chauffage 750 W Le premier niveau de chauffage convient aux situations nécessitant une puissance modérée. Il peut être utilisé lorsque la température de la pièce est légèrement inférieure au niveau de confort souhaité. Ce mode présente également l’avantage de limite",
-    "price": 18.9,
-    "reference_price": 34.9,
-    "discount_percent": 45.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/radiateur-soufflant-ceramique-totopia-1500-w-4-modes-de-chauffage-technologie-ptc-mode-eco-chauffage-dappoint-3431347",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vk4zf/3431347_1/re/1200x1200/qt/90/3431347_1.jpg",
-    "detected_at": "2026-10-12T20:52:51+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 18.9,
-        "observed_at": "2026-10-12T20:56:45.540647+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Opération \"Don de bois de palettes pour chauffage\"- Distribution gratuite à Pouancé (49) - ose49.fr",
-    "description": "Bois de palettes GRATUIT à récupérer chez Ombrée Services Environnement (49) ! Avec l'arrivée du froid et le prix du chauffage, voilà une initiative solidaire qui mérite d'être partagée ! ❤️ L'association d'insertion Ombrée Services Environnement (OSE), installée à Pouancé, dans le Maine-et-Loire, propose de récupérer gratuitement du bois issu de palettes usagées. Pas de prix à payer ! En échange, l'association propose simplement d'apporter quelques gâteaux, du café, du thé ou des boissons sans alcool pour les pauses de ses salariés. Une petite attention plutôt sympa pour remercier les équipes ! ☕ Adresse : 7 ZI de la Pidaie, Pouancé, 49420 Ombrée d'Anjou. Horaires de récupération : Du lundi au jeudi : 9h à 12h et 13h30 à 16h. Vendredi : 9h à 11h. Téléphone : 02 41 92 69 39 ♻️ Une belle façon de valoriser du bois récupéré tout en soutenant une association locale qui œuvre pour l'insertion professionnelle. ⚠️ Attention, toutes les palettes ne conviennent pas au chauffage : il faut s'assurer que le bois est non traité, non peint et adapté à la combustion dans votre appareil.",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/80-m3-de-bois-de-chauffage-gratuit-pouance-49420-3431333",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9s6QH/3431333_1/re/1200x1200/qt/90/3431333_1.jpg",
-    "detected_at": "2026-10-12T20:48:30+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
   }
 ]
