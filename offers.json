@@ -251,7 +251,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:35:07.164939+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 124.04,
@@ -331,7 +331,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:35:07.164939+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 239.0,
@@ -371,7 +371,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T10:54:39.250869+00:00",
     "price_history": [
       {
         "price": 27.81,
@@ -451,7 +451,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T10:54:39.250869+00:00",
     "price_history": [
       {
         "price": 627.84,
@@ -471,7 +471,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T10:54:39.250869+00:00",
     "price_history": [
       {
         "price": 24.95,
@@ -491,7 +491,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T10:54:39.250869+00:00",
     "price_history": [
       {
         "price": 89.99,
@@ -2976,6 +2976,106 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plafonnier LED 60cm, 4800LM RGBCW Yeelight (Vendeurs Tiers, via remise panier)",
+    "description": "99,86€ - Amazon Économisez 30 % au moment de passer la commande Montage rapide révolutionnaire et installation simple : Grâce au support breveté Quick-Change, ce plafonnier LED est opérationnel en quelques minutes. Il suffit de glisser le luminaire dans le socle jusqu’à encliquetage. Économisez du temps et des frais de pose. Ce plafonnier connecté est également conçu pour être étanche à la poussière et aux insectes, réduisant l’entretien au minimum Commande intelligente et flexibilité totale : Pilotez votre plafonnier LED facilement via l’application MIJIA, la télécommande ou les commandes vocales (compatible avec Alexa, Google Home et SmartThings). Ajustez l’ambiance lumineuse où que vous soyez. Que ce soit pour l’allumage/l’extinction, la luminosité ou les horaires, ce luminaire de plafond intelligent offre une connectivité maximale pour votre maison connectée Variateur & 16 millions de couleurs (RGBICWW) : Transformez votre pièce avec plus de 16 millions de teintes. Ce plafonnier LED associe une température de couleur réglable (2700K–6500K) et un éclairage d’ambiance RGB indirect. Que ce soit une lumière blanc chaud pour la détente ou un éclairage coloré pour les soirées, notre lampe de plafond répond à tous vos besoins (luminosité réglable en continu de 1 % à 100 %) Luminosité 4800 lm pour pièces jusqu’à environ 35 m² : Avec un flux lumineux de 4500 lumens et une puissance de 50 W, ce plafonnier LED assure un éclairage uniforme et lumineux au quotidien. Il convient parfaitement aux chambres, salons, chambres d’enfants, couloirs ou cuisines, alliant une puissance lumineuse performante à une technologie LED moderne et économe en énergie Couleurs naturelles Ra95 & Mode Lune : Découvrez votre environnement sous son vrai jour : avec un indice de rendu des couleurs élevé (IRC ≥ Ra95), ce plafonnier LED restitue les couleurs aussi fidèlement que la lumière solaire. Pour la nuit, le mode Lune ultra-doux propose une lumière sans éblouissement, semblable à la lumière lunaire, qui préserve les yeux et fait office de veilleuse dans la chambre Rétroéclairage RGB pilotable indépendamment & Groupes de luminaires : Le rétroéclairage RGB indirect se commande séparément de la lumière principale et crée un éclairage d’accent discret sur le plafond. Pour une expérience lumineuse encore plus immersive, vous pouvez grouper et synchroniser ce luminaire avec d’autres luminaires Yeelight – idéal pour une maison harmonieuse et immersive",
+    "price": 99.86,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/plafonnier-led-60cm-4800lm-rgbcw-intelligent-luminaire-plafonnier-3431636",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FJCZd/3431636_1/re/1200x1200/qt/90/3431636_1.jpg",
+    "detected_at": "2026-10-13T10:49:18+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 99.86,
+        "observed_at": "2026-10-13T10:54:41.453556+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nimalia",
+    "description": "4,65€ - Philibert Net Nimalia est un jeu de société de draft et de placement de cartes , créé par William Liévin, illustré par Pauline Détraz et édité par La Boîte de Jeu . Le but est de créer la plus belle réserve naturelle en agençant au mieux des animaux dans leurs biomes pour marquer un maximum de points. Tuto: [shortcode id=\"20619125\"/]",
+    "price": 4.65,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nimalia-3431633",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LbgRf/3431633_1/re/1200x1200/qt/90/3431633_1.jpg",
+    "detected_at": "2026-10-13T10:42:32+00:00",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4.65,
+        "observed_at": "2026-10-13T10:54:41.453556+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Membres Gold] 40% de remise sur une sélection d'articles",
+    "description": "Celio Profitez de 40% sur une selection d’articles Men’s Week du 14/10/2026 au 25/10/2026 inclus, tout à -40% sur une sélection de produits homme de marque celio ou licences signalés dans les magasins celio de France (hors Corse) et sur celio.com . Avant-première sur celio.com le 13/10/2026 uniquement, à partir de 8h, exclusivement pour les membres gold du programme de fidélité be+ puis à partir de 19h pour l’ensemble des membres du programme de fidélité be+. Réduction effectuée par escompte au panier.",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/membre-gold-40-sur-une-selection-de-produits-3431632",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KNuQY/3431632_1/re/1200x1200/qt/90/3431632_1.jpg",
+    "detected_at": "2026-10-13T10:38:35+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Lego Le Bouquet De Roses 10328",
+    "description": "36,54€ - Carrefour BOUQUET DE FLEURS ARTIFICIELLES POUR ADULTE",
+    "price": 36.54,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-bouquet-de-roses-3431631",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/URL0J/3431631_1/re/1200x1200/qt/90/3431631_1.jpg",
+    "detected_at": "2026-10-13T10:35:30+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 36.54,
+        "observed_at": "2026-10-13T10:54:41.453556+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Streets Of Rage 4 sur PC (Dématérialisé - DRM Free)",
+    "description": "6,25€ - GOG Le légendaire Streets of Rage, connu sous le nom de Bare Knuckle (ベア・ナックル Bea Nakkuru) au Japon, est une trilogie de beat ‘em up réputée pour sa jouabilité indémodable et sa musique électro. Streets of Rage 4 reprend avec maestria le gameplay de la trilogie classique et y ajoute de nouveaux mécanismes, de superbes graphismes dessinés à la main et une bande-son tonitruante. Qui dit série emblématique dit personnages emblématiques : Axel, Blaze, Adam et d’autres vétérans font un retour fracassant pour faire un brin de ménage dans les rues de Streets of Rage. Avec de toutes nouvelles techniques de combat et des pistes musicales détonantes, nos héros sont prêts à mettre des raclées phénoménales à un nouveau groupe de criminels qui ont fait l’erreur de chercher des noises à nos héros. Plus de 25 ans après le dernier opus, Streets of Rage 4 célèbre le retour glorieux d’Axel, d'Adam et de Blaze, toujours prêts à distribuer des coups de poing et des kicks lors de bastons frénétiques en défilement horizontal. Grâce à des animations dessinées à la main, de nouvelles capacités de combat et de nombreuses pistes musicales exclusives composées par une équipe de musiciens incroyables, Streets of Rage 4 rend un magnifique hommage au jeu d’action classique que les fans adorent, et redynamise complètement ce genre vidéoludique. La série est réputée pour sa musique électro dans le monde entier. La bande-son de Streets of Rage 4 est assurée par un groupe de musiciens vedettes ! Au programme : Yuzō Koshiro, Motohiro Kawashima, Yoko Shimomura, Harumi Fujita, Keiji Yamagishi et bien d’autres encore ont composé de nouveaux titres fantastiques pour cet épisode inédit de la série Streets of Rage. ● Le retour percutant de la série des Streets of Rage. ● De magnifiques graphismes entièrement dessinés à la main et animés par le studio qui a créé Wonder Boy: The Dragon’s Trap. ● Faites le ménage à Wood Oak City en solo, ou avec un ami en ligne ! ● Formez une équipe, jusqu’à 4 joueurs pour la toute première fois, et libérez la ville ! ● Gameplay classique surboosté par de toutes nouvelles mécaniques. ● Bande-son composée par des musiciens stars de carrure internationale. ● Du poulet braisé à gogo ! ● Une bonne dizaine de personnages issus de l’univers de Streets of Rage, déblocables et jouables dans leurs versions pixélisées d’origine. ● Profitez de la musique des précédents jeux Streets Of Rage ! ● 12 niveaux hors norme. ● Affrontez vos amis dans le Battle Mode ● Ou joignez vos forces pour vous défaire du Boss Rush Mode ! Trailer sur PC : [shortcode id=\"20619124\"/]",
+    "price": 6.25,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/streets-of-rage-4-sur-pc-dematerialise-drm-free-3431629",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Zdlsq/3431629_1/re/1200x1200/qt/90/3431629_1.jpg",
+    "detected_at": "2026-10-13T10:32:56+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 6.25,
+        "observed_at": "2026-10-13T10:54:41.453556+00:00"
       }
     ]
   },
