@@ -1,5 +1,23 @@
 [
   {
+    "title": "Philips Hue Bande LED OmniGlow...ication et par commande vocale",
+    "price": 239.0,
+    "reference_price": 349.99,
+    "discount_percent": 31.71,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FW4FDVLK",
+    "image_url": "https://m.media-amazon.com/images/P/B0FW4FDVLK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 07:55:13",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 239.0,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
     "title": "C.K Magma MA2740 Ensemble de 3 Pochettes",
     "price": 11.44,
     "reference_price": 24.44,
@@ -2372,6 +2390,314 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque sans Fil de Luxe SONY WH-1000X The COLLEXION à réduction de Bruit - Blanc",
+    "description": "549€ - Amazon À propos de cet article Découvrez le 1000X THE COLLEXION : le fleuron de la légendaire série 1000X de Sony, alliant une technologie de haut-parleurs sur mesure pour des performances audio exceptionnelles à des matériaux haut de gamme pour une expérience d'écoute luxueuse Conçu avec soin pour allier style et confort: le simili cuir cousu avec précision et l'arceau métallique poli à la main offrent un ajustement raffiné, le tout dans un étui de transport magnétique haut de gamme, idéal à transporter où que vous alliez Un son exceptionnel, maîtrisé à la perfection : un haut-parleur sur mesure, réglé par des ingénieurs de mastering lauréats d'un Grammy Award, s'associe à l'audio haute résolution, à la technologie DSEE Ultimate et au processeur intégré V3 pour offrir une clarté, un niveau de détail et une précision exceptionnels sur chaque morceau Réduction de bruit légendaire 1000X : l'optimiseur adaptatif de réduction de bruit, doté de 12 microphones de précision, s'adapte à votre environnement pour bloquer les distractions lorsque vous avez besoin de vous concentrer ou pour équilibrer parfaitement la musique et votre environnement Modes d'upmix 360° pour la musique, le cinéma et les jeux vidéo : trois modes audio dédiés transforment un son stéréo classique en une expérience sonore immersive, vous plongeant au cœur de la musique, du film ou du jeu Un son sur mesure : prenez le contrôle total grâce à notre égaliseur à 10 bandes et aux préréglages de l'application Sony, tandis que la technologie 360 Reality Audio avec suivi de la position de la tête vous offre une expérience sonore personnalisée et naturelle Une qualité d'appel irréprochable grâce à l'IA : six micros de beamforming et la réduction de bruit par IA isolent votre voix pour des conversations d'une clarté cristalline. De plus, vous pouvez activer ou désactiver le micro directement depuis le casque, en toute simplicité. Écoute toute la journée : profitez d'une autonomie pouvant atteindre 24 heures avec la réduction active du bruit, et une recharge rapide de 5 minutes vous offre 90 minutes d'écoute pour que votre musique ne s'arrête jamais",
+    "price": 549.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-sans-fil-de-luxe-sony-wh-1000x-the-collexion-a-reduction-de-bruit-blanc-3431502",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FZchL/3431502_1/re/1200x1200/qt/90/3431502_1.jpg",
+    "detected_at": "2026-10-13T07:52:02+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 549.0,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "sodastream Fuse – Lot de 2 bou...bles au lave-vaisselle, noires",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B076CW33JZ",
+    "image_url": "https://m.media-amazon.com/images/P/B076CW33JZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T07:50:52+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Lot de 2 Gels wc Harpic Power Plus - 2 x 750ml (via Prévoyez & Économisez)",
+    "description": "2,39€ - Amazon Via prévoyez et économisez -70% sur le 2ème la remise se fait au panier Le Gel WC Harpic Power Plus taches tenaces nettoie et protège vos WC des bactéries Utilisez ce produit WC nettoyant surpuissant pour des toilettes parfaitement propres et brillants Élimine le tartre en 1 minute Élimine 99,9% des bactéries Parfum frais agréable",
+    "price": 2.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-gel-wc-power-plus-harpic-750ml-via-prevoyez-et-economisez-reduction-au-panier-3431493",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XWx9o/3431493_1/re/1200x1200/qt/90/3431493_1.jpg",
+    "detected_at": "2026-10-13T07:48:16+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 2.39,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Système Enceintes Teufel Ultima 40 Mk4 - Surround, Ensemble 5.1, Noir ou Blanc & Noir",
+    "description": "699,99€ - Teufel Promo chez Teufel pour ce home cinéma ULTIMA 40 Surround \"Ensemble 5.1 qui passe de 849 euros à 699 euros on peut rajouter un code réduction de 5 % DY5-9TR Qui baisse le prix de 35 euros ramenant le tout frais de ports compris à 719,98 euros Point forts Ce pourquoi nous aimons ce produit La nouvelle ULTIMA 40 Surround (Mk4) s’intègre harmonieusement à votre salon et offre une expérience sonore remarquable pour les séries, films, jeux vidéo et musiques du moment. Son grave puissant, développé à Berlin par Teufel, contribue à faire de cette enceinte l’une des plus appréciées en Europe. Vue d’ensemble des points forts Nouvelle génération du célèbre set home cinéma 5.1 haut de gamme pour un son surround authentique et une dynamique impressionnante pour la musique, les films et les jeux dans des pièces allant jusqu'à 35 m². Composants identiques et parfaitement assortis pour une expérience sonore immersive et une localisation précise des événements sonores. Puissant subwoofer T 10, utilisable en mode frontal ou downward, optionnellement sans fil. Système 3 voies avec deux woofers haute performance pour des niveaux élevés et sans distorsion, médium tissé en Kevlar avec phase plug, fonctionne dans une chambre séparée renforcée pour une scène sonore précise et large, centre ULTIMA avec double médium pour une excellente intelligibilité vocale. Construction bass-reflex à double tube pour des basses profondes, puissantes et précises même à faibles niveaux. Grand tweeter de 25 mm avec guide d'onde pour des aigus haute résolution et une excellente intelligibilité vocale. Extensible en set surround 7.1 et Dolby Atmos®, adaptable pour pied, étagère ou montage mural, compatible avec tous les récepteurs AV. Bois certifié FSC®, design moderne et intemporel avec façade laquée satinée et revêtements en tissu de qualité, bornes écrou de bi-câblage/bi-amplification en laiton massif.",
+    "price": 699.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/teufel-ultima-40-surround-ensemble-51-3431461",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/UZKPf/3431461_1/re/1200x1200/qt/90/3431461_1.jpg",
+    "detected_at": "2026-10-13T07:45:04+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 699.99,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eau de Parfum Paco Rabanne Invictus Victory 100ml",
+    "description": "59,72€ - JoyBuy",
+    "price": 59.72,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/paco-rabanne-rabanne-invictus-victory-eau-de-parfum-vaporisateur-100-ml-3431501",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/g6GLF/3431501_1/re/1200x1200/qt/90/3431501_1.jpg",
+    "detected_at": "2026-10-13T07:44:17+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 59.72,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jouet Tortues Ninja Camion Lance Pizza - Compatible Figurines 12 cm, Dès 4 Ans",
+    "description": "24,99€ - Amazon Ce camion Lance Pizza des Tortues Ninja, proposé par Amazon, est le véhicule qu'il te faut pour plonger dans l'action avec un bon vieux 'Cowabunga !' Ce camion de combat emblématique des héros à carapace permet de recréer les scènes du dessin animé et d'imaginer de nouvelles aventures en lançant des pizzas sur les méchants mutants. Son lanceur motorisé promet des heures de jeu pour les jeunes ninjas en herbe. Type : Camion de combats avec lanceur de pizza motorisé. Compatibilité : Peut accueillir jusqu'à 4 figurines Tortues Ninja de 12 cm (vendues séparément). Alimentation : Nécessite 3 piles AA (non incluses) pour le lanceur motorisé. Âge recommandé : Dès 4 ans. Contenu de la boîte : Le camion et les projectiles (piles et figurines non incluses).",
+    "price": 24.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jouet-tortues-ninja-camion-lance-pizza-compatible-figurines-12-cm-des-4-ans-3431500",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/HCltr/3431500_1/re/1200x1200/qt/90/3431500_1.jpg",
+    "detected_at": "2026-10-13T07:42:33+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Veste à Capuche Capuche Légère Doublée Enfant Marks & Spencer - Noir 7 & 8 ans (Vendeur tiers)",
+    "description": "16,20€ - Amazon Marks & Spencer Veste à Capuche Légère Doublée Enfant, Mixte, Coupe Standard Attention ne reste pas toutes les tailles malheureusement",
+    "price": 16.2,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/marks-spencer-veste-a-capuche-legere-doublee-enfant-mixte-coupe-standard-3431499",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gTLUO/3431499_1/re/1200x1200/qt/90/3431499_1.jpg",
+    "detected_at": "2026-10-13T07:41:44+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 16.2,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Enceinte sans fil Marshall Acton III - avec Casque Marshall Major V",
+    "description": "249,99€ - Darty Pack enceinte avec le casque",
+    "price": 249.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pack-enceinte-sans-fil-marshall-acton-iii-casque-major-v-3431498",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/juyvY/3431498_1/re/1200x1200/qt/90/3431498_1.jpg",
+    "detected_at": "2026-10-13T07:40:20+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 249.99,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Philips Hue Bande LED OmniGlow...ication et par commande vocale",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0FW4FDVLK",
+    "image_url": "https://m.media-amazon.com/images/P/B0FW4FDVLK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T07:38:45+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Manteau à Capuche Marks & Spencer - Matelassé, Poids Moyen, Coupe Standard, Tailles 134 ou 140 (Vendeur Tiers)",
+    "description": "19,60€ - Amazon Reste en taille 134 et 140 À propos de ce produit QUALITÉ PREMIUM: Fabriqué en tissu doux et confortable pour une sensation de qualité sur la peau COUPE & DESIGN: coupe classique, capuche ajustée pour une silhouette flatteuse CARACTÉRISTIQUES PENSÉES: fermeture éclair pratique ENTRETIEN FACILE: lavable en machine à 30°C et compatible sèche-linge – conçu pour un entretien sans effort QUALITÉ DE LA MARQUE M&S : Marks & Spencer, une marque britannique emblématique fondée en 1884, reconnue pour ses essentiels intemporels. Allie confort, durabilité et qualité. Le style classique rencontre des matériaux de haute qualité et un excellent savoir‑faire pour un usage quotidien. Spécifications Dimensions du colis: 38 x 21 x 2 cm Date de mise en ligne sur Amazon.fr: 3 juillet 2025 Fabricant: Marks and Spencer PLC ASIN: B0FGJH2R6T Numéro du modèle de l'article: T74-2663J Service: Fille Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Mode Composition du matériau: 100% Polyamide Instructions d'entretien: Lavage en machine Pays d'origine: Chine Couleur: NAVY Style: Classic Type de manches: Mancheron Motif: Uni Type de coupe: Régulière Style de col: Collarless Marque: Marks & Spencer Numéro de modèle: 000000060736130003 Description de la tranche d’âge: Kid Pays d’origine: Chine Désignation d'importation: Imported Nombre d’articles dans l'unité vendue au client: 1 Nombre d'unités: 1.0 unité Nom du type du produit: Jackets Poids de l'article: 572 Grammes Référence de pièce: 000000000060736130 Classement des meilleures ventes d'Amazon: 2044 en Mode (Voir les 100 premiers en Mode) 1 en Manteaux fille ASIN: B0FTMXK2QV Type de fermeture: Fermeture éclair Niveau d' etancheite: Non étanche Matériau: 100% polyamide (exclusive of trimmings), Lining - 100% polyester, Padding - 100% polyester Type de tissu: 100% polyamide ;Lining - 100% polyester;Padding - 100% polyester Conseils d’entretien du produit: Lavage en machine Description de la fourrure: Fur-free / No Fur (Contains no animal fur) Description de la longueur de l’article: Longueur standard",
+    "price": 19.6,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/marks-spencer-manteau-a-capuche-matelasse-poids-moyen-enfant-mixte-coupe-standard-3431497",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/iU839/3431497_1/re/1200x1200/qt/90/3431497_1.jpg",
+    "detected_at": "2026-10-13T07:38:15+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 19.6,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "1 Mois de Super Duolingo gratuit (Dématérialisé)",
+    "description": "Duolingo 1 mois de super duolingo offert grâce à ce nouveau code ! Il faut passer par le lien du deal pour obtenir le mois gratuit. Duolingo est une application et un site web d’apprentissage des langues, lancés en 2011, qui propose une méthode gratuite, ludique et accessible à tous pour apprendre de nouvelles compétences linguistiques. Aujourd’hui, il s’agit de l’une des applications d’apprentissage les plus populaires au monde, avec des millions d’utilisateurs actifs. Duolingo repose sur un principe simple : transformer l’apprentissage en expérience interactive et motivante Leçons courtes et rapides (quelques minutes) Exercices variés : traduction, écoute, prononciation Système de points (XP), niveaux et récompenses Suivi de progression et séries quotidiennes L’objectif : créer une habitude d’apprentissage quotidienne sans effort. Contenu : Apprentissage de + 40 langues mathématiques musique échecs Super Duolingo est payant, et permet d'utiliser Duolingo : sans publicité avec des vies illimitées avec des fonctionnalités avancées",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/1-mois-de-super-duolingo-gratuit-dematerialise-3431496",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/4328_1/re/1200x1200/qt/90/4328_1.jpg",
+    "detected_at": "2026-10-13T07:37:20+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Frigo Combiné Samsung RB34C704DB1 - 344L, Classe D, Noir",
+    "description": "549,98€ - JoyBuy Caractéristiques principales Capacité totale de 344 L (230 L pour le réfrigérateur, 114 L pour le congélateur) avec technologie SpaceMax pour des parois fines et plus d'espace intérieur Technologie No Frost pour éviter l'accumulation de glace et éliminer le besoin de dégivrage manuel Compresseur Digital Inverter avec protection contre les coupures d'alimentation de 9 heures et fonctionnement économe en énergie Zone fraîcheur Optimal Fresh+ avec conception à double zone séparée proposant des températures différentes pour la viande, le poisson et les produits frais Humidity Fresh+ avec contrôle d'humidité réglable pour conserver les fruits et légumes frais plus longtemps Le refroidissement intégral assure une répartition uniforme de la température dans tout le réfrigérateur Le panneau arrière en métal maintient la température froide plus efficacement lorsque la porte est ouverte Fonctions Power Cool et Power Freeze pour un refroidissement et une congélation rapides Connectivité Wi-Fi avec l'application SmartThings pour une surveillance à distance et un mode d'énergie basé sur l'IA Le mode Énergie AI apprend les habitudes d'utilisation et recommande des réglages pour économiser de l'énergie La fonction de cuisson SmartThings suit les ingrédients et les dates de péremption, et suggère des recettes 3 clayettes de réfrigérateur, 3 balconnets de porte, 2 tiroirs à légumes pour un rangement flexible 3 tiroirs de congélation avec façade transparente pour un rangement facile Design noir élégant avec porte réversible pour une installation flexible Éclairage intérieur LED pour une visibilité claire Spécifications Spécification Description Type de produit Combiné réfrigérateur-congélateur en pose libre Modèle RB34C704DB1/EF Capacité totale 344 L Capacité du réfrigérateur 230 L Capacité du congélateur 114 L Position du congélateur En bas Nombre de portes 2 Charnière de porte Réversible Classe énergétique D Type de réfrigérant Inverter Technologie sans givre (No Frost) Oui Autonomie en cas de panne de courant 9 heures Fonction de refroidissement rapide Oui Power Cool Fonction de congélation rapide Oui Power Freeze Clayettes réfrigérateur 3 Compartiments de porte réfrigérateur 3 Tiroirs fraîcheur 2 Optimal Fresh+ et Humidity Fresh+ Tiroirs congélateur 3 Compartiments de porte congélateur 0 Éclairage intérieur LED Porte-bouteilles Non Distributeur d'eau Non Distributeur de glaçons Non Connectivité Wi-Fi Oui avec l'application SmartThings Fonctionnalités IA IA de base, mode Énergie IA SmartThings Cooking Oui, suggestions de recettes Dimensions du produit Largeur 59,5 cm, Hauteur 185,3 cm Couleur du produit Noir Type d'installation Pose libre, non encastrable Marque Samsung EAN 8806094990034 Adresse du fabricant PO Box 12987, Dublin, Irlande Numéro de modèle RB34C704DB1/EF Conseils d'utilisation Placez l'appareil sur une surface plane, éloignée des sources de chaleur et de la lumière directe du soleil Laissez 2 à 4 heures après l'installation avant de brancher l'appareil Connectez l'appareil et réglez la température souhaitée à l'aide des commandes Pour un refroidissement rapide des produits frais, utilisez la fonction Power Cool Pour une congélation rapide, utilisez la fonction Power Freeze Téléchargez l'application SmartThings pour une connexion Wi-Fi, un contrôle à distance et le mode Énergie AI Utilisez les tiroirs Optimal Fresh+ pour la viande et le poisson, situés sur le côté gauche du réfrigérateur Réglez l'humidité dans le tiroir Humidity Fresh+ à l'aide de la molette de contrôle pour conserver les produits frais Nettoyez régulièrement l'intérieur et le dégivrage n'est pas nécessaire grâce à la technologie No Frost Avertissement de sécurité Lisez attentivement toutes les instructions avant utilisation. Cet appareil contient du réfrigérant isobutane R600a, un gaz inflammable. Assurez-vous que le circuit de réfrigération n'est pas endommagé lors du transport et de l'installation. Gardez les ouvertures de ventilation dégagé",
+    "price": 549.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/frigo-combine-samsung-rb34c704db1-classe-d-noir-344-l-3431495",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DnkZJ/3431495_1/re/1200x1200/qt/90/3431495_1.jpg",
+    "detected_at": "2026-10-13T07:36:02+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 549.98,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Seau assortiment de bonbons Haribo Chauve qui peut - 800g",
+    "description": "4,89€ - Auchan Célébrez Halloween avec le seau HARIBO Halloween Mix rempli de mini-sachets de vos bonbons préférés, à offrir ou à partager ! Ce seau est en édition limitée, il est réutilisable et à collectionner ! Sans colorant artificiel. Ingrédients Ingrédients: sirop de glucose; sucre; dextrose; amidon; gélatine; acidifiants: acide citrique, acide malique; correcteurs d'acidité: malate acide de sodium, citrate monosodique; jus de fruits concentrés: pomme, orange, citron, fraise, framboise, ananas; arôme; huile de tournesol; concentrés de fruits et de plantes: carthame, spiruline, pomme, citron, carotte, radis, kiwi, orange, baie de sureau, mangue, fruit de la passion, cassis, aronie, raisin; colorants: charbon végétal, curcumine, lutéine, anthocyanes; agent d'enrobage: cire d'abeille blanche et jaune.",
+    "price": 4.89,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/seau-assortiment-de-bonbons-haribo-chauve-qui-peut-800g-3431494",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4VixN/3431494_1/re/1200x1200/qt/90/3431494_1.jpg",
+    "detected_at": "2026-10-13T07:35:24+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 4.89,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Enceinte sans fil Marshall Acton III - Bluetooth, Entrée Jack, 60W",
+    "description": "199,99€ - Fnac La Marshall Acton III associe une amplification de 60 W au Bluetooth 5.2, avec une entrée jack 3,5 mm pour brancher une source audio par câble.",
+    "price": 199.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-marshall-acton-iii-avec-entree-jack-60-w-3431492",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BsLJR/3431492_1/re/1200x1200/qt/90/3431492_1.jpg",
+    "detected_at": "2026-10-13T07:34:53+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 199.99,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TV 55\" OLED 4K Ambilight 139 cm",
+    "description": "799€ - E.Leclerc Le 55OLED760/12 est un téléviseur OLED 4K avec Ambilight de 139 cm. *spécifications du produit :* - Écran OLED 4K - Taille de 139 cm (55 pouces) - Technologie Ambilight - Processeur P5 AI Perfect Picture Engine - Système d’exploitation TITAN - Dolby Vision et Dolby Atmos - HDR1 - VRR 120 Hz",
+    "price": 799.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tv-oled-4k-ambilight-139-cm-55-3431491",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/W2YID/3431491_1/re/1200x1200/qt/90/3431491_1.jpg",
+    "detected_at": "2026-10-13T07:34:35+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 799.0,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Matelas Gonflable Eggory - 133x76cm, Bleu, de Voiture",
+    "description": "17,99€ - JoyBuy Disponible également en blanc à 18.99€ https://www.joybuy.fr/dp/matelas-gonflable-de-voiture-bleu-lit/10501093?requestIdentity=searchCategory&ref_sku=10501093&dimExpandType1=1",
+    "price": 17.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/matelas-gonflable-de-voiture-eggory-bleu-133-x-76cm-3431490",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/PvDwG/3431490_1/re/1200x1200/qt/90/3431490_1.jpg",
+    "detected_at": "2026-10-13T07:34:00+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 17.99,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Défonceuse sans fil Bosch AdvancedTrimRouter 18V-8 - 2 en 1, vendu sans batterie, ni chargeur",
+    "description": "135,52€ - Amazon Envie de sculpter le bois avec précision et sans contraintes ? Cette défonceuse sans fil Bosch AdvancedTrimRouter 18V-8 est l'outil idéal pour tous vos travaux de bordures, rainures et motifs décoratifs. Sa conception compacte et son moteur brushless garantissent une grande maniabilité et une excellente durée de vie. Moteur : Brushless pour une puissance maximale et une longévité accrue. Vitesse : Réglable de 10 000 à 30 000 tr/min pour s'adapter à différents matériaux. Poids : 1,1 kg (sans batterie) pour une prise en main confortable. Compatibilité : Fait partie de l'alliance POWER FOR ALL 18V, permettant d'utiliser une seule batterie pour de nombreux outils Bosch et partenaires. Contenu : Livrée avec deux pinces de serrage (6 et 8 mm), un guide parallèle, un adaptateur pour l'extraction des poussières, une fraise à arrondir et une clé. Bon à savoir : Utilisation : Son design compact et léger offre une grande liberté de mouvement, idéal pour les travaux de finition délicats ou les accès difficiles. C'est un excellent choix pour les bricoleurs qui cherchent à réaliser des finitions précises sur bois, à condition d'être déjà équipé d'une batterie et d'un chargeur de l'écosystème Power For All 18V. À propos de ce produit L'AdvancedTrimRouter 18V-8 peut être convertie rapidement d'une fraise à découper à une fraise à plonger, en fonction de l'application de fraisage Puissance maximale et durée de vie nettement plus longue : grâce au moteur sans balais Consommation d'énergie intelligente : la technologie Syneon répond à la demande d'une performance et d'une endurance optimales La butée de tourelle à 7 niveaux permet un réglage précis et sans effort de toutes les profondeurs de fraisage courantes Accessoires fournis : AdvancedTrimRouter 18V-8 incl. base de coupe pour défonceuse, 1x base plongeante pour défonceuse, 1x butée parallèle, 1x support de guidage avec patin de glissement, 2x adaptateur anti-poussière, 1x goupille de centrage, 1x guide à rouleaux, 1x anneau de copie, 1x clé, 1x bague de serrage 6mm, 1x bague de serrage 8mm, 1x boîte à outils SystemBox M Commentaires client",
+    "price": 135.52,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/defonceuse-bosch-advancedtrimrouter-18v-8-sans-fil-2en1-sans-batterie-ni-chargeur-3431489",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/RDAa0/3431489_1/re/1200x1200/qt/90/3431489_1.jpg",
+    "detected_at": "2026-10-13T07:33:49+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 135.52,
+        "observed_at": "2026-10-13T07:55:18.426884+00:00"
       }
     ]
   },
@@ -10125,264 +10451,6 @@
     "image_url": "https://m.media-amazon.com/images/P/B0837JDX1C.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12T16:59:31+00:00",
     "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Pied de micro court avec trépi...che télescopique 2 points Noir",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B016MMTNWU",
-    "image_url": "https://m.media-amazon.com/images/P/B016MMTNWU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:58:54+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "SONAX E-BIKE Spray pour chaîne...ffet hydrofuge | Réf: 08721000",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B01NBYE07K",
-    "image_url": "https://m.media-amazon.com/images/P/B01NBYE07K.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:57:57+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "BIOLANE - Shampoing Doux Bébé ...êlant Cheveux - Au Lin - 350ml",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0F1YM9LGJ",
-    "image_url": "https://m.media-amazon.com/images/P/B0F1YM9LGJ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:57:44+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "CARRYBOO - Gel Lavant 2 en 1 u...ricot Bio - Flacon pompe 500ml",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0DBMGW3NL",
-    "image_url": "https://m.media-amazon.com/images/P/B0DBMGW3NL.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:57:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Color Cream 200 Copper Blonde",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B079NWHDV8",
-    "image_url": "https://m.media-amazon.com/images/P/B079NWHDV8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:57:22+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Bosch 1x Rouleau abrasif EXPERT C470",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B094188F1M",
-    "image_url": "https://m.media-amazon.com/images/P/B094188F1M.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:55:31+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Switch Ethernet UGREEN 6 ports - 5x 2.5G RJ45 + 1x SFP+ 10G (Vendeur tiers)",
-    "description": "36,09€ - Amazon [ Switch Ethernet 6 Ports ] Ce Switch Ethernet comprend 5 ports Gigabit Ethernet 2,5, 1 port SFP+ 10G. 2,5 G ports conformes à la norme IEEE 802.3/u/x/ab/bz, support de l'adaptation automatique aux vitesses de réseau de 10Mbps/100Mbps/1Gbps/2,5Gbps. 10G SFP+ port conforme aux normes IEEE 802.3z/ae et SFF-8472/8431/8432 et supporte l'auto-adaptation aux vitesses de réseau de 1Gbps/10Gbps. [ 3 Modes de Travail ] Le Switch RJ45 a 3 modes de travail : En mode standard, chaque port est automatiquement négocié et connecté efficacement ; En mode VLAN, il peut aider les utilisateurs à créer un réseau local virtuel ou à éviter les tempêtes de réseau ; En mode d'agrégation de liens, il peut aider les utilisateurs à établir une agrégation de bande passante à deux ports et à augmenter la sauvegarde du réseau. [ Conception Qualité ] Le switch ethernet 2,5 g est fait d'un boîtier métallique de haute qualité, chaque port est équipé d'un dissipateur thermique métallique et d'un design en silicone thermoconducteur, ainsi qu'une grande grille de refroidissement sur le côté, ce qui rend la dissipation de la chaleur plus efficace. De plus, l'indicateur de port bicolore montre l'état de la liaison en temps réel et des étiquettes de câble sont incluses pour faciliter la gestion des câbles. [ Plus Sûre et Stable ] La multiprise rj45 utilise des circuits de protection contre la foudre à haute résistance en interne pour atteindre une protection contre la foudre de 4 000 Volts, réduisant ainsi l'impact sur le réseau pendant les orages, améliorant la stabilité et la sécurité du réseau, et protégeant les appareils finaux. [ Large Compatibilité ] Ce hub réseau Ethernet est compatible avec ordinateur, NAS, console de jeux, imprimante, appareil photo et autres appareils, il supporte différentes méthodes d'installation telles que le montage sur table ou au mur, et convient à divers environnements réseau tels que les maisons, les bureaux et les industries.",
-    "price": 36.09,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/switch-ethernet-ugreen-6-ports-5x-25g-rj45-1x-sfp-10g-boitier-metal-vlanagregation-protection-4kv-vendeur-tiers-3431192",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/y1Z1c/3431192_1/re/1200x1200/qt/90/3431192_1.jpg",
-    "detected_at": "2026-10-12T16:55:23+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 36.09,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Marvel Super Heroes 76340 - Le Calendrier de l’Avent 2026",
-    "description": "24,90€ - E.Leclerc • CALENDRIER DE L'AVENT SUPER-HÉROS 2026 POUR FILLE OU GARÇON DÈS 6 ANS – Les jeunes fans découvrent un nouveau cadeau chaque jour avec Le calendrier de l’Avent 2026 LEGO Marvel, plein de petits jouets et de minifigurines • MINIFIGURINES LEGO MARVEL – Inclut Spider-Man, Iron Man, Dr Fatalis, Ghost-Spider, Captain America et Wolverine, chacun avec des accessoires et des détails festifs • JEU DE RÔLE STIMULANT L'IMAGINATION – À l’approche du grand jour, les enfants peuvent combiner les jeux de construction et mettre en scène de palpitantes aventures de super-héros • JOUETS MINIATURES & ACCESSOIRES LEGO – Le set inclut des petits jouets à construire, dont un canon à boules de neige, un hélicoptère, un avion, un robot, un photomaton, une voiture, un camion et un traîneau X-Jet • IDÉE DE CADEAU AVANT NOËL POUR ENFANT DÈS 6 ANS – Offrez ce calendrier LEGO à un fan des Avengers qui aime le jeu créatif, une idée de cadeau de Noël amusante pour un garçon ou une fille • UNE FAÇON AMUSANTE DE CONSTRUIRE – L’application LEGO Builder guide les enfants dans la construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D • JOUETS À CONSTRUIRE POUR LES FANS DE MARVEL – Invitez les enfants à vivre des aventures pleines de créativité mettant en scène les personnages culte et les scènes débordantes d’action des films Marvel",
-    "price": 24.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-marvel-super-heroes-76340-le-calendrier-de-lavent-2026-3431195",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vGZ4r/3431195_1/re/1200x1200/qt/90/3431195_1.jpg",
-    "detected_at": "2026-10-12T16:55:10+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 24.9,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hella 9XW 358 164-261 Easy Set...rection à Gauche - avant - Kit",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B09S61KJ2X",
-    "image_url": "https://m.media-amazon.com/images/P/B09S61KJ2X.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:54:53+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Doudoune femme Polo Club - S à XL",
-    "description": "35,90€ - Showroomprivé",
-    "price": 35.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/doudoune-polo-club-femme-s-a-xl-3431193",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oOszA/3431193_1/re/1200x1200/qt/90/3431193_1.jpg",
-    "detected_at": "2026-10-12T16:54:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 35.9,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Arcos Couteau Mondador - Lame ...propylène Fuchsia - Série 2900",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B071HVWLMS",
-    "image_url": "https://m.media-amazon.com/images/P/B071HVWLMS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:53:20+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "The Fist of the Condor [DVD]",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0CBCFBRW7",
-    "image_url": "https://m.media-amazon.com/images/P/B0CBCFBRW7.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:52:55+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Ferplast Niche en Plastique po..., 74 x 48 xh 25 CM, Gris Clair",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0DK3NGTMC",
-    "image_url": "https://m.media-amazon.com/images/P/B0DK3NGTMC.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:52:55+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Lego Star Wars 75456 - Le Calendrier de l'Avent 2026",
-    "description": "24,90€ - E.Leclerc • CALENDRIER DE L'AVENT STAR WARS 2026 POUR FILLE OU GARÇON DÈS 6 ANS – Les enfants créent leur propres aventures de la Guerre des étoiles en attendant Noël grâce à ce set de petits jouets incluant 24 surprises • FIGURINES & MINIFIGURINES LEGO STAR WARS – Le Mandalorien, Moff Gideon et Grogu vêtus d’un pull festif, les minifigurines de Carson Teva et Jawa, ainsi que les figurines d'un droïde Pit et IG-11 • 7 MAQUETTES MINIATURES DE VÉHICULES – Le Starfighter N-1 de Mando, le Razor Crest, un speeder bike, un Sandcrawler, un TIE Fighter, un croiseur léger impérial et un X-Wing aux couleurs de Noël • ENCORE PLUS DE PETITES CONSTRUCTIONS – Figurines de Mudhorn, Bantha, Dewback et Blurrg, 3 tables et du beskar, cadeaux et accessoires pour Moff Gideon, un porte-armes, un gantelet du Mandalorien et la nacelle de Grogu • IDÉE DE CADEAU AVANT NOËL POUR ENFANT DÈS 6 ANS – Ce calendrier de l'Avent LEGO est un incroyable cadeau de Noël à offrir à un garçon, une fille ou un.e fan de Star Wars: The Mandalorian • EXPLOREZ LA COLLECTION – Les sets LEGO Star Wars (vendus séparément) permettent aux enfants et aux adultes, fans de Star Wars, de recréer des moments culte, de rêver de nouvelles aventures ou simplement d’exposer leurs modèles en briques • LEGO, LEGO Star Wars, Star Wars, calendrier de l'avent, jouets noël, petits jouets noël, 6 ans, jouets garçon 6 ans, noël, surprise, figurine, grogu, idée cadeau, jeu créatif, jouets miniatures, cadeau amusant, saga, Mandalorien, figurines LEGO, petits jouets, activités manuelles, famille, calendrier LEGO, garçon, fille, 6 ans, enfants, guerre des étoiles, petits jouets, bike, razor crest, maquette miniature, construction, cadeau, accessoires, cadeau noël enfant, cadeau fille 6 ans, cadeau garçon 6 ans, Mandalorian",
-    "price": 24.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-star-wars-75456-le-calendrier-de-lavent-2026-3431191",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iaXII/3431191_1/re/1200x1200/qt/90/3431191_1.jpg",
-    "detected_at": "2026-10-12T16:52:51+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 24.9,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      }
-    ]
-  },
-  {
-    "title": "COVERMARK Cipria CAMOUFLAGE Wa...roof Pelle SECCA 01A Cosmetici",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B01B440SSE",
-    "image_url": "https://m.media-amazon.com/images/P/B01B440SSE.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:52:24+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "LEGO Speed Champions Hypercar Bugatti Vision GT 77253",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0FPVT4VG6",
-    "image_url": "https://m.media-amazon.com/images/P/B0FPVT4VG6.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:52:12+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "KS Tools 156.0216 Chasses goup...octogonale 7mm Longueur 150 mm",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B007XUI8V8",
-    "image_url": "https://m.media-amazon.com/images/P/B007XUI8V8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T16:51:51+00:00",
-    "category": "Autre",
     "price_verified": false,
     "price_history": []
   }
