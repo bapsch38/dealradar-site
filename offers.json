@@ -2286,6 +2286,34 @@
     ]
   },
   {
+    "title": "Garnier Color Sensation Colora...Couvre les Cheveux Blancs 100%",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CQ2T2BJT",
+    "image_url": "https://m.media-amazon.com/images/P/B0CQ2T2BJT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T02:16:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "GLORIOUS Gaming Mouse Pad GMP ...3mm - Vitt skrivbordsunderlägg",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0F252X65K",
+    "image_url": "https://m.media-amazon.com/images/P/B0F252X65K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T02:09:15+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
     "title": "ENERGIE FRUIT Coco Curl - Gelé... 98% Origine Naturelle - 200ML",
     "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
     "price": null,
@@ -10153,39 +10181,6 @@
     "price_history": [
       {
         "price": 59.99,
-        "observed_at": "2026-10-12T14:45:29.366098+00:00"
-      }
-    ]
-  },
-  {
-    "title": "HP 950XL/951 Noir, Cyan, Magen...8600, 8610, 8616, 8620 et 8640",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0GLKPPGRR",
-    "image_url": "https://m.media-amazon.com/images/P/B0GLKPPGRR.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T14:32:35+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Sony Alpha 6100 + Objectif SELP 16-50 mm",
-    "description": "540€ - Amazon.it ✅ « Très bon prix comparé au PVC (prix de vente conseillé). »✅ ⚡ Prix le plus bas jamais constaté pour l'un des appareils photo APS-C les plus recherchés du marché. Si vous souhaitez passer à la vitesse supérieure en photographie ou en création de contenu avec une qualité professionnelle, le kit Sony Alpha 6100 (A6100) avec l'objectif zoom motorisé SELP 16-50 mm est disponible à un prix incroyable sur Amazon Italie. ✨ Caractéristiques principales : Mise au point ultra-rapide : Système AF de 0,02 seconde avec 425 points de détection de phase. ️ AF et suivi des yeux en temps réel : Autofocus sur les yeux en temps réel (pour les personnes et les animaux) et suivi continu des sujets en mouvement. Vidéo 4K : Enregistrement 4K sans perte à partir d'un suréchantillonnage 6K, et ralenti Full HD à 120 images/s. Capteur APS-C 24,2 MP : Excellente vitesse de prise de vue en rafale jusqu'à 11 images/s avec suivi AF/AE complet. Écran inclinable à 180° : Écran tactile inclinable, idéal pour les vlogs, les selfies et les cadrages originaux. Objectif inclus : Objectif ultra-compact SELP1650 (16-50 mm f/3.5-5.6) avec stabilisation d'image optique. Livraison : Vendu et expédié par Amazon Italie. ✅ ✅ ✅ Clique sur le bouton •••SUIVRE••• si tu souhaites être notifié~~ de mes prochains deals ✅ ✅ ✅",
-    "price": 540.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sony-alpha-6100-objectif-selp-16-50-mm-3431107",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rcbzA/3431107_1/re/1200x1200/qt/90/3431107_1.jpg",
-    "detected_at": "2026-10-12T14:31:08+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 540.0,
         "observed_at": "2026-10-12T14:45:29.366098+00:00"
       }
     ]
