@@ -11,7 +11,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 118.49,
@@ -31,7 +31,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 16.6,
@@ -51,7 +51,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 8.56,
@@ -131,7 +131,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 31.49,
@@ -251,7 +251,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T10:35:07.164939+00:00",
     "price_history": [
       {
         "price": 124.04,
@@ -331,7 +331,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T10:35:07.164939+00:00",
     "price_history": [
       {
         "price": 239.0,
@@ -2976,6 +2976,332 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vélo pliant électrique Bodywel T16Pro 250W 36V 10.4Ah 14 pouces avec amortisseur, freins à disque doubles, écran LCD",
+    "description": "351,96€ - AliExpress Le Bodywel T16Pro est un vélo électrique pliable conçu pour la vie dynamique en ville.Il combine efficacité, portabilité et design moderne, ce qui en fait une solution idéale pour les trajets quotidiens et la mobilité libre dans les villes européennes. Performances et dynamique Le T16Pro est doté d'un moteur silencieux et fiable de 250 W et d'une batterie lithium-ion légère et amovible de 36 V 10,4 Ah.Ce système offre une autonomie allant jusqu'à 35 kilomètres sur une seule charge et une vitesse maximale de 25 km/h, entièrement conforme aux normes européennes pour les vélos électriques. Portabilité et design Grâce au mécanisme de pliage central, le vélo se réduit à une taille compacte de 130x61 cm, facilitant son rangement dans l'appartement, le bureau ou le coffre de la voiture.Avec un poids net de 24 kg, la conception a été optimisée pour une facilité de manutention en forme pliée. Confort et maîtrise du véhicule La bicyclette est équipée d'une fourche avant amortie et de pneus anti-crevaison de 14 pouces, qui atténuent efficacement les vibrations sur une surface irrégulière.Les freins à disque mécaniques assurent un freinage sûr et sécurisé dans toutes les conditions.Pour une visibilité accrue sur la route, le véhicule est équipé d'éclairage LED intégré à l'avant et à l'arrière. Interface et ajustement Toutes les informations les plus importantes, telles que la vitesse, le niveau de batterie et le mode de conduite, sont affichées sur un écran LCD clair de 4,5 pouces.La hauteur de la selle peut être ajustée de 76 à 99 cm, ce qui permet une conduite confortable pour les personnes d'une taille de 140 à 185 cm.La charge maximale sur le vélo est de 120 kg.Il existe un mode d'assistance au pédalage et un mode de commande directe de l'accélérateur (via le levier de vitesses). Préparation à la conduite et coût d'utilisation La bicyclette est livrée à 90 % assemblée, ce qui vous permet de la commencer à utiliser rapidement.Les coûts d'exploitation sont incomparablement inférieurs à ceux des véhicules à combustion interne - la recharge des batteries est bien moins coûteuse que le ravitaillement en carburant. Contenu du set: Vélo électrique pliable Bodywel T16Pro Batterie lithium-ion 36V 10.4Ah Chargeur mural Un ensemble de clés pour l'assemblage et un manuel d'instructions",
+    "price": 351.96,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/velo-pliant-electrique-bodywel-t16pro-250w-36v-104ah-14-pouces-avec-amortisseur-freins-a-disque-doubles-ecran-lcd-3431628",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ISpWn/3431628_1/re/1200x1200/qt/90/3431628_1.jpg",
+    "detected_at": "2026-10-13T10:31:59+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 351.96,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Pantalon de golf chino Inesis MW500 en coton - Bleu ciel, du 38 au 52",
+    "description": "14,99€ - Decathlon Le pantalon chino de golf Inesis MW500 est un basique de garde-robe qui sort largement du parcours : il se porte aussi bien au bureau qu'en week-end, avec une coupe chino intemporelle. Le tissu associe le coton à un peu d'élasthanne, ce qui le rend extensible et confortable dans les mouvements. Il sèche rapidement et dispose de 4 grandes poches avec fond renforcé. Decathlon indique un poids d'environ 500 g en taille 44. Seul le coloris bleu ciel (bleu givré sur la fiche) est concerné par ce prix, les autres couleurs restant à leur tarif habituel. Les tailles vont du 38 au 52, avec une longueur L33 jusqu'au 42 puis L34. Le modèle affiche une note de 4,6/5 sur plus de 2 700 avis. Livraison à domicile, en point retrait ou retrait gratuit en magasin selon la disponibilité locale. Retours et échanges jusqu'à 365 jours avec le compte fidélité Decathlon.",
+    "price": 14.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pantalon-de-golf-chino-inesis-mw500-en-coton-bleu-ciel-du-38-au-52-3431627",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/y3xv0/3431627_1/re/1200x1200/qt/90/3431627_1.jpg",
+    "detected_at": "2026-10-13T10:31:47+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Séjour 5J/4N pour 2 à Istanbul Hotel 5* Golden Tulip Istanbul Bayrampasa Du 11/11 au 15/11",
+    "description": "269,28€ - Booking.com Séjour 5J/4N pour 2 à Istanbul Hotel 5* Golden Tulip Istanbul Bayrampasa Du 11/11 au 15/11 Membre du groupe Louvre Hotels, le Golden Tulip Istanbul Bayrampasa propose des hébergements modernes avec une connexion Wi-Fi haut débit, une piscine intérieure, une salle de sport et un espace de stationnement privé gratuit. L’établissement a reçu le prix Top Luxury 5 Stars - Spa Facility 2017 décerné par Louvre Hotels. Les chambres climatisées comprennent une télévision à écran plat. Elles comportent également une bouteille d’eau et un plateau/bouilloire. Certaines disposent d’un coin salon. D’autres offrent une vue sur la mer ou la ville. La salle de bains privative est pourvue d’une baignoire ou d’une douche, d’une douche à effet pluie, d’un bidet, de peignoirs, de chaussons, d’un sèche-cheveux et d’articles de toilette gratuits. Le restaurant Montana prépare des spécialités turques et internationales. Agrémenté d’une réception ouverte 24h/24, le Golden Tulip Istanbul Bayrampasa inclut également le Spastanbul, où vous pourrez vous détendre dans le sauna, le centre de spa et le hammam turc. La réception est ouverte 24h/24. Par la route, vous rejoindrez le parc à thème Vialand en 17 minutes, le musée Kariye en 8 minutes, la colline Pierre Loti en 15 minutes, le centre des congrès Halic en 10 minutes et le bazar aux épices en 18 minutes. Les centres commerciaux Axis et Forum Istanbul sont respectivement accessibles en 3 minutes et 8 minutes en voiture. Enfin, vous serez à moins de 38 km de l’aéroport d’Istanbul. Superficie 25 m² Lits confortables, notés 8,8 (d'après 510 commentaires) Providing free toiletries, this double room includes a private bathroom with a walk-in shower, a hairdryer and slippers. The air-conditioned double room provides a flat-screen TV with satellite channels, soundproof walls, a minibar, a wardrobe as well as city views. Dans votre salle de bains privative : Articles de toilette gratuits Douche Toilettes Serviettes Chaussons Sèche-cheveux Papier toilette Vue : Vue sur la ville. Équipements : Climatisation Coffre-fort Linge de maison Prise près du lit Produits d’entretien Hébergement hypoallergénique Bureau Insonorisation Télévision Téléphone Matériel de repassage Chaînes satellite Fer à repasser Chauffage Télévision à écran plat Très grands lits (> 2 mètres) Minibar Réveil ou service de réveil Moquette Bouilloire électrique Service de réveil Armoire ou penderie Étages supérieurs accessibles par ascenseur Portant Barrières de sécurité pour bébés Logement entier accessible en fauteuil roulant Climatiseur indépendant dans les hébergements Gel hydroalcoolique Fumeurs: non-fumeurs",
+    "price": 269.28,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sejour-5j4n-pour-2-a-istanbul-hotel-5-golden-tulip-istanbul-bayrampasa-du-1111-au-1511-3431626",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/S88zK/3431626_1/re/1200x1200/qt/90/3431626_1.jpg",
+    "detected_at": "2026-10-13T10:31:46+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 269.28,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Automatique Herbelin Inspiration (2047P08MA) - Acier PVD Or Jaune, Cadran Argenté Guilloché, Bracelet Cuir Marron, 38mm",
+    "description": "630€ 630,00€ au lieu de 900,00€ soit 270,00€/30% de réduction pour cette magnifique montre Herbelin (y) Description : La Herbelin Inspiration automatique reprend les lignes du boîtier original des années 1950 dessiné par Michel Herbelin. Son boîtier rond de 38 mm en acier inoxydable 316L revêtu de PVD or jaune entoure un cadran argenté guilloché, avec index romains et date à 6 h, sous un verre saphir. Le mouvement automatique suisse Sellita SW200-1 offre 41 heures de réserve de marche, et le fond transparent laisse voir son fonctionnement. Le bracelet en cuir marron se ferme par une boucle ardillon traditionnelle. Montre française, au style néo-classique. Caractéristiques : Marque : Herbelin Collection : Inspiration Référence : 2047P08MA EAN : 3661132293820 Genre : Homme Style : Classique Type de mouvement : Automatique, suisse Calibre : Sellita SW200-1 (11 ½''') Réserve de marche : 41 heures Fonctions : Heures, minutes, secondes, date à 6 h Matière du boîtier : Acier inoxydable 316L, PVD or jaune Forme du boîtier : Ronde Taille du boîtier : 38 mm Fond de boîtier : Transparent Type de verre : Saphir Couleur du cadran : Argenté blanc, guilloché, index romains Matière du bracelet : Cuir marron Fermoir : Boucle ardillon Étanchéité : 30 m (3 bar) Poids : 55 g Fabrication : France Garantie : 3 ans (36 mois)",
+    "price": 630.0,
+    "reference_price": 900.0,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-automatique-herbelin-inspiration-2047p08ma-acier-pvd-or-jaune-cadran-argente-guilloche-bracelet-cuir-marron-38mm-3431625",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aV6SZ/3431625_1/re/1200x1200/qt/90/3431625_1.jpg",
+    "detected_at": "2026-10-13T10:31:11+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 630.0,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eau de toilette Lancôme Ô Zenith - 100ml",
+    "description": "41,50€ - Primor Livraison gratuite à partir de 50€ Découvrez Ô Zenith, une Eau de Toilette qui illumine les sens avec sa combinaison vibrante de notes florales et fruitées. Créée avec des ingrédients exclusifs du Domaine de la Rose à Grasse par le maître parfumeur Dominique Ropion, cette fragrance capture la pureté et la joie dans chaque goutte. L’absolu de jasmin se mêle à l’accord radieux de monoï, évoquant la chaleur d’une journée d’été méditerranéenne. Son flacon iconique, orné de la rose gravée de Lancôme, incarne la pureté et la sophistication de la collection Les Ô. Inspirée par le bonheur et soutenue par la science, cette fragrance est idéale pour celles et ceux en quête d’énergie, de fraîcheur et d’élégance. FRAGRANCE REVITALISANTE : Ô Zenith de Lancôme est une explosion de bonheur pur, conçue pour élever votre humeur. INGRÉDIENTS EXCLUSIFS : Absolu de jasmin du Domaine de la Rose à Grasse et accord lumineux de monoï. ARÔME FLORAL ET FRUITÉ : Notes éclatantes de fleurs blanches et touche exotique évoquant un soleil à son zénith. INSPIRÉE PAR LA JOIE : Créée par Dominique Ropion pour refléter la chaleur estivale et capturer l’essence du bien-être. PARFUM MIXTE : Conçue pour les femmes et les hommes à la recherche d’un parfum polyvalent et énergisant. FLACON ÉLÉGANT : Design emblématique avec la rose gravée de Lancôme, symbole de pureté et de raffinement. TESTÉ PAR LES CONSOMMATEURS : Ils ont affirmé ressentir une sensation de bonheur et une amélioration de leur humeur. SCIENCE ET ÉMOTION : Formulée selon la recherche « Science of Wellness » d’IFF pour éveiller des émotions positives.",
+    "price": 41.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/eau-de-toilette-lancome-o-zenith-100ml-3431624",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9KgpX/3431624_1/re/1200x1200/qt/90/3431624_1.jpg",
+    "detected_at": "2026-10-13T10:30:41+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 41.5,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nettoyeur à Ultrasons DK SONIC 35W 900ML (Vendeur Tiers)",
+    "description": "37,43€ - Amazon 42 kHz pour un Rinçage Intensif de Choses Compliquées : en général, la fréquence ultrasonique de 42 kHz peut être utilisée pour nettoyer les choses avec des surfaces compliquées telles que des trous aveugles et des trous profonds, etc. Le Mode DEGAS pour éliminer la Fatigue Ultrasonique : le mode DEGAS peut éliminer les bulles remplies d'air qui sont générées dans la solution de nettoyage après que l'appareil a travaillé pendant une longue période et peut entraîner une fatigue ultrasonique. Par conséquent, le mode DEGAS peut éliminer la fatigue ultrasonique pour améliorer les effets de nettoyage à ultrasons. 5 Temps de Nettoyage Sous Les 180 ~ 900s : 5 réglages de loisirs sous les 180 ~ 900s permettent de régler librement le temps de nettoyage en fonction des personnages des objets à nettoyer Le Réservoir en Acier Inoxydable SUS304 : le réservoir de nettoyage interne des appareils est fabriqué en acier inoxydable Sus304 et rend l'appareil résistant aux acides faibles et aux alcalis faibles. Panneau de Commande Numérique Avec Affichage LED : le panneau de commande numérique peut utiliser l'appareil plus confortablement et avec précision et donc avoir une longue durée de vie",
+    "price": 37.43,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nettoyeur-a-ultrasons-dk-sonic-35w-900ml-vendeur-tiers-3431623",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/uS8H7/3431623_1/re/1200x1200/qt/90/3431623_1.jpg",
+    "detected_at": "2026-10-13T10:29:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 37.43,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Abonné PS+] Pack \"La part du lion\" pour Battlefield 6 & Battlefield REDSEC offert sur PS5 et PS5 Pro (Dématérialisé - Playstation Store)",
+    "description": "PlayStation Store À l'occasion de la sortie de la saison 5, un nouveau pack Battlefield est disponible pour les abonnés. Parcourez vos terrains de chasse et imposez votre domination avec le pack « La part du lion ». Procurez-vous le pack « La part du lion » pour obtenir : • Skin de soldat Éclaireur de l'OTAN « Règne indomptable » • Paquetage d'arme pour DMR SVK-8.6 « Éclat déchiquetant » • Paquetage d'arme pour fusil de précision M2010 ESR « Traquer et bondir » • Skin de véhicule de transport terrestre léger Glider 96 de l'OTAN « Char rôdeur » • Arrière-plan de fiche de jeu « Aura menaçante » • Plaque « Regard noir » • Pendentif d'arme « Brut » • Parachute « Crinière dorée » • Écusson de soldat « Donjon du souverain » • Autocollant de véhicule « Héritage » • Titre « Craignez mon rugissement » Ce jeu inclut des achats facultatifs de monnaies virtuelles dans le jeu pouvant être utilisées pour acquérir des objets virtuels.",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/abonne-ps-pack-la-part-du-lion-pour-battlefield-6-battlefield-redsec-offert-sur-ps5-et-ps5-pro-dematerialise-3431622",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1PzAQ/3431622_1/re/1200x1200/qt/90/3431622_1.jpg",
+    "detected_at": "2026-10-13T10:25:36+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Robot tondeuse intelligent 700 m² Worx Landroid Plus WR167E",
+    "description": "339,99€ - JoyBuy Bon prix pour ce robot qui devient difficile à trouver hors marketplace (et donc hors SAV douteux...). Le prix barré sur Joybuy (749,99€) est quand même bien supérieur à ce qu'on arrive à trouver partout donc j'ai mis une moyenne de ce que j'ai trouvé. Je ne pourrais pas vous dire si le produit est bien, mon balcon manque de relief et de hérisson (:I . Mais je laisse les processeurs faire leurs retours d'expérience. Petite remise également sur le WR142E à 289,99€ au lieux de 329€ : https://www.joybuy.fr/dp/worx-landroid-wr142e-robot-tondeuse-intelligent/100023735222737 Les détails techniques qui font la différence : Navigation intelligente & Bordures nettes : Technologie brevetée AIA qui réduit le temps de tonte et gère à la perfection les zones étroites ou complexes. Technologie Cut to Edge pour couper au plus près des bordures de votre terrain. A l'aise partout : Conçu pour 700 m² sur des terrains avec pentes (jusqu'à 35%) et obstacles. Son disque de coupe flottant s'adapte automatiquement aux irrégularités du sol pour éviter de décaper la pelouse. Prêt à l'emploi & Connecté : Système Plug-N-Play, le robot est préprogrammé (un bouton suffit pour démarrer). Il intègre un écran LCD pour les réglages / code PIN et se contrôle entièrement à distance sur smartphone en Wifi et Bluetooth . Coupe Mulching performante : Système à 3 lames pivotantes (largeur de coupe 18 cm, hauteur réglable jusqu'à 6 cm). La rotation inversée des lames double leur durée de vie. Sécurité & Capteurs complets : Alarme sonore, verrouillage par code PIN, capteurs de sécurité qui coupent instantanément les lames si le robot est soulevé, et capteur de pluie pour renvoyer automatiquement le robot à l'abri. Entretien et charge optimisés : Certifié IPX5 , le robot se nettoie directement et facilement au jet d'eau. Sa station offre une charge latérale esthétique (la zone de charge reste tondue) et le robot y retourne seul quand sa batterie faiblit. Garantie 3 ans : Garantie de 2 ans + 1 an supplémentaire gratuit en enregistrant le robot sur le site de Worx dans les 30 jours suivant l'achat.",
+    "price": 339.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/worx-landroid-plus-wr167e-robot-tondeuse-intelligent-700-m2-3431621",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bOiY7/3431621_1/re/1200x1200/qt/90/3431621_1.jpg",
+    "detected_at": "2026-10-13T10:23:13+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 339.99,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets New Balance 2010V1 - Du 39,5 au 45,5",
+    "description": "62€ - AFEW DESCRIPTION L'ABZORB 2010 allie l'attrait d'un style avant-gardiste et totalement nouveau à un sentiment de familiarité. La semelle segmentée ABZORB, caractéristique de plusieurs modèles des années 2000, présente des proportions plus généreuses et devient la pièce maîtresse de ce nouveau design. Le look saisissant est complété par une tige en maille losange qui ajoute une touche de modernité au look classique.",
+    "price": 62.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/new-balance-2010v1-taille-disponible-395-405-41-42-44-445-45-455-3431620",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ptWe5/3431620_1/re/1200x1200/qt/90/3431620_1.jpg",
+    "detected_at": "2026-10-13T10:22:46+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 62.0,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque à Conduction Osseuse Shokz OpenRun Pro 2",
+    "description": "98,27€ - AliExpress  Réductions et coupons  Détails département unisexe-adulte Modèle Shokz Openrun Pro 2 Matériau Plastique,GEL de silice Catégorie Écouteurs et casques Nombre de chauffeurs 2 Méthode de chargement câble Est sans fil Oui Latence audio other Méthode de contrôle application Imperméable Oui qu'il soit électrique Non Type de prise Type de ligne puissance de sortie maximale du haut-parleur other Temps de charge 1 Fonction Pour voler,Pour extérieur Principe du Vocalisme Conduction osseuse Type sans fil Bluetooth Style Écouteurs à conduction osseuse Origine CN (Origine) Nom de marque SHOKZ",
+    "price": 98.27,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-a-conduction-osseuse-shokz-openrun-pro-2-3431619",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/RQKJp/3431619_1/re/1200x1200/qt/90/3431619_1.jpg",
+    "detected_at": "2026-10-13T10:21:47+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 98.27,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz (Vendeur Tiers)",
+    "description": "234,32€ - AliExpress Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz Scénario d'utilisation Jeux Horloge de suralimentation maximale 5 VERSION PCIe PCIe5.0 Canaux mémoire pris en charge 4 Type de mémoire pris en charge DDR5 Modèles de chipset pris en charge AMD X570 TDP/TDP par défaut 120 Nombre de fils 16 Capacité du cache L3 96 Capacité du cache L2 8 Débloqué no Construit par GPU no Processus de puce 14 nm Type de processeur AMD Athlone Type Octa cœur Type de prise 15h Application Ordinateur de bureau Nom de marque AMD Modèle AMD Ryzen 7 7800X3D Nombre de cœurs Huit cœurs Chip manufacturing process 5NM Supported chipset models",
+    "price": 234.32,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-3431618",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9y6eB/3431618_1/re/1200x1200/qt/90/3431618_1.jpg",
+    "detected_at": "2026-10-13T10:19:36+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 234.32,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Processeur AMD Ryzen 7 7800X3D - 8 cœurs, 16 threads, 4,2 GHz de base, 5 GHz en boost, TDP de 120W, socket AM5",
+    "description": "249,38€ - AliExpress Processeur : AMD Ryzen 7 7800X3D ( la fiche TechpowerUp apporte d’autres informations, dont le PPT* ) *PPT (Power Package Tracking) qui est la puissance maximale délivrée par défaut Socket : AM5 Architecture : Zen 4 8 cœurs physiques et 16 cœurs logiques , via SMT Fréquence nominale : 4,2 GHz Fréquence boost maximale : 5 GHz TDP nominal : 120 W Tjmax : 89 °C Cache L1 : 512 Ko Cache L2 : 8 Mo Cache L3 : 96 Mo : c'est là surtout que les X3D poussent ! Finesse de gravure : 5 nm TSMC pour les cœurs CPU, 6 nm pour le Die I/O Sécurité AMD Enhanced Virus Protection, avec prise en charge du NX bit Il dispose bien d'un modeste IGP : mais il n'est clairement pas là pour la 3D. Sur ce plan, c'est à votre carte graphique de faire le boulot. (embarrassedflame) Fourni sans ventilateur . ☝️ Processeur dont vous pouvez trouver une review chez TechpowerUp . Vous pouvez retrouver les spécifications de tous les processeurs AMD via cette page . C’était votre dévoué Singe-technophile s’en venant des processeurs dans les mains. N’hésitez pas à le suivre dans ses pérégrinations en Simia ! Ses vallées, ses montagnes, ses villes et leurs agréements, des rues commerciales au stadium de boxe. Essayez d’éviter le Tribunal tout de même. Car comme il y est dit, Dura Lex, Sed Simia .",
+    "price": 249.38,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-42-ghz-de-base-5-ghz-en-boost-tdp-de-120w-socket-am5-3431613",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2KWF9/3431613_1/re/1200x1200/qt/90/3431613_1.jpg",
+    "detected_at": "2026-10-13T10:19:20+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 249.38,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 12 Marqueurs indélébiles Sharpie - pointe fine, encre noir",
+    "description": "8,09€ - Amazon Très bon prix ! Le marqueur Sharpie peut être utilisé sur le plastique, le verre, le bois, le métal et le textile Noir exceptionnellement intense, pour des lignes épaisses Encre à séchage rapide qui résiste aux bavures, à la décoloration et à l'eau Pointe fine pour des lignes nettes, offrant davantage de précision et un flux d'encre régulier Cette pochette contient 12 marqueurs permanents Sharpie noirs Spécifications Marque: Sharpie Couleur d'encre: Noir Nombre d'articles: 12 Type de point: Fine Utilisations recommandées pour le produit: Dessin, Esquisse, Écriture Public cible: Adulte Caractéristique spéciale: Mélangable, résistant à la décoloration, indélébile, utilisation multi-surfaces, encre à séchage rapide, clip de poche, résistant à l'eau, pointes polyvalentes Voir plus Recommandation de surface: Papier Couleur: Noir Matériau: Plastique Usages recommandés pour le produit: Dessin, Esquisse, Écriture Public ciblé: Adulte Pays d'origine: USA Type de marqueur: Marqueur permanent Nom de la taille du colis: 12 lots Code article international: 03501179961118 Description de la tranche d’âge: 13+ Composants inclus: 12 stylos noirs imperméables Nom du type du produit: Sharpie marqueurs permanents, pointe fine, noirs, Lot de 12 Fabricant: Newell Rubbermaid Numéro de modèle: 1996111 Numéro de pièce: 1996111 Unité de comptage: 12.0 unité Description de la garantie: Garantie 12 mois Classement des meilleures ventes d'Amazon: 160 en Fournitures de bureau (Voir les 100 premiers en Fournitures de bureau) 4 en Marqueurs indélébiles et stylos-marqueurs ASIN: B01MURLV9K Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (47 809) 4,7 sur 5 étoiles Type de matériau: Plastique Base d'encre: Hybride Type de pointe: Fine Caractéristiques spéciales: Mélangable, résistant à la décoloration, indélébile, utilisation multi-surfaces, encre à séchage rapide, clip de poche, résistant à l'eau, pointes polyvalentes Niveau d' etancheite: Étanche Diamètre de la mine: 1.0_1.9mm Orientation de la main: Ambidextre Est imperméable: Vraie Type de poignée: Ergonomique Technique d’écriture: Permanent Type d'instrument d'écriture: Marqueur Style: Marqueurs permanents Motif: Lot de 12 Forme du corps: Cylindrique Thème: Papeterie pour une expression créative Nombre d' articles: 12 Nombre de pièces: 12 Dimensions de l’article: 19,6 x 1,7 x 19,4 centimètres Commentaires client",
+    "price": 8.09,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sharpie-marqueurs-indelebiles-pointe-fine-encre-noir-permanent-pochette-de-12-3431616",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cIbND/3431616_1/re/1200x1200/qt/90/3431616_1.jpg",
+    "detected_at": "2026-10-13T10:18:05+00:00",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.09,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Biped (Dématérialisé - Playstation Store)",
+    "description": "1,49€ - PlayStation Store Biped sur ps5 dématérialisé Connexion Sorties récentes Collections Promotions Abonnements Parcourir BipedBiped Biped Postmeta Games Limited PS4 PS5 Optimisé pour la PS5 Pro Moyenne des avis : 3.49 étoiles sur 5 (3,2 K avis) 3.49 3,2 K avis Inclus Remise par rapport au prix d'origine de €14,99 €14,99 S'abonner à PlayStation Plus Extra pour accéder à ce jeu et à des centaines d'autres du catalogue des jeux €1,49 Remise par rapport au prix d'origine de €14,99 €14,99 Économisez 90 % Fin de l'offre : 22/10/2026 00:59 UTC+2 Prix le plus bas au cours des 30 derniers jours : €14,99 S'abonner PEGI 3 PS Plus requis pour le jeu en ligne Prend en charge jusqu'à 2 joueurs en ligne avec PS Plus Jeu en ligne facultatif De 1 à 2 joueurs Le streaming dans le cloud PS5 et PS Portal n'est pris en charge qu'avec un abonnement Premium Version PS5 Fonction de vibration prise en charge (manette sans fil DualSense) Optimisé pour la PS5 Pro Version PS4 Vibration de la manette DUALSHOCK 4 Afficher tous les avis relatifs à la compatibilité concernant la PS5 et la PS4 BipedBiped BipedBiped BipedBiped BipedBiped BipedBiped Éditions : Bipedal Party Bipedal Party PS4 PS5 €8,74 Remise par rapport au prix d'origine de €24,99 €24,99 5 % d'économies supplémentaires avec PlayStation Plus Fin de l'offre : 22/10/2026 00:59 UTC+2 Prix le plus bas au cours des 30 derniers jours : €24,99 S'abonner et acheter Biped Biped PS4 PS5 Inclus Remise par rapport au prix d'origine de €14,99 €14,99 S'abonner à PlayStation Plus Extra pour accéder à ce jeu et à des centaines d'autres du catalogue des jeux S'abonner Avis Biped Se connecter pour donner un avis Avis global des joueurs 3.49Moyenne des avis : 3.49 étoiles sur 5 (3220 avis) 3220 avis 46 % 12 % 11 % 6 % 25 % Fonctionnalités d'accessibilité PS5 (8) PS4 (8) Audio Commandes du volume Commandes du volume Vous pouvez désactiver le son de chaque sortie audio. Sous-titres et légendes Sous-titres (Basique) Sous-titres (Basique) Seuls les éléments clés de l'intrigue et les personnages principaux du jeu sont sous-titrés. Commandes Jouable sans vibrations des manettes, Jouable sans effet de gâchette adaptative Jouable sans vibrations des manettes Vous pouvez jouer au jeu sans activer les vibrations des manettes ou le retour haptique. Jouable sans effet de gâchette adaptative Vous pouvez jouer au jeu sans activer les gâchettes adaptatives. Gameplay Rappel des commandes, Rappels tutoriel, Mode Entraînement, Mise en pause du jeu Rappel des commandes Vous pouvez vérifier les commandes du jeu à tout moment. Rappels tutoriel Vous pouvez consulter le tutoriel du gameplay à tout moment. Mode Entraînement Vous avez accès à un environnement de test qui vous permet de vous entraîner tout au long du jeu. Mise en pause du jeu Vous pouvez mettre le jeu en pause à tout moment durant le gameplay ou en mode cinématique (jeu hors ligne uniquement). Informations sur le jeu et mentions légales Biped est un jeu d'action-aventure coopératif en 3D basé sur la physique. Il est fortement axé sur la collaboration momentanée entre deux joueurs. Deux petits robots bipèdes, Aku et Sila, marcheront côte à côte et resserreront leurs liens au cours d'une aventure amusante sur la planète Terre, afin d'accomplir leur mission. Pas de boutons ! Vous contrôlez les 2 jambes de votre bipède avec les joysticks. Cela vous permet d'effectuer toutes les actions de base allant de marcher et patiner, jusqu'aux déplacements plus avancés comme conduire et couper du bois. Bien qu'il soit possible de jouer seul, le jeu est beaucoup plus amusant en mode co-op avec un ami ou un membre de votre famille. Vous devrez communiquer et coordonner vos déplacements pour surmonter les défis ensemble. Découvrez à quel point vous formez une belle paire. Votre aventure vous fera visiter de nombreux endroits sur la planète, à la fois sublimes et mystérieux. Explorez des secrets dans les forêts, les vallées, les cascades et les montagnes de glace et tentez de trouver vo",
+    "price": 1.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/biped-ps5-dematerialise-3431614",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/IttKI/3431614_1/re/1200x1200/qt/90/3431614_1.jpg",
+    "detected_at": "2026-10-13T10:17:38+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.49,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Du 17/10 au 01/11] Entrée gratuite pour les enfants de moins de 12 ans déguisés - Parc Argonne Découverte (08)",
+    "description": "Le Parc Argonne Découverte (à Olizy-Primat dans les Ardennes) offre l'entrée aux enfants de moins de 12 ans costumés du 17 octobre au 1er novembre 2026 ! (devil) Pour les plus de 12 ans et adultes déguisés, pas de gratuité sur le billet mais une boisson chaude offerte au resto du parc (y) Attention aux conditions précisées par le parc : un vrai déguisement est demandé (un simple coup de maquillage ou un serre-tête ne suffisent pas). Valable uniquement pour les familles, pas pour les groupes !",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/du-1710-au-0111-entree-gratuite-pour-les-enfants-de-moins-de-12-ans-deguises-parc-argonne-decouverte-08-3431612",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oCuqf/3431612_1/re/1200x1200/qt/90/3431612_1.jpg",
+    "detected_at": "2026-10-13T10:17:35+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Warhammer 40,000: Space Marine 2 sur PC (Dématérialisé)",
+    "description": "13,20€ - Eneba ATTENTION CHOISIR CE MARCHAND POUR AVOIR LE PRIX INDIQUÉ FROSTY ENTERTAINMENT https://ibb.co/9mZcLxns Incarnez les compétences surhumaines et la brutalité d'un Space Marine. Libérez des capacités mortelles et des armes dévastatrices pour anéantir les essaims tyranides implacables. Défendez l'Imperium dans une action spectaculaire à la troisième personne en mode solo ou multijoueur. CARACTÉRISTIQUES Tenez en échec les horreurs de la galaxie dans des batailles épiques sur des planètes lointaines grâce à vos capacités mortelles et à vos armes dévastatrices, et découvrez de sombres secrets pour repousser la nuit éternelle et prouver votre ultime loyauté envers l'humanité Profitez d'une action à la troisième personne intense, sanglante et rapide avec des centaines d'ennemis à l'écran, et purgez les essaims de Tyranides implacables dans une nouvelle campagne spectaculaire. Jouez en solo ou avec jusqu'à 2 amis en coopération transparente à 3 joueurs. Défendez l'Imperium en incarnant votre propre Space Marine dans une campagne JcE sans fin, brutale et rejouable, comprenant 6 classes, débloquant de nouvelles compétences et de nouveaux cosmétiques, ou livrez une guerre éternelle à vos ennemis dans de féroces matchs JcJ 6v6 pour apporter la gloire à votre faction !",
+    "price": 13.2,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/warhammer-40000-space-marine-2-3431590",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Pu5zY/3431590_1/re/1200x1200/qt/90/3431590_1.jpg",
+    "detected_at": "2026-10-13T10:15:48+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 13.2,
+        "observed_at": "2026-10-13T10:35:09.063573+00:00"
       }
     ]
   },
@@ -8858,190 +9184,6 @@
     "price_history": [
       {
         "price": 9.99,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Presse à chaud EasyPress Mini Cricut Zen Blue, 10.3 x 8.7 cm",
-    "description": "44,99€ - Cultura La presse à chaud EasyPress Mini Cricut est l'outil idéal pour personnaliser vos créations textiles avec précision et facilité. Une presse à chaud pensée pour vos projets créatifs Cette presse à chaud Cricut offre une solution compacte et performante pour tous vos travaux de thermotransfert. Conçue pour les créateurs de tous niveaux dès 14 ans, elle permet de personnaliser des objets de formes variées tels que chaussures, peluches ou textiles délicats. Son format mini facilite l'accès aux zones difficiles, entre les boutons ou dans les coutures. Compatible avec toute machine de découpe Cricut, elle constitue un complément parfait pour vos projets d'artisanat créatif et de personnalisation textile. Caractéristiques techniques et fonctionnalités La presse à chaud EasyPress Mini Cricut mesure 10.3 x 8.7 cm pour un poids de seulement 0.35 kg, garantissant portabilité et maniabilité optimales. Elle dispose de trois réglages de chaleur adaptés aux produits thermocollants, Infusible Ink et sublimation des principales marques. Sa base isolée assure une utilisation sécurisée, tandis que sa fonction d'arrêt automatique apporte une tranquillité supplémentaire. Légère et facile à ranger, cette presse à chaud se distingue par sa capacité à épouser les contours des supports les plus inhabituels. Transformez vos idées créatives en réalisations uniques grâce à cet outil de thermotransfert compact et performant.",
-    "price": 44.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/presse-a-chaud-easypress-mini-cricut-zen-blue-103-x-87-cm-3431271",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/mVzwP/3431271_1/re/1200x1200/qt/90/3431271_1.jpg",
-    "detected_at": "2026-10-12T18:38:20+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 44.99,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Distribution Gratuite de Bulbes - Frouard (54)",
-    "description": "La Ville de Frouard organise une Distribution Gratuite de Bulbes, à l’occasion du Marché Dominical, qui aura lieu le Dimanche 18 Octobre 2026 dès 09h. Pensez à apporter vos sacs. Infos",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/distribution-gratuite-de-bulbes-frouard-54-3431270",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/OvLQI/3431270_1/re/1200x1200/qt/90/3431270_1.jpg",
-    "detected_at": "2026-10-12T18:36:06+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
-  },
-  {
-    "title": "Jurassic World Evolution 3 sur PS5",
-    "description": "38,99€ - Amazon Nouvel opus d'une saga primée, Jurassic World Evolution 3 vous donne le pouvoir de construire et gérer votre propre Jurassic World. Aidez la vie à trouver un chemin par la synthèse, la reproduction et l'élevage d'espèces préhistoriques. Prenez soin de chaque espèce et aidez vos familles de dinosaure à se multiplier et à transmettre leur ADN. Créez de véritables havres de paix pour que vos dinosaures puissent s'y épanouir, construisez des attractions uniques pour impressionner les visiteurs et gardez le contrôle dans les situations critiques. Détails & caractéristiques ELEVEZ DES DINOSAURES SUR PLUSIEURS GENERATIONS : Contient plus de 80 espèces préhistoriques impressionnantes, dont 75 que vous pouvez élever sur plusieurs générations. Prenez bien soin de vos dinosaures pour que vos juvéniles espiègles deviennent de vrais adultes imposants. Chaque espèce comprend une variante femelle, mâle et juvénile. CULTIVEZ VOTRE CREATIVITE : Créez d'incroyables parcs grâce à des outils créatifs inédits dans la saga Jurassic World Evolution ! Entre modification de terrain novatrice et personnalisation d'environnement modulable, construisez et ajustez tout votre parc du début à la fin ! ENVIRONNEMENTS DYNAMIQUES : Modifiez l'environnement et le relief du terrain pour créer des enclos naturels. Inaugurez de nouvelles attractions, comme la visite en montgolfière, qui permettent aux visiteurs d'observer de près, voire de toucher les dinosaures. Découvrez ces fonctionnalités et bien d'autres ! UNE CAMPAGNE EPIQUE A TRAVERS LE MONDE : Retrouvez des personnages bien connus de la franchise Jurassic comme le Dr Ian Malcolm. Embarquez avec eux dans une campagne non linéaire aux quatre coins du monde. Chaque lieu, comme les Badlands du Montana, le Japon et bien d'autres, présente ses propres défis palpitants. Chaque décision mettra à l'épreuve vos compétences de gestionnaire. Vous devrez trouver l'équilibre entre les intérêts de chacun et l'intégration fragile des dinosaures dans le monde d'aujourd'hui. MAITRISEZ LE CHAOS : Préparez-vous à l'imprévu ! Anticipez les catastrophes avec des caméras de surveillance qui réduiront le temps de réaction en cas de dinosaure en fuite. Déployez votre équipe de maintenance pour contenir le danger en effectuant des réparations express partout dans le parc.",
-    "price": 38.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jurassic-world-evolution-3-playstation-5-3431268",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/odWAl/3431268_1/re/1200x1200/qt/90/3431268_1.jpg",
-    "detected_at": "2026-10-12T18:34:40+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 38.99,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lego Technic 42231 - Fast and Furious Dodge Charger",
-    "description": "109,30€ - Amazon LEGO Technic Dodge Charger R/T Fast and Furious 42231, voiture à construire Le LEGO Technic Dodge Charger R/T Fast and Furious 42231 permet de recréer une voiture emblématique de la célèbre saga automobile. Ce modèle de construction s’adresse aux amateurs de LEGO, de voitures sportives et de l’univers Fast and Furious. La gamme Technic propose une expérience d’assemblage axée sur les détails et la conception mécanique, pour un résultat à exposer dans une collection ou à intégrer à une collection de véhicules miniatures. Cette maquette constitue également une idée de cadeau pour les passionnés d’automobile et les fans de la franchise souhaitant retrouver la Dodge Charger R/T sous forme de modèle LEGO. Caractéristiques principales : Marque : LEGO Gamme : Technic Référence : 42231 Modèle : Dodge Charger R/T Univers : Fast and Furious Type : voiture à construire Conception inspirée d’une voiture emblématique de la saga Adaptée aux amateurs de construction LEGO et aux collectionneurs",
-    "price": 109.3,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-technic-fast-and-furious-dodge-charger-42231-3431267",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RZkpL/3431267_1/re/1200x1200/qt/90/3431267_1.jpg",
-    "detected_at": "2026-10-12T18:31:56+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 109.3,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Table extensible Dmora Caladora - 140 / 190 x 90 x 77 cm, Blanc",
-    "description": "230,99€ - Amazon Les lignes simples de ce produit lui permettent d'être placé dans tout type d'environnement, du plus classique au plus moderne, conçu comme des tables à manger, ils sont optimaux lorsqu'ils sont utilisés comme bureaux avec un grand comptoir Idéal pour ceux qui recherchent une table spacieuse mais confortable à la fois Table extensible noble en panneaux de particules et MDF, un matériau durable sans défauts naturels grâce à l'excellente finition de la phase de production Extensible jusqu'à 190 cm, grâce au mécanisme pratique, il vous permet de déplacer les deux plateaux de table vers l'extérieur pour insérer l'extension centrale de 50 cm entre eux, ce qui le rend indispensable pour votre maison, garantissant un produit transformable selon vos propres besoins d'espace Mesure 140 x 78 x 90 cm",
-    "price": 230.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/dmora-table-extensible-caladora-console-extensible-multi-positions-table-a-manger-avec-rallonge-140190x90h77-cm-blanc-3431266",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/MUTYZ/3431266_1/re/1200x1200/qt/90/3431266_1.jpg",
-    "detected_at": "2026-10-12T18:30:39+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 230.99,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casquette Columbia ROC II Collegiate Navy/Logo",
-    "description": "14,85€ - Amazon Accompagne une tenue décontractée genre Jean bleu; change du noir qui est peu souvent en promo",
-    "price": 14.85,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casquette-columbia-roc-ii-collegiate-navylogo-3431265",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/lZwdM/3431265_1/re/1200x1200/qt/90/3431265_1.jpg",
-    "detected_at": "2026-10-12T18:30:22+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 14.85,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Souris sans fil Philips série 3000, silencieuse 2,4 GHz avec récepteur USB - Noir",
-    "description": "3,99€ - JoyBuy Souris sans fil Philips Série 3000 SPK7378B/00, silencieuse, 1600 DPI, noir La souris sans fil Philips Série 3000 SPK7378B/00 est conçue pour une utilisation quotidienne sur ordinateur portable ou PC. Grâce à sa connexion sans fil 2,4 GHz et à son récepteur USB, elle permet de travailler sans câble et de conserver un espace de bureau dégagé. Ses clics silencieux limitent le bruit lors de l’utilisation, ce qui la rend pratique au bureau, à la maison ou dans un environnement nécessitant davantage de discrétion. Son capteur optique offre une résolution de 1600 DPI pour un déplacement du curseur adapté aux tâches courantes, comme la navigation sur Internet, la bureautique et les études. Sa finition noire sobre s’intègre facilement à différents équipements informatiques. Caractéristiques principales : Marque : Philips Gamme : Série 3000 Modèle : SPK7378B/00 Type : souris optique sans fil Connexion : 2,4 GHz Récepteur : USB Résolution : 1600 DPI Clics silencieux Compatibilité : PC et ordinateur portable Couleur : noir Version européenne",
-    "price": 3.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-philips-serie-3000-silencieuse-24-ghz-avec-recepteur-usb-noir-3431263",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/KDWpY/3431263_1/re/1200x1200/qt/90/3431263_1.jpg",
-    "detected_at": "2026-10-12T18:27:57+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 3.99,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets New Balance en cuir Suede 237 (2 coloris) - Tailles du 41,5 au 50",
-    "description": "37,90€ - Showroomprivé https://www.showroomprive.com/link/product/41836843",
-    "price": 37.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-new-balance-en-cuir-suede-237-2-coloris-tailles-du-415-au-50-3431261",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/nV4jF/3431261_1/re/1200x1200/qt/90/3431261_1.jpg",
-    "detected_at": "2026-10-12T18:25:47+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 37.9,
-        "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "30% de remise sur les huiles moteur Total. Ex : TotalEnergies Quartz 9000 NFC - 5W-30, 5 Litres",
-    "description": "34,23€ - E.Leclerc 30 % de remise sur les huiles moteur Total chez E.Leclerc , du 12 au 25 octobre 2026 Du 12 au 25 octobre 2026, profitez de 30 % de remise sur une sélection d’huiles moteur Total chez E.Leclerc . Cette offre permet de réaliser des économies sur l’entretien de votre véhicule, que vous conduisiez une voiture essence ou diesel. Plusieurs références de la gamme TotalEnergies Quartz sont concernées, avec différentes viscosités et formulations adaptées aux besoins de nombreux moteurs. Parmi les produits proposés figurent notamment les huiles Quartz Ineo ECS 5W-30, Ineo Long Life 5W-30, Quartz 9000 NFC 5W-30 et Quartz 7000 10W-40, en bidons de 5 litres. Pensez à vérifier la compatibilité de l’huile avec les préconisations du constructeur de votre véhicule avant l’achat. Détails de l’offre : Réduction : 30 % Marque : TotalEnergies Quartz Produits : sélection d’huiles moteur Formats visibles : bidons de 5 litres Enseigne : E.Leclerc Dates : du 12 au 25 octobre 2026",
-    "price": 34.23,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/30-de-remise-sur-les-huiles-moteur-total-ex-totalenergies-quartz-9000-nfc-5w-30-3431259",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/qRt89/3431259_1/re/1200x1200/qt/90/3431259_1.jpg",
-    "detected_at": "2026-10-12T18:21:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 34.23,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
       }
     ]
