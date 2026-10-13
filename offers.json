@@ -1,5 +1,105 @@
 [
   {
+    "title": "NATESSANCE Huile aux Fleurs de...querette Bio 100 ml - Lot de 2",
+    "price": 11.56,
+    "reference_price": 25.73,
+    "discount_percent": 55.07,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B079Z8RVR2",
+    "image_url": "https://m.media-amazon.com/images/P/B079Z8RVR2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:42:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.56,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "MERCUROCHROME - Bande de Strap...ulations - Format 2,5 m x 6 cm",
+    "price": 6.06,
+    "reference_price": 13.62,
+    "discount_percent": 55.51,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00G3IDBAY",
+    "image_url": "https://m.media-amazon.com/images/P/B00G3IDBAY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:42:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 6.06,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wera 05020176001 7870 Clé à fo...2 x 13-16 x 5/8-3/4\" x 67.7 mm",
+    "price": 58.46,
+    "reference_price": 76.0,
+    "discount_percent": 23.08,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F7HV68HY",
+    "image_url": "https://m.media-amazon.com/images/P/B0F7HV68HY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:42:45",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 58.46,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LUXÉOL - Shampooing Fortifiant... - Fabriqué en France - 200 ml",
+    "price": 8.99,
+    "reference_price": 15.98,
+    "discount_percent": 43.74,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0H32M1HF7",
+    "image_url": "https://m.media-amazon.com/images/P/B0H32M1HF7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:42:44",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Puressentiel - Huile Essentiel...e et naturelle - HEBBD - 30 ml",
+    "price": 7.54,
+    "reference_price": 12.9,
+    "discount_percent": 41.55,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B096TKXPRF",
+    "image_url": "https://m.media-amazon.com/images/P/B096TKXPRF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:42:41",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 7.54,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
     "title": "Philips Hue Turaco Lampadaire ...ies, Compatible Matter, Zigbee",
     "price": 118.49,
     "reference_price": 159.99,
@@ -723,7 +823,7 @@
     "title": "LOGONA Naturkosmetik Tonique f...eau avec probiotiques naturels",
     "price": 11.69,
     "reference_price": 17.48,
-    "discount_percent": 33.12,
+    "discount_percent": 33.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0BH8RNG6C",
     "image_url": "https://m.media-amazon.com/images/P/B0BH8RNG6C.01._AC_SL1500_.jpg",
@@ -731,7 +831,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 11.69,
@@ -743,7 +843,7 @@
     "title": "Educa- Tweet Beats Crea, Jeu d...17911), Couleur/modèle Assorti",
     "price": 9.24,
     "reference_price": 35.93,
-    "discount_percent": 74.28,
+    "discount_percent": 74.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07D7S39HV",
     "image_url": "https://m.media-amazon.com/images/P/B07D7S39HV.01._AC_SL1500_.jpg",
@@ -751,7 +851,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 9.24,
@@ -763,7 +863,7 @@
     "title": "Papo- Espadon-voilier LA Vie S...e Figurine, 56048, Multicolore",
     "price": 8.69,
     "reference_price": 15.75,
-    "discount_percent": 44.83,
+    "discount_percent": 44.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B083FD4V2V",
     "image_url": "https://m.media-amazon.com/images/P/B083FD4V2V.01._AC_SL1500_.jpg",
@@ -771,7 +871,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 8.69,
@@ -791,7 +891,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 40.17,
@@ -811,7 +911,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:26:30.190937+00:00",
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 8.59,
@@ -823,7 +923,7 @@
     "title": "Colop e-mark Multitiline Print...er ou en plastique 155719 Noir",
     "price": 19.1,
     "reference_price": 55.99,
-    "discount_percent": 65.89,
+    "discount_percent": 65.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09J48JYFL",
     "image_url": "https://m.media-amazon.com/images/P/B09J48JYFL.01._AC_SL1500_.jpg",
@@ -831,7 +931,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:26:30.190937+00:00",
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 19.1,
@@ -851,7 +951,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 264.09,
@@ -863,7 +963,7 @@
     "title": "Sante Naturkosmetik Mineral Wa...u contouring, végétalien, 8 ml",
     "price": 6.4,
     "reference_price": 12.54,
-    "discount_percent": 48.96,
+    "discount_percent": 49.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B086TPGPPQ",
     "image_url": "https://m.media-amazon.com/images/P/B086TPGPPQ.01._AC_SL1500_.jpg",
@@ -871,7 +971,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 6.4,
@@ -883,7 +983,7 @@
     "title": "Physicians Formula Mineral Wea...inition Lumineuse, Tan to Deep",
     "price": 9.7,
     "reference_price": 17.95,
-    "discount_percent": 45.96,
+    "discount_percent": 46.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DQLCRLGF",
     "image_url": "https://m.media-amazon.com/images/P/B0DQLCRLGF.01._AC_SL1500_.jpg",
@@ -891,7 +991,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 9.7,
@@ -903,7 +1003,7 @@
     "title": "Physicians Formula Mineral Wea...ition Lumineuse, Medium to Tan",
     "price": 9.8,
     "reference_price": 14.82,
-    "discount_percent": 33.87,
+    "discount_percent": 33.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DQLBG8HC",
     "image_url": "https://m.media-amazon.com/images/P/B0DQLBG8HC.01._AC_SL1500_.jpg",
@@ -911,7 +1011,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
     "price_history": [
       {
         "price": 9.8,
@@ -2976,6 +3076,132 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Accessoires Xbox à -50% sur carte fidelité carrefour Crèche sur Saone (71)",
+    "description": "29,97€ Bonjour 3 manettes XBox et 2 casques filaires Xbox à -50% sur la carte fidélité Carrefour. L’accessoire revient à 30€ ce qui est un bon prix je trouve. Aucune idée du stock en dehors de ce que je vois en magasin.",
+    "price": 30.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/accessoires-xbox-a-50-sur-carte-fidelite-carrefour-creche-sur-saone-71-3431668",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Qw1yb/3431668_1/re/1200x1200/qt/90/3431668_1.jpg",
+    "detected_at": "2026-10-13T11:38:21+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 30.0,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Smartphone Xiaomi Redmi Note 15+ 5G (Vendeur Tiers)",
+    "description": "322€ - Cdiscount Bonne affaire je pense",
+    "price": 322.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/xiaomi-redmi-note-15-5g-3431665",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XJbge/3431665_1/re/1200x1200/qt/90/3431665_1.jpg",
+    "detected_at": "2026-10-13T11:37:32+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 322.0,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Citizen Tsuyosa 60 NK0023-57L - Acier Inoxydable, Cadran Bleu, 40mm, Étanche 5 Bar (Vendeur Tiers)",
+    "description": "199,99€ - Cdiscount Montre Citizen Tsuyosa 60 Acier Inoxydable Dore Rose Automatique Ronde 40Mm Fond Bleu Cendre Brillant Bracelet Acier Inoxydable Doré Rose Nk0023-57L",
+    "price": 199.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/citizen-tsuyosa-60-3431662",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/x2bA5/3431662_1/re/1200x1200/qt/90/3431662_1.jpg",
+    "detected_at": "2026-10-13T11:36:01+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 199.99,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Friteuse sans huile Air Fryer modulaire Ninja CRISPi FN101EUSG - 1700W, Récipients 3,8 et 1,4L (Retrait magasin uniquement)",
+    "description": "79,99€ - Carrefour Pour celles/ceux qui auraient raté le deal chez Leclerc , passage à 79,99€ chez Carrefour > Valable uniquement en retrait magasin (bien entendu si vous avez du stock près de chez vous ;) ) Caractéristiques Description Conception en verre : cuisinez sainement et surveillez vos cuissons en un clin d'oeil ! Moins de vaisselle : préparez, cuisinez, servez ou dégustez, découpez et conservez dans le même contenant en verre ! Facile à nettoyer et ranger : format compact. Récipients interchangeables et empilables. Crispi se range même dans un simple tiroir de cuisine ! Caractéristiques Capacité 1 x récipient de 1,4 L / 1 x récipient de 3,8 L Dimensions du produit (cm) H : 34,5 x L : 30,4 x P : 34 cm Longueur du câble 0,89 cm Puissance de la batterie 1700 W Couleur Sauge Programmes Frire sans huile / Rôtir / Maintenir au chaud / Redorer Garantie 2 ans",
+    "price": 79.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/friteuse-sans-huile-air-fryer-modulaire-ninja-crispi-fn101eusg-1700w-recipients-38-et-14l-retrait-magasin-uniquement-3431664",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/AWCYh/3431664_1/re/1200x1200/qt/90/3431664_1.jpg",
+    "detected_at": "2026-10-13T11:31:21+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre connectée Garmin Forerunner 255",
+    "description": "218€ - AliExpress Garmin Forerunner 265 version CN. Si vous alimentez votre panier avec une protection d’écran par exemple, cela va vous permettre d’utiliser le code WOFR29 et amener la montre au prix de 208€. Prix total avec protection d’écran: environ 216€, moins chère qu’avec le premier code et avec un article en plus.",
+    "price": 218.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/garmin-forerunner-255-3431663",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/h3w97/3431663_1/re/1200x1200/qt/90/3431663_1.jpg",
+    "detected_at": "2026-10-13T11:28:40+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 218.0,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Client Red By SFR] Smartphone 6,59\" Xiaomi 17T - 256 Go, RAM 12 Go (Via 100€ d'ODR sur facture + 70€ de bonus reprise)",
+    "description": "379€ - RED by SFR Prix du mobile : 549€ -100 d'ODR remboursés sur facture -70€ de bonus reprise = 379€ prix final. Lien vers l'ODR : https://static.s-sfr.fr/media/catalogue/article/promotions/odr/odr-ODR_RED_100_06102026-0002.pdf?ts=1791796785303 Les caractéristiques clés Triple caméra professionnelle Leica : Capturez chaque détail avec un grand angle Leica 50 Mpx avec OIS, un téléobjectif Leica 50 Mpx avec zoom optique x5 et un ultra grand-angle 12 Mpx. Objectif Leica Summilux : Profitez d’une optique lumineuse pensée pour des photos nettes, détaillées et plus créatives, de jour comme de nuit. Xiaomi HyperAI : Sublimez vos clichés et gagnez en efficacité grâce aux fonctionnalités d’IA intégrées à Xiaomi HyperOS 3. MediaTek Dimensity 8500-Ultra : Bénéficiez de performances rapides et fluides, optimisées par une puce gravée en 4 nm et un système de refroidissement Xiaomi 3D IceLoop. Batterie 6500 mAh avec HyperCharge 67W : Profitez d’une longue autonomie allant jusqu’à 65 heures et rechargez rapidement votre Xiaomi 17T.",
+    "price": 379.0,
+    "reference_price": 549.0,
+    "discount_percent": 31.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/client-red-by-sfr-smartphone-659-xiaomi-17t-256-go-ram-12-go-via-100eur-dodr-sur-facture-70eur-de-bonus-reprise-3431658",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/UxJX0/3431658_1/re/1200x1200/qt/90/3431658_1.jpg",
+    "detected_at": "2026-10-13T11:25:57+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 379.0,
+        "observed_at": "2026-10-13T11:43:20.622838+00:00"
       }
     ]
   },
@@ -9411,195 +9637,6 @@
       {
         "price": 67.99,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Perceuse-visseuse sans fil Bosch UniversalDrill 18V-60 Perc, UniversalDrill 18V-60 EC (sans batterie ni chargeur)",
-    "description": "50,51€ - Amazon Bosch Perceuse-visseuse sans fil UniversalDrill 18V-60 Performances élevées et endurance maximale Perc UniversalDrill 18V-60 EC outil seul Système de batteries POWER FOR ALL 18V Détails Explorer Avis Nos prix incluent l'éco-participation sur tous les produits concernés. Vous voulez recycler votre appareil électrique ou électronique gratuitement ? En savoir plus ici. Signaler un problème avec ce produit Les clients ont également acheté Sur la base des produits que les clients ont achetés ensemble Bosch Perceuse-visseuse sans fil UniversalDrill 18V-60 | Performances élevées et endurance maximale Perc UniversalDrill 18V-6 + Bosch 34 pièces Ensemble de forets et de tournevis en titane X-Line (pour bois, pierre et métal, accessoires perceuses) Sponsorisé + Bosch 32x Set d’embouts de vissage Extra Hard mixte, 32 pcs | Longueur 25 mm Professional Accessoire Visseuse Sponsorisé Acheter les trois: 74,72 € Produits liés à cet article Sponsorisé Détails du produit Principaux points forts MarqueBosch Source d'alimentationAlimenté par batterie Vitesse de rotation maximale1900 tr/min Tension18 Volts Ampérage2 A CouleurGreen Plus de puissance et plus grande autonomie avec le moteur sans charbon Maintien ferme des embouts et forets et changement d’accessoire très facile grâce au robuste mandrin en métal de 13 mm Bonne maîtrise et grande précision grâce à l’engrenage 2 vitesses et aux 20 positions de présélection de couple Couple maximal de 60 Nm (vissages durs) Lieferumfang: Embout de vissage double;Boîte carton",
-    "price": 50.51,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bosch-perceuse-visseuse-sans-fil-universaldrill-18v-60-performances-elevees-et-endurance-maximale-perc-universaldrill-18v-60-ec-outil-seul-3431296",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/V0qxl/3431296_1/re/1200x1200/qt/90/3431296_1.jpg",
-    "detected_at": "2026-10-12T19:04:38+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 50.51,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo gravel Lapierre Crosshill CF 7.0 – Tailles XS, S, M",
-    "description": "2 499€ - Private Sport Shop Pour changer des annonces Lapierre de Statera, gravel carbone avec transmission électronique Shimano GRX Di2 2x12V, à 2 499,99 €. Au programme : - Cadre et fourche carbone, freins à disque hydrauliques - Roues DT Swiss GR1600 Spline, pneus WTB Raddler 44 mm - Cintre carbone, selle Fizik Terra Argo X7 Bon à savoir : - Tailles disponibles XS, S et M - Livraison gratuite avec le code BIKE - Livraison estimée du 15 au 19 octobre",
-    "price": 2499.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/velo-gravel-lapierre-crosshill-cf-70-tailles-xs-s-m-3431295",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y2DOY/3431295_1/re/1200x1200/qt/90/3431295_1.jpg",
-    "detected_at": "2026-10-12T19:04:31+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 2499.0,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Robot Aspirateur laveur Roborock Qrevo Curv2 flow X",
-    "description": "481,44€ - Pixmania Le Roborock Qrevo Curv 2 FlowX est un aspirateur robot laveur de nouvelle génération. Optimisation possible avec Wildilo et 4% de cashback ce qui le ramène à 465€ environ. Et surtout c'est la version X avec des consommables fournis.",
-    "price": 481.44,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-roborock-qrevo-curv2-flow-x-3431294",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gXIR1/3431294_1/re/1200x1200/qt/90/3431294_1.jpg",
-    "detected_at": "2026-10-12T19:03:09+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 481.44,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Machine à café automatique Nescafé Dolce Gusto Mini Me 2 Krups KP143BF0 Gris Cosmique",
-    "description": "49,99€ - Amazon Vente flash dolce gusto À propos de ce produit Capsules NESCAFÉ Dolce Gusto pour votre machine à café Mini Me 2 (L 16,1 cm x P 23,2 cm x H 30,5 cm) Cette machine à café compacte et élégante s’intègre dans toutes les cuisines. Profitez de plus de 45 de vos boissons chaudes et froides préférées Mini Me 2 est fabriquée avec au moins 30 % de matériaux recyclés.30 % correspond à la quantité totale de matériaux recyclés utilisés dans la machine. Produit réparable : nous vous recommandons de faire réparer votre produit dans notre réseau de 6 200 centres de réparation à travers le monde afin de prolonger sa durée de vie. Commentaires client",
-    "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nescafe-dolce-gusto-mini-me-2-par-krups-gris-cosmique-machine-a-cafe-automatique-kp143bf0-3431291",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DRPh6/3431291_1/re/1200x1200/qt/90/3431291_1.jpg",
-    "detected_at": "2026-10-12T19:01:50+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "T-shirt petit logo Champion - Plusieurs tailles disponibles",
-    "description": "5€ - JD Sports Champion T-shirt petit logo Détails du produit: Le T-shirt Champion petit logo est un basique pour homme avec un petit logo sur la poitrine. caractéristiques du produit : Exclusivité JD Coupe classique Col rond côtelé Logo Champion sur la poitrine Lavable en machine",
-    "price": 5.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/champion-t-shirt-coupe-classique-3431292",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/aMhsB/3431292_1/re/1200x1200/qt/90/3431292_1.jpg",
-    "detected_at": "2026-10-12T19:00:40+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 5.0,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Clients VIP] 1 sachet de bonbons offert dès 20€ d'achats de produits Halloween",
-    "description": "GiFi GiFi : 1 sachet de bonbons OFFERT dès 20 € d'achats Halloween pour les clients VIP ! Halloween approche et GiFi a décidé de rajouter une petite dose de gourmandise dans nos paniers ! Du 13 au 26 octobre 2026, les clients VIP GiFi peuvent recevoir un sachet de bonbons gratuit dès 20 € d'achat de produits Halloween. Et le petit plus, c'est que l'offre est cumulable avec les promotions en cours ! De quoi profiter des réductions VIP sur les décorations, accessoires et autres articles Halloween, tout en repartant avec quelques bonbons pour les petits monstres… ou pour soi-même ! 20 € minimum d'achats de produits Halloween 1 sachet de bonbons offert Offre réservée aux clients VIP GiFi️ Seuil de 20 € calculé après déduction des remises VIP Cumulable avec les promotions en cours Du mardi 13 au lundi 26 octobre 2026 Dans la limite des stocks disponibles L'offre est disponible dans les magasins participants en France métropolitaine, mais également sur gifi.fr en Click & Collect. ⚠️ Quelques précisions importantes : pour les commandes Click & Collect, le retrait doit être effectué au plus tard le samedi 24 octobre 2026 pour bénéficier du cadeau. Le produit offert ne peut être ni repris ni échangé. Les magasins de Saint-Aunès, Poitiers-Croutelle et Chazelles ne participent pas à l'opération. Bref, si vous aviez prévu de faire un petit tour chez GiFi pour préparer Halloween, autant récupérer quelques bonbons au passage !",
-    "price": 20.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/clients-vip-1-sachet-de-bonbons-offert-des-20-eur-dachats-de-produits-halloween-3431290",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Bs0uz/3431290_1/re/1200x1200/qt/90/3431290_1.jpg",
-    "detected_at": "2026-10-12T18:58:24+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 20.0,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac à dos Cabine American Tourister Urban Track - 25x20x40cm, 24,5L, 0,5 Kg, Vert Kaki Foncé",
-    "description": "38,25€ - Amazon.es Sac à dos cabine American Tourister Urban Track en coloris vert kaki, proposé à 38,25 € au lieu du prix recommandé de 85 € sur Amazon Espagne. Avec son format compact de 40 × 25 × 20 cm, il est conçu pour se glisser sous le siège et garder ses affaires à portée de main pendant le voyage. Son volume de 24,5 L permet d’emporter l’essentiel pour une escapade de quelques jours, tandis que son poids d’environ 500 g évite d’alourdir inutilement le bagage. Un modèle pratique pour les déplacements en avion comme au quotidien, signé American Tourister. La fiche affiche une remise de 55 %. Au moment de la consultation, le sac était en stock et la livraison vers la France était indiquée à 5,36 €. Pensez à vérifier la variante sélectionnée, le tarif final et les règles de bagage cabine de votre compagnie avant de commander.",
-    "price": 38.25,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-cabine-american-tourister-urban-track-25x20x40cm-245l-05-kg-vert-kaki-fonce-3431289",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/juknn/3431289_1/re/1200x1200/qt/90/3431289_1.jpg",
-    "detected_at": "2026-10-12T18:57:50+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 38.25,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures de randonnée homme Quechua Arpenaz 500 Revival 2.0 Kaki",
-    "description": "31,99€ - Decathlon Ces chaussures de randonnée homme assurent adhérence et amorti grâce à leur semelle en élastomère (EVA). Elles offrent confort et légèreté sur les sentiers de campagne, de forêt ou du littoral. Amorti : Semelle intermédiaire en EVA garantissant un amorti confortable. Adhérence : Composition & design semelle favorisant l'adhérence sur sentiers pédestres. Confort d'accueil : Semelle intérieure en EVA de 5 mm | Pas de couture au talon. Accroche : Design de semelle et crampons de 4 mm permettant de facilement évacuer la boue. Résistance : Renforts avant et arrière en caoutchouc synthétique.",
-    "price": 31.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-quechua-de-randonnee-homme-arpenaz-500-revival-20-kaki-plusieurs-tailles-disponibles-3431286",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9yP5q/3431286_1/re/1200x1200/qt/90/3431286_1.jpg",
-    "detected_at": "2026-10-12T18:55:44+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 31.99,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Humble Bundle Cozy After Dark Showcase - 5 jeux PC dont Paradise Killer, Fear the Spotlight, Cabernet... à partir de 8,58 €",
-    "description": "8,58€ - Humble Bundle Un bundle thématique orienté enquêtes, aventures narratives, mystères et ambiance rétro/gothique modérée (\"cozy dark\"). L'offre propose 10 jeux PC au total répartis sur 2 paliers : Palier 1 (5 jeux) : environ 8,58 € Palier 2 (10 jeux) : environ 12,86 € ️ Sélection / Jeux inclus : Palier 1 : 5 jeux pour ~8,58 € Paradise Killer - https://store.steampowered.com/app/1160220/ - Prix sur Steam : 19,99 € Escape From Mystwood Mansion - https://store.steampowered.com/app/2292650/ - Prix sur Steam : 16,79 € a pet shop after dark - https://store.steampowered.com/app/1832160/ - Prix sur Steam : 7,99 € The Darkside Detective - https://store.steampowered.com/app/368390/ - Prix sur Steam : 14,99 € Kathy Rain: Director's Cut - https://store.steampowered.com/app/1395030/ - Prix sur Steam : 14,99 € Palier 2 : 10 jeux pour ~12,86 € (inclut le palier 1) Fear the Spotlight - https://store.steampowered.com/app/1959000/ - Prix sur Steam : 19,99 € Cabernet - https://store.steampowered.com/app/2401400/ - Prix sur Steam : 19,99 € Kulebra and the Souls of Limbo - https://store.steampowered.com/app/1806330/ - Prix sur Steam : 12,79 € Gloomy Eyes - https://store.steampowered.com/app/1111620/ - Prix sur Steam : 8,99 € Spooky Express - https://store.steampowered.com/app/1202860/ - Prix sur Steam : 4,99 € Jeux marquants : Paradise Killer : Un jeu d'enquête fantastique en monde ouvert très acclamé. Vous y incarnez Lady Love Dies dans une île paradisiaque décalée pour résoudre un meurtre. Une direction artistique démentielle et une excellente B.O. synthwave/city-pop. Fear the Spotlight : Un hommage vibrant aux jeux d'horreur/mystère des années 90 (style PS1), édité par Blumhouse Games. Un jeu axé sur l'ambiance et la résolution d'énigmes dans un lycée, sans jump scares intempestifs. The Darkside Detective & Kathy Rain: Director's Cut : Deux incontournables du genre Point & Click. Le premier brille par son humour absurde et ses enquêtes paranormales au format épisodique, le second par une narration captivante et plus sombre façon thriller des années 90.",
-    "price": 8.58,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/humble-bundle-cozy-after-dark-showcase-10-jeux-pc-steam-dont-paradise-killer-fear-the-spotlight-cabernet-a-partir-de-858-eur-3431284",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/PrivM/3431284_1/re/1200x1200/qt/90/3431284_1.jpg",
-    "detected_at": "2026-10-12T18:53:32+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 8.58,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
       }
     ]
   }
