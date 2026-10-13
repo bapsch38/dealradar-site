@@ -1,5 +1,125 @@
 [
   {
+    "title": "LEGO City Le Fourgon pénitentiaire 60479",
+    "price": 12.9,
+    "reference_price": 19.99,
+    "discount_percent": 35.47,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FPXDHCX5",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPXDHCX5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:17:12",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Initiv Patch épaule – Soulage ... – Boite de 3 patchs - Adultes",
+    "price": 10.2,
+    "reference_price": 15.99,
+    "discount_percent": 36.21,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CX2NSTYK",
+    "image_url": "https://m.media-amazon.com/images/P/B0CX2NSTYK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:17:10",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.2,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Pokémon Smart Play : L’Av...çons et Filles dès 7 Ans 72156",
+    "price": 22.99,
+    "reference_price": 29.99,
+    "discount_percent": 23.34,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GK7RPT8C",
+    "image_url": "https://m.media-amazon.com/images/P/B0GK7RPT8C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:17:08",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 22.99,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO ǀ Marvel Buste du Docteur... Cadeau pour Fan du Film 76345",
+    "price": 39.99,
+    "reference_price": 44.99,
+    "discount_percent": 11.11,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GGSBQKYV",
+    "image_url": "https://m.media-amazon.com/images/P/B0GGSBQKYV.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:17:07",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Creator 3-en-1 Le Dinosau...arçon ou Fille dès 8 Ans 31379",
+    "price": 17.34,
+    "reference_price": 24.99,
+    "discount_percent": 30.61,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FPXD9B3S",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPXD9B3S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:17:06",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 17.34,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CUISINE ROYALE +PATISSERIES PLAYMOBIL PLL71848",
+    "price": 20.69,
+    "reference_price": 29.52,
+    "discount_percent": 29.91,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DQVPDLMS",
+    "image_url": "https://m.media-amazon.com/images/P/B0DQVPDLMS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 12:17:02",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 20.69,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
     "title": "LEGO Botanicals Bouquet de Fleurs d'Olivia Rodrigo 11507",
     "price": 34.99,
     "reference_price": 42.99,
@@ -3156,6 +3276,111 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte Mère Soyo éternel B650ITX WiFi DDR5 AM5",
+    "description": "86,89€ - AliExpress Pour les amateurs de configurations compactes (SFF), voici une des rares options Mini-ITX sous socket AM5 sous la barre des 100-120 € selon les coupons actifs sur AliExpress. La Soyo SY-Eternal B650ITX (plateforme partagée avec Maxsun) propose une fiche technique surprenante pour son positionnement tarifaire, idéale pour monter un petit PC gaming à budget maîtrisé. Caractéristiques principales : Format : Mini-ITX (170 x 170 mm), PCB blanc / dissipateurs argentés Socket & Chipset : AMD AM5 / AMD B650 (compatible Ryzen 7000, 8000 et 9000) Mémoire : 2 slots DDR5 (jusqu'à 96 Go, profil EXPO/XMP supporté jusqu'à 6000+ MHz) Graphique / Extension : 1x port PCIe 5.0 x16 blindé Stockage : 1x slot M.2 NVMe PCIe 5.0 x4 en façade (avec dissipateur thermique) 1x slot M.2 NVMe PCIe 4.0 x4 au dos du PCB 4x ports SATA 6 Gb/s Réseau : Ethernet 2.5 Gb/s (Realtek RTL8125) + Wi-Fi 6 (802.11ax) & Bluetooth Connectique arrière : USB-C (10 Gbps), USB 3.2, USB 2.0, sorties DisplayPort 1.4 & HDMI 2.0, bouton Clear CMOS Éclairage : Connecteurs ARGB 5V 3 broches",
+    "price": 86.89,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/carte-mere-amd-soyo-b650itx-3431689",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/O4rZt/3431689_1/re/1200x1200/qt/90/3431689_1.jpg",
+    "detected_at": "2026-10-13T12:07:48+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 86.89,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot Aspirateur Laveur Roborock Q10 S5 - LiDAR, 10 000PA (Vendeur Roborock)",
+    "description": "98,99€ - Amazon Vient de baisser à 109,99€ (dernier deal Amazon à 119,99€ ), passe à 98,99€ avec le code RRQ10S5 > Vendeur Roborock > Livraison gratuite Description Aspiration Ultra-puissante de 10 000 Pa : Le dernier aspirateur robot roborock Q10 S5 offre une aspiration puissante de 10 000 Pa pour ramasser efficacement la poussière, les miettes, les poils d'animaux et les débris des sols durs et des tapis, pour un nettoyage en profondeur et une maison impeccable. Nettoyage sans Enchevêtrement : Équipé d'une brosse principale anti-emmêlement JawScrapers Comb et d'une brosse latérale en arc, l'aspirateur robot laveur glisse sans effort à travers les poils d'animaux et les longues mèches sans s'encrasser, pour une expérience de nettoyage sans tracas. Système de Serpillères VibraRise 2.0 : Le système de nettoyage avancé de l'robot laveur de sol offre une fréquence de vibration de 3 000 tours par minute et une vibration active à deux zones pour éliminer facilement les taches tenaces et réduire les traces d'eau. Ce module serpillères se soulève également automatiquement de 8 mm pour nettoyer les tapis à poils courts et assurer un nettoyage en profondeur. Navigation LiDAR PreciSense : Le système de navigation LiDAR effectue un balayage à 360° et crée simultanément des cartes détaillées pour une navigation optimale. Le robot aspirateur laveur mémorise également plusieurs cartes jusqu'à 4 étages pour un nettoyage impeccable sur chaque étage, sans manquer une seule zone. Évitement d'obstacles Reactive Tech : Alimenté par Reactive Tech avec lumière structurée, le robot aspirateur laveur détecte et contourne les obstacles sans effort, même dans les pièces encombrées où les objets sont éparpillés sur le sol. Il identifie aussi intelligemment les zones interdites, comme les escaliers ou les espaces restreints, pour éviter de rester bloqué et assurer un nettoyage ininterrompu. Durée du Nettoyage de Toute la Maison : Conçu pour une couverture complète de la maison, le robot laveur et aspirateur est doté d'un réservoir haute capacité de 200 ml pour un balayage prolongé jusqu'à 130㎡, tandis que l'aspiration atteint 180㎡ sur une seule charge. Avec 150 minutes d'autonomie continue, il offre un nettoyage ininterrompu pour les grands espaces, se rechargeant et reprenant automatiquement pour s'assurer qu'aucun endroit n'est oublié.",
+    "price": 98.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-roborock-q10-s5-lidar-10-000pa-vendeur-roborock-3431688",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/52ZFb/3431688_1/re/1200x1200/qt/90/3431688_1.jpg",
+    "detected_at": "2026-10-13T12:06:11+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 98.99,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Manette de Jeu GameSir X3 Pro - refroidisseur intégré, bouton turbo, Joysticks & Gâchettes à Effet Hall, USB-C, Jack 3,5 mm, iOS & Android",
+    "description": "47,93€ - Alibaba Bon prix pour cette manette de jeu mobile (y) (attention dans de rares cas, il est possible que la remise sur les frais de port ne s'applique pas chez vous. Nous travaillons actuellement avec Alibaba pour mieux comprendre les raisons.) Description & caractéristiques Refroidisseur intégré aide à maintenir la température optimale du dispositif, améliorant les performances et évitant le surchauffage pendant des sessions de jeu prolongées. Bouton turbo qui permet des actions rapides et répétitives, donnant aux joueurs un avantage compétitif dans les jeux rapides. Contrôleur mobile GameSir X3 Pro USB-C avec support pour téléphone : Le GameSir X3 Pro est un contrôleur mobile avancé qui combine une précision de contrôle avec un système de refroidissement efficace, offrant des conditions optimales pour de longues sessions de jeu. Grâce à sa connexion USB-C intégrée et mobile, le contrôleur est compatible avec les appareils Android et la série iPhone 15. Il prend en charge les smartphones d'une longueur comprise entre 110 et 180 mm,qui le rend compatible avec la plupart des téléphones modernes. Technologie de contrôle avancée : Le contrôleur est équipé de sticks analogiques GameSir™ à effet Hall, qui nt des mouvements précis sans dérive, ainsi que des boutons de déclenchement réactifs avec des micro-interrupteurs, offrant un temps de réponse rapide. La fonction Turbo permet d'appuyer automatiquement et de manière répétée sur les boutons, et le gyroscope 6 axes intégré améliore la précision du contrôle dans les jeux qui nécessitent le mouvement de l'appareil. Conception ergonomique et durabilité : Le GameSir X3 Pro pèse 322,2 g, et ses dimensions compactes de 207,46 x 93,27 x 57,38 mm le rendent confortable à tenir, même pendant de longues sessions. De plus, le contrôleur ne nécessite pas de source d'alimentation propre, puisant son énergie directement du smartphone connecté, qui permet une utilisation pratique sans avoir à charger un appareil supplémentaire. Détails techniques : Fabricant : GameSir Modèle x3 pro blue Plateformes compatibles : iPhone série 15, Android Connexion : Type-C intégré et mobile Sticks GameSir™ à effet Hall Déclencheurs : Micro-interrupteurs réactifs Fonction Turbo : Oui Moteur de vibration : Oui Gyroscope 6 axes : Oui Longueur du téléphone compatible : 110-180 mm Poids net du produit : 322.2g",
+    "price": 47.93,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/manette-de-jeu-gamesir-x3-pro-refroidisseur-integre-bouton-turbo-joysticks-gachettes-a-effet-hall-usb-c-jack-35-mm-ios-android-3431687",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KcQPU/3431687_1/re/1200x1200/qt/90/3431687_1.jpg",
+    "detected_at": "2026-10-13T12:05:33+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 47.93,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fontaine à Eau Flamingo Finto - Beige, 2,5L, Plastique, Pompe Super Silencieuse, Arrêt Auto, Filtre Charbon Actif & Résine",
+    "description": "15,90€ - Amazon Très bon prix ! Fontaine à eau pour chat d’une capacité de 2,5L, idéale pour fournir de l’eau fraîche en continu. Conçue en plastique résistant pour un usage intérieur quotidien. Adaptée à tous les chats et à toutes les tailles. Munie d’une pompe super silencieuse avec arrêt automatique lorsque l’eau vient à manquer. Fonctionne en toute discrétion pour un environnement calme. Comprend un filtre combiné au charbon actif et résine pour filtrer efficacement l’eau et réduire les impuretés. À remplacer tous les 21 jours pour conserver une eau fraîche. Indicateur lumineux intégré pour surveiller facilement le niveau d’eau. Fonctionne avec câble USB de 150 cm pour un branchement pratique dans différentes pièces. Structure stable avec surface antidérapante pour un usage sûr au quotidien. Non compatible lave-vaisselle, entretien facile à la main.",
+    "price": 15.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fontaine-a-eau-chat-flamingo-finto-beige-25l-plastique-pompe-super-silencieuse-arret-auto-filtre-charbon-actif-et-resine-3431686",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Syefp/3431686_1/re/1200x1200/qt/90/3431686_1.jpg",
+    "detected_at": "2026-10-13T12:05:15+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 15.9,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de Société Le Temple de Feu",
+    "description": "9,99€ - Smyths Toys Fonctionnalités clés Un jeu de plateau mêlant stratégie et compétition Le joueur qui remporte le plus d'or gagne la partie Nombre de joueurs : 2 à 6 Contenu : 1x jeu de plateau Temple du Feu",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-le-temple-de-feu-3431683",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/a4UpX/3431683_1/re/1200x1200/qt/90/3431683_1.jpg",
+    "detected_at": "2026-10-13T12:01:49+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T12:17:54.931172+00:00"
       }
     ]
   },
@@ -8777,7 +9002,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 44.99,
@@ -8798,7 +9023,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 65.95,
@@ -8819,7 +9044,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 29.99,
@@ -8840,7 +9065,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 1040.8,
@@ -8861,7 +9086,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 180.0,
@@ -8882,7 +9107,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 79.99,
@@ -8903,7 +9128,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 103.99,
@@ -8924,7 +9149,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 79.95,
@@ -8945,7 +9170,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 79.95,
@@ -8966,7 +9191,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T12:17:48.315662+00:00",
     "price_history": [
       {
         "price": 13.49,
@@ -9758,132 +9983,6 @@
     "price_history": [
       {
         "price": 99.0,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Billet de Train Eurostar de Paris pour Anvers à 35€ (70€ Aller/Retour) - Plusieurs dates Ex : 3 Décembre 2026",
-    "description": "35€ - Eurostar Billets de train Eurostar Paris - Anvers - dès 35€ (Ex : plusieurs dates en décembre et janvier) Une sélection de billets de train Eurostar pour effectuer le trajet Paris - Anvers est actuellement disponible à partir de 35€ l'aller simple pour voyager en décembre 2026 et janvier 2027. Il s'agit du tarif de base le plus bas proposé sur cette ligne, principalement accessible sur des créneaux en milieu de semaine. Pour le trajet aller Paris vers Anvers, le tarif à 35€ est disponible les jeudi 3 et jeudi 10 décembre 2026, ainsi que les mardi 12, mercredi 13, mardi 19, mercredi 20, jeudi 21, mardi 26 et mercredi 27 janvier 2027. Pour le trajet retour Anvers vers Paris, le tarif de 35€ est proposé les jeudi 3 et lundi 7 décembre 2026, puis les mardi 5, samedi 9, lundi 11, mardi 12, mardi 19, mercredi 20, mardi 26 et mercredi 27 janvier 2027. Les autres dates affichent des prix débutant à 50€ l'aller simple, avec des tarifs plus élevés sur les week-ends et la période des fêtes. Lien direct : https://www.eurostar.com/FR-FR/find-lowest-fares Prix : 35 € Code promo : Aucun",
-    "price": 35.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/billet-de-train-eurostar-de-paris-pour-anvers-a-35eur-70eur-allerretour-plusieurs-dates-ex-3-decembre-2026-3431315",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/d5jpx/3431315_1/re/1200x1200/qt/90/3431315_1.jpg",
-    "detected_at": "2026-10-12T19:29:58+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 35.0,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Marvel Quinjet Avengers Doomsday - 76347",
-    "description": "45,99€ - Cdiscount • Entraînez les enfants, fans de véhicules impressionnants et des films Marvel, dans une infinité d’aventures imaginatives avec les minifigurines de Cyclope, Docteur Doom, La Chose et Captain America, à bord du Quinjet Avengers : Doomsday (76347), un cadeau pour garçons et filles de 9 ans et plus. Les jeunes constructeurs.trices pourront jouer et exposer ce superbe jeu de construction de super-héros incluant 2 fusils à tenons à l’avant, un cockpit qui s’ouvre pour accueillir une minifigurine de pilote, ainsi que des panneaux supérieur et arrière qui s’ouvrent pour accéder à l’intérieur de l'avion. La minifigurine de Docteur Doom porte une capuche et une cape en tissu et tient 2 blasters. La Chose a une tête en rocher et 2 gros poings, et Captain America déploie ses ailes pliables et son bouclier mythique. Les enfants créent en toute confiance avec les instructions numériques de l’appli LEGO Builder et ses outils de zoom, rotation des maquettes en 3D et suivi de la progression.",
-    "price": 45.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-marvel-quinjet-avengers-doomsday-76347-3431312",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/i4rB1/3431312_1/re/1200x1200/qt/90/3431312_1.jpg",
-    "detected_at": "2026-10-12T19:24:26+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 45.99,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "20% de réduction sur toutes les dates de la tournée Balavoine , Ma Bataille",
-    "description": "49,60€ La tournée hommage à Daniel Balavoine repart en Novembre 2026 avec des musiciens historiques de Daniel Balavoine et des chanteurs issus de la nouvelle génération avec notamment Roland Karl , Nour , Aurélien Vivos , Odem et bien d'autres talents . Reduction de 20% sur les places en carré or et Cat 1. Reduction valable sur fnac , ticketmaster etc.... Les dates de la tournée : https://aaorganisation.trium.fr/fr/s/balavoinemabataille?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAU6EwBleHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp_vIjJoPVdxWqZkmWaAQW2UsnBnrRfrI9S3nwxn9jWaGo7b7B8mdYXiRCtUO_aem_wxQHidGfQ4Hzxq3nV8z1_w",
-    "price": 49.6,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/20-de-reduction-sur-toutes-les-dates-de-la-tournee-balavoine-ma-bataille-3431311",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/uXrTu/3431311_1/re/1200x1200/qt/90/3431311_1.jpg",
-    "detected_at": "2026-10-12T19:23:52+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 49.6,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de chemises homme Bexley en fins de série – De 22 € à 27 €",
-    "description": "Bexley Belle sélection de chemises homme Bexley en fins de série, avec de nombreux modèles disponibles à prix réduit sur le site de la marque. On retrouve aussi bien des chemises habillées pour le bureau que des modèles plus décontractés pour le quotidien, avec différentes matières : coton, lin, popeline, Oxford, flanelle, chambray ou encore velours. Quelques modèles présents dans la sélection : Chemise AIGNAN en jersey 100 % coton, bleu ciel ou navy foncé Chemise SILBERT en coton et lin, différents coloris Chemise ALEXANDER en flanelle, chocolat chiné ou camel Chemise BRADFORD III en Oxford rose Chemise MAXIMILIEN en popeline rayée Chemise WAYNE en velours 100 % coton Chemise TOMMY en popeline bleu ciel, coupe confort Chemise ALBERT blanche en coton, avec poche poitrine La sélection comprend 101 références dans la catégorie chemises ajustées et 26 dans la catégorie chemises confort. Plusieurs coupes sont proposées, notamment ajustée, ajustée raccourcie et confort. On trouve également différents types de cols : français, italien et américain. À savoir : Offre fins de série, avec stocks limités Plusieurs références en exclusivité Internet Tailles et coloris disponibles selon les modèles Livraison offerte dès 99 € d'achat 30 jours pour changer d'avis Les disponibilités varient selon les références, donc pensez à vérifier les tailles directement sur chaque fiche produit.",
-    "price": 27.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-chemises-homme-bexley-en-fins-de-serie-de-22-eur-a-27-eur-3431303",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/uVxQO/3431303_1/re/1200x1200/qt/90/3431303_1.jpg",
-    "detected_at": "2026-10-12T19:21:05+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 27.0,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "34% de Remise sur une Sélection de Smartphones Realme",
-    "description": "E.Leclerc Promotion dans les magasins Leclerc en France les 16 et 17 octobre sur les smartphones Realme. Disponible directement en magasin ou via Click and Collect. Ex : Realme 16 Pro 5G 8/256 Gris à 283,14€",
-    "price": 283.14,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/journee-star-34-de-remise-sur-une-selection-de-smartphones-realme-ex-realme-16-pro-5g-8256-a-28314eur-3431310",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DSSxU/3431310_1/re/1200x1200/qt/90/3431310_1.jpg",
-    "detected_at": "2026-10-12T19:21:01+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 283.14,
-        "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chargeur USB C Baseus Enercore - 100 W avec câble Extensible, 3 Ports GaN, Chargeur Rapide PD (Vendeur Tiers)",
-    "description": "28,28€ - Amazon ⚡ Chargeur 3-en-1 100W avec câble USB-C rétractable – USB-C / USB-A Chargeur compact 3-en-1 de 100W, équipé d'un câble USB-C rétractable intégré. Pratique pour recharger plusieurs appareils sans avoir à transporter plusieurs chargeurs ou câbles. Caractéristiques : - ⚡ Puissance maximale de 100W pour la charge rapide des smartphones, tablettes et ordinateurs portables compatibles. - 3 solutions de charge avec câble USB-C rétractable intégré et ports USB-C / USB-A. - Répartition intelligente de la puissance selon les appareils connectés. - Câble USB-C rétractable, testé pour résister à 30 000 cycles d'étirement. - Large compatibilité : MacBook Air, smartphones Android, iPhone, iPad, consoles Nintendo Switch, appareils DJI, etc. - ️ Gestion thermique avec graphène et structure de dissipation de chaleur 3D. - Format compact, idéal pour les déplacements, le bureau ou les voyages. Les petits plus : - Pas besoin de transporter un câble USB-C supplémentaire. - Possibilité de recharger plusieurs appareils simultanément. - Puissance adaptée automatiquement aux appareils connectés. - Câble intégré pour limiter l'encombrement. À noter : les 100W correspondent à la puissance maximale annoncée. La puissance disponible peut varier selon le nombre d'appareils branchés.",
-    "price": 28.28,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baseus-enercore-chargeur-usb-c-100-w-avec-cable-extensible-3-ports-gan-chargeur-rapide-pd-3431307",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/E0Goj/3431307_1/re/1200x1200/qt/90/3431307_1.jpg",
-    "detected_at": "2026-10-12T19:16:57+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 28.28,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
       }
     ]
