@@ -1,5 +1,25 @@
 [
   {
+    "title": "Technaxx Zusatzkamera Easy Security Camera Set TX-28 schwar",
+    "price": 56.99,
+    "reference_price": 73.99,
+    "discount_percent": 22.98,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00NP5XPR2",
+    "image_url": "https://m.media-amazon.com/images/P/B00NP5XPR2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 16:08:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 56.99,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      }
+    ]
+  },
+  {
     "title": "Siemens 5TE6800 – Base schuko dIN vDE 0620 – 1 16 a 230 VAC",
     "price": 15.05,
     "reference_price": 25.89,
@@ -111,7 +131,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:08:54.464624+00:00",
     "price_history": [
       {
         "price": 21.99,
@@ -131,7 +151,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:08:54.464624+00:00",
     "price_history": [
       {
         "price": 29.32,
@@ -3576,6 +3596,10 @@
       {
         "price": 23.74,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
+      },
+      {
+        "price": 23.74,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -3596,6 +3620,10 @@
       {
         "price": 25.43,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
+      },
+      {
+        "price": 25.43,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -3616,6 +3644,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -4240,6 +4272,111 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini PC SOYO M5 Air, Ryzen 3 4300U, 16 Go LPDDR4-4266, SSD 512 Go, triple screen, Wifi 5 & BT 5.0, Windows 11",
+    "description": "196,01€ - AliExpress Note préalable : il est disponible moins cher, mais non dealable faute de stock suffisant ici et là . (embarrassedflame) En outre, si vous poussez à 239€ dans votre cabas, avec WOFR29, ce qu'ajouté sera à moitié prix. (whistleflame) En ces temps de famine technologique, je propose ici un Ryzen somme toute modeste, puisqu'il ne surclasse un N150 que de +37% en multi, et +21% en single thread . Il surclasse le 3500U également, proposé en deal Amazon, même si moindrement. (laughflame) Cela dit, il suffira amplement pour de la bureautique ou un mini serveur. :) Si par contre l'aspect streaming / transcodage vous titille, je ne saurais que trop vous tourner vers le LarkBox X . ☝️ Certes plus cher, mais disposant du bloc media engine Intel, et d'un support pipeline plus conséquent qu'un N150, le rendant d'autant plus intéressant. Il est en outre près de deux fois plus puissant que ce 4300U. Bref, faites selon vos besoins et votre budget. ⚙️ Synthèse Processeur : AMD Ryzen 3 4300U 4 cores physiques non-multithreadés Fréquence de base : 2,7 GHz Fréquence turbo maximale : 3,7 Ghz TDP nominal : 15W cTDP de 12-25W Des informations plus détaillés sur sa fiche TechPowerUp pour les curieux. Circuit graphique : Vega 5 (5 CU) N'attendez outre mesure faire du jeu dessus, sauf pixel art et autres jeux 2D. Voire anciens et légers jeux 3D. L'IGP n'est pas taillé pour ça sans quoi. Mémoire vive : 16 Go de LPDDR4-4266 MT/s ( soudée ) Mémoire donc non-extensible ou amovible Stockage : 1 x SSD de 512 Go en M.2 2280 1 x slot M.2 2280 de libre L'un des slots est en Nvme PCIe 3.0 4x / SATA, l'autre uniquement en PCIe 3.0 4x. En dépit de mes recherches, je n'ai pas pu fixer ce qu'il en était. Et pour cause, en contactant finalement le revendeur, il m'a été dit que « le fabricant ne précise pas explicitement dans quel slot est installé le SSD préconfiguré ». Voir la fin de l'échange en dernière image du deal. Connexions réseaux : 1 Gb Ethernet Wifi 5 & Bluetooth 5.0 * Je ne peux m'avancer ni sur les contrôleurs, ni sur le fait que celui sans-fil soit embarqué sur un module M.2 2230 amovible. Et ce, malgré toutes mes recherches... (cryflame) Ports USB : 6 x USB \"3.0\" ( entendre par là 3.2 Gen1x1 à 5 Gb/s ) Type-A : 4 à l'arrière, deux en façade 1 × USB \"3.2\" ( 5 ou 10 Gb/s, Alt DP Mode ) Type-C à l'avant Impossible de savoir ce qu'il en est de l'USB-C. Là encore, la dénomination rend vaine toute tentative de trancher. Sauf concernant le 20 Gb/s, qui sur un tel produit est exclu. Connectiques d'affichage : 1 x HDMI 2.0 TMDS annoncés jusqu'à 4K@60Hz 1 x DisplayPort en 1.4 annoncés jusqu'à 4K@60Hz 1 x USB Type-C avec DisplayPort Alt Mode* * Je n'ai pas pu déterminer s'il embarquait bien le même support DP que le port DP natif. Donc il pourrait ne pas atteindre les mêmes fréquences, ni le nombres de lignes négociés. Ceci dit, le 4K@60 Hz sur l’USB‑C paraît hautement probable au vu des sources croisées, mais l’absence de fiche technique officielle détaillant ce port ne permet pas d’exclure totalement le 4K@30Hz. Alimentation par port DC et adaptateur secteur 19V/3,42A (65W) fourni 1 x prise combo jack 3,5 mm à l'avant ️ Support Vesa fourni Windows Pro 11 préinstallé Dimensions : L115 x P110 x H36 mm Poids : Indéfini. Sûrement entre 400 et 600g. ⚖️ Des bisous les loulous! Et n'hésitez pas à rejoindre la horde des \"1300\" ( déjà ! ). Et comme « si on termine sans banane, c'est qu'on a raté quelque chose d'essentiel » : la banane reste offerte à l'adhésion ! A vous la horde de juger ! Soyez commode, et d'une grande clémence. #ref Note concernant les réseaux sans fil Je l'ai déjà dit, mais un module Wifi - Bluetooth en M.2, ça se change potentiellement . Donc, pour peu qu'il s'agisse d'un module M.2 2230, et si vous voulez du Wifi 7, ce serait alors possible. Vérifiez, et pensez-y. ;) On peut alors envisager du MediaTek MT7925 : compatibilité validée avec AMD, et déjà utilisée sur des plateformes Asus X870. Voire son grand frère le MT7927. Atten",
+    "price": 196.01,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m5-air-ryzen-3-4300u-16-go-lpddr4-4266-ssd-512-go-triple-screen-wifi-5-bt-50-windows-11-3431833",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/An5EJ/3431833_1/re/1200x1200/qt/90/3431833_1.jpg",
+    "detected_at": "2026-10-13T16:05:21+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 196.01,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 lampes-tempête à pétrole Lunartec Anika - 24 cm, aspect zinc (bronze disponible)",
+    "description": "25,95€ - Pearl Prix conseillé : 39,90 € – Prix actuel : 25,95 € le lot de 2 lampes. Livraison à partir de 3,99 € en point relais, soit 29,94 € livraison comprise . Également disponibles : Version zinc, 24 cm : 25,95 € les 2 lampes , en quantité limitée. Version bronze, 24 cm : 27,95 € les 2 lampes , soit 2 € supplémentaires, avec une réduction affichée de 30 %. Version zinc à l’unité : 14,95 € , avec une réduction affichée de 35 %. Présentation Ce lot comprend deux lampes-tempête à pétrole Lunartec Anika , au design rétro inspiré des lanternes traditionnelles. D’une hauteur de 24 cm, elles permettent de profiter d’un éclairage à flamme réelle sans avoir besoin d’électricité, de piles ou de batterie. Elles peuvent notamment être utilisées pour créer une ambiance chaleureuse sur une terrasse, dans un jardin ou lors de soirées en extérieur. Leur conception associe une structure métallique, un globe en verre transparent et une grille de protection. La finition zinc leur donne un aspect argenté classique, tandis que la version bronze propose une esthétique plus ancienne. Caractéristiques techniques Fonctionnement sans électricité Les lampes utilisent un combustible adapté aux lampes à pétrole et une mèche pour produire une flamme naturelle. Le système fonctionne de manière entièrement mécanique, sans alimentation électrique. Flamme réglable Une molette permet d’ajuster la hauteur de la mèche et donc l’intensité de la flamme. Le mécanisme de levier facilite l’accès à la mèche et au globe en verre. Réservoir individuel de 180 ml Chaque lampe possède un réservoir métallique à paroi épaisse, avec système de fermeture à vis. Cette capacité permet une utilisation prolongée, selon le combustible utilisé et le réglage de la flamme. Structure métallique avec protection Le globe en verre est entouré d’une armature métallique destinée à protéger la flamme des courants d’air. Une poignée supérieure permet de transporter ou de suspendre la lampe lorsqu’elle est éteinte et refroidie. Dimensions et poids Hauteur : 24 cm. Largeur : 16 cm. Profondeur : 11,6 cm. Poids : environ 340 g par lampe. Capacité du réservoir : 180 ml. Dimensions de la mèche : 130 × 10,5 × 2 mm. Matériaux : métal et verre. Coloris : zinc ou bronze. Contenu du lot Le pack comprend : 2 lampes-tempête Lunartec Anika. 4 mèches. 2 entonnoirs de remplissage. 1 notice d’utilisation en français. Les mèches sont remplaçables, ce qui permet de prolonger la durée d’utilisation des lampes. Disponibilité et livraison Version zinc : quantité limitée, actuellement disponible. Version bronze : en stock , avec une livraison annoncée sous 1 à 3 jours. Livraison en point relais Colissimo ou Chronopost à partir de 3,99 €. Retrait gratuit possible dans les magasins Pearl, sous réserve de disponibilité locale. Informations complémentaires Ces lampes sont particulièrement adaptées à un usage décoratif, notamment pour les terrasses, les jardins, les soirées en extérieur ou les ambiances vintage. Elles peuvent également constituer un éclairage d’appoint lorsqu’aucune alimentation électrique n’est disponible. Elles ne sont toutefois pas conçues pour chauffer une pièce et ne doivent pas être utilisées comme système de chauffage. Comme tout appareil fonctionnant avec une flamme nue, elles nécessitent une surveillance permanente, une surface stable et un éloignement des matériaux inflammables. Référence du lot zinc : ZX1260-110. Référence du lot bronze : NC9357-110. Les lampes-tempête rétro \"Anika\" sont idéales pour créer une atmosphère conviviale avec une véritable flamme. *spécifications du produit :* - Lot de 2 lampes-tempête - Hauteur : 24 cm - Fonctionnement à pétrole - Aspect zinc - Sans électricité",
+    "price": 25.95,
+    "reference_price": 39.9,
+    "discount_percent": 35.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-lampes-tempete-a-petrole-lunartec-anika-24-cm-aspect-zinc-bronze-disponible-3431831",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NNrN9/3431831_1/re/1200x1200/qt/90/3431831_1.jpg",
+    "detected_at": "2026-10-13T15:57:27+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 25.95,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sneaker Puma Club II Era Mixte - Taille 37 à 48",
+    "description": "32,95€ - Amazon Plusieurs tailles et modèles disponibles",
+    "price": 32.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/puma-club-ii-era-sneaker-mixte-3431832",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/etQJU/3431832_1/re/1200x1200/qt/90/3431832_1.jpg",
+    "detected_at": "2026-10-13T15:54:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 32.95,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Amigo: Kebab Simulator sur PC (Dématérialisé)",
+    "description": "5,39€ - Steam ALORS C'EST TOP NIVEAU JUSTE POUR SE MARER UN PEU Quand j'ai vu ça je me suis dit ... pourquoi pas ? Puis j'adore les kebab !!! quoique ça peut servir de formation pas cher non ? Ami ! J'ai besoin de votre aide pour gérer mon entreprise Kebab, m'occuper de passer les commandes, garder l'endroit propre, servir correctement les clients, essayer d'avoir des avis positifs, améliorer l'endroit Et, méfiez-vous de ceux de la santé !",
+    "price": 5.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/amigo-kebab-simulator-3431829",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/04jFx/3431829_1/re/1200x1200/qt/90/3431829_1.jpg",
+    "detected_at": "2026-10-13T15:53:09+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.39,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini Pc Soyo S4 plus - Ryzen 7 H255 / 24go LPDDR5 / 512go SSD",
+    "description": "369,99€ - AliExpress Modèle déjà publié à plusieurs reprises. Bon prix (je n'ai pas dit extraordinaire) me semble-t-il, sans coupon. Si une bonne âme en connaît un pour encore faire baisser le prix, je suis preneur... Et pour toutes les questions techniques, vous avez les deals de @poetemaudit !",
+    "price": 369.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/soyo-s4-plus-mini-ryzen-7-h255-24go-lpddr5-512go-ssd-3431830",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mznSR/3431830_1/re/1200x1200/qt/90/3431830_1.jpg",
+    "detected_at": "2026-10-13T15:52:51+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 369.99,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -10349,211 +10486,6 @@
       {
         "price": 503.0,
         "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pull Col Roulé Uniqlo - 100% Laine Mérinos, Rouge, Vert ou Gris, Tailles du XS au 3XL",
-    "description": "14,90€ - Uniqlo 100 % laine mérinos premium pour une brillance et une douceur ultimes. Encore quelques tailles disponibles Entretien facile : lavable en machine*, traitement anti-bouloches. *Nous vous recommandons de le retourner et de le placer dans un filet à linge. Mailles côtelées variées sur les manches et l'ourlet. La hauteur du col et la taille des côtes ont été pensées pour vous offrir un confort optimal. Composition des matériaux et instructions d'entretien Détails du tissu 100% Laine Instructions de lavage Lavage en machine sur cycle délicat à une température maximale de 40 °C, Lavage à sec, Ne convient pas au séchage en machine.",
-    "price": 14.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pull-col-roule-100-laine-merinos-uniqlo-plusieurs-tailles-et-couleurs-disponibles-3412812",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3GdvK/3412812_1/re/1200x1200/qt/90/3412812_1.jpg",
-    "detected_at": "2026-10-13T07:22:19+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 14.9,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Sur Inscription / Seniors 60 et +] Formation gratuite Premiers Secours Citoyen (PSC) par la Croix-Rouge - Aiglun (04)",
-    "description": "Le CCAS de Comaiglun organise une Formation Gratuite Premiers Secours Citoyen (PSC). Dispensée par la Croix-Rouge et à destination des 60 Ans et +, elle aura lieu le Jeudi 15 Octobre 2026 de 08h à 17h (Salle Rochette) Prévoir le repas du midi. Information et Inscription dès à présent au 04.92.34.62.37 ou mairie@commune-aiglun04.fr Infos",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/seniors-60-et-formation-gratuite-premiers-secours-citoyen-psc-par-la-croix-rouge-aiglun-04-3431482",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bU0rj/3431482_1/re/1200x1200/qt/90/3431482_1.jpg",
-    "detected_at": "2026-10-13T07:17:14+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
-  },
-  {
-    "title": "TV 75\" 4K Ultra HD Ambilight Philips (75PUS9010/12) - 4K, Smart TV Wi-Fi, Gris (via coupon)",
-    "description": "814,64€ - JoyBuy Points forts du produit PHILIPS 75PUS9010/12 - téléviseur QLED 4K Ultra HD de 75 pouces Ambilight (3 côtés), taux de rafraîchissement natif de 144 Hz Moteur d'image P5 Perfect Picture, Dolby Vision, HDR10+, HLG Smart TV Titan OS avec Wi-Fi 5, Bluetooth 5.2, prise en charge Matter Son Dolby Atmos intégré, 4× HDMI 2.1 (eARC), VESA 300×300 mm",
-    "price": 814.64,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-75-4k-ultra-hd-ambilight-philips-4k-smart-tv-wi-fi-75pus901012-gris-via-coupon-3431477",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/fNwPk/3431477_1/re/1200x1200/qt/90/3431477_1.jpg",
-    "detected_at": "2026-10-13T07:14:49+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 814.64,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coffret de Jeu Zuru Mini Brands Magic Cook Kitchen Playset Series 1 - 46P x 12l x 29H",
-    "description": "39,99€ - Amazon Ce coffret de jeu ZURU Mini Brands Magic Cook Kitchen Playset Series 1 vous invite à la découverte d'une cuisine miniature étonnamment réaliste, où chaque élément semble prendre vie pour des heures de jeu imaginatif. C'est l'occasion de s'improviser grand chef avec un espace de travail tout équipé, proposé par Amazon. *Contenu** : Cuisine miniature entièrement assemblée avec évier, lave-vaisselle, cuisinière, hotte, four et mini accessoires (ustensiles, poulet). *Fonctionnalités interactives** : Robinet à eau fonctionnel, lave-vaisselle opérationnel et cuisinière à vapeur pour simuler la cuisson. *Four** : Ouvre et ferme, avec fonction UV pour changer la couleur du mini poulet inclus. *Dimensions** : Environ 30 cm (H) x 48 cm (L) x 11 cm (P). *Alimentation** : Fonctionne avec 3 piles AAA (non incluses). *Âge** : Dès 3 ans. C'est un playset qui promet une immersion totale dans l'univers des miniatures, parfait pour les jeunes chefs en herbe ou les collectionneurs. À propos de ce produit Découvrez la magie de la vraie cuisine : découvrez la seule mini cuisine qui cuisine, cuit à la vapeur et lave réellement, donnant vie à votre univers Mini Brands ! Élément de cuisinière « vapeur » fonctionnel : Placez un mini aliment sur la cuisinière et regardez-le « cuire » et mijoter à la vapeur pour un jeu culinaire réaliste. Robinet et lave-vaisselle fonctionnels : Inclut un véritable robinet qui fait couler de l'eau et un lave-vaisselle fonctionnel pour nettoyer après vos mini festins. Cuisez un mini poulet au four : Le mini four classique s'ouvre et se ferme, parfait pour y placer votre poulet Mini Brands et vous amuser à le faire rôtir. Créez votre univers culinaire miniature ultime : combinez le coffret avec vos articles alimentaires préférés et votre réfrigérateur Mini Brands pour créer une scène culinaire miniature complète et immersive. Commentaires client",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coffret-de-jeu-zuru-mini-brands-magic-cook-kitchen-playset-series-1-3431481",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/K4GCm/3431481_1/re/1200x1200/qt/90/3431481_1.jpg",
-    "detected_at": "2026-10-13T07:14:48+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "T-Shirt polo Ralph Lauern 100% Coton coupe ajustée - Bleu marine (du S au XXL)",
-    "description": "39€ - BAZARCHIC Bon prix ! :) Lien vers toute la sélection . T-shirt Polo Ralph Lauren à 39€ au lieu de 85€. Confectionné en 100% coton , il présente une coupe ajustée, un col rond et le célèbre logo Polo brodé sur la poitrine. Coloris : bleu marine (Navy) Composition : 100% coton Coupe : ajustée Tailles : du S au XXL",
-    "price": 39.0,
-    "reference_price": 85.0,
-    "discount_percent": 54.1,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/t-shirt-polo-ralph-lauern-100-coton-coupe-ajustee-personnalise-bleu-marine-du-s-au-xxl-3431480",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rxBQo/3431480_1/re/1200x1200/qt/90/3431480_1.jpg",
-    "detected_at": "2026-10-13T07:14:30+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 39.0,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gants Moto Cruising Fastway City Uni 211 - Tailles du XS au 3XL",
-    "description": "19,99€ - Louis Des gants solides tout en cuir pour les fans de rétro et les amateurs de cruising te sont proposés par Fastway. Les Fastway City Uni 211 sont très stylés et vont parfaitement bien avec les tenues de motards urbains. Et ils sont certifiés en tant que véritables gants de moto. Des inserts extensibles sur les doigts offrent en outre une grande liberté de mouvement et une conduite agréable à moto. Confort/équipement entièrement en cuir inserts extensibles sur les doigts réglage de la largeur au poignet par bande velcro matériau dessus et dessous de la main en cuir de chèvre doublure légère (100 % polyester) Tests certifiés selon la norme EN 13594:2015 Fabricant : Detlev Louis Motorrad-Vertriebsgesellschaft mbH | Rungedamm 35 | 21035 Hamburg | Allemagne | Tel. 00 49 (0) 40 - 734 193 60 | service@louis.de | louis.de",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gants-moto-cruising-fastway-city-uni-211-tailles-du-xs-au-3xl-3431479",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FBW8C/3431479_1/re/1200x1200/qt/90/3431479_1.jpg",
-    "detected_at": "2026-10-13T07:13:49+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection d'Articles en Promotion - Ex : Chaussures Puma Magnify Nitro 3 - Vert, Tailles 40, 42, 42,5 ou 44",
-    "description": "59,99€ - Private Sport Shop Surface : Route et chemin lisse Foulée : Universelle Amorti : Max Recommandées pour : pronateurs neutres Drop : 10mm Entraînement, toutes distances, Durabilité : Environ 800km Poids : 260 g (EU 42) SPÉCIFICITÉS : Tige : Basse Semelle intérieure : PROFOAM LITE : EVA extrêmement léger conçu pour amortir la pose du pied et propulser chaque pas Semelle intermédiaire : Mousse NITRO™ : Technologie innovante de mousse infusée d'azote légère et fournit une énergie explosive foulée après foulée. La mousse PROFOAM assure stabilité et résistance PWRPLATE : plaque en fibre de carbone conçue pour stabiliser la semelle intermédiaire tout en maximisant le transfert d’énergie",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sslection-darticles-en-promotion-ex-chaussures-de-running-puma-magnify-nitro-3-homme-vert-taille-40-42-425-et-44-3431478",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RAnUk/3431478_1/re/1200x1200/qt/90/3431478_1.jpg",
-    "detected_at": "2026-10-13T07:13:47+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mèche Plate Bois WorkPro - 8 Pièces (Vendeur Tiers)",
-    "description": "20,99€ - Amazon MatériauAcier au carbone Type de finitionAcier Type de tigeHex Corde à angle de coupe60 Degrés MarqueWORKPRO Type de cannelure de l'outilSpirale 【Trois points uniques pour un perçage rapide】Coupe nette et rapide à percer --- L'ensemble de forets à bois Workpro adopte un design unique à trois points, bord de coupe triangulaire qui dépasse aux deux extrémités de la tête, ce qui aide à pénétrer rapidement dans le bois pour une meilleure efficacité de perçage. Les forets avec rainures permettent une évacuation rapide des copeaux, augmentent la vitesse de perçage et permettent d'obtenir des coupes nettes. 【Robuste et durable】Nos ensembles de forets à bêche sont fabriqués en acier structurel au carbone de qualité, qui a les caractéristiques de haute résistance, de dureté et d'élasticité. La dureté peut atteindre HRC48 après traitement thermique, ce qui offre une longue durée de vie. 【Lot de 8 forets à bêche 】La taille est marquée sur chaque foret et étui, de sorte que vous pouvez facilement trouver la bonne taille dans une paire de embouts. Taille universelle : Ø 12 / 16 / 18 / 20 / 22 / 25 / 28 / 32 mm. Longueur totale : 150 mm. Convient à tous les types de liège et bois dur ainsi que le PVC et les plastiques. 【Arbre hexagonal à changement rapide】La tige hexagonale de 6,35 mm prend en charge un remplacement rapide et est adaptée à la plupart des machines de perçage sur le marché. Les rainures sur la tige hexagonale offrent un excellent couple antidérapant, empêchant le mandrin de glisser. 【Facile à ranger et à transporter】Il est livré avec un étui de rangement portable et chaque emplacement pour carte est marqué avec des échelles de taille pour un accès facile et un remettre en ordre, parfait pour garder les outils organisés et portables dans différents lieux de travail. Commentaires client",
-    "price": 20.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/workpro-meche-plate-bois-8-pieces-3431476",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/95xba/3431476_1/re/1200x1200/qt/90/3431476_1.jpg",
-    "detected_at": "2026-10-13T07:13:13+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 20.99,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jogging Active Ultra Stretch Uniqlo - gris, taille XS à XXL",
-    "description": "12,90€ - Uniqlo Le tissu ultra-extensible s'étire dans toutes les directions pour faciliter les mouvements Doté de la technologie « DRY-EX » à séchage rapide. Tissu « AIRism » doux pour un confort optimal. Poche passepoilée au niveau des hanches. Convient aussi bien pour le sport que pour un usage quotidien. Modèle de jogging à la coupe épurée. Détails des fonctions - Transparence: Opaque - Coupe: Slim - Silhouette: Fuselé - Poches: Avec poches Détails du tissu [03 GRAY, 08 DARK GRAY] Corps: 42% Élastomultiester, 33% Polyester - Fibre Recyclée, 25% Polyester/ Tissu Des Poches: 100% Polyester [09 BLACK, 31 BEIGE, 68 BLUE] Corps: 67% Élastomultiester, 33% Polyester - Fibre Recyclée/ Tissu Des Poches: 100% Polyester",
-    "price": 12.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jogging-active-ultra-stretch-uniqlo-gris-taille-xs-a-xxl-3421416",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vOY9Y/3421416_1/re/1200x1200/qt/90/3421416_1.jpg",
-    "detected_at": "2026-10-13T07:11:54+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 12.9,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pied à coulisse numérique PMCD A1 ou Rapporteur d'angle numérique Parkside PWSD A1 (Pile CR2032 incluse)",
-    "description": "7,99€ - Lidl Fermeture : Vis de blocage Pied à coulisse numérique « PMCD A1 » et rapporteur d'angle numérique « PWSD A1 » : Deux outils de mesure de précision pour des mesures exactes de longueur et d'angle dans l'atelier et le domaine du bricolage. Valeurs de mesure précises jusqu'à une résolution de 0,01 mm Fixation de la valeur mesurée par vis de blocage pour un report sûr Grand écran LC pour une lecture rapide même par faible luminosité Étui rigide et pile CR2032 inclus pour une utilisation immédiate Démarrage rapide (Quick-Start) et arrêt automatique (Auto-Off) pour un fonctionnement économe en énergie PARKSIDE® Pied à coulisse numérique PMCD A1 / Rapporteur d'angle numérique PWSD A1 Précision pour l'atelier et les loisirs Le pied à coulisse numérique et le rapporteur d'angle numérique fournissent des résultats de mesure précis pour les dimensions intérieures, extérieures et de profondeur ainsi que pour les angles intérieurs et extérieurs. Avec une plage de mesure de 0 à 150 mm pour le pied à coulisse et de 0 à 360° pour le rapporteur d'angle, les composants, les pièces à usiner et les situations d'installation peuvent être saisis de manière fiable. La fine résolution de 0,01 mm ou 0,1° garantit que les petits écarts restent perceptibles, ce qui réduit la tolérance aux erreurs lors des travaux d'ajustement et augmente la qualité du travail. Confort et prise en compte sûre des valeurs mesurées Les deux appareils disposent d'un écran LC bien lisible et d'une vis de blocage qui facilite la fixation de la valeur mesurée. Le réglage du zéro dans n'importe quelle position permet des mesures comparatives et l'affichage de valeurs négatives, ce qui simplifie les processus de mesure répétés. La molette du pied à coulisse permet un guidage sensible, de sorte que les résultats de mesure restent reproductibles et plus faciles à transférer. Gestion de l'énergie et fonctions pratiques La fonction d'arrêt automatique intégrée prolonge la durée de vie des piles, tandis que la fonction de démarrage rapide active automatiquement les appareils après un mouvement. Cette combinaison garantit un temps de réponse court avec des fonctionnalités complètes et évite une consommation inutile de piles. La possibilité de changer l'unité de longueur entre millimètres et pouces permet d'utiliser le pied à coulisse de manière flexible, sans conversions supplémentaires. Domaines d'application et groupe cible Les outils de mesure conviennent aussi bien aux bricoleurs qu'aux amateurs et aux professionnels de l'artisanat qui recherchent des aides précises et faciles à manipuler. Qu'il s'agisse de réparations, de construction de meubles ou de travaux de micromécanique, les appareils soutiennent le travail quotidien avec des résultats de mesure clairs et une manipulation robuste. misez sur la précision PARKSIDE® : procurez-vous le kit de mesure pour des résultats de mesure fiables à chaque projet et profitez d'une utilisation simple ainsi que d'une fixation sécurisée des valeurs mesurées Propriétés Plage de mesure et précision Le pied à coulisse couvre 0 à 150 mm avec une résolution de 0,01 mm, le rapporteur d'angle mesure de 0 à 360° avec une précision de 0,1°. Ces valeurs permettent des ajustements fins et des contrôles précis, de sorte que les composants peuvent être ajustés en toute sécurité et les tolérances considérablement réduites. Utilisation et lisibilité Les deux instruments disposent d'un grand écran LC et d'une utilisation intuitive ; la fonction de zéro dans n'importe quelle position ainsi que la molette du pied à coulisse facilitent la manipulation. Cela permet d'effectuer les séries de mesures plus rapidement et de minimiser les erreurs de mesure lors de la lecture. Fixation et transfert des valeurs mesurées La vis de blocage assure une fixation sûre du résultat de mesure, de sorte que les transferts sur des pièces ou des croquis sont possibles sans nouvelle mesure. Cette propriété est particulièrement utile lors de mesures de contrôle répétées",
-    "price": 7.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pied-a-coulisse-numerique-pmcd-a1-ou-rapporteur-dangle-numerique-parkside-pwsd-a1-pile-cr2032-incluse-3431473",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/TdlZJ/3431473_1/re/1200x1200/qt/90/3431473_1.jpg",
-    "detected_at": "2026-10-13T07:10:07+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 7.99,
-        "observed_at": "2026-10-13T07:12:33.878873+00:00"
       }
     ]
   }
