@@ -1,5 +1,225 @@
 [
   {
+    "title": "Pure Moment Réveil de Chevet e...euse, Affichage Réglable) Noir",
+    "price": 89.99,
+    "reference_price": 109.72,
+    "discount_percent": 17.98,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D7GWJQX1",
+    "image_url": "https://m.media-amazon.com/images/P/B0D7GWJQX1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:30:03",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "MAIMERI Classico - Set Débutan...couleurs à l'huile super fines",
+    "price": 42.97,
+    "reference_price": 48.09,
+    "discount_percent": 10.65,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00SRKIDTA",
+    "image_url": "https://m.media-amazon.com/images/P/B00SRKIDTA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:30:02",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 42.97,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CORSAIR SF750 (2024) Alimentat...pport SFX-to-ATX Inclus – Noir",
+    "price": 124.9,
+    "reference_price": 164.9,
+    "discount_percent": 24.26,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D5HY3F9X",
+    "image_url": "https://m.media-amazon.com/images/P/B0D5HY3F9X.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:30:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 124.9,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tristar Set à fondue1,5 L pour...laboussures, facile à nettoyer",
+    "price": 26.99,
+    "reference_price": 36.99,
+    "discount_percent": 27.03,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07JK6XRF3",
+    "image_url": "https://m.media-amazon.com/images/P/B07JK6XRF3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:58",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Philips Hue Flux extérieur 5m ...Commande vocale et via l'appli",
+    "price": 124.19,
+    "reference_price": 149.99,
+    "discount_percent": 17.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FJNCR1B6",
+    "image_url": "https://m.media-amazon.com/images/P/B0FJNCR1B6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:56",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 124.19,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tristar WF-1170 Gaufrier à cor... Moule à cornet inclus - 700 W",
+    "price": 19.99,
+    "reference_price": 30.89,
+    "discount_percent": 35.29,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07TS8JPBY",
+    "image_url": "https://m.media-amazon.com/images/P/B07TS8JPBY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Joydeco Ensemble de 2 Rideaux ...(Blanc grisâtre, 132 x 241 cm)",
+    "price": 26.21,
+    "reference_price": 48.24,
+    "discount_percent": 45.67,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CLJ88HN4",
+    "image_url": "https://m.media-amazon.com/images/P/B0CLJ88HN4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:52",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 26.21,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy Coque Officiell...avec Support pour S24 FE, Gris",
+    "price": 24.37,
+    "reference_price": 31.55,
+    "discount_percent": 22.76,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DDQKKQX1",
+    "image_url": "https://m.media-amazon.com/images/P/B0DDQKKQX1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:51",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.37,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "JBL Flip Essential 3, Enceinte...onomie Jusqu’à 12 Heures, Noir",
+    "price": 69.99,
+    "reference_price": 118.93,
+    "discount_percent": 41.15,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GL3FXQ5B",
+    "image_url": "https://m.media-amazon.com/images/P/B0GL3FXQ5B.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:50",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jabra Evolve 20 SE Casque stér...sive du Bruit – USB-C/A – Noir",
+    "price": 45.0,
+    "reference_price": 54.0,
+    "discount_percent": 16.67,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DX7D5B6R",
+    "image_url": "https://m.media-amazon.com/images/P/B0DX7D5B6R.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 45.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mufasa : The Lion King (Original Motion Picture Soundtrack)",
+    "price": 9.99,
+    "reference_price": 16.99,
+    "discount_percent": 41.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DL3FQYV6",
+    "image_url": "https://m.media-amazon.com/images/P/B0DL3FQYV6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:29:39",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
     "title": "Perel Thermoventilateur, pour ..., 3 niveaux de chauffe, 2000 W",
     "price": 63.99,
     "reference_price": 77.55,
@@ -3396,6 +3616,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -3416,6 +3640,10 @@
       {
         "price": 13.19,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 13.19,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -3436,6 +3664,10 @@
       {
         "price": 11.0,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 11.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -3456,6 +3688,10 @@
       {
         "price": 15.12,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 15.12,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -3476,6 +3712,10 @@
       {
         "price": 12.37,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 12.37,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -3496,6 +3736,10 @@
       {
         "price": 38.62,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 38.62,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -3516,6 +3760,10 @@
       {
         "price": 6.59,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 6.59,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -3536,6 +3784,10 @@
       {
         "price": 749.0,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 749.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -4311,7 +4563,7 @@
     "title": "Ferplast Niche en Plastique po..., 74 x 48 xh 25 CM, Gris Clair",
     "price": 24.99,
     "reference_price": 34.7,
-    "discount_percent": 27.98,
+    "discount_percent": 28.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DK3NGTMC",
     "image_url": "https://m.media-amazon.com/images/P/B0DK3NGTMC.01._AC_SL1500_.jpg",
@@ -4319,7 +4571,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 24.99,
@@ -4335,7 +4587,7 @@
     "title": "Arcos Couteau Mondador - Lame ...propylène Fuchsia - Série 2900",
     "price": 10.95,
     "reference_price": 21.04,
-    "discount_percent": 47.96,
+    "discount_percent": 48.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B071HVWLMS",
     "image_url": "https://m.media-amazon.com/images/P/B071HVWLMS.01._AC_SL1500_.jpg",
@@ -4343,7 +4595,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 10.95,
@@ -4359,7 +4611,7 @@
     "title": "Hella 9XW 358 164-261 Easy Set...rection à Gauche - avant - Kit",
     "price": 14.99,
     "reference_price": 22.06,
-    "discount_percent": 32.05,
+    "discount_percent": 32.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09S61KJ2X",
     "image_url": "https://m.media-amazon.com/images/P/B09S61KJ2X.01._AC_SL1500_.jpg",
@@ -4367,7 +4619,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 14.99,
@@ -4383,7 +4635,7 @@
     "title": "Bosch 1x Rouleau abrasif EXPERT C470",
     "price": 51.38,
     "reference_price": 60.39,
-    "discount_percent": 14.92,
+    "discount_percent": 14.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B094188F1M",
     "image_url": "https://m.media-amazon.com/images/P/B094188F1M.01._AC_SL1500_.jpg",
@@ -4391,7 +4643,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 51.38,
@@ -4407,7 +4659,7 @@
     "title": "SONAX E-BIKE Spray pour chaîne...ffet hydrofuge | Réf: 08721000",
     "price": 10.49,
     "reference_price": 18.33,
-    "discount_percent": 42.77,
+    "discount_percent": 42.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01NBYE07K",
     "image_url": "https://m.media-amazon.com/images/P/B01NBYE07K.01._AC_SL1500_.jpg",
@@ -4415,7 +4667,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 10.49,
@@ -4431,7 +4683,7 @@
     "title": "Pied de micro court avec trépi...che télescopique 2 points Noir",
     "price": 41.0,
     "reference_price": 52.79,
-    "discount_percent": 22.33,
+    "discount_percent": 22.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B016MMTNWU",
     "image_url": "https://m.media-amazon.com/images/P/B016MMTNWU.01._AC_SL1500_.jpg",
@@ -4439,7 +4691,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 41.0,
@@ -4455,7 +4707,7 @@
     "title": "Hape - Kit de Démarrage pour E...struction - Atelier Jeu Enfant",
     "price": 26.02,
     "reference_price": 35.23,
-    "discount_percent": 26.14,
+    "discount_percent": 26.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0837JDX1C",
     "image_url": "https://m.media-amazon.com/images/P/B0837JDX1C.01._AC_SL1500_.jpg",
@@ -4463,7 +4715,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 26.02,
@@ -4479,7 +4731,7 @@
     "title": "BRIO World - 33630 - Locomotiv...ur garçons et filles dès 3 ans",
     "price": 25.99,
     "reference_price": 31.9,
-    "discount_percent": 18.53,
+    "discount_percent": 18.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B000FUTQN2",
     "image_url": "https://m.media-amazon.com/images/P/B000FUTQN2.01._AC_SL1500_.jpg",
@@ -4487,7 +4739,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 25.99,
@@ -4503,7 +4755,7 @@
     "title": "Aiguillage gauche",
     "price": 17.98,
     "reference_price": 27.22,
-    "discount_percent": 33.95,
+    "discount_percent": 33.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B000H5V1V0",
     "image_url": "https://m.media-amazon.com/images/P/B000H5V1V0.01._AC_SL1500_.jpg",
@@ -4511,7 +4763,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 17.98,
@@ -4527,7 +4779,7 @@
     "title": "Kärcher 2.863-356.0 Buse en plastique",
     "price": 26.99,
     "reference_price": 33.49,
-    "discount_percent": 19.41,
+    "discount_percent": 19.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CZ451RHB",
     "image_url": "https://m.media-amazon.com/images/P/B0CZ451RHB.01._AC_SL1500_.jpg",
@@ -4535,7 +4787,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
     "price_history": [
       {
         "price": 26.99,
@@ -5432,6 +5684,321 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Resident evil 3 remake - PS4 (+ mise a jour PS5)",
+    "description": "14,49€ - TradeInn Hello, Resident evil 3 sur PS4 à bon prix. Mise à jour gratuite vers version PS5 (Perso je préfère toujours la version PS4 dans ce cas pour pouvoir jouer sur les 2 consoles et la double liste de trophée )",
+    "price": 14.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/resident-evil-3-remake-ps4-mise-a-jour-ps5-3431909",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/iXnqX/3431909_1/re/1200x1200/qt/90/3431909_1.jpg",
+    "detected_at": "2026-10-13T18:28:35+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 14.49,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot Aspirateur Laveur Ecovacs Deebot T90 Pro Omni",
+    "description": "392€ - Amazon.it Bonsoir la communauté, voici un bon prix pour ce robot aspirateur Ecovacs Deebot T90 pro Omni ! Voici quelques points de la description: OZMO ROLLER 3.0: Lave à l'eau propre et recueille l'eau sale. Avec 3 800 Pa, 200 tr/min et un rouleau de 27 cm, il élimine saleté et poussière quotidienne. Lavage à 100 °C: La station lave à 75 °C et sèche à 45 °C, dissout les graisses et prévient les contaminations. Le vidage automatique réduit l'entretien. BLAST 40 000 Pa: Aspire poussière, miettes et poils des sols et tapis. ZeroTangle 4.0 réduit l'emmêlement, l'élévation de 15 mm garde les tapis secs. TruEdge 3.0: Le rouleau s'étend de 1,5 cm pour atteindre murs et bords. Le patin en feutre protège meubles et plinthes. Navigation: dToF LiDAR et TrueDetect 3D cartographient et évitent les obstacles. Le corps de 95 mm franchit des seuils de 20 mm et atteint les espaces bas. Entretien automatique: La station OMNI lave, sèche et vide. Il suffit de lancer le nettoyage. Voici le lien vers la page complète du produit sur le site du fabricant: https://www.ecovacs.com/fr/shop/deebot-robotic-vacuum-cleaner/deebot-t90-pro-omni-white 【Auto-nettoyage instantané OZMO ROLLER 3.0 avec TruEdge 3.0】 OZMO ROLLER 3.0 est doté d'un rouleau allongé de 27 cm pour une couverture 50 % plus large. Sa pompe à air haute performance alimente un système d'auto-nettoyage sous pression à 32 jets qui élimine les saletés tenaces. Le patin effectue jusqu'à 200 tr/min pour éviter les traces. Doté de la technologie TruEdge 3.0, incluant un rouleau suspendu à coussin d'air avec une portée étendue de 1,5 cm et une bande en feutre souple, il glisse le long des bords pour un nettoyage parfait d'un mur à l'autre, protégeant ainsi vos meubles en douceur. 【Recharge PowerBoost : Autonomie en continu intelligente】 Équipant exclusivement le T90 PRO OMNI, la technologie révolutionnaire PowerBoost permet des augmentations de puissance ultra-rapides. Son algorithme d'auto-optimisation gère la puissance de manière dynamique, restaurant 10 % de batterie en seulement 3 minutes pendant les intervalles de nettoyage du patin. Cela permet une couverture de nettoyage véritablement ininterrompue jusqu'à 500 m² par tâche, même aux réglages maximum, ce qui en fait la solution idéale pour les grandes maisons et le nettoyage en continu de toute la maison. 【Aspiration BLAST de 30 000 Pa avec optimisation du niveau sonore global】 Le système BLAST optimisé fournit une puissance d'aspiration de 30 000 Pa et un flux d'air de 16 L/s pour un ramassage de 100 % des gros débris. Le T90 PRO OMNI est doté d'une technologie de réduction de bruit globale qui abaisse considérablement le volume sonore de fonctionnement tout en maintenant une puissance de nettoyage maximale, pour un nettoyage plus silencieux qui ne perturbe pas votre vie quotidienne. 【TruePass 4 roues motrices et technologie AIVI 3D 4.0 Omni-Approach 】 Le TruePass avec 4 roues motrices adaptatives utilise un mécanisme purement mécanique pour déployer instantanément des roues d'ascension auxiliaires, franchissant une seule marche de 2,4 cm de hauteur maximum et plusieurs marches jusqu'à 4 cm de hauteur. Renforcé par l'AIVI 3D 4.0 et un modèle sémantique avancé, il identifie intelligemment les bords sûrs pour un nettoyage précis tout en maintenant une distance sûre avec les objets instables tels que les câbles, garantissant ainsi une navigation minutieuse et sans obstacle. 【Triple Lift avec séparation précise sec-humide et AI Instant Re-Mop 2.0】 Le système intelligent Triple Lift s'adapte automatiquement à la situation : il soulève le patin sur les tapis et moquettes, soulève les brosses en cas d'éclaboussures de liquides et rétracte la brosse latérale lorsqu'il rencontre des gros débris. AI Instant Re-Mop 2.0 détecte différents types de taches et effectue deux passages croisés pour un nettoyage en profondeur, puis un rinçage automatique du patin évite toute contamination croisée et des résultats hygiéniques. 【Fresh-Flow Power Washing",
+    "price": 392.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-ecovacs-deebot-t90-pro-omn-3431908",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ije7D/3431908_1/re/1200x1200/qt/90/3431908_1.jpg",
+    "detected_at": "2026-10-13T18:28:23+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 392.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Technic F1 Oracle Red Bull Racing RB20 42206",
+    "description": "143,99€ - Carrefour Imaginez le rugissement des moteurs tandis que vous construisez votre maquette LEGO Technic F1 Oracle Red Bull Racing RB20 (42206). Lancez-vous dans le montage de cette voiture de F1 à l'échelle 1/8 arborant la livrée caractéristique de l'écurie, des pneus imprimés et des détails réalistes. Dirigez la voiture à l'aide du bouton sur le toit ou du volant dans le cockpit, puis testez ses suspensions avant et arrière. Observez la boîte à 2 vitesses et le différentiel et retirez le capot pour voir le moteur V6 à pistons mobiles. Ensuite, réglez l'aileron pour reproduire le système DRS et exposez votre maquette pour rendre hommage à votre passion pour la F1. Détendez-vous en plongeant dans la création de véhicules haute performance avec la collection de sets de véhicules LEGO Technic pour adultes (vendus séparément). Profitez au mieux de vos sets avec l'appli LEGO Builder, où vous pouvez zoomer, faire pivoter vos modèles 3D, suivre votre progression et enregistrer vos sets. Dimensions – Ce set comprend une voiture de F1 LEGO qui mesure plus de 14 cm de haut, 63 cm de long et 24 cm de large",
+    "price": 143.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-technic-f1-oracle-red-bull-racing-rb20-42206-3431907",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/HBF8r/3431907_1/re/1200x1200/qt/90/3431907_1.jpg",
+    "detected_at": "2026-10-13T18:28:04+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 143.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Précommande] Pikmin 4 Switch 2 Edition + Academie Dandori",
+    "description": "59,99€ - Cultura Compatible Switch 2 uniquement. Voici les nouveautés par rapport à la version Switch 1 : Graphismes améliorés : Le jeu tourne désormais jusqu'en résolution 4K sur le téléviseur, offrant des détails bien plus nets sur les Pikmin et les décors. Le mode Académie Dandori : Cette extension incluse propose 72 stages de défis chronométrés inédits , ajoutés au rythme de 6 par mois. Elle intègre des examens hebdomadaires (du vendredi au dimanche) où vous n'avez qu'un seul essai officiel pour décrocher une médaille. Commandes vocales pour Otchin : Vous pouvez utiliser le micro de la console pour dicter 9 ordres vocales différents directement à votre chien sauveteur Otchin, comme lui demander de rassembler les Pikmin ou de rapporter un trésor. Multijoueur étendu : Les duels Dandori intègrent les fonctions GameShare et GameChat . Vous pouvez ainsi affronter un ami en ligne avec le chat vocal, ou jouer en multijoueur local sans fil avec un seul exemplaire du jeu (même si votre ami joue sur une Switch de première génération). Mise à niveau version Switch 1 : Les joueurs possédant déjà la version Switch originale pourront passer à cette nouvelle version pour 9,99 € .",
+    "price": 59.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/precommande-pikmin-4-switch-2-edition-academie-dandori-3431906",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BDapS/3431906_1/re/1200x1200/qt/90/3431906_1.jpg",
+    "detected_at": "2026-10-13T18:27:44+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 59.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Metro Exodus à 2.99€ - Gold à 3.99€ sur PC (Dématérialisé)",
+    "description": "2,99€ - GOG Metro Exodus sur Gog sans DRM en promo. Version gold a 3.99€ Nous sommes en 2036. Vingt-cinq ans après qu'une guerre nucléaire a dévasté la Terre, quelques milliers de survivants s'accrochent à la vie sous les ruines de Moscou, dans les tunnels du métro. Ces âmes en peine ont affronté les radiations, combattu créatures mutantes et horreurs d'un autre monde, et même souffert des affres de la guerre civile. Vous incarnez Artyom. Échappez-vous du métro et menez un groupe de rangers tout au long d'une aventure s'étendant sur tout un continent dans une Russie post-apocalyptique en quête d'une nouvelle vie à l'est. Créé par 4A Games, Metro Exodus est un jeu de tir à la 1re personne axé sur la narration, qui mélange affrontements brutaux et infiltration avec exploration et survival horror dans un univers ultra-immersif. Explorez les terres sauvages de la Russie dans des niveaux non linéaires et suivez une histoire captivante qui s'étend sur une année entière, allant du printemps jusqu'au plus profond de l'hiver nucléaire. Inspiré des romans de Dmitry Glukhovsky, Metro Exodus poursuit l'histoire d'Artyom dans le meilleur titre de la saga à ce jour. Caractéristiques Embarquez pour une incroyable aventure - montez à bord de l'Aurora, une locomotive largement modifiée, et joignez-vous à une poignée de survivants en quête d'une nouvelle vie à l'est Survie en monde ouvert - un scénario poignant associe la jouabilité de la série Metro classique à de nouveaux environnements non linéaires Monde magnifique et hostile - découvrez les terres sauvages de la Russie post-apocalyptique, sublimées par un cycle jour/nuit et un climat dynamique Combat brutal et infiltration - récupérez ce que vous pouvez sur le terrain, fabriquez votre propre arsenal artisanal et affrontez vos adversaires, humains comme mutants, lors de combats à couper le souffle Les décisions sont lourdes de conséquences - tous vos compagnons ne vont pas s'en sortir ; avec vos choix qui influent sur le sort de vos camarades, l'histoire offre de nombreuses heures de rejouabilité Atmosphère et immersion sans précédent - la flamme vacillante d'une bougie dans le noir, le râle irrégulier de votre souffle à travers votre masque à gaz pris par le givre, le cri d'un mutant au cœur de la nuit ; Metro revient plus immersif et terrifiant que jamais.",
+    "price": 2.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/metro-exodus-gog-sans-drm-gold-a-399eur-3431905",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZM1P0/3431905_1/re/1200x1200/qt/90/3431905_1.jpg",
+    "detected_at": "2026-10-13T18:27:28+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Billet de train Ouigo Grande Vitesse Aix-en-Provence pour Paris dès 16€ - Plusieurs dates Ex : 4 Novembre 2026",
+    "description": "16€ - SNCF Connect Billet de train OUIGO Grand Speed Aix-en-Provence TGV vers l'Île-de-France - Dès 16€ (Plusieurs dates ex : 4/11 et 25/11) Billet de TGV OUIGO Grande Vitesse au départ d'Aix-en-Provence TGV à destination de la région parisienne (Paris Roissy-CDG 2 Airport ou Paris Marne-la-Vallée - Chessy - Disneyland). Disponible pour des trajets en novembre, notamment le mercredi 4 novembre de 16h43 à 19h51 et le mercredi 25 novembre de 18h42 à 22h02. https://www.sncf-connect.com/home/shop/results/outward Prix : 16€ D'autres billets de train disponible à partir de 19€ aussi donc n'hésiter pas à chercher sur le site de la sncf.",
+    "price": 16.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/billet-de-train-ouigo-grande-vitesse-aix-en-provence-pour-paris-des-16eur-plusieurs-dates-ex-4-novembre-2026-3431904",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jCJuX/3431904_1/re/1200x1200/qt/90/3431904_1.jpg",
+    "detected_at": "2026-10-13T18:25:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 16.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque sans fil Sennheiser Momentum 4 - Noir",
+    "description": "180,50€ - Amazon.de Casque sans fil Sennheiser Momentum 4 Wireless Copper Edition (ANC, 60h d’autonomie, aptX Adaptive) – 184,65 € (livraison incluse) @ Prix : 179 € Frais de port : 5,65 € Prix de référence : 212 € chez Amazon.fr (399,90 € prix catalogue Sennheiser) Description : Le Sennheiser Momentum 4 Wireless en version spéciale Copper (noir avec finitions cuivrées sur les coques et l’arceau) passe à 179 € chez Amazon Allemagne , soit 184,65 € livré en France . Le même modèle est à 212 € sur Amazon.fr, donc environ 27 € d’économie en passant par le .de. Caractéristiques principales : Transducteurs 42 mm, son signature Sennheiser Réduction de bruit active adaptative + mode transparence Jusqu’à 60 h d’autonomie (charge rapide : 10 min ≈ 6 h d’écoute) Bluetooth 5.2, multipoint (2 appareils) Codecs SBC, AAC, aptX Adaptive Écoute filaire via jack ou USB-C Commandes tactiles, détection de port (pause automatique) Égaliseur et réglages via l’app Sennheiser Smart Control Étui de transport fourni Points à savoir : Pliage à plat uniquement (pas repliable) ANC très bon mais un cran en dessous des Bose QC Ultra / Sony XM5-XM6",
+    "price": 180.5,
+    "reference_price": 212.0,
+    "discount_percent": 14.9,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sennheiser-momentum-4-wireless-copper-edition-3431903",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1AnZw/3431903_1/re/1200x1200/qt/90/3431903_1.jpg",
+    "detected_at": "2026-10-13T18:23:12+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 180.5,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jouet Lego Jurassic World 76968 Exclu Cdiscount Les Fossiles de Dinosaures : le Tyrannosaurus Rex",
+    "description": "194,99€ - Cdiscount",
+    "price": 194.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-jurassic-world-76968-exclu-cdiscount-les-fossiles-de-dinosaures-le-tyrannosaurus-rex-pour-adulte-3431901",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5ZGZc/3431901_1/re/1200x1200/qt/90/3431901_1.jpg",
+    "detected_at": "2026-10-13T18:20:07+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 194.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de société Exploding Kittens - Edition Festive",
+    "description": "9€ - Librairie Molière Exploding kittens, c'est Higlander avec des chatons : à la fin, il ne peut en rester qu'un. Dans Exploding Kittens, vous avez le droit d'avoir tout un tas de cartes en main. Quand vient votre tour, vous pouvez en jouer autant que vous voulez, pour faire les pires crasses à vos amis. Attendez-vous à des effets de cartes violents et stupides, on n'est pas là pour se faire des papouilles ! Quelle que soit votre décision, vous devrez de toute façon piocher une carte et serrer les coussinets pour ne pas tomber sur une carte « Exploding Kittens ». Si c’est le cas, vous avez perdu. Vous pouvez laper un bol de mojito-croquette, tout en admirant les illustrations foutraques et déjantées qui ont fait la renommée de ce petit jeu d'un mauvais goût assumé, en attendant qu'un seul joueur survive à ce déploiement de violence gratuite. Voilà, vous êtes prêts à perdre vos amis. (En même temps, on vous avait prévenu.)",
+    "price": 9.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-exploding-kittens-edition-festive-3431898",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/lHbw7/3431898_1/re/1200x1200/qt/90/3431898_1.jpg",
+    "detected_at": "2026-10-13T18:15:01+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TV 55\" Samsung 55S85H 2026 - OLED, 4K UHD, Smart TV",
+    "description": "899,99€ - JoyBuy Synthèse de l'offre Modèle : Samsung QE55S85HAEXXH (Gamme 2026) — 55\" (139,7 cm) Prix : 999,99 € (au lieu de 1 299,99 €, soit 23 % de réduction) Financement : À partir de 93 €/mois ou paiement en 3x sans frais via Klarna Avantages Joybuy : Jusqu'à 1 000 points Joybuy gagnés (ou 0,74 € d'économie immédiate) Livraison : Gratuite, dès demain Garantie & Services : 2 ans constructeur, retours gratuits sous 30 jours, assistance 24/7 Caractéristiques clés du produit Écran & Image : Dalle OLED 4K Ultra HD (3 840 × 2 160 pixels) de 55 pouces. Traitement HDR et gestion dynamique des couleurs/noirs. Fréquence & Fluidité : Dalle native 100 Hz avec technologie Motion Xcelerator pour la fluidité des mouvements. Gaming : Prise en charge d'AMD FreeSync Premium. Smart TV & Audio : Système Smart TV intégré avec accès aux applications de streaming et système sonore adaptatif. Connectique : 4 ports HDMI et 2 ports USB. Dimensions & Consommation : Poids de 13,40 kg, classe énergétique F. Fabrication : Fabriqué en Corée du Sud. Avis clients Aucun avis client n'est encore disponible pour ce modèle sur la fiche.",
+    "price": 899.99,
+    "reference_price": 1299.99,
+    "discount_percent": 30.8,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/samsung-55s85h-tv-oled-55-140-cm-2026-4k-uhd-smart-tv-3425639",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/rZ9XC/3425639_1/re/1200x1200/qt/90/3425639_1.jpg",
+    "detected_at": "2026-10-13T18:14:12+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 899.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Membres] Sweat-shirt Levi's Original homme - Grey Heather, 100 % coton French Terry, du S au XL",
+    "description": "30€ - Levi's Le sweat-shirt Original de Levi's est un basique à col rond qui s'associe facilement avec à peu près tout, du jean au chino. Il est réalisé en jersey French Terry 100 % coton, doux au toucher, avec une coupe standard. On retrouve le col rond orné d'un empiècement façon sifflet, les manches longues et l'emblématique logo Levi's. Le coloris concerné est le Grey Heather (gris chiné), référence 359090002. Les tailles disponibles vont du S au XL, et les clients indiquent qu'il taille normalement. Le modèle affiche une note de 4,5/5 sur plus de 230 avis. La livraison est offerte pour les membres du programme Levi's Red Tab ou à partir de 49,99 € d'achat ; en dessous, des frais de port s'ajoutent au panier.",
+    "price": 30.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/menbres-sweat-shirt-levis-original-homme-grey-heather-100-coton-french-terry-du-s-au-xl-3431899",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5rNde/3431899_1/re/1200x1200/qt/90/3431899_1.jpg",
+    "detected_at": "2026-10-13T18:14:11+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 30.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "6J/5N pour 2 personnes à Tunis à Hôtel Vincci Helya Beach Monastir - Vol inclus depuis Marseille, Ex: du 17 au 22 mars 2027",
+    "description": "552€ - Ôvoyages",
+    "price": 552.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/hotel-vincci-helya-beach-monastir-4-by-ovoyages-tout-compris-ventes-flash-3431873",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/D3HMC/3431873_1/re/1200x1200/qt/90/3431873_1.jpg",
+    "detected_at": "2026-10-13T18:13:13+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 552.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de société - Paquet de chips",
+    "description": "7,99€ - Amazon JEU D'AMBIANCE : parfait en début de soirée, rigolades garanties à chaque partie de ce jeu de société léger et fun. PRENEZ LES BONS RISQUES : à chaque manche, vous devez parier sur les tirages en éliminant tour par tour les objectifs que vous pensez ne pas réaliser. UN SUSPENSE CROUSTILLANT : une tension amusante qui monte au fur et à mesure des tirages, dans l'esprit d'une partie de poker. UN LOOK AUSSI FUN QUE SON GAMEPLAY : un emballage original et rigolo, des chips en carton coloré façon trompe-l'œil. ACCESSIBLE À TOUS : des règles expliquées en 2 minutes, un jeu de société idéal pour les familles, amis ou soirées jeux. Spécifications Tranche d'âge (description): Enfants ; Adultes Nombre de joueurs: 2-6 Marque: Asmodee Thème: Paris Matériau: Carton Couleur: Red, Blue, Green, Yellow Composants inclus: 25 chips (5 couleurs), 36 cartes Objectif, 1 sac en tissu, 1 règle du jeu. Informations sur l'emballage: Sac Dimensions du produit: 13,5L x 3l centimètres Quantité d'articles dans le colis: 1 Description de la tranche d’âge: Enfants ; Adultes Pays d'origine: Chine Unité de comptage: 1.0 unité Nom du type du produit: Jeu de société Nom du modèle: Paquet DE Chips Nombre d’emballages: 1 Nom de l'ensemble: Chips Point fort de l’article: Adultes et Enfants dès 8 Ans - 2 à 5 Joueurs - 15 Min - Version Française Fabricant: Asmodee Numéro de modèle: ZYGBOC0102FR Numéro de pièce: ZYGBOC0102FR Description de la garantie du fabricant: Non applicable Classement des meilleures ventes d'Amazon: 44252 en Jeux et Jouets (Voir les 100 premiers en Jeux et Jouets) 1766 en Jeux de plateau ASIN: B0FSD9Y5KB Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (22) 4,7 sur 5 étoiles Âge recommandé par le fabricant: 8 ans et plus Type de contenant: Sac Nombre d' articles: 1 Produit en kit?: Non Temps de jeu estimé: 15 Minutes Utilisation extérieure ou intérieure: Intérieur Mode de fonctionnement: Manuel Genre: Jeu d'Ambiance Dimensions de l’article L x l: 13,5L x 3l centimètres Quantité de lot: 1 Taille: 13.5 cm x 3 cm Type de matériau: Carton Commentaires client",
+    "price": 7.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-paquet-de-chips-3431896",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/H4RYX/3431896_1/re/1200x1200/qt/90/3431896_1.jpg",
+    "detected_at": "2026-10-13T18:08:56+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 7.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Poêle Tefal Hard Titanium - 24cm",
+    "description": "15,12€ - Outlet 46 La poêle Tefal Hard Titanium Essential est une poêle de 24 cm avec un revêtement antiadhésif en titane. *spécifications du produit :* - Diamètre : 24 cm - Revêtement antiadhésif en titane - Produit reconditionné et vérifié - Couleur : Noir",
+    "price": 15.12,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/poele-tefal-hard-titanium-24cm-3431894",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wVb9o/3431894_1/re/1200x1200/qt/90/3431894_1.jpg",
+    "detected_at": "2026-10-13T18:05:30+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 15.12,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Via PayPal] Tablette 14,6\" Samsung Galaxy Tab S12 Ultra - 256 Go, avec écouteurs sans fil Galaxy Buds 4 Pro & Book Cover",
+    "description": "1 081,20€ - Samsung Samsung Galaxy Tab S12 Ultra 256 Go : En payant avec PayPal, -150 € et -20 % grâce à un code promo à demander à un conseiller Samsung. Galaxy Buds4 Pro offerts avec les Galaxy Tab S12 Ultra et Galaxy Buds4 offerts avec les Galaxy Tab S12+ Un Book Cover Hybride offert pour toute souscription à Samsung Care+ (sans engagement et gratuit 3 mois).",
+    "price": 1081.2,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tablette-146-samsung-galaxy-tab-s12-ultra-256-go-avec-ecouteurs-sans-fil-galaxy-buds-4-pro-book-cover-via-paypal-3431893",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KomYU/3431893_1/re/1200x1200/qt/90/3431893_1.jpg",
+    "detected_at": "2026-10-13T18:05:19+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1081.2,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -10185,710 +10752,6 @@
       {
         "price": 1.49,
         "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Du 17/10 au 01/11] Entrée gratuite pour les enfants de moins de 12 ans déguisés - Parc Argonne Découverte (08)",
-    "description": "Le Parc Argonne Découverte (à Olizy-Primat dans les Ardennes) offre l'entrée aux enfants de moins de 12 ans costumés du 17 octobre au 1er novembre 2026 ! (devil) Pour les plus de 12 ans et adultes déguisés, pas de gratuité sur le billet mais une boisson chaude offerte au resto du parc (y) Attention aux conditions précisées par le parc : un vrai déguisement est demandé (un simple coup de maquillage ou un serre-tête ne suffisent pas). Valable uniquement pour les familles, pas pour les groupes !",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/du-1710-au-0111-entree-gratuite-pour-les-enfants-de-moins-de-12-ans-deguises-parc-argonne-decouverte-08-3431612",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oCuqf/3431612_1/re/1200x1200/qt/90/3431612_1.jpg",
-    "detected_at": "2026-10-13T10:17:35+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
-  },
-  {
-    "title": "Warhammer 40,000: Space Marine 2 sur PC (Dématérialisé)",
-    "description": "13,20€ - Eneba ATTENTION CHOISIR CE MARCHAND POUR AVOIR LE PRIX INDIQUÉ FROSTY ENTERTAINMENT https://ibb.co/9mZcLxns Incarnez les compétences surhumaines et la brutalité d'un Space Marine. Libérez des capacités mortelles et des armes dévastatrices pour anéantir les essaims tyranides implacables. Défendez l'Imperium dans une action spectaculaire à la troisième personne en mode solo ou multijoueur. CARACTÉRISTIQUES Tenez en échec les horreurs de la galaxie dans des batailles épiques sur des planètes lointaines grâce à vos capacités mortelles et à vos armes dévastatrices, et découvrez de sombres secrets pour repousser la nuit éternelle et prouver votre ultime loyauté envers l'humanité Profitez d'une action à la troisième personne intense, sanglante et rapide avec des centaines d'ennemis à l'écran, et purgez les essaims de Tyranides implacables dans une nouvelle campagne spectaculaire. Jouez en solo ou avec jusqu'à 2 amis en coopération transparente à 3 joueurs. Défendez l'Imperium en incarnant votre propre Space Marine dans une campagne JcE sans fin, brutale et rejouable, comprenant 6 classes, débloquant de nouvelles compétences et de nouveaux cosmétiques, ou livrez une guerre éternelle à vos ennemis dans de féroces matchs JcJ 6v6 pour apporter la gloire à votre faction !",
-    "price": 13.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/warhammer-40000-space-marine-2-3431590",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Pu5zY/3431590_1/re/1200x1200/qt/90/3431590_1.jpg",
-    "detected_at": "2026-10-13T10:15:48+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 13.2,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vis à bois fischer PZ PowerFast FPF II CZF 3,5x35 - Filetage total",
-    "description": "11,10€ - Amazon Bon plan pour les amateurs de bricolage précis : vis à bois PowerFast FPF II CZF de fischer, boîte de 300. C’est exactement le produit proposé, avec filetage intégral, tête fraisée et empreinte PZ2 zinguée blanc — fiable sans en faire trop. Diamètre : 3,5 mm Longueur : 35 mm Empreinte : PZ2 (cruciforme) Filetage : total, longueur du filetage 31 mm Revêtement : acier électrozingué blanc sans chrome VI, avec traitement anti‑frottement pour un vissage facile et moins de fendage Conditionnement : boîte à bec verseur de 300 pièces Une vis robuste et agréable à utiliser, pratique avec son bec verseur — simple et efficace pour tous vos assemblages bois.",
-    "price": 11.1,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vis-a-bois-fischer-pz-powerfast-fpf-ii-czf-35x35-filetage-total-3431610",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iClW1/3431610_1/re/1200x1200/qt/90/3431610_1.jpg",
-    "detected_at": "2026-10-13T10:11:42+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 11.1,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société Robinson Crusoé - Aventures sur l'île Maudite",
-    "description": "35,10€ - Philibert Net Entrez dans la peau du plus célèbre des naufragés ! Dans Robinson Crusoé - Aventures sur l'île Maudite , incarnez des naufragés sur une île déserte. Construisez un abri, préservez-vous de mille et un dangers et accomplissez les missions proposées ! Les sept scénarios inclus dans cette boîte vous permettront de renouveler vos parties en découvrant de nouvelles façons de jouer, tout en augmentant progressivement la difficulté ! Quelques actions à mener Explorez l’Île : Découvrez les terres inexplorées sur lesquelles vous avez échoué ! Découvrez ses Secrets : Explorez chaque recoin de l’île afin de révéler ses mystères et trouver ses trésors ! Récoltez de la nourriture pour survivre et du bois afin de construire un abri. Installez un Camp : Consolidez le toit et construisez une palissade. Créez de Nouveaux Objets : Fabriquez des outils pour faciliter votre travail et le rendre plus sûr.",
-    "price": 35.1,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-robinson-crusoe-aventures-sur-lile-maudite-3431609",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZWtRx/3431609_1/re/1200x1200/qt/90/3431609_1.jpg",
-    "detected_at": "2026-10-13T10:10:35+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 35.1,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société : Mindbug - Bataille de Fruits Galactique",
-    "description": "10,74€ - Philibert Net Découvrez des combinaisons de cartes insensées et dépensez votre Octonite sur les bonnes créatures pour gagner ! Ce nouveau set introduit les capacités Octonite qui vous permettent d'utiliser vos pions Octonite pour activer des capacités extrêmement puissantes. Il introduit également la mécanique de charge qui vous permet de distribuer vos pions Octonite sur n'importe quelle(s) créature(s). Mindbug - Bataille de Fruits Galactique peut être joué seul ou mélangé avec d'autres jeux Mindbug. Dans Mindbug, vous invoquez des créatures hybrides et les envoyez au combat contre votre adversaire. Mais attention : votre adversaire peut utiliser l'un de ses Mindbugs pour en prendre le contrôle. Surprenez votre adversaire dans un duel tactique fascinant où avoir les meilleures cartes et les jouer au mauvais moment peut s'avérer mortel pour vous. Mindbug combine l'accessibilité et l'équité d'un simple jeu de cartes avec la profondeur stratégique d'un jeu de cartes stratégique complexe. Le résultat est un jeu de cartes de duel basé sur l'habileté qui est totalement différent de tous les autres jeux de cartes auxquels vous avez joué jusqu'à présent. Contenu : 48 cartes Créature 2 compteurs Santé 2 aides de jeu 4 cartes Mindbug 1 livret de règles",
-    "price": 10.74,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-mindbug-bataille-de-fruits-galactique-3431607",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/81It6/3431607_1/re/1200x1200/qt/90/3431607_1.jpg",
-    "detected_at": "2026-10-13T10:09:37+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 10.74,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pathfinder: Wrath of the Righteous Game of the Year Edition sur PS4/PS5 (Dématérialisé)",
-    "description": "9,49€ - PlayStation Store Pathfinder: Wrath of the Righteous - Game of the Year Edition est un jeu vidéo complet avec de nombreuses extensions et DLC. *caractéristiques du produit :* - Inclut Pathfinder Wrath of the Righteous - 6 extensions premium - 4 DLC gratuits - Plus de 150 heures de gameplay - 10 voies mythiques - 25 classes - 160 archétypes La Game of the Year Edition inclut Pathfinder: Wrath of the Righteous, ainsi que l'intégrale des 6 extensions premium et les 4 DLC gratuits sortis après le lancement du jeu original. Plongez dans cette expérience complète qui vous réserve plus de 150 heures de gameplay ! À la tête de la Cinquième Croisade, libérez ce royaume des hordes démoniaques. Avec 10 voies mythiques, 25 classes et 160 archétypes au choix, chaque aventure est unique. Nouez des amitiés et des relations romantiques avec 12 compagnons, mais n'oubliez jamais que vos décisions affectent leurs sentiments à votre égard. Que vous réserve ce périple épique ? Des pouvoirs mythiques et une puissance extraordinaire ? Des amis et des passions amoureuses ? À moins que vous ne tendiez la main au mal et ne transformiez tous ceux qui croisent votre route en ennemis ? Voire... en festin ? La décision vous revient ! Savourez votre toute-puissance et dévoilez les secrets des mystérieux aéons en explorant Axis avec le DLC Inevitable Excess ! Découvrez cette histoire au travers du regard des gens ordinaires de Kénabres alors que vous les aidez à survivre à la cité en flammes et grouillant de démons dans le DLC Through the Ashes. Multipliez les expériences avec les builds de vos personnages et développez vos talents de combattant dans le mode roguelike du DLC The Treasure of the Midnight Isles qui vous invite à explorer un archipel. Faites la connaissance d'Ulbrig Olesk, un guerrier redoutable et doté du pouvoir de se métamorphoser en puissant griffon. Il pourrait s'avérer être un atout de poids dans votre groupe, en attendant de nouer avec lui des liens d'amitié... voire plus intimes encore. Partez pour un voyage qui vous emmènera dans des lieux chers à son cœur, affrontez des ennemis uniques et découvrez les secrets du passé de ce loyal compagnon avec le DLC The Last Sarkorians ! Vos personnages de Through the Ashes ont surmonté bien des dangers, et les voilà maintenant fin prêts à affronter des adversaires encore plus redoutables. Aidez-les à influencer l'histoire à leur tour avec le DLC The Lord of Nothing. Faites votre grand retour à Kénabres et fêtez votre glorieuse victoire ! Passez du bon temps avec vos amis et l'amour de votre vie dans la cité rebâtie, et dévoilez son ultime sinistre secret avec le DLC A Dance of Masks !",
-    "price": 9.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pathfinder-wrath-of-the-righteous-game-of-the-year-edition-ps4ps5-dematerialise-3431606",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/uDAKD/3431606_1/re/1200x1200/qt/90/3431606_1.jpg",
-    "detected_at": "2026-10-13T10:08:59+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 9.49,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société Mindbug - Bataille de Fruits Royale",
-    "description": "10,74€ - Philibert Net Le nouveau set Mindbug, au bon goût fruité ! Plantez des créatures pour profiter de leur surpuissance quelques tours plus tard ! Plantez vos créatures fruits et légumes, protégez-les de vos adversaires et récoltez leurs folles capacités. Et comme toujours, même s’il est un standalone, Mindbug : Bataille de Fruits Royale peut être joué de manière indépendante ou associé avec d’autres jeux Mindbug. Ce nouveau Mindbug introduit le mécanisme de Récolte , qui vous permet de déclencher des capacités extrêmement puissantes quelques tours après qu’une créature ait été jouée. Il introduit également le nouveau mot-clé Rapide qui permet à certaines créatures d’attaquer dès le tour où elles sont jouées (et bim : une pêche dans ta fraise). Mettez la pression sur votre adversaire et protégez vos créatures pour récolter leurs récompenses. Vous ne connaissez pas encore Mindbug ? Qu’à cela ne tienne : vous pouvez découvrir ces incroyables jeux d’affrontement en commençant par n’importe quelle boîte. Le principe de Mindbug est celui d’un jeu d’affrontement de monstres, avec un twist féroce et dévastateur. Dans Mindbug, en effet, vous invoquez des créatures hybrides et les envoyez au combat contre votre adversaire. Mais attention : votre adversaire peut utiliser l’un de ses Mindbugs pour en prendre le contrôle. Surprenez votre adversaire dans un duel tactique fascinant dans lequel avoir les meilleures cartes et les jouer au mauvais moment… peut s’avérer mortel pour vous. Mindbug combine l’accessibilité et l’équité d’un simple jeu de cartes avec la profondeur stratégique d’un jeu de cartes stratégique complexe. Le résultat, c’est un jeu de Cartes de duel basé sur l’habileté et le bluff, totalement différent de tous les autres jeux de cartes auxquels vous avez joué jusqu’à présent. Contenu : 54 cartes 2 compteurs de Santé 12 jetons octonite 1 livret de règles",
-    "price": 10.74,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-mindbug-bataille-de-fruits-royale-3431605",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Ogv0E/3431605_1/re/1200x1200/qt/90/3431605_1.jpg",
-    "detected_at": "2026-10-13T10:08:44+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 10.74,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Processeur AMD Ryzen 9 9900X",
-    "description": "296,27€ - AliExpress Processeur AMD Ryzen 9 9900X DsUsage Scenario Jeux MAX BOOST CLOCK 5.6GHz PCIe VERSION PCIe5.0 Support Memory Channels 2 Support Memory Type DDR5 Support Chipset Models AMD autres Default TDP / TDP 120W Number OF Therads 24 L3 Cache Capacity 64MB L2 Cache Capacity 12MB Unlocked no GPU-built no Chip Process 7 nm Processor Type AMD autres Type Douze cœurs Socket Type 15h Application Ordinateur de bureau Brand Name AMD AMD Model AMD Ryzen 9 9900X Number of Cores Douze cœurs",
-    "price": 296.27,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-9-9900x-3431604",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZEk6P/3431604_1/re/1200x1200/qt/90/3431604_1.jpg",
-    "detected_at": "2026-10-13T10:08:00+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 296.27,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu De Société Dune Imperium - Lignées",
-    "description": "29,96€ - Philibert Net Dune : Imperium - Lignées : nouvelles technologies et nouveaux leaders ! Les grandes maisons de l'Imperium vivent et meurent selon leur lignée. Les intrigues se déroulent sur plusieurs générations, tandis que les empereurs bâtissent des dynasties et que les Bene Gesserit tissent la réalité à partir de prophéties. Au gré des alliances qui se forment et se brisent, les dirigeants sont confrontés à une seule question : jusqu'où iriez-vous pour assurer la survie de votre lignée ? Dune : Imperium - Lignées enrichit Dune : Imperium et Insurrection avec de nouveaux outils puissants pour remporter la victoire. Recrutez des commandants Sardaukar pour renforcer vos forces armées. Libérez le potentiel de toutes nouvelles tuiles Tech. De nouveaux dirigeants, contrats et cartes ouvrent plus de possibilités stratégiques que jamais. La guerre fait rage dans l'univers, et seules les lignées les plus fortes survivront. Contenu : 86 cartes 9 Dirigeants 7 figurines Commandeur Sardaukar 14 Compétences de Commandeur Sardaukar Plateau Ambassade d’Ix 18 tuiles Technologie 8 contrats 8 jetons en bois Sietch de Tuek Nécessite le jeu de base Dune Imperium pour être joué.",
-    "price": 29.96,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-dune-imperium-lignees-3431603",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Bdqel/3431603_1/re/1200x1200/qt/90/3431603_1.jpg",
-    "detected_at": "2026-10-13T10:07:23+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 29.96,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu De Société Kanal",
-    "description": "23,40€ - Philibert Net Développez vos infrastructures et vos industries pour gagner la partie ! Le canal d'Oranienburg a été construit entre 1832 et 1837 dans le Brandebourg. La rivière Havel étant difficile à naviguer près des moulins d'Oranienburg, un canal a été construit à partir de la Havel et a traversé l'ancien canal Ruppin, formant ainsi la croix du canal d'Oranienburg. Au cours de l'industrialisation du XIXe siècle, de nombreuses sociétés et entreprises se sont installées sur cette importante voie navigable. En outre, des rues et des voies ferrées supplémentaires ont été construites. Dans Kanal , vous érigez de nouvelles industries et façonnez l'infrastructure en construisant des chemins, des rues, des voies ferrées et des canaux. Les ponts qui relient les bâtiments sont les plus importants. Pour ce faire, vous avez accès à diverses actions que vous sélectionnez au bon moment. À la fin du jeu, le joueur qui possède la meilleure zone industrielle et la meilleure infrastructure gagne. Kanal comprend également un jeu en solo !",
-    "price": 23.4,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-kanal-3431602",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xK1MQ/3431602_1/re/1200x1200/qt/90/3431602_1.jpg",
-    "detected_at": "2026-10-13T10:06:12+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 23.4,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Imprimante 3D Snapamker U1 (snapmaker.com)",
-    "description": "749€ Présentation du produit • L'imprimante 3D « Consumer Toolchanger » • Système SnapSwap™ à 4 têtes d'outils permettant un changement direct en 5 secondes • Jusqu’à 5 fois plus rapide, avec 5 fois moins de déchets • Liberté en matière de couleurs et de matériaux • Calibrage et compensation intelligents pour des impressions nettes et homogènes • Gestion simplifiée du filament grâce au chargement automatique et au mode de secours • Vitesse pouvant atteindre 500 mm/s et accélération de 20 000 mm/s² • Volume d'impression de 270 mm de côté pour les modèles de grande taille et l'impression par lots • Accédez à des matériaux techniques résistants aux hautes températures grâce au couvercle supérieur en option https://eu.snapmaker.com/fr/collections/3d-printer-machines/products/snapmaker-u1-3d-printer",
-    "price": 749.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-snapamker-u1-snapmakercom-3431601",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RcwUf/3431601_1/re/1200x1200/qt/90/3431601_1.jpg",
-    "detected_at": "2026-10-13T10:05:34+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 749.0,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "The Rogue Prince of Persia sur PC (Dématérialisé - Steam)",
-    "description": "8,99€ - Steam ✅ Compatible Steam Deck Anniversary update infos : https://therogueprinceofpersia.com/patchnote-anniversary-update/ Plongez dans une aventure épique et palpitante, où chaque action vibre au rythme d'une bande-son intense. Maîtrisez un combat fluide, acrobatique et réactif, associé à un parkour exigeant. Mort après mort, forgez votre propre style de jeu. À travers l'exploration et les rencontres, vous trouverez peut-être un moyen de réparer vos erreurs et de sauver l'Empire perse créé par Evil Empire. RÉÉCRIVEZ LE DESTIN. SAUVEZ LA PERSE. OU PÉRISSEZ EN ESSAYANT. Façonnez la légende d'un prince épargné par la mort, qui condamna son peuple à cause d'une erreur fatale. Faites de votre mieux pour réparer vos erreurs : chaque échec est une nouvelle chance d'explorer des chemins différents, de découvrir des secrets, de rencontrer de nouveaux personnages et d'utiliser les connaissances accumulées lors de vos précédentes tentatives pour changer le destin de votre peuple et faire vos preuves en tant que véritable prince de Perse. MAÎTRISEZ UN STYLE ACROBATIQUE EFFRÉNÉ En tant que prince de Perse, l'agilité est votre arme la plus puissante. Esquivez des pièges, sprintez sur les murs, enchaînez des combos acrobatiques et frappez avec précision. Chaque mouvement est une opportunité et chaque combat récompensera votre technique et votre style. COMBATTEZ À VOTRE MANIÈRE Découvrez, débloquez et maîtrisez plus de 100 armes et médaillons uniques. Adaptez, améliorez et personnalisez votre équipement à chaque essai, et créez des combinaisons mortelles adaptées à votre style de jeu. DES ESSAIS UNIQUES Aucun essai ne se répète. Plongez dans cette aventure en constante évolution dans laquelle la narration, la métaprogression, les modificateurs de difficulté, les événements aléatoires et les niveaux générés de manière procédurale vous donneront envie de continuer à essayer. Trailers sur PC : [shortcode id=\"20619121\"/] [shortcode id=\"20619122\"/]",
-    "price": 8.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/the-rogue-prince-of-persia-sur-pc-dematerialise-3431600",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FVQUX/3431600_1/re/1200x1200/qt/90/3431600_1.jpg",
-    "detected_at": "2026-10-13T10:04:39+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Enceinte Bluetooth portable SOUNARC R1 - 40 W, Bluetooth 5.3, IPX6, 15 h d'autonomie, appairage stéréo - Bleu",
-    "description": "27,99€ - Geekbuying Bon prix pour cette SOUNARC R1 , une enceinte Bluetooth portable de 40 W Livraison gratuite depuis l'Europe Utilisez le code promo NNNDBR1 > Caractéristiques Enceinte portable SOUNARC R1 Coloris : bleu Puissance de sortie : 40 W Bluetooth 5.3 Portée sans fil jusqu'à 10 mètres Codec audio SBC Réponse en fréquence : 100 Hz - 20 kHz Certification IPX6 contre les projections d'eau Appairage stéréo avec une seconde enceinte compatible Connexions Bluetooth, AUX et carte microSD/TF Batterie rechargeable de 4 000 mAh Jusqu'à 15 heures d'autonomie à 50 % du volume Recharge en USB-C (5 V / 1 A) Temps de charge : environ 6 heures Poids : 940 g",
-    "price": 27.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-portable-sounarc-r1-40-w-bluetooth-53-ipx6-15-h-dautonomie-appairage-stereo-bleu-3431599",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/L5Oar/3431599_1/re/1200x1200/qt/90/3431599_1.jpg",
-    "detected_at": "2026-10-13T10:04:27+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 27.99,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[MACIF] TV 77\" LG OLED C6 - 4K UHD, Tandem OLED 2.0, 165Hz, HDR10, Dolby Vision, HLG (Via ODR 300€)",
-    "description": "1 826,43€ - LG De retour en stock Lien de l'ODR: https://www.lg.com/fr/promotions/offres-de-remboursement/actives/2609-offre-tv/?sortCriteria=%40ec_stock_status+ascending%2C%40ec_discount_amount+descending Valable pour tout le monde Exemple d'optimisation du prix (ODR de 300€ à déduire): 1513€ prix final 1) Coupon de -15%. Pack . Vous pouvez choisir une autre barre de son si vous le souhaitez. La liste des produits éligible ( https://www.lg.com/fr/promotions/composez-votre-pack/ ) 2) Coupon de -5% de bienvenue . Première commande 3) Coupon de -5% CMR avantage . Inscription newsletter ( https://www.lg.com/fr/promotions/inscriptions/ ) 4) Coupon de -5% CIC . (Demande via le tchat du site LG, rien a voir avec la banque), vous pouvez dire que vous n'avez pas reçu le code de réduction avec l'inscription à la newsletter. Ils vont vous en donné un code CIC cumulable. 5) Coupon de -3%. Reprise 6) Cashback : igraal , ebuyclub, Poulpeo 7) ODR de 300€ Questions fréquentes : Comment obtenir le code CIC? Demande via le tchat du site LG, rien a voir avec la banque), vous pouvez dire que vous n'avez pas reçu le code de réduction avec l'inscription à la newsletter. Ils vont vous en donné un code CIC cumulable. Dire au bot \" parler à un conseiller\". En combien de temps je recois le code newsletter (CMR)? Instantanément dans votre boite mail. Pensez a regardé vos spams La reprise ne s'affiche pas. Pour activer la reprise il y a un encart en dessous de la TV au panier. Pensez bien a mettre oui quand ça demande si vous êtes connecté à un compte LG. SI la réduction n'apparait pas, il faut des fois allez réactiver le coupon dans la liste à droite au panier Pourquoi mes codes ne se cumule pas ? Seulement les codes présents sur le screen d'exemple sont cumulables. Tout autres code macif ect ne se cumule jamais.",
-    "price": 1826.43,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/macif-tv-77-lg-oled-c6-4k-uhd-tandem-oled-20-165hz-hdr10-dolby-vision-hlg-via-odr-300eur-3431598",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HUwmF/3431598_1/re/1200x1200/qt/90/3431598_1.jpg",
-    "detected_at": "2026-10-13T10:04:00+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1826.43,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "PC Portable Gamer 16\" Acer Nitro V 16 AI - WQXGA 180Hz, Ryzen AI 9 365, RTX 5070, RAM 32 Go, SSD 1 To, Windows 11",
-    "description": "1 655,10€ - Amazon Acer Nitro V 16 AI PC Portable Gaming 16 WQXGA IPS 180Hz Ryzen AI 9 RTX 5070 32GB 1TB Ordinateur portable de jeu et de création hautes performances intégrant des composants de dernière génération. Doté d'un écran 16 pouces haute résolution particulièrement fluide et d'une importante réserve de mémoire vive, il est conçu pour faire tourner les jeux les plus exigeants dans des conditions optimales tout en facilitant les tâches de création lourdes. Points forts et caractéristiques : • Écran haute définition 180Hz : Dalle IPS de 16 pouces au format WQXGA offrant une excellente précision d'image et un taux de rafraîchissement de 180 Hz pour une fluidité parfaite en jeu. • Processeur puissant : Équipé du processeur AMD Ryzen AI 9 365 intégrant des capacités de traitement accélérées pour l'intelligence artificielle et le multitâche lourd. • Carte graphique dédiée performante : Intègre une NVIDIA GeForce RTX 5070 pour profiter du Ray Tracing et des technologies de rendu par IA comme le DLSS sur les titres récents. • Mémoire et stockage très confortables : Livré avec 32 Go de mémoire RAM et un disque SSD NVMe de 1 To offrant des débits ultra-rapides et un espace important. • Refroidissement avancé : Système thermique optimisé à double ventilation et quatre sorties d'air pour maintenir des températures stables lors d'une utilisation intensive.",
-    "price": 1655.1,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pc-portable-gamer-16-acer-nitro-v-16-ai-wqxga-180hz-ryzen-ai-9-365-rtx-5070-ram-32-go-ssd-1-to-windows-11-3431596",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/UbXFJ/3431596_1/re/1200x1200/qt/90/3431596_1.jpg",
-    "detected_at": "2026-10-13T10:02:21+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1655.1,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lego City 60430 - Le Vaisseau Interstellaire",
-    "description": "9,59€ - Carrefour • Vaisseau spatial jouet pour un jeu imaginatif : les jeunes amoureux de l'espace seront ravis de partir à la recherche de l'action intergalactique avec l'ensemble Le Vaisseau Interstellaire LEGO City • Que contient la boîte ? Ce jeu de construction amusant pour les 6 ans et plus comprend tout ce dont votre enfant a besoin pour construire un vaisseau spatial interstellaire avec un drone robotique et une figurine d'astronaute • Jeu créatif : insérez des piles jouets pour alimenter les propulseurs principaux déployables du vaisseau et voyager à la vitesse de la lumière dans l'espace, puis transformez le drone robotisé en jetpack • Guide de construction numérique : embarquez votre passionné de l'espace dans une aventure de construction amusante avec l'application LEGO Builder, où il peut voir les modèles sous tous les angles pendant qu'il construit • Un cadeau pour les amoureux des vaisseaux spatiaux : propulsez l'imagination des enfants en orbite en offrant ce vaisseau spatial jouet comme cadeau d'anniversaire ou d'occasion spéciale à un garçon ou une fille âgé(e) de 6 ans ou plus • Découvrez d'autres jouets LEGO pour l'espace : votre enfant aura encore plus de plaisir et d'aventure lorsqu'il ajoutera cet ensemble aux autres jouets de la gamme LEGO City Space (vendus séparément) • Jeu illimité : les ensembles spatiaux LEGO City comprennent des véhicules réalistes, des structures détaillées et des personnages intéressants qui mélangent la fantaisie et la réalité pour encourager un jeu imaginatif illimité",
-    "price": 9.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-city-60430-le-vaisseau-interstellaire-3431595",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gkBbr/3431595_1/re/1200x1200/qt/90/3431595_1.jpg",
-    "detected_at": "2026-10-13T10:02:11+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 9.59,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Caméra DJI Osmo Pocket 3 - 4K, 120 FPS",
-    "description": "256,08€ - AliExpress numéro de modèle de l'article DJI Osmo Pocket 3 Batterie incluse no Catégorie Cardans portatifs Facturation pour appareil mobile Non Caractéristique Suivant le mode de prise de vue Paquet Oui des axes 3 axes Communication NFC Type Caméra portative stabilisée Nom de marque DJI Modèle DJI Poche 3 Configuré Pour téléphones intelligents,caméras photo d'action",
-    "price": 256.08,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/camera-dji-osmo-pocket-3-4k-120-fps-3431594",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FxpI5/3431594_1/re/1200x1200/qt/90/3431594_1.jpg",
-    "detected_at": "2026-10-13T10:01:03+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 256.08,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Caméra d'Action DJI Osmo Pocket 4",
-    "description": "336,71€ - AliExpress capteur CMOS de 1 pouce de l'Osmo Pocket 4 enregistre jusqu'à 4K/240 ips pour des images au ralenti nettes et des détails clairs, même en basse lumière. [ Images Stables avec Stabilisation sur 3 Axes ] Le stabilisateur mécanique garde les images fluides pendant la marche ou la course, avec des modes de stabilisation pour des mouvements de caméra professionnels. [Toujours en vue avec Active Track ] Osmo Pocket 4 prend en charge ActiveTrack pour suivre dessujets à distance avec un zoom 4x, ainsi que les modes Spotlight Follow et Dynamic Framing. [ Mise au point rapide et précise ] La mise au point automatique intelligente garde votre sujet en clair grâce au suivi de la cible ou à la priorité des sujets enregistrés pour un contrôle de la mise au point fluide. [Color correction avancée] Jusqu'à 14 niveaux de plage dynamique et un pr D-Log 10 bits permettent de conserver des détails riches, offrant une gradation flexible pour les scènes cinématographiques du lever et du coucher du soleil. [Compact, puissant et prêt à l'emploi",
-    "price": 336.71,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/camera-daction-dji-osmo-pocket-4-3431593",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9uPkA/3431593_1/re/1200x1200/qt/90/3431593_1.jpg",
-    "detected_at": "2026-10-13T10:00:14+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 336.71,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Double Album Vinyle Niagara Flammes Compilation",
-    "description": "14,99€ - Cultura 2 LP, Compilation, Remasterisé Flammes (2002) est une compilation du duo pop-rock français Niagara. Ce « Best of » rassemble 18 titres emblématiques retraçant la carrière du groupe formé par Muriel Moreno et Daniel Chenevez entre 1985 et 1992. A1 J'ai Vu A2 Assez ! A3 Je Dois M'en Aller A4 Pendant Que Les Champs Brûlent A5 Quand La ville Dort B1 Soleil D'hiver B2 Tchiki Boum B3 L'amour A La Plage B4 Flammes De L'enfer C1 Baby Louis C2 Psychotrope C3 Chemin De Croix C4 La Fin Des Etoiles D1 Tv Addict D2 Un Million D'années D3 La Vie Est Peut-être Belle D4 Je N'oublierai Jamais D5 Le Minotaure discogs.com/fr/release/9448330-Niagara-Flammes",
-    "price": 14.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/double-album-vinyle-niagara-flammes-compilation-3431592",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3o8bO/3431592_1/re/1200x1200/qt/90/3431592_1.jpg",
-    "detected_at": "2026-10-13T09:59:41+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "RiMS Racing sur PC (Dématérialisé - Steam)",
-    "description": "0,99€ - Steam La première simulation moto associant les défis d’un pilotage réaliste à ceux de l’ingénierie et de la mécanique ! Enfourchez les motos les plus puissantes au monde et optimisez leurs performances en changeant les pièces et en analysant les données en temps réel.",
-    "price": 0.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/rims-racing-3431585",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/TpCiu/3431585_1/re/1200x1200/qt/90/3431585_1.jpg",
-    "detected_at": "2026-10-13T09:56:24+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 0.99,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lego Star Wars 75423 Le X-Wing Red Five de Luke - Smart Play",
-    "description": "55,99€ - Carrefour Un X-Wing de Luke Skywalker qui prend vie quand vous jouez avec ? Ce Jouet Lego Star Wars Smart Play : Le X-Wing Red Five de Luke (75423) est un set interactif tout-en-un qui utilise le système Lego Smart Play. Il intègre une Smart Brique qui anime le X-Wing avec des sons et des lumières, réagissant à vos mouvements et à votre façon de jouer, pour des missions Star Wars encore plus immersives. Nombre de pièces : 581 Contenu : 1 Smart Brique, 1 chargeur Smart, 2 Smart Minifigures (Luke Skywalker et Princesse Leia), 5 Smart Tags Fonctionnalités : Sons de moteur et de tirs laser, lumières activées par le mouvement, sons de ravitaillement et de réparation Interactivité : La Smart Brique reconnaît les Smart Minifigures et les Smart Tags pour des réactions sonores et lumineuses dynamiques Âge recommandé : Dès 6 ans Dimensions du X-Wing : Plus de 6 cm de haut, 22 cm de long et 19 cm de large Ce set offre aux jeunes Jedi une façon inédite d'explorer l'univers Star Wars, mais pensez que d'autres sets compatibles Lego Smart Play sont vendus séparément si vous souhaitez étendre les scénarios de jeu. Cashback : 3,5 € via Widilo sur l'achat en ligne (ou jusqu’à 3 € via eBuyClub) ; ou 4 % via Widilo en payant avec un bon d'achat Carrefour acheté sur Widilo. Taux variable selon les produits, voir les conditions sur le site de cashback.",
-    "price": 55.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-star-wars-smart-play-le-x-wing-red-five-de-luke-75423-interactif-avec-smart-brique-3431591",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vBjbU/3431591_1/re/1200x1200/qt/90/3431591_1.jpg",
-    "detected_at": "2026-10-13T09:56:03+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 55.99,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bouteille de Rhum Renaissance A1710 - 70 cl",
-    "description": "55,20€ - Cash Vin En ce moment il y a des jolies promotion chez CashVin. Par exemple ce rhum A1710 : Le rhum blanc A1710 Renaissance est un rhum blanc de Martinique des plus frais et complexe. Alliant puissance et légèreté, ce pur jus de canne est distillé en alambic en cuivre équipé d’une colonne, avant un passage de quelques jours en fûts de chêne ex-cognac. Ce rhum blanc peut être apprécié aussi bien en apéritif qu’en digestif. Vous avez aussi d'autre promotion sur la gamme, la bête à feu à 32euros par exemple : https://www.cashvin.com/produit/a1710-bete-feu/ , ou la Perle à 35 : https://www.cashvin.com/produit/a1710-la-perle/ Et d'autres rhum aussi , Le New Grove 5 ans à 38euros : https://www.cashvin.com/produit/new-grove-rhum-5-ans/ Le Coloma 8 ans à 36euros https://www.cashvin.com/produit/coloma/ Et quelques autres références : https://www.cashvin.com/operations-speciales/rhum/page/6/ Les frais de port sont assez élevés, 13 euros. Mais vous pouvez aller en boutique si vous avez de la chance : Annecy, Artigues, Bayonne, Biganos, Fréjus, La rochelle Nord, La rochelle Sud, La Teste de Buch, Le Pian Médoc, Libourne, Mérignac Centre, Mérignac Phare, Pau, Saint Orens, Toulouse. Bonne dégustation avec Modération :)",
-    "price": 55.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/rhum-a1710-renaissance-3431588",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/m13jb/3431588_1/re/1200x1200/qt/90/3431588_1.jpg",
-    "detected_at": "2026-10-13T09:51:40+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 55.2,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Processeur AMD Ryzen 7 5700X - 8 cœurs, 16 threads, 3,4 GHz de base, 4,6GHz en boost, TDP de 65W, socket AM4",
-    "description": "128,41€ - AliExpress Processeur : AMD Ryzen 7 5700X (la fiche TechpowerUp apporte d’autres informations, dont le PPT*) *PPT (Power Package Tracking) qui est la puissance maximale délivrée par défaut Socket : AM4 Architecture : Zen 3 8 cœurs physiques et 16 cœurs logiques , via SMT Fréquence nominale : 3,4 GHz Fréquence boost maximale : 4,6 GHz TDP nominal : 65 W Tjmax : 90 °C Cache L1 : 512 Ko Cache L2 : 4 Mo Cache L3 : 32 Mo Finesse de gravure : 7 nm TSMC pour les cœurs CPU, 12 nm pour le Die I/O Sécurité AMD Enhanced Virus Protection, avec prise en charge du NX bit Pas d’ IGP : une carte graphique dédiée est obligatoire . Fourni sans ventilateur . ☝️ Processeur dont vous pouvez trouver une review chez TechpowerUp . Vous pouvez retrouver les spécifications de tous les processeurs AMD via cette page . C’était votre dévoué Singe-technophile s’en venant des processeurs dans les mains. N’hésitez pas à le suivre dans ses pérégrinations en Simia ! Ses vallées, ses montagnes, ses villes et leurs agréements, des rues commerciales au stadium de boxe. Essayez d’éviter le Tribunal tout de même. Car comme il y est dit, Dura Lex, Sed Simia .",
-    "price": 128.41,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-5700x-8-coeurs-16-threads-34-ghz-de-base-46-ghz-en-boost-tdp-de-65w-socket-am4-3431583",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bkIxS/3431583_1/re/1200x1200/qt/90/3431583_1.jpg",
-    "detected_at": "2026-10-13T09:50:20+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 128.41,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Balancelle de jardin terrabeta - Structure En Acier, Auvent Pare-soleil",
-    "description": "49,94€ - JoyBuy La balancelle de jardin terrabeta est conçue pour profiter d'un moment de détente en extérieur, sur une terrasse, dans un jardin ou sur un patio. Elle associe une structure en acier , une assise en textilène et un auvent de protection solaire . Son coloris gris lui permet de s'intégrer facilement à différents styles de mobilier de jardin. ⭐ Points forts Balancelle de jardin pour les moments de détente ️ Structure en acier ☀️ Auvent pare-soleil intégré",
-    "price": 49.94,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/balancelle-de-jardin-terrabeta-structure-en-acier-auvent-pare-soleil-3431587",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Oo5Jt/3431587_1/re/1200x1200/qt/90/3431587_1.jpg",
-    "detected_at": "2026-10-13T09:50:05+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 49.94,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Infra (Complete Edition + Soundtrack à 6,79€) sur PC (Dématérialisé - Steam)",
-    "description": "5,79€ - Steam Détails du package Titre : INFRA: Complete Edition Genre : Aventure, Indépendant Développement : Loiste Interactive Édition : Loiste Interactive",
-    "price": 5.79,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/infra-complete-edition-3431581",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/IcjIX/3431581_1/re/1200x1200/qt/90/3431581_1.jpg",
-    "detected_at": "2026-10-13T09:47:53+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 5.79,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Disney Epic Mickey: Rebrushed suur Xbox One/Series X|S (Dématérialisé)",
-    "description": "15,99€ - Xbox Store Description Disney Epic Mickey: Rebrushed redonne vie à la magie de Disney dans un resplendissant jeu de plateformes en 3D. Dans ce magnifique remake, Mickey Mouse accomplit une traversée épique du monde de la désolation, un royaume empli de personnages oubliés de Disney. Dans le rôle de Mickey, vous vous immergerez dans un monde fantastique et, armé de peinture et de diluant, vous créerez votre aventure et le destin de ce monde alternatif. Chaque coup de pinceau magique est important ! Utilisez la peinture pour restaurer la beauté et l’harmonie, ou utilisez le diluant pour modifier votre environnement et révéler des secrets cachés. Vos choix influencent la destinée de Mickey et changent l’issue de cette odyssée artistique. Deviendrez-vous le héros épique dont le monde de la désolation a tant besoin ? Faites la rencontre de différents personnages emblématiques, comme Oswald le lapin chanceux, la toute première création de Walt Disney, pendant que vous parcourez les terres du monde de la désolation. Collectionnez des pin’s virtuels Disney, relevez des défis créatifs et révélez des secrets tout en explorant les niveaux classiques d’un jeu de plateformes, inspirés de films d’animation et de courts métrages. Imaginé à l’origine par Warren Spector, puis réimaginé par Purple Lamp, Disney Epic Mickey: Rebrushed affiche des graphismes de pointe et propose des commandes améliorées afin de redonner vie à un classique bien-aimé. Découvrez de nouvelles compétences de déplacement pour Mickey, telles que le bond, le marteau-pilon et le sprint. Au travers de son histoire captivante, ce jeu propose une aventure inoubliable pour les fans de longue date comme pour les nouveaux joueurs. Rejoignez Mickey Mouse et percez les mystères du monde de la désolation dans cet hommage à la grande histoire de Disney.",
-    "price": 15.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/disney-epic-mickey-rebrushed-xbox-store-dematerialise-3431586",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/L9h4X/3431586_1/re/1200x1200/qt/90/3431586_1.jpg",
-    "detected_at": "2026-10-13T09:47:40+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mémoire PC RAM Kingston FURY Beast 32 Go (2 x 16 Go) DDR4 3200 MHz CL16",
-    "description": "224,99€ - Rue du Commerce Le prix reste très haut mais une vrai promo par rapport aux autres sites (amazon 340€, topachat 457€...) Accélérez votre PC pour des sessions plus fluides et réactives Donnez un vrai coup de boost à votre configuration avec le kit Kingston FURY Beast 32 Go (2 x 16 Go) . Pensée pour les usages exigeants, cette mémoire DDR4 3200 MHz améliore la réactivité globale : chargements plus rapides, multitâche plus confortable et meilleure stabilité en jeu. Que vous lanciez un titre gourmand ou plusieurs applications en parallèle, vous gagnez en fluidité au quotidien. Avec sa latence CL16 et son format Dual Channel , ce kit optimise les échanges de données pour soutenir des scènes complexes et des logiciels lourds. En montage vidéo ou en rendu, vous profitez d’une machine plus à l’aise lorsque les timelines se densifient et que les projets s’empilent. L’overclocking peut être simplifié grâce à la compatibilité Intel XMP et AMD Ryzen , selon votre plateforme. Le design soigné du module s’accompagne d’un dissipateur de chaleur au profil mince , idéal pour une intégration propre, même dans un boîtier compact. Pratique pour une mise à niveau sans prise de tête, la mémoire propose aussi une approche Plug & Play (jusqu’à 2666 MHz selon le BIOS) : vous installez, vous démarrez, vous profitez. Une solution fiable pour redonner du souffle à un PC qui ralentit. Caractéristiques principales : Modèle : Kingston FURY Beast KF432C16BB1K2/32 Capacité : 32 Go (2 x 16 Go) Type de mémoire : DDR4 Fréquence : 3200 MHz Latence : CL16 Configuration : Kit Dual Channel Compatibilité : Intel XMP Compatibilité : AMD Ryzen Fonction : Plug & Play jusqu’à 2666 MHz (selon BIOS) Refroidissement : Dissipateur de chaleur profil mince",
-    "price": 224.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ram-kingston-fury-beast-32-go-2-x-16-go-ddr4-3200-mhz-cl16-3431584",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ryeWg/3431584_1/re/1200x1200/qt/90/3431584_1.jpg",
-    "detected_at": "2026-10-13T09:46:51+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 224.99,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Du 17/10 au 31/10] Entrée gratuite pour les enfants de moins de 12 ans déguisés - Parc Zoo du Reynou (87)",
-    "description": "Offre Halloween au Zoo du Reynou ! L'entrée est offerte pour les enfants de moins de 12 ans qui viennent déguisés, du 17 au 31 octobre 2026 (devil) Sur place, ils organisent aussi une chasse aux bonbons gratuite pour les 3-12 ans (tous les jours de 10 h à 17 h 30) Plein tarif pour les adultes accompagnateurs ! ;(",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/du-1710-au-3110-entree-gratuite-pour-les-enfants-de-moins-de-12-ans-deguises-parc-zoo-du-reynou-87-3431580",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/seuWz/3431580_1/re/1200x1200/qt/90/3431580_1.jpg",
-    "detected_at": "2026-10-13T09:46:05+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
-  },
-  {
-    "title": "Sac à dos Deuter Trans Alpine Pro 28 - Graphite",
-    "description": "119,36€ - Amazon.es Le système de portage Airstripes à poids réduit, avec soutien lombaire et tissu d'espacement perméable à l'air (Air-Spacer-Mesh), assure une ventilation fiable même lors d'étapes éprouvantes et se maintient de manière compacte contre le corps. Des éléments réfléchissants, des consignes de sécurité à l'intérieur du sac à dos et un sifflet de signalisation contribuent à renforcer la sécurité lors des randonnées à vélo. Dimensions : 55 cm x 29 cm x 21 cm | Poids : 1350 grammes Description Même lors de randonnées à vélo ambitieuses et de traversées alpines, le sac à dos VTT au poids optimisé est extrêmement stable sur le dos. Le système dorsal Airstripes soulage les épaules et offre une ventilation optimale grâce à sa petite surface de contact. L'énorme espace de rangement du sac à dos de vélo est parfaitement organisé : De nombreux compartiments, de grandes poches sur les hanches et des séparateurs permettent d'organiser les outils, les vêtements et tout ce dont vous avez besoin pour des randonnées de plusieurs jours longues et exigeantes.",
-    "price": 119.36,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/deuter-trans-alpine-pro-28-sac-a-dos-de-velo-3431578",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9HwSE/3431578_1/re/1200x1200/qt/90/3431578_1.jpg",
-    "detected_at": "2026-10-13T09:45:54+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 119.36,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Multicuiseur Moulinex Cookeo Connecté YY5571FB 6L + Couvercle Air Fryer Extra Crisp",
-    "description": "199,99€ - Carrefour Belle baisse de prix chez Carrefour sur ce pack très complet Moulinex Cookeo Connecté Rouge + Accessoire Extra Crisp qui passe à 199,99 € . Habituellement, le Cookeo seul ou le pack tourne autour près de 300 € chez la concurrence (Auchan, Leclerc, etc.), et l'accessoire Extra Crisp vaut à lui seul environ 70-80 €. --- ### Pourquoi ce pack est particulièrement intéressant ? 1. Le Cookeo Connecté (6 Litres / 1600W) : - Connectivité Bluetooth : synchronisez l'application MyMoulinex pour télécharger directement des centaines de recettes interactives. - 180 recettes préprogrammées + suivi pas à pas sur l'écran. - Cuisson ultra rapide sous pression, vapeur, mijotage, dorage et réchauffage. - Capacité 6L (idéal pour 2 à 6 personnes). 2. L'Accessoire Extra Crisp (Inclus) : - C'est la fonction \"Air Fryer / Friteuse sans huile\" qui vient se poser directement sur la cuve du Cookeo. - Permet de griller, rôtir, frire et gratiner vos plats (poulet rôti croustillant, frites, gratin dauphinois, gâteaux) sans allumer le grand four. - Pas besoin de préchauffage : 30 % plus rapide qu'un four traditionnel. --- ### En résumé : - Un 2-en-1 complet : Multicuiseur sous pression + Air Fryer dans le même appareil. - Coloris : Édition Rouge. - Garantie : 2 ans (pièces réparables 15 ans par Moulinex). Livraison gratuite en Drive ou retrait magasin.",
-    "price": 199.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/multicuiseur-moulinex-cookeo-connecte-6l-couvercle-air-fryer-extra-crisp-yy5571fb-rouge-19999-eur-au-lieu-de-29999-eur-carrefour-3431582",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/u0WCK/3431582_1/re/1200x1200/qt/90/3431582_1.jpg",
-    "detected_at": "2026-10-13T09:44:03+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 199.99,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur Laveur sans fil Tineco iFloor Y2 Lite - Station de Charge/Nettoyage incluse",
-    "description": "129,99€ - Carrefour Actuellement à 199,99€ chez Auchan notamment, passe ici à 129,99€ en remise immédiate > Livraison gratuite Caractéristiques Nettoyage & Performances Fonction : Aspire les déchets secs, aspire les liquides et lave les sols durs en un seul passage Compatibilité sols : Sols durs uniquement (carrelage, parquet vitrifié, stratifié, linoléum, vinyle) Système à double réservoir : Sépare l'eau propre de l'eau usée pour nettoyer toujours à l'eau claire Capacité du réservoir d'eau propre : 1,0 Litre Capacité du réservoir d'eau usée : 0,8 Litre Auto-nettoyage : Fonction d'auto-nettoyage automatique du rouleau brosse sur la station d'accueil Autonomie & Batterie Autonomie maximale : Jusqu'à 25 minutes par charge Type de batterie : Lithium-ion rechargeable Station : Station de charge et de nettoyage incluse Ergonomie, Indice & Poids Indice de réparabilité : 8,5 / 10 Poids du produit : 4,5 kg Coloris : Gris / Noir",
-    "price": 129.99,
-    "reference_price": 199.99,
-    "discount_percent": 35.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/aspirateur-laveur-sans-fil-tineco-ifloor-y2-lite-station-de-chargenettoyage-incluse-3431579",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/sPMoO/3431579_1/re/1200x1200/qt/90/3431579_1.jpg",
-    "detected_at": "2026-10-13T09:42:35+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 129.99,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Du 17/10 au 01/11] Entrée gratuite pour les enfants de moins de 12 ans déguisés - Parc animalier Zoodyssée (79)",
-    "description": "Pendant les vacances de la Toussaint (du 17 octobre au 1er novembre 2026), le parc Zoodyssée en forêt de Chizé offre l'entrée aux enfants de moins de 12 ans qui viennent déguisés pour Halloween ! (devil) Un jeu de piste thématique est inclus dans la visite (nerd) Les adultes accompagnateurs règlent leur place au tarif habituel. Seule la balade crépusculaire des 21 et 28 octobre demande un supplément de 4,50 € par personne (sur réservation)",
-    "price": 4.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/du-1710-au-0111-entree-gratuite-pour-les-enfants-de-moins-de-12-ans-deguises-parc-animalier-zoodyssee-79-3431576",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Jf4hx/3431576_1/re/1200x1200/qt/90/3431576_1.jpg",
-    "detected_at": "2026-10-13T09:41:21+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 4.5,
-        "observed_at": "2026-10-13T09:59:23.638697+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Samsung Carte Mémoire microSDXC Sonic PRO Plus 128 Go avec Adaptateur SD",
-    "description": "36,54€ - Amazon Carte mémoire MicroSDXC haute performance conçue pour étendre l'espace de stockage des consoles de jeux portables, smartphones, tablettes et caméras. Elle offre des débits optimisés pour le transfert rapide de données lourdes, la lecture de jeux vidéo et l'enregistrement vidéo en haute résolution. Points forts et caractéristiques : • Hautes performances de transfert : Offre une vitesse de lecture allant jusqu'à 180 Mo/s grâce à l'interface UHS-I, réduisant les temps de chargement des applications et des fichiers. • Spécifications A2 et V30 : Certifiée A2 pour un chargement plus rapide des applications et classe de vitesse vidéo V30 assurant un enregistrement fluide en vidéo 4K UHD. • Polyvalence et adaptateur inclus : Livrée avec un adaptateur SD plein format pour une compatibilité étendue avec les appareils photo, caméras et ordinateurs portables. • Conception robuste : Protection intégrée contre l'eau, les températures extrêmes, les rayons X, les chutes et les champs magnétiques pour sécuriser les données stockées.",
-    "price": 36.54,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/samsung-carte-memoire-microsdxc-sonic-pro-plus-128-go-avec-adaptateur-sd-3431577",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/grDMm/3431577_1/re/1200x1200/qt/90/3431577_1.jpg",
-    "detected_at": "2026-10-13T09:36:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 36.54,
-        "observed_at": "2026-10-13T09:43:28.542856+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casquette trucker New Balance Core 47 - Vert ou Beige, taille ajustable",
-    "description": "12,99€ - Espace des marques Une casquette trucker New Balance de la ligne Core, simple à porter au quotidien, aussi bien avec une tenue de sport qu'avec un look décontracté. Elle est construite en 6 panneaux avec le logo New Balance brodé sur l'avant. La composition indiquée sur la fiche est 100 % coton, et la taille est ajustable à l'arrière pour s'adapter à la plupart des tours de tête. Deux coloris sont disponibles au même tarif : Vert et Beige (le modèle beige est accessible depuis la fiche du vert, via le choix de la couleur). Référence NBCTK04CNP. Côté livraison, plusieurs options sont proposées : point relais Chronopost, livraison à domicile en Colissimo, ou retrait gratuit dans l'un des magasins physiques Espace des Marques. Les retours sont possibles sous 30 jours.",
-    "price": 12.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casquette-trucker-new-balance-core-47-vert-ou-beige-taille-ajustable-3431575",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jE1AB/3431575_1/re/1200x1200/qt/90/3431575_1.jpg",
-    "detected_at": "2026-10-13T09:35:27+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 12.99,
-        "observed_at": "2026-10-13T09:43:28.542856+00:00"
       }
     ]
   }
