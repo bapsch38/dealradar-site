@@ -810,7 +810,7 @@ function renderOffers() {
     const offerTextForPrice = (String(offer.title || "") + " " + String(offer.description || "")).toLocaleLowerCase("fr");
     const unknownPriceLabel = /\b(gratuit|gratuite|gratuitement|offert|offerte|offerts|offertes)\b/.test(offerTextForPrice)
       ? "Gratuit"
-      : /code[s]? promo|cashback|cagnott|réduction sur une sélection|jusqu['’]?à\s*\d+\s*%|remise sur une sélection/.test(offerTextForPrice)
+      : /code[s]? promo|cashback|cagnott|odr|offre de remboursement|remise supplémentaire|points doublés|sélection d['’]articles en promotion|réduction sur une sélection|remise sur une sélection|jusqu['’]?à\s*\d+\s*%|réduction de\s*\d+\s*%|remise de\s*\d+\s*%/.test(offerTextForPrice)
         ? "Offre sans prix unique"
         : "Prix non communiqué par la source";
     const prices = '<div class="deal-prices">' +
@@ -835,7 +835,7 @@ function renderOffers() {
       '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + category + '</div><span class="deal-source-badge">' + source + '</span></div><h3 class="deal-title">' + title + '</h3>' +
       prices + (description ? '<p class="deal-meta">' + description + '</p>' : '') +
       '<div class="deal-meta">' + (date ? 'Détectée le ' + date.toLocaleDateString("fr-FR") + ' · ' : '') +
-      (offer.price_verified === true ? 'Prix relevé sur une fiche marchand' : (price ? 'Prix transmis par la source · à contrôler chez le vendeur' : 'Prix non fourni dans les données reçues')) + '</div>' +
+      (offer.price_verified === true ? 'Prix relevé sur une fiche marchand' : (price ? (isDealabs ? 'Prix annoncé sur Dealabs · à comparer chez le marchand' : 'Prix transmis par le flux · à comparer chez le marchand') : 'Prix non fourni dans les données reçues')) + '</div>' +
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
       renderPriceHistory(offer) +
       (url ? '<a class="deal-cta" href="' + url + '" target="_blank" rel="noopener noreferrer sponsored">Voir l’offre ↗</a>' : '') +
