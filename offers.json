@@ -651,7 +651,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:37:45.645567+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 12.47,
@@ -671,7 +671,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:37:45.645567+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 19.99,
@@ -931,7 +931,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
     "price_history": [
       {
         "price": 89.99,
@@ -951,7 +951,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
     "price_history": [
       {
         "price": 42.97,
@@ -971,7 +971,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
     "price_history": [
       {
         "price": 124.9,
@@ -991,7 +991,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T22:02:49.847692+00:00",
     "price_history": [
       {
         "price": 26.99,
@@ -3896,6 +3896,10 @@
       {
         "price": 31.45,
         "observed_at": "2026-10-12T22:02:00.505050+00:00"
+      },
+      {
+        "price": 31.45,
+        "observed_at": "2026-10-13T22:02:51.987880+00:00"
       }
     ]
   },
@@ -6728,6 +6732,48 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Client Red By SFR] Smartphone 6.7\" Samsung Galaxy A17 - 5G, 128 Go (via ODR 20€)",
+    "description": "159€ - RED by SFR Smartphone Samsung Galaxy A17 5G disponible chez RED by SFR avec un forfait RED, avec 100 € de remise immédiate et 20 € remboursés sur demande. Caractéristiques : Écran Super AMOLED de 6,7 pouces Définition Full HD+ (2340 × 1080), 90 Hz Processeur Samsung Exynos 1330 RAM : 4 Go Stockage : 128 Go, extensible par microSD Appareil photo principal : 50 MP avec stabilisation optique Ultra grand-angle : 5 MP Macro : 2 MP Caméra frontale : 13 MP Batterie : 5 000 mAh Charge rapide : 25 W Connectivité : 5G, Wi-Fi, Bluetooth 5.3, NFC Double SIM Certification IP54 Protection Gorilla Glass Victus Android avec jusqu’à 6 générations de mises à jour du système et 6 ans de mises à jour de sécurité Poids : 192 g Couleurs : Bleu, Gris, Noir Conditions de l’offre : 279 € sans forfait 159 € avec un forfait RED by SFR 100 € de remise immédiate 20 € remboursés après achat sur demande Livraison gratuite en 24 h Garantie 2 ans Adaptateur secteur non fourni Offre annoncée jusqu’au 19/10, selon les conditions de RED by SFR",
+    "price": 159.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/client-red-by-sfr-samsung-galaxy-a17-5g-128-go-a-159-eur-3431998",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/s6w13/3431998_1/re/1200x1200/qt/90/3431998_1.jpg",
+    "detected_at": "2026-10-13T21:56:04+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 159.0,
+        "observed_at": "2026-10-13T22:02:51.987880+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 6 Rubans Adhésifs UHU Rollafix Marron - 50 mm x 50 m",
+    "description": "12,90€ - Amazon La facilité avec laquelle ce ruban adhésif UHU Rollafix se déchire à la main est un atout non négligeable pour toutes vos tâches d'emballage. Ce lot de six rubans, proposé par Amazon, est idéal pour l'envoi de colis et les travaux qui demandent une fixation solide à la maison ou au bureau. Usage : Emballage et packaging Adhérence : Élevée Matière : Sans solvants Déchirabilité : Facile à la main Dimensions par rouleau : 50 mm de largeur sur 50 m de longueur Conditionnement : Lot de 6 rubans Ce format économique permet de stocker de quoi faire face à de nombreux paquets, sans craindre de tomber à court de scotch au mauvais moment.",
+    "price": 12.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-6-rubans-adhesifs-uhu-rollafix-marron-50-mm-x-50-m-3431999",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vOqiW/3431999_1/re/1200x1200/qt/90/3431999_1.jpg",
+    "detected_at": "2026-10-13T21:52:04+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-13T22:02:51.987880+00:00"
       }
     ]
   },
@@ -11399,26 +11445,5 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "price_history": []
-  },
-  {
-    "title": "Barquette de légumes pot au feu 1kg",
-    "description": "1,99€ - Aldi Avec le retour de l'automne et de la pluie vient le retour des plats emblématiques de cette période. Bon, peu cher et rassasiant, le pot au feu est un incontournable de la saison froide. Du 13 au 17 octobre, Aldi propose la barquette de légumes pour pot au feu d'1kg à seulement 1.99€. Cette barquette contient un mélanges de carottes, oignons jaunes, navets, poireaux, thym, bref tout le nécessaire pour concocter ce plat. Tous les légumes de cette barquette sont d'origine France.",
-    "price": 1.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/barquette-de-legumes-pot-au-feu-1kg-3431718",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6jfRU/3431718_1/re/1200x1200/qt/90/3431718_1.jpg",
-    "detected_at": "2026-10-13T13:00:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      }
-    ]
   }
 ]
