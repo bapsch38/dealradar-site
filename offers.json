@@ -1,5 +1,23 @@
 [
   {
+    "title": "Bosch 1000x Agrafes à dos étroit, résinifiées, type 55",
+    "price": 22.85,
+    "reference_price": 29.99,
+    "discount_percent": 23.81,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001419E24",
+    "image_url": "https://m.media-amazon.com/images/P/B001419E24.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 04:00:37",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 22.85,
+        "observed_at": "2026-10-13T04:00:40.824102+00:00"
+      }
+    ]
+  },
+  {
     "title": "Facom NKD.500 Coffret De Douilles Impact 12 Pans 3/4",
     "price": 627.84,
     "reference_price": 848.17,
@@ -2284,6 +2302,20 @@
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
       }
     ]
+  },
+  {
+    "title": "Bosch 1000x Agrafes à dos étroit, résinifiées, type 55",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001419E24",
+    "image_url": "https://m.media-amazon.com/images/P/B001419E24.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T03:47:29+00:00",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "( remise panier ) Chaussure de running Adidas Evo SL Zip Silver Met ou Core Black du 39.1/3 au 46",
@@ -10167,25 +10199,6 @@
     "price_history": [
       {
         "price": 85.49,
-        "observed_at": "2026-10-12T15:05:45.719112+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Paire d'enceinte Focal Twin6 ST6 (univers-sons.com)",
-    "description": "2 898€ Paire de Focal Twin6 ST6, le son est aussi bon qu’elles sont belles",
-    "price": 2898.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/la-paire-de-focal-twin-a-1000eur-de-remise-3431110",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/KxeCG/3431110_1/re/1200x1200/qt/90/3431110_1.jpg",
-    "detected_at": "2026-10-12T14:46:36+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 2898.0,
         "observed_at": "2026-10-12T15:05:45.719112+00:00"
       }
     ]
