@@ -1,5 +1,23 @@
 [
   {
+    "title": "CHERRY DW 9000 SLIM, ensemble ...ppe silencieuse, Blanc argenté",
+    "price": 57.6,
+    "reference_price": 89.08,
+    "discount_percent": 35.34,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NZWI0Q",
+    "image_url": "https://m.media-amazon.com/images/P/B001NZWI0Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 05:47:38",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 57.6,
+        "observed_at": "2026-10-13T05:47:42.063795+00:00"
+      }
+    ]
+  },
+  {
     "title": "Bosch 1000x Agrafes à dos étroit, résinifiées, type 55",
     "price": 22.85,
     "reference_price": 29.99,
@@ -2302,6 +2320,110 @@
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
       }
     ]
+  },
+  {
+    "title": "adidas Originals Lot de 6 paires de chaussettes mi-mollet",
+    "description": "10€ - JD Sports Les chaussettes mi-mollet adidas Originals sont un lot de 6 paires de chaussettes douces et extensibles. *spécifications du produit :* - Matière mélangée en partie recyclée - Logo Trèfle - Lavable en machine - Référence : KQ7899",
+    "price": 10.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/adidas-originals-lot-de-6-paires-de-chaussettes-mi-mollet-3431424",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/H7EMV/3431424_1/re/1200x1200/qt/90/3431424_1.jpg",
+    "detected_at": "2026-10-13T05:37:27+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 10.0,
+        "observed_at": "2026-10-13T05:47:42.063795+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Flooded Xbox séries dématérialisé",
+    "description": "1,29€ - Xbox Store Flooded est un jeu de construction de ville inversé pour Xbox. *caractéristiques du produit :* - Jeu de construction de ville inversé - Optimisation de la production sur une île - Gestion des ressources - Monde environnant submergé par les eaux Description Flooded est un city-builder inversé dans lequel vous devez optimiser votre production sur une île qui rétrécit au fil du temps. Réunissez assez de ressources pour vous mettre à l’abri, tandis que le monde environnant disparaît sous les eaux. Survivez à l’inondation Le niveau de la mer a atteint un seuil critique, ne laissant qu’une poignée de lieux habitables. En tant que chef d’un petit groupe de survivants, vous avez pour mission d’extraire des ressources afin de construire une arche salvatrice. Mais attention, au fur et à mesure que le temps passe, les eaux montent de plus en plus, réduisant ainsi la surface terrestre disponible.",
+    "price": 1.29,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/flooded-xbox-series-dematerialise-3431423",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZWz39/3431423_1/re/1200x1200/qt/90/3431423_1.jpg",
+    "detected_at": "2026-10-13T05:37:14+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 1.29,
+        "observed_at": "2026-10-13T05:47:42.063795+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Qnap TS-632X-4G 6-bay.",
+    "description": "76,67€ - E.Leclerc Certainement une erreur de prix. Mais le statut de ma commande est passé en expédition en cours.",
+    "price": 76.67,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/qnap-ts-632x-4g-6-bay-3431422",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/28FmC/3431422_1/re/1200x1200/qt/90/3431422_1.jpg",
+    "detected_at": "2026-10-13T05:35:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 76.67,
+        "observed_at": "2026-10-13T05:47:42.063795+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Philips Hue Secure, Caméra HD ...c Une Seule Application, Blanc",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0CDM9YR8H",
+    "image_url": "https://m.media-amazon.com/images/P/B0CDM9YR8H.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T05:32:25+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Dispatch Xbox séries et pc dématérialisé",
+    "description": "23,19€ - Xbox Store Dispatch sur Xbox séries et pc en promo. Description Dispatch est un jeu à l'humour décapant sur des super-héros en milieu professionnel au cœur du Los Angeles contemporain. Imaginé par les créateurs de Tales from the Borderlands et de The Wolf Among Us, il s'appuie sur un casting prestigieux réunissant Aaron Paul, Laura Bailey et Jeffrey Wright. Vous incarnez Robert Robertson, alias Méca Man, dont l'exo-armure a été détruite lors d'un affrontement contre son pire ennemi. Privé de ses pouvoirs, il est contraint d'accepter un poste au centre de super-héros... derrière un bureau. Prenez la tête d'un groupe d'anciens super-méchants en quête de rédemption. Faites évoluer vos recrues tout en gérant les relations au bureau, et réparez votre armure pour assouvir votre soif de vengeance ! FAÇONNEZ LE RÉCIT Dans Dispatch, chacune de vos décisions impacte le cours de l'histoire. Que ce soit lors d'échanges autour de la machine à café ou en situation de crise sur le terrain, vos choix influencent vos relations avec les héros, leur loyauté et le destin de votre personnage. COORDONNEZ LES MISSIONS Gérez les urgences depuis la carte des interventions et déployez les héros appropriés... ou non. Évaluez les risques par rapport aux récompenses, mais gardez à l'esprit que vos décisions auront des répercussions sur votre équipe et sur toute la ville. GÉREZ VOTRE ÉQUIPE Un héros ne se résume pas à ses pouvoirs. Chacun a ses failles, ses caprices et son passé à prendre en compte pour maintenir la cohérence au sein de l'équipe. Améliorez leurs compétences et débloquez des capacités pour renforcer leur efficacité sur le terrain. Entre humour, stratégie et narration interactive, Dispatch redéfinit le sens du mot « héroïsme », qu'on porte une cape ou qu'on soit coincé derrière un écran. RENCONTREZ LA DISTRIBUTION DES ACTEURS Avec une distribution exceptionnelle issue de tous les horizons du divertissement - Aaron Paul (Breaking Bad, Westworld, Black Mirror) - Laura Bailey (The Legend of Vox Machina, The Last of Us II, Marvel's Spider-Man) - Erin Yvette (Hades II, The Wolf Among Us, Oxenfree) - MoistCr1TiKaL (Charles White) - Jacksepticeye (Sonic Prime, River City Girls 1 & 2, Bendy and the Ink Machine & Bendy and the Dark Revival) - Travis Willingham (The Legend of Vox Machina, Critical Role, Lego Avengers) - Alanah Pearce (V/H/S Beyond, Cyberpunk 2077, Gears 5) - Lance Cantstopolis (Karate, Dancing, Actor) - Joel Haver (Smiling Friends, goodlongpee the movie) - THOT SQUAD (Musician: Pound Cake, Hoes Depressed) - Yung Gravy (Musician) - Matthew Mercer (Critical Role, Overwatch) - and Jeffrey Wright (American Fiction, Casino Royale)",
+    "price": 23.19,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/dispatch-xbox-series-et-pc-dematerialise-3431419",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NtfkV/3431419_1/re/1200x1200/qt/90/3431419_1.jpg",
+    "detected_at": "2026-10-13T05:30:26+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 23.19,
+        "observed_at": "2026-10-13T05:47:42.063795+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CHERRY DW 9000 SLIM, ensemble ...ppe silencieuse, Blanc argenté",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B001NZWI0Q",
+    "image_url": "https://m.media-amazon.com/images/P/B001NZWI0Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T05:29:15+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "Blouson zippé brossé Uniqlo - Tailles de S à XL",
@@ -10106,115 +10228,6 @@
       {
         "price": 150.0,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sèche-linge pompe à chaleur Dreame L9 - Vapeur PressFree, IA, Dual Inverter (Vendeur tiers - Darty)",
-    "description": "639€ - Cdiscount Présentation du produit Le sèche‑linge intelligent Dreame L9 qui allie puissance, précision et soin du linge! Grâce à son IA avancée, son système à double inverseur et ses technologies de soin textile, le Dreame L9 transforme chaque cycle de séchage en une expérience rapide, douce et ultra efficace. Séchage optimisé par IA : une précision au service des tissus Le sèche‑linge Dual Inverter IA L9 intègre un algorithme intelligent capable d’analyser en temps réel la température et l’humidité du linge. Les capteurs ajustent automatiquement le cycle et arrêtent l’appareil au moment idéal, évitant tout sur‑séchage. Ainsi, chaque tissu bénéficie d’un soin personnalisé qui combine performance et économie d’énergie. Technologie double inverseur : rapidité, stabilité et faible consommation Équipé d’un compresseur et d’un moteur à inverseur, le L9 améliore considérablement le flux d’air et l’efficacité thermique. La pompe à chaleur permet un séchage plus économe tout en maintenant une puissance élevée. Résultat : un linge sec plus rapidement, notamment grâce au cycle rapide de 30 minutes pour 1 kg de textiles — idéal pour les besoins urgents du quotidien. PressFree : un défroissage vapeur performant Le système vapeur PressFree, doté d’un réservoir généreux de 480 ml, diffuse une vapeur dense qui pénètre au cœur des fibres. Les plis sont détendus, les chemises retrouvent leur forme impeccable en seulement 25 minutes, et le linge ressort plus souple et plus net. Une solution premium pour limiter le repassage tout en préservant les matières. Un air purifié grâce à la filtration anti peluches à quatre couches Pour garantir une hygiène parfaite, le L9 utilise un système de filtration multicouche capable de capturer poussières fines, cheveux, pollen et microparticules. Cette protection renforce la qualité du séchage tout en maintenant l’appareil propre et performant dans le temps. Modes intelligents et mises à jour OTA Le sèche‑linge propose plusieurs modes adaptés à chaque",
-    "price": 639.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/seche-linge-pompe-a-chaleur-dreame-l9-vapeur-pressfree-ia-dual-inverter-3431148",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JYRiw/3431148_1/re/1200x1200/qt/90/3431148_1.jpg",
-    "detected_at": "2026-10-12T15:50:16+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 639.0,
-        "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur laveur Dreame H15S - 21 000 Pa, Plat 180°, Auto-nettoyage 90°C",
-    "description": "279€ - Amazon À propos de cet article Nettoyage complet sans oublier aucun endroit: Le H15S va plus loin et nettoie plus en profondeur; Son bras robotisé AI DescendReach s’abaisse pour nettoyer facilement le long des murs, tandis que le design plat à 180° passe sous les meubles bas pour s’attaquer à la saleté cachée, offrant un nettoyage en profondeur sans aucun espace oublié TangleCut garantit un nettoyage facile des poils et cheveux: Le racleur TangleCut élimine facilement les nœuds et simplifie l’entretien de la brosse en coupant les poils/cheveux et en les aspirant directement dans le réservoir d’eau sale Entretien mains libres: La brosse est soumise à un lavage à chaud à 90 °C, suivi d’un séchage à 90 °C avec un débit d’air à grande vitesse et un fonctionnement silencieux de 63 dBA; Le nettoyage automatique imite le lavage à la main, avec la brosse à double rotation qui change de sens pour nettoyer soigneusement les poils et ainsi éviter les odeurs et la formation de moisissures Nettoyage puissant de 21 000 Pa avec une batterie longue durée Le H15S fournit une puissante aspiration de 21 000 Pa pour éliminer facilement les saletés sèches et liquids; Il lave le sol avec de l’eau propre tout en récupérant instantanément l’eau sale pour garder votre sol plus proper; Avec jusqu’à 50 minutes d’autonomie en mode Silencieux, vous pouvez nettoyer toute votre maison sans interruption Conception intelligente pour un nettoyage personnalisé: Profitez d’un nettoyage personnalisé à chaque fois grâce aux niveaux d’aspiration et d’eau réglables qui s’adaptent au niveau de saleté; Personnalisez vos préférences via l’application pour un contrôle précis et un nettoyage ciblé qui répond aux besoins de votre maison Comprend une bouteille de 500 ml de solution nettoyante AWH10",
-    "price": 279.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/aspirateur-laveur-dreame-h15s-21-000-pa-plat-180-auto-nettoyage-90c-3431147",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZzoNK/3431147_1/re/1200x1200/qt/90/3431147_1.jpg",
-    "detected_at": "2026-10-12T15:47:43+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 279.0,
-        "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Trixie - 44343 - Filet de protection - Transparent - 8 x 3 m",
-    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "fr.camelcamelcamel.com/top_drops/feed",
-    "url": "https://fr.camelcamelcamel.com/product/B0009587YM",
-    "image_url": "https://m.media-amazon.com/images/P/B0009587YM.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12T15:45:52+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "price_history": []
-  },
-  {
-    "title": "Montre connectée Huawei Watch GT 7 Pro - 46mm (Jaune)",
-    "description": "322,99€ - Amazon Meilleur prix jamais vu pour l'instant il me semble. Le coloris jaune c'est aussi pour moi celui qui ira le mieux avec un beau bracelet métal contrairement au vert qui est trop présent sur le boitier Boîtier en alliage de titane et lunette en céramique nanotechnologique : conçu pour l’extérieur, peaufiné pour le quotidien. Le boîtier en alliage de titane et la lunette en céramique offrent une résistance exceptionnelle aux chocs et aux rayures, tout en restant légers et confortables du matin au soir Ski entièrement repensé : que ce soit en intérieur ou en plein air, cinq modes dédiés au ski et au snowboard suivent chacune de vos sessions. Pour le ski et le snowboard en extérieur, explorez plus de 3 000 stations et analysez votre trajectoire, vos virages et la force G afin d’améliorer chaque descente Modes cyclisme : synchronisez vos itinéraires pour visualiser à l’avance le profil détaillé des montées. Des alertes en temps réel vous aident à gérer votre effort. Passez chaque montée au crible grâce à l’analyse d’entraînement par IA, ou connectez-vous à un home-trainer connecté pour vos séances en intérieur Bracelet EasyCross : pensé pour la transpiration, la vitesse et les mouvements à fort impact. L’élégant bracelet HUAWEI EasyCross se verrouille solidement et se glisse sous le poignet – il épouse parfaitement votre poignet pour un maintien irréprochable, quel que soit votre entraînement Autonomie jusqu’à 21 jours : jusqu’à 21 jours en utilisation légère, jusqu’à 12 jours avec le suivi santé quotidien, les notifications et les séances d’entraînement, et jusqu’à 51 heures en mode Trail Running. Une énergie suffisante pour vous accompagner de la ligne de départ à la ligne d’arrivée Suivi santé avancé : consultez vos statistiques de santé quotidiennes pour trouver le bon équilibre entre effort et récupération. Enregistrez un électrocardiogramme (ECG) de 30 secondes Fonctionne parfaitement avec iOS et Android : une compatibilité sans effort avec les deux systèmes, qui assure une synchronisation impeccable de vos notifications, données de santé et statistiques sportives, quel que soit l’appareil que vous utilisez. Paiement NFC avec Curve Pay: Des paiements rapides et simples, directement depuis votre poignet. Convient aux poignets de 140 à 210 mm de circonférence. Garantie de 30 mois (uniquement sur Amazon) Spécifications Système d'exploitation: HarmonyOS Capacité de stockage mémoire: 64 Go Caractéristique spéciale: Appels Bluetooth, Calendrier du cycle, GPS, Suivi multisport, Écran tactile Capacité de la batterie: 867 milliamp_hours Technologie de connectivité: Bluetooth, GPS Norme de communication sans fil: Bluetooth Composition de la pile: Lithium-ion GPS: GPS intégré Forme: Ronde Taille de l'écran: 1,47 Pouces Système d’exploitation: HarmonyOS Fonctionnalités du produit: Appels Bluetooth, Calendrier du cycle, GPS, Suivi multisport, Écran tactile fonctionnalité gps de géopositionnement: GPS intégré Type du matériau de la bande: Silikon Type de matériau du boîtier: Boîtier avant : acier inoxydable niveau de résistance à l'eau: Étanche Type de sport: Course à pied, Cyclisme, Fitness, Plongeon apport humain: Écran tactile Application prise en charge: Calendrier du cycle, Cardiofréquencemètre, GPS, Mesure de l'oxygène sanguin, Suivi Multisports Profondeur d'étanchéité à l’eau: 50 Mètres Système de navigation par satellite pris en charge: GPS Type de compteur: Moniteur ECG Type de fermeture: Boucle Type de produit: Montre seule Couleur: Jaune Couleur de la bande: jaune technologie de la connectivité: Bluetooth, GPS Type de technologie sans fil: Bluetooth Fournisseur de réseau sans fil: Tous les transporteurs Fonctionnalité de communication: Bluetooth, NFC appareils compatibles: Ordinateur portable, PC, Smartphone, Tablet, Notebook, PC, Tablette Modèles de téléphones compatibles: Compatible avec iOS et Android, Dispositifs Android, Dispositifs iOS Largeur de la bande: 22 Millimètres Poids de l'article: 55,5 Grammes Lon",
-    "price": 322.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/huawei-watch-gt-7-pro-46mm-montre-connectee-jaune-3431146",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/GCJMw/3431146_1/re/1200x1200/qt/90/3431146_1.jpg",
-    "detected_at": "2026-10-12T15:43:59+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 322.99,
-        "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      }
-    ]
-  },
-  {
-    "title": "PC Portable 16\" Lenovo IdeaPad Slim 3 16ABR8 - AMD Ryzen 5 5625U, WUXGA, 16 Go DDR4-SDRAM - Dole (39)",
-    "description": "449€ - E.Leclerc De nombreux points positifs qui le distingue du lot .. écran ips , proc performant et 16 Go rares à ce niveau de prix . .",
-    "price": 449.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lenovo-ideapad-slim-3-16abr8-amd-ryzen-5-5625u-ordinateur-portable-406-cm-16-wuxga-16-go-ddr4-sdram-3431145",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/PoqEV/3431145_1/re/1200x1200/qt/90/3431145_1.jpg",
-    "detected_at": "2026-10-12T15:41:04+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 449.0,
-        "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Contrôleur de mouvement DJI RC Motion 2 - Joystick, Pilotage gestuel",
-    "description": "94,99€ - Cdiscount Présentation du produit DJI RC Motion 2 offre une expérience de contrôle de vol immersive, intuitive et réactive, pensée aussi bien pour les débutants que pour les pilotes expérimentés. Grâce à sa technologie de détection de mouvement, il suffit d’un simple mouvement du poignet pour diriger l’appareil et contrôler la trajectoire de vol avec précision. Associé au joystick amélioré, il permet de naviguer, manœuvrer et explorer le ciel de manière fluide et naturelle. Compatible avec DJI Avata et DJI Goggles, il transforme chaque vol en une expérience réaliste et totalement immersive. Conçu pour une utilisation confortable même prolongée, il intègre des fonctions optimisées pour un pilotage à une main, incluant décollage, atterrissage, accélération et manœuvres dynamiques en toute simplicité. La molette FN permet également un réglage rapide des paramètres caméra comme l’ISO ou l’obturateur, sans interrompre le vol. Compact, polyvalent et innovant, il redéfinit la manière de piloter en drone.",
-    "price": 94.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/controleur-de-mouvement-dji-rc-motion-2-joystick-pilotage-gestuel-3431144",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/smjT4/3431144_1/re/1200x1200/qt/90/3431144_1.jpg",
-    "detected_at": "2026-10-12T15:37:50+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 94.99,
-        "observed_at": "2026-10-12T15:43:27.201935+00:00"
       }
     ]
   }
