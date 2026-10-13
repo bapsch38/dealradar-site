@@ -1,5 +1,245 @@
 [
   {
+    "title": "Ultimate Ears WONDERBOOM PLAY,... Bluetooth portable et étanche",
+    "price": 47.99,
+    "reference_price": 56.56,
+    "discount_percent": 15.15,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07W7KV3SR",
+    "image_url": "https://m.media-amazon.com/images/P/B07W7KV3SR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 47.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Zens 4-in-1 Modular Wireless C...cteur de 65 W (EU,UK,US), Noir",
+    "price": 99.99,
+    "reference_price": 151.83,
+    "discount_percent": 34.14,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DVT7JG6F",
+    "image_url": "https://m.media-amazon.com/images/P/B0DVT7JG6F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:27",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KWB by Einhell Lame de fraisag...ses à chevilles plates Einhell",
+    "price": 12.95,
+    "reference_price": 20.4,
+    "discount_percent": 36.52,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08LH2NXYZ",
+    "image_url": "https://m.media-amazon.com/images/P/B08LH2NXYZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:26",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.95,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Relaxdays Accessoires Salle de...Bambou, Ensemble Complet, Gris",
+    "price": 25.88,
+    "reference_price": 39.99,
+    "discount_percent": 35.28,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09G3BTD2H",
+    "image_url": "https://m.media-amazon.com/images/P/B09G3BTD2H.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:25",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 25.88,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HÖGERT TECHNIK Pied de biche h...1200 x 19 mm, dureté HRC 42-48",
+    "price": 13.87,
+    "reference_price": 27.18,
+    "discount_percent": 48.97,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CZRX92RY",
+    "image_url": "https://m.media-amazon.com/images/P/B0CZRX92RY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:22",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 13.87,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 515.5545 Mini scie sabre pneumatique slimPOWER",
+    "price": 158.54,
+    "reference_price": 177.58,
+    "discount_percent": 10.72,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07C8WT733",
+    "image_url": "https://m.media-amazon.com/images/P/B07C8WT733.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:21",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 158.54,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Intenso Memory Safe Disque Dur...C et Mac + Ashampoo Backup Pro",
+    "price": 85.99,
+    "reference_price": 96.33,
+    "discount_percent": 10.73,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GHP99KWS",
+    "image_url": "https://m.media-amazon.com/images/P/B0GHP99KWS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:20",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 85.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Metabo BS 18 LT BL Perceuse-visseuse + Metaloc",
+    "price": 148.46,
+    "reference_price": 182.12,
+    "discount_percent": 18.48,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01GFQTQXE",
+    "image_url": "https://m.media-amazon.com/images/P/B01GFQTQXE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:19",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 148.46,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Xerox C230dni A4 22ppm Couleur...il avec Impression Recto-Verso",
+    "price": 189.99,
+    "reference_price": 289.0,
+    "discount_percent": 34.26,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B099X3HJQK",
+    "image_url": "https://m.media-amazon.com/images/P/B099X3HJQK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:16",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 189.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "OMAJIN by Netatmo Sonnette vid..., Audio bidirectionnel, OVD-01",
+    "price": 81.37,
+    "reference_price": 134.9,
+    "discount_percent": 39.68,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DBR5F5YX",
+    "image_url": "https://m.media-amazon.com/images/P/B0DBR5F5YX.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:14",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 81.37,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Flamingo Harnais Step&Go Berta...échissant pour Chat | Taille S",
+    "price": 11.48,
+    "reference_price": 19.99,
+    "discount_percent": 42.57,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FD42FCDD",
+    "image_url": "https://m.media-amazon.com/images/P/B0FD42FCDD.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:13",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.48,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kerbl Pet Niche Douillette Anne - Vert - 45 x 40 x 34 cm",
+    "price": 18.99,
+    "reference_price": 29.52,
+    "discount_percent": 35.67,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D6C11T4N",
+    "image_url": "https://m.media-amazon.com/images/P/B0D6C11T4N.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 18:57:11",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
     "title": "Pure Moment Réveil de Chevet e...euse, Affichage Réglable) Noir",
     "price": 89.99,
     "reference_price": 109.72,
@@ -483,7 +723,7 @@
     "title": "SHARPIE Marqueurs créatifs Feu...ure scolaire | Bleu | Lot de 6",
     "price": 6.93,
     "reference_price": 27.0,
-    "discount_percent": 74.33,
+    "discount_percent": 74.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DWSDMB97",
     "image_url": "https://m.media-amazon.com/images/P/B0DWSDMB97.01._AC_SL1500_.jpg",
@@ -491,7 +731,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 6.93,
@@ -503,7 +743,7 @@
     "title": "RICOO F0311 Support Mural Écra...D LCD VESA 50x50 75x75 100x100",
     "price": 11.71,
     "reference_price": 22.12,
-    "discount_percent": 47.06,
+    "discount_percent": 47.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00PC7G28K",
     "image_url": "https://m.media-amazon.com/images/P/B00PC7G28K.01._AC_SL1500_.jpg",
@@ -511,7 +751,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 11.71,
@@ -523,7 +763,7 @@
     "title": "Moneta Casserole 20 CM Yes (ZEUS 2.0)",
     "price": 28.15,
     "reference_price": 38.08,
-    "discount_percent": 26.08,
+    "discount_percent": 26.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00U2T346G",
     "image_url": "https://m.media-amazon.com/images/P/B00U2T346G.01._AC_SL1500_.jpg",
@@ -531,7 +771,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 28.15,
@@ -543,7 +783,7 @@
     "title": "MICHAEL KORS Femmes Analogique...let en Acier Inoxydable MK4916",
     "price": 95.0,
     "reference_price": 179.0,
-    "discount_percent": 46.93,
+    "discount_percent": 46.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0F24QXFSN",
     "image_url": "https://m.media-amazon.com/images/P/B0F24QXFSN.01._AC_SL1500_.jpg",
@@ -551,7 +791,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 95.0,
@@ -571,7 +811,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 14.1,
@@ -583,7 +823,7 @@
     "title": "Samsung Galaxy A37 5G Lavande 8 Go 256 Go AMZ",
     "price": 459.0,
     "reference_price": 553.64,
-    "discount_percent": 17.09,
+    "discount_percent": 17.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0GR629R8N",
     "image_url": "https://m.media-amazon.com/images/P/B0GR629R8N.01._AC_SL1500_.jpg",
@@ -591,7 +831,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 459.0,
@@ -603,7 +843,7 @@
     "title": "Harman Kardon Aura Studio 5 Ha...oré, Halo ambiant à 360°, Noir",
     "price": 296.6,
     "reference_price": 329.95,
-    "discount_percent": 10.11,
+    "discount_percent": 10.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0FX2VM6CG",
     "image_url": "https://m.media-amazon.com/images/P/B0FX2VM6CG.01._AC_SL1500_.jpg",
@@ -611,7 +851,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 296.6,
@@ -623,7 +863,7 @@
     "title": "RØDE Câble SC22 USB-C vers USB-C (30 cm, Violet)",
     "price": 11.34,
     "reference_price": 19.99,
-    "discount_percent": 43.27,
+    "discount_percent": 43.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CSK5TM6F",
     "image_url": "https://m.media-amazon.com/images/P/B0CSK5TM6F.01._AC_SL1500_.jpg",
@@ -631,7 +871,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 11.34,
@@ -643,7 +883,7 @@
     "title": "SHIMANO Pédalier VTT FC-TY301 ...- 42/34/24 Dents - Noir - 2021",
     "price": 36.35,
     "reference_price": 43.0,
-    "discount_percent": 15.47,
+    "discount_percent": 15.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0863BLR4M",
     "image_url": "https://m.media-amazon.com/images/P/B0863BLR4M.01._AC_SL1500_.jpg",
@@ -651,7 +891,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 36.35,
@@ -663,7 +903,7 @@
     "title": "Canon PIXMA TS9551a Imprimante...) à Cartouches séparées, Blanc",
     "price": 175.6,
     "reference_price": 209.57,
-    "discount_percent": 16.21,
+    "discount_percent": 16.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D45RVN92",
     "image_url": "https://m.media-amazon.com/images/P/B0D45RVN92.01._AC_SL1500_.jpg",
@@ -671,7 +911,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
     "price_history": [
       {
         "price": 175.6,
@@ -3416,6 +3656,10 @@
       {
         "price": 29.94,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 29.94,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3436,6 +3680,10 @@
       {
         "price": 7.97,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 7.97,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3456,6 +3704,10 @@
       {
         "price": 316.92,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 316.92,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3476,6 +3728,10 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3496,6 +3752,10 @@
       {
         "price": 38.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 38.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3516,6 +3776,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3536,6 +3800,10 @@
       {
         "price": 8.15,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 8.15,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3556,6 +3824,10 @@
       {
         "price": 5.2,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 5.2,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3576,6 +3848,10 @@
       {
         "price": 14.03,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 14.03,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -3596,6 +3872,10 @@
       {
         "price": 5.9,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 5.9,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -5684,6 +5964,237 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Appareil à raclette 6 personnes Techwood TR-602 MULTI - Poêlons avec manches colorés",
+    "description": "19,98€ - Electro Dépôt Appareil à raclette 6 personnes Techwood TR-602 MULTI - Poêlons avec manches colorés Appareil à raclette Techwood pour 6 personnes doté d'une plaque grill supérieure et de 6 poêlons antiadhésifs avec manches de couleurs différentes pour faciliter le repérage de chacun autour de la table. L'appareil dispose d'un interrupteur marche/arrêt avec témoin lumineux et offre une puissance adaptée pour la cuisson du fromage et des grillades simultanées. https://www.electrodepot.fr/raclette-multifonctions-techwood-6-pers-tr-602-multi.html Prix : 19,98€ Frais de port : Offert en retrait magasin Code promo : Aucun",
+    "price": 19.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/appareil-a-raclette-6-personnes-techwood-tr-602-multi-poelons-avec-manches-colores-3431916",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QucJU/3431916_1/re/1200x1200/qt/90/3431916_1.jpg",
+    "detected_at": "2026-10-13T18:55:47+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.98,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Television samsung QLED 65 pouces",
+    "description": "439,99€ - JoyBuy Très bon prix pour cette télévision Samsung QLed 65 pouces. Elle est à 499€ sous une autre référence",
+    "price": 439.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/television-samsung-qled-65-pouces-3431921",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/h5JZs/3431921_1/re/1200x1200/qt/90/3431921_1.jpg",
+    "detected_at": "2026-10-13T18:55:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 439.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Assiette creuse coupelle Duralex Lys - 19,5 cm",
+    "description": "1€ - Electro Dépôt Assiette creuse coupelle 19,5 cm Duralex Lys - Vert Assiette creuse coupelle de la gamme Lys par Duralex en verre trempé teinté vert de 19,5 cm de diamètre[cite: 4]. Fabriquée en France, cette coupelle résiste aux chocs thermiques et mécaniques et convient pour un usage quotidien, compatible lave-vaisselle et micro-ondes. https://www.electrodepot.fr/assiette-duralex-lys-vert-coupelle-19-5cm.html Prix : 1€ Frais de port : Offert en retrait magasin Code promo : Aucun Disponible dans d'autres coloris donc regarder le site en profondeur pour voir si une couleur qui vous plait est disponible !!",
+    "price": 1.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/assiette-creuse-coupelle-duralex-lys-195-cm-3431920",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QiX85/3431920_1/re/1200x1200/qt/90/3431920_1.jpg",
+    "detected_at": "2026-10-13T18:54:21+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.0,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Établi de jeu enfant Theo Klein Bosch 8469 Avec tournevis Ixolino et 81 accessoires (Via coupon)",
+    "description": "64,62€ - JoyBuy Établi de bricolage complet sous licence officielle Bosch pour enfant, comprenant 81 accessoires dont le tournevis électronique Ixolino fonctionnel, un véhicule à assembler et des équipements de protection. Points forts et caractéristiques : • Licence officielle Bosch : Reproduction fidèle des véritables outils Bosch adaptée à la taille des enfants. • Tournevis électronique Ixolino : Intègre la visseuse électronique jouet fonctionnant à piles avec double sens de rotation. • Équipement complet (81 pièces) : Livré avec un set de construction de véhicule, marteau, scie, clé, vis, écrous et casquet/casque de protection. • Structure stable et rangement : Nombreux rangements intégrés et bacs suspendus pour organiser les outils après le jeu.",
+    "price": 64.62,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/via-coupon-etabli-de-jeu-enfant-theo-klein-bosch-8469-avec-tournevis-ixolino-et-81-accessoires-3431919",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OeQcz/3431919_1/re/1200x1200/qt/90/3431919_1.jpg",
+    "detected_at": "2026-10-13T18:51:48+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 64.62,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blouson coupe-vent léger Army Placebo Jott",
+    "description": "45€ - JOTT Belle remise sur le blouson coupe-vent PLACEBO de JOTT, affiché à 45 € au lieu de 150 €, soit une réduction de 70 % et 105 € d’économie sur le site officiel de la marque. Avec son coloris Army, ce modèle affiche un style urbain et moderne, idéal pour la mi-saison, les sorties en extérieur ou les journées venteuses. Sa matière extérieure en polyamide ripstop est conçue pour couper le vent, tandis que sa doublure intérieure en mesh favorise la respirabilité. Caractéristiques : - Marque : JOTT - Modèle : PLACEBO - Couleur : Army - Prix : 45 € au lieu de 150 € - Matière extérieure : 100 % polyamide - Doublure : 100 % polyester - Coupe : droite et courte - Fermeture : zip - Capuche : avec cordons de serrage - Col haut ajustable - Deux poches latérales avec grands rabats - Poignets et taille ajustables grâce à des cordons de serrage Le tissu est annoncé comme coupe-vent et résistant à l'eau, pour protéger des éclaboussures et des pluies modérées. Il ne s'agit toutefois pas d'une veste imperméable destinée aux fortes averses. Le modèle est indiqué comme taillant normalement, avec un conseil de choisir sa taille habituelle. Plusieurs tailles sont proposées sur la page, de S à XXL selon les disponibilités. À 45 € pour un blouson JOTT initialement vendu 150 €, la réduction est intéressante si vous cherchez une veste légère avec un look streetwear.",
+    "price": 45.0,
+    "reference_price": 150.0,
+    "discount_percent": 70.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/blouson-coupe-vent-leger-army-placebo-jott-3431917",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gyOSm/3431917_1/re/1200x1200/qt/90/3431917_1.jpg",
+    "detected_at": "2026-10-13T18:47:09+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 45.0,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Machine à Café jouet Fisher-Price Café Musical Learn & Serve",
+    "description": "25,99€ - Amazon Fisher price café learn jouet multilingue À propos de ce produit Les tout-petits peuvent s’amuser à « préparer », servir et partager leur café avec ce jouet interactif d’apprentissage imitant une station de barista, qui contient plus de 100 chansons, sons, mélodies et phrases 10 accessoires de jeu : comprend 2 tasses à café avec leur couvercle, un pichet à lait, une cuillère, un macaron et un croissant, un sac à emporter et un porte-boisson 3 niveaux Éveil Progressif permettent d’apprendre l’alphabet, les formes, les chiffres et les séquences, le partage et bien plus encore. Utilisez le bouton en forme de globe pour sélectionner une langue : anglais, allemand ou français 5 activations ! Appuyez sur 4 boutons ou tournez le bouton du mousseur à lait pour entendre des sons réalistes, de la musique et des phrases. Ajoutez des grains dans le réservoir et faites glisser le porte-filtre pour entendre un cliquetis Favorise le développement de la motricité fine et globale, initie à la relation de cause à effet et encourage le jeu d’imitation chez les enfants de 18 mois et plus Commentaires client",
+    "price": 25.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/machine-a-cafe-jouet-3431913",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZFib3/3431913_1/re/1200x1200/qt/90/3431913_1.jpg",
+    "detected_at": "2026-10-13T18:41:47+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TV 75\" Philips The One 75PQS9001 - 2026, Ambilight, QLED, 144Hz (via ODR de 100€)",
+    "description": "914,37€ - Icoza Lien de l'ODR: https://www.philips.fr/c-w/promotions/ambilight-cashback + un code d’activation pour un jeu Assassin’s Creed offert pour les 1000 premiers participants À retenir de la TV PHILIPS 75PQS9001 TV LCD à rétroéclairage LED et avec QLED Diagonale : 189 cm (74\") TV Ultra HD (4K) : 3840 x 2160 TV Ambilight 3 / AmbiScape (3 canaux) Fluidité : Dalle 100/120Hz • VRR 144Hz • Interpolation 120Hz (MEMC) • Boost 240Hz (2K Virtualization) Traitements spéciaux : HDR (HDR10, HDR10+, HDR HLG, Dolby Vision 2) • Micro Dimming Pro • FreeSync Premium Système Audio 2.0 de 40 W RMS Tuner : TNT • Satellite • Câble Smart TV : Internet • Wi-Fi • Bluetooth • Lecteur multimédia réseau • AirPlay 2 • Alexa / Auracast / Control4 / Google Home / HomeKit / Matter Assistants : Google • Alexa Série / Design : The One Classe énergie : F | G (HDR)",
+    "price": 914.37,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tv-75-philips-the-one-2026-ambilight-qled-144hz-via-odr-de-100eur-3431915",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3p5gM/3431915_1/re/1200x1200/qt/90/3431915_1.jpg",
+    "detected_at": "2026-10-13T18:40:51+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 914.37,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de quilles finlandaises en bois - 12 quilles et 1 lanceur en pin",
+    "description": "5,99€ - GiFi Jeu de quilles finlandaises en bois GiFi - 12 quilles et 1 lanceur en pin Jeu de quilles finlandaises comprenant 12 quilles en bois numérotées et 1 lanceur. Les quilles mesurent 5 cm de diamètre pour 15 cm de hauteur, et le lanceur a une hauteur de 22 cm. Fabriqué en bois de pin, ce jeu est accessible dès l'âge de 3 ans. i.fr/3594190952/FR-2026-S42-V99/index.html#page/28-29 Prix : 5,99€ Frais de port : Offert en retrait magasin Code promo : Aucun Caractéristiques du produit Âge recommandé : dès 3 ans Diamètre : 5 cm Hauteur quille : 15 cm Hauteur Mölkky : 22 cm Matière(s) : bois Coloris : naturel Description du produit Ce jeu de plein air est composé de quilles numérotées et d'un lanceur en bois pour des parties conviviales. Fabriqué en bois naturel , il allie simplicité et plaisir pour toute la famille. Idéal pour jouer en extérieur, il permet de stimuler l'adresse et le calcul mental . Comprend 12 quilles et 1 Mölkky.",
+    "price": 5.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-quilles-finlandaises-en-bois-12-quilles-et-1-lanceur-en-pin-3431914",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/nEvcU/3431914_1/re/1200x1200/qt/90/3431914_1.jpg",
+    "detected_at": "2026-10-13T18:40:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "VTT Enduro Carbone Lapierre Spicy CF 8.9 29\" (FOX Factory Kashima 38 - Float X2, Transfer, Full XT 12s, DT Swiss EX 1700, M et L",
+    "description": "3 499€ - Statera Bikes voici le Spicy CF 8.9 en version full FOX Factory Kashima qui passe à 3 599,00 € au lieu de 7 999,00 € ! Une remise réelle de -55 % (-4 400 €) sur un montage \"Dream Bike\" de grand enduro/bikepark. Ici, aucun composant d'entrée de gamme à faire évoluer : tout le train roulant, la transmission et les suspensions sont directement au sommet de ce qui se fait sur le marché. ⚙️ Spécifications techniques haut de gamme : Cadre : Full Carbone HIGH, débattement 180 mm, géométrie engagée. Suspensions Full FOX Factory Kashima : Fourche FOX 38 Factory Float F-S, cartouche Grip X2 (180 mm) Amortisseur FOX Float X2 Factory Series (205x65 mm Trunnion) Tige de selle télescopique FOX Transfer Factory F-S (revêtement Kashima) Transmission : Full Shimano Deore XT 12s (pédalier XT FC-M8200, cassette XT CS-M8200 10-51t). Freinage : Disques hydrauliques Shimano Deore XT BR-M8220 4 pistons (203 mm av/ar). Roues : Paire de roues ultra-costaudes DT Swiss EX 1700 Spline 30 mm (la référence aluminium enduro). Pneus : Continental Kryptotal F & R (60-622 / 60-584). Pour le coup, c'est un sans-faute absolu sur l'équipement. Rien que l'ensemble suspensions FOX Factory + tige Kashima + roues DT EX 1700 + groupe XT 4 pistons coûte près de 3 200 € au détail. Vous avez le cadre carbone haut de gamme quasiment offert pour la différence. Les + : -4 400 € de remise réelle (-55 %) Trio FOX Factory Kashima complet (38, Float X2, Transfer) Roues DT Swiss EX 1700 solides et groupe complet Shimano XT",
+    "price": 3599.0,
+    "reference_price": 7999.0,
+    "discount_percent": 55.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vtt-enduro-carbone-lapierre-spicy-cf-89-29-fox-factory-kashima-38float-x2transfer-full-xt-12s-dt-swiss-ex-1700-m-et-l-3431912",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/i2BAa/3431912_1/re/1200x1200/qt/90/3431912_1.jpg",
+    "detected_at": "2026-10-13T18:39:58+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 3599.0,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vélo Lapierre Xelius DRS 10.0 Shimano Dura-Ace Di2",
+    "description": "4 999€ - Statera Bikes Caractéristiques techniques: Cadre Carbone UNI ( superieur par rapport au 9.0) Fourche rigide en carbone Lapierre Xelius DRS 10.0 Shimano Dura-Ace Di2 RD-R9250 12 vitesses Manivelle Dura-Ace FC-R9200-P avec capteur de puissance, HOLLOWTECH 2 52-36 dents Cassette Shimano Dura-Ace CS-R9200-12, MICRO SPLINE Levier de vitesse Manette de vitesses et de frein Shimano Dura-Ace ST-R9270-R, manette Di2 Dual Control 12 vitesses Roues de course DT Swiss ARC 1100 DICUT, 38 mm, 12x100 mm, CL Taille des roues 28 Zoll Pneus Continental AERO 111 TR 26-622 Freins Frein à disque hydraulique Shimano Dura-Ace BR-R9270, 2 pistons, plaquettes en résine, 160/140 mm Guidon Ensemble cockpit Lapierre Drop Bar Combo Carbon RB167 (cintre drop + potence) Tige de selle Lapierre Xelius DRS Aero Selle Prologo MTB Dimension R2 Nack",
+    "price": 4999.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lapierre-xelius-drs-100-haut-de-gamme-3431911",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vGq9A/3431911_1/re/1200x1200/qt/90/3431911_1.jpg",
+    "detected_at": "2026-10-13T18:37:40+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4999.0,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle Tryo - Mamagubida",
+    "description": "24€ - Amazon Mamagubida --Description du produit Liste des titres Disque : 1 1 L'hymne De Nos Campagnes 2 Pour Un Flirt Avec La Crise 3 C'est Du Roots 4 Salut O Disque : 2 1 La Revolution 2 Regardez-Les 3 La Misere D'en Face 4 Un Homme Qui Aime Les Femmes Disque : 3 1 La Main Verte 2 France Telecom 3 Yakamoneye 4 Les Soldats De Plomb Disque : 4 1 Suprematie 2 Babylone 3 J'ai Rien Prevu Pour Demain Informations sur le produit Label ‎Salut Ô Productions Distr Nombre de disques ‎2 ASIN ‎B0948LLKZR À propos de ce produit Mamagubida Commentaires client",
+    "price": 24.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-tryo-mamagubida-3431910",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pVydE/3431910_1/re/1200x1200/qt/90/3431910_1.jpg",
+    "detected_at": "2026-10-13T18:36:50+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.0,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -10090,668 +10601,6 @@
       {
         "price": 112.5,
         "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société Far Cry : Escape from Rook Islands",
-    "description": "17,67€ - Philibert Net Liquidation massive de -70 % en vente flash sur Far Cry : Escape from Rook Islands , l'adaptation officielle en jeu de plateau coopératif du jeu vidéo culte d'Ubisoft, éditée par Funforge. Passer sous les 18 € au lieu de près de 60 € pour une grosse boîte pleine de matériel et de figurines, c'est un prix plancher absolu. Vente flash classique : prix direct, pas d'inscription requise et expédition immédiate sous 24/48 h . Pourquoi c'est une très belle affaire : Vous incarnez Jason Brody et ses compagnons capturés sur l'archipel des îles Rook par le sanguinaire Vaas Montenegro. Votre seul objectif : survivre aux patrouilles de pirates, libérer vos amis et trouver un moyen de fuir l'enfer insulaire. Le jeu propose une aventure coopérative intense mêlant infiltration, action tactique et gestion des risques : Infiltration ou assaut frontal : Vous devez vous coordonner pour nettoyer des avant-postes, désactiver des alarmes et saboter les installations pirates. Rester discret limite les renforts ennemis, mais un assaut mal préparé déclenche rapidement l'alerte générale. Artisanat et équipement : Comme dans le jeu vidéo, vous collectez des ressources sur la faune et la flore locales pour fabriquer des seringues de soins, améliorer vos armes et débloquer des compétences clés pour vos héros asymétriques. Système de scénarios modulables : Une série de missions interconnectées avec des objectifs variés (sauvetages, destructions de dépôts, survie face à des vagues d'ennemis) et une IA ennemie agressive menée par Vaas. Matériel imposant : Figurines détaillées, tuiles de terrain modulaires pour composer l'archipel, plateaux individuels et dizaines de cartes d'équipement et d'événements. Format : 1 à 4 joueurs (entièrement jouable en solo) Durée : 60 à 90 min Âge : Dès 14 ans Éditeur : Funforge / Ubisoft Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat). Expédition rapide sous 24/48 h.",
-    "price": 17.67,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-far-cry-escape-from-rook-islands-3431651",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tSQRX/3431651_1/re/1200x1200/qt/90/3431651_1.jpg",
-    "detected_at": "2026-10-13T11:08:02+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 17.67,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de Société Trek 12 : Amazonie",
-    "description": "5,10€ - Philibert Net Braderie monumentale de -80 % en vente flash sur Trek 12 : Amazonie , le stand-alone d'exploration et de « roll & write » évolutif conçu par Bruno Cathala et Corentin Lebrat, édité par Lumberjacks Studio. À peine 5,10 € , c'est tout simplement le prix le plus bas jamais constaté sur ce titre et une magnifique aubaine pour un jeu indépendant complet noté 7,3/10 sur BoardGameGeek . Vente flash classique : prix direct, pas d'inscription requise et expédition immédiate sous 24/48 h . Pourquoi c'est l'incontournable du jour : Jeu totalement indépendant (ne nécessite pas le premier Trek 12 : Himalaya ), il vous emmène cartographier la forêt amazonienne, observer sa faune sauvage et tracer des sentiers fluviaux. Le système mêle réflexion mathématique, prise de risque et contenu évolutif : Combinaisons de dés et contraintes : À chaque tour, les deux dés sont lancés. Tous les joueurs choisissent simultanément quelle opération appliquer (garder la valeur la plus haute, la plus basse, la différence, la somme ou le produit) afin d'inscrire le résultat dans une case de leur carnet d'exploration. Chaînes et sentiers : Vous marquez des points en créant des séries de nombres identiques ou des suites consécutives. Enveloppes secrètes et mode campagne : Le cœur du jeu propose un véritable système évolutif : accomplir certains objectifs permet de décacheter des enveloppes scellées contenant de nouveaux éléments de règles, des cartes inédites, du matériel additionnel et des twists d'expédition. Mode solo très complet : Intègre un mode solitaire dédié pour partir en expédition contre l'explorateur rival. Note BGG : 7,3/10 Format : 1 joueur et plus Durée : 15 à 30 min Âge : Dès 8 ans Auteurs : Bruno Cathala & Corentin Lebrat Éditeur : Lumberjacks Studio Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat). Expédition rapide sous 24/48 h.",
-    "price": 5.1,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-trek-12-amazonie-3431648",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/G5SAA/3431648_1/re/1200x1200/qt/90/3431648_1.jpg",
-    "detected_at": "2026-10-13T11:07:19+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 5.1,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Among Us (Dématérialisé - Eshop)",
-    "description": "2,57€ - Nintendo Jouez avec 4-15 joueurs en ligne ou via Wi-Fi local et préparez votre vaisseau au décollage, mais ouvrez l'œil (et le bon) car au moins un de vos coéquipiers est en fait un imposteur farouchement déterminé à vous mettre des bâtons dans les roues et à massacrer tout le monde.",
-    "price": 2.57,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/among-us-3431647",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/yi46i/3431647_1/re/1200x1200/qt/90/3431647_1.jpg",
-    "detected_at": "2026-10-13T11:06:25+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 2.57,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Garmin Forerunner 265",
-    "description": "218€ - AliExpress Montre connectée Garmin Forerunner 265. Si vous montez votre panier au dessus de 239€ ( avec une protection d’écran par exemple) vous pouvez utiliser le code WOFR29 et vous avez la montre à 208€.",
-    "price": 218.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/garmin-forerunner-265-3431646",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/MNbGD/3431646_1/re/1200x1200/qt/90/3431646_1.jpg",
-    "detected_at": "2026-10-13T11:02:53+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 218.0,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 32\" Xiaomi TV A 32 (2025) - LED, HD+, HDR10, Dolby Audio, DTS Virtual:X, Google TV",
-    "description": "118,59€ - AliExpress Classe d'efficacité énergétique1928431 ModèleL32M8-P2EU 【Système Google】Google TV™2, Google Assistant intégré3, accès Google Play 2, hub de contrôle de la maison intelligente, Chromecast intégré™4 et Miracast, Netflix, Prime Video et YouTube préinstallés. 【Son dynamique】Avec Dolby Audio™, DTS-X et DTS Virtual 【Appareils ménagers】En tant qu'appareil majeur, la Xiaomi TV A 32 s'intègre parfaitement dans votre maison, offrant divertissement et fonctionnalité. Équipée de l'application Mi Home, la télévision peut être contrôlée via un smartphone 【Taille compacte】La Xiaomi TV A 32 se distingue par sa taille compacte, idéale pour les petits espaces ou les chambres d'étudiants, sans pour autant sacrifier la qualité de l'expérience visuelle. 【Finition métal】La finition métallique haut de gamme ajoute une touche d'élégance à votre espace de vie, tout en assurant durabilité et longévité. 【Écran couleur】Doté d'un écran couleur éclatant, ce téléviseur LED garantit des images vives et réalistes, améliorant ainsi vos soirées cinéma et vos sessions de jeu.",
-    "price": 118.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-32-xiaomi-tv-a-32-2025-led-hd-hdr10-dolby-audio-dts-virtualx-google-tv-3431645",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AIySG/3431645_1/re/1200x1200/qt/90/3431645_1.jpg",
-    "detected_at": "2026-10-13T11:02:24+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 118.59,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société Extension Cyberpunk 2077: Gangs of Night City - Families and Outcasts",
-    "description": "18,38€ - Philibert Net Grosse démarque de -60 % en vente flash sur l'extension majeure Families and Outcasts pour Cyberpunk 2077: Gangs of Night City , le jeu d'affrontement et de contrôle de territoire de CMON signé Andrea Chiarvesio et Eric M. Lang. Passer sous les 19 € pour une grosse boîte d'extension chargée de plastique CMON, c'est un prix plancher absolu pour les possesseurs du jeu de base. Vente flash classique : prix direct, pas d'inscription requise et expédition immédiate sous 24/48 h . Ce qu'apporte cette extension : Elle étend les frontières de la mégapole vers les terres arides environnantes et débloque le jeu jusqu'à 5 joueurs. La boîte enrichit considérablement le jeu : Nouveau district (Les Badlands) : Un plateau additionnel qui se connecte au sud-est de la carte de Night City, offrant de nouvelles zones d'affrontement et de contrôle stratégique. 2 nouveaux gangs nomades complets : Prenez les commandes des Aldecaldos ou des impitoyables Wraiths , chacun arrivant avec ses figurines détaillées, ses plateaux de gang dédiés et ses capacités asymétriques. Extension à 5 joueurs : Permet d'intégrer un 5e joueur autour de la table. Nouvelle histoire narrative (« Land Grab ») : Une trame de campagne inédite avec ses embranchements politiques, ses cartes opportunités et ses dilemmes moraux propres aux pillards du désert. 18 figurines CMON : Des sculptures soignées pour incarner les chefs de clan, solos, techies et netrunners nomades. Type : Extension de jeu de plateau avec figurines Nécessite : Le jeu de base Cyberpunk 2077: Gangs of Night City Format : 1 à 5 joueurs Durée : 90 à 120 min Âge : Dès 14 ans Éditeur : CMON Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat). Expédition rapide sous 24/48 h.",
-    "price": 18.38,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-extension-cyberpunk-2077-gangs-of-night-city-families-and-outcasts-3431643",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/d0gsm/3431643_1/re/1200x1200/qt/90/3431643_1.jpg",
-    "detected_at": "2026-10-13T11:02:13+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 18.38,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Planet Zoo 2 Deluxe Édition (Dématérialisé - Instant Gaming Steam)",
-    "description": "46,99€ - Instant Gaming Planet zoo 2 Date de sortie 13/10/26 Version deluxe",
-    "price": 46.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/planet-zoo-2-3431644",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YIGwF/3431644_1/re/1200x1200/qt/90/3431644_1.jpg",
-    "detected_at": "2026-10-13T11:01:54+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 46.99,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bundle Moza Truck + Casque VR",
-    "description": "989,99€ - Grosbill Ce bundle regroupe 2 composants sélectionnés pour leur compatibilité et leur rapport qualité/prix. Ce kit comprend : Moza Racing Trucking Bundle et HTC Cosmos Elite HMD. Profitez d’un prix réduit grâce à ce bundle exclusif.",
-    "price": 989.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bundle-moza-truck-casque-vr-3431640",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gBVND/3431640_1/re/1200x1200/qt/90/3431640_1.jpg",
-    "detected_at": "2026-10-13T11:01:29+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 989.99,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Peluche Simba Disney Stitch avec Cœur 25 cm",
-    "description": "16,52€ - Amazon Simba Disney Peluche Stitch avec Cœur 25 cm Peluche officielle Disney représentant le personnage de Stitch tenant un cœur rouge. D'une hauteur de 25 cm, elle est conçue dans un matériau extra doux idéal pour les câlins ou pour compléter une collection de produits dérivés Disney. Points forts et caractéristiques : • Produit officiel Disney : Peluche sous licence officielle fabriquée par Simba, garantissant un design fidèle au personnage du film d'animation. • Matériau doux et agréable : Confectionnée en velours doux et fibres polyester de qualité, offrant une texture agréable au toucher. • Format idéal de 25 cm : Taille pratique aussi bien pour servir de compagnon de jeu aux enfants que d'élément de décoration sur une étagère ou un lit. • Cadeau polyvalent : Présente Stitch tenant un cœur rouge, ce qui en fait un choix d'idée cadeau adapté pour diverses occasions.",
-    "price": 16.52,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/simba-disney-peluche-stitch-avec-coeur-25-cm-3431642",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/svyZG/3431642_1/re/1200x1200/qt/90/3431642_1.jpg",
-    "detected_at": "2026-10-13T11:00:48+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 16.52,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini PC CHUWI LarkBox X - Intel i3-1220P, 8 Go DDR4 SODIMM, SSD 256 Go, WiFi 6 & BT 5.2, Windows 11 Pro",
-    "description": "229,83€ - AliExpress Je me DOIS de le reproposer. Les N150 sont du passé. Les prix ont explosé. Les alternatives disparaissent de plus en plus. Je ne crois pas que tout le monde réalise l'ampleur du phénomène. Le LarkBox S doté de 16 Go a été boudé, ce LarkBox X l'a été aussi. Pourtant , c'est le seul abordable pour avoir un réel média engine sans pousser loin à la consommation. (blankflame) Tous les segments sont touchés : les 7430U ne sont jamais redescendus, les 6600H sont devenus fort chers, l'AM02 n'étant cette fois pas redescendu sur une unique boutique , comme je l'avais trouvé la fois d'avant. Quant aux 5500, 5700U, 6850U... pas même la peine d'y songer, cela fait longtemps qu'ils ne sont plus là. Le M7 en 12700H s'est volatilisé également. La liste est longue comme le bras... (cryflame) Sans compter les innombrables offres disposant de trop peu de stock. Enfin bref, pour qui veut donc un serveur média disposant du media engine d'Intel, à petit prix, il n'y a pas 36 alternatives ... je le crains. Et il va falloir vous y accommoder, comme pour la mémoire. Le marché devient salé, et un vrai gruyère en prime! (shockflame) Pourquoi diable un Intel dans cette gamme? Eh bien, il se voue avant tout à ceux qui auraient envie de meilleures capacités transcodage qu'un simple N150, avec lequel il creuse un gap plus conséquent encore que son petit frère, au demeurant bien plus cher. Pas tant du fait du media engine, dont il s'agit d'un unique et même bloc. De génération 12.2. ❓Mais alors, pourquoi❓ La question ici n'est pas tant la performance du dit media engine, puisque identique, mais de son entourage, de l'approvisionnement de son pipeline, ainsi que de ce qu'offload, se reportant alors sur le CPU et les EUs du circuit graphique. On y reviendra . Voyons donc voir ce LarkBox X ( adieu mon Larkbox S, je t'aimais bien... ). ⚙️ Synthèse Processeur : Intel Core i3-1220P 10 cores physiques, 12 logiques : 2 P-Cores ( hyperthreadés ) et 8 E-Cores Fréquence nominale : 1,5 Ghz Fréquence boost maximale des P-Cores : 4,4 Ghz Fréquence boost maximale des E-Cores : 3,3 Ghz BPP (Puissance de base du Processeur) de 28W TPB (Puissance Turbo Maximale) de 64W MPB (Puissance de Base Minimale) de 20W Tjunction ( ou Tjmax ) de 100°C* *C'est un avantage en soi, puisque cette température est la température à partir de laquelle un processeur devient instable. Et shutdown en général. Certains CPU ont une Tjmax de 95°C, ce qui forcément rend le throttling d'autant plus précoce. Même si AMD fait aussi bien, voire pousse plus loin. Je vous renvoie au sujet de cette température à cette page , certes un peu datée, mais qui explique clairement le phénomène je trouve. BREF ! C'est un sacré bordel tant en terme de puissances que de processeur. Je vous renvoie directement à eux pour en découvrir plus au sujet de leur architecture hybride . Et n'oubliez pas un petit passage par sa fiche technique, car des technologies, il en embarque l'Intel! Et pas qu'un peu. ℹ️ Petite note d'Intel, pour ceux qui auraient eu la flemme de lire ce dont il s'agit concernant l'architecture. Il est important ici de comprendre ce que sont les efficient cores : Physiquement plus petits, avec plusieurs E-cores dans l'espace physique d'un P-core. Conçus pour maximiser l'efficacité du processeur, mesurée en perfs par watt. Il s'agit d'un outil idéal pour des performances évolutives et multi-threads. Ils travaillent de concert avec les P-cores pour accélérer les tâches gourmandes en cœur comme le rendu de vidéos. Exemple fort à propos ! Optimisés pour exécuter efficacement les tâches d'arrière-plan. Les tâches de moindre importance peuvent être confiées aux E-cores (par exemple, la gestion de Discord ou d'un logiciel antivirus), ce qui laisse les P-cores libres de gérer les tâches plus lourdes. Capables d'exécuter un seul thread logiciel. Or, on voit que, précisément, le score en single thread est à l'avenant, devançant même l'i5-12450H, qui paraitrait l'étape suivante logique. ❓Bien, mai",
-    "price": 229.83,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-larkbox-x-intel-i3-1220p-8-go-ddr4-sodimm-ssd-256-go-wifi-6-bt-52-windows-11-pro-3431641",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jzvtE/3431641_1/re/1200x1200/qt/90/3431641_1.jpg",
-    "detected_at": "2026-10-13T10:59:38+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 229.83,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chariot de Courses Pliable Sekey 3 en 1",
-    "description": "23,93€ - Amazon -- Chariot de courses pliable combinant , à è. Sac amovible avec sangle pratique, idéal pour courses, camping, pique-nique et usage quotidien. Gain de place une fois plié. é Structure en é avec tissu Oxford résistant à l’usure. Parfait pour transporter des charges lourdes, adapté à une utilisation durable en extérieur. é Équipé de é, ce chariot assure une bonne stabilité et une mobilité fluide sur routes, trottoirs ou terrains irréguliers. Idéal pour courses et déplacements. ❄️ é Compartiment éé pour garder vos aliments et boissons frais ou chauds plus longtemps. Avec porte-bouteille pratique, parfait pour les courses alimentaires ou sorties. é é Poignée pour un confort optimal. Facile à utiliser pour tous, notamment les personnes âgées, réduit l’effort lors du transport des courses",
-    "price": 23.93,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chariot-de-courses-pliable-3-en-1-sekey-3431639",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/05van/3431639_1/re/1200x1200/qt/90/3431639_1.jpg",
-    "detected_at": "2026-10-13T10:56:53+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 23.93,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de capsules lave-vaisselle Sun en promotion - EX : lot 2 paquets capsules 4en1 Sun Pro-Expert 2 x 56 (via 16,08€ cagnotté)",
-    "description": "6,90€ - Carrefour Sélection de capsules lave-vaisselle Sun en promotion - EX : lot 2 paquets de 56 Capsules lave-vaisselle 4en1 Pro-Expert Sun (via 16,08€ cagnotté) lien vers tous les produits en promo Description Sun est une marque présente depuis 60 ans sur le marché du lave-vaisselle. Elle innove régulièrement pour améliorer la performance de ses produits. La marque s'est engagée dans une stratégie Clean Future qui vise à transformer ses usines, ses processus de production et ses emballages. Sun produit ses tablettes Classic, Tout en 1, son sel régénérant et ses poudres en France, dans l'usine de Saint Vulbas. Cette ancrage local témoigne de l'attachement de la marque à une production de proximité. Les capsules lave-vaisselle Sun Pro Expert 56 lavages reposent sur une formule développée pour répondre aux besoins quotidiens. Elles combinent la puissance de la poudre et la brillance du gel en un seul produit. La technologie CleanBoost active une combinaison d'enzymes qui découpent les résidus alimentaires avant de les dissoudre durant le lavage. Cette action permet d'éliminer les taches brûlées de plus de 72h, selon un test laboratoire réalisé en avril 2024. La formule dégraisse en profondeur, protège contre le calcaire selon un test laboratoire de mai 2024, et assure une brillance intense ainsi qu'un séchage rapide dès le premier lavage. Un parfum de synthèse au citron complète chaque cycle. Ce format de 24 capsules est conçu pour une utilisation en lave-vaisselle domestique uniquement, et non pour des machines professionnelles ou commerciales. À utiliser avec tout lave-vaisselle (toutes marques). Il est conseillé d'utiliser ces capsules avec du sel régénérant et du produit de rinçage séparé en cas d'eau très calcaire. Chaque capsule est prête à l'emploi et s'utilise directement dans le panier du lave-vaisselle. Ce conditionnement de 24 capsules offre un volume adapté pour une utilisation régulière au quotidien",
-    "price": 6.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-capsules-lave-vaisselle-sun-en-promotion-ex-lot-2-paquets-capsules-lave-vaisselle-4en1-pro-expert-sun-via-1608eur-cagnotte-3431638",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ofrdy/3431638_1/re/1200x1200/qt/90/3431638_1.jpg",
-    "detected_at": "2026-10-13T10:55:33+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 6.9,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque Système à Réduction de Bruit sans Fil WH-CH720N - Blanc ou Noir",
-    "description": "54,99€ - Amazon Le Sony WH-CH720N est un casque Bluetooth sans fil léger et confortable, doté d’une réduction de bruit active (ANC). Il offre un son chaleureux avec des basses prononcées, personnalisable via l’application Sony, ainsi qu’une autonomie de plus de 38 heures. Sa connexion multipoint permet de connecter deux appareils simultanément. Ses principaux points faibles sont une réduction limitée des bruits graves, un microphone moyen en environnement bruyant et un design non pliable. Un bon choix pour la musique et une utilisation quotidienne. Source : Test RTINGS .",
-    "price": 54.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/wh-ch72on-systeme-a-reduction-de-bruit-sans-fil-blanc-ou-noir-3431637",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3z4Xp/3431637_1/re/1200x1200/qt/90/3431637_1.jpg",
-    "detected_at": "2026-10-13T10:53:39+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 54.99,
-        "observed_at": "2026-10-13T11:06:53.394803+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Plafonnier LED 60cm, 4800LM RGBCW Yeelight (Vendeurs Tiers, via remise panier)",
-    "description": "99,86€ - Amazon Économisez 30 % au moment de passer la commande Montage rapide révolutionnaire et installation simple : Grâce au support breveté Quick-Change, ce plafonnier LED est opérationnel en quelques minutes. Il suffit de glisser le luminaire dans le socle jusqu’à encliquetage. Économisez du temps et des frais de pose. Ce plafonnier connecté est également conçu pour être étanche à la poussière et aux insectes, réduisant l’entretien au minimum Commande intelligente et flexibilité totale : Pilotez votre plafonnier LED facilement via l’application MIJIA, la télécommande ou les commandes vocales (compatible avec Alexa, Google Home et SmartThings). Ajustez l’ambiance lumineuse où que vous soyez. Que ce soit pour l’allumage/l’extinction, la luminosité ou les horaires, ce luminaire de plafond intelligent offre une connectivité maximale pour votre maison connectée Variateur & 16 millions de couleurs (RGBICWW) : Transformez votre pièce avec plus de 16 millions de teintes. Ce plafonnier LED associe une température de couleur réglable (2700K–6500K) et un éclairage d’ambiance RGB indirect. Que ce soit une lumière blanc chaud pour la détente ou un éclairage coloré pour les soirées, notre lampe de plafond répond à tous vos besoins (luminosité réglable en continu de 1 % à 100 %) Luminosité 4800 lm pour pièces jusqu’à environ 35 m² : Avec un flux lumineux de 4500 lumens et une puissance de 50 W, ce plafonnier LED assure un éclairage uniforme et lumineux au quotidien. Il convient parfaitement aux chambres, salons, chambres d’enfants, couloirs ou cuisines, alliant une puissance lumineuse performante à une technologie LED moderne et économe en énergie Couleurs naturelles Ra95 & Mode Lune : Découvrez votre environnement sous son vrai jour : avec un indice de rendu des couleurs élevé (IRC ≥ Ra95), ce plafonnier LED restitue les couleurs aussi fidèlement que la lumière solaire. Pour la nuit, le mode Lune ultra-doux propose une lumière sans éblouissement, semblable à la lumière lunaire, qui préserve les yeux et fait office de veilleuse dans la chambre Rétroéclairage RGB pilotable indépendamment & Groupes de luminaires : Le rétroéclairage RGB indirect se commande séparément de la lumière principale et crée un éclairage d’accent discret sur le plafond. Pour une expérience lumineuse encore plus immersive, vous pouvez grouper et synchroniser ce luminaire avec d’autres luminaires Yeelight – idéal pour une maison harmonieuse et immersive",
-    "price": 99.86,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/plafonnier-led-60cm-4800lm-rgbcw-intelligent-luminaire-plafonnier-3431636",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FJCZd/3431636_1/re/1200x1200/qt/90/3431636_1.jpg",
-    "detected_at": "2026-10-13T10:49:18+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 99.86,
-        "observed_at": "2026-10-13T10:54:41.453556+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Nimalia",
-    "description": "4,65€ - Philibert Net Nimalia est un jeu de société de draft et de placement de cartes , créé par William Liévin, illustré par Pauline Détraz et édité par La Boîte de Jeu . Le but est de créer la plus belle réserve naturelle en agençant au mieux des animaux dans leurs biomes pour marquer un maximum de points. Tuto: [shortcode id=\"20619125\"/]",
-    "price": 4.65,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nimalia-3431633",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/LbgRf/3431633_1/re/1200x1200/qt/90/3431633_1.jpg",
-    "detected_at": "2026-10-13T10:42:32+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 4.65,
-        "observed_at": "2026-10-13T10:54:41.453556+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Membres Gold] 40% de remise sur une sélection d'articles",
-    "description": "Celio Profitez de 40% sur une selection d’articles Men’s Week du 14/10/2026 au 25/10/2026 inclus, tout à -40% sur une sélection de produits homme de marque celio ou licences signalés dans les magasins celio de France (hors Corse) et sur celio.com . Avant-première sur celio.com le 13/10/2026 uniquement, à partir de 8h, exclusivement pour les membres gold du programme de fidélité be+ puis à partir de 19h pour l’ensemble des membres du programme de fidélité be+. Réduction effectuée par escompte au panier.",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/membre-gold-40-sur-une-selection-de-produits-3431632",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/KNuQY/3431632_1/re/1200x1200/qt/90/3431632_1.jpg",
-    "detected_at": "2026-10-13T10:38:35+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": []
-  },
-  {
-    "title": "Lego Le Bouquet De Roses 10328",
-    "description": "36,54€ - Carrefour BOUQUET DE FLEURS ARTIFICIELLES POUR ADULTE",
-    "price": 36.54,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-bouquet-de-roses-3431631",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/URL0J/3431631_1/re/1200x1200/qt/90/3431631_1.jpg",
-    "detected_at": "2026-10-13T10:35:30+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 36.54,
-        "observed_at": "2026-10-13T10:54:41.453556+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Streets Of Rage 4 sur PC (Dématérialisé - DRM Free)",
-    "description": "6,25€ - GOG Le légendaire Streets of Rage, connu sous le nom de Bare Knuckle (ベア・ナックル Bea Nakkuru) au Japon, est une trilogie de beat ‘em up réputée pour sa jouabilité indémodable et sa musique électro. Streets of Rage 4 reprend avec maestria le gameplay de la trilogie classique et y ajoute de nouveaux mécanismes, de superbes graphismes dessinés à la main et une bande-son tonitruante. Qui dit série emblématique dit personnages emblématiques : Axel, Blaze, Adam et d’autres vétérans font un retour fracassant pour faire un brin de ménage dans les rues de Streets of Rage. Avec de toutes nouvelles techniques de combat et des pistes musicales détonantes, nos héros sont prêts à mettre des raclées phénoménales à un nouveau groupe de criminels qui ont fait l’erreur de chercher des noises à nos héros. Plus de 25 ans après le dernier opus, Streets of Rage 4 célèbre le retour glorieux d’Axel, d'Adam et de Blaze, toujours prêts à distribuer des coups de poing et des kicks lors de bastons frénétiques en défilement horizontal. Grâce à des animations dessinées à la main, de nouvelles capacités de combat et de nombreuses pistes musicales exclusives composées par une équipe de musiciens incroyables, Streets of Rage 4 rend un magnifique hommage au jeu d’action classique que les fans adorent, et redynamise complètement ce genre vidéoludique. La série est réputée pour sa musique électro dans le monde entier. La bande-son de Streets of Rage 4 est assurée par un groupe de musiciens vedettes ! Au programme : Yuzō Koshiro, Motohiro Kawashima, Yoko Shimomura, Harumi Fujita, Keiji Yamagishi et bien d’autres encore ont composé de nouveaux titres fantastiques pour cet épisode inédit de la série Streets of Rage. ● Le retour percutant de la série des Streets of Rage. ● De magnifiques graphismes entièrement dessinés à la main et animés par le studio qui a créé Wonder Boy: The Dragon’s Trap. ● Faites le ménage à Wood Oak City en solo, ou avec un ami en ligne ! ● Formez une équipe, jusqu’à 4 joueurs pour la toute première fois, et libérez la ville ! ● Gameplay classique surboosté par de toutes nouvelles mécaniques. ● Bande-son composée par des musiciens stars de carrure internationale. ● Du poulet braisé à gogo ! ● Une bonne dizaine de personnages issus de l’univers de Streets of Rage, déblocables et jouables dans leurs versions pixélisées d’origine. ● Profitez de la musique des précédents jeux Streets Of Rage ! ● 12 niveaux hors norme. ● Affrontez vos amis dans le Battle Mode ● Ou joignez vos forces pour vous défaire du Boss Rush Mode ! Trailer sur PC : [shortcode id=\"20619124\"/]",
-    "price": 6.25,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/streets-of-rage-4-sur-pc-dematerialise-drm-free-3431629",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Zdlsq/3431629_1/re/1200x1200/qt/90/3431629_1.jpg",
-    "detected_at": "2026-10-13T10:32:56+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 6.25,
-        "observed_at": "2026-10-13T10:54:41.453556+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo pliant électrique Bodywel T16Pro 250W 36V 10.4Ah 14 pouces avec amortisseur, freins à disque doubles, écran LCD",
-    "description": "351,96€ - AliExpress Le Bodywel T16Pro est un vélo électrique pliable conçu pour la vie dynamique en ville.Il combine efficacité, portabilité et design moderne, ce qui en fait une solution idéale pour les trajets quotidiens et la mobilité libre dans les villes européennes. Performances et dynamique Le T16Pro est doté d'un moteur silencieux et fiable de 250 W et d'une batterie lithium-ion légère et amovible de 36 V 10,4 Ah.Ce système offre une autonomie allant jusqu'à 35 kilomètres sur une seule charge et une vitesse maximale de 25 km/h, entièrement conforme aux normes européennes pour les vélos électriques. Portabilité et design Grâce au mécanisme de pliage central, le vélo se réduit à une taille compacte de 130x61 cm, facilitant son rangement dans l'appartement, le bureau ou le coffre de la voiture.Avec un poids net de 24 kg, la conception a été optimisée pour une facilité de manutention en forme pliée. Confort et maîtrise du véhicule La bicyclette est équipée d'une fourche avant amortie et de pneus anti-crevaison de 14 pouces, qui atténuent efficacement les vibrations sur une surface irrégulière.Les freins à disque mécaniques assurent un freinage sûr et sécurisé dans toutes les conditions.Pour une visibilité accrue sur la route, le véhicule est équipé d'éclairage LED intégré à l'avant et à l'arrière. Interface et ajustement Toutes les informations les plus importantes, telles que la vitesse, le niveau de batterie et le mode de conduite, sont affichées sur un écran LCD clair de 4,5 pouces.La hauteur de la selle peut être ajustée de 76 à 99 cm, ce qui permet une conduite confortable pour les personnes d'une taille de 140 à 185 cm.La charge maximale sur le vélo est de 120 kg.Il existe un mode d'assistance au pédalage et un mode de commande directe de l'accélérateur (via le levier de vitesses). Préparation à la conduite et coût d'utilisation La bicyclette est livrée à 90 % assemblée, ce qui vous permet de la commencer à utiliser rapidement.Les coûts d'exploitation sont incomparablement inférieurs à ceux des véhicules à combustion interne - la recharge des batteries est bien moins coûteuse que le ravitaillement en carburant. Contenu du set: Vélo électrique pliable Bodywel T16Pro Batterie lithium-ion 36V 10.4Ah Chargeur mural Un ensemble de clés pour l'assemblage et un manuel d'instructions",
-    "price": 351.96,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/velo-pliant-electrique-bodywel-t16pro-250w-36v-104ah-14-pouces-avec-amortisseur-freins-a-disque-doubles-ecran-lcd-3431628",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ISpWn/3431628_1/re/1200x1200/qt/90/3431628_1.jpg",
-    "detected_at": "2026-10-13T10:31:59+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T12:47:48.071673+00:00",
-    "price_history": [
-      {
-        "price": 351.96,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pantalon de golf chino Inesis MW500 en coton - Bleu ciel, du 38 au 52",
-    "description": "14,99€ - Decathlon Le pantalon chino de golf Inesis MW500 est un basique de garde-robe qui sort largement du parcours : il se porte aussi bien au bureau qu'en week-end, avec une coupe chino intemporelle. Le tissu associe le coton à un peu d'élasthanne, ce qui le rend extensible et confortable dans les mouvements. Il sèche rapidement et dispose de 4 grandes poches avec fond renforcé. Decathlon indique un poids d'environ 500 g en taille 44. Seul le coloris bleu ciel (bleu givré sur la fiche) est concerné par ce prix, les autres couleurs restant à leur tarif habituel. Les tailles vont du 38 au 52, avec une longueur L33 jusqu'au 42 puis L34. Le modèle affiche une note de 4,6/5 sur plus de 2 700 avis. Livraison à domicile, en point retrait ou retrait gratuit en magasin selon la disponibilité locale. Retours et échanges jusqu'à 365 jours avec le compte fidélité Decathlon.",
-    "price": 14.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pantalon-de-golf-chino-inesis-mw500-en-coton-bleu-ciel-du-38-au-52-3431627",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/y3xv0/3431627_1/re/1200x1200/qt/90/3431627_1.jpg",
-    "detected_at": "2026-10-13T10:31:47+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Séjour 5J/4N pour 2 à Istanbul Hotel 5* Golden Tulip Istanbul Bayrampasa Du 11/11 au 15/11",
-    "description": "269,28€ - Booking.com Séjour 5J/4N pour 2 à Istanbul Hotel 5* Golden Tulip Istanbul Bayrampasa Du 11/11 au 15/11 Membre du groupe Louvre Hotels, le Golden Tulip Istanbul Bayrampasa propose des hébergements modernes avec une connexion Wi-Fi haut débit, une piscine intérieure, une salle de sport et un espace de stationnement privé gratuit. L’établissement a reçu le prix Top Luxury 5 Stars - Spa Facility 2017 décerné par Louvre Hotels. Les chambres climatisées comprennent une télévision à écran plat. Elles comportent également une bouteille d’eau et un plateau/bouilloire. Certaines disposent d’un coin salon. D’autres offrent une vue sur la mer ou la ville. La salle de bains privative est pourvue d’une baignoire ou d’une douche, d’une douche à effet pluie, d’un bidet, de peignoirs, de chaussons, d’un sèche-cheveux et d’articles de toilette gratuits. Le restaurant Montana prépare des spécialités turques et internationales. Agrémenté d’une réception ouverte 24h/24, le Golden Tulip Istanbul Bayrampasa inclut également le Spastanbul, où vous pourrez vous détendre dans le sauna, le centre de spa et le hammam turc. La réception est ouverte 24h/24. Par la route, vous rejoindrez le parc à thème Vialand en 17 minutes, le musée Kariye en 8 minutes, la colline Pierre Loti en 15 minutes, le centre des congrès Halic en 10 minutes et le bazar aux épices en 18 minutes. Les centres commerciaux Axis et Forum Istanbul sont respectivement accessibles en 3 minutes et 8 minutes en voiture. Enfin, vous serez à moins de 38 km de l’aéroport d’Istanbul. Superficie 25 m² Lits confortables, notés 8,8 (d'après 510 commentaires) Providing free toiletries, this double room includes a private bathroom with a walk-in shower, a hairdryer and slippers. The air-conditioned double room provides a flat-screen TV with satellite channels, soundproof walls, a minibar, a wardrobe as well as city views. Dans votre salle de bains privative : Articles de toilette gratuits Douche Toilettes Serviettes Chaussons Sèche-cheveux Papier toilette Vue : Vue sur la ville. Équipements : Climatisation Coffre-fort Linge de maison Prise près du lit Produits d’entretien Hébergement hypoallergénique Bureau Insonorisation Télévision Téléphone Matériel de repassage Chaînes satellite Fer à repasser Chauffage Télévision à écran plat Très grands lits (> 2 mètres) Minibar Réveil ou service de réveil Moquette Bouilloire électrique Service de réveil Armoire ou penderie Étages supérieurs accessibles par ascenseur Portant Barrières de sécurité pour bébés Logement entier accessible en fauteuil roulant Climatiseur indépendant dans les hébergements Gel hydroalcoolique Fumeurs: non-fumeurs",
-    "price": 269.28,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sejour-5j4n-pour-2-a-istanbul-hotel-5-golden-tulip-istanbul-bayrampasa-du-1111-au-1511-3431626",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/S88zK/3431626_1/re/1200x1200/qt/90/3431626_1.jpg",
-    "detected_at": "2026-10-13T10:31:46+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 269.28,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Automatique Herbelin Inspiration (2047P08MA) - Acier PVD Or Jaune, Cadran Argenté Guilloché, Bracelet Cuir Marron, 38mm",
-    "description": "630€ 630,00€ au lieu de 900,00€ soit 270,00€/30% de réduction pour cette magnifique montre Herbelin (y) Description : La Herbelin Inspiration automatique reprend les lignes du boîtier original des années 1950 dessiné par Michel Herbelin. Son boîtier rond de 38 mm en acier inoxydable 316L revêtu de PVD or jaune entoure un cadran argenté guilloché, avec index romains et date à 6 h, sous un verre saphir. Le mouvement automatique suisse Sellita SW200-1 offre 41 heures de réserve de marche, et le fond transparent laisse voir son fonctionnement. Le bracelet en cuir marron se ferme par une boucle ardillon traditionnelle. Montre française, au style néo-classique. Caractéristiques : Marque : Herbelin Collection : Inspiration Référence : 2047P08MA EAN : 3661132293820 Genre : Homme Style : Classique Type de mouvement : Automatique, suisse Calibre : Sellita SW200-1 (11 ½''') Réserve de marche : 41 heures Fonctions : Heures, minutes, secondes, date à 6 h Matière du boîtier : Acier inoxydable 316L, PVD or jaune Forme du boîtier : Ronde Taille du boîtier : 38 mm Fond de boîtier : Transparent Type de verre : Saphir Couleur du cadran : Argenté blanc, guilloché, index romains Matière du bracelet : Cuir marron Fermoir : Boucle ardillon Étanchéité : 30 m (3 bar) Poids : 55 g Fabrication : France Garantie : 3 ans (36 mois)",
-    "price": 630.0,
-    "reference_price": 900.0,
-    "discount_percent": 30.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-automatique-herbelin-inspiration-2047p08ma-acier-pvd-or-jaune-cadran-argente-guilloche-bracelet-cuir-marron-38mm-3431625",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/aV6SZ/3431625_1/re/1200x1200/qt/90/3431625_1.jpg",
-    "detected_at": "2026-10-13T10:31:11+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 630.0,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Eau de toilette Lancôme Ô Zenith - 100ml",
-    "description": "41,50€ - Primor Livraison gratuite à partir de 50€ Découvrez Ô Zenith, une Eau de Toilette qui illumine les sens avec sa combinaison vibrante de notes florales et fruitées. Créée avec des ingrédients exclusifs du Domaine de la Rose à Grasse par le maître parfumeur Dominique Ropion, cette fragrance capture la pureté et la joie dans chaque goutte. L’absolu de jasmin se mêle à l’accord radieux de monoï, évoquant la chaleur d’une journée d’été méditerranéenne. Son flacon iconique, orné de la rose gravée de Lancôme, incarne la pureté et la sophistication de la collection Les Ô. Inspirée par le bonheur et soutenue par la science, cette fragrance est idéale pour celles et ceux en quête d’énergie, de fraîcheur et d’élégance. FRAGRANCE REVITALISANTE : Ô Zenith de Lancôme est une explosion de bonheur pur, conçue pour élever votre humeur. INGRÉDIENTS EXCLUSIFS : Absolu de jasmin du Domaine de la Rose à Grasse et accord lumineux de monoï. ARÔME FLORAL ET FRUITÉ : Notes éclatantes de fleurs blanches et touche exotique évoquant un soleil à son zénith. INSPIRÉE PAR LA JOIE : Créée par Dominique Ropion pour refléter la chaleur estivale et capturer l’essence du bien-être. PARFUM MIXTE : Conçue pour les femmes et les hommes à la recherche d’un parfum polyvalent et énergisant. FLACON ÉLÉGANT : Design emblématique avec la rose gravée de Lancôme, symbole de pureté et de raffinement. TESTÉ PAR LES CONSOMMATEURS : Ils ont affirmé ressentir une sensation de bonheur et une amélioration de leur humeur. SCIENCE ET ÉMOTION : Formulée selon la recherche « Science of Wellness » d’IFF pour éveiller des émotions positives.",
-    "price": 41.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/eau-de-toilette-lancome-o-zenith-100ml-3431624",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9KgpX/3431624_1/re/1200x1200/qt/90/3431624_1.jpg",
-    "detected_at": "2026-10-13T10:30:41+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 41.5,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Nettoyeur à Ultrasons DK SONIC 35W 900ML (Vendeur Tiers)",
-    "description": "37,43€ - Amazon 42 kHz pour un Rinçage Intensif de Choses Compliquées : en général, la fréquence ultrasonique de 42 kHz peut être utilisée pour nettoyer les choses avec des surfaces compliquées telles que des trous aveugles et des trous profonds, etc. Le Mode DEGAS pour éliminer la Fatigue Ultrasonique : le mode DEGAS peut éliminer les bulles remplies d'air qui sont générées dans la solution de nettoyage après que l'appareil a travaillé pendant une longue période et peut entraîner une fatigue ultrasonique. Par conséquent, le mode DEGAS peut éliminer la fatigue ultrasonique pour améliorer les effets de nettoyage à ultrasons. 5 Temps de Nettoyage Sous Les 180 ~ 900s : 5 réglages de loisirs sous les 180 ~ 900s permettent de régler librement le temps de nettoyage en fonction des personnages des objets à nettoyer Le Réservoir en Acier Inoxydable SUS304 : le réservoir de nettoyage interne des appareils est fabriqué en acier inoxydable Sus304 et rend l'appareil résistant aux acides faibles et aux alcalis faibles. Panneau de Commande Numérique Avec Affichage LED : le panneau de commande numérique peut utiliser l'appareil plus confortablement et avec précision et donc avoir une longue durée de vie",
-    "price": 37.43,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nettoyeur-a-ultrasons-dk-sonic-35w-900ml-vendeur-tiers-3431623",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/uS8H7/3431623_1/re/1200x1200/qt/90/3431623_1.jpg",
-    "detected_at": "2026-10-13T10:29:19+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 37.43,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Abonné PS+] Pack \"La part du lion\" pour Battlefield 6 & Battlefield REDSEC offert sur PS5 et PS5 Pro (Dématérialisé - Playstation Store)",
-    "description": "PlayStation Store À l'occasion de la sortie de la saison 5, un nouveau pack Battlefield est disponible pour les abonnés. Parcourez vos terrains de chasse et imposez votre domination avec le pack « La part du lion ». Procurez-vous le pack « La part du lion » pour obtenir : • Skin de soldat Éclaireur de l'OTAN « Règne indomptable » • Paquetage d'arme pour DMR SVK-8.6 « Éclat déchiquetant » • Paquetage d'arme pour fusil de précision M2010 ESR « Traquer et bondir » • Skin de véhicule de transport terrestre léger Glider 96 de l'OTAN « Char rôdeur » • Arrière-plan de fiche de jeu « Aura menaçante » • Plaque « Regard noir » • Pendentif d'arme « Brut » • Parachute « Crinière dorée » • Écusson de soldat « Donjon du souverain » • Autocollant de véhicule « Héritage » • Titre « Craignez mon rugissement » Ce jeu inclut des achats facultatifs de monnaies virtuelles dans le jeu pouvant être utilisées pour acquérir des objets virtuels.",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/abonne-ps-pack-la-part-du-lion-pour-battlefield-6-battlefield-redsec-offert-sur-ps5-et-ps5-pro-dematerialise-3431622",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1PzAQ/3431622_1/re/1200x1200/qt/90/3431622_1.jpg",
-    "detected_at": "2026-10-13T10:25:36+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
-  },
-  {
-    "title": "Robot tondeuse intelligent 700 m² Worx Landroid Plus WR167E",
-    "description": "339,99€ - JoyBuy Bon prix pour ce robot qui devient difficile à trouver hors marketplace (et donc hors SAV douteux...). Le prix barré sur Joybuy (749,99€) est quand même bien supérieur à ce qu'on arrive à trouver partout donc j'ai mis une moyenne de ce que j'ai trouvé. Je ne pourrais pas vous dire si le produit est bien, mon balcon manque de relief et de hérisson (:I . Mais je laisse les processeurs faire leurs retours d'expérience. Petite remise également sur le WR142E à 289,99€ au lieux de 329€ : https://www.joybuy.fr/dp/worx-landroid-wr142e-robot-tondeuse-intelligent/100023735222737 Les détails techniques qui font la différence : Navigation intelligente & Bordures nettes : Technologie brevetée AIA qui réduit le temps de tonte et gère à la perfection les zones étroites ou complexes. Technologie Cut to Edge pour couper au plus près des bordures de votre terrain. A l'aise partout : Conçu pour 700 m² sur des terrains avec pentes (jusqu'à 35%) et obstacles. Son disque de coupe flottant s'adapte automatiquement aux irrégularités du sol pour éviter de décaper la pelouse. Prêt à l'emploi & Connecté : Système Plug-N-Play, le robot est préprogrammé (un bouton suffit pour démarrer). Il intègre un écran LCD pour les réglages / code PIN et se contrôle entièrement à distance sur smartphone en Wifi et Bluetooth . Coupe Mulching performante : Système à 3 lames pivotantes (largeur de coupe 18 cm, hauteur réglable jusqu'à 6 cm). La rotation inversée des lames double leur durée de vie. Sécurité & Capteurs complets : Alarme sonore, verrouillage par code PIN, capteurs de sécurité qui coupent instantanément les lames si le robot est soulevé, et capteur de pluie pour renvoyer automatiquement le robot à l'abri. Entretien et charge optimisés : Certifié IPX5 , le robot se nettoie directement et facilement au jet d'eau. Sa station offre une charge latérale esthétique (la zone de charge reste tondue) et le robot y retourne seul quand sa batterie faiblit. Garantie 3 ans : Garantie de 2 ans + 1 an supplémentaire gratuit en enregistrant le robot sur le site de Worx dans les 30 jours suivant l'achat.",
-    "price": 339.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/worx-landroid-plus-wr167e-robot-tondeuse-intelligent-700-m2-3431621",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bOiY7/3431621_1/re/1200x1200/qt/90/3431621_1.jpg",
-    "detected_at": "2026-10-13T10:23:13+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 339.99,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets New Balance 2010V1 - Du 39,5 au 45,5",
-    "description": "62€ - AFEW DESCRIPTION L'ABZORB 2010 allie l'attrait d'un style avant-gardiste et totalement nouveau à un sentiment de familiarité. La semelle segmentée ABZORB, caractéristique de plusieurs modèles des années 2000, présente des proportions plus généreuses et devient la pièce maîtresse de ce nouveau design. Le look saisissant est complété par une tige en maille losange qui ajoute une touche de modernité au look classique.",
-    "price": 62.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/new-balance-2010v1-taille-disponible-395-405-41-42-44-445-45-455-3431620",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ptWe5/3431620_1/re/1200x1200/qt/90/3431620_1.jpg",
-    "detected_at": "2026-10-13T10:22:46+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 62.0,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque à Conduction Osseuse Shokz OpenRun Pro 2",
-    "description": "98,27€ - AliExpress  Réductions et coupons  Détails département unisexe-adulte Modèle Shokz Openrun Pro 2 Matériau Plastique,GEL de silice Catégorie Écouteurs et casques Nombre de chauffeurs 2 Méthode de chargement câble Est sans fil Oui Latence audio other Méthode de contrôle application Imperméable Oui qu'il soit électrique Non Type de prise Type de ligne puissance de sortie maximale du haut-parleur other Temps de charge 1 Fonction Pour voler,Pour extérieur Principe du Vocalisme Conduction osseuse Type sans fil Bluetooth Style Écouteurs à conduction osseuse Origine CN (Origine) Nom de marque SHOKZ",
-    "price": 98.27,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casque-a-conduction-osseuse-shokz-openrun-pro-2-3431619",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RQKJp/3431619_1/re/1200x1200/qt/90/3431619_1.jpg",
-    "detected_at": "2026-10-13T10:21:47+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 98.27,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz (Vendeur Tiers)",
-    "description": "234,32€ - AliExpress Processeur AMD Ryzen 7 7800X3D - 8 Cœurs / 16 Threads, jusqu’à 5 GHz Scénario d'utilisation Jeux Horloge de suralimentation maximale 5 VERSION PCIe PCIe5.0 Canaux mémoire pris en charge 4 Type de mémoire pris en charge DDR5 Modèles de chipset pris en charge AMD X570 TDP/TDP par défaut 120 Nombre de fils 16 Capacité du cache L3 96 Capacité du cache L2 8 Débloqué no Construit par GPU no Processus de puce 14 nm Type de processeur AMD Athlone Type Octa cœur Type de prise 15h Application Ordinateur de bureau Nom de marque AMD Modèle AMD Ryzen 7 7800X3D Nombre de cœurs Huit cœurs Chip manufacturing process 5NM Supported chipset models",
-    "price": 234.32,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-jusqua-5-ghz-3431618",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9y6eB/3431618_1/re/1200x1200/qt/90/3431618_1.jpg",
-    "detected_at": "2026-10-13T10:19:36+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 234.32,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Processeur AMD Ryzen 7 7800X3D - 8 cœurs, 16 threads, 4,2 GHz de base, 5 GHz en boost, TDP de 120W, socket AM5",
-    "description": "249,38€ - AliExpress Processeur : AMD Ryzen 7 7800X3D ( la fiche TechpowerUp apporte d’autres informations, dont le PPT* ) *PPT (Power Package Tracking) qui est la puissance maximale délivrée par défaut Socket : AM5 Architecture : Zen 4 8 cœurs physiques et 16 cœurs logiques , via SMT Fréquence nominale : 4,2 GHz Fréquence boost maximale : 5 GHz TDP nominal : 120 W Tjmax : 89 °C Cache L1 : 512 Ko Cache L2 : 8 Mo Cache L3 : 96 Mo : c'est là surtout que les X3D poussent ! Finesse de gravure : 5 nm TSMC pour les cœurs CPU, 6 nm pour le Die I/O Sécurité AMD Enhanced Virus Protection, avec prise en charge du NX bit Il dispose bien d'un modeste IGP : mais il n'est clairement pas là pour la 3D. Sur ce plan, c'est à votre carte graphique de faire le boulot. (embarrassedflame) Fourni sans ventilateur . ☝️ Processeur dont vous pouvez trouver une review chez TechpowerUp . Vous pouvez retrouver les spécifications de tous les processeurs AMD via cette page . C’était votre dévoué Singe-technophile s’en venant des processeurs dans les mains. N’hésitez pas à le suivre dans ses pérégrinations en Simia ! Ses vallées, ses montagnes, ses villes et leurs agréements, des rues commerciales au stadium de boxe. Essayez d’éviter le Tribunal tout de même. Car comme il y est dit, Dura Lex, Sed Simia .",
-    "price": 249.38,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7800x3d-8-coeurs-16-threads-42-ghz-de-base-5-ghz-en-boost-tdp-de-120w-socket-am5-3431613",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2KWF9/3431613_1/re/1200x1200/qt/90/3431613_1.jpg",
-    "detected_at": "2026-10-13T10:19:20+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 249.38,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 12 Marqueurs indélébiles Sharpie - pointe fine, encre noir",
-    "description": "8,09€ - Amazon Très bon prix ! Le marqueur Sharpie peut être utilisé sur le plastique, le verre, le bois, le métal et le textile Noir exceptionnellement intense, pour des lignes épaisses Encre à séchage rapide qui résiste aux bavures, à la décoloration et à l'eau Pointe fine pour des lignes nettes, offrant davantage de précision et un flux d'encre régulier Cette pochette contient 12 marqueurs permanents Sharpie noirs Spécifications Marque: Sharpie Couleur d'encre: Noir Nombre d'articles: 12 Type de point: Fine Utilisations recommandées pour le produit: Dessin, Esquisse, Écriture Public cible: Adulte Caractéristique spéciale: Mélangable, résistant à la décoloration, indélébile, utilisation multi-surfaces, encre à séchage rapide, clip de poche, résistant à l'eau, pointes polyvalentes Voir plus Recommandation de surface: Papier Couleur: Noir Matériau: Plastique Usages recommandés pour le produit: Dessin, Esquisse, Écriture Public ciblé: Adulte Pays d'origine: USA Type de marqueur: Marqueur permanent Nom de la taille du colis: 12 lots Code article international: 03501179961118 Description de la tranche d’âge: 13+ Composants inclus: 12 stylos noirs imperméables Nom du type du produit: Sharpie marqueurs permanents, pointe fine, noirs, Lot de 12 Fabricant: Newell Rubbermaid Numéro de modèle: 1996111 Numéro de pièce: 1996111 Unité de comptage: 12.0 unité Description de la garantie: Garantie 12 mois Classement des meilleures ventes d'Amazon: 160 en Fournitures de bureau (Voir les 100 premiers en Fournitures de bureau) 4 en Marqueurs indélébiles et stylos-marqueurs ASIN: B01MURLV9K Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (47 809) 4,7 sur 5 étoiles Type de matériau: Plastique Base d'encre: Hybride Type de pointe: Fine Caractéristiques spéciales: Mélangable, résistant à la décoloration, indélébile, utilisation multi-surfaces, encre à séchage rapide, clip de poche, résistant à l'eau, pointes polyvalentes Niveau d' etancheite: Étanche Diamètre de la mine: 1.0_1.9mm Orientation de la main: Ambidextre Est imperméable: Vraie Type de poignée: Ergonomique Technique d’écriture: Permanent Type d'instrument d'écriture: Marqueur Style: Marqueurs permanents Motif: Lot de 12 Forme du corps: Cylindrique Thème: Papeterie pour une expression créative Nombre d' articles: 12 Nombre de pièces: 12 Dimensions de l’article: 19,6 x 1,7 x 19,4 centimètres Commentaires client",
-    "price": 8.09,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sharpie-marqueurs-indelebiles-pointe-fine-encre-noir-permanent-pochette-de-12-3431616",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cIbND/3431616_1/re/1200x1200/qt/90/3431616_1.jpg",
-    "detected_at": "2026-10-13T10:18:05+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 8.09,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Biped (Dématérialisé - Playstation Store)",
-    "description": "1,49€ - PlayStation Store Biped sur ps5 dématérialisé Connexion Sorties récentes Collections Promotions Abonnements Parcourir BipedBiped Biped Postmeta Games Limited PS4 PS5 Optimisé pour la PS5 Pro Moyenne des avis : 3.49 étoiles sur 5 (3,2 K avis) 3.49 3,2 K avis Inclus Remise par rapport au prix d'origine de €14,99 €14,99 S'abonner à PlayStation Plus Extra pour accéder à ce jeu et à des centaines d'autres du catalogue des jeux €1,49 Remise par rapport au prix d'origine de €14,99 €14,99 Économisez 90 % Fin de l'offre : 22/10/2026 00:59 UTC+2 Prix le plus bas au cours des 30 derniers jours : €14,99 S'abonner PEGI 3 PS Plus requis pour le jeu en ligne Prend en charge jusqu'à 2 joueurs en ligne avec PS Plus Jeu en ligne facultatif De 1 à 2 joueurs Le streaming dans le cloud PS5 et PS Portal n'est pris en charge qu'avec un abonnement Premium Version PS5 Fonction de vibration prise en charge (manette sans fil DualSense) Optimisé pour la PS5 Pro Version PS4 Vibration de la manette DUALSHOCK 4 Afficher tous les avis relatifs à la compatibilité concernant la PS5 et la PS4 BipedBiped BipedBiped BipedBiped BipedBiped BipedBiped Éditions : Bipedal Party Bipedal Party PS4 PS5 €8,74 Remise par rapport au prix d'origine de €24,99 €24,99 5 % d'économies supplémentaires avec PlayStation Plus Fin de l'offre : 22/10/2026 00:59 UTC+2 Prix le plus bas au cours des 30 derniers jours : €24,99 S'abonner et acheter Biped Biped PS4 PS5 Inclus Remise par rapport au prix d'origine de €14,99 €14,99 S'abonner à PlayStation Plus Extra pour accéder à ce jeu et à des centaines d'autres du catalogue des jeux S'abonner Avis Biped Se connecter pour donner un avis Avis global des joueurs 3.49Moyenne des avis : 3.49 étoiles sur 5 (3220 avis) 3220 avis 46 % 12 % 11 % 6 % 25 % Fonctionnalités d'accessibilité PS5 (8) PS4 (8) Audio Commandes du volume Commandes du volume Vous pouvez désactiver le son de chaque sortie audio. Sous-titres et légendes Sous-titres (Basique) Sous-titres (Basique) Seuls les éléments clés de l'intrigue et les personnages principaux du jeu sont sous-titrés. Commandes Jouable sans vibrations des manettes, Jouable sans effet de gâchette adaptative Jouable sans vibrations des manettes Vous pouvez jouer au jeu sans activer les vibrations des manettes ou le retour haptique. Jouable sans effet de gâchette adaptative Vous pouvez jouer au jeu sans activer les gâchettes adaptatives. Gameplay Rappel des commandes, Rappels tutoriel, Mode Entraînement, Mise en pause du jeu Rappel des commandes Vous pouvez vérifier les commandes du jeu à tout moment. Rappels tutoriel Vous pouvez consulter le tutoriel du gameplay à tout moment. Mode Entraînement Vous avez accès à un environnement de test qui vous permet de vous entraîner tout au long du jeu. Mise en pause du jeu Vous pouvez mettre le jeu en pause à tout moment durant le gameplay ou en mode cinématique (jeu hors ligne uniquement). Informations sur le jeu et mentions légales Biped est un jeu d'action-aventure coopératif en 3D basé sur la physique. Il est fortement axé sur la collaboration momentanée entre deux joueurs. Deux petits robots bipèdes, Aku et Sila, marcheront côte à côte et resserreront leurs liens au cours d'une aventure amusante sur la planète Terre, afin d'accomplir leur mission. Pas de boutons ! Vous contrôlez les 2 jambes de votre bipède avec les joysticks. Cela vous permet d'effectuer toutes les actions de base allant de marcher et patiner, jusqu'aux déplacements plus avancés comme conduire et couper du bois. Bien qu'il soit possible de jouer seul, le jeu est beaucoup plus amusant en mode co-op avec un ami ou un membre de votre famille. Vous devrez communiquer et coordonner vos déplacements pour surmonter les défis ensemble. Découvrez à quel point vous formez une belle paire. Votre aventure vous fera visiter de nombreux endroits sur la planète, à la fois sublimes et mystérieux. Explorez des secrets dans les forêts, les vallées, les cascades et les montagnes de glace et tentez de trouver vo",
-    "price": 1.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/biped-ps5-dematerialise-3431614",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/IttKI/3431614_1/re/1200x1200/qt/90/3431614_1.jpg",
-    "detected_at": "2026-10-13T10:17:38+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1.49,
-        "observed_at": "2026-10-13T10:35:09.063573+00:00"
       }
     ]
   }
