@@ -1,5 +1,85 @@
 [
   {
+    "title": "LEGO Botanicals Bouquet de Fleurs d'Olivia Rodrigo 11507",
+    "price": 34.99,
+    "reference_price": 42.99,
+    "discount_percent": 18.61,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GGSRL31C",
+    "image_url": "https://m.media-amazon.com/images/P/B0GGSRL31C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:58:50",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 34.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "NUK Extra Cool Anneau de denti... et massant 3 mois Multicolore",
+    "price": 5.99,
+    "reference_price": 16.56,
+    "discount_percent": 63.83,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0793DGX6F",
+    "image_url": "https://m.media-amazon.com/images/P/B0793DGX6F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:58:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Roulette jumelée Metafranc WU0...de charge (max.) 70 kg 4 pc(s)",
+    "price": 20.62,
+    "reference_price": 27.19,
+    "discount_percent": 24.16,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07M85MT1P",
+    "image_url": "https://m.media-amazon.com/images/P/B07M85MT1P.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:58:44",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 20.62,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bebeconfort Chauffe-Biberon Di...made, Compact et Léger (280 g)",
+    "price": 32.99,
+    "reference_price": 54.9,
+    "discount_percent": 39.91,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DT4S1193",
+    "image_url": "https://m.media-amazon.com/images/P/B0DT4S1193.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 11:58:43",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 32.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
     "title": "NATESSANCE Huile aux Fleurs de...querette Bio 100 ml - Lot de 2",
     "price": 11.56,
     "reference_price": 25.73,
@@ -3076,6 +3156,300 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coffret Mini Brands Cuisine Magique (255847) - Cuisine miniature interactive avec eau et vapeur",
+    "description": "39,99€ - Smyths Toys Une réduction de 20 € sur ce coffret Mini Brands chez Smyths Toys ! La Cuisine Magique passe à 39,99 € au lieu de 59,99 €. La particularité de ce jouet, c'est qu'il ne se contente pas d'imiter une cuisine : plusieurs éléments sont réellement interactifs. Le robinet fait couler de l'eau, le lave-vaisselle fonctionne et la cuisinière produit un effet de cuisson avec de la vapeur. Infos importantes : Coffret Mini Brands Really Works Cuisine Magique. Référence Smyths Toys : 255847. Cuisine miniature avec évier et robinet fonctionnel. Lave-vaisselle miniature interactif. Cuisinière produisant un effet de cuisson et de vapeur. Four miniature ouvrant et fermant. Accessoires inclus : assiettes, tasse, bouilloire, aliments miniatures et ustensiles. Deux cartouches filtrantes incluses. Déconseillé aux enfants de moins de 3 ans en raison des petites pièces. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
+    "price": 39.99,
+    "reference_price": 59.99,
+    "discount_percent": 33.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coffret-mini-brands-cuisine-magique-255847-cuisine-miniature-interactive-avec-eau-et-vapeur-3431682",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FSmBI/3431682_1/re/1200x1200/qt/90/3431682_1.jpg",
+    "detected_at": "2026-10-13T11:56:40+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "WD 2To My Passport Ultra, Disque Dur Externe Portable, USB-C, compatibilité avec PC, Xbox et Playstation, Boîtier métallique épuré",
+    "description": "28,36€ - Amazon Il en reste que 9, profitez en ! Équipé de la technologie USB-C, le disque portable My Passport Ultra permet d'augmenter facilement votre capacité de stockage et s'accorde avec votre PC grâce à son boîtier design en métal. Dès la sortie de l'emballage, il offre un stockage plug-and-play sans effort sous Windows. La protection par mot de passe avec chiffrement matériel vous aide pour sa part à protéger votre contenu. Compatibilité USB-C native. Doté de la technologie USB-C, le disque portable My Passport Ultra vous offre une solution de stockage rapide et simple d'emploi pour votre PC. L'adaptateur USB-C vers USB-A inclus assure pour sa part la compatibilité avec les ordinateurs plus anciens. Grande capacité. Doté d'une capacité maximale de 5 To, vous bénéficiez de suffisamment d'espace pour garder vos photos, vos vidéos, votre musique et vos documents préférés sous votre contrôle et les emmener partout. Boîtier métallique épuré. Grâce à son boîtier en métal anodisé texturé très contemporain, le disque portable My Passport Ultra est disponible en plusieurs couleurs pour s'accorder parfaitement avec votre style et les ordinateurs les plus récents. Logiciel de sauvegarde facile à utiliser. Le logiciel de sauvegarde inclus vous permet de protéger facilement ce qui compte pour vous en automatisant votre routine de sauvegarde pour vos photos, vidéos ou documents professionnels. Il vous suffit de le télécharger, de brancher votre disque et de définir un calendrier horaire, quotidien ou mensuel. Chiffrement matériel AES 256 bits avec protection par mot de passe. La protection par mot de passe et le chiffrement matériel AES 256 bits intégré vous permettent de protéger le contenu constituant votre vie numérique. Il vous suffit d'installer notre logiciel et définir votre mot de passe pour activer la protection par mot de passe. Compatibilité Windows et Mac native. My Passport Ultra est formaté pour Windows afin de vous offrir une solution de stockage prête à l'emploi. Vous pouvez également télécharger le pilote NTFS pour macOS afin de pouvoir changer facilement de système d'exploitation sans reformater le disque. Garantie limitée de trois ans Le disque dur My Passport Ultra est conçu avec des composants WD testés et éprouvés, gages d'une longévité accrue. Il est couvert par une garantie limitée de 3 ans pour vous offrir une solution de stockage fiable sur laquelle vous pouvez compter.",
+    "price": 28.36,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/wd-2to-my-passport-ultra-disque-dur-externe-portable-usb-c-compatibilite-avec-pc-xbox-et-playstation-boitier-metallique-epure-3431681",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2JnwU/3431681_1/re/1200x1200/qt/90/3431681_1.jpg",
+    "detected_at": "2026-10-13T11:54:25+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 28.36,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Poêle à blinis De Buyer - Pancake",
+    "description": "11,62€ - Amazon FABRIQUÉE EN FRANCE : La poêle à blinis CARBONE PLUS De Buyer est fabriquée en France. Son acier vous permet de cuire de parfait blinis, beignets ou pancakes facilement. ANTIAHDÉSIVE : La poêle à blinis CARBONE PLUS De Buyer développe une anti adhérence naturelle, après un culottage progressif. Plus vous l'utilisez, moins la poêle attache. CUISSON MAÎTRISÉE : Cette poêle en acier offre une montée en température rapide ainsi qu'une diffusion uniforme de la chaleur. La queue tube rivetée et ventilée de cette poêle est en inox. Cela permet une préhension ergonomique, tout en restant froide. TOUS FEUX : Les ustensiles de la gamme CARBONE PLUS De Buyer nécessite un culottage dès la première utilisation. Elle est compatible avec tous types de feu, dont induction. ENTRETIEN : Déglacez et rincez à l'eau chaude, séchez puis huilez légèrement la poêle avant de la stocker dans un endroit sec. Il est important de ne pas employer de détergents ni de mettre au lave-vaisselle.",
+    "price": 11.62,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/de-buyer-poele-a-blinis-pancake-3431678",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9IFcZ/3431678_1/re/1200x1200/qt/90/3431678_1.jpg",
+    "detected_at": "2026-10-13T11:53:22+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.62,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blazer femme ESMARA (100408710) - T 36 à 46, coupe légèrement cintrée, épaulettes et poches",
+    "description": "12,99€ - Lidl Lidl met ce blazzer ESMARA en promotion à 12,99 € au lieu de 18,99 €. Coupe légèrement cintrée, col à revers et épaulettes. La composition comporte de la viscose et de l'élasthanne pour apporter davantage de souplesse. Infos importantes : Blazer pour femme ESMARA. Référence du modèle : 100408710. Coupe légèrement cintrée. Col à revers, épaulettes et poches passepoilées. Fente d'aisance au dos. Composition extérieure : 76 % polyester, 22 % viscose et 2 % élasthanne. Doublure en polyester. Présence de polyester recyclé certifié GRS. Certification OEKO-TEX Standard 100 annoncée. Plusieurs tailles et coloris selon disponibilité. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
+    "price": 12.99,
+    "reference_price": 18.99,
+    "discount_percent": 31.6,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/blazer-femme-esmara-100408710-t-36-a-46-coupe-legerement-cintree-epaulettes-et-poches-3431680",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jHtAX/3431680_1/re/1200x1200/qt/90/3431680_1.jpg",
+    "detected_at": "2026-10-13T11:53:18+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaise Haute en bois Bébé Hauck- Évolutive jusqu’à 90kg",
+    "description": "59,92€ - Amazon -15% avec liste de naissance S'adapte à presque toutes les tables, même avec la barre de sécurité Votre enfant monte et descend seul grâce à la marche réglable Utilisable de 6 mois à 90 kg, une chaise pour toute l'enfance Résumé à partir des informations sur le produit Évolutive dès 6 mois: La chaise haute bébé evolutive suit la croissance de votre enfant dès 6 mois à 90kg. Hauteur et profondeur du siège et du repose-pieds sont réglables de manière flexible. Bois certifié FSC : La chaise haute bébé est fabriquée en bois de hêtre issu de forêts certifiées FSC. La certification FSC garantit que le bois provient de forêts gérées selon les critères du label FSC. Robuste et sûre: La chaise haute bois est très robuste et peut être utilisée longtemps (jusqu'à 90 kg). Les patins intégrés rendent la chaise haute bébé réglable résistante au renversement. S'adapte à toutes les tables : La chaise haute hauck Alpha+ s'adapte à la plupart des tables, même avec sa barre de sécurité - idéal pour les repas ou pour jouer à table. Accessoires disponibles: La chaise haute évolutive peut être complétée par le transat Bouncer Hauck (utilisable dès la naissance), une tablette repas Alpha Tray ou Alpha Click Tray ou le coussin réducteur.",
+    "price": 59.92,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaise-haute-en-bois-bebe-hauck-evolutive-jusqua-90kg-3431677",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Uvrpp/3431677_1/re/1200x1200/qt/90/3431677_1.jpg",
+    "detected_at": "2026-10-13T11:51:34+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 59.92,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Service de Vaisselle en Porcelaine Silvercrest - 18 pièces, 6 personnes 100407613",
+    "description": "29,99€ - Lidl Pour renouveler un service de table, Lidl affiche ce lot SILVERCREST de 18 pièces en porcelaine à 29,99 € au lieu de 39,99 €. ️ Pour six personnes avec trois types d'assiettes. Infos importantes : Service de table en porcelaine de 18 pièces. Prévu pour six personnes. Six grandes assiettes plates d'environ 25,7 cm. Six assiettes creuses d'environ 22,5 cm. Six assiettes à dessert d'environ 20,3 cm. Compatible avec le lave-vaisselle. Compatible avec le four à micro-ondes. Marque SILVERCREST, référence Lidl 100407613. Le lot revient à environ 5 € par personne pour les trois assiettes. Pensez à vérifier les coloris et la disponibilité avant commande. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
+    "price": 29.99,
+    "reference_price": 39.99,
+    "discount_percent": 25.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/service-de-vaisselle-en-porcelaine-silvercrest-18-pieces-6-personnes-100407613-3431676",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/U96lv/3431676_1/re/1200x1200/qt/90/3431676_1.jpg",
+    "detected_at": "2026-10-13T11:49:42+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "22€ de réduction sans minimum sur tout le site - Ex : Abonnement \"L'Automobile Magazine\" 12 mois - 11 numéros",
+    "description": "17€ - France Abonnements L'AUTOMOBILE MAGAZINE : MENSUEL / 11 Numéros La remise de 22€ s'applique dans le panier : L'automobile magazine est une référence incontournable pour les passionnés de voitures et les curieux du secteur. Il propose des essais détaillés, des comparatifs rigoureux et des analyses des dernières innovations technologiques. Chaque numéro explore aussi bien les modèles récents que les tendances du marché, comme l'électrification ou les nouvelles mobilités. Accessible et complet, il permet de mieux comprendre l'évolution de l'industrie automobile tout en guidant les lecteurs dans leurs choix. Site : https://www.france-abonnements.fr/code/UF076 ?",
+    "price": 17.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/22eur-de-reduction-sans-minimum-sur-tout-le-site-ex-abonnement-lautomobile-magazine-12-mois-11-numeros-3431669",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0fjy3/3431669_1/re/1200x1200/qt/90/3431669_1.jpg",
+    "detected_at": "2026-10-13T11:48:43+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 17.0,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PC Portable 14\" ASUS Zenbook 14 UM3406KA-QDO74W - 1920x1200, 60Hz OLED, Ryzen AI 7 350, 16 Go RAM, 512 Go SSD, Windows 11 Home",
+    "description": "959,99€ - Amazon L'ASUS Zenbook 14 UM3406KA-QDO74W est équipé du processeur AMD Ryzen AI 7 350, cadencé de 2,0 GHz à 5,0 GHz. Ce processeur à 8 cœurs et 16 threads, associé à l'unité centrale AMD NA NPU offrant jusqu'à 50 TOPS, garantit des performances optimales pour le multitâche, la création graphique et les applications exigeantes. L'ASUS Zenbook 14 UM3406KA-QDO74W offre un stockage ultra-rapide grâce à un SSD M.2 NVMe PCIe 4.0 de 512 Go ; cela permet des temps de chargement réduits et un accès rapide aux données, pour les professionnels et les créateurs de contenu. L'écran 14 pouces de l'ASUS Zenbook 14 UM3406KA-QDO74W est doté d'une résolution OLED WUXGA (1920 x 1200) et d'un taux de rafraîchissement de 60 Hz. Sa technologie de réduction de la lumière bleue et sa certification TÜV Rheinland garantissent un confort visuel optimal, même lors de longues sessions de travail. Conçu pour durer, l'ASUS Zenbook 14 UM3406KA-QDO74W est fabriqué en aluminium robuste et répond aux normes militaires américaines MIL-STD 810H. Il offre ainsi une résistance accrue aux chocs, aux vibrations et aux conditions environnementales extrêmes. L'ASUS Zenbook 14 UM3406KA-QDO74W est équipé d'un clavier chiclet rétroéclairé et d'un pavé tactile de précision avec pavé numérique, pour une expérience de frappe confortable et précise, même en faible luminosité.",
+    "price": 959.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/asus-zenbook-14-um3406ka-qdo74w-14-inch-1920x1200-60hz-oled-laptop-3431672",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/HFD85/3431672_1/re/1200x1200/qt/90/3431672_1.jpg",
+    "detected_at": "2026-10-13T11:47:11+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 959.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra d'action DJI Osmo Action 5 Pro - capteur 1/1.3\", 4K 120 fps, double écran OLED, autonomie 4h",
+    "description": "226,05€ - AliExpress L'Action 5 Pro détecte intelligemment la position du sujet et ajuste dynamiquement la composition, en le maintenant centré dans chaque image. [Autonomie prolongée de 4 h] L'autonomie a été augmentée de 50 %. Une seule pile offre jusqu'à 4 heures d'utilisation. Enregistrement jusqu'à 3,6 heures à -20 °C. [Double écran tactile OLED haute luminosité] Les écrans sont des écrans tactiles OLED haute luminosité offrant plus de contraste et de couleurs, avec une augmentation de 16 % du rapport écran/corps. [Stabilisation robuste] HorizonSteady réduit non seulement les secousses, mais corrige également les inclinaisons horizontales dans un angle de 360°, ce qui convient à la plupart des situations sportives. [Connexion microphone DJI] La connexion directe sans effort via l'écosystème de connectivité DJI OsmoAudio™️ avec jusqu'à deux émetteurs DJI Mic 2/Mic Mini offre un enregistrement audio 48 kHz sans avoir besoin d'un récepteur. [Écosystème d'accessoires polyvalent] Une gamme d'accessoires vous permet de pratiquer sans effort le cyclisme, la randonnée, le parachutisme, la plongée, le surf ou le ski/snowboard.",
+    "price": 226.05,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/camera-daction-dji-osmo-action-5-pro-capteur-113-4k-120-fps-double-ecran-oled-autonomie-4h-3431674",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fSDS0/3431674_1/re/1200x1200/qt/90/3431674_1.jpg",
+    "detected_at": "2026-10-13T11:47:02+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 226.05,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Séjour bien-être 3J/2N pour 2 pers. à Dublin (Irlande) - Hôtel 4*, petit-déjeuner, piscines, spa - Ex: 03/01 au 05/01",
+    "description": "176€ - Voyage privé Situation géographique • Localisation : Situé sur Swords Road, dans la partie nord de Dublin, l'établissement se trouve à environ 3 km du cœur de la ville . • Aéroport : L'aéroport de Dublin est situé à environ 7 kilomètres de l'hôtel. • À proximité : Idéal pour découvrir l'atmosphère de la capitale irlandaise et faire une halte à la magnifique cathédrale Saint-Patrick. L'hôtel et les chambres • Hébergement : Séjour en chambre Exécutive (25 m², élégante et aux tons sobres pour 2 adultes ou 1 adulte et 1 enfant). • Loisirs et détente : L'hôtel dispose d'un club de loisirs, d'une piscine intérieure, d'un bain à remous, d'un spa et d'une salle de sport. (Bonnet de bain obligatoire pour la piscine). Restauration • Formule : Séjour en formule petit-déjeuner. Espaces de restauration : • Le restaurant DXTR, qui met l'accent sur des ingrédients locaux de qualité. • Le Croft Bar, un espace récemment rénové proposant des spécialités irlandaises et une cuisine gastronomique. • Le Pub McGettigan's, l'endroit idéal pour savourer une pinte de Guinness tout en regardant un match de sport sur grand écran. Avantages négociés • Surclassement et accueil : Surclassement en chambre Exécutive King ou Twin, avec une bouteille de Prosecco et une boîte de chocolats offertes à l'arrivée. • Restauration et confort : 10 % de réduction au restaurant de l'hôtel (par chambre et par séjour) et un départ tardif offert jusqu'à 13h00. Exemple de simulation (sans transport) • Dates : Du dimanche 3 janvier 2027 au mardi 5 janvier 2027 (3 jours / 2 nuits) pour 2 adultes en formule petit-déjeuner. • Tarif du séjour : 161 € (au lieu de 400 €). • Frais de dossier : 15 €.",
+    "price": 176.0,
+    "reference_price": 400.0,
+    "discount_percent": 56.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sejour-bien-etre-3j2n-pour-2-a-dublin-irlande-hotel-4-petit-dejeuner-piscines-spa-ex-0301-au-0501-3431667",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6fWIW/3431667_1/re/1200x1200/qt/90/3431667_1.jpg",
+    "detected_at": "2026-10-13T11:46:25+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 176.0,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures de Trail Homme Salomon Extegra GTX - Ubnchi/black/brilli, Du 41 au 46",
+    "description": "59,99€ - Sport 2000 Sur les sentiers variés, cette chaussure vous accompagne avec robustesse et agilité. Sa membrane Gore-Tex vous protège efficacement de l’humidité pour garder vos pieds au sec, même sous la pluie. La semelle Contagrip assure une adhérence sûre sur tous les terrains, vous permettant d’avancer avec confiance. Sa construction légère et respirante vous offre un confort durable, pour prolonger vos sorties sans fatigue. Adaptée aux sportifs exigeants, elle s’intègre parfaitement à votre quotidien actif. Marque SALOMON Composition produit Tige soudée en mesh 3D et TPU. Doublure textile. Semelle extérieure en caoutchouc Contagrip®. Membrane GORE-TEX imperméable. Membrane Gore-Tex® : imperméabilité optimale.",
+    "price": 59.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-de-trail-homme-salomon-extegra-gtx-ubnchiblackbrilli-du-41-au-46-3431673",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/blxkI/3431673_1/re/1200x1200/qt/90/3431673_1.jpg",
+    "detected_at": "2026-10-13T11:45:36+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 59.99,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Enceinte portable Bluetooth JBL Grip - La Louvière (Hainaut, frontaliers Belgique)",
+    "description": "49€ - Media Markt Enceinte portable Bluetooth JBL Grip disponible au Mediamakrt La Louvière (Hainaut, Belgique) , dans le centre commercial Cora . Plusieurs coloris disponibles et grand stock en magasin à l'occasion de l'ouverture. Descriptif du produit (site officiel) Facile à saisir et à transporter, l’enceinte JBL Grip restera aisément à portée de main. La JBL Grip est puissante par rapport à sa taille. Même dotée d’un format compact, la JBL Grip offre un son professionnel puissant : des basses percutantes et des aigus cristallins. Que ce soit pour se mettre dans l’ambiance lors d’une séance d’étirements matinaux ou pour des journées de détente à la plage, la JBL Grip est notre modèle préféré. La lumière ambiante intégrée sur le panneau arrière s’adapte à toute situation : créez ainsi l’ambiance idéale pour une soirée en amoureux ou une fête spontanée entre amis. Utilisez le bouton de commande pratique sur le panneau latéral pour basculer entre les thèmes lumineux. Ainsi, l’ambiance sera toujours adaptée, que vous vouliez vous détendre ou faire la fête. Avons-nous mentionné qu’elle était robuste ? La JBL Grip est conçue pour faire face à toutes les conditions. Avec son indice d’étanchéité et de résistance à la poussière (IP68), elle s’adapte à toutes les activités. Sa conception résistante aux chutes signifie qu’elle peut tomber sur du béton, sans pour autant gâcher la fête. En plus de cela, elle possède jusqu’à 14 heures d’autonomie avec Playtime Boost. Lors de soirées entre amis, vous pouvez utiliser Auracast™ afin d’appairer deux enceintes Grip en stéréo pour un son surround instantané. Pourquoi s’arrêter là ? Connectez autant d’enceintes compatibles JBL Auracast™ que vous avez pour une expérience sonore complète. Source et descriptif complet 70€ chez Amazon et consort .",
+    "price": 49.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/enceinte-portable-bluetooth-jbl-grip-3431666",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/P3U40/3431666_1/re/1200x1200/qt/90/3431666_1.jpg",
+    "detected_at": "2026-10-13T11:43:03+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 49.0,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussure de Football F50 League - sans lacets, Terrain Souple/multi-Surfaces, plusieurs tailles disponibles",
+    "description": "50€ - Adidas UNE CHAUSSURE DE FOOTBALL AVEC TIGE FIBERSKIN POUR UN CONTRÔLE AMÉLIORÉ. Conçue pour dominer le terrain, la chaussure de football sans lacets F50 League Terrain souple/Multi-surfaces offre une vitesse exceptionnelle et de hautes performances pendant les matchs. La tige Fiberskin réactualisée intègre des lignes 3D placées stratégiquement pour apporter soutien et sensation de douceur, tandis que la semelle extérieure Sprintplate 360 combine crampons biseautés et semi-coniques pour t’offrir agilité et vitesse sur toute la longueur du terrain. Grâce à un col en maille sans lacets offrant un confort remarquable et un excellent maintien, cette chaussure t’assure un ajustement précis. adidas te propose la chaussure ultime pour terrain souple, conçue pour offrir une traction optimale et des performances de haut niveau.",
+    "price": 50.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussure-de-football-sans-lacets-f50-league-terrain-souplemulti-surfaces-3431671",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oZhoS/3431671_1/re/1200x1200/qt/90/3431671_1.jpg",
+    "detected_at": "2026-10-13T11:42:26+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 50.0,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Veste de Randonnée The North Face 24/7 Woven Jacket 2.0 - TNF Black, Tailles du XS au XXL",
+    "description": "47,49€ - Sport 2000 Quand le vent se lève lors de vos sorties en plein air, cette veste vous accompagne avec légèreté et aisance. Sa matière tissée vous protège efficacement tout en laissant votre peau respirer, pour que vous restiez à l’aise même en mouvement. La capuche ajustable vous offre une protection supplémentaire contre les éléments sans gêner votre champ de vision. Facile à enfiler et à transporter, elle devient vite un allié polyvalent pour vos activités sportives au quotidien. Adoptez un style actif qui vous suit partout, du jogging matinal aux balades en ville. Marque THE NORTH FACE Composition produit 86% polyester, 14% élasthanne avec traitement déperlant longue durée sans PFC",
+    "price": 47.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/veste-de-randonnee-homme-the-north-face-24-7-woven-jacket-20-tnf-black-du-xs-au-xxl-3431670",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/tHoXX/3431670_1/re/1200x1200/qt/90/3431670_1.jpg",
+    "detected_at": "2026-10-13T11:42:10+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 47.49,
+        "observed_at": "2026-10-13T11:59:50.729303+00:00"
       }
     ]
   },
@@ -7946,7 +8320,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 155.5,
@@ -7967,7 +8341,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 60.0,
@@ -7988,7 +8362,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 7.99,
@@ -8009,7 +8383,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 91.33,
@@ -8030,7 +8404,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 1299.0,
@@ -8051,7 +8425,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 12.51,
@@ -8072,7 +8446,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 18.69,
@@ -8093,7 +8467,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 20.0,
@@ -8156,7 +8530,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 59.99,
@@ -8177,7 +8551,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:59:41.954184+00:00",
     "price_history": [
       {
         "price": 199.99,
@@ -9511,132 +9885,6 @@
       {
         "price": 28.28,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets Puma Club II enfant et adolescent",
-    "description": "26,90€ - Amazon En 36 / 37 / 38 / 38,5 / 39",
-    "price": 26.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/puma-baskets-club-ii-enfant-et-adolescent-3431304",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6Vhd9/3431304_1/re/1200x1200/qt/90/3431304_1.jpg",
-    "detected_at": "2026-10-12T19:15:27+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 26.9,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chargeur Baseus Enercore - 67W, USB C avec Câble Rétractable, Chargeur GaN 2 Ports USB-C (via remise panier - Vendeur tiers)",
-    "description": "19,97€ - Amazon ⚡ Chargeur Baseus GaN6 67W – 3 USB-C avec câble rétractable intégré Chargeur secteur Baseus 67W équipé de la technologie GaN6, avec un câble USB-C rétractable intégré de 80 cm. Pratique pour éviter de transporter plusieurs chargeurs et câbles. Caractéristiques : - ⚡ Puissance maximale de 67W pour la charge rapide - 3 connexions USB-C, dont un câble rétractable intégré - Câble USB-C de 80 cm, ajustable et rétractable - Charge simultanée de 3 appareils, avec partage de la puissance - ️ Technologie GaN6 pour un format compact et une meilleure efficacité énergétique - Compatible avec de nombreux smartphones, tablettes et ordinateurs portables USB-C - Dimensions : 10,5 × 5,6 × 3,6 cm - ⚖️ Poids : 182 g - ️ Protections contre la surchauffe, les surcharges et les courts-circuits Compatibilité : Samsung Galaxy, iPhone, Google Pixel, MacBook, iPad, Lenovo, HP, Dell et autres appareils USB-C compatibles. Un chargeur polyvalent pour le bureau, les déplacements ou les voyages, avec l'avantage de toujours avoir un câble USB-C à portée de main. À noter : les 67W correspondent à la puissance maximale en sortie unique. La puissance est répartie lorsque plusieurs appareils sont branchés.",
-    "price": 19.97,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baseus-enercore-chargeur-usb-c-67w-avec-cable-retractable-chargeur-gan-2-ports-usb-c-3431302",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ebqMX/3431302_1/re/1200x1200/qt/90/3431302_1.jpg",
-    "detected_at": "2026-10-12T19:12:04+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 19.97,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets Puma Club II Era Sneaker Mixte",
-    "description": "32€ - Amazon Plusieurs taille dispo",
-    "price": 32.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/puma-club-ii-era-sneaker-mixte-3431299",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/qrgRX/3431299_1/re/1200x1200/qt/90/3431299_1.jpg",
-    "detected_at": "2026-10-12T19:10:44+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 32.0,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Alan Wake 2 Deluxe Edition sur Xbox Series X|S (Dématérialisé)",
-    "description": "23,99€ - Xbox Store Alan Wake 2 Deluxe Edition sur Xbox store en promo supplémentaire) - Extension La maison du lac (Contenu scénaristique supplémentaire) - Coupe-vent écarlate pour Saga - Tenue de star pour Alan - Tenue Alan Wake classique pour Alan - Skin Fusil Parliament pour Alan - Breloque lanterne pour Saga Extension La maison du lac Dans la dernière extension d'Alan Wake 2, plongez dans une expérience horrifique éprouvante au cœur d'un nouveau lieu sur les rives de Cauldron Lake. Entre les murs d'une station de recherche du Bureau Fédéral de Contrôle, la maison du lac, une catastrophe s'est produite. De dangereuses expériences ont provoqué une collision entre la réalité et l'antre noir. Cette extension se déroule en parallèle du jeu principal et vous met dans la peau de l'agente du FBC Kiran Estevez, jouée par Janina Gavankar. En tant qu'Estevez, explorez les couloirs inquiétants de la maison du lac, un site consacré à des recherches sur le surnaturel, et dévoilez les sombres mystères qui s'y cachent. Caractéristiques principales : - Nouveau lieu : la maison du lac, qui se dresse près de Cauldron Lake, est un nouveau lieu inquiétant aux nombreux niveaux à explorer. - Nouveaux ennemis : affrontez « les Esquissés », des ennemis inédits terrifiants qui mettront vos talents de survie à l'épreuve. - Nouvelle arme : équipez-vous du puissant lanceur de pierre noire pour combattre les menaces qui rôdent dans le complexe. - Nouvelle musique : vivez une expérience immersive grâce à une nouvelle chanson de Poe, ainsi qu'à une chanson de fin de chapitre signée Petri Alanko. Extension Zone X Zone X vous permet d'incarner plusieurs personnages de l'univers de Remedy appréciés des fans dans 3 épisodes très stylisés. Bien qu'ils rappellent des personnages déjà connus des joueurs, ils sont différents : ce sont des versions d'eux à la sauce Zone X. Épisodes : - Time Breaker : L'Acteur, qui ressemble étonnamment au shérif de Bright Falls, Tim Breaker, incarne un héros du multivers dans le jeu « Time Breaker ». Son personnage doit traquer le maître de mondes multiples et l'empêcher de tuer les différentes versions de lui-même dans des univers parallèles. - L'étoile Polaire : La Sœur, une femme inconnue qui ressemble étonnamment à Jesse Faden, directrice du FBC, tente de retrouver son frère disparu, retenu prisonnier à Coffee World. - La plus grande fan : La Serveuse, qui ressemble étonnamment à Rose Marigold, serveuse du Oh Deer Diner, doit sauver son idole, l'Écrivain, qui court un grand danger. Pour ce faire, il lui faut affronter ceux qui critiquent l'élu de son cœur, ainsi que le jumeau diabolique de ce dernier, le Rebelle. Jeu de base en version dématérialisée Une série de meurtres rituels menace Bright Falls, une petite ville au cœur de la nature du Nord-Ouest Pacifique. Saga Anderson, talentueuse agente du FBI ayant la réputation de résoudre les affaires insolubles, arrive à Bright Falls afin d'enquêter sur ces meurtres. L'enquête tourne au cauchemar quand elle découvre les pages d'une histoire horrifique qui commence à devenir réalité. Alan Wake, écrivain piégé dans un cauchemar hors de notre monde, écrit une histoire sombre afin de modifier la réalité et de s'enfuir de sa prison. Traqué par une entité horrifique, Wake tente de ne pas devenir fou et de battre le mal à son propre jeu. Nourries par le récit d'horreur, des ténèbres surnaturelles envahissent Bright Falls, corrompant ses habitants et menaçant les proches d'Anderson et de Wake. La lumière est l'arme et l'abri de ces derniers contre l'obscurité qu'ils affrontent. Piégés dans une histoire horrifique composée uniquement de victimes et de monstres, pourront-ils s'échapper pour devenir les héros qu'ils sont censés être ?",
-    "price": 23.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/alan-wake-2-deluxe-edition-xbox-dematerialise-3431301",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ON9KG/3431301_1/re/1200x1200/qt/90/3431301_1.jpg",
-    "detected_at": "2026-10-12T19:09:27+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 23.99,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Lego Technic McLaren P1-42172",
-    "description": "297,49€ - Amazon Construisez le bolide suprême Recréez les détails de la McLaren P1 mythique en construisant cette hypercar à l’échelle pour adultes. Propulsez votre passion pour McLaren Prenez le temps de construire les superbes éléments de la voiture pour créer un modèle complexe à l'échelle 1:8 riche en détails réalistes. LEGO Technic McLaren P1 Équipement détaillé Boîte à 7 vitesses et moteur à pistons V8 à construire. Détails de conception authentiques Ouvrez les portes dièdres ainsi que l'aileron arrière réglable. Trouvez l’inspiration en ligne Le numéro de série unique donne accès à un contenu exclusif. Une expérience de construction immersive Ce kit LEGO Technic représente un défi gratifiant pour les adultes fans de construction.",
-    "price": 297.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-technic-mclaren-p1-42172-3431300",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/crhjG/3431300_1/re/1200x1200/qt/90/3431300_1.jpg",
-    "detected_at": "2026-10-12T19:08:28+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 297.49,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets New Balance 2010 (U2010ETB) - Noir/Rouge, tailles 41,5 à 44",
-    "description": "67,99€ - Solebox Si vous cherchez une paire de New Balance 2010, le coloris noir/rouge est actuellement proposé à -60 % chez Solebox. La 2010 reprend l'esprit des running des années 2000 avec une silhouette assez massive, une tige mélangeant cuir et mesh et des empiècements superposés. Le coloris noir avec ses touches de rouge foncé reste plutôt discret et facile à porter au quotidien. Caractéristiques : Modèle : New Balance 2010 Référence : U2010ETB Coloris : noir/rouge Tige en cuir et mesh pour un mélange de maintien et de respirabilité Amorti conçu pour le confort au quotidien Style rétro running des années 2000 Pointures disponibles : 41,5 / 42 / 42,5 / 44 Autres coloris également en promotion, mais à des tarifs plus élevés : noir, vert, pourpre, rose, brun et argent « Grey Days ». Les remises varient selon les références. Livraison : sous 2 à 4 jours ouvrables, offerte à partir de 139,99 € d'achat. Retours : droit de retour de 14 jours.",
-    "price": 67.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sneakers-new-balance-2010-u2010etb-noirrouge-tailles-415-a-44-3431298",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/SaMaC/3431298_1/re/1200x1200/qt/90/3431298_1.jpg",
-    "detected_at": "2026-10-12T19:06:22+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 67.99,
-        "observed_at": "2026-10-12T19:17:58.667305+00:00"
       }
     ]
   }
