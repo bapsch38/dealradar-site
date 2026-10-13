@@ -1,5 +1,145 @@
 [
   {
+    "title": "Samsung Galaxy A37 5G Lavande 8 Go 256 Go AMZ",
+    "price": 459.0,
+    "reference_price": 553.64,
+    "discount_percent": 17.09,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GR629R8N",
+    "image_url": "https://m.media-amazon.com/images/P/B0GR629R8N.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:38:49",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 459.0,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Harman Kardon Aura Studio 5 Ha...oré, Halo ambiant à 360°, Noir",
+    "price": 296.6,
+    "reference_price": 329.95,
+    "discount_percent": 10.11,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FX2VM6CG",
+    "image_url": "https://m.media-amazon.com/images/P/B0FX2VM6CG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:38:49",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 296.6,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
+    "title": "RØDE Câble SC22 USB-C vers USB-C (30 cm, Violet)",
+    "price": 11.34,
+    "reference_price": 19.99,
+    "discount_percent": 43.27,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CSK5TM6F",
+    "image_url": "https://m.media-amazon.com/images/P/B0CSK5TM6F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:38:48",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.34,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SHIMANO Pédalier VTT FC-TY301 ...- 42/34/24 Dents - Noir - 2021",
+    "price": 36.35,
+    "reference_price": 43.0,
+    "discount_percent": 15.47,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0863BLR4M",
+    "image_url": "https://m.media-amazon.com/images/P/B0863BLR4M.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:38:46",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 36.35,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Canon PIXMA TS9551a Imprimante...) à Cartouches séparées, Blanc",
+    "price": 175.6,
+    "reference_price": 209.57,
+    "discount_percent": 16.21,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D45RVN92",
+    "image_url": "https://m.media-amazon.com/images/P/B0D45RVN92.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:38:44",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 175.6,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bracelet sport Google Fitbit A...itbit Air – Rouge Framboise, L",
+    "price": 24.74,
+    "reference_price": 30.37,
+    "discount_percent": 18.54,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GHPYSJ7V",
+    "image_url": "https://m.media-amazon.com/images/P/B0GHPYSJ7V.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:38:43",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.74,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Midland - Talkie Walkie Longue...Rechargeable avec Chargeur Usb",
+    "price": 81.5,
+    "reference_price": 107.29,
+    "discount_percent": 24.04,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08L6BXDSQ",
+    "image_url": "https://m.media-amazon.com/images/P/B08L6BXDSQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 17:38:40",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 81.5,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
     "title": "Hazet 198-8 Mesurette",
     "price": 25.0,
     "reference_price": 37.78,
@@ -171,7 +311,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:39:37.871843+00:00",
     "price_history": [
       {
         "price": 5.11,
@@ -191,7 +331,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:39:37.871843+00:00",
     "price_history": [
       {
         "price": 26.16,
@@ -331,7 +471,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:39:37.871843+00:00",
     "price_history": [
       {
         "price": 36.0,
@@ -3256,6 +3396,10 @@
       {
         "price": 33.13,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 33.13,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3276,6 +3420,10 @@
       {
         "price": 16.81,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 16.81,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3296,6 +3444,10 @@
       {
         "price": 16.08,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 16.08,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3316,6 +3468,10 @@
       {
         "price": 16.99,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3336,6 +3492,10 @@
       {
         "price": 5.76,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 5.76,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3356,6 +3516,10 @@
       {
         "price": 12.31,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 12.31,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3376,6 +3540,10 @@
       {
         "price": 10.85,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 10.85,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3396,6 +3564,10 @@
       {
         "price": 56.99,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 56.99,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3416,6 +3588,10 @@
       {
         "price": 20.45,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 20.45,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -3436,6 +3612,10 @@
       {
         "price": 122.4,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 122.4,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -4852,6 +5032,48 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaque induction",
+    "description": "89,90€ - Castorama La plaque de cuisson induction 3 foyers NN3ZID60EU est un appareil performant et élégant pour votre cuisine. *caractéristiques du produit :* - 3 foyers - Puissance totale de 7400 W - 10 niveaux de réglage - Largeur de 59 cm - Témoins de chaleur résiduelle - Verrouillage enfant",
+    "price": 89.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/plaque-induction-3431875",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4r07D/3431875_1/re/1200x1200/qt/90/3431875_1.jpg",
+    "detected_at": "2026-10-13T17:35:48+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 89.9,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Trash Day sur PC (dématérialisé)",
+    "description": "7,01€ - Steam Trash Day en promotion pour son lancement jusqu'au 27 Octobre. Faites équipe avec votre équipe de ratons laveurs dans cette aventure coopérative basée sur la physique pouvant accueillir jusqu'à 6 joueurs. Récupérez les ordures, remplissez votre chariot volé et transportez-le jusqu'au paradis du raton laveur. Vivez votre meilleure vie de raton laveur.",
+    "price": 7.01,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/trash-day-3431872",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/rf0am/3431872_1/re/1200x1200/qt/90/3431872_1.jpg",
+    "detected_at": "2026-10-13T17:21:30+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 7.01,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -10404,174 +10626,6 @@
       {
         "price": 74.39,
         "observed_at": "2026-10-13T09:25:22.873114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures Asics Gel-Tactic - Baskets de Sport en Salle, Bleu, Tailles du 36 au 42,5",
-    "description": "32,99€ - Sport-Outlet La ASICS Gel-Tactic est une chaussure d'intérieur pour femmes conçue pour des mouvements rapides et dynamiques. *caractéristiques du produit:* - Semelle adhérente - Conception stable - Bon maintien - Amorti confortable - Idéal pour divers sports en salle - Convient pour l'entraînement régulier",
-    "price": 32.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/asics-gel-tactic-femmes-interieur-chaussures-de-sport-en-salle-du-36-au-425-3431551",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/zioZ6/3431551_1/re/1200x1200/qt/90/3431551_1.jpg",
-    "detected_at": "2026-10-13T09:03:48+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 32.99,
-        "observed_at": "2026-10-13T09:25:22.873114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets Nike Air Max 90 PRM - Tailles 42 à 45,5 (via remise au panier)",
-    "description": "73,49€ - The Village Outlet La Nike Air Max 90 PRM est une chaussure de running au design authentique et rétro. Redécouvrez l’essence du running avec la Nike Air Max 90 PRM, un classique indémodable au design authentique. Son style rétro s’adapte parfaitement à toutes vos tenues, pour un look urbain et dynamique. La Air Max 90 PRM conserve les lignes emblématiques des années 90, avec des renforts cousus et des textures qui apportent profondeur et caractère à la chaussure. Sa semelle à motif gaufré assure une adhérence optimale, tandis que l’amorti Air visible garantit un confort durable à chaque foulée. Facile à associer, elle s’intègre naturellement à votre garde-robe, entre performance et esthétique. Profitez d’un maintien sûr et d’un amorti réactif qui réduisent la fatigue, pour une expérience de marche ou de course fluide et agréable. Son design polyvalent vous accompagne du quotidien aux sessions sportives, en alliant style et fonctionnalité. Conçue par Nike, cette Air Max 90 PRM présente une semelle extérieure en caoutchouc avec motif gaufré pour une traction renforcée, des renforts cousus pour une meilleure durabilité, et un amorti Air visible au talon pour absorber les chocs. **caractéristiques du produit :** - Style rétro des années 90 - Renforts cousus - Textures variées - Semelle à motif gaufré - Amorti Air visible",
-    "price": 73.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-nike-air-max-90-prm-tailles-42-a-455-via-remise-au-panier-3431550",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/hODjv/3431550_1/re/1200x1200/qt/90/3431550_1.jpg",
-    "detected_at": "2026-10-13T09:03:33+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 73.49,
-        "observed_at": "2026-10-13T09:25:22.873114+00:00"
-      }
-    ]
-  },
-  {
-    "title": "ASICS Gel-Lyte III NS ou Gel Mai Knit MT du 35 au 47",
-    "description": "39,99€ - Sport-Outlet La ASICS Gel-Lyte III NS Unisexe est une sneaker au design rétro et sportif. *caractéristiques du produit:* - Design rétro Running - Confort optimal - Semelle extérieure adhérente - Utilisation polyvalente pour les loisirs et la vie quotidienne",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/asics-gel-lyte-iii-ns-ou-gel-mai-knit-mt-du-35-au-47-3431549",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AYeoV/3431549_1/re/1200x1200/qt/90/3431549_1.jpg",
-    "detected_at": "2026-10-13T09:02:37+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sèche-linge pompe à chaleur 10 kg VALBERG DHP 10 C W566C",
-    "description": "449,98€ - Electro Dépôt Avec ses 10 kg de capacité et son tambour de 125 L, ce sèche-linge laisse de la place aux serviettes et au linge de toute la famille.",
-    "price": 449.98,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/seche-linge-pompe-a-chaleur-10-kg-valberg-dhp-10-c-w566c-3431548",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XkVff/3431548_1/re/1200x1200/qt/90/3431548_1.jpg",
-    "detected_at": "2026-10-13T09:02:31+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 449.98,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Entrée Gratuite à la Forêt Des Singes pour les Enfants Déguisés jusqu'à 14 Ans Inclus - Rocamadour (46)",
-    "description": "À l'occasion d’Halloween, l'entrée à la Forêt Des Singes sera offerte aux Enfants Déguisés de 5 jusqu'à 14 Ans Inclus, du 26 Octobre au 1er Novembre 2026. Les enfants de moins de 5 Ans bénéficient déjà de l’entrée Gratuite. Au programme : Un jeu dans le parc avec une surprise à récupérer Et une ambiance Halloween pendant toute la semaine. Tarif en vigueur en temps normal pour l'entrée Enfant de 08€ Adresse La Forêt des Singes 442 Route de Gramat L'Hospitalet 46500 Rocamadour Infos",
-    "price": 8.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/entree-gratuite-a-la-foret-des-singes-pour-les-enfants-deguises-jusqua-14-ans-inclus-rocamadour-46-3431547",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/TNgWG/3431547_1/re/1200x1200/qt/90/3431547_1.jpg",
-    "detected_at": "2026-10-13T09:00:54+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 8.0,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Triangle de Signalisation Compact",
-    "description": "3,99€ - Norauto Les points forts de ce produit : Homologué. Triangle compact pouvant se ranger facilement. Stable grâce à son poids, même en cas de vent fort. - Un triangle de signalisation est très utile en cas de panne car il permet de signaler la présence d'un véhicule en panne sur le bord d'une route ou autoroute en plus des feux de détresse. Il doit être placé sur la chaussée à une distance de 30 mètres au moins du véhicule ou de l'obstacle à signaler, de telle sorte qu'il puisse être visible par le conducteur d'un véhicule venant sur la même voie de circulation, par temps clair, à une distance de 100 mètres , en toutes circonstances. De même que pour les gilets, le triangle est obligatoire depuis le 1er juillet 2008 pour tous les véhicules. - En Espagne, il est obligatoire de posséder 2 triangles de sécurité, pour en positionner un à l'avant et un à l'arrière du véhicule. Les législations pouvant être sujet à modification, il est indispensable de se renseigner avant tout déplacement à l'étranger des règles en vigueur dans chaque pays.",
-    "price": 3.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/triangle-de-signalisation-compact-3431546",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ybcuo/3431546_1/re/1200x1200/qt/90/3431546_1.jpg",
-    "detected_at": "2026-10-13T09:00:06+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 3.99,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Poupée L.O.L. Surprise! OMG Doll",
-    "description": "10,99€ - Amazon L.O.L. Surprise OMG Entry-Miss Royale",
-    "price": 10.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/poupee-lol-miss-royale-3431545",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/SM4A4/3431545_1/re/1200x1200/qt/90/3431545_1.jpg",
-    "detected_at": "2026-10-13T08:55:25+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gel lavant mains pour enfants à la poire certifié Cosmos Organic 250mL",
-    "description": "2,19€ - La Fourche N'hésitez pas à me contacter en MP si vous voulez que je vous parraine et bénéficier de 20€ de réduction sur l'adhésion. Gel lavant pour les mains à base d’ingrédients naturels et biologiques, associant la POIRE pour nettoyer efficacement tout en adoucissant la peau. Sa formule douce permet un usage fréquent sans irriter les mains et laisse un léger parfum de poire après le lavage. Ingrédients Aqua, Sodium coco-sulfate, Glycerin, Anthemis nobilis flower water*, Lauryl glucoside, Decyl glucoside, Parfum, Fragaria vesca fruit extract*, Gossypium herbaceum extract*, Aloe barbadensis leaf juice powder*, Bisabolol, Coco-glucoside, Glyceryl oleate, Citric acid, Cocamidopropyl betaine, Sodium benzoate, Potassium sorbate, Sodium chloride, Tocopherol, Hydrogenated palm glycerides citrate, Limonene. *Ingrédients issus de l’agriculture biologique. 99 % du total est d’origine naturelle. 21 % du total des ingrédients sont issus de l’agriculture biologique. Adhésion gratuite pour les faibles revenus et essai gratuit pendant 1 mois pour tous puis 59,90€ l'année. Le montant minimal d'une commande est de 49€. L'impact carbone et social d'une commande La Fourche La livraison est un important poste de pollution. Mais saviez-vous que se faire livrer à domicile génère moins d’impact carbone qu'acheter en magasin ? D’autant plus à La Fourche, car nous avons mis en place une politique volontariste pour diminuer les déchets générés par la livraison ainsi qu’un programme d’insertion professionnelle pour les employés de notre entrepôt. La livraison à domicile : un impact carbone limité par rapport aux supermarchés traditionnels C'est contre-intuitif mais faire ses courses en ligne pollue en moyenne 2,8 fois moins qu’en magasin, et jusqu’à 5 fois moins selon les cas. Découvrez les résultats de notre étude avec ECO2 Initiative, basée sur les données de l’ADEME et un sondage auprès de 8 000 adhérents. Nous ne proposons pas de livraison express afin de pouvoir optimiser les trajets de livraison et limiter ainsi les émissions, mais aussi pour offrir des conditions de travail plus éthiques aux livreurs. Quant à notre livraison à domicile sur créneau , celle-ci se fait essentiellement en véhicules roulant au biogaz ou électriques et avec un allègement du poids grâce aux sacs en kraft qui remplacent les cartons et emballages. Des colis en matériaux recyclés et recyclables Parce qu’il n’y a pas que la livraison qui compte, nous nous engageons aussi pour vos colis : pas de plastique, uniquement des matériaux majoritairement recyclés et recyclables comme du carton ou du kraft ; les cartons de nos fournisseurs sont broyés et réutilisés pour caler les produits ; tout peut être réutilisé à la maison (pour faire du papier cadeau, dans votre compost, etc.) ou donné autour de vous (aux producteurs sur les marchés, aux centres aérés ou aux écoles, etc.). Avec la livraison à domicile dans des sacs en papier kraft nous allons encore plus loin : 3 kg de déchets sont évités par commande en moyenne par rapport à la livraison en colis. Vous pouvez rendre ses sacs en kraft lors de vos prochaines livraisons pour qu'ils soient réutilisés. Ce service est disponible pour la majorité de nos adhérents . Un système de consigne pour le verre Dans notre démarche visant à limiter notre impact sur l’environnement, nous avons décidé de favoriser le réemploi de certains contenants en verre. C’est pourquoi nous avons lancé un projet de consigne des bouteilles et bocaux en verre . Vous vous faites livrer vos courses à domicile avec notre livraison à domicile sur créneau ? Alors retournez tous vos bocaux et bouteilles en verre en même temps que vos sacs en kraft , afin qu’ils nous soient retournés, lavés, et aient une seconde vie (enfin, plusieurs même). Un geste tout simple, qui vous permet de réduire vos déchets en un rien de temps (et de vous éviter la corvée de sortir le verre). Pour en savoir plus, consultez notre FAQ sur la Consigne . Des créations d'emplois et un pro",
-    "price": 2.19,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gel-lavant-mains-pour-enfants-a-la-poire-certifie-cosmos-organic-250ml-3431544",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Wuscp/3431544_1/re/1200x1200/qt/90/3431544_1.jpg",
-    "detected_at": "2026-10-13T08:55:24+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:43:22.098496+00:00",
-    "price_history": [
-      {
-        "price": 2.19,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
       }
     ]
   }
