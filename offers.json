@@ -1731,7 +1731,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 21.79,
@@ -1751,7 +1751,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 92.89,
@@ -1771,7 +1771,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 79.99,
@@ -1791,7 +1791,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T22:28:09.688146+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 40.49,
@@ -3856,6 +3856,10 @@
       {
         "price": 6.49,
         "observed_at": "2026-10-12T22:33:18.611432+00:00"
+      },
+      {
+        "price": 6.49,
+        "observed_at": "2026-10-13T22:53:52.916842+00:00"
       }
     ]
   },
@@ -6736,6 +6740,90 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ASICS GEL NYC - NOIR/GRIS",
+    "description": "104,93€ - Footkorner Les Asics Gel NYC - Noir/Gris sont des sneakers conçues pour un style urbain et décontracté. *spécifications du produit :* - Tige en cuir gris et noir - Logo Asics sur les côtés et la languette - Semelle intermédiaire avec mousses légères - Technologie GEL pour un confort maximal - Améliore l'absorption de l'impact - Sensation plus douce de la foulée - Absorption de l'impact légère",
+    "price": 104.93,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/asics-gel-nyc-noirgris-3432016",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9i356/3432016_1/re/1200x1200/qt/90/3432016_1.jpg",
+    "detected_at": "2026-10-13T22:51:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 104.93,
+        "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      }
+    ]
+  },
+  {
+    "title": "10€ offerts dès 40€ d'achat",
+    "description": "Gemo Jusqu'au 1er décembre, 10€ offerts dès 40€ d'achat sur le site gemo.fr Pour info, l'offre est valable également dans les magasins, à condition de présenter le coupon présent sur le catalogue La grande récré : Conditions : Valable du 14/10/2026 au 01/12/2026 inclus, dans les magasins de France métropolitaine ou sur gemo.fr , sur présentation du coupon catalogue papier uniquement, ou sur gemo.fr grâce au code GEMOXLGR26. Offre non cumulable avec les autres promotions en cours, Dernière Chance, Outlet, les offres GémoPRO, les achats de cartes cadeaux et le règlement de services (livraison, retouches, IMBOX). Offre cumulable avec les offres du programme de fidélité G'M (bon d’achat Anniversaire de 5€, bons d’achat par palier de 5€, 15€ et 30€, et offre de naissance de 10€ pour 35€ d’achat). Offre non valable sur les bijoux, les produits d’entretien et les produits de la marque DIM. La réduction ne peut faire l’objet d’aucun remboursement ni d’aucune contrepartie de quelque nature que ce soit. Voir conditions en magasin et sur gemo.fr .",
+    "price": 40.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/10eur-offerts-des-40eur-dachat-3432015",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Mgbzz/3432015_1/re/1200x1200/qt/90/3432015_1.jpg",
+    "detected_at": "2026-10-13T22:50:52+00:00",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 40.0,
+        "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Objectif Sony 24-50mm SEL2450G F2.8 Zoom",
+    "description": "864,59€ - Amazon.it Excellent prix! Reste 5 en stock. -- Zoom standard pour capturer la beauté du quotidien Cet objectif zoom standard plein format F2.8 compact complète les boîtiers de la série α et exploite leurs performances grâce à sa technologie avancée. Plage 24 – 50 mm idéale pour une utilisation quotidienne. Bokeh et résolution G LensTM exceptionnels à toutes les distances focales, et mise au point automatique nette, précise et rapide. Idéal pour prendre des photos et des vidéos partout.",
+    "price": 864.59,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/objectif-sony-sel2450g-f28-zoom-3432012",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/64f9a/3432012_1/re/1200x1200/qt/90/3432012_1.jpg",
+    "detected_at": "2026-10-13T22:32:10+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 864.59,
+        "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets Puma Voltaic Evo - Tailles 39 à 47",
+    "description": "40€ - Puma PUMA Black-Stormy Slate-For All Time Red",
+    "price": 40.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baskets-puma-taille-de-39-a-47-3432011",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LeDBO/3432011_1/re/1200x1200/qt/90/3432011_1.jpg",
+    "detected_at": "2026-10-13T22:27:02+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 40.0,
+        "observed_at": "2026-10-13T22:53:52.916842+00:00"
       }
     ]
   },
@@ -11494,48 +11582,6 @@
       {
         "price": 13.5,
         "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Séjour 7J/6N pour 2 à Khao Lak (Thaïlande) - Kappa Club Ananea Beyond Khao Lak 4* + Tout compris + Massage et dîner - Septembre (301€/pers)",
-    "description": "603€ - Voyage privé Envie de vous évader en Thaïlande et de profiter d'un séjour tropical entre plages, détente et découvertes locales ? Direction Khao Lak , une destination réputée pour son littoral bordé de longues plages et son ambiance plus paisible que les grandes stations balnéaires thaïlandaises. Je vous ai trouvé un séjour au Kappa Club Ananea Beyond Khao Lak 4 *, en formule tout compris , avec hébergement en villa Garden ou de catégorie supérieure . Pour ces dates, l'offre prévoit également de beaux avantages : un dîner en tête-à-tête sur la plage avec menu 3 plats et deux massages d'une heure par personne , pour une parenthèse placée sous le signe de la détente. Pour 2 personnes , le séjour revient à seulement 603€ au total , soit 301,50€ par personne , pour 6 nuits du 30 août au 5 septembre 2027 . > L'hôtel est noté : 9,1/10 sur Booking > Inclus 6 nuits au Kappa Club Ananea Beyond Khao Lak 4* Hébergement en villa Garden ou de catégorie supérieure Formule tout compris 1 dîner en tête-à-tête sur la plage, menu 3 plats 2 massages d'une heure par personne et par séjour Marché de Bang Niang Visite du Golden Temple Repas chez l'habitant Initiation à la boxe thaï dans un camp local Sans transport : vols non inclus > Le petit plus Un séjour qui combine détente et immersion locale : en plus de la formule tout compris, les avantages Kappa Club permettent de découvrir quelques facettes de la culture thaïlandaise, tandis que les massages et le dîner sur la plage ajoutent une touche romantique au séjour. ✤ Poussez les portes de votre 4* Envie de vous évader dans un complexe luxueux et romantique ? Bienvenue au Kappa Club Ananea Beyond Resort Khao Lak 4* ! À quelques pas du sable blanc et poudreux de la plage de Pakweep, à Phang Nga, entouré d'une nature intacte et verdoyante, cet établissement vous promet détente et évasion. Engagé pour la durabilité du tourisme, la préservation de l'environnement, votre pied-à-terre a reçu la certification Travelife Gold. N'attendez plus pour vous offrir des vacances bien méritées dans un petit coin de paradis... A noter : Activités et animations Kappa Club du 31/10/2026 au 29/08/2027. En dehors de cette période, l'hôtel ne bénéficie pas des activités Kappa Club. ✤ L'expérience Kappa Club Vivez le club de vacances comme vous ne l’avez jamais vécu ! Avec Kappa Club , voyagez de manière authentique... en club ! Découvrez plusieurs facettes d’une destination tout en bénéficiant de prestations haut de gamme, animations à la carte, rencontre et découverte, convivialité et authenticité... Kappa Club rassemble les conditions idéales pour vous offrir des vacances de rêve tout en vous proposant des animations ludiques et culturelles à la carte. Situation géographique : 9/69 Moo 1, Pak Weep Beach, Khuk Khak, Takua Pa, Phang Nga 82220 Thailand., Khao Lak, Thailand, Khao Lak, Thaïlande L'aéroport de Phuket se trouve à environ 90 kilomètres de l'hôtel. ✤ Les chambres Lors de cette échappée, vous séjournerez en Villa Garden ou en hébergement de catégorie supérieure, avec supplément : la Villa Premier. À noter : Si la Villa Garden de base est complète, vous serez automatiquement placés en chambre de catégorie supérieure avec supplément : la Villa Premier. Villa Garden (70 m²) Profitez pleinement du confort de votre Villa , située au milieu des jardins tropicaux. Son petit plus ? Le balcon privé qui vous permettra de vous relaxer sous l'air frais du début de journée... Vous bénéficierez de : Wi-Fi gratuit, télévision par câble et Smart TV, minibar et eau gratuite, nécessaire à café et thé avec bouilloire, salle de bains avec douche, peignoirs et chaussons, sac de plage et serviette de bain, climatisation, sèche-cheveux, service en chambre. Pas de possibilité de séjourner en chambre individuelle avec supplément. La capacité maximale en chambre est de 3 adultes. Villa Premier (61 m²) Optez pour une chambre à deux pas de la plage avec cette Villa Premier et profitez d'équipements de luxe et du balcon privé pour d",
-    "price": 603.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sejour-7j6n-pour-2-a-khao-lak-thailande-kappa-club-ananea-beyond-khao-lak-4-tout-compris-massage-et-diner-septembre-301eurpers-3431723",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y6eq7/3431723_1/re/1200x1200/qt/90/3431723_1.jpg",
-    "detected_at": "2026-10-13T13:08:56+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 603.0,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 6 canettes de Oasis - 33cl",
-    "description": "1,99€ - JoyBuy Ex : Prix pour 24 canettes Livraison gratuite avec Joyplus (1 mois gratuit) Points forts du produit Une boisson au jus délicieuse et rafraîchissante saveur fraise offrant un goût fruité et sucré Parfait pour se désaltérer et agréable pour toute la famille Pack pratique de 6 x 330 ml, idéal pour les déjeuners, les pique-niques ou comme boisson quotidienne Enrichi en vitamine C pour un bénéfice nutritionnel supplémentaire Ingrédients Eau, sucre, correcteur d'acidité (acide citrique), jus de fraise à base de concentré (0,3 %), arômes, correcteur d'acidité (citrate de sodium), conservateur (sorbate de potassium), colorant (anthocyanes), vitamine C. Allergènes Aucun Informations nutritionnelles Nutriments Pour 100 ml Énergie 132 kJ / 31 kcal Matières grasses 0 g dont acides gras saturés 0 g Glucides 7,5 g dont sucres 7,4 g Protéines 0 g Sel 0,01 g Conditions de conservation À conserver dans un endroit frais et sec. Pour un goût optimal, servir frais. Conseils d'utilisation À servir frais pour un rafraîchissement optimal. À déguster directement ou à verser sur des glaçons. À consommer de préférence avant le Voir l'emballage pour plus de détails Informations sur la conformité du produit Détails du fabricant Nom : Refresco UK Ltd. Adresse : 2-4 Sir Frank Whittle Road, Longbridge, Birmingham, West Midlands, B31 2FZ, Royaume-Uni Site Web : www.refresco.co.uk Personne responsable (UE) Nom : FRONERI France SAS Adresse : KERGAMET PLOUEDERN CS 20809, 29208 LANDERNEAU CEDEX, France Adresse e-mail : service.consommateur@fr.froneri.com",
-    "price": 1.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-6-canettes-de-oasis-33cl-3431721",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/m2hre/3431721_1/re/1200x1200/qt/90/3431721_1.jpg",
-    "detected_at": "2026-10-13T13:07:04+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 1.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   }
