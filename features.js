@@ -88,93 +88,49 @@
   // Le score mesure la qualité des preuves disponibles, jamais la taille de la remise.
   const trust = offer => {
     let score = 0;
-    const reasons = [];
-    const warnings = [];
-    const url = cleanUrl(offer.url);
-    const price = priceOf(offer);
-    const reference = referenceOf(offer);
-    const discount = discountOf(offer);
+    const reasons = [], warnings = [];
+    const url = cleanUrl(offer.url), price = priceOf(offer), reference = referenceOf(offer), discount = discountOf(offer);
     const sourceText = String(offer.source || "") + " " + String(offer.url || "");
     const image = typeof offer.image_url === "string" && /^https:\/\//i.test(offer.image_url);
     const knownSource = /amazon|dealabs|camelcamelcamel|cdiscount|fnac|darty|boulanger|ldlc|materiel\.net|rakuten|ebay/i.test(sourceText);
     const validCategory = categories.includes(categoryOf(offer));
-    if (url) { score += 8; reasons.push("lien HTTPS présent"); }
-    else { warnings.push("lien HTTPS absent ou invalide"); }
-    if (knownSource) { score += 10; reasons.push("source identifiable"); }
-    else { warnings.push("source peu identifiable"); }
-    if (price != null) { score += 12; reasons.push("prix actuel renseigné"); }
-    else { warnings.push("prix actuel manquant"); }
+    if (url) { score += 8; reasons.push("lien HTTPS présent"); } else warnings.push("lien HTTPS absent ou invalide");
+    if (knownSource) { score += 8; reasons.push("source identifiable"); } else warnings.push("source peu identifiable");
+    if (price != null) { score += offer.price_verified === true ? 22 : 10; reasons.push(offer.price_verified === true ? "prix lu sur une fiche marchand" : "prix fourni par la source, non recontrôlé chez le marchand"); }
+    else warnings.push("prix de vente introuvable");
     if (reference != null && price != null && reference > price) {
-      score += 10;
-      reasons.push("prix de référence cohérent avec le prix actuel");
-    } else if (reference == null) {
-      warnings.push("prix de référence non fourni");
-    } else {
-      warnings.push("prix de référence à vérifier");
-    }
-    if (image) { score += 5; reasons.push("image produit disponible"); }
-    else { warnings.push("image produit absente"); }
-    if (validCategory) { score += 5; reasons.push("catégorie renseignée"); }
-    if (offer.price_verified === true) { score += 20; reasons.push("prix explicitement vérifié"); }
-    else if (offer.price_verified === false) { warnings.push("prix non vérifié"); }
-    else { warnings.push("aucune confirmation de vérification du prix"); }
-
-    const history = Array.isArray(offer.price_history)
-      ? offer.price_history.filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0)
-      : [];
+      score += offer.reference_price_verified === true ? 18 : 8;
+      reasons.push(offer.reference_price_verified === true ? "prix de référence vérifié" : "prix de référence présent sans preuve indépendante");
+    } else warnings.push("prix de référence absent ou incohérent");
+    if (image) { score += 5; reasons.push("image produit disponible"); } else warnings.push("image produit absente");
+    if (validCategory) score += 4;
+    if (offer.price_verified === true) reasons.push("prix actuel recoupé avec le marchand");
+    else warnings.push("prix actuel non confirmé par une lecture directe du marchand");
+    if (offer.reference_price_verified === true) reasons.push("prix de référence confirmé par une source distincte");
+    const history = Array.isArray(offer.price_history) ? offer.price_history.filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0) : [];
     const distinctPrices = new Set(history.map(item => Number(item.price).toFixed(2))).size;
-    if (history.length >= 2) {
-      const historyPoints = Math.min(15, 5 + (Math.min(history.length, 5) - 2) * 2 + (distinctPrices >= 2 ? 4 : 0));
-      score += historyPoints;
-      reasons.push("historique de prix avec " + history.length + " observation(s)");
-      if (distinctPrices < 2) warnings.push("prix historique pas encore confirmé par une variation");
-    } else {
-      score -= 5;
-      warnings.push("historique de prix insuffisant");
-    }
-
-    const rawDate = offer.detected_at || offer.published_at;
+    const validDates = history.map(item => Date.parse(item.observed_at || item.date || "")).filter(Number.isFinite);
+    if (history.length >= 3 && distinctPrices >= 2) { score += 12; reasons.push("historique avec plusieurs observations et variation"); }
+    else if (history.length >= 2) { score += 5; reasons.push("plusieurs observations conservées"); if (distinctPrices < 2) warnings.push("aucune variation de prix constatée pour l'instant"); }
+    else warnings.push("historique trop court pour juger une tendance");
+    if (validDates.length >= 2 && Math.max(...validDates) - Math.min(...validDates) >= 6 * 60 * 60 * 1000) { score += 4; reasons.push("observations espacées dans le temps"); }
+    const rawDate = offer.price_checked_at || offer.detected_at || offer.published_at;
     const date = rawDate ? new Date(String(rawDate).replace(" ", "T") + (/[zZ]|[+-]\d{2}:?\d{2}$/.test(String(rawDate)) ? "" : "Z")) : null;
     if (date && !Number.isNaN(date.getTime())) {
       const age = Date.now() - date.getTime();
-      if (age >= -60 * 60 * 1000 && age <= 60 * 60 * 1000) {
-        score += 15;
-        reasons.push("détection de moins d’une heure");
-      } else if (age <= 6 * 60 * 60 * 1000 && age >= 0) {
-        score += 12;
-        reasons.push("détection de moins de 6 h");
-      } else if (age <= 24 * 60 * 60 * 1000 && age >= 0) {
-        score += 8;
-        reasons.push("détection de moins de 24 h");
-      } else if (age <= 7 * 24 * 60 * 60 * 1000 && age >= 0) {
-        score += 4;
-        reasons.push("détection de moins de 7 jours");
-      } else if (age > 7 * 24 * 60 * 60 * 1000) {
-        warnings.push("offre ancienne à recontrôler");
-      } else {
-        warnings.push("date de détection incohérente");
-      }
-    } else {
-      score -= 4;
-      warnings.push("date de détection manquante");
-    }
-
-    // Une remise exceptionnellement forte n'augmente pas la confiance : elle appelle une vérification.
-    if (discount != null && discount >= 70) {
-      score -= 10;
-      warnings.push("remise supérieure à 70 % : contrôle renforcé conseillé");
-    } else if (discount != null && discount >= 50) {
-      score -= 5;
-      warnings.push("remise très élevée : prix de référence à contrôler");
-    } else if (discount != null && discount >= 30) {
-      score -= 2;
-      warnings.push("remise importante : prix de référence à comparer");
-    }
-    if (offer.price_verified === false) score -= 8;
-    else if (offer.price_verified !== true) score -= 4;
+      if (age >= 0 && age <= 3600000) { score += 15; reasons.push("contrôle de moins d'une heure"); }
+      else if (age <= 21600000 && age >= 0) { score += 10; reasons.push("contrôle de moins de 6 h"); }
+      else if (age <= 86400000 && age >= 0) { score += 5; reasons.push("contrôle de moins de 24 h"); }
+      else if (age > 86400000) warnings.push("données anciennes : le prix peut avoir changé");
+      else warnings.push("date de contrôle incohérente");
+    } else warnings.push("date de contrôle absente");
+    if (discount != null && discount >= 70) { score -= 12; warnings.push("réduction exceptionnelle : prix de référence à contrôler"); }
+    else if (discount != null && discount >= 50) { score -= 7; warnings.push("réduction très forte : contrôle renforcé conseillé"); }
+    else if (discount != null && discount >= 30) { score -= 3; warnings.push("réduction importante : comparer le prix de référence"); }
+    if (offer.price_verified !== true) score -= 8;
+    if (reference != null && offer.reference_price_verified !== true) score -= 3;
     score = Math.max(0, Math.min(100, Math.round(score)));
-    const level = score >= 65 ? "Élevée" : score >= 40 ? "Moyenne" : "Faible";
-    return {score, level, reasons, warnings};
+    return {score, level:score >= 75 ? "Élevée" : score >= 48 ? "Moyenne" : "Faible", reasons, warnings};
   };
   const announce = (title, body) => {
     if ("Notification" in window && Notification.permission === "granted") {
