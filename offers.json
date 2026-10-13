@@ -2411,7 +2411,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:11:35.963393+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 59.9,
@@ -3836,6 +3836,10 @@
       {
         "price": 235.06,
         "observed_at": "2026-10-12T23:32:40.004771+00:00"
+      },
+      {
+        "price": 235.06,
+        "observed_at": "2026-10-13T23:35:12.715032+00:00"
       }
     ]
   },
@@ -6744,6 +6748,111 @@
     ]
   },
   {
+    "title": "[Gymshark] Haut court Vital Sweetheart rose à 20 € au lieu de 40 € (-50 %)",
+    "description": "20€ - Gymshark [Gymshark] Haut court Vital Sweetheart rose à 20 € au lieu de 40 € (-50 %) Le haut Vital Sweetheart Neck Crop Top de Gymshark est proposé à 20 € au lieu de 40 € , soit une réduction de 50 %. Caractéristiques : Coloris rose Focus Pink Coupe courte et ajustée Encolure en cœur pour un style féminin Tissu sans coutures ( seamless ), extensible et respirant Matière évacuant la transpiration Adapté à la musculation, au Pilates et aux séances de fitness Prix : 20 € au lieu de 40 € (-50 %) Lien de l’offre : https://fr.gymshark.com/products/gymshark-vital-sweetheart-neck-crop-top-ls-tops-pink-ss26-b5c9w-kdfx ⚠️ Prix et disponibilité à vérifier selon la taille choisie.",
+    "price": 20.0,
+    "reference_price": 40.0,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/gymshark-haut-court-vital-sweetheart-rose-a-20-eur-au-lieu-de-40-eur-50-3432026",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0iiB6/3432026_1/re/1200x1200/qt/90/3432026_1.jpg",
+    "detected_at": "2026-10-13T23:30:55+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rasoir électrique Philips Série 5000 Wet & Dry, avec tondeuse rétractable, station de nettoyage, coffret de voyage, cartouche Quick Clean",
+    "description": "99,99€ - Amazon De la marque de rasoir électrique #1 avec une garantie de 5 ans : le rasoir Philips Series 5000 avec technologie SkinIQ offre un rasage puissant et confortable, même sur les barbes de 3 jours Coupe plus à chaque passage : 45 lames SteelPrecision auto-affûtées coupent 90000 fois par minute pour un rasage de près efficace Rasage sans effort avec le capteur Power Adapt : le capteur intelligent lit la densité des poils 250 fois par seconde et adapte automatiquement la puissance de coupe pour de meilleurs résultats Profitez d’un confort optimal de la peau grâce aux têtes entièrement flexibles qui tournent à 360 degrés pour suivre les contours de votre visage pour un rasage en profondeur et confortable Rasoir électrique 100 % étanche pour hommes conçu pour durer plus longtemps : 1 heure de charge complète pour 60 minutes d’autonomie, une charge rapide de 5 minutes qui fournit suffisamment de batterie pour 1 rasage complet et une durée de vie des lames auto-affûtées de 2 ans pour que vous puissiez profiter d’une fiabilité ultime tous les jours",
+    "price": 99.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/philips-rasoir-electrique-serie-5000-wet-dry-avec-tondeuse-retractable-station-de-nettoyage-coffret-de-voyage-cartouche-quick-clean-3432024",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2kBG8/3432024_1/re/1200x1200/qt/90/3432024_1.jpg",
+    "detected_at": "2026-10-13T23:27:41+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Panneau LED portable Amaran 25C, 32w, 2300K-10000K, 5908 Lux (vendeur tiers)",
+    "description": "60,50€ - Amazon Amaran est une marque assez réputé pour ses éclairages LED milieu de gamme, bonne qualité de fabrication, bonne restitution des couleurs. Ici pour 60€ c'est un panneau LED RGB avec batterie intégrée, 6000 lux à plein puissance, utilisable sur sa batterie ou avec alimentation externe ou powerank. Une lumière d'appoint pratique pour rajouter de la couleur en background ou faire ressortir le sujet en back. Pour 60€, ça vaut clairement le coup pour qui fait un peu de vidéo.",
+    "price": 60.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/panneau-led-portable-amaran-25c-32w-2300k-10000k-5908-lux-3432023",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fFQLg/3432023_1/re/1200x1200/qt/90/3432023_1.jpg",
+    "detected_at": "2026-10-13T23:25:37+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 60.5,
+        "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 6 Haltères Sportnow - 2x3kg, 2 x 4 kg, 2 x 5 kg, Support Convertible",
+    "description": "56,90€ - Amazon À propos de cet article KIT COMPLET D'HALTÈRES : Ce set inclut trois paires d'haltères de 3 kg, 4 kg et 5 kg, parfait pour ajuster l'intensité et évoluer à travers différents niveaux de condition physique SUPPORT INNOVANT POUR HALTÈRES : Inclut un support avec des pieds rotatifs, le convertissant en kettlebell pour l'entraînement, avec possibilité de moduler le poids en ajoutant ou retirant des haltères QUALITÉ SUPÉRIEURE : Chaque haltère de musculation est protégé par une enveloppe en plastique pour préserver les sols et intégré d'un cœur métallique robuste pour une pratique de la musculation fiable et équilibrée CONCEPTION HEXAGONALE ANTIDÉRAPANTE : La forme hexagonale des haltères empêche tout mouvement non désiré, sécurise vos séances et élargit le spectre des exercices réalisables. INFORMATIONS : Dimensions des haltères : 18L x 8l x 8H cm (3kg), 19L x 9l x 9H cm (4kg), 20L x 9l x 9H cm (5kg) ; - Dimensions du support pour haltères : 42l x 10P x 30H cm ; - Montage non requis. Le site officiel 82.99€ au lieu de 133,99€ (shock) https://www.aosom.eu/fr-lu/products/set-de-halteres-sportnow-6-halteres-avec-support-pliable-2-x-3kg-2-x-4kg-2-x-5kg-halteres-hexagonaux-kettlebell-pour",
+    "price": 82.99,
+    "reference_price": 133.99,
+    "discount_percent": 38.1,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sportnow-lot-dhalteres-hexagonaux-halteres-musculation-2-x-1-kg-2-x-3-kg-2-x-5-kg-support-convertible-3432022",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6N9tN/3432022_1/re/1200x1200/qt/90/3432022_1.jpg",
+    "detected_at": "2026-10-13T23:24:53+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 82.99,
+        "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Decathlon] Legging de sport respirant femme Domyos avec poche téléphone",
+    "description": "8€ - Decathlon [Decathlon] Legging de sport respirant DOMYOS femme avec poche téléphone à 19,99 € Un legging de sport DOMYOS pratique pour les séances de fitness et les entraînements quotidiens. Caractéristiques : Couleur : bleu marine Poche latérale pour ranger son téléphone Tissu respirant à séchage rapide Matière extensible pour accompagner les mouvements Taille haute élastiquée pour un bon maintien ⭐ Note : 4,7/5 sur plus de 6 600 avis Prix : 19,99 € Lien : https://www.decathlon.fr/p/legging-de-sport-respirant-avec-poche-de-telephone-femme-bleu-marine/330283/c195m8614961 Tailles disponibles à vérifier selon le stock.",
+    "price": 8.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/decathlon-legging-de-sport-respirant-domyos-femme-avec-poche-telephone-a-1999-eur-3432021",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KveSW/3432021_1/re/1200x1200/qt/90/3432021_1.jpg",
+    "detected_at": "2026-10-13T23:18:32+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.0,
+        "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      }
+    ]
+  },
+  {
     "title": "Eau de toilette Hugo Boss Man - 75ml",
     "description": "34,95€ - Primor [Primor] HUGO BOSS HUGO Man Eau de Toilette 75 ml à 34,95 € au lieu de 92 € (-62 %) L’eau de toilette HUGO Man de Hugo Boss est proposée à 34,95 € les 75 ml , au lieu de 92 €, soit 62 % de réduction . Notes olfactives : Tête : pomme verte, lavande, menthe, pamplemousse et basilic Cœur : sauge, géranium, jasmin et œillet Fond : cèdre, sapin et patchouli Un parfum frais et aromatique aux notes vertes et boisées. Livraison gratuite dès 50 € d’achat chez Primor : possibilité d’en profiter en ajoutant un autre produit à sa commande. Lien de l’offre : https://fr.primor.eu/fr_fr/hugo-boss-hugo-man-eau-de-toilette-112438.html Prix : 34,95 € les 75 ml",
     "price": 34.95,
@@ -7155,7 +7264,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 15.37,
@@ -7176,7 +7285,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 97.48,
@@ -7197,7 +7306,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 739.2,
@@ -7218,7 +7327,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 12.95,
@@ -7239,7 +7348,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 21.99,
@@ -7260,7 +7369,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": []
   },
   {
@@ -7276,7 +7385,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 25.0,
@@ -7297,7 +7406,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 34.0,
@@ -7318,7 +7427,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 29.99,
@@ -7339,7 +7448,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
     "price_history": [
       {
         "price": 29.99,
@@ -11539,90 +11648,6 @@
     "price_history": [
       {
         "price": 108.55,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Eau de toilette vaporisateur 105ml Club de Nuit Intense Man Armaf",
-    "description": "22,82€ - JoyBuy Caractéristiques principales et points forts • Club de Nuit Intense Man Eau de Toilette - un parfum boisé et épicé pour homme • Notes de tête : citron, ananas, bergamote, cassis, pomme - ouverture fraîche et fruitée • Notes de cœur : rose, jasmin, bouleau - élégantes et masculines • Notes de fond : vanille, ambre gris, musc, patchouli - chaudes et persistantes • Lancé en 2015 - un classique moderne d'ARMAF • Idéal pour les soirées et les occasions formelles - distinctif et audacieux ARMAF Club de Nuit Intense Man est un parfum boisé et épicé pour homme lancé en 2015.Le parfum s'ouvre sur des notes fraîches et fruitées de citron, d'ananas, de bergamote, de cassis et de pomme, menant à un cœur élégant de rose, de jasmin et de bouleau, avant de se poser sur une base chaleureuse de vanille, d'ambre gris, de musc et de patchouli.Un choix distinctif pour les soirées et les occasions formelles. Conseils d'utilisation Vaporisez sur les points de pulsation tels que les poignets, le cou et derrière les oreilles. Appliquez à une distance d'environ 15-20 cm pour une répartition uniforme. Évitez tout contact avec les yeux. Contenu net 105 ml",
-    "price": 22.82,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/armaf-club-de-nuit-intense-man-eau-de-toilette-vaporisateur-105ml-3431728",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oJphK/3431728_1/re/1200x1200/qt/90/3431728_1.jpg",
-    "detected_at": "2026-10-13T13:23:19+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 22.82,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Nouveaux clients] Analyseur logique FNIRSI DLA-16 Plus - 16 canaux, échantillonnage 1 GHz, mémoire 4 Gbit, USB 3.0",
-    "description": "103,25€ - Alibaba Bon plan sur Alibaba pour cet analyseur logique FNIRSI DLA-16 Plus Destiné aux passionnés d'électronique, aux développeurs de systèmes embarqués et aux techniciens, cet appareil permet de capturer et d'analyser les signaux numériques d'un circuit. Livraison gratuite > Caractéristiques Analyseur logique FNIRSI DLA-16 Plus 16 canaux d'acquisition Fréquence d'échantillonnage maximale annoncée : 1 GHz Mémoire annoncée : 4 Gbit Interface USB 3.0 Mode de stockage en flux USB Plage de tension d'entrée annoncée : -40 V à +40 V Analyse de signaux et de protocoles numériques Fonctionnement avec un ordinateur, sans écran intégré Indice de protection IP20 Poids brut du colis : environ 650 g",
-    "price": 103.25,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-analyseur-logique-fnirsi-dla-16-plus-16-canaux-echantillonnage-1-ghz-memoire-4-gbit-usb-30-3431727",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/aLWDO/3431727_1/re/1200x1200/qt/90/3431727_1.jpg",
-    "detected_at": "2026-10-13T13:18:28+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 103.25,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac à Outils Bosch GWT 20 1600A025L6 - 230 x 430 x 340 mm, Fixation L-Boxx, Charge max. 23kg",
-    "description": "45,90€ - Clickoutil Vendu 81€ sur Amazon (shock) passe ici à 45,90€ avec le code GWT20 > Livraison gratuite en point relais DPD Caractéristiques principales Dimensions : 430 x 230 x 340 mm Poids : 2,4 kg Charge maximale : 23 kg Matériau : Polyester 1000D très résistant et fond rigide antichocs Transport : Poignée ergonomique et bandoulière rembourrée Compatibilité : Clips intégrés pour le rattachement aux coffrets L-BOXX de Bosch Organisation : Boucles additionnelles, poches multiples et compatibilité avec le système ProClick",
-    "price": 45.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-a-outils-bosch-gwt-20-1600a025l6-230-x-430-x-340-mm-fixation-l-boxx-charge-max-23kg-3431726",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/MJPlS/3431726_1/re/1200x1200/qt/90/3431726_1.jpg",
-    "detected_at": "2026-10-13T13:17:49+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 45.9,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures 1ers pas bébé Kitchoun - Semelle extérieure souple, anti-dérapante",
-    "description": "8,70€ - Kiabi Dispo : En rose 11,60 au lieu de 29€ Référence : DMR14 Bébé explore le monde, ses chaussures l’accompagnent ! ✨ Légères et souples pour le confort, un bon maintien pour la sécurité. Avec scratch, elles s’adaptent à son rythme. - Chaussures à scratchs - Kitchoun - Motricité 3: pour faire mes 1ers pas - Semelle extérieure souple et anti-dérapante - Ouverture zippée sur le côté : pratique à enfiler - Bon maintien du pied et de la cheville - Renfort orteils - Couleur unie - Ce modèle a été développé avec la participation d'une ostéopathe et est recommandé par l'Union Française de la Santé du Pied Composition BASKET : Semelle exterieure, 100% elastomère thermoplastique, dont 51% TPR recyclé GRS 51% TPR recyclé GRS Ecocert Greenlife 271316 DOUBLURE ET SEMELLE DE PROPRETE, 100% polyester, dont 100% Polyester Recyclé GRS 100% Polyester Recyclé GRS Ecocert Greenlife 271316 Dessus chaussures, 100% polyurethane (pu),",
-    "price": 8.7,
-    "reference_price": 29.0,
-    "discount_percent": 70.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-1ers-pas-bebe-kitchoun-semelle-exterieure-souple-anti-derapante-3431725",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/TntYo/3431725_1/re/1200x1200/qt/90/3431725_1.jpg",
-    "detected_at": "2026-10-13T13:14:24+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 8.7,
         "observed_at": "2026-10-13T13:36:14.466903+00:00"
       }
     ]
