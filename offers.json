@@ -591,7 +591,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:06:51.775871+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 17.36,
@@ -611,7 +611,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:06:51.775871+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 31.45,
@@ -811,7 +811,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:26:30.190937+00:00",
     "price_history": [
       {
         "price": 8.59,
@@ -831,7 +831,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T11:26:30.190937+00:00",
     "price_history": [
       {
         "price": 19.1,
@@ -2976,6 +2976,258 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Butternut, Origine France (0,79€/Kg)",
+    "description": "0,79€ - Grand Frais Ça y est c'est l'automne avec les bonnes soupes (popcorn) Courge Butternut Origine France 1 Kg",
+    "price": 0.79,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/butternut-origine-france-079eurkg-3431661",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LPhsQ/3431661_1/re/1200x1200/qt/90/3431661_1.jpg",
+    "detected_at": "2026-10-13T11:22:14+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 0.79,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "2x Sacoches arrières vélo 24L Vaude Aqua Back",
+    "description": "64,60€ - Amazon.it Prix de fou pour 2 sacoches !! Le sous titre (qui indique contenance totale 51L), la référence Amazon (B01LZY6NQC), les photos produits, les avis clients et la description correspondent à la Aqua Back PLUS (avec les petites sacoches) mais seul le titre lui-même fait référence à la Aqua Back normale (avec 24L par sacoche) mais même pour la normale c'est du jamais vu comme prix. Dans le doute je ne met pas le PLUS dans le titre du deal. On parle de sacoches increvables, j'ai fait mes courses avec pendant des années en revenant du drive en vélo avec 5-10 kilos par sacoches, bourrées au max. Jamais eu de problème avec ce qui était dedans en roulant sous la pluie. Puis je les ai laissées trainer dans un abri de jardin pendant des années et elle sont toujours en très bon état. Et même sur leboncoin elles sont plus chères, mais pas assez pour vous embêter à acheter pour revendre messieurs-dames les scalpeurs fous.",
+    "price": 64.6,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/2x-sacoches-arrieres-velo-24l-vaude-aqua-back-3431660",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pEv3t/3431660_1/re/1200x1200/qt/90/3431660_1.jpg",
+    "detected_at": "2026-10-13T11:22:12+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 64.6,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Drone DJI Neo 2 - 4K, 100 FPS",
+    "description": "170,52€ - AliExpress [Conception légère et portable] Ce drone compact ne pèse que 151 g, est certifié C0 et dispose d'une protection complète des hélices pour un transport et un vol sûrs et sans souci. [Décollage et atterrissage par Palm, contrôle gestuel] Décollez et atterrissez sans effort avec la paume de votre main et utilisez le contrôle gestuel intuitif pour un vol mains libres et une expérience fluide. [Suivi fluide et fiable] Bénéficiez d'un suivi plus rapide et plus fluide avec Active Track, afin que votre sujet reste toujours net et que des enregistrements dynamiques soient créés. [Capturez simplement des moments avec une photo selfie] Avec Selfie Shot, capturez facilement des moments inoubliables et prenez des selfies rapides et confortables à tout moment en un seul clic. [Sécurité complète et vol flexible] Volez en toute confiance grâce à la détection d'obstacles omnidirectionnelle et profitez d'opportunités de vol polyvalentes pour des aventures aériennes plus sûres et plus dynamiques. [Imagerie 4K de haute qualité] Capturez chaque instant avec des détails époustouflants grâce à la résolution 4K et obtenez des photos et des vidéos nettes et réalistes à chaque fois.",
+    "price": 170.52,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/drone-dji-neo-2-4k-100-fps-3431659",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/woODH/3431659_1/re/1200x1200/qt/90/3431659_1.jpg",
+    "detected_at": "2026-10-13T11:21:30+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 170.52,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Pré-commande] Kit Solaire Zendure BiFacial Plug & Play 1000W - Avec Batterie Solarflow 800 plus 1,92 kWh",
+    "description": "599€ - Kit Solaire Discount Pourquoi choisir ce kit ✓ Tout-en-un : 2 panneaux München Solar 500 Wc N-Type + SolarFlow 800 Plus (double MPPT, sortie 800 W, IP65). ✓ Surplus stocké : batterie LiFePO4 1,92 kWh intégrée, restituée le soir. ✓ Pilotage intelligent : Smart Meter 1CT-S inclus, restitution calée sur votre consommation. ✓ Évolutif : jusqu’à 11,52 kWh avec les batteries Zendure AB1000/AB2000L. ✓ Connectique pré-câblée : raccordement sur circuit dédié (NF C 15-100). Produisez, stockez et consommez votre électricité solaire, sans travaux et sans technicien. Ce kit associe 2 panneaux bifaciaux München Solar de 500 Wc , le gestionnaire d’énergie Zendure SolarFlow 800 Plus à batterie intégrée et le Smart Meter 1CT-S . L’énergie produite en journée alimente directement vos appareils ; le surplus est stocké dans la batterie 1,92 kWh et restitué le soir, au lieu d’être perdu. Tout se branche sur une prise 230 V , sans intervention sur votre tableau électrique.",
+    "price": 599.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pre-commande-kit-solaire-zendure-bifacial-plug-play-1000w-avec-batterie-solarflow-800-plus-192-kwh-3431657",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ffBPJ/3431657_1/re/1200x1200/qt/90/3431657_1.jpg",
+    "detected_at": "2026-10-13T11:19:48+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 599.0,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Connectée Huawei Watch GT 6 - 46mm",
+    "description": "144,09€ - AliExpress Modèle : HUAWEI WATCH GT 6 46mm Options de couleur : Noir, Vert, Gris Dimensions : 46 × 46 × 10,95 mm ⌚ Compatibilité du tour du poignet : 140–210 mm Options de bracelet de montre : Fluoroélastomère noir ; Tissu composite vert ; Cuir composite gris ⚖️ Poids (sans sangle) : ~51,3 g Taille de l'écran : 1,47 pouce AMOLED Résolution de l'écran : 466 × 466 pixels (317 PPI) Matériau du boîtier de la montre : Acier inoxydable Capteurs : Accéléromètre, Gyroscope, Magnétomètre, Fréquence cardiaque optique, Baromètre, Température, Lumière ambiante Boutons : Bouton d'accueil (Couronne rotative) + Bouton latéral Port de charge : Charge sans fil Exigences système : Android 9.0+ / iOS 13.0+ Niveau d'étanchéité : 5 ATM ; IP69 Connectivité : Bluetooth 6.0 (2.4GHz, BR+BLE) ; GNSS (GPS L1+L5/GLONASS/BeiDou B1I+B1C+B2a/GALILEO E1+E5a/QZSS L1+L5/NavIC) Haut-parleur : Pris en charge Microphone : Pris en charge ⚡ Exigences du chargeur : 5V–10V DC/2A MAX Autonomie de la batterie : Jusqu'à 21 jours (en mode léger) ; 12 jours (typique) ; 7 jours (AOD) ; 40h (sport en extérieur)",
+    "price": 144.09,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-connectee-huawei-watch-gt-6-3431656",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aLZ6L/3431656_1/re/1200x1200/qt/90/3431656_1.jpg",
+    "detected_at": "2026-10-13T11:18:16+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 144.09,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Halloween à PortAventura : 3J/2N en hôtel 4★ à Salou | Demi-pension + billets PortAventura & Ferrari Land 1 jour | 112,50€/p (octobre)",
+    "description": "225€ - Voyage privé Deux nuits en hôtel 4★, les petits-déjeuners, les dîners et une journée à PortAventura et Ferrari Land en pleine saison d'Halloween, pour 112,50 € par personne ! C'est probablement l'une des périodes les plus amusantes pour découvrir PortAventura World . Chaque automne, le parc espagnol change complètement d'ambiance pour Halloween, avec ses décors inquiétants, ses personnages costumés et ses spectacles spécialement imaginés pour l'occasion. Cette offre permet en plus de profiter du parc pendant les vacances de la Toussaint ! ❖ Inclus 2 nuits en hôtel Ponient 4★ à Salou Chambre Standard au Ponient Marinada ou Ponient Dorada Palace Formule demi-pension, hors boissons Petits-déjeuners et dîners Un billet 1 jour / 2 parcs par personne Accès à PortAventura Park et Ferrari Land le même jour Jusqu'à 75 % de réduction sur l'hébergement du premier enfant de moins de 12 ans partageant la chambre de 2 adultes payants Navette gratuite entre les hôtels Ponient et PortAventura World, selon les périodes et horaires de fonctionnement Assistance à destination Séjour sans transport ❖ L'hôtel : Ponient Marinada 4★ ou Ponient Dorada Palace 4★ Vivez une petite aventure avec notre offre spéciale. Nous avons trouvé deux hôtels fantastiques pour vous : l'hôtel Ponient Marinada 4* by PortAventura World ou l'hôtel Ponient Dorada Palace 4* by PortAventura World, situés non loin les uns des autres et du parc. Ces hôtels disposent d'installations haut de gamme, d'un très bon emplacement et d'une décoration raffinée. Lancez les dés, vous serez informés après votre réservation de l'hôtel qui sera le vôtre. L' hôtel Ponient Dorada Palace 4* by PortAventura World , vous plonge dans une expérience unique dans un hôtel récemment rénové en 2024, situé à quelques pas du sable doré de la plage de Salou. Avec une vue imprenable sur PortAventura World et Salou, cet hôtel 4* offre l'évasion idéale pour des vacances en famille ou en couple. L 'hôtel Ponient Marinada 4* by PortAventura World, vous fait découvrir, depuis mai 2025, un lieu pensé pour les familles et les couples. Situé à quelques pas de la plage et à seulement 3 km des célèbres parcs à thème, ce complexe moderne offre un hôtel haut de gamme avec chambres spacieuses et des prestations premium. Il y en aura pour tous les goûts ! > Ponient Marinada 4★ ⭐4,1/5 sur Google ⭐7,8/10 sur Booking ⭐3,6/5 sur TripAdvisor > Ponient Dorada Palace 4★ ⭐4,2/5 sur Google ⭐7,6/10 sur Booking ⭐3,9/5 sur TripAdvisor ❖ Exemple de séjour (plusieurs dates sont disponibles avec des variations de prix) ❖ Pourquoi c'est une bonne offre ? Voyage Privé : 225 € Site officiel PortAventura World, au Ponient Marinada : 284 € Économie : 59 € ❖ Plus de détails Il règne une atmosphère effrayante dans ce parc d'attractions !— PortAventura World se transforme complètement pour devenir un parc à thème terriblement amusant où personnages et spectacles uniques vous feront frissonner, vous et vos proches. Du 19 septembre au 15 novembre , vous pourrez découvrir des passages secrets et des décors uniques, et prendre des photos avec une sorcière ou d’autres créatures terrifiantes dans le parc. [shortcode id=\"20619129\"/]",
+    "price": 225.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/halloween-a-portaventura-3j2n-en-hotel-4-a-salou-demi-pension-billets-portaventura-ferrari-land-1-jour-11250eurp-octobre-3431655",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/iBoH0/3431655_1/re/1200x1200/qt/90/3431655_1.jpg",
+    "detected_at": "2026-10-13T11:14:02+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 225.0,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Batterie Externe MagSafe UGREEN MagFlow Air Qi2 - 10000mAh, 25W (Vendeur tiers)",
+    "description": "66,49€ - Amazon Batterie externe compatible MagSafe avec une bonne capacité et une puissance qi de 25w À propos de ce produit [ Design Ultrafin & Portable ] Cette batterie externe ultra-fine ne mesure que 1,39 cm d'épaisseur. Son design ultra-léger et compact en fait le compagnon idéal pour les voyages, les déplacements professionnels et les trajets quotidiens. [ Charge sans Fil Rapide Qi2 25W ] Cette batterie externe MagSafe est dotée de la technologie de charge sans fil ultra-rapide 25W certifiée Qi2 et est compatible avec iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max, les séries iPhone 16/ 15/ 14/ 13/ 12 (tous les modèles sauf iPhone 16e). *Veuillez utiliser un étui MagSafe ou retirer tout étui. [ 10000mAh & Charge Rapide 45W ] Cette power bank dispose d'une grande capacité de 10000 mAh, ce qui permet de charger votre iPhone 17 Air environ 2,22 fois. Également équipé d'un câble de charge rapide USB C 45W, il permet de charger iPhone 17 Pro Max à 65 % en 30 minutes. [ Multiples Protections ] Grâce à une cellule ATL haute densité et 13 couches de protection, cette batterie externe magnétique détecte automatiquement la puissance requise par chaque appareil pour une charge stable et sûre. [ Design Ergonomique Supérieur ] La zone de charge est fabriquée en silicone souple et agréable au toucher, tandis que les panneaux latéraux en métal rehaussent l'aspect haut de gamme de l'ensemble. Cela offre non seulement une prise en main confortable, mais aussi une charge agréable. Spécifications Marque: UGREEN Couleur: Gris Tension: 12 Volts, 20 Volts Poids de l'article: 217 Grammes Ampérage: 3 A Dimensions du produit: 11,2L x 7l x 1,4Ép centimètres Nombre de ports: 2 Nombre d'unités: 1.0 unité Portable: Oui Appareils compatibles: Compatible avec iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max, les séries iPhone 16/ 15/ 14/ 13/ 12 (tous les modèles sauf iPhone 16e) Voir plus Intensité du courant: 3 A appareils compatibles: Compatible avec iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max, les séries iPhone 16/ 15/ 14/ 13/ 12 (tous les modèles sauf iPhone 16e) Norme de recharge sans fil: MagSafe, Qi2.2 wattage en sortie: 45 Watts Dimensions de l'article L x l x Épaisseur: 11,2L x 7l x 1,4Ép centimètres Unité de comptage: 1.0 unité Dimensions de l’article: 18 x 10 x 2,5 centimètres Numéro du modèle: PB579 nombre d'articles: 1 pays d'origine: Chine fabriquant: Ugreen Group Limited Nombre de piles: 1 9 V - incluse(s) numéro de pièce: 16884 Description de la garantie: 2 ans constructeur Classement des meilleures ventes d'Amazon: 4808 en High-Tech (Voir les 100 premiers en High-Tech) 154 en Blocs d'alimentation portatifs pour téléphone portable ASIN: B0HD6NDJC8",
+    "price": 66.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/batterie-externe-magsafe-10000mah-ugreen-magflow-air-qi2-25w-by-3431653",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0pJnx/3431653_1/re/1200x1200/qt/90/3431653_1.jpg",
+    "detected_at": "2026-10-13T11:10:57+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 66.49,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Boîtier PC Moyen Tour Corsair 3200D RS ARGB - 3 Ventilateurs 120mm",
+    "description": "48,12€ - Amazon.es Les options de refroidissement puissantes comprennent de la place pour 9 ventilateurs de 120 mm avec 3 ventilateurs RS120 ARGB inclus pour un ventilateur de carte mère et un contrôle de l'éclairage faciles et un flux d'air continu dans tout le châssis Le 3200D a été conçu pour une construction facile avec de nombreux emplacements d'attache de câble, un gainage intégré pour cacher les câbles, un support de carte mère à connection inversée et un connecteur unique pour les câbles avant, ce qui facilite la construction du 3200D Le 3200D RS ARGB est entièrement compatible avec les cartes mères à connection inversée, comprend un bras de stabilisation GPU Anti-affaissement intégré pour prendre en charge les cartes graphiques très lourdes et offre un port USB de type C sur le panneau E/S frontal facilement accessible Radiateur de 360 mm monté sur le dessus – Refroidissez les processeurs les plus puissants avec un radiateur de 360 mm monté sur le dessus pour un refroidissement efficace du système Il y a suffisamment d'espace dans le haut du boîtier pour monter du matériel de refroidissement liquide, avec des options allant d'un radiateur de 360 mm, 280 mm ou même 240 mm, de sorte que vous avez beaucoup d'options quand il s'agit de refroidir même les processeurs les plus puissants",
+    "price": 48.12,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/corsair-3200d-rs-argb-boitier-pc-moyen-tour-3-ventilateurs-120-mm-inclus-3431650",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gcgwf/3431650_1/re/1200x1200/qt/90/3431650_1.jpg",
+    "detected_at": "2026-10-13T11:10:10+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 48.12,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fauteuil à Bascule Scandinave Lorens - Bois d'Hévéa et Bouclette",
+    "description": "112,50€ - Sweeek Autres coloris et tissu : https://www.sweeek.fr/product/fauteuil-a-bascule-design-en-bois-et-tissu-1-place-rocking-chair-scandinave-1 Notre collection Lorens allie un design épuré, élégant et naturel. Sa belle et solide structure en bois arrondi est recouverte d’une assise épaisse et confortable. Nous avons sélectionné avec soin des tissus et des coloris qui viendront apporter une touche scandinave à votre intérieur. Un fauteuil bouclette pour un confort à l’état pur Ce fauteuil aux lignes arrondies est une invitation au cocooning. Avec son revêtement bouclette tout doux, effet laine de mouton, vous n'aurez qu'une envie, vous blottir dans ce petit cocon. Son dossier et son assise profonde et ferme contribueront grandement à votre confort. Avec ses pieds à bascule, profitez de son doux balancement pour un moment de détente parfait. Sa structure en bois solide est chaleureuse et son coloris naturel apporte un côté épuré et zen à votre intérieur. Un coussin rectangulaire conçu dans la même matière vient compléter l’ensemble. Ce fauteuil trouvera facilement sa place dans votre salon ou dans la chambre de votre enfant. Informations complémentaires Le petit coussin est déhoussable. Conseils d'entretien Nettoyage professionnel recommandé Bois : Dépoussiérer régulièrement avec un chiffon propre, doux et sec. Dimension des cartons Carton 1: L 83 x l 75 x h 38 cm - 17.35 kg",
+    "price": 112.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fauteuil-a-bascule-scandinave-lorens-bois-dhevea-et-bouclette-3431652",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SliXV/3431652_1/re/1200x1200/qt/90/3431652_1.jpg",
+    "detected_at": "2026-10-13T11:08:17+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 112.5,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de société Far Cry : Escape from Rook Islands",
+    "description": "17,67€ - Philibert Net Liquidation massive de -70 % en vente flash sur Far Cry : Escape from Rook Islands , l'adaptation officielle en jeu de plateau coopératif du jeu vidéo culte d'Ubisoft, éditée par Funforge. Passer sous les 18 € au lieu de près de 60 € pour une grosse boîte pleine de matériel et de figurines, c'est un prix plancher absolu. Vente flash classique : prix direct, pas d'inscription requise et expédition immédiate sous 24/48 h . Pourquoi c'est une très belle affaire : Vous incarnez Jason Brody et ses compagnons capturés sur l'archipel des îles Rook par le sanguinaire Vaas Montenegro. Votre seul objectif : survivre aux patrouilles de pirates, libérer vos amis et trouver un moyen de fuir l'enfer insulaire. Le jeu propose une aventure coopérative intense mêlant infiltration, action tactique et gestion des risques : Infiltration ou assaut frontal : Vous devez vous coordonner pour nettoyer des avant-postes, désactiver des alarmes et saboter les installations pirates. Rester discret limite les renforts ennemis, mais un assaut mal préparé déclenche rapidement l'alerte générale. Artisanat et équipement : Comme dans le jeu vidéo, vous collectez des ressources sur la faune et la flore locales pour fabriquer des seringues de soins, améliorer vos armes et débloquer des compétences clés pour vos héros asymétriques. Système de scénarios modulables : Une série de missions interconnectées avec des objectifs variés (sauvetages, destructions de dépôts, survie face à des vagues d'ennemis) et une IA ennemie agressive menée par Vaas. Matériel imposant : Figurines détaillées, tuiles de terrain modulaires pour composer l'archipel, plateaux individuels et dizaines de cartes d'équipement et d'événements. Format : 1 à 4 joueurs (entièrement jouable en solo) Durée : 60 à 90 min Âge : Dès 14 ans Éditeur : Funforge / Ubisoft Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat). Expédition rapide sous 24/48 h.",
+    "price": 17.67,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-far-cry-escape-from-rook-islands-3431651",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/tSQRX/3431651_1/re/1200x1200/qt/90/3431651_1.jpg",
+    "detected_at": "2026-10-13T11:08:02+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 17.67,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de Société Trek 12 : Amazonie",
+    "description": "5,10€ - Philibert Net Braderie monumentale de -80 % en vente flash sur Trek 12 : Amazonie , le stand-alone d'exploration et de « roll & write » évolutif conçu par Bruno Cathala et Corentin Lebrat, édité par Lumberjacks Studio. À peine 5,10 € , c'est tout simplement le prix le plus bas jamais constaté sur ce titre et une magnifique aubaine pour un jeu indépendant complet noté 7,3/10 sur BoardGameGeek . Vente flash classique : prix direct, pas d'inscription requise et expédition immédiate sous 24/48 h . Pourquoi c'est l'incontournable du jour : Jeu totalement indépendant (ne nécessite pas le premier Trek 12 : Himalaya ), il vous emmène cartographier la forêt amazonienne, observer sa faune sauvage et tracer des sentiers fluviaux. Le système mêle réflexion mathématique, prise de risque et contenu évolutif : Combinaisons de dés et contraintes : À chaque tour, les deux dés sont lancés. Tous les joueurs choisissent simultanément quelle opération appliquer (garder la valeur la plus haute, la plus basse, la différence, la somme ou le produit) afin d'inscrire le résultat dans une case de leur carnet d'exploration. Chaînes et sentiers : Vous marquez des points en créant des séries de nombres identiques ou des suites consécutives. Enveloppes secrètes et mode campagne : Le cœur du jeu propose un véritable système évolutif : accomplir certains objectifs permet de décacheter des enveloppes scellées contenant de nouveaux éléments de règles, des cartes inédites, du matériel additionnel et des twists d'expédition. Mode solo très complet : Intègre un mode solitaire dédié pour partir en expédition contre l'explorateur rival. Note BGG : 7,3/10 Format : 1 joueur et plus Durée : 15 à 30 min Âge : Dès 8 ans Auteurs : Bruno Cathala & Corentin Lebrat Éditeur : Lumberjacks Studio Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat). Expédition rapide sous 24/48 h.",
+    "price": 5.1,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-trek-12-amazonie-3431648",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/G5SAA/3431648_1/re/1200x1200/qt/90/3431648_1.jpg",
+    "detected_at": "2026-10-13T11:07:19+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.1,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Among Us (Dématérialisé - Eshop)",
+    "description": "2,57€ - Nintendo Jouez avec 4-15 joueurs en ligne ou via Wi-Fi local et préparez votre vaisseau au décollage, mais ouvrez l'œil (et le bon) car au moins un de vos coéquipiers est en fait un imposteur farouchement déterminé à vous mettre des bâtons dans les roues et à massacrer tout le monde.",
+    "price": 2.57,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/among-us-3431647",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yi46i/3431647_1/re/1200x1200/qt/90/3431647_1.jpg",
+    "detected_at": "2026-10-13T11:06:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2.57,
+        "observed_at": "2026-10-13T11:26:32.922310+00:00"
       }
     ]
   },
@@ -9347,111 +9599,6 @@
     "price_history": [
       {
         "price": 8.58,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Doudoune Schott Idaho2 Navy - Taille M",
-    "description": "59,10€ - Amazon Bon plan pour l’hiver",
-    "price": 59.1,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/schott-doudoune-idaho2-navy-3431281",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oFqiv/3431281_1/re/1200x1200/qt/90/3431281_1.jpg",
-    "detected_at": "2026-10-12T18:52:58+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 59.1,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Lego Technic 42210 Voiture Nissan Skyline GT-R (R34) 2 Fast 2 Furious",
-    "description": "96,04€ - Cdiscount Mettez le pied au plancher avec cette maquette qui inspirera les fans des films Fast and Furious. La voiture Nissan Skyline GT-R (R34) Fast & Furious LEGO® Technic (42210) pour adultes regorge de fonctions qui donnent vie à ce véhicule mythique. Recréez les détails fidèles, comme la direction ou les suspensions avant et arrière. Ouvrez le capot pour découvrir le moteur 6 cylindres avec pistons mobiles. Ajustez l’aileron, puis testez la toute première fonction de drift LEGO® Technic, qui soulève la voiture pour reproduire des manœuvres impressionnantes. Ouvrez les portes pour accéder au siège du pilote et aux 3 bonbonnes de NOS. Une superbe décoration et un magnifique cadeau pour les fans de la saga Fast and Furious. Exprimez votre passion pour les véhicules haute performance et savourez des projets de construction gratifiants avec la gamme de véhicules LEGO® Technic pour adultes. L’application LEGO® Builder propose une version numérique des instructions imprimées. Contient 1 414 pièces. Maquette de voiture Fast and Furious pour adultes – Construisez la Voiture Nissan Skyline GT-R (R34) 2 Fast 2 Furious LEGO® Technic, puis déployez la fonction de drift pour recréer des scènes mythiques des films Caractéristiques authentiques – Cette voiture LEGO® Technic regorge de détails réalistes dont la direction, les suspensions avant et arrière, les portes qui s’ouvrent, un aileron réglable et 3 bonbonnes NOS Recréez les moments forts des films – La fonction de drift, une première pour LEGO® Technic, soulève la voiture pour vous permettre de recréer les manœuvres impressionnantes de vos scènes de course préférées Moteur 6 cylindres avec pistons mobiles – Réveillez l’ingénieur qui sommeille en vous en recréant les détails mobiles de ce modèle réduit, tels que le moteur 6 cylindres Un cadeau pour les fans de Fast and Furious – Ce modèle réduit de voiture est un fabuleux cadeau créatif pour les adultes et les fans qui aiment la Nissan Skyline GT-R (R34) Instructions de montage numériques – L’application LEGO® Builder propose une version numérique des instructions incluses dans la boîte Modèles LEGO® pour adultes – Explorez des concepts d’ingénierie et savourez des projets de construction gratifiants avec la collection de véhicules LEGO® Technic pour adultes (vendus séparément) Dimensions – La maquette de voiture de ce set LEGO® Technic de 1 410 pièces mesure plus de 12 cm de haut, 41 cm de long et 18 cm de large",
-    "price": 96.04,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-technic-42210-voiture-nissan-skyline-gt-r-r34-2-fast-2-furious-3431280",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ztZJ3/3431280_1/re/1200x1200/qt/90/3431280_1.jpg",
-    "detected_at": "2026-10-12T18:50:40+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 96.04,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Blouson Columbia Powder Lite Ii Jacket",
-    "description": "69,99€ - Amazon Bon plan pour l’hiver ! À propos de ce produit Veste d'hiver déperlante pour homme, Idéale pour les journées froides d'hiver en ville, les randonnées et autres activités de plein air, Coupe moderne Zip pratique sur toute la longueur, 2 poches zippées pour des mains chaudes et en sécurité Particulièrement chaude grâce à la technologie Omni-Heat avec doublure thermoréfléchissante, Matière déperlante pour une protection optimale contre l'humidité Ajustement optimal grâce aux poignets élastiques et au cordon de serrage réglable à l'ourlet Contents: 1x Columbia Powder Lite II, Veste pour Homme, Colour: Noir (Black), Size: L, Article: 2086964 Commentaires client",
-    "price": 69.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/columbia-powder-lite-ii-jacket-3431277",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/9wHZG/3431277_1/re/1200x1200/qt/90/3431277_1.jpg",
-    "detected_at": "2026-10-12T18:46:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 69.99,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hache à fendre et universelle ou machette Parkside",
-    "description": "11,99€ - Lidl Hache à fendre et universelle ou machette Parkside ______________________________________________ Description Longueur : Hache : 35,5 cm ; Machette : 50,6 cm PARKSIDE® Hache à fendre et universelle ou machette Caractéristiques Le couvercle de protection du produit contient 50 % de polypropylène recyclé certifié GRSI Poignée ergonomique antidérapante Manche ultraléger et durable renforcé de fibres de verre Avec crochet de suspension pour le rangement Hache à fendre et universelle: Lame à bord tranchant pour un hachage efficace Tête de hache en acier trempé de haute qualité Poids de la tête: 555 g Diamètre de coupe max.: < 7 cm Machete: Idéal pour couper de petites branches et pour l'écorçage léger des troncs Pour tailler les sous-bois dans les jardins et les forêts Lame en acier trempé de haute qualité Caractéristiques du produit Composition : Acier, plastique renforcé de fibres de verre Longueur: Hache: 35,5 cm; Machete: 50,6 cm Poids: Hache: 794 g; Machette: 570 g I GRS – Global Recycled Standard La housse contient 50 % de polypropylène recyclé certifié GRS Numéro de certification: CU 851646 L'achat de produits certifiés selon le Global Recycled Standard (GRS) montre qu'il existe une demande de contenu recyclé et de meilleures méthodes de transformation dans la chaîne d'approvisionnement.",
-    "price": 11.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/hache-a-fendre-et-universelle-ou-machette-parkside-3431276",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/arQKd/3431276_1/re/1200x1200/qt/90/3431276_1.jpg",
-    "detected_at": "2026-10-12T18:43:56+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 11.99,
-        "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Cocotte Tefal Ronde - 24cm, TFI, Air Soft Light Vert",
-    "description": "39,99€ - Auchan Caractéristiques générales Couleur : Vert Type de feux : Tous feux dont induction Composition Matière : Fonte d'aluminium Revêtement intérieur : Céramique Revêtement anti adhésif : Oui Dimensions et poids Diamètre : 24 cm Longueur : 33.2 cm Hauteur : 14 cm Largeur : 25.5 cm Dimensions : 33.2 x 25.5 x 14 cm Caractéristiques générales Couleur : Vert Type de feux : Tous feux dont induction Composition Matière : Fonte d'aluminium Revêtement intérieur : Céramique Revêtement anti adhésif : Oui Dimensions et poids Diamètre : 24 cm Longueur : 33.2 cm Hauteur : 14 cm Largeur : 25.5 cm Dimensions : 33.2 x 25.5 x 14 cm",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cocotte-tefal-ronde-24cm-tfi-air-soft-light-vert-3431274",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/o3UzE/3431274_1/re/1200x1200/qt/90/3431274_1.jpg",
-    "detected_at": "2026-10-12T18:43:25+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 39.99,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
       }
     ]
