@@ -1,5 +1,165 @@
 [
   {
+    "title": "Tendeur galvanisé n°2 werkapro",
+    "price": 1.49,
+    "reference_price": 8.96,
+    "discount_percent": 83.37,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D7X6HYDS",
+    "image_url": "https://m.media-amazon.com/images/P/B0D7X6HYDS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:23:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.49,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "RICOO Support boîtier PC Ordin...ure de sécurité Ajustable pour",
+    "price": 40.7,
+    "reference_price": 53.34,
+    "discount_percent": 23.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B083WK9FX5",
+    "image_url": "https://m.media-amazon.com/images/P/B083WK9FX5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:23:05",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 40.7,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Dell Universal Pairing Receiver- WR221",
+    "price": 13.86,
+    "reference_price": 19.31,
+    "discount_percent": 28.22,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09GBGZZZD",
+    "image_url": "https://m.media-amazon.com/images/P/B09GBGZZZD.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:23:03",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 13.86,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Apple Watch Series 11 [GPS + C...a santé, écran Toujours activé",
+    "price": 699.0,
+    "reference_price": 799.0,
+    "discount_percent": 12.52,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FQGCC6ZH",
+    "image_url": "https://m.media-amazon.com/images/P/B0FQGCC6ZH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:23:02",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 699.0,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "IT Cosmetics Your Skin But Bet... et soin en un, couleur ivoire",
+    "price": 36.8,
+    "reference_price": 46.55,
+    "discount_percent": 20.95,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08P213HBB",
+    "image_url": "https://m.media-amazon.com/images/P/B08P213HBB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:23:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 36.8,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LENOVO Essential Compact WIREL...ce_BO Essential Wireless Mouse",
+    "price": 11.61,
+    "reference_price": 27.97,
+    "discount_percent": 58.49,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07H8K3TLB",
+    "image_url": "https://m.media-amazon.com/images/P/B07H8K3TLB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:22:59",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.61,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "StarTech.com Câble vidéo VGA c...HD15 vers HD15 M/M (MXTMMHQ5M)",
+    "price": 12.47,
+    "reference_price": 27.49,
+    "discount_percent": 54.64,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B008POA6K2",
+    "image_url": "https://m.media-amazon.com/images/P/B008POA6K2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:22:56",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.47,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "The New Miles Davis Quintet",
+    "price": 19.99,
+    "reference_price": 36.79,
+    "discount_percent": 45.66,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000000Y04",
+    "image_url": "https://m.media-amazon.com/images/P/B000000Y04.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 19:22:50",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
     "title": "Ultimate Ears WONDERBOOM PLAY,... Bluetooth portable et étanche",
     "price": 47.99,
     "reference_price": 56.56,
@@ -1131,7 +1291,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:39:37.871843+00:00",
     "price_history": [
       {
         "price": 5.11,
@@ -1151,7 +1311,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T17:39:37.871843+00:00",
     "price_history": [
       {
         "price": 26.16,
@@ -1171,7 +1331,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T19:24:34.756893+00:00",
     "price_history": [
       {
         "price": 18.99,
@@ -1191,7 +1351,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T19:24:34.756893+00:00",
     "price_history": [
       {
         "price": 7.42,
@@ -1211,7 +1371,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T19:24:34.756893+00:00",
     "price_history": [
       {
         "price": 1173.2,
@@ -3396,6 +3556,10 @@
       {
         "price": 40.17,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 40.17,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3416,6 +3580,10 @@
       {
         "price": 8.59,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 8.59,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3436,6 +3604,10 @@
       {
         "price": 19.1,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 19.1,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3456,6 +3628,10 @@
       {
         "price": 264.09,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 264.09,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3476,6 +3652,10 @@
       {
         "price": 6.4,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 6.4,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3496,6 +3676,10 @@
       {
         "price": 9.7,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 9.7,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3516,6 +3700,10 @@
       {
         "price": 9.8,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 9.8,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3536,6 +3724,10 @@
       {
         "price": 56.06,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 56.06,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3556,6 +3748,10 @@
       {
         "price": 12.88,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 12.88,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3576,6 +3772,10 @@
       {
         "price": 22.0,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 22.0,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3596,6 +3796,10 @@
       {
         "price": 12.75,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 12.75,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3616,6 +3820,10 @@
       {
         "price": 166.76,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 166.76,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -3636,6 +3844,10 @@
       {
         "price": 11.18,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 11.18,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -5964,6 +6176,237 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Souris sans fil Lenovo 4Y50R20864 Noir",
+    "description": "11,61€ - Amazon Si vous êtes passionné d'informatique et d'électronique, si vous êtes à la pointe de la technologie et qu'aucun détail ne vous échappe, achetez Souris Lenovo 4Y50R20864 Noir au meilleur prix. Couleur: Noir Caractéristiques: Ergonomique Plug & Play Connectivité: Wi-Fi RF Type de batterie: AA Technologie: Optique Compatible: PC Facteur de forme: Ambidextre",
+    "price": 11.61,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lenovo-souris-sans-fil-4y50r20864-noir-3431937",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/d1Wym/3431937_1/re/1200x1200/qt/90/3431937_1.jpg",
+    "detected_at": "2026-10-13T19:21:30+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 11.61,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 sprays nettoyant Salle de bain surpuissant crasse et calcaire Cillit Bang - 2x1L",
+    "description": "4,23€ - Amazon Via prévoyez et économisez Cillit Bang Pistolet Nettoyant Salle de bain Surpuissant Crasse et Calcaire 1L (Lot de 2) Les informations ci-dessous s'appliquent à chaque unité du pack Efficace sur plus de 40 taches de crasse à l'interieur et l'exterieur de la maison. Elimine jusqu'à 100% des résidus de calcaire. Action instantanée. Élimine le calcaire en quelques secondes sans frotter Agit instantanément sur plus de 40 types de tâches 2 flacons pour équiper salle de bain et cuisine",
+    "price": 4.23,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-sprays-nettoyant-salle-de-bain-surpuissant-crasse-et-calcaire-cillit-bang-1l-3431934",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/h8HIw/3431934_1/re/1200x1200/qt/90/3431934_1.jpg",
+    "detected_at": "2026-10-13T19:20:43+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 4.23,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fallout 4: Game of The Year Edition sur PC (Dématérialisé - Steam)",
+    "description": "9,99€ - Steam Compatible Steam Deck Comprend 7 article(s) : Fallout 4 , Fallout 4 - Automatron , Fallout 4 - Wasteland Workshop , Fallout 4 Far Harbor , Fallout 4 - Contraptions Workshop , Fallout 4 Vault-Tec Workshop , Fallout 4 Nuka-World Bethesda Game Studios, studio de développement maintes fois récompensé à l'origine de Fallout 3 et de The Elder Scrolls V: Skyrim, vous invite à découvrir Fallout 4, leur titre le plus ambitieux à ce jour incarnant la nouvelle génération du jeu en monde ouvert. Dans la peau du seul survivant de l'abri 111, vous émergez dans un monde dévasté par une guerre nucléaire. Votre survie sera un combat de tous les instants et vos choix façonneront votre destin. Vous seul avez le pouvoir de faire entrer les Terres désolées dans une nouvelle ère. Bienvenue chez vous. ÉLEMENTS CLES : Liberté totale ! Jouissez d'une liberté d'action sans précédent dans un monde ouvert offrant des centaines de lieux, de personnages et de quêtes. Rejoignez plusieurs factions dans leur combat pour la suprématie ou forgez votre destinée en loup solitaire, c'est à vous seul de décider. Vous êtes S.P.E.C.I.A.L. ! Incarnez le personnage que vous voulez grâce au système S.P.E.C.I.A.L. Soldat en armure assistée ou baratineur charismatique, choisissez parmi des centaines d'aptitudes et développez votre propre style de jeu. Des pixels de toute beauté ! Un tout nouveau moteur graphique et une gestion des éclairages de nouvelle génération donnent vie au monde de Fallout comme jamais auparavant. Des forêts dévastées du Commonwealth aux ruines de Boston, chaque lieu fourmille de détails dynamiques. Violence et SVAV ! Les combats intenses à la première ou à la troisième personne peuvent aussi être ralentis grâce au nouveau Système de Visée Assistée Vault-Tec (SVAV) dynamique, qui vous permet de choisir vos attaques avant de profiter du carnage comme si vous y étiez. Amassez et fabriquez ! Trouvez, améliorez et créez des milliers d'objets grâce au système de fabrication le plus sophistiqué jamais conçu. Armes, armures, substances chimiques et nourriture ne sont qu'une infime partie des possibilités : vous pourrez même construire et gérer des colonies entières !",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fallout-4-game-of-the-year-edition-sur-pc-dematerialise-steam-3431936",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/69YUx/3431936_1/re/1200x1200/qt/90/3431936_1.jpg",
+    "detected_at": "2026-10-13T19:19:57+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "(Via coupon 25€) Robot pâtissier multifonction KitchenCook AK80 – 1000W, Bol Inox 5L, Blender & Hachoir à viande",
+    "description": "59,99€ - JoyBuy Robot pétrin et culinaire multifonction complet de la marque KitchenCook (modèle AK80). Grâce à son mouvement planétaire et sa puissance de 1000 W, il est équipé pour pétrir, mixer, hacher et réaliser toutes vos préparations pâtissières. Points forts et caractéristiques : • Tarif canon à 60 € : S'obtient en appliquant le coupon de réduction disponible sur la page du produit (prix le plus bas historique du marché). • Puissance de 1000 W : Idéale pour travailler facilement les pâtes lourdes (pain, brioche, pizza). • Bol en acier inoxydable de 5 Litres : Permet de cuisiner de grands volumes avec son couvercle anti-projections. • Polyvalence 3-en-1 : Livré complet avec le kit pâtisserie (fouet, crochet, batteur), un module blender en verre et un hachoir à viande. • Variateur de vitesses : Plusieurs vitesses avec fonction Pulse pour adapter la force de mélange. • Stabilité : Pieds ventouses antidérapants sous la base pour éviter les vibrations.",
+    "price": 59.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/via-coupon-25eur-robot-patissier-multifonction-kitchencook-ak80-1000w-bol-inox-5l-blender-hachoir-a-viande-3431935",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ULqMD/3431935_1/re/1200x1200/qt/90/3431935_1.jpg",
+    "detected_at": "2026-10-13T19:19:49+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 59.99,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Billet de train Eurostar de Paris pour Cologne dès 35€ - Plusieurs dates Ex : 6 Janvier 2027",
+    "description": "35€ - Eurostar Billet de train Eurostar Paris - Cologne dès 35€ (Nombreuses dates en janvier 2027) Eurostar propose des billets de train pour la liaison Paris Nord - Cologne (Köln Hbf) à partir de 35€ l'aller simple pour le mois de janvier 2027. De nombreuses dates sont disponibles au tarif de 35€ par trajet : - Sens Paris -> Cologne : les 6, 7, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 25, 26, 27, 28, 29, 30 et 31 janvier 2027. - Sens Cologne -> Paris : les 5, 6, 9, 11, 12, 13, 14, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 30 et 31 janvier 2027. Le trajet direct s'effectue en environ 3h20. Lien direct : https://www.eurostar.com/fr-fr/find-lowest-fares Prix : 35€ Frais de port : 0€ Code promo : Aucun",
+    "price": 35.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/billet-de-train-eurostar-de-paris-pour-cologne-des-35eur-plusieurs-dates-ex-6-janvier-2027-3431933",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LxZRS/3431933_1/re/1200x1200/qt/90/3431933_1.jpg",
+    "detected_at": "2026-10-13T19:18:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 35.0,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Analogique à Quartz Tommy Hilfiger pour Femme avec Bracelet en Silicone Bleu Marin",
+    "description": "72,24€ - Amazon Tommy Hilfiger Montre Analogique à Quartz pour Femme avec Bracelet en Silicone Bleu Marin",
+    "price": 72.24,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tommy-hilfiger-montre-analogique-a-quartz-pour-femme-avec-bracelet-en-silicone-bleu-marin-3431927",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jwAAq/3431927_1/re/1200x1200/qt/90/3431927_1.jpg",
+    "detected_at": "2026-10-13T19:16:49+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 72.24,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre connectée Xiaomi Redmi Watch 6 Lite (Version Globale) - Écran AMOLED 1.96\", Appels Bluetooth, grise ou noire",
+    "description": "61,58€ - Amazon Lien grise : https://www.amazon.fr/dp/B0H8TCWZYF • 【Écran】Écran AMOLED de 1,96\" aux bords ultra-fins et à la luminosité maximale de 1 500 nits pour une image nette en toute lumière. L'affichage permanent vous permet de consulter l'heure d'un simple coup d'œil au poignet. Boîtier plat de 9,9 mm avec verre 2,5D : légère et confortable au quotidien. • 【Suivi d'activité】Plus de 150 modes sportifs, de la marche quotidienne aux entraînements avancés : la montre enregistre vos données et vous guide à l'échauffement pour des séances plus sûres. Mode natation professionnel avec capteur à 9 axes : précision de longueur de 94,4 %, résistance à l'eau 5 ATM et métriques de natation pour une analyse précise après l'effort. • 【GPS intégré】Compatible avec les cinq grands systèmes de satellites (GPS, Galileo, BeiDou, Glonass, QZSS) : suivez précisément vos itinéraires en extérieur, même sans téléphone. • 【Suivi de santé】Suivi de la qualité du sommeil, mesure de l'oxygène dans le sang avec alertes en cas de saturation basse et surveillance du rythme cardiaque avec alertes en cas d'anomalies. Gestion du stress, exercices de respiration et suivi de la santé féminine au quotidien. • 【Autonomie longue durée】Jusqu'à 18 jours en usage léger et 12 jours en usage normal. Une autonomie prolongée qui suit le rythme de votre vie : fini les recharges fréquentes en déplacement, au travail ou en voyage.",
+    "price": 61.58,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-connectee-xiaomi-redmi-watch-6-lite-version-globale-ecran-amoled-196-appels-bluetooth-grise-ou-noire-3431932",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/92Iqt/3431932_1/re/1200x1200/qt/90/3431932_1.jpg",
+    "detected_at": "2026-10-13T19:12:48+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 61.58,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures femme Nike Air Max Ivo Trainers 35,5 à 38,5",
+    "description": "41,42€ - Sports Direct Les Nike Air Max Ivo Girls Trainers sont des chaussures de sport pour filles avec un style reconnaissable. *caractéristiques du produit:* - Unité de coussinage Air Max visible dans le talon - Swoosh signature de la marque sur les deux côtés",
+    "price": 41.42,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nike-air-max-ivo-girls-trainers-355-a-385-3431931",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/tNeYm/3431931_1/re/1200x1200/qt/90/3431931_1.jpg",
+    "detected_at": "2026-10-13T19:12:37+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 41.42,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Four à pizza électrique H.Koenig NAPL350 Napoletana 1200W, 350°C Pierre réfractaire - 32 cm (Via coupon 25€)",
+    "description": "54,99€ - JoyBuy Four à pizza électrique compact conçu pour recréer la cuisson d'une pizza style napolitaine à la maison grâce à sa plaque en pierre céramique et sa montée en température jusqu'à 350°C. Points forts et caractéristiques : • Cuisson sur pierre : Plaque en pierre céramique réfractaire de 32 cm de diamètre favorisant une croûte croustillante et une cuisson homogène. • Montée rapide en température : Puissance de 1200 W permettant d'atteindre jusqu'à 350°C pour cuire une pizza en quelques minutes. • Pratique au quotidien : Doté d'une fenêtre de visualisation supérieure pour surveiller la cuisson sans ouvrir l'appareil, ainsi que d'une minuterie réglable de 0 à 15 minutes avec arrêt automatique. • Sécurité : Poignées thermo-isolantes résistantes à la chaleur pour manipuler le couvercle en toute sécurité. • Accessoires inclus : Livré avec ses pelles à pizza en bois et une roulette de découpe.",
+    "price": 54.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/via-coupon-25eur-four-a-pizza-electrique-hkoenig-napl350-napoletana-1200w-350c-pierre-refractaire-32-cm-3431930",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3gf2D/3431930_1/re/1200x1200/qt/90/3431930_1.jpg",
+    "detected_at": "2026-10-13T19:12:08+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 54.99,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Prise 2P+T 16A Legrand Niloe (sans cadre)",
+    "description": "3,70€ - Amazon Type de prise 2P+T système français Tension nominale : 250 V ~ ; courant nominal : 16 A Section de câble maximale : 2,5 mm² Montage encastré Type de raccordement : bornes à vis ou griffes",
+    "price": 3.7,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/prise-2pt-16a-legrand-niloe-sans-cadre-3431928",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zwh0e/3431928_1/re/1200x1200/qt/90/3431928_1.jpg",
+    "detected_at": "2026-10-13T19:11:13+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 3.7,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Friteuse sans Huile KitchenCook Airmed W - 10L , 1700W, 10 programmes, double zone (Via Coupon)",
+    "description": "64,99€ - JoyBuy Friteuse sans huile (Airfryer) d'une grande capacité de 10 litres (modèle KitchenCook AIRMED W). Conçue pour une cuisine saine sans ajout de matières grasses, elle permet de cuire simultanément deux plats grâce à sa double zone de cuisson modulable. Points forts et caractéristiques : • Prix de 64,99 € via coupon : S'obtient en appliquant le coupon de réduction de 25 € disponible dès 50 € d'achats sur la page du produit. • Capacité XXL de 10 Litres : Format idéal pour les familles ou les grands repas, permettant de préparer de grosses portions rapidement. • 10 programmes automatiques : Réglages prédéfinis pour frites, viandes, poissons, légumes, gâteaux et déshydratation. • Panneau de commande tactile LED : Interface claire pour régler la température (80°C à 200°C) et le minuteur de manière indépendante. • Puissance de 1700 W : Permet une montée en température rapide et une circulation d'air homogène pour des aliments croustillants. • Nettoyage simplifié : Panier et grilles amovibles avec revêtement anti-adhésif.",
+    "price": 64.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/via-coupon-friteuse-sans-huile-10l-kitchencook-airmed-w-1700w-10-programmes-double-zone-3431926",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CXlxe/3431926_1/re/1200x1200/qt/90/3431926_1.jpg",
+    "detected_at": "2026-10-13T19:06:26+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 64.99,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -10286,321 +10729,6 @@
       {
         "price": 47.49,
         "observed_at": "2026-10-13T11:59:50.729303+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Accessoires Xbox à -50% sur carte fidelité carrefour Crèche sur Saone (71)",
-    "description": "29,97€ Bonjour 3 manettes XBox et 2 casques filaires Xbox à -50% sur la carte fidélité Carrefour. L’accessoire revient à 30€ ce qui est un bon prix je trouve. Aucune idée du stock en dehors de ce que je vois en magasin.",
-    "price": 30.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/accessoires-xbox-a-50-sur-carte-fidelite-carrefour-creche-sur-saone-71-3431668",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Qw1yb/3431668_1/re/1200x1200/qt/90/3431668_1.jpg",
-    "detected_at": "2026-10-13T11:38:21+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 30.0,
-        "observed_at": "2026-10-13T11:43:20.622838+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Smartphone Xiaomi Redmi Note 15+ 5G (Vendeur Tiers)",
-    "description": "322€ - Cdiscount Bonne affaire je pense",
-    "price": 322.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/xiaomi-redmi-note-15-5g-3431665",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XJbge/3431665_1/re/1200x1200/qt/90/3431665_1.jpg",
-    "detected_at": "2026-10-13T11:37:32+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 322.0,
-        "observed_at": "2026-10-13T11:43:20.622838+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Citizen Tsuyosa 60 NK0023-57L - Acier Inoxydable, Cadran Bleu, 40mm, Étanche 5 Bar (Vendeur Tiers)",
-    "description": "199,99€ - Cdiscount Montre Citizen Tsuyosa 60 Acier Inoxydable Dore Rose Automatique Ronde 40Mm Fond Bleu Cendre Brillant Bracelet Acier Inoxydable Doré Rose Nk0023-57L",
-    "price": 199.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/citizen-tsuyosa-60-3431662",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/x2bA5/3431662_1/re/1200x1200/qt/90/3431662_1.jpg",
-    "detected_at": "2026-10-13T11:36:01+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 199.99,
-        "observed_at": "2026-10-13T11:43:20.622838+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Friteuse sans huile Air Fryer modulaire Ninja CRISPi FN101EUSG - 1700W, Récipients 3,8 et 1,4L (Retrait magasin uniquement)",
-    "description": "79,99€ - Carrefour Pour celles/ceux qui auraient raté le deal chez Leclerc , passage à 79,99€ chez Carrefour > Valable uniquement en retrait magasin (bien entendu si vous avez du stock près de chez vous ;) ) Caractéristiques Description Conception en verre : cuisinez sainement et surveillez vos cuissons en un clin d'oeil ! Moins de vaisselle : préparez, cuisinez, servez ou dégustez, découpez et conservez dans le même contenant en verre ! Facile à nettoyer et ranger : format compact. Récipients interchangeables et empilables. Crispi se range même dans un simple tiroir de cuisine ! Caractéristiques Capacité 1 x récipient de 1,4 L / 1 x récipient de 3,8 L Dimensions du produit (cm) H : 34,5 x L : 30,4 x P : 34 cm Longueur du câble 0,89 cm Puissance de la batterie 1700 W Couleur Sauge Programmes Frire sans huile / Rôtir / Maintenir au chaud / Redorer Garantie 2 ans",
-    "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/friteuse-sans-huile-air-fryer-modulaire-ninja-crispi-fn101eusg-1700w-recipients-38-et-14l-retrait-magasin-uniquement-3431664",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AWCYh/3431664_1/re/1200x1200/qt/90/3431664_1.jpg",
-    "detected_at": "2026-10-13T11:31:21+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-13T11:43:20.622838+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre connectée Garmin Forerunner 255",
-    "description": "218€ - AliExpress Garmin Forerunner 265 version CN. Si vous alimentez votre panier avec une protection d’écran par exemple, cela va vous permettre d’utiliser le code WOFR29 et amener la montre au prix de 208€. Prix total avec protection d’écran: environ 216€, moins chère qu’avec le premier code et avec un article en plus.",
-    "price": 218.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/garmin-forerunner-255-3431663",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/h3w97/3431663_1/re/1200x1200/qt/90/3431663_1.jpg",
-    "detected_at": "2026-10-13T11:28:40+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 218.0,
-        "observed_at": "2026-10-13T11:43:20.622838+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Client Red By SFR] Smartphone 6,59\" Xiaomi 17T - 256 Go, RAM 12 Go (Via 100€ d'ODR sur facture + 70€ de bonus reprise)",
-    "description": "379€ - RED by SFR Prix du mobile : 549€ -100 d'ODR remboursés sur facture -70€ de bonus reprise = 379€ prix final. Lien vers l'ODR : https://static.s-sfr.fr/media/catalogue/article/promotions/odr/odr-ODR_RED_100_06102026-0002.pdf?ts=1791796785303 Les caractéristiques clés Triple caméra professionnelle Leica : Capturez chaque détail avec un grand angle Leica 50 Mpx avec OIS, un téléobjectif Leica 50 Mpx avec zoom optique x5 et un ultra grand-angle 12 Mpx. Objectif Leica Summilux : Profitez d’une optique lumineuse pensée pour des photos nettes, détaillées et plus créatives, de jour comme de nuit. Xiaomi HyperAI : Sublimez vos clichés et gagnez en efficacité grâce aux fonctionnalités d’IA intégrées à Xiaomi HyperOS 3. MediaTek Dimensity 8500-Ultra : Bénéficiez de performances rapides et fluides, optimisées par une puce gravée en 4 nm et un système de refroidissement Xiaomi 3D IceLoop. Batterie 6500 mAh avec HyperCharge 67W : Profitez d’une longue autonomie allant jusqu’à 65 heures et rechargez rapidement votre Xiaomi 17T.",
-    "price": 379.0,
-    "reference_price": 549.0,
-    "discount_percent": 31.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-red-by-sfr-smartphone-659-xiaomi-17t-256-go-ram-12-go-via-100eur-dodr-sur-facture-70eur-de-bonus-reprise-3431658",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/UxJX0/3431658_1/re/1200x1200/qt/90/3431658_1.jpg",
-    "detected_at": "2026-10-13T11:25:57+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 379.0,
-        "observed_at": "2026-10-13T11:43:20.622838+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Butternut, Origine France (0,79€/Kg)",
-    "description": "0,79€ - Grand Frais Ça y est c'est l'automne avec les bonnes soupes (popcorn) Courge Butternut Origine France 1 Kg",
-    "price": 0.79,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/butternut-origine-france-079eurkg-3431661",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/LPhsQ/3431661_1/re/1200x1200/qt/90/3431661_1.jpg",
-    "detected_at": "2026-10-13T11:22:14+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 0.79,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "2x Sacoches arrières vélo 24L Vaude Aqua Back",
-    "description": "64,60€ - Amazon.it Prix de fou pour 2 sacoches !! Le sous titre (qui indique contenance totale 51L), la référence Amazon (B01LZY6NQC), les photos produits, les avis clients et la description correspondent à la Aqua Back PLUS (avec les petites sacoches) mais seul le titre lui-même fait référence à la Aqua Back normale (avec 24L par sacoche) mais même pour la normale c'est du jamais vu comme prix. Dans le doute je ne met pas le PLUS dans le titre du deal. On parle de sacoches increvables, j'ai fait mes courses avec pendant des années en revenant du drive en vélo avec 5-10 kilos par sacoches, bourrées au max. Jamais eu de problème avec ce qui était dedans en roulant sous la pluie. Puis je les ai laissées trainer dans un abri de jardin pendant des années et elle sont toujours en très bon état. Et même sur leboncoin elles sont plus chères, mais pas assez pour vous embêter à acheter pour revendre messieurs-dames les scalpeurs fous.",
-    "price": 64.6,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/2x-sacoches-arrieres-velo-24l-vaude-aqua-back-3431660",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pEv3t/3431660_1/re/1200x1200/qt/90/3431660_1.jpg",
-    "detected_at": "2026-10-13T11:22:12+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 64.6,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Drone DJI Neo 2 - 4K, 100 FPS",
-    "description": "170,52€ - AliExpress [Conception légère et portable] Ce drone compact ne pèse que 151 g, est certifié C0 et dispose d'une protection complète des hélices pour un transport et un vol sûrs et sans souci. [Décollage et atterrissage par Palm, contrôle gestuel] Décollez et atterrissez sans effort avec la paume de votre main et utilisez le contrôle gestuel intuitif pour un vol mains libres et une expérience fluide. [Suivi fluide et fiable] Bénéficiez d'un suivi plus rapide et plus fluide avec Active Track, afin que votre sujet reste toujours net et que des enregistrements dynamiques soient créés. [Capturez simplement des moments avec une photo selfie] Avec Selfie Shot, capturez facilement des moments inoubliables et prenez des selfies rapides et confortables à tout moment en un seul clic. [Sécurité complète et vol flexible] Volez en toute confiance grâce à la détection d'obstacles omnidirectionnelle et profitez d'opportunités de vol polyvalentes pour des aventures aériennes plus sûres et plus dynamiques. [Imagerie 4K de haute qualité] Capturez chaque instant avec des détails époustouflants grâce à la résolution 4K et obtenez des photos et des vidéos nettes et réalistes à chaque fois.",
-    "price": 170.52,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/drone-dji-neo-2-4k-100-fps-3431659",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/woODH/3431659_1/re/1200x1200/qt/90/3431659_1.jpg",
-    "detected_at": "2026-10-13T11:21:30+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 170.52,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Pré-commande] Kit Solaire Zendure BiFacial Plug & Play 1000W - Avec Batterie Solarflow 800 plus 1,92 kWh",
-    "description": "599€ - Kit Solaire Discount Pourquoi choisir ce kit ✓ Tout-en-un : 2 panneaux München Solar 500 Wc N-Type + SolarFlow 800 Plus (double MPPT, sortie 800 W, IP65). ✓ Surplus stocké : batterie LiFePO4 1,92 kWh intégrée, restituée le soir. ✓ Pilotage intelligent : Smart Meter 1CT-S inclus, restitution calée sur votre consommation. ✓ Évolutif : jusqu’à 11,52 kWh avec les batteries Zendure AB1000/AB2000L. ✓ Connectique pré-câblée : raccordement sur circuit dédié (NF C 15-100). Produisez, stockez et consommez votre électricité solaire, sans travaux et sans technicien. Ce kit associe 2 panneaux bifaciaux München Solar de 500 Wc , le gestionnaire d’énergie Zendure SolarFlow 800 Plus à batterie intégrée et le Smart Meter 1CT-S . L’énergie produite en journée alimente directement vos appareils ; le surplus est stocké dans la batterie 1,92 kWh et restitué le soir, au lieu d’être perdu. Tout se branche sur une prise 230 V , sans intervention sur votre tableau électrique.",
-    "price": 599.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pre-commande-kit-solaire-zendure-bifacial-plug-play-1000w-avec-batterie-solarflow-800-plus-192-kwh-3431657",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ffBPJ/3431657_1/re/1200x1200/qt/90/3431657_1.jpg",
-    "detected_at": "2026-10-13T11:19:48+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 599.0,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Connectée Huawei Watch GT 6 - 46mm",
-    "description": "144,09€ - AliExpress Modèle : HUAWEI WATCH GT 6 46mm Options de couleur : Noir, Vert, Gris Dimensions : 46 × 46 × 10,95 mm ⌚ Compatibilité du tour du poignet : 140–210 mm Options de bracelet de montre : Fluoroélastomère noir ; Tissu composite vert ; Cuir composite gris ⚖️ Poids (sans sangle) : ~51,3 g Taille de l'écran : 1,47 pouce AMOLED Résolution de l'écran : 466 × 466 pixels (317 PPI) Matériau du boîtier de la montre : Acier inoxydable Capteurs : Accéléromètre, Gyroscope, Magnétomètre, Fréquence cardiaque optique, Baromètre, Température, Lumière ambiante Boutons : Bouton d'accueil (Couronne rotative) + Bouton latéral Port de charge : Charge sans fil Exigences système : Android 9.0+ / iOS 13.0+ Niveau d'étanchéité : 5 ATM ; IP69 Connectivité : Bluetooth 6.0 (2.4GHz, BR+BLE) ; GNSS (GPS L1+L5/GLONASS/BeiDou B1I+B1C+B2a/GALILEO E1+E5a/QZSS L1+L5/NavIC) Haut-parleur : Pris en charge Microphone : Pris en charge ⚡ Exigences du chargeur : 5V–10V DC/2A MAX Autonomie de la batterie : Jusqu'à 21 jours (en mode léger) ; 12 jours (typique) ; 7 jours (AOD) ; 40h (sport en extérieur)",
-    "price": 144.09,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-connectee-huawei-watch-gt-6-3431656",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/aLZ6L/3431656_1/re/1200x1200/qt/90/3431656_1.jpg",
-    "detected_at": "2026-10-13T11:18:16+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 144.09,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Halloween à PortAventura : 3J/2N en hôtel 4★ à Salou | Demi-pension + billets PortAventura & Ferrari Land 1 jour | 112,50€/p (octobre)",
-    "description": "225€ - Voyage privé Deux nuits en hôtel 4★, les petits-déjeuners, les dîners et une journée à PortAventura et Ferrari Land en pleine saison d'Halloween, pour 112,50 € par personne ! C'est probablement l'une des périodes les plus amusantes pour découvrir PortAventura World . Chaque automne, le parc espagnol change complètement d'ambiance pour Halloween, avec ses décors inquiétants, ses personnages costumés et ses spectacles spécialement imaginés pour l'occasion. Cette offre permet en plus de profiter du parc pendant les vacances de la Toussaint ! ❖ Inclus 2 nuits en hôtel Ponient 4★ à Salou Chambre Standard au Ponient Marinada ou Ponient Dorada Palace Formule demi-pension, hors boissons Petits-déjeuners et dîners Un billet 1 jour / 2 parcs par personne Accès à PortAventura Park et Ferrari Land le même jour Jusqu'à 75 % de réduction sur l'hébergement du premier enfant de moins de 12 ans partageant la chambre de 2 adultes payants Navette gratuite entre les hôtels Ponient et PortAventura World, selon les périodes et horaires de fonctionnement Assistance à destination Séjour sans transport ❖ L'hôtel : Ponient Marinada 4★ ou Ponient Dorada Palace 4★ Vivez une petite aventure avec notre offre spéciale. Nous avons trouvé deux hôtels fantastiques pour vous : l'hôtel Ponient Marinada 4* by PortAventura World ou l'hôtel Ponient Dorada Palace 4* by PortAventura World, situés non loin les uns des autres et du parc. Ces hôtels disposent d'installations haut de gamme, d'un très bon emplacement et d'une décoration raffinée. Lancez les dés, vous serez informés après votre réservation de l'hôtel qui sera le vôtre. L' hôtel Ponient Dorada Palace 4* by PortAventura World , vous plonge dans une expérience unique dans un hôtel récemment rénové en 2024, situé à quelques pas du sable doré de la plage de Salou. Avec une vue imprenable sur PortAventura World et Salou, cet hôtel 4* offre l'évasion idéale pour des vacances en famille ou en couple. L 'hôtel Ponient Marinada 4* by PortAventura World, vous fait découvrir, depuis mai 2025, un lieu pensé pour les familles et les couples. Situé à quelques pas de la plage et à seulement 3 km des célèbres parcs à thème, ce complexe moderne offre un hôtel haut de gamme avec chambres spacieuses et des prestations premium. Il y en aura pour tous les goûts ! > Ponient Marinada 4★ ⭐4,1/5 sur Google ⭐7,8/10 sur Booking ⭐3,6/5 sur TripAdvisor > Ponient Dorada Palace 4★ ⭐4,2/5 sur Google ⭐7,6/10 sur Booking ⭐3,9/5 sur TripAdvisor ❖ Exemple de séjour (plusieurs dates sont disponibles avec des variations de prix) ❖ Pourquoi c'est une bonne offre ? Voyage Privé : 225 € Site officiel PortAventura World, au Ponient Marinada : 284 € Économie : 59 € ❖ Plus de détails Il règne une atmosphère effrayante dans ce parc d'attractions !— PortAventura World se transforme complètement pour devenir un parc à thème terriblement amusant où personnages et spectacles uniques vous feront frissonner, vous et vos proches. Du 19 septembre au 15 novembre , vous pourrez découvrir des passages secrets et des décors uniques, et prendre des photos avec une sorcière ou d’autres créatures terrifiantes dans le parc. [shortcode id=\"20619129\"/]",
-    "price": 225.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/halloween-a-portaventura-3j2n-en-hotel-4-a-salou-demi-pension-billets-portaventura-ferrari-land-1-jour-11250eurp-octobre-3431655",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iBoH0/3431655_1/re/1200x1200/qt/90/3431655_1.jpg",
-    "detected_at": "2026-10-13T11:14:02+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 225.0,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie Externe MagSafe UGREEN MagFlow Air Qi2 - 10000mAh, 25W (Vendeur tiers)",
-    "description": "66,49€ - Amazon Batterie externe compatible MagSafe avec une bonne capacité et une puissance qi de 25w À propos de ce produit [ Design Ultrafin & Portable ] Cette batterie externe ultra-fine ne mesure que 1,39 cm d'épaisseur. Son design ultra-léger et compact en fait le compagnon idéal pour les voyages, les déplacements professionnels et les trajets quotidiens. [ Charge sans Fil Rapide Qi2 25W ] Cette batterie externe MagSafe est dotée de la technologie de charge sans fil ultra-rapide 25W certifiée Qi2 et est compatible avec iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max, les séries iPhone 16/ 15/ 14/ 13/ 12 (tous les modèles sauf iPhone 16e). *Veuillez utiliser un étui MagSafe ou retirer tout étui. [ 10000mAh & Charge Rapide 45W ] Cette power bank dispose d'une grande capacité de 10000 mAh, ce qui permet de charger votre iPhone 17 Air environ 2,22 fois. Également équipé d'un câble de charge rapide USB C 45W, il permet de charger iPhone 17 Pro Max à 65 % en 30 minutes. [ Multiples Protections ] Grâce à une cellule ATL haute densité et 13 couches de protection, cette batterie externe magnétique détecte automatiquement la puissance requise par chaque appareil pour une charge stable et sûre. [ Design Ergonomique Supérieur ] La zone de charge est fabriquée en silicone souple et agréable au toucher, tandis que les panneaux latéraux en métal rehaussent l'aspect haut de gamme de l'ensemble. Cela offre non seulement une prise en main confortable, mais aussi une charge agréable. Spécifications Marque: UGREEN Couleur: Gris Tension: 12 Volts, 20 Volts Poids de l'article: 217 Grammes Ampérage: 3 A Dimensions du produit: 11,2L x 7l x 1,4Ép centimètres Nombre de ports: 2 Nombre d'unités: 1.0 unité Portable: Oui Appareils compatibles: Compatible avec iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max, les séries iPhone 16/ 15/ 14/ 13/ 12 (tous les modèles sauf iPhone 16e) Voir plus Intensité du courant: 3 A appareils compatibles: Compatible avec iPhone 18 Pro/ iPhone 18 Pro Max/ iPhone 17/ iPhone 17 Air/ iPhone 17 Pro/ iPhone 17 Pro Max, les séries iPhone 16/ 15/ 14/ 13/ 12 (tous les modèles sauf iPhone 16e) Norme de recharge sans fil: MagSafe, Qi2.2 wattage en sortie: 45 Watts Dimensions de l'article L x l x Épaisseur: 11,2L x 7l x 1,4Ép centimètres Unité de comptage: 1.0 unité Dimensions de l’article: 18 x 10 x 2,5 centimètres Numéro du modèle: PB579 nombre d'articles: 1 pays d'origine: Chine fabriquant: Ugreen Group Limited Nombre de piles: 1 9 V - incluse(s) numéro de pièce: 16884 Description de la garantie: 2 ans constructeur Classement des meilleures ventes d'Amazon: 4808 en High-Tech (Voir les 100 premiers en High-Tech) 154 en Blocs d'alimentation portatifs pour téléphone portable ASIN: B0HD6NDJC8",
-    "price": 66.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/batterie-externe-magsafe-10000mah-ugreen-magflow-air-qi2-25w-by-3431653",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/0pJnx/3431653_1/re/1200x1200/qt/90/3431653_1.jpg",
-    "detected_at": "2026-10-13T11:10:57+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 66.49,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Boîtier PC Moyen Tour Corsair 3200D RS ARGB - 3 Ventilateurs 120mm",
-    "description": "48,12€ - Amazon.es Les options de refroidissement puissantes comprennent de la place pour 9 ventilateurs de 120 mm avec 3 ventilateurs RS120 ARGB inclus pour un ventilateur de carte mère et un contrôle de l'éclairage faciles et un flux d'air continu dans tout le châssis Le 3200D a été conçu pour une construction facile avec de nombreux emplacements d'attache de câble, un gainage intégré pour cacher les câbles, un support de carte mère à connection inversée et un connecteur unique pour les câbles avant, ce qui facilite la construction du 3200D Le 3200D RS ARGB est entièrement compatible avec les cartes mères à connection inversée, comprend un bras de stabilisation GPU Anti-affaissement intégré pour prendre en charge les cartes graphiques très lourdes et offre un port USB de type C sur le panneau E/S frontal facilement accessible Radiateur de 360 mm monté sur le dessus – Refroidissez les processeurs les plus puissants avec un radiateur de 360 mm monté sur le dessus pour un refroidissement efficace du système Il y a suffisamment d'espace dans le haut du boîtier pour monter du matériel de refroidissement liquide, avec des options allant d'un radiateur de 360 mm, 280 mm ou même 240 mm, de sorte que vous avez beaucoup d'options quand il s'agit de refroidir même les processeurs les plus puissants",
-    "price": 48.12,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/corsair-3200d-rs-argb-boitier-pc-moyen-tour-3-ventilateurs-120-mm-inclus-3431650",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gcgwf/3431650_1/re/1200x1200/qt/90/3431650_1.jpg",
-    "detected_at": "2026-10-13T11:10:10+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 48.12,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Fauteuil à Bascule Scandinave Lorens - Bois d'Hévéa et Bouclette",
-    "description": "112,50€ - Sweeek Autres coloris et tissu : https://www.sweeek.fr/product/fauteuil-a-bascule-design-en-bois-et-tissu-1-place-rocking-chair-scandinave-1 Notre collection Lorens allie un design épuré, élégant et naturel. Sa belle et solide structure en bois arrondi est recouverte d’une assise épaisse et confortable. Nous avons sélectionné avec soin des tissus et des coloris qui viendront apporter une touche scandinave à votre intérieur. Un fauteuil bouclette pour un confort à l’état pur Ce fauteuil aux lignes arrondies est une invitation au cocooning. Avec son revêtement bouclette tout doux, effet laine de mouton, vous n'aurez qu'une envie, vous blottir dans ce petit cocon. Son dossier et son assise profonde et ferme contribueront grandement à votre confort. Avec ses pieds à bascule, profitez de son doux balancement pour un moment de détente parfait. Sa structure en bois solide est chaleureuse et son coloris naturel apporte un côté épuré et zen à votre intérieur. Un coussin rectangulaire conçu dans la même matière vient compléter l’ensemble. Ce fauteuil trouvera facilement sa place dans votre salon ou dans la chambre de votre enfant. Informations complémentaires Le petit coussin est déhoussable. Conseils d'entretien Nettoyage professionnel recommandé Bois : Dépoussiérer régulièrement avec un chiffon propre, doux et sec. Dimension des cartons Carton 1: L 83 x l 75 x h 38 cm - 17.35 kg",
-    "price": 112.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/fauteuil-a-bascule-scandinave-lorens-bois-dhevea-et-bouclette-3431652",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/SliXV/3431652_1/re/1200x1200/qt/90/3431652_1.jpg",
-    "detected_at": "2026-10-13T11:08:17+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 112.5,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
       }
     ]
   }
