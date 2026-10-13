@@ -1,5 +1,23 @@
 [
   {
+    "title": "SEVERIN Machine à expresso New... ou deux tasses, Inox, KA 5997",
+    "price": 89.99,
+    "reference_price": 99.99,
+    "discount_percent": 10.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DVLNLFC2",
+    "image_url": "https://m.media-amazon.com/images/P/B0DVLNLFC2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 01:10:44",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-13T01:10:48.819149+00:00"
+      }
+    ]
+  },
+  {
     "title": "Gillette Venus Lot De 4 Rechar...mes Conçus Pour Corps Et Poils",
     "price": 10.94,
     "reference_price": 16.95,
@@ -2230,6 +2248,53 @@
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
       }
     ]
+  },
+  {
+    "title": "Like a Dragon: Infinite Wealth sur Xbox One & Xbox Series X (version US/CA)",
+    "description": "11,11€ - Amazon UNE AVENTURE INTENSE ET ÉPIQUE Deux héros hors du commun réunis par un coup du sort, ou peut-être par quelque chose de plus sinistre... Ichiban Kasuga, un outsider inarrêtable qui a toujours su remonter la pente, et Kazuma Kiryu, un homme brisé qui vit ses derniers jours. DE L'ACTION RPG DE PREMIER ORDRE Découvrez des combats uniques en leur genre avec des batailles RPG dynamiques et rapides, où le champ de bataille devient votre arme et où tous les coups sont permis. Adaptez les compétences de votre groupe à la situation grâce à des jobs et à des personnalisations extravagants pour terrasser stratégiquement vos ennemis à l'aide de mouvements délirants. UNE AVENTURE SANS FIN Menez la belle vie au Japon et explorez tout ce qu'Hawaï a à offrir Trailers sur Xbox : [shortcode id=\"20619107\"/] [shortcode id=\"20619108\"/] [shortcode id=\"20619109\"/] [shortcode id=\"20619110\"/]",
+    "price": 11.11,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/like-a-dragon-infinite-wealth-sur-xbox-one-xbox-series-x-version-usca-3431382",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/7dsVV/3431382_1/re/1200x1200/qt/90/3431382_1.jpg",
+    "detected_at": "2026-10-13T01:07:22+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "price_history": [
+      {
+        "price": 11.11,
+        "observed_at": "2026-10-13T01:10:48.819149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SEVERIN Machine à expresso New... ou deux tasses, Inox, KA 5997",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0DVLNLFC2",
+    "image_url": "https://m.media-amazon.com/images/P/B0DVLNLFC2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T00:58:05+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
+  },
+  {
+    "title": "Veet EXPERT - 16 Bandes de Cir...faite - Epilation Longue Durée",
+    "description": "Useful URLs: Amazon.com , camelcamelcamel.com",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "fr.camelcamelcamel.com/top_drops/feed",
+    "url": "https://fr.camelcamelcamel.com/product/B0BS3WG468",
+    "image_url": "https://m.media-amazon.com/images/P/B0BS3WG468.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13T00:52:28+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "price_history": []
   },
   {
     "title": "MSI Pro B850M-A WiFi PZ Carte ...ATX à connecteurs arrière, AM5",
@@ -10115,63 +10180,6 @@
     "price_history": [
       {
         "price": 49.59,
-        "observed_at": "2026-10-12T14:45:29.366098+00:00"
-      }
-    ]
-  },
-  {
-    "title": "JOYFURNOS Banc de rangement - 38 x 76 x 38 cm - Rose ou vert",
-    "description": "14,99€ - JoyBuy > Livraison 3,99€ Spécifications du produit Taille du produit : 38 x 76 x 38 cm (P x L x H) Poids du produit : 5,6 kg Capacité de charge du produit : 300 kg Volume : 89 L Couleur : vert Matériaux : panneau MDF, tissu façon lin, mousse de haute résilience 25D Contenu du colis 1 x banc de rangement Remarques Avant de vous asseoir, veuillez bien recouvrir le pouf avec son couvercle. Évitez de mettre des objets surdimensionnés dans le pouf.",
-    "price": 14.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/joyfurnos-banc-de-rangement-38-x-76-x-38-cm-rose-ou-vert-3431101",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZSpEr/3431101_1/re/1200x1200/qt/90/3431101_1.jpg",
-    "detected_at": "2026-10-12T14:25:36+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-12T14:45:29.366098+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tondeuse barbe pro King C. Gillette de Braun (Vendeur tiers)",
-    "description": "29€ - Amazon Tondeuse à barbe PRO King C. Gillette : pour une précision ultime. Sa molette de précision vous offre plus de 40 hauteurs de coupe différentes, pour styliser votre barbe à l'infini Molette de précision avec plus de 40 hauteurs de coupe différentes Des lames en acier qui ne s'usent jamais Autonomie de 80 minutes avec une charge complète 1 tondeuse, 1 molette de précision, 2 sabots, pour styliser votre barbe comme vous le souhaitez Spécifications Pile(s) / Batterie(s): 1 Lithium-ion - incluse(s) Dimensions du produit (L x l x h): 11,1 x 5,6 x 22,8 cm; 270 grammes Fabricant: Procter & Gamble ASIN: B0CBK995CW Numéro du modèle de l'article: 8700216108805 Pays d'origine: France Mises à jour logicielles garanties jusqu’à: Information non disponible Utilisations recommandées pour le produit: Coiffage de la barbe, coupe Couleur: Noir/Argenté Marque: King C. Gillette Source d'alimentation: Alimenté par batterie Matériau: Acier inoxydable Caractéristique spéciale: Facile à nettoyer Dimensions de l'article L x l x H: 11,1 x 5,6 x 22,8 centimètres Matériau de la lame: Acier inoxydable Public cible: Homme Piles requises ?: Non Usages recommandés pour le produit: Coiffage de la barbe, coupe Public ciblé: Homme Nom du modèle: av2024-King C. Gillette-king c gillette rasoio elettrico barba pro selettore di precisione cura barba uomo impostazioni di lunghezza lame rasoio affilate-92d55143 Utilisations spécifiques pour le produit: Rasage à sec, coupe / coiffage Composants inclus: Brosse de nettoyage, Chargeur, Tondeuse Point fort de l’article: Rasoir à barbe avec 40 longueurs, tondeuse de 80 min. Batterie, étanche, avec lames en acier inoxydable ultra tranchantes à Unité de comptage: 1 unité Type de cheveu: Tous Code article international: 08700216108805 Nom du type du produit: Styler Coordonnées du fabricant: 163 Quai Aulagnier, 92665 Asnières Cedex, France Numéro de modèle: 8700216108805 Numéro de pièce: 8700216108805 Classement des meilleures ventes d'Amazon: 155 en Hygiène et Santé (Voir les 100 premiers en Hygiène et Santé) 3 en Tondeuses visage Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (2 762) 4,4 sur 5 étoiles Source d'energie: Alimenté par batterie Caractéristiques spéciales: Facile à nettoyer Est-ce que les batteries sont nécessaires: Non Dimensions de l’article: 11,1 x 5,6 x 22,8 centimètres Type de matériau: Acier inoxydable Matériau de la Lame: Acier inoxydable Commentaires client",
-    "price": 29.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tondeuse-barbe-pro-king-c-gillette-de-braun-3431098",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/sLn0a/3431098_1/re/1200x1200/qt/90/3431098_1.jpg",
-    "detected_at": "2026-10-12T14:24:51+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 29.0,
-        "observed_at": "2026-10-12T14:45:29.366098+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Abonnement 12 mois à Proton Unlimited (Dématérialisé)",
-    "description": "109,12€ - Proton Abonnement Proton Unlimited (1 an) : 109,12 € (TVA incluse) ~ 9,09 € / mois Abonnement Proton Unlimited (2 ans) : 191,76 € (TVA incluse) ~ 7,99 € / mois 500 Go de stockage chiffré partagé (répartis entre Mail et Drive) Proton Mail : Messagerie chiffrée de bout en bout complète (15 adresses e-mail personnalisées, prise en charge de jusqu'à 3 domaines personnalisés, dossiers/libellés illimités, prise en charge de Mail Bridge pour IMAP/SMTP) Proton Calendar : Gestion d'agenda chiffrée, personnelle et partagée Proton Drive : Stockage cloud hautement sécurisé avec chiffrement de bout en bout, historique des versions et partage de fichiers Proton VPN : VPN rapide et performant avec accès à plus de 100 pays, jusqu'à 10 connexions simultanées, bloqueur de publicités NetShield, prise en charge du P2P/torrent et du streaming Proton Pass : Gestionnaire de mots de passe premium avec alias illimités « Masquer mon e-mail », authentificateur 2FA intégré, alias de domaine personnalisés, accès d'urgence et coffres-forts supplémentaires Proton Wallet : Portefeuille de cryptomonnaies sécurisé et auto-hébergé, conçu avec un chiffrement de bout en bout Passez à la devise USD ($) lors du paiement pour profiter des taux de change et réaliser des économies supplémentaires ! Vous pouvez économiser environ 13 % au taux de change actuel.",
-    "price": 109.12,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/abonnement-12-mois-a-proton-unlimited-dematerialise-3431097",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1oD1k/3431097_1/re/1200x1200/qt/90/3431097_1.jpg",
-    "detected_at": "2026-10-12T14:22:37+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "price_history": [
-      {
-        "price": 109.12,
         "observed_at": "2026-10-12T14:45:29.366098+00:00"
       }
     ]
