@@ -954,6 +954,11 @@ categories.forEach(card => card.addEventListener("click", () => {
   document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth"});
   renderOffers();
 }));
+const initialSearch = new URLSearchParams(window.location.search).get("search");
+if (initialSearch) {
+  search.value = initialSearch;
+  dealSearch.value = initialSearch;
+}
 updateCategories();
 loadTelegramBotInfo();
 loadOffers();
