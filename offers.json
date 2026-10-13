@@ -1,5 +1,105 @@
 [
   {
+    "title": "Siemens 5TE6800 – Base schuko dIN vDE 0620 – 1 16 a 230 VAC",
+    "price": 15.05,
+    "reference_price": 25.89,
+    "discount_percent": 41.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000UWCTYS",
+    "image_url": "https://m.media-amazon.com/images/P/B000UWCTYS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 15:55:04",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 15.05,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wera 05005901001 8740 A VDE HF...is à six pans creux, 4 x 45 mm",
+    "price": 17.54,
+    "reference_price": 28.9,
+    "discount_percent": 39.31,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F7HX9VFH",
+    "image_url": "https://m.media-amazon.com/images/P/B0F7HX9VFH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 15:55:03",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 17.54,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS TOOLS Douille de guidage M8 x 1,0 152.1643",
+    "price": 12.06,
+    "reference_price": 27.14,
+    "discount_percent": 55.56,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07FXWRFV5",
+    "image_url": "https://m.media-amazon.com/images/P/B07FXWRFV5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 15:55:02",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.06,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Technisat DigitRadio 51 anthracite",
+    "price": 69.0,
+    "reference_price": 77.68,
+    "discount_percent": 11.17,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00HRWP2MK",
+    "image_url": "https://m.media-amazon.com/images/P/B00HRWP2MK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 15:55:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 69.0,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tefal - Bouilloire Thermo Prot... Froides - 1,5 L - Inox - Noir",
+    "price": 29.99,
+    "reference_price": 34.99,
+    "discount_percent": 14.29,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DXQ9SZBQ",
+    "image_url": "https://m.media-amazon.com/images/P/B0DXQ9SZBQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 15:54:59",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
     "title": "Lenovo Sacoche de transport po...) Sac à dos décontracté, noir.",
     "price": 21.99,
     "reference_price": 29.94,
@@ -971,7 +1071,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T15:36:45.536280+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 11.56,
@@ -991,7 +1091,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T15:36:45.536280+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 6.06,
@@ -1071,7 +1171,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 118.49,
@@ -1091,7 +1191,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 16.6,
@@ -1111,7 +1211,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 8.56,
@@ -1171,7 +1271,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T15:36:45.536280+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 14.24,
@@ -1191,7 +1291,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 31.49,
@@ -3303,7 +3403,7 @@
     "title": "PHOTOCORRECTION [MAKE UP] crema SPF50+ #03 10 gr",
     "price": 17.65,
     "reference_price": 29.85,
-    "discount_percent": 40.87,
+    "discount_percent": 40.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09XFK22BN",
     "image_url": "https://m.media-amazon.com/images/P/B09XFK22BN.01._AC_SL1500_.jpg",
@@ -3311,7 +3411,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 17.65,
@@ -3323,7 +3423,7 @@
     "title": "Chicco Set de 2 Biberons Perfe...aquet économique, 2 m+, Garçon",
     "price": 18.99,
     "reference_price": 32.49,
-    "discount_percent": 41.55,
+    "discount_percent": 41.6,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0B59YMS26",
     "image_url": "https://m.media-amazon.com/images/P/B0B59YMS26.01._AC_SL1500_.jpg",
@@ -3331,7 +3431,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 18.99,
@@ -3343,7 +3443,7 @@
     "title": "EISL et3800sev universel réservoir Soupape d'admission",
     "price": 19.52,
     "reference_price": 37.29,
-    "discount_percent": 47.65,
+    "discount_percent": 47.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B075QGBTD2",
     "image_url": "https://m.media-amazon.com/images/P/B075QGBTD2.01._AC_SL1500_.jpg",
@@ -3351,7 +3451,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 19.52,
@@ -3363,7 +3463,7 @@
     "title": "The INKEY List Oat Cleansing B...le Cleanser for Sensitive Skin",
     "price": 12.94,
     "reference_price": 18.0,
-    "discount_percent": 28.11,
+    "discount_percent": 28.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0H3TW7MXP",
     "image_url": "https://m.media-amazon.com/images/P/B0H3TW7MXP.01._AC_SL1500_.jpg",
@@ -3371,7 +3471,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 12.94,
@@ -3383,7 +3483,7 @@
     "title": "Medela recueil-lait en silicon...llaitement quotidien 101044201",
     "price": 12.9,
     "reference_price": 19.9,
-    "discount_percent": 35.18,
+    "discount_percent": 35.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0B8T7B91S",
     "image_url": "https://m.media-amazon.com/images/P/B0B8T7B91S.01._AC_SL1500_.jpg",
@@ -3391,7 +3491,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 12.9,
@@ -3403,7 +3503,7 @@
     "title": "SteelSeries Arctis Nova Pro Xb...2 - Xbox, PC, PS5, PS4, Switch",
     "price": 149.99,
     "reference_price": 219.0,
-    "discount_percent": 31.51,
+    "discount_percent": 31.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09ZLS5L29",
     "image_url": "https://m.media-amazon.com/images/P/B09ZLS5L29.01._AC_SL1500_.jpg",
@@ -3411,7 +3511,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 149.99,
@@ -3423,7 +3523,7 @@
     "title": "Physicians Formula, Murumuru B...igments Uniformisants, Bronzer",
     "price": 12.5,
     "reference_price": 18.95,
-    "discount_percent": 34.04,
+    "discount_percent": 34.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0BQC3Q5ZK",
     "image_url": "https://m.media-amazon.com/images/P/B0BQC3Q5ZK.01._AC_SL1500_.jpg",
@@ -3431,7 +3531,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 12.5,
@@ -3451,7 +3551,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 5.99,
@@ -3463,7 +3563,7 @@
     "title": "Kobo Étui SleepCover pour Clar...il | Support intégré à 2 Voies",
     "price": 23.74,
     "reference_price": 29.95,
-    "discount_percent": 20.73,
+    "discount_percent": 20.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D1KP8B32",
     "image_url": "https://m.media-amazon.com/images/P/B0D1KP8B32.01._AC_SL1500_.jpg",
@@ -3471,7 +3571,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 23.74,
@@ -3483,7 +3583,7 @@
     "title": "Logitech G G840 Gaming Mouse Pad XL",
     "price": 25.43,
     "reference_price": 36.92,
-    "discount_percent": 31.12,
+    "discount_percent": 31.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07W6JPVPF",
     "image_url": "https://m.media-amazon.com/images/P/B07W6JPVPF.01._AC_SL1500_.jpg",
@@ -3491,7 +3591,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
     "price_history": [
       {
         "price": 25.43,
@@ -3536,6 +3636,10 @@
       {
         "price": 58.79,
         "observed_at": "2026-10-12T15:43:27.201935+00:00"
+      },
+      {
+        "price": 58.79,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
       }
     ]
   },
@@ -4136,6 +4240,127 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "2 packs avantage Neo achetés parmi une sélection = 1 pack offert Lungo.",
+    "description": "Dolce Gusto Profitez de notre nouvelle offre et faites le plein de café. Recevez jusqu’à 3 packs Avantage NEO Espresso x72 capsules offerts Profitez de notre nouvelle offre et faites le plein de café. Recevez jusqu’à 3 packs Avantage NEO Lungo (18 boîtes) 2+1 NEO Lungo 2 Packs Avantage NEO au choix = 1 Pack Avantage NEO Lungo (6 boîtes) OFFERT 4 Packs Avantage NEO au choix = 2 Packs Avantage NEO Lungo (12 boîtes) OFFERTS 6 Packs Avantage NEO au choix = 3 Packs Avantage NEO Lungo (18 boîtes) OFFERTS Bénéficiez dès maintenant d’1 pack Avantage NEO Lungo offert dès 2 packs achetés ! GRAND CHOIX de cafés et boissons (highfive)",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/2-packs-avantage-neo-achetes-parmi-une-selection-1-pack-offert-lungo-3431827",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CNZhG/3431827_1/re/1200x1200/qt/90/3431827_1.jpg",
+    "detected_at": "2026-10-13T15:51:15+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": []
+  },
+  {
+    "title": "Ecran Pc 27 \" AOC Q27G4SDR - QHD, QD-OLED 360 Hz, HDR True Black 400, Adaptive-Sync/G-SYNC Compatible",
+    "description": "429,95€ - Rue du Commerce Le moniteur AOC Q27G4SDR transforme vos sessions en avantage décisif grâce à sa dalle QD-OLED 26,5\" et sa définition QHD 2.5K (2560 x 1440) . En jeu compétitif, profitez d’une image précise, riche en détails et d’une lecture instantanée de l’action. Sur un RPG ou un film, le rendu gagne en profondeur avec des noirs naturellement intenses et des couleurs nuancées. Pour les amateurs de fluidité, la fréquence 360 Hz associée au temps de réponse 0.03 ms (gris à gris) aide à conserver des mouvements nets, même lors des rotations rapides. Lancez une partie classée, enchaînez les flick shots ou suivez une trajectoire à haute vitesse : l’affichage reste stable et réactif. La compatibilité Adaptive-Sync / G-SYNC Compatible réduit les saccades et les déchirures pour une expérience plus régulière. Conçu pour s’intégrer à votre setup, ce modèle propose une connectique polyvalente avec DisplayPort et HDMI pour PC et consoles. En usage quotidien, appréciez un poste de travail confortable : le pied réglable avec pivot facilite l’alignement de l’écran, que vous montiez un stream, retouchiez une image ou alterniez bureautique et divertissement. La certification DisplayHDR True Black 400 renforce les scènes sombres avec un contraste saisissant. Caractéristiques principales : Modèle : AOC Q27G4SDR Taille d’écran : 26,5\" Définition : 2560 x 1440 (2.5K / QHD) Format : 16/9 Type de dalle : QD-OLED Taux de rafraîchissement : 360 Hz Temps de réponse : 0.03 ms (gris à gris) Synchronisation : Adaptive-Sync / G-SYNC Compatible HDR : DisplayHDR True Black 400 Connectique : DisplayPort / HDMI",
+    "price": 429.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-aoc-q27g4sdr-qhd-qd-oled-360-hz-hdr-true-black-400-adaptive-syncg-sync-compatible-3431828",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5naWg/3431828_1/re/1200x1200/qt/90/3431828_1.jpg",
+    "detected_at": "2026-10-13T15:50:16+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 429.95,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Macif] TV 65\" Sony OLED Bravia 6 - 2026, 120Hz, 4K",
+    "description": "1 349,10€ - Sony Pour les non macif vous pouvez utilisé ce code de 7% (RAD7-249S-KBB9-7SW2-4WT5) Il y a 7% de cashback avec igraal aussi À retenir de la TV SONY K-65A62 TV OLED Diagonale : 164 cm (65\") TV Ultra HD (4K) : 3840 x 2160 Fluidité : Dalle 100/120Hz • VRR 120Hz Traitement spécial : HDR (HDR10, HDR HLG, Dolby Vision) Système Audio 2.0 de 20 W RMS Tuner : TNT • Satellite • Câble Smart TV : Google TV • Wi-Fi • Bluetooth • Enregistreur • Lecteur multimédia Série / Design : BRAVIA 6 / Border Less Classe énergie : F | F (HDR)",
+    "price": 1349.1,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/macif-tv-65-sony-oled-bravia-6-2026-120hz-3431825",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vAYW8/3431825_1/re/1200x1200/qt/90/3431825_1.jpg",
+    "detected_at": "2026-10-13T15:44:57+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1349.1,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Totally Reliable Delivery Service sur PC (Dématérialisé - Steam)",
+    "description": "1,47€ - Steam Petit prix pour un jeu parfait pour une soirée entre potes. Comptez 2 à 3 soirées pour en faire le tour. Le jeu n’a pas de grandes prétentions et ne vaut clairement pas 14,99 €, mais à 1,47 €, c’est un très bon rapport prix/fun pour 2/3 soirées. Compatible PC & Mac Jusqu'à 4 joueurs Description du jeu: Totally Reliable Delivery Service est une simulation catastrophique de livraisons de colis au moteur ragdoll. Travaillez ensemble pour manipuler des machines bizarres ou des gadgets utiles, et faites parler les merveilles de la physique pour assurer la livraison des colis à leur destination. Gameplay: [shortcode id=\"20619142\"/] Configuration minimal SYSTÈME D'EXPLOITATION *: Windows 7 ou plus récent PROCESSEUR : Intel Core i5 2500K ou équivalent MÉMOIRE VIVE : 4 GB de mémoire GRAPHIQUES : GTX 560, Radeon HD 5870 ou plus récent DIRECTX : Version 11 ESPACE DISQUE : 4 GB d'espace disque disponible",
+    "price": 1.47,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/totally-reliable-delivery-service-sur-pc-dematerialise-3431824",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/svJZu/3431824_1/re/1200x1200/qt/90/3431824_1.jpg",
+    "detected_at": "2026-10-13T15:44:04+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.47,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Riz Thaï Hom Mali 1 Kg",
+    "description": "1€ - JoyBuy Riz thaï Hom Mali de la marque X.O. en paquet de 1 kg disponible au prix de 1 € sur Joybuy. I| s'aqit d'une variété de riz thaïlandais de qualité supérieure, réputée pour ses grains longs et fins, son parfum délicat qui rappelle le jasmin ou le pandan, et sa texture tendre qui reste moelleuse",
+    "price": 1.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/riz-thai-hom-mali-1-kg-3431823",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1PJVA/3431823_1/re/1200x1200/qt/90/3431823_1.jpg",
+    "detected_at": "2026-10-13T15:43:46+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1.0,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chargeur de Voiture ESR Magsafe 15W avec Support Telephone Voiture (Vendeur tiers)",
+    "description": "19,79€ - Amazon ESR Support Telephone Voiture Magsafe 15W Chargeur Induction Voiture. Économisez 45% au moment de passer la commande. À propos de cet article: Compatibilité : iPhone 12 à 18, Samsung Galaxy S25/S26 et Google Pixel 10 (selon modèle), avec coque magnétique. Non compatible Motorola et OnePlus. Charge rapide et sécurisée : MagSafe 15 W pour iPhone. Chargeur USB-C de 20 W minimum recommandé. Fixation magnétique puissante : maintien jusqu’à 1 600 g, avec ventouse réutilisable pour tableau de bord ou pare-brise et angle réglable. Navigation pratique : rotation portrait/paysage pour une meilleure visibilité pendant la conduite. Garantie et assistance : protection de 12 mois et service client complet. À propos de ce produit Compatibilité : uniquement pour iPhone 18 Pro/Pro Max/Duo/17/Air/17e et 16/15/14/13/12 Series, Galaxy S26 Ultra/S26 +/S26/S25 Ultra/S25+/S25 avec un étui magnétique; Google Pixel 10/10 Pro/10 Pro XL; pour une charge optimale, utilisez le câble fourni avec un chargeur USB-C vers C ≥ 20 W ; recommandé en combinaison avec des étuis officiels ou magnétiques ESR ; non compatible avec les téléphones Motorola, Oneplus Charge rapide certifiée : la charge MagSafe 15 W pour iPhone, vous offre une charge plus sûre et plus fiable à des vitesses plus rapides Fixation magnétique sécurisée : un puissant anneau d'aimants avec une force de maintien de 1 600 g maintient votre téléphone bien en place, même sur des routes cahoteuses ; une coque MagSafe officiel ou une coque magnétique ESR est recommandé pour les terrains accidentés Montez à votre façon : se monte en toute sécurité sur votre tableau de bord ou votre pare-brise avec une ventouse réutilisable et une rotule librement réglable qui vous permet de trouver l'angle le plus confortable Prêt pour la navigation : basculez entre portrait et paysage pour une navigation facile Service client complet : vidéos d'installation détaillées, FAQ, plan de protection complet de 12 mois, support illimité et aide individuelle Commentaires client",
+    "price": 19.79,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chargeur-de-voiture-esr-magsafe-15w-avec-support-telephone-voiture-vendeur-tiers-3431821",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/JWD1i/3431821_1/re/1200x1200/qt/90/3431821_1.jpg",
+    "detected_at": "2026-10-13T15:40:16+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.79,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
       }
     ]
   },
@@ -10329,174 +10554,6 @@
       {
         "price": 7.99,
         "observed_at": "2026-10-13T07:12:33.878873+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Garmin Forerunner 265",
-    "description": "224€ - AliExpress Garmin Forerunner 265 version CN. Prix AE 253€ - 29€ avec le code.",
-    "price": 224.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/garmin-forerunner-265-3431475",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/K2qFO/3431475_1/re/1200x1200/qt/90/3431475_1.jpg",
-    "detected_at": "2026-10-13T07:09:14+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 224.0,
-        "observed_at": "2026-10-13T07:12:33.878873+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures de football Nike Zoom Vapor 16 Academy - Rouge (du 42.5 au 44)",
-    "description": "14,99€ - PickSport Petit prix ! :) Description : Les chaussures de football pour homme NIKE ZOOM VAPOR 16 ACADEMY FG/MG apportent une vitesse explosive, de la précision et un toucher de balle de premier ordre sur le terrain. Conçues avec une tige NikeSkin spécialement structurée, elles permettent un contrôle du ballon encore meilleur à grande vitesse et lors des dribbles. L’unité Air Zoom intégrée au talon assure un amorti réactif, restituant une énergie supplémentaire lors des accélérations et des changements de direction rapides. La coupe anatomique enveloppe le pied en toute sécurité pour un maintien optimal, tandis que le profil de crampons polyvalent FG/MG garantit une traction et une stabilité fiables aussi bien sur pelouse naturelle que sur terrains en gazon synthétique. Marque : Nike Matière : synthétique, textile Couleur : rouge, rose, vert Adaptées pour pelouse naturelle ferme FG et plusieurs surfaces MG Tige NikeSkin pour une sensation de football proche du pied nu Motif de traction ondulé pour une adhérence fiable Combinaison de crampons Chevron et Blade pour faciliter les changements de direction rapides NEUF, étiquette & boîte d’origine Tailles : 42.5 / 43 / 44 / 47",
-    "price": 14.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-de-football-nike-zoom-vapor-16-academy-rouge-du-425-au-44-3431474",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5jnQF/3431474_1/re/1200x1200/qt/90/3431474_1.jpg",
-    "detected_at": "2026-10-13T07:08:09+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T07:12:33.878873+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot De 5 Voitures Hot Wheels - Échelle 1:64, Modèle aléatoire",
-    "description": "7,85€ - Amazon Chaque commande comprend un article de la gamme. Le modèle que vous recevrez sera sélectionné au hasard et pourra différer des images présentées. Chaque coffret comprend cinq véhicules Hot Wheels. De nombreux véhicules à collectionner et à échanger à tes amis. Chaque coffret de 5 permet de démarrer ou de compléter une collection ! Des véhicules classiques à l'échelle 1:64, avec des détails très réalistes et des décorations soignées. Le cadeau idéal pour les enfants et les collectionneurs ! Certains coffrets de 5 véhicules contiennent des voitures des mini-collections HW Basic Singles !",
-    "price": 7.85,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/hot-wheels-coffret-de-5-voitures-et-camions-jouets-styles-varies-3431472",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/VlaAW/3431472_1/re/1200x1200/qt/90/3431472_1.jpg",
-    "detected_at": "2026-10-13T07:06:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 7.85,
-        "observed_at": "2026-10-13T07:12:33.878873+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Sacs à Main Christian Lacroix - Ex : Sac à Main Haussmann 100% Cuir - Plusieurs Coloris",
-    "description": "74,99€ - Veepee Livraison estimée : entre le 06/11 et le 13/11 Les 6 autres coloris sont à 79.99€ au lieu de 299€. Cuir de veau Ruga Pochette avant en Cocco Balo Fermeture avec rabat Bandoulière amovible 4 pieds de protection Doublure imprimée signée CXL by Christian Lacroix Composition 100% cuir de veau Doublure : 80% polyester et 20% coton Fabriqué en Italie",
-    "price": 79.99,
-    "reference_price": 299.0,
-    "discount_percent": 73.2,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-sacs-christian-lacroix-ex-sac-a-main-haussmann-100-cuir-plusieurs-coloris-3431470",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YA8DR/3431470_1/re/1200x1200/qt/90/3431470_1.jpg",
-    "detected_at": "2026-10-13T06:52:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-13T07:12:33.878873+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hotel 3 Etoiles Las Vegas 13/nuits - Downtown Grand Las Vegas - 25/10 au 15/11",
-    "description": "13€ 8,6/10 avis Petite déjeuner non compris",
-    "price": 13.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/hotel-3-etoiles-las-vegas-13nuits-downtown-grand-las-vegas-2510-au-1511-3431469",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3GOAa/3431469_1/re/1200x1200/qt/90/3431469_1.jpg",
-    "detected_at": "2026-10-13T06:51:47+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 13.0,
-        "observed_at": "2026-10-13T06:54:34.057150+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Kit Solaire plug and play 1000",
-    "description": "335,30€ 2 panneaux 500W Bifaciaux 1 Micro-onduleur 1000W - Wifi Intégré - Garantie 10 ans 1 kit de câblage prêt à brancher 1 rallonge de 5m sécurisée - 2,5mm2",
-    "price": 335.3,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/kit-solaire-plug-and-play-1000-3431468",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/lltXN/3431468_1/re/1200x1200/qt/90/3431468_1.jpg",
-    "detected_at": "2026-10-13T06:51:39+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 335.3,
-        "observed_at": "2026-10-13T06:54:34.057150+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Poupée barbie ballerine",
-    "description": "9€ - Amazon Barbie Poupée Ballerine Lumières Scintillantes Cheveux blonds et fonction lumineuse, diadème royal, tutu rose",
-    "price": 9.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/poupee-barbie-ballerine-3431467",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3zF9N/3431467_1/re/1200x1200/qt/90/3431467_1.jpg",
-    "detected_at": "2026-10-13T06:51:17+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 9.0,
-        "observed_at": "2026-10-13T06:54:34.057150+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Paquet de 32 rouleaux de papier hygiénique confort Lotus (26+6 offerts)",
-    "description": "8,58€ - Intermarché Offre valable du 20/10/2026 au 01/11/2026",
-    "price": 8.58,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/paquet-de-32-rouleaux-de-papier-hygienique-confort-lotus-266-offerts-3431466",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Gh568/3431466_1/re/1200x1200/qt/90/3431466_1.jpg",
-    "detected_at": "2026-10-13T06:51:07+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 8.58,
-        "observed_at": "2026-10-13T06:54:34.057150+00:00"
       }
     ]
   }
