@@ -1391,7 +1391,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 5.4,
@@ -1411,7 +1411,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:41:15.118270+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 11.95,
@@ -1451,7 +1451,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:47:35.365311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 16.81,
@@ -1471,7 +1471,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:47:35.365311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 16.08,
@@ -1491,7 +1491,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:47:35.365311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 16.99,
@@ -1511,7 +1511,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T08:47:35.365311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 5.76,
@@ -2796,6 +2796,111 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Play doh coffret tourbillon de smoothies",
+    "description": "8,99€ COFFRET DE PÂTE À MODELER POUR ENFANTS : on appuie sur le couvercle du mélangeur pour mélanger les ingrédients ensemble et créer des smoothies factices multicolores, pour un jeu de cuisine qui occupera pendant des heures DES TOURBILLONS ET DES SMOOTHIES COLORÉS : on peut imaginer toutes sortes d'ingrédients. On peut créer des avocats roses, des bananes bleues et des cubes de glace verts ! Un jouet de cuisine rigolo avec plein de couleurs à découvrir UNE ACTIVITÉ MANUELLE AVEC DES CRÉATIONS LOUFOQUES ET AMUSANTES : de la crème fouettée factice jaune et verte ? Pourquoi pas ! Laissez vos enfants exprimer leur créativité avec toute une gamme de couleurs IDÉAL POUR LES JEUX IMAGINATIFS ENTRE AMIS OU AVEC LA FAMILLE : les enfants peuvent faire semblant de gérer leur propre bar à smoothies en versant le contenu dans des tasses et partager leurs créations avec des amis. UNE INITIATION À L'ART DÈS LE PLUS JEUNE ÂGE : disponible à parti de 3 ans, les garçons et les filles pourront faire une activité manuelle ludique et apprendront à s'amuser tout en créant et en expérimentant avec les couleurs",
+    "price": 8.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/play-doh-coffret-tourbillon-de-smoothies-3431536",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OuAKZ/3431536_1/re/1200x1200/qt/90/3431536_1.jpg",
+    "detected_at": "2026-10-13T08:47:59+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T08:50:08.725157+00:00",
+    "price_history": [
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-13T08:50:15.387360+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Nouveaux clients] 80€ offerts en ouvrant un compte jusqu'au 23/10",
+    "description": "LCL [Nouveaux clients] 80€ offerts en ouvrant un compte jusqu'au 23/10/2026 Du 15 septembre au 23 octobre 2026, ouvrez votre compte sur l’appli LCL Mes Comptes et souscrivez au service de mobilité interbancaire(3) pour bénéficier de 80€ offerts. (1) Pour souscrire à l’offre de bienvenue, le prospect doit être une personne physique majeure capable, résidente fiscale française et ne pas être client ou avoir été client LCL. Offre valable jusqu’au 23/10/2026. Conditions en vigueur au 15/09/2026 susceptibles d’évolution. (2) La prime de bienvenue est de 80€ pour une ouverture de compte sur l’appli LCL Mes Comptes avec la souscription au service de mobilité bancaire. La demande de mobilité bancaire doit être signée dans le mois qui suit l'ouverture de compte. La prime sera créditée sur le compte du nouveau client sous 4 mois après l’entrée en relation.",
+    "price": 80.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-80eur-offerts-en-ouvrant-un-compte-jusquau-2310-3431535",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dkCSX/3431535_1/re/1200x1200/qt/90/3431535_1.jpg",
+    "detected_at": "2026-10-13T08:47:49+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T08:50:08.725157+00:00",
+    "price_history": [
+      {
+        "price": 80.0,
+        "observed_at": "2026-10-13T08:50:15.387360+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coffret de 25 embouts de vissage DeWalt Toughcase DT71521-QZ - PZ2, 25mm x 25",
+    "description": "5€ - Amazon Petit boîtier solide et ergonomique. Les embouts de tournevis sont de très bonne qualité. Particulièrement adapté aux tâches de vissage répétitives. Trépan durci pour plus de solidité et de durabilité. Embouts à usage professionnel idéaux pour insérer des fixations dans le bois, le métal, le plastique et les cloisons sèches. Embouts 25mm: PZ2 x 25.",
+    "price": 5.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coffret-de-25-embouts-de-vissage-dewalt-toughcase-dt71521-qz-pz2-25mm-x-25-3431534",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Z5lX5/3431534_1/re/1200x1200/qt/90/3431534_1.jpg",
+    "detected_at": "2026-10-13T08:44:54+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T08:50:08.725157+00:00",
+    "price_history": [
+      {
+        "price": 5.0,
+        "observed_at": "2026-10-13T08:50:15.387360+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu The Crew Motorfest sur Switch 2",
+    "description": "39,99€ - Cdiscount The Crew Motorfest débarque sur Nintendo Switch 2 avec son expérience de course en monde ouvert, dans un décor inspiré des îles hawaïennes. Au programme : exploration des îles d'O'ahu, Maui et Kauai, courses urbaines, épreuves tout-terrain, drift et nombreuses playlists thématiques autour de la culture automobile. Le jeu permet de collectionner et personnaliser des centaines de véhicules, avec des activités renouvelées au fil des saisons. Informations : - Plateforme : Nintendo Switch 2 - Genre : course automobile en monde ouvert - Format : carte clé de jeu - Sortie : 8 octobre 2026 - PEGI 12 - Jouable en mode portable, sur table ou sur téléviseur ⚠️ À savoir avant d'acheter : le jeu nécessite une connexion Internet permanente et un compte Ubisoft. La carte clé de jeu nécessite également de télécharger le jeu, qui occupe environ 58,5 Go. Un abonnement Nintendo Switch Online est nécessaire pour les fonctionnalités multijoueur en ligne. À 39,99 €, le tarif est intéressant pour une nouveauté, mais pensez à vérifier les frais de livraison Cdiscount avant de valider. Le même prix est disponible livraison incluse chez certains concurrents.",
+    "price": 39.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-the-crew-motorfest-sur-switch-2-3431533",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OLtf7/3431533_1/re/1200x1200/qt/90/3431533_1.jpg",
+    "detected_at": "2026-10-13T08:44:52+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-13T08:50:15.387360+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de Société Dobble Asmodee Disney",
+    "description": "12,50€ - Amazon PRINCIPE DU JEU : Dobble Disney est un jeu de société où l'objectif principal est de repérer rapidement des symboles identiques entre deux cartes. Chaque carte du jeu présente une série de symboles des univers Disney et Pixar, et il n'y a qu'un seul symbole commun entre deux cartes données. RAPIDITE ET OBSERVATION : Le jeu stimule plusieurs compétences chez les joueurs, notamment la rapidité d'observation, la concentration et les réflexes. En cherchant les symboles communs, les joueurs améliorent leur capacité à identifier des correspondances rapidement. UNIVERS DISNEY ET PIXAR : Ce jeu propose des illustrations basées sur les personnages et les films populaires de Disney, ce qui le rend particulièrement attrayant pour les enfants et les fans de Disney. Les joueurs peuvent ainsi retrouver des figures emblématiques comme Mickey Mouse, Stitch, La Petite Sirène et bien d'autres. UN JEU RAPIDE ET FACILE A APPRENDRE : Dobble Disney est facile à apprendre et à jouer, ce qui le rend accessible à un large public, y compris les jeunes enfants. Les règles sont simples et le jeu peut être expliqué en quelques minutes, permettant des parties rapides et dynamiques. PLUSIEUR VARIANTES DE JEU : Le jeu propose plusieurs variantes de jeu, ajoutant de la diversité et de la rejouabilité. Par exemple, les joueurs peuvent choisir entre des modes comme la Tour Infernale, le Puits, ou encore le Chaudron, chacun offrant une façon différente de jouer et de gagner.",
+    "price": 12.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/asmodee-dobble-disney-3431532",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fIvUn/3431532_1/re/1200x1200/qt/90/3431532_1.jpg",
+    "detected_at": "2026-10-13T08:44:16+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 12.5,
+        "observed_at": "2026-10-13T08:50:15.387360+00:00"
       }
     ]
   },
