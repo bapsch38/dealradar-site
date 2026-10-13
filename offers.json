@@ -1,5 +1,125 @@
 [
   {
+    "title": "TRENDnet Adaptateur réseau PCI...r, Linux, NBase-T, TEG-10GECTX",
+    "price": 94.78,
+    "reference_price": 199.94,
+    "discount_percent": 52.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01N5AOWW6",
+    "image_url": "https://m.media-amazon.com/images/P/B01N5AOWW6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 16:28:39",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 94.78,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DIGITUS Galets de roulement - ...par galet - matériau plastique",
+    "price": 40.99,
+    "reference_price": 45.99,
+    "discount_percent": 10.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0169RZKYS",
+    "image_url": "https://m.media-amazon.com/images/P/B0169RZKYS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 16:28:37",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 40.99,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "kwb by Einhell Powerbox Lot de...tes pour perceuse à percussion",
+    "price": 21.95,
+    "reference_price": 28.27,
+    "discount_percent": 22.36,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08LGZV6VP",
+    "image_url": "https://m.media-amazon.com/images/P/B08LGZV6VP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 16:28:35",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 21.95,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "RIPOLIN Peinture pour Fer Exté...ntirouille Gris Anthracite 2 L",
+    "price": 55.99,
+    "reference_price": 64.99,
+    "discount_percent": 13.85,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07XC5TBV5",
+    "image_url": "https://m.media-amazon.com/images/P/B07XC5TBV5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 16:28:31",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 55.99,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ledlenser K6R Lampe porte-clés...mens avec lumière rouge (gris)",
+    "price": 28.57,
+    "reference_price": 34.53,
+    "discount_percent": 17.26,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B095GW13CT",
+    "image_url": "https://m.media-amazon.com/images/P/B095GW13CT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 16:28:27",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 28.57,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TFA Horloge à Date Radio pilotée Time Max",
+    "price": 36.09,
+    "reference_price": 43.26,
+    "discount_percent": 16.57,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B016BDO5J6",
+    "image_url": "https://m.media-amazon.com/images/P/B016BDO5J6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-13 16:28:24",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 36.09,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
     "title": "Technaxx Zusatzkamera Easy Security Camera Set TX-28 schwar",
     "price": 56.99,
     "reference_price": 73.99,
@@ -131,7 +251,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:08:54.464624+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 21.99,
@@ -151,7 +271,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:08:54.464624+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 29.32,
@@ -2383,7 +2503,7 @@
     "title": "Papo- Coffret Fille 1er âge, 35006",
     "price": 14.03,
     "reference_price": 23.64,
-    "discount_percent": 40.65,
+    "discount_percent": 40.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B079TTWN71",
     "image_url": "https://m.media-amazon.com/images/P/B079TTWN71.01._AC_SL1500_.jpg",
@@ -2391,7 +2511,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 14.03,
@@ -2403,7 +2523,7 @@
     "title": "Manhattan Poudre libre mate 1 20 g",
     "price": 5.9,
     "reference_price": 14.27,
-    "discount_percent": 58.65,
+    "discount_percent": 58.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B009OYQJ6C",
     "image_url": "https://m.media-amazon.com/images/P/B009OYQJ6C.01._AC_SL1500_.jpg",
@@ -2411,7 +2531,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 5.9,
@@ -2423,7 +2543,7 @@
     "title": "Zygomatic | Dobble : XXL | Jeu...s | 2 à 8 Joueurs | 15 Minutes",
     "price": 9.99,
     "reference_price": 24.5,
-    "discount_percent": 59.22,
+    "discount_percent": 59.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DV9XQ7CP",
     "image_url": "https://m.media-amazon.com/images/P/B0DV9XQ7CP.01._AC_SL1500_.jpg",
@@ -2431,7 +2551,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 9.99,
@@ -2443,7 +2563,7 @@
     "title": "Matagot - Asmodee - Kites - Je...0 Ans - 2 à 6 Joueurs - 10 Min",
     "price": 13.19,
     "reference_price": 25.0,
-    "discount_percent": 47.24,
+    "discount_percent": 47.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0BZJQWNZ9",
     "image_url": "https://m.media-amazon.com/images/P/B0BZJQWNZ9.01._AC_SL1500_.jpg",
@@ -2451,7 +2571,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 13.19,
@@ -2463,7 +2583,7 @@
     "title": "Call to Arms & Angels",
     "price": 11.0,
     "reference_price": 24.0,
-    "discount_percent": 54.17,
+    "discount_percent": 54.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09L1QJCQK",
     "image_url": "https://m.media-amazon.com/images/P/B09L1QJCQK.01._AC_SL1500_.jpg",
@@ -2471,7 +2591,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 11.0,
@@ -2491,7 +2611,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 15.12,
@@ -2503,7 +2623,7 @@
     "title": "Connex Lot de 242 crochets à v...sation universelle - DP8500110",
     "price": 12.37,
     "reference_price": 19.62,
-    "discount_percent": 36.95,
+    "discount_percent": 37.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B085WP6BNV",
     "image_url": "https://m.media-amazon.com/images/P/B085WP6BNV.01._AC_SL1500_.jpg",
@@ -2511,7 +2631,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 12.37,
@@ -2523,7 +2643,7 @@
     "title": "LEDVANCE SMART+ Wi-Fi - Lampe ...radable, 2700 à 6500K réglable",
     "price": 38.62,
     "reference_price": 64.03,
-    "discount_percent": 39.68,
+    "discount_percent": 39.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09F345WS1",
     "image_url": "https://m.media-amazon.com/images/P/B09F345WS1.01._AC_SL1500_.jpg",
@@ -2531,7 +2651,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 38.62,
@@ -2543,7 +2663,7 @@
     "title": "Blue Print ADG02543 Filtre d'habitacle",
     "price": 6.59,
     "reference_price": 16.25,
-    "discount_percent": 59.45,
+    "discount_percent": 59.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00B8VLJ5K",
     "image_url": "https://m.media-amazon.com/images/P/B00B8VLJ5K.01._AC_SL1500_.jpg",
@@ -2551,7 +2671,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 6.59,
@@ -2563,7 +2683,7 @@
     "title": "DJI ROMO A Robot aspirateur Laveur",
     "price": 749.0,
     "reference_price": 849.0,
-    "discount_percent": 11.78,
+    "discount_percent": 11.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0FPRCXJMB",
     "image_url": "https://m.media-amazon.com/images/P/B0FPRCXJMB.01._AC_SL1500_.jpg",
@@ -2571,7 +2691,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-13T16:29:35.177415+00:00",
     "price_history": [
       {
         "price": 749.0,
@@ -4272,6 +4392,216 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Maison de poupée interactive Gabby et la Maison Magique 60 cm - Figurine et 16 accessoires (Occasion comme neuf)",
+    "description": "22,15€ - Amazon Maison de poupée interactive Gabby et la Maison Magique (édition inspirée du film) par Spin Master, d'une hauteur de plus de 60 cm, avec figurine de Gabby et 16 accessoires de jeu. Cette maison géante interactive intègre des yeux à écran LCD avec plus de 60 expressions animées, un ascenseur fonctionnel (Cat-a-vator) pour naviguer entre les différents étages thématiques, ainsi que 6 modes de jeu interactifs comprenant des effets sonores, des musiques officielles et des mini-jeux activables via les boutons magiques. Caractéristiques techniques : • Fabricant & licence : Spin Master sous licence officielle DreamWorks Gabby's Dollhouse (Gabby et la Maison Magique). • Dimensions : grande maison de poupée de plus de 60 cm de hauteur avec multiples niveaux et pièces meublées. • Éléments interactifs : yeux animés à technologie LCD réagissant aux actions des enfants, nez interactif déclencheur de mélodies et sons du film. • Ascenseur coulissant : monte-charge central permettant de déplacer les figurines d'étage en étage. • Contenu du coffret : 1 maison interactive, 1 figurine exclusive Gabby, 7 meubles, 5 accessoires décoratifs, boîtes surprises avec QR code à scanner pour l'application officielle et planches d'autocollants. • Connectivité Meow-Tech : compatible avec les figurines interactives de la gamme pour débloquer des interactions sonores supplémentaires. • Âge conseillé : dès 3 ans. Expédié par Amazon avec la livraison gratuite dès 35 € d'achat (ou sans minimum pour les abonnés Prime).",
+    "price": 22.15,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/maison-de-poupee-interactive-gabby-et-la-maison-magique-60-cm-figurine-et-16-accessoires-occasion-comme-neuf-3431845",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/kTmuR/3431845_1/re/1200x1200/qt/90/3431845_1.jpg",
+    "detected_at": "2026-10-13T16:27:25+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 22.15,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Scie pliable Fiskars avec une lame de 21cm et un poids contenu de 130g",
+    "description": "24,22€ - Amazon Fiskars Plus Scie Pliable, pour Troncs et Branches épais 3 positions de Coupe, Lame Power Tooth tranchante, Denture grossière, Longueur de la lame : 21 cm, Noir/Orange, SW69, 1067553 Scie pliable (longueur de lame : 21 cm) pour des coupes rapides et nettes dans les troncs et les branches épaisses 3 positions de coupe : Sous-coupe pour des coupes initiales nettes, coupe droite pour les coupes générales et poignée pistolet pour un effet de levier supplémentaire Lame Power Tooth très tranchante avec triple affûtage des dents (7 TPI), mécanisme de verrouillage sûr de la lame Poignée ergonomique avec points de contact SoftGrip pour une prise en main antidérapante. changement de lame facile grâce à une vis, lame de scie de rechange disponible séparément (art. n° 1067555) Contenu: 1x Fiskars Plus Scie pliable, 3 positions de coupe, lame Power Tooth, denture grossière, longueur de la lame : 21 cm, noir/orange, SW69, 1067553 La livraison gratuite pour les abonnés Prime. Pour les non abonnés Prime : 6,99eu",
+    "price": 24.22,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/scie-pliable-fiskars-avec-une-lame-de-21cm-et-un-poids-contenu-de-130g-3431844",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FBpRC/3431844_1/re/1200x1200/qt/90/3431844_1.jpg",
+    "detected_at": "2026-10-13T16:23:08+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.22,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coffret de 5 Mini-Figurines Just Play - Minnie Mouse, Disney Junior",
+    "description": "9,99€ - Amazon Les fans de Disney Minnie Mouse de tous âges adoreront ce set de 5 figurines miniatures Disney Junior Minnie Mouse à collection. Ces adorables figurines représentent 5 personnages familiers de la série animée Disney Junior Minnie’s Bow-Toons : Minnie Mouse dans 3 looks différents, Daisy Duck et Figaro. Mesurant entre 1,7 et 2,7 pouces, ces amis joyeux ont la taille parfaite pour les petites mains des enfants d’âge préscolaire et stimuleront l’imagination pour un jeu créatif. Excellent ajout à toute collection ou ensemble de jeux Disney Minnie Mouse, ces mini-figurines font aussi de jolis cadeaux pour la fête. Pour les enfants de 3 ans et plus.",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/just-play-coffret-de-5-mini-figurines-minnie-mouse-disney-junior-3431842",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gY7Bq/3431842_1/re/1200x1200/qt/90/3431842_1.jpg",
+    "detected_at": "2026-10-13T16:22:08+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Escape Academy sur Xbox One, Series X/S & PC (dématérialisé)",
+    "description": "3,99€ - Xbox Store Vous venez d'arriver à l'Escape Academy, une école où des élèves prometteurs apprennent l'art de l'évasion. Découvrez plus de douze salles conçues avec soin par des experts des escape games réels. Escape Academy est entièrement jouable en solo ou à deux grâce au mode coop sur écran séparé, que ce soit en local ou en ligne. Explorez le campus de l'Escape Academy, et faites la connaissance de professeurs plus pittoresques les uns que les autres et tous experts de l'art de l'évasion. Mais attention, certains d'entre eux cachent des secrets... Savourez la musique et le design audio du seul et unique doseone (Gang Beasts, SLUDGE LIFE, Disc Room, Enter the Gungeon). Prenez la route avec l'entraîneur Yoach dans Escape Academy: Tournament of Puzzles ! Affrontez vos amis en duel dans une série de casse-têtes compétitifs qui vous emmèneront tout autour du globe. Cette nouvelle mise à jour majeure comprend trois grandes arènes, trois nouveaux modes de jeu, des bonus, des succès supplémentaires et une flopée de nouveaux casse-têtes. Faites chauffer vos neurones dans d'immenses arènes rejouables, dotées de passages secrets et chemins alternatifs. Tombeau du premier expert en évasion - En plein cœur de l'Égypte, berceau de l'art de l'évasion, déjouez les mystères d'une tombe truffée de passages secrets. Attention à ne pas devenir l'un de ses résidents permanents ! Conserverie des hackers - Une conserverie de poisson métamorphosée en QG de cyberpirates. À cheval entre les thèmes de la technologie et du monde aquatique, cette jetée battue par la pluie regorge d'énigmes improbables. Studio du spectacle - Mesdames, messieurs, il est l'heure de succomber à la folie du casse-tête ! Le plus grand théâtre des environs vous propose une myriade de défis magiques. Course à l'évasion - Résolvez des énigmes avant vos amis dans cette course débridée. Morpion - Un grand classique revisité dans lequel vous devrez débloquer les X et les O avant de pouvoir les placer ! Chasse au trésor - Cherchez des trophées... et la solution à d'épineux casse-têtes. Et ce n'est pas tout : Tournament of Puzzles propose aussi de nouveaux bonus déjantés ! Posez des pièges pour déconcentrer vos adversaires, ou utilisez la fonction d'aide pour prendre l'avantage et remporter la victoire. Vous préférez vous creuser le ciboulot en solo ? Pas de problème ! L'entraîneur Yoach se fera une joie de vous laisser affronter seul les différents défis proposés. L'entraînement est la clé du succès ! Et tout ceci n'est qu'une petite partie des surprises loufoques (et parfois fatales) qui attendent quiconque osera se frotter à Escape Academy: Tournament of Puzzles. Alors, qu'attendez-vous ? Échauffez-vous les méninges pour essayer de résoudre nos énigmes !",
+    "price": 3.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/escape-academy-xbox-play-anywhere-3431840",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/JmEN8/3431840_1/re/1200x1200/qt/90/3431840_1.jpg",
+    "detected_at": "2026-10-13T16:19:23+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 3.99,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TV 55\" LG OLED evo AI OLED55C64LA - 4k UHD, Dalle 120Hz • VRR 165Hz, HDR10, Dolby Vision Dolby, Atmos",
+    "description": "1 189€ - PcComponentes TV OLED evo C6 pour une qualité d'image supérieure Découvrez la nouvelle génération de téléviseurs LG OLED evo C6. Grâce à la technologie Brightness Booster, chaque scène gagne en éclat pour des images encore plus lumineuses et immersives. Au cœur de l’expérience, le processeur alpha 11 AI 4K Gen3 optimise chaque détail avec une précision remarquable, offrant un rendu net et naturel. Profitez d’un contraste saisissant porté par le noir absolu propre à la technologie OLED, qui préserve toute la profondeur des images, même dans les environnements les plus lumineux. La certification de couleur parfaite garantit quant à elle un volume colorimétrique et une fidélité des couleurs à 100 %, pour des nuances riches et authentiques. Pensé pour exceller dans toutes les situations, le LG OLED evo C6 assure une qualité d’image constante, aussi bien dans une pièce baignée de lumière que dans l’obscurité, pour une expérience visuelle toujours spectaculaire. Grâce à son design ultra fin avec des bords incroyablement fins, ce téléviseur trouvera incontestablement sa place dans votre salon. Pensé pour durer, ce téléviseur restera à jour avec ses mises à niveau garantis sur 5 ans avec le Re:New Program webOS. Enfin, l'OLED evo C6 vous plonge au coeur d'un spectacle sensationnel alimenté par vos incroyables films et jeux, tous sublimés grâce au Dolby Atmos et Dolby Vision, VRR, G-Sync et FreeSync. des noirs parfaits et des couleurs fidèles Ce téléviseur LG OLED evo C6 est certifié \"Perfect Black\" par UL. Cela signifie que ce téléviseur affiche un noir absolu, faisant ressortir les couleurs qui composent l’image pour des contrastes infinis, et ce de jour comme de nuit. En effet, Les millions de pixels auto-émissifs qui composent ce téléviseur LG OLED sont capables de s’éteindre complètement afin de créer du noir. Développé par LG spécialement pour les téléviseurs LG OLED, le processeur Alpha 11 AI 4K Gen3 avec Double Moteur IA est le cerveau du téléviseur. L’Intelligence Artificielle intégrée au processeur le rend puissant et sublime votre expérience. Il est capable d'optimiser les qualités d’image et de son pour une immersion intense. Grâce à Dynamic Tone Mapping Pro, le HDR est plus éclatant que jamais. Un résultat incroyable et immersif. Les formats Dolby Vision et HDR10 Pro sont compatibles sur ce téléviseur LG pour le meilleur de vos films. un son adapté à vos goûts Côté son, l'immersion est complète. Découvrez la synergie ultime entre les TV et les barres de son LG. Avec WOW Interface contrôlez votre barre de son depuis votre TV. Avec WOW Orchestra, les haut-parleurs du TV et de la barre de son LG fonctionnent en même temps pour renforcer l’immersion. Avec WOWCAST intégré, profitez d’une excellente qualité sonore immersive, sans fil. Le système audio 2.2 de 40 Watts détecte la disposition de votre pièce et l’endroit où vous êtes assis pour créer un dôme sonore autour de vous, parfaitement adapté à l’acoustique unique de votre pièce. Laissez l’action vous envelopper avec une clarté inégalée, des détails complexes et une grande profondeur spatiale grâce au Dolby Atmos. Et enfin découvrez un son surround virtuel 11.1.2 avec Alpha 11 AI Sound Pro et l'ajustement automatique du son. Pour des jeux au rendu parfait Débarrassez-vous des accrocs et des lags dans vos jeux vidéo et vivez des parties inoubliables. La TV LG OLEDC6 à dalle native 120 Hz vous assure un un temps de réponse de 0.1 ms. Compatible Dolby Vision Gaming, il est équipé de 4 connecteurs HDMI 2.1 avec prise en charge 4K/120fps, des fonctions VRR (taux de rafraîchissement variable jusqu'à 165 Hz), ALLM (mode faible latence automatique), de l’AMD FreeSync, de la compatibilité G-Sync et d'un port eARC (canal de retour audio amélioré). En outre, ce modèle dispose d'un mode gaming HDR immersif (HGiG) et du mode Game Optimizer. Ce dernier rassemble les paramètres de jeu dans un menu dédié pour ajuster facilement vos préférences. Enfin, profitez d’une latence ultra-f",
+    "price": 1189.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tv-55-lg-oled-evo-ai-oled55c64la-4k-uhd-dalle-120hz-vrr-165hz-hdr10-dolby-vision-dolby-atmos-3431839",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/e1tfL/3431839_1/re/1200x1200/qt/90/3431839_1.jpg",
+    "detected_at": "2026-10-13T16:17:25+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1189.0,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures de Running homme Nike Zoom Fly 6 Glam, Bleu/Vert",
+    "description": "88,90€ - Privé by Zalando Détails des Chaussures Running Nike Zoom Fly 6 Glam : Conçue pour : Course sur route Distance de course : Entraînement à la course ou speed runs Poids : environ 265 g (pointure 44 pour homme) Drop : 8 mm Motifs réfléchissants",
+    "price": 88.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-running-nike-zoom-fly-6-glam-bleuvert-homme-3431838",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ItB8L/3431838_1/re/1200x1200/qt/90/3431838_1.jpg",
+    "detected_at": "2026-10-13T16:17:22+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 88.9,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 4 sprays nettoyant Salle de bain Cillit Bang 1L",
+    "description": "8,93€ - Amazon Via prévoyez et économisez Les informations ci-dessous s'appliquent à chaque unité du pack ÉLIMINE 100 % DU CALCAIRE : Formule ultra efficace contre le calcaire, les traces d'eau et les dépôts tenaces pour des surfaces propres et visiblement plus brillantes PROPRETÉ QUI DURE JUSQU'À 4 FOIS PLUS LONGTEMPS : Élimine les traces de savon et résidus incrustés, laissant une surface nette, sans traces, avec une brillance longue durée UTILISATION SALLE DE BAIN ET CUISINE : Efficace sur douches, lavabos, baignoires, éviers, robinets, WC, carrelage et murs carrelés – une solution polyvalente pour toute la maison NETTOYAGE HYGIÉNIQUE : Aide à éliminer jusqu'à 99,9 % des bactéries pour un nettoyage efficace et une sensation de propreté durable PISTOLET SPRAY 1L – ACTION RAPIDE : Pulvérisez, laissez agir quelques minutes puis essuyez : un nettoyage puissant et rapide, avec un parfum frais et agréable FORMULE SURPUISSANTE ANTI-ROUILLE : Élimine efficacement la crasse, les traces de savon et la rouille pour redonner éclat et propreté à vos surfaces sanitaires",
+    "price": 8.93,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-4-sprays-nettoyant-salle-de-bain-cillit-bang-1l-3431836",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/UCmJh/3431836_1/re/1200x1200/qt/90/3431836_1.jpg",
+    "detected_at": "2026-10-13T16:10:34+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.93,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coffret de construction Mattel Brick Shop Hot Wheels - corvette grand sport, 918 pièces",
+    "description": "29,80€ - Amazon Une baisse de prix pour les intéressés : https://keepa.com/#!product/4-B0DQXGDSFG Construisez la légendaire voiture de course : la Corvette Grand Sport à l’échelle 1/16 aux nombreux détails réalistes à construire entièrement Personnalisez votre véhicule : contient des pièces supplémentaires, des enjoliveurs en métal et des autocollants pour transformer votre véhicule Voiture en métal exclusive et plaque signature en métal : contient une voiture en métal à l’échelle 1/64 assortie et une plaque signature, disponibles en exclusivité dans les coffrets Mattel Brick Shop La Grand Sport arbore des détails authentiques : les ailes authentiques, les pots d’échappement métalliques et le capot qui s’ouvre et se ferme confèrent encore plus d’authenticité au modèle Compatible avec d’autres marques : les pièces sont compatibles avec tous les coffrets de construction Mattel Brick Shop et d’autres grandes marques Fonctionnalités clés : Réplique à construire de la Corvette Grand Sport 918 pièces et de nombreux détails réalistes Capot ouvrant, pots d'échappement en métal, ailes fidèles au modèle d'origine Enjoliveurs métalliques, pièces personnalisables et feuille d'autocollants incluse Véhicule en métal moulé avec plaque signature exclusive Compatible avec les autres coffrets de construction Mattel Brick Shop et de grandes marques Contenu : 1x voiture en métal, 1x voiture à monter de 918x pièces, 1x feuille d'autocollant Échelle de la voiture en métal : 1/64 Échelle de la voiture à construire : 1/16 Description du fabricant Personnalisez votre véhicule : contient des pièces supplémentaires, des enjoliveurs en métal et des autocollants pour transformer votre véhicule. Contient des pièces supplémentaires. Contient des enjoliveurs métalliques American Racing et des pneus \"Wide Oval\" Firestone. Construction aisée. Nos briques sont fabriquées en résine lisse pour un assemblage facile. Nos manuels de jeu comprennent de grandes images et nos briques sont emballées par étape pour une construction facile à suivre. Contient des pièces métalliques. La plaque signature et les enjoliveurs sont en métal pour un rendu encore plus réaliste. Spécifications Marque: Mattel Tranche d'âge (description): Enfant Couleur: blanc - Corvette Thème: Véhicule Dimensions de l'article L x l x H: 27,7 x 12,2 x 7,8 centimètres Matériau: Plastique Saisons: Toutes saisons Composants inclus: 918 pièces, 1 feuille d’autocollants et 1 voiture en métal Poids de l'article: 1,61 livres Taille: Moyen Description de la tranche d’âge: Enfant Nom du modèle: Corvette Grand Sport Type de kit d'artisanat: Construction de modèles UPC: 194735320592 Code article international: 00194735320592 Mot-clé concernant le public ciblé: Enfants unisexes Unité de comptage: 1.0 unité Nombre d’emballages: 1 Nom de l'ensemble: Kit de construction Hot Wheels Elite '63 Corvette Grand Sport Point fort de l’article: 918 pièces, détails réalistes, décalcomanies, voiture métal 1:64, idées cadeaux adultes et enfants dès 10 ans, JGR31 Fabricant: Mattel Pays d'origine: Chine Nom du type d'article: Jeux De Construction Coordonnées du fabricant: Mattel ; service.de@mattel.com Numéro de modèle: JGR31 Numéro de pièce: JGR31 Description de la garantie: 2 ans de garantie Classement des meilleures ventes d'Amazon: 9758 en Jeux et Jouets (Voir les 100 premiers en Jeux et Jouets) 655 en Sets de jeux de construction ASIN: B0DQXGDSFG Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (1 948) 4,7 sur 5 étoiles Style: Réaliste Personnage représenté: Corvette Grand Sport Dimensions de l’article: 27,7 x 12,2 x 7,8 centimètres Nombre de pièces: 918 Type de matériau: Plastique Caractéristiques spéciales: Lightweight GTIN: 194735320592 Commentaires client",
+    "price": 29.8,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coffret-de-construction-mattel-brick-shop-hot-wheels-corvette-grand-sport-918-pieces-3431837",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CbarH/3431837_1/re/1200x1200/qt/90/3431837_1.jpg",
+    "detected_at": "2026-10-13T16:10:17+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.8,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque sans fil Logitech G733 Lightspeed - blanc, micro détachable, 278 g, RGB",
+    "description": "75,36€ - PcComponentes Le Logitech G733 blanc (981-000883) est à 75,36 € TTC chez PcComponentes, vendu et expédié directement par le marchand. Aucun code à appliquer, livraison annoncée gratuite. Prix confirmé au panier avec un seul casque, sans assurance ni accessoire ajouté. Il pèse 278 g, avec micro détachable et éclairage RGB. La connexion passe par le récepteur USB-A LIGHTSPEED fourni : ce n'est pas un casque Bluetooth pour téléphone. Logitech annonce 29 h d'autonomie sans éclairage, ou 20 h avec l'éclairage par défaut ; cela dépend de l'utilisation. Compatible PC, Mac et PlayStation 4 ou ultérieure selon Logitech. Les fonctions DTS Headphone:X 2.0, Blue VO!CE et la personnalisation RGB nécessitent G HUB ; les fonctions avancées ne sont pas disponibles sur PlayStation. Le câble USB-C vers USB-A fourni sert à la recharge ; aucun chargeur secteur n'est inclus. Pour situer le prix : un précédent deal G733 à 71,24 € sur Amazon a expiré il y a cinq jours. Ce n'est donc pas un record historique. Vérifié le 13/10/2026 à 17 h 13 (France). L'ajout au panier fonctionne, quantité réellement disponible inconnue. Aucune date/heure de fin propre à ce tarif n'a pu être confirmée. Fiche constructeur : https://www.logitechg.com/fr-fr/shop/p/g733-rgb-wireless-headset.981-000883",
+    "price": 75.36,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-gaming-sans-fil-logitech-g733-lightspeed-blanc-micro-detachable-278-g-rgb-3431835",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/07Q0T/3431835_1/re/1200x1200/qt/90/3431835_1.jpg",
+    "detected_at": "2026-10-13T16:06:46+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 75.36,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Batterie Externe AsperX USB Type C - 100W, 20000mAh (via remise au panier - vendeur tiers)",
+    "description": "48,63€ - Amazon Bénéficiez d'une réduction de 45 % avec ce coupon Charge rapide pour deux ordinateurs portables : la batterie externe AsperX, d'une puissance totale de 165 W, permet de recharger rapidement deux ordinateurs portables à forte charge simultanément (100 W + 65 W), pour une charge complète pendant les réunions ou les discussions. C'est la batterie externe mobile idéale pour les personnes actives Charge rapide bidirectionnelle USB-C 2X PD 100 W : le port/câble USB-C prend en charge une sortie PD 3.0 maximale de 100 W, chargeant votre MacBook Pro 16 à 50 % en seulement 45 minutes, avec une vitesse de charge très rapide ; le port/câble USB-C prend en charge une entrée haute puissance de 65 W, qui ne prend qu'environ 1 heure et 40 minutes pour se charger complètement, ce qui permet aux personnes occupées de gagner beaucoup de temps Câble de charge rapide intégré de 60 cm - 3 longueurs : Comparé à d'autres banques d'alimentation avec des câbles intégrés de seulement 8 à 15 cm, notre câble de charge est rallongé jusqu'à 60 cm et est réglable sur trois vitesses, ce qui rend votre distance de charge plus flexible ; De plus, le câble rétractable a été rétracté 30 000 fois et peut être retiré pour la charge et rétracté pour le stockage - pas besoin de connecter un câble séparé, ce qui est très pratique pour les voyages Grande capacité de 20 000 mAh - Conforme aux normes de l'aviation : la très grande capacité vous permet de recharger complètement vos appareils plusieurs fois pendant vos voyages : chargez les séries iPhone et Samsung Galaxy 3 à 4 fois et chargez le MacBook Air une fois ; c'est un choix idéal pour les voyages, le camping en plein air, les voyages d'affaires, l'utilisation familiale quotidienne ou l'utilisation d'urgence Écran dynamique intelligent TFT : La batterie externe AsperX est dotée d'un écran haute résolution de haute qualité qui affiche en temps réel et avec précision la capacité restante, la puissance de sortie et le temps de charge, vous permettant ainsi de toujours surveiller l'état de charge. De plus, vous pouvez régler la luminosité et la durée d'allumage (3 secondes, 3 minutes, voire en continu) selon vos besoins. Enfin, l'écran intègre un rappel de température pour éviter toute surchauffe Chargement simultané de plusieurs appareils : cette banque d'alimentation mobile dispose de 2 ports Type-C et d'un port USB, qui peuvent charger 3 appareils en même temps sans attendre ; De plus, la banque d'alimentation mobile prend également en charge le mode faible courant, qui peut charger des casques Bluetooth, des bracelets de sport, des montres intelligentes, des petits ventilateurs, etc. pour répondre à tous vos besoins quotidiens Haute performance de sécurité : Utilisant 21700 cellules de batterie de qualité automobile et une technologie de surveillance intelligente de l'IA, détection et réglage de la température en temps réel ; la coque est en alliage d'aluminium de qualité aéronautique, qui dissipe la chaleur plus rapidement pendant la charge, est résistante aux chocs et aux chutes; De plus, l'achat de la banque d'alimentation mobile AsperX est livré avec une garantie de 18 mois et un service client en ligne 24h/24 Spécifications Type de connecteur: USB Type C Marque: AsperX Capacité de la batterie: 20000 milliamp_hours Couleur: Gris Caractéristique spéciale: 1. Puissance totale de 165 W, charge rapide ; 2. Câble de charge USB-C rétractable intégré de 60 cm 3. Deux ports/câbles de charge rapide USB-C de 100 W 4. Batterie de qualité automobile, grande capacité de 20 000 mAh 5. Charge jusqu'à trois appareils simultanément 6. Écran TFT dynamique intelligent 7. Compatible avec les avions pour des voyages pratiques 8. 10 dispositifs de sécurité 9. Boîtier en alliage d'aluminium de haute qualité 10. Large compatibilité, format compact Voir plus Tension: 20 Volts Composition de la pile: Lithium-polymère Utilisations recommandées pour le produit: Caméra, Ordinateur portable, Tablette, Téléphone Source d'ali",
+    "price": 48.63,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/100w-20000mah-batterie-externe-pour-ordinateur-portable-iphone-3431834",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bw3lm/3431834_1/re/1200x1200/qt/90/3431834_1.jpg",
+    "detected_at": "2026-10-13T16:06:45+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 48.63,
+        "observed_at": "2026-10-13T16:29:37.583603+00:00"
       }
     ]
   },
@@ -10113,379 +10443,6 @@
       {
         "price": 2.39,
         "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Système Enceintes Teufel Ultima 40 Mk4 - Surround, Ensemble 5.1, Noir ou Blanc & Noir",
-    "description": "699,99€ - Teufel Promo chez Teufel pour ce home cinéma ULTIMA 40 Surround \"Ensemble 5.1 qui passe de 849 euros à 699 euros on peut rajouter un code réduction de 5 % DY5-9TR Qui baisse le prix de 35 euros ramenant le tout frais de ports compris à 719,98 euros Point forts Ce pourquoi nous aimons ce produit La nouvelle ULTIMA 40 Surround (Mk4) s’intègre harmonieusement à votre salon et offre une expérience sonore remarquable pour les séries, films, jeux vidéo et musiques du moment. Son grave puissant, développé à Berlin par Teufel, contribue à faire de cette enceinte l’une des plus appréciées en Europe. Vue d’ensemble des points forts Nouvelle génération du célèbre set home cinéma 5.1 haut de gamme pour un son surround authentique et une dynamique impressionnante pour la musique, les films et les jeux dans des pièces allant jusqu'à 35 m². Composants identiques et parfaitement assortis pour une expérience sonore immersive et une localisation précise des événements sonores. Puissant subwoofer T 10, utilisable en mode frontal ou downward, optionnellement sans fil. Système 3 voies avec deux woofers haute performance pour des niveaux élevés et sans distorsion, médium tissé en Kevlar avec phase plug, fonctionne dans une chambre séparée renforcée pour une scène sonore précise et large, centre ULTIMA avec double médium pour une excellente intelligibilité vocale. Construction bass-reflex à double tube pour des basses profondes, puissantes et précises même à faibles niveaux. Grand tweeter de 25 mm avec guide d'onde pour des aigus haute résolution et une excellente intelligibilité vocale. Extensible en set surround 7.1 et Dolby Atmos®, adaptable pour pied, étagère ou montage mural, compatible avec tous les récepteurs AV. Bois certifié FSC®, design moderne et intemporel avec façade laquée satinée et revêtements en tissu de qualité, bornes écrou de bi-câblage/bi-amplification en laiton massif.",
-    "price": 699.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/teufel-ultima-40-surround-ensemble-51-3431461",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/UZKPf/3431461_1/re/1200x1200/qt/90/3431461_1.jpg",
-    "detected_at": "2026-10-13T07:45:04+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 699.99,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Eau de Parfum Paco Rabanne Invictus Victory 100ml",
-    "description": "59,72€ - JoyBuy",
-    "price": 59.72,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/paco-rabanne-rabanne-invictus-victory-eau-de-parfum-vaporisateur-100-ml-3431501",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/g6GLF/3431501_1/re/1200x1200/qt/90/3431501_1.jpg",
-    "detected_at": "2026-10-13T07:44:17+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 59.72,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Tortues Ninja Camion Lance Pizza - Compatible Figurines 12 cm, Dès 4 Ans",
-    "description": "24,99€ - Amazon Ce camion Lance Pizza des Tortues Ninja, proposé par Amazon, est le véhicule qu'il te faut pour plonger dans l'action avec un bon vieux 'Cowabunga !' Ce camion de combat emblématique des héros à carapace permet de recréer les scènes du dessin animé et d'imaginer de nouvelles aventures en lançant des pizzas sur les méchants mutants. Son lanceur motorisé promet des heures de jeu pour les jeunes ninjas en herbe. Type : Camion de combats avec lanceur de pizza motorisé. Compatibilité : Peut accueillir jusqu'à 4 figurines Tortues Ninja de 12 cm (vendues séparément). Alimentation : Nécessite 3 piles AA (non incluses) pour le lanceur motorisé. Âge recommandé : Dès 4 ans. Contenu de la boîte : Le camion et les projectiles (piles et figurines non incluses).",
-    "price": 24.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jouet-tortues-ninja-camion-lance-pizza-compatible-figurines-12-cm-des-4-ans-3431500",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HCltr/3431500_1/re/1200x1200/qt/90/3431500_1.jpg",
-    "detected_at": "2026-10-13T07:42:33+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 24.99,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Veste à Capuche Capuche Légère Doublée Enfant Marks & Spencer - Noir 7 & 8 ans (Vendeur tiers)",
-    "description": "16,20€ - Amazon Marks & Spencer Veste à Capuche Légère Doublée Enfant, Mixte, Coupe Standard Attention ne reste pas toutes les tailles malheureusement",
-    "price": 16.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/marks-spencer-veste-a-capuche-legere-doublee-enfant-mixte-coupe-standard-3431499",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gTLUO/3431499_1/re/1200x1200/qt/90/3431499_1.jpg",
-    "detected_at": "2026-10-13T07:41:44+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 16.2,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Enceinte sans fil Marshall Acton III - avec Casque Marshall Major V",
-    "description": "249,99€ - Darty Pack enceinte avec le casque",
-    "price": 249.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pack-enceinte-sans-fil-marshall-acton-iii-casque-major-v-3431498",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/juyvY/3431498_1/re/1200x1200/qt/90/3431498_1.jpg",
-    "detected_at": "2026-10-13T07:40:20+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 249.99,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Manteau à Capuche Marks & Spencer - Matelassé, Poids Moyen, Coupe Standard, Tailles 134 ou 140 (Vendeur Tiers)",
-    "description": "19,60€ - Amazon Reste en taille 134 et 140 À propos de ce produit QUALITÉ PREMIUM: Fabriqué en tissu doux et confortable pour une sensation de qualité sur la peau COUPE & DESIGN: coupe classique, capuche ajustée pour une silhouette flatteuse CARACTÉRISTIQUES PENSÉES: fermeture éclair pratique ENTRETIEN FACILE: lavable en machine à 30°C et compatible sèche-linge – conçu pour un entretien sans effort QUALITÉ DE LA MARQUE M&S : Marks & Spencer, une marque britannique emblématique fondée en 1884, reconnue pour ses essentiels intemporels. Allie confort, durabilité et qualité. Le style classique rencontre des matériaux de haute qualité et un excellent savoir‑faire pour un usage quotidien. Spécifications Dimensions du colis: 38 x 21 x 2 cm Date de mise en ligne sur Amazon.fr: 3 juillet 2025 Fabricant: Marks and Spencer PLC ASIN: B0FGJH2R6T Numéro du modèle de l'article: T74-2663J Service: Fille Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Mode Composition du matériau: 100% Polyamide Instructions d'entretien: Lavage en machine Pays d'origine: Chine Couleur: NAVY Style: Classic Type de manches: Mancheron Motif: Uni Type de coupe: Régulière Style de col: Collarless Marque: Marks & Spencer Numéro de modèle: 000000060736130003 Description de la tranche d’âge: Kid Pays d’origine: Chine Désignation d'importation: Imported Nombre d’articles dans l'unité vendue au client: 1 Nombre d'unités: 1.0 unité Nom du type du produit: Jackets Poids de l'article: 572 Grammes Référence de pièce: 000000000060736130 Classement des meilleures ventes d'Amazon: 2044 en Mode (Voir les 100 premiers en Mode) 1 en Manteaux fille ASIN: B0FTMXK2QV Type de fermeture: Fermeture éclair Niveau d' etancheite: Non étanche Matériau: 100% polyamide (exclusive of trimmings), Lining - 100% polyester, Padding - 100% polyester Type de tissu: 100% polyamide ;Lining - 100% polyester;Padding - 100% polyester Conseils d’entretien du produit: Lavage en machine Description de la fourrure: Fur-free / No Fur (Contains no animal fur) Description de la longueur de l’article: Longueur standard",
-    "price": 19.6,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/marks-spencer-manteau-a-capuche-matelasse-poids-moyen-enfant-mixte-coupe-standard-3431497",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iU839/3431497_1/re/1200x1200/qt/90/3431497_1.jpg",
-    "detected_at": "2026-10-13T07:38:15+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 19.6,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "1 Mois de Super Duolingo gratuit (Dématérialisé)",
-    "description": "Duolingo 1 mois de super duolingo offert grâce à ce nouveau code ! Il faut passer par le lien du deal pour obtenir le mois gratuit. Duolingo est une application et un site web d’apprentissage des langues, lancés en 2011, qui propose une méthode gratuite, ludique et accessible à tous pour apprendre de nouvelles compétences linguistiques. Aujourd’hui, il s’agit de l’une des applications d’apprentissage les plus populaires au monde, avec des millions d’utilisateurs actifs. Duolingo repose sur un principe simple : transformer l’apprentissage en expérience interactive et motivante Leçons courtes et rapides (quelques minutes) Exercices variés : traduction, écoute, prononciation Système de points (XP), niveaux et récompenses Suivi de progression et séries quotidiennes L’objectif : créer une habitude d’apprentissage quotidienne sans effort. Contenu : Apprentissage de + 40 langues mathématiques musique échecs Super Duolingo est payant, et permet d'utiliser Duolingo : sans publicité avec des vies illimitées avec des fonctionnalités avancées",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/1-mois-de-super-duolingo-gratuit-dematerialise-3431496",
-    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/4328_1/re/1200x1200/qt/90/4328_1.jpg",
-    "detected_at": "2026-10-13T07:37:20+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": []
-  },
-  {
-    "title": "Frigo Combiné Samsung RB34C704DB1 - 344L, Classe D, Noir",
-    "description": "549,98€ - JoyBuy Caractéristiques principales Capacité totale de 344 L (230 L pour le réfrigérateur, 114 L pour le congélateur) avec technologie SpaceMax pour des parois fines et plus d'espace intérieur Technologie No Frost pour éviter l'accumulation de glace et éliminer le besoin de dégivrage manuel Compresseur Digital Inverter avec protection contre les coupures d'alimentation de 9 heures et fonctionnement économe en énergie Zone fraîcheur Optimal Fresh+ avec conception à double zone séparée proposant des températures différentes pour la viande, le poisson et les produits frais Humidity Fresh+ avec contrôle d'humidité réglable pour conserver les fruits et légumes frais plus longtemps Le refroidissement intégral assure une répartition uniforme de la température dans tout le réfrigérateur Le panneau arrière en métal maintient la température froide plus efficacement lorsque la porte est ouverte Fonctions Power Cool et Power Freeze pour un refroidissement et une congélation rapides Connectivité Wi-Fi avec l'application SmartThings pour une surveillance à distance et un mode d'énergie basé sur l'IA Le mode Énergie AI apprend les habitudes d'utilisation et recommande des réglages pour économiser de l'énergie La fonction de cuisson SmartThings suit les ingrédients et les dates de péremption, et suggère des recettes 3 clayettes de réfrigérateur, 3 balconnets de porte, 2 tiroirs à légumes pour un rangement flexible 3 tiroirs de congélation avec façade transparente pour un rangement facile Design noir élégant avec porte réversible pour une installation flexible Éclairage intérieur LED pour une visibilité claire Spécifications Spécification Description Type de produit Combiné réfrigérateur-congélateur en pose libre Modèle RB34C704DB1/EF Capacité totale 344 L Capacité du réfrigérateur 230 L Capacité du congélateur 114 L Position du congélateur En bas Nombre de portes 2 Charnière de porte Réversible Classe énergétique D Type de réfrigérant Inverter Technologie sans givre (No Frost) Oui Autonomie en cas de panne de courant 9 heures Fonction de refroidissement rapide Oui Power Cool Fonction de congélation rapide Oui Power Freeze Clayettes réfrigérateur 3 Compartiments de porte réfrigérateur 3 Tiroirs fraîcheur 2 Optimal Fresh+ et Humidity Fresh+ Tiroirs congélateur 3 Compartiments de porte congélateur 0 Éclairage intérieur LED Porte-bouteilles Non Distributeur d'eau Non Distributeur de glaçons Non Connectivité Wi-Fi Oui avec l'application SmartThings Fonctionnalités IA IA de base, mode Énergie IA SmartThings Cooking Oui, suggestions de recettes Dimensions du produit Largeur 59,5 cm, Hauteur 185,3 cm Couleur du produit Noir Type d'installation Pose libre, non encastrable Marque Samsung EAN 8806094990034 Adresse du fabricant PO Box 12987, Dublin, Irlande Numéro de modèle RB34C704DB1/EF Conseils d'utilisation Placez l'appareil sur une surface plane, éloignée des sources de chaleur et de la lumière directe du soleil Laissez 2 à 4 heures après l'installation avant de brancher l'appareil Connectez l'appareil et réglez la température souhaitée à l'aide des commandes Pour un refroidissement rapide des produits frais, utilisez la fonction Power Cool Pour une congélation rapide, utilisez la fonction Power Freeze Téléchargez l'application SmartThings pour une connexion Wi-Fi, un contrôle à distance et le mode Énergie AI Utilisez les tiroirs Optimal Fresh+ pour la viande et le poisson, situés sur le côté gauche du réfrigérateur Réglez l'humidité dans le tiroir Humidity Fresh+ à l'aide de la molette de contrôle pour conserver les produits frais Nettoyez régulièrement l'intérieur et le dégivrage n'est pas nécessaire grâce à la technologie No Frost Avertissement de sécurité Lisez attentivement toutes les instructions avant utilisation. Cet appareil contient du réfrigérant isobutane R600a, un gaz inflammable. Assurez-vous que le circuit de réfrigération n'est pas endommagé lors du transport et de l'installation. Gardez les ouvertures de ventilation dégagé",
-    "price": 549.98,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/frigo-combine-samsung-rb34c704db1-classe-d-noir-344-l-3431495",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DnkZJ/3431495_1/re/1200x1200/qt/90/3431495_1.jpg",
-    "detected_at": "2026-10-13T07:36:02+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 549.98,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Seau assortiment de bonbons Haribo Chauve qui peut - 800g",
-    "description": "4,89€ - Auchan Célébrez Halloween avec le seau HARIBO Halloween Mix rempli de mini-sachets de vos bonbons préférés, à offrir ou à partager ! Ce seau est en édition limitée, il est réutilisable et à collectionner ! Sans colorant artificiel. Ingrédients Ingrédients: sirop de glucose; sucre; dextrose; amidon; gélatine; acidifiants: acide citrique, acide malique; correcteurs d'acidité: malate acide de sodium, citrate monosodique; jus de fruits concentrés: pomme, orange, citron, fraise, framboise, ananas; arôme; huile de tournesol; concentrés de fruits et de plantes: carthame, spiruline, pomme, citron, carotte, radis, kiwi, orange, baie de sureau, mangue, fruit de la passion, cassis, aronie, raisin; colorants: charbon végétal, curcumine, lutéine, anthocyanes; agent d'enrobage: cire d'abeille blanche et jaune.",
-    "price": 4.89,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/seau-assortiment-de-bonbons-haribo-chauve-qui-peut-800g-3431494",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4VixN/3431494_1/re/1200x1200/qt/90/3431494_1.jpg",
-    "detected_at": "2026-10-13T07:35:24+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 4.89,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Enceinte sans fil Marshall Acton III - Bluetooth, Entrée Jack, 60W",
-    "description": "199,99€ - Fnac La Marshall Acton III associe une amplification de 60 W au Bluetooth 5.2, avec une entrée jack 3,5 mm pour brancher une source audio par câble.",
-    "price": 199.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-marshall-acton-iii-avec-entree-jack-60-w-3431492",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/BsLJR/3431492_1/re/1200x1200/qt/90/3431492_1.jpg",
-    "detected_at": "2026-10-13T07:34:53+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 199.99,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 55\" OLED 4K Ambilight 139 cm",
-    "description": "799€ - E.Leclerc Le 55OLED760/12 est un téléviseur OLED 4K avec Ambilight de 139 cm. *spécifications du produit :* - Écran OLED 4K - Taille de 139 cm (55 pouces) - Technologie Ambilight - Processeur P5 AI Perfect Picture Engine - Système d’exploitation TITAN - Dolby Vision et Dolby Atmos - HDR1 - VRR 120 Hz",
-    "price": 799.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-oled-4k-ambilight-139-cm-55-3431491",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/W2YID/3431491_1/re/1200x1200/qt/90/3431491_1.jpg",
-    "detected_at": "2026-10-13T07:34:35+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 799.0,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Matelas Gonflable Eggory - 133x76cm, Bleu, de Voiture",
-    "description": "17,99€ - JoyBuy Disponible également en blanc à 18.99€ https://www.joybuy.fr/dp/matelas-gonflable-de-voiture-bleu-lit/10501093?requestIdentity=searchCategory&ref_sku=10501093&dimExpandType1=1",
-    "price": 17.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/matelas-gonflable-de-voiture-eggory-bleu-133-x-76cm-3431490",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/PvDwG/3431490_1/re/1200x1200/qt/90/3431490_1.jpg",
-    "detected_at": "2026-10-13T07:34:00+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 17.99,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Défonceuse sans fil Bosch AdvancedTrimRouter 18V-8 - 2 en 1, vendu sans batterie, ni chargeur",
-    "description": "135,52€ - Amazon Envie de sculpter le bois avec précision et sans contraintes ? Cette défonceuse sans fil Bosch AdvancedTrimRouter 18V-8 est l'outil idéal pour tous vos travaux de bordures, rainures et motifs décoratifs. Sa conception compacte et son moteur brushless garantissent une grande maniabilité et une excellente durée de vie. Moteur : Brushless pour une puissance maximale et une longévité accrue. Vitesse : Réglable de 10 000 à 30 000 tr/min pour s'adapter à différents matériaux. Poids : 1,1 kg (sans batterie) pour une prise en main confortable. Compatibilité : Fait partie de l'alliance POWER FOR ALL 18V, permettant d'utiliser une seule batterie pour de nombreux outils Bosch et partenaires. Contenu : Livrée avec deux pinces de serrage (6 et 8 mm), un guide parallèle, un adaptateur pour l'extraction des poussières, une fraise à arrondir et une clé. Bon à savoir : Utilisation : Son design compact et léger offre une grande liberté de mouvement, idéal pour les travaux de finition délicats ou les accès difficiles. C'est un excellent choix pour les bricoleurs qui cherchent à réaliser des finitions précises sur bois, à condition d'être déjà équipé d'une batterie et d'un chargeur de l'écosystème Power For All 18V. À propos de ce produit L'AdvancedTrimRouter 18V-8 peut être convertie rapidement d'une fraise à découper à une fraise à plonger, en fonction de l'application de fraisage Puissance maximale et durée de vie nettement plus longue : grâce au moteur sans balais Consommation d'énergie intelligente : la technologie Syneon répond à la demande d'une performance et d'une endurance optimales La butée de tourelle à 7 niveaux permet un réglage précis et sans effort de toutes les profondeurs de fraisage courantes Accessoires fournis : AdvancedTrimRouter 18V-8 incl. base de coupe pour défonceuse, 1x base plongeante pour défonceuse, 1x butée parallèle, 1x support de guidage avec patin de glissement, 2x adaptateur anti-poussière, 1x goupille de centrage, 1x guide à rouleaux, 1x anneau de copie, 1x clé, 1x bague de serrage 6mm, 1x bague de serrage 8mm, 1x boîte à outils SystemBox M Commentaires client",
-    "price": 135.52,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/defonceuse-bosch-advancedtrimrouter-18v-8-sans-fil-2en1-sans-batterie-ni-chargeur-3431489",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RDAa0/3431489_1/re/1200x1200/qt/90/3431489_1.jpg",
-    "detected_at": "2026-10-13T07:33:49+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 135.52,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 5 boxers ou caleçons pour 15€",
-    "description": "15€ - Jules Lot de 5 caleçons ou bover pour 15 euros à choisir parmi la sélection. Ajoutez les 5 caleçons a votre paniers vous bénéficiez de l offre 3 achetés 2 offers",
-    "price": 15.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jules-5-boxers-ou-calecons-pour-15-euros-3431487",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XTr1p/3431487_1/re/1200x1200/qt/90/3431487_1.jpg",
-    "detected_at": "2026-10-13T07:31:58+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 15.0,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Balatro sur Android (Dématérialisé)",
-    "description": "6,49€ - Google Play De la drogue légale à un prix défiant toute concurrence (excited) Pas de promo chez la pomme pour le moment. Balatro - Launch Trailer | THE POKER ROGUELIKE Un jeu de poker roguelike. Balatro est un jeu de deckbuilding prenant où vous jouez des combinaisons de poker illégales, découvrez des jokers révolutionnaires et déclenchez des combos aussi palpitants que dévastateurs. Combinez des mains de poker avec des jokers uniques pour créer une variété de synergies et de decks. Gagnez assez de jetons pour venir à bout des mises, tout en découvrant des bonus de main et des decks secrets. Il vous faudra tous les avantages possibles pour atteindre l'ultime blind, venir à bout du dernier ante et remporter la victoire.",
-    "price": 6.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/balatro-sur-android-dematerialise-3431488",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tvTA6/3431488_1/re/1200x1200/qt/90/3431488_1.jpg",
-    "detected_at": "2026-10-13T07:30:15+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 6.49,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo de route carbone Lapierre Xelius DRS Team Replica - Shimano Dura-Ace Di2 2x12, Roues carbone Ursus 40, Tailles S à XL",
-    "description": "6 666€ - Statera Bikes Remise massive de -33 % (-3 333 €) sur le vélo phare de chez Lapierre ! Le Xelius DRS Team Replica (utilisé par l'équipe WorldTour Picnic PostNL) passe à 6 666 € au lieu de 9 999 € (prix catalogue sur le site officiel Lapierre). À noter : le revendeur affiche un prix barré de 13 000 €, mais le vrai prix public conseillé chez le constructeur est bien de 9 999 €. La remise réelle reste exceptionnelle (-3 333 €). Prix remisé : 6 666,00 € ️ Prix officiel Lapierre : 9 999,00 € (-33 %) ⚖️ Pour les connaisseurs : Pourquoi ce tarif est une opportunité rare ? Si on calcule la valeur des composants au détail : Groupe complet Shimano Dura-Ace Di2 2x12 + Capteur de puissance bilatéral : ~4 000 € à 4 200 € au détail Paire de roues carbone Ursus Proxima 40 Disc (roulements céramique, 1 410 g) : ~1 400 € Combo cockpit / guidon intégré carbone Lapierre RB167 + tige de selle aéro : ~800 € Total des périphériques seuls : > 6 200 € (ce qui signifie que le cadre carbone UD Factory Lab haut de gamme de 730 g revient quasiment à prix coûtant). Benchmark concurrence (à équipement équivalent Dura-Ace Di2 + Capteur) : Canyon (Ultimate / Aeroad CFR) : ~9 500 € - 10 000 € Specialized (S-Works Tarmac SL8 ) / Trek (Madone SLR 9) : > 13 000 € à 14 000 € ⚙️ Spécifications techniques (WorldTour) : Cadre & Fourche : Carbone UD Factory Lab ultra-léger (cadre nu à ~730 g), intégration totale, gain de 14 watts annoncé. Transmission : Full Shimano Dura-Ace Di2 2x12s sans fil (RD-R9250 / FD-R9250 / ST-R9270). Capteur de puissance : Pédalier Dura-Ace R9200 avec capteur bilatéral intégré d'origine (36-52 / 11-34). Freinage : Disques hydrauliques Shimano Dura-Ace BR-R9270 (160/140 mm). Roues & Pneus : Carbone Ursus Proxima 40 Disc Tubeless + pneus Michelin Power Cup S (28-622). Cockpit : Combo potence/guidon intégré carbone Lapierre RB167. Poids global : À partir de 7,25 kg . Un ticket d'entrée à 6,6k€ reste un budget de passionné, mais pour un vélo WorldTour complet équipé du top du top chez Shimano avec capteur et roues carbone, le rapport équipement/prix devient imbattable face à n'importe quelle marque concurrente en VPC ou en magasin. Les + : -3 333 € de baisse réelle par rapport au site Lapierre Groupe Dura-Ace Di2 avec capteur de puissance de série Poids plume (~7,25 kg) et finition écurie pro Team Replica",
-    "price": 6666.0,
-    "reference_price": 9999.0,
-    "discount_percent": 33.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/velo-de-route-carbone-lapierre-xelius-drs-team-replica-shimano-dura-ace-di2-2x12-capteur-de-puissance-roues-carbone-ursus-40-s-a-xl-3431486",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bTkIj/3431486_1/re/1200x1200/qt/90/3431486_1.jpg",
-    "detected_at": "2026-10-13T07:29:18+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 6666.0,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Double Vinyle Mano Negra - Best Of (2 LP)",
-    "description": "19,99€ - Cultura Compilation. Edition Double Vinyle Noir 140 grammes - 24 titres. Inclus tous les classiques de leur carrière. A1 Mano Negra 1:00 A2 King Kong Five 1:55 A3 Soledad 2 :3 3 A4 Mala Vida 2:51 A5 Sidi H'Bibi 3:23 A6 Rock Island Line 3:07 B1 Noche De Accion 2:46 B2 Guayaquil City 3:01 B3 Peligro 2:52 B4 Sueno De Solentiname 2:50 B5 Indios De Barcelona 2:21 B6 Mad Man's Dead 2:01 C1 Señor Ma Tanza 3:57 C2 Out Of Time Man 3:24 C3 Pas Assez De Toi 2:18 C4 King Of Bongo 3:38 C5 Ronde De Nuit 2:53 C6 Patchanka 3:06 D1 Salga La Luna 3:33 D2 Santa Maradona 3:15 D3 El Sur 0:59 D4 Long Long Nite (Inedit) 4:16 D5 On Telefon (Inedit) 1:36 D6 Darling Darling 2:00",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/double-vinyle-mano-negra-best-of-2-lp-3431484",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/PfhFg/3431484_1/re/1200x1200/qt/90/3431484_1.jpg",
-    "detected_at": "2026-10-13T07:26:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vol Aller/Retour Paris CDG > Phuket Thaïlande, Du 19 Novembre au 03 Décembre (Bagage Soute 23Kg Inclus)",
-    "description": "503€ - Lastminute",
-    "price": 503.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vol-allerretour-paris-cdg-phuket-thailande-du-19-novembre-03-decembre-bagage-soute-23kg-inclus-3431483",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ALt41/3431483_1/re/1200x1200/qt/90/3431483_1.jpg",
-    "detected_at": "2026-10-13T07:22:26+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:25:13.309973+00:00",
-    "price_history": [
-      {
-        "price": 503.0,
-        "observed_at": "2026-10-13T07:35:33.102687+00:00"
       }
     ]
   }
