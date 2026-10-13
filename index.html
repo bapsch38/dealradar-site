@@ -43,6 +43,9 @@ h1 span{color:var(--green)}
 .searchbar input{min-width:0;flex:1;background:#07111dcc;border:1px solid #39516a;border-radius:12px;padding:15px;color:white;outline:none}
 .searchbar input:focus{border-color:var(--green)}
 .searchbar button{background:var(--green);border:0;border-radius:12px;padding:0 20px;font-weight:800;cursor:pointer;color:#07131c}
+.home-quick-search{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:13px;color:var(--muted);font-size:12px}
+.home-quick-search a{border:1px solid #3a5268;background:#14283b;color:#e4edf7;border-radius:999px;padding:6px 10px;font-weight:700;transition:background .15s,border-color .15s}
+.home-quick-search a:hover{background:#183d31;border-color:var(--green);color:#d8ffea}
 .hero-note{font-size:12px;color:#9eafc4;margin-top:12px}
 .section{margin-top:42px}
 .section-head{display:flex;align-items:end;justify-content:space-between;gap:15px;margin-bottom:18px}
@@ -273,6 +276,14 @@ body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-
         <input id="search" type="search" placeholder="Rechercher une catégorie ou un produit…" aria-label="Rechercher une catégorie ou un produit">
         <button type="submit">Rechercher ↗</button>
       </form>
+      <div class="home-quick-search" aria-label="Rechercher rapidement par univers">
+        <span>Explorer :</span>
+        <a href="./offres.html?search=gaming">Gaming</a>
+        <a href="./offres.html?search=high-tech">High-tech</a>
+        <a href="./offres.html?search=maison">Maison</a>
+        <a href="./offres.html?search=bricolage">Bricolage</a>
+        <a href="./offres.html?search=animaux">Animaux</a>
+      </div>
       <div class="hero-actions">
         <a class="hero-action hero-action-primary" href="./publier.html">＋ Publier une promo ou une erreur de prix</a>
         <a class="hero-action hero-action-secondary" href="./offres.html">Explorer toutes les offres ↗</a>
@@ -944,9 +955,8 @@ async function loadOffers() {
 search.addEventListener("input", () => { currentPage = 1; updateCategories(); renderOffers(); });
 document.getElementById("search-form").addEventListener("submit", event => {
   event.preventDefault();
-  updateCategories();
-  renderOffers();
-  document.getElementById("dernieres-offres").scrollIntoView({behavior:"smooth"});
+  const query = search.value.trim();
+  window.location.href = "./offres.html" + (query ? "?search=" + encodeURIComponent(query) : "");
 });
 dealSearch.addEventListener("input", () => { currentPage = 1; renderOffers(); });
 dealSort.addEventListener("change", () => { currentPage = 1; renderOffers(); });
