@@ -1,5 +1,26 @@
 [
   {
+    "title": "C.K T49145-2 Tournevis dextro VDE MOD2 x 100",
+    "price": 14.2,
+    "reference_price": 15.99,
+    "discount_percent": 11.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B002BDNM0E",
+    "image_url": "https://m.media-amazon.com/images/P/B002BDNM0E.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 23:19:41",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.2,
+        "observed_at": "2026-10-14T23:20:52.376626+00:00"
+      }
+    ]
+  },
+  {
     "title": "Biolage, Hydra Source, Baume R...ra Bio, Formule Végane, 236 ml",
     "price": 23.17,
     "reference_price": 25.02,
@@ -11111,27 +11132,46 @@
     ]
   },
   {
-    "title": "Bebeconfort Chauffe-Biberon Di...made, Compact et Léger (280 g)",
-    "price": 32.99,
-    "reference_price": 54.9,
-    "discount_percent": 39.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DT4S1193",
-    "image_url": "https://m.media-amazon.com/images/P/B0DT4S1193.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 11:58:43",
+    "title": "Siège auto enfant Lionelo LARS (100 - 150 cm / 15 à 36 kg) – Groupe 2/3, Appui-tête réglable 6 positions",
+    "description": "39,90€ - Amazon Siège auto évolutif pour enfant Lionelo LARS (adapté aux enfants de 15 à 36 kg, soit 100 à 150 cm / Groupe 2/3). Proposé au tarif exceptionnel de 39,90 € au lieu de 64,90 € sur Amazon avec la livraison gratuite Prime. Plus bas prix historique : D'après l'historique des prix Amazon, ce siège est habituellement vendu entre 56 € et 65 € tout au long de l'année. À 39,90 € , il atteint son prix le plus bas absolu enregistré sur les 30 derniers jours et sur 1 an ! Points forts et caractéristiques techniques : • Rapport qualité/prix imbattable : Un siège auto sécurisé, confortable et évolutif pour moins de 40 €. • Sécurité renforcée (Conception Impactguard) : Structure équipée de renforts latéraux et d'une technologie d'absorption des chocs pour protéger efficacement la tête et les épaules de l'enfant en cas d'impact. • Évolutif & Ergonomique : Appui-tête réglable facilement sur 6 positions pour accompagner la croissance de l'enfant au fil des années. • Confort de route : Assise rembourrée avec mousse haute densité et accoudoirs ergonomiques pour un maintien optimal sur les longs trajets. • Entretien très facile : Housse de protection amovible et lavable en machine pour un nettoyage simple au quotidien. • Installation rapide : Fixation universelle et sécurisée à l'aide de la ceinture de sécurité 3 points du véhicule.",
+    "price": 39.9,
+    "reference_price": 64.9,
+    "discount_percent": 38.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/siege-auto-enfant-lionelo-lars-100-150-cm-15-a-36-kg-groupe-23-appui-tete-reglable-6-positions-3432710",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KnC6S/3432710_1/re/1200x1200/qt/90/3432710_1.jpg",
+    "detected_at": "2026-10-14T23:11:07+00:00",
     "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0CHS5RQBR?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 39.9,
+        "observed_at": "2026-10-14T23:20:52.376626+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 6 paires de chaussettes Nike Unisex - Tailles du 42 au 50",
+    "description": "9,50€ - Privé by Zalando Chaussettes de sport - Nike Everyday Plus Crew Unisex 6 pack Sport: fitness et entraînement, running Longueur: hauteur standard Motif: uni Référence du modèle: SX6897-904 Propriétés: respirant Matériau 67% coton, 30% polyester, 2% élasthanne, 1% nylon",
+    "price": 9.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-6-paires-de-chaussettes-nike-taille-du-42-au-50-3432706",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/sp7TV/3432706_1/re/1200x1200/qt/90/3432706_1.jpg",
+    "detected_at": "2026-10-14T22:47:54+00:00",
+    "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 32.99,
-        "observed_at": "2026-10-13T11:59:50.729303+00:00"
-      },
-      {
-        "price": 32.99,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
+        "price": 9.5,
+        "observed_at": "2026-10-14T23:20:52.376626+00:00"
       }
     ]
   },
@@ -11709,7 +11749,7 @@
   },
   {
     "title": "PC portable 16\" MSI Crosshair HX AI - RTX 5070, Intel 255HX, QHD+ 240 Hz, 16 Go, 512 Go (Sélection de villes)",
-    "description": "1 260,42€ - Darty -10% en plus jusqu'à demain 9h avec le code \"PC10\" = Retour d'un très bon prix vu le marché actuel pour cette config ! (y) Plus d'infos dans le précédent deal à 1400€ (à 1000°c) ou ici avec l'historique des précédents deals et leurs tarifs . Retrait gratuit dans certains magasins seulement. (Déjà plus dispo autour de chez moi depuis la création du deal... (ninja) ) Et ne pas oublier de vérifier les cashbacks Darty possibles pour optimisation, par ex Widilo 1.5% montant HT soit ~ -16€ :) Et enfin, ne pas tenir compte de ce message mensonger sur Darty quand on ajoute au panier ! ( (confused) ) Cet ordi gaming est bien vendu avec son bloc chargeur (de 240w). ***************************************************************** Aperçu rapide : Ecran 16\" QHD+ (2560x1600), 240Hz, 16:10, 100 % DCI-P3, dalle de niveau IPS Processeur Intel® Core™ Ultra 7 255HX Nvidia GeForce RTX 5070 RAM 16 Go DDR5 (Dual channel, 2 x 8 Go) Stockage 512 Go SSD (1 slot de libre pour rajout d'un SSD) Microsoft Windows 11 + Wi-Fi 6E AX211 - Bluetooth v5.3 MSI Crosshair 16 HX (RTX 5070) Review - Practical and Powerful 16-inch Gaming Laptop - YouTube ***************************************************************** Processeur Processeur : Intel Core Ultra 7 255HX (génération Arrow Lake-HX) Configuration : 20 cœurs (8 Performance, 12 Efficient) / 24 Threads Fréquence maximale : 5,20 GHz NPU : Coprocesseur Intel AI Boost intégré pour les traitements d'intelligence artificielle locale. C arte Graphique (GPU) Modèle : NVIDIA GeForce RTX 5070 Laptop (génération Blackwell) Mémoire dédiée : 8 Go GDDR6 Enveloppe thermique (TDP) : Configuration à 115 Watts avec technologie Dynamic Boost active, permettant à la puce graphique de fonctionner sans restriction sévère de puissance. Prise en charge matérielle du Ray Tracing et de la suite logicielle DLSS. Mémoire et Stockage Mémoire Vive (RAM) : 16 Go DDR5 (2 x 8 Go installés en dual channel) cadencés à 6400 MHz (architecture évolutive jusqu'à 96 Go, 2 slots) Stockage : Emplacement principal équipé d'un SSD M.2 NVMe PCIe 4.0 x4 de 512 Go. Un second emplacement M.2 est laissé libre pour l'extension de stockage. Écran et Affichage Taille : 16 pouces (format 16:10, optimisé pour le jeu et la productivité verticale) Dalle : Niveau IPS avec traitement antireflet Résolution : QHD+ (2560 x 1600 pixels) Fréquence de rafraîchissement : 240 Hz Colorimétrie : Étendue de couleurs 100% DCI-P3 (adaptée à la création de contenu) Connectique et Réseau Ports USB : 3 ports USB 3.2 Type-A et 1 port USB-C compatible avec la norme Thunderbolt 4. Sortie Vidéo : 1 port HDMI 2.1 (gestion des flux 8K à 60Hz ou 4K à 120Hz). Réseau sans fil : Wi-Fi 6E (802.11ax) et Bluetooth 5.3. Réseau filaire : 1 port Ethernet RJ-45 (Gigabit). Audio : 1 prise combo Jack 3.5mm couplée au traitement logiciel Nahimic 3 Audio Enhancer. Châssis, Clavier et Autonomie Clavier : Clavier de jeu complet avec pavé numérique intégré. Rétroéclairage LED RGB personnalisable sur 24 zones distinctes. Présence d'une touche physique dédiée à l'assistant Windows Copilot. Batterie : Capacité de 90 Wh (4 cellules) accompagnée d'un bloc d'alimentation de 240W. Poids du châssis : 2,5 kg Système d'exploitation : Windows 11 Famille (64 bits)",
+    "description": "1 260,42€ - Darty -10% en plus jusqu'à ce matin 9h avec le code \"PC10\" = Retour d'un très bon prix vu le marché actuel pour cette config ! (y) Plus d'infos dans le précédent deal à 1400€ (à 1000°c) ou ici avec l'historique des précédents deals et leurs tarifs . Retrait gratuit dans certains magasins seulement. (Déjà plus dispo autour de chez moi depuis la création du deal... (ninja) ) Et ne pas oublier de vérifier les cashbacks Darty possibles pour optimisation, par ex Widilo 1.5% montant HT soit ~ -16€ :) Et enfin, ne pas tenir compte de ce message mensonger sur Darty quand on ajoute au panier ! ( (confused) ) Cet ordi gaming est bien vendu avec son bloc chargeur (de 240w). ***************************************************************** Aperçu rapide : Ecran 16\" QHD+ (2560x1600), 240Hz, 16:10, 100 % DCI-P3, dalle de niveau IPS Processeur Intel® Core™ Ultra 7 255HX Nvidia GeForce RTX 5070 RAM 16 Go DDR5 (Dual channel, 2 x 8 Go) Stockage 512 Go SSD (1 slot de libre pour rajout d'un SSD) Microsoft Windows 11 + Wi-Fi 6E AX211 - Bluetooth v5.3 MSI Crosshair 16 HX (RTX 5070) Review - Practical and Powerful 16-inch Gaming Laptop - YouTube ***************************************************************** Processeur (CPU) Processeur : Intel Core Ultra 7 255HX (génération Arrow Lake-HX) Configuration : 20 cœurs (8 Performance, 12 Efficient) / 24 Threads Fréquence maximale : 5,20 GHz NPU : Coprocesseur Intel AI Boost intégré pour les traitements d'intelligence artificielle locale. C arte Graphique (GPU) Modèle : NVIDIA GeForce RTX 5070 Laptop (génération Blackwell) Mémoire dédiée : 8 Go GDDR6 Enveloppe thermique (TDP) : Configuration à 115 Watts avec technologie Dynamic Boost active, permettant à la puce graphique de fonctionner sans restriction sévère de puissance. Prise en charge matérielle du Ray Tracing et de la suite logicielle DLSS. Mémoire (RAM) et Stockage (SSD) Mémoire Vive (RAM) : 16 Go DDR5 (2 x 8 Go installés en dual channel) cadencés à 6400 MHz (architecture évolutive jusqu'à 96 Go, 2 slots) Stockage : Emplacement principal équipé d'un SSD M.2 NVMe PCIe 4.0 x4 de 512 Go. Un second emplacement M.2 est laissé libre pour l'extension de stockage. Écran et Affichage Taille : 16 pouces (format 16:10, optimisé pour le jeu et la productivité verticale) Dalle : Niveau IPS avec traitement antireflet Résolution : QHD+ (2560 x 1600 pixels) Fréquence de rafraîchissement : 240 Hz Colorimétrie : Étendue de couleurs 100% DCI-P3 (adaptée à la création de contenu) Connectique et Réseau Ports USB : 3 ports USB 3.2 Type-A et 1 port USB-C compatible avec la norme Thunderbolt 4. Sortie Vidéo : 1 port HDMI 2.1 (gestion des flux 8K à 60Hz ou 4K à 120Hz). Réseau sans fil : Wi-Fi 6E (802.11ax) et Bluetooth 5.3. Réseau filaire : 1 port Ethernet RJ-45 (Gigabit). Audio : 1 prise combo Jack 3.5mm couplée au traitement logiciel Nahimic 3 Audio Enhancer. Châssis, Clavier et Autonomie Clavier : Clavier de jeu complet avec pavé numérique intégré. Rétroéclairage LED RGB personnalisable sur 24 zones distinctes. Présence d'une touche physique dédiée à l'assistant Windows Copilot. Batterie : Capacité de 90 Wh (4 cellules) accompagnée d'un bloc d'alimentation de 240W. Poids du châssis : 2,5 kg Système d'exploitation : Windows 11 Famille (64 bits)",
     "price": 1260.42,
     "reference_price": 1815.0,
     "discount_percent": 30.6,
@@ -23466,6 +23506,10 @@
       {
         "price": 34.95,
         "observed_at": "2026-10-13T23:11:37.822907+00:00"
+      },
+      {
+        "price": 34.95,
+        "observed_at": "2026-10-14T23:20:52.376626+00:00"
       }
     ]
   },
@@ -23488,6 +23532,10 @@
       {
         "price": 79.99,
         "observed_at": "2026-10-13T23:11:37.822907+00:00"
+      },
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-14T23:20:52.376626+00:00"
       }
     ]
   },
@@ -23510,6 +23558,10 @@
       {
         "price": 39.83,
         "observed_at": "2026-10-13T23:11:37.822907+00:00"
+      },
+      {
+        "price": 39.83,
+        "observed_at": "2026-10-14T23:20:52.376626+00:00"
       }
     ]
   },
@@ -23584,6 +23636,10 @@
       {
         "price": 40.0,
         "observed_at": "2026-10-13T23:11:37.822907+00:00"
+      },
+      {
+        "price": 40.0,
+        "observed_at": "2026-10-14T23:20:52.376626+00:00"
       }
     ]
   },
@@ -24285,8 +24341,8 @@
     "title": "Baskets enfants Lacoste T-Clip - Blanc et rose poudré du 21,5 au 27,5",
     "description": "22,90€ - Showroomprivé Bonjour la commu, Un excellent prix pour cette paire de baskets Lacoste enfants modèle T-Clip blanc et rose poudré. Pointures du 21,5 au 27,5 23,90€ pour ce même modèle du 28 au 34. https://www.showroomprive.com/link/product/41839851",
     "price": 22.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 27.91,
+    "discount_percent": 18.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/baskets-enfants-lacoste-t-clip-blanc-et-rose-poudre-du-215-au-275-3431975",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/UdEGw/3431975_1/re/1200x1200/qt/90/3431975_1.jpg",
@@ -24337,8 +24393,8 @@
     "title": "Outer Wilds sur PC, Xbox One et Xbox Series XIS (Dématérialisé - Store Islande, 12,49€ sur le Store Français)",
     "description": "8,62€ - Xbox Store Vous obtenez le jeu avec votre compte existant sans aucun détour ( VPN, achat à crédit ou adresse n'est pas requis ) et avec paiement par carte de crédit . Il fonctionne sur Pc Windows, Xbox One, Xbox Series X | S. Pour acheter il faut se connecter sur le store islandais avec ses identifiants Microsoft et si on vous le demande au moment du paiement, mettez une adresse en Islande (une ambassade ou autre à trouver sur Google). 12,49€ sur le Store Français Outer Wilds est un monde ouvert mystérieux où un système solaire est bloqué dans une boucle temporelle infinie. Bienvenue dans le programme spatial ! Vous êtes la nouvelle recrue de Outer Wilds Ventures, un récent programme spatial qui enquête sur un étrange système solaire en évolution permanente. Les mystères du système solaire... Qu’est-ce qui se cache au cœur du sinistre Dark Bramble ? Qui a bâti les ruines extraterrestres sur la Lune ? Est-il possible de stopper la boucle temporelle infinie ? Des réponses vous attendent dans les étendues spatiales les plus dangereuses. Un monde qui évolue au fil du temps Les planètes de Outer Wilds sont pleines de lieux cachés qui évoluent au fil du temps. Visitez une cité souterraine avant qu’elle ne soit ensevelie sous le sable, ou explorez la surface d’une planète qui s’effrite sous vos pieds. Chaque secret est protégé dans des environnements dangereux et soumis à des catastrophes naturelles. Utilisez du matériel d’exploration intergalactique ! Enfilez vos bottes d’exploration, vérifiez vos réserves d’oxygène et préparez-vous à vous aventurer dans l’espace. Utilisez toute une gamme de gadgets uniques pour sonder l’environnement, suivez des signaux mystérieux, déchiffrez une langue extraterrestre ancienne et faites rôtir vos boules de guimauve à la perfection.",
     "price": 8.62,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 12.99,
+    "discount_percent": 33.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/outer-wilds-sur-pc-xbox-one-et-xbox-series-xis-ou-1249eur-sur-le-store-francais-dematerialise-store-islande-3431977",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Eq6q3/3431977_1/re/1200x1200/qt/90/3431977_1.jpg",
@@ -24363,8 +24419,8 @@
     "title": "Sac à dos cabine Lynxcher - 24 litres, 40x30x20cm (vendeur tiers)",
     "description": "24,85€ - Amazon Sac à dos Cabine Avion 40x30x20 pour Ryanair EasyJet Bagage Cabine Anti-vol Unisexe Homme Femme avec Compartiment pour Ordinateur 15,6 Pouces Noir pour Voyage et Travail 【Bagage cabine 40x30x20 conforme aux compagnies aériennes】Avec des dimensions de 40x30x20 cm, ce sac à dos respecte les règles de bagage à main des principales compagnies aériennes : Ryanair, EasyJet, Wizz Air, Eurowings, British Airways, Lufthansa, TUI fly, Etihad et bien d’autres. 【Organisation optimisée pour voyage et travail】Conçu avec un compartiment dédié pour ordinateur portable jusqu’à 15,6 pouces, un grand compartiment principal et des poches à deux niveaux. Chaque niveau comporte une poche à accès rapide pour passeport, billets et petits essentiels, ainsi qu’un espace pour écouteurs, chargeurs et power banks. Deux poches latérales pour bouteilles et un passe-câble de recharge permettent de garder tout bien organisé. 【Confort et sécurité renforcées】Doté d’une poche séparée pour objets humides, d’une poignée supérieure résistante et de quatre boucles latérales pour plus de stabilité. Le système d’ouverture à 180° facilite le rangement et l’accès à vos affaires. La poche anti-vol à l’arrière protège efficacement vos objets de valeur. 【Durabilité et protection maximale】Réalisé en polyester léger et haute densité avec coutures renforcées pour une grande résistance. Des doubles fermetures éclair métalliques assurent une protection supplémentaire de vos effets pendant vos déplacements. 【Confort ergonomique toute la journée】Design ergonomique avec bretelles rembourrées et panneau arrière respirant pour un confort optimal même lors d’une utilisation prolongée. Les sangles ajustables répartissent le poids uniformément et réduisent la fatigue sur les épaules.",
     "price": 24.85,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 28.99,
+    "discount_percent": 14.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/sac-a-dos-cabine-lynxcher-24-litres-40x30x20cm-vendeur-tiers-3431974",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/3h3hL/3431974_1/re/1200x1200/qt/90/3431974_1.jpg",
@@ -24415,8 +24471,8 @@
     "title": "Maison pour Chat Feandrea, Meuble à litière - 85 x 48,5 x 50 cm",
     "description": "49,49€ - Amazon Historique des prix : Feandrea Maison pour Chat, Meuble à litière, 85 x 48,5 x 50 cm Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS 【ESPACE LITIÈRE STYLISÉ】 Avec sa finition marron miel et blanc rustique, ce meuble à litière s'intègre facilement à votre mobilier existant et donne un coup de jeune à l'espace litière jadis encombré 【PLUS D'INTIMITÉ ET DE PROPRETÉ】L'espace fermé offre à votre ami à fourrure un lieu d'intimité, l'entrée devant permet de tenir à distance les camarades chiens curieux et de limiter la dispersion de la litière 【CONVIENT AUX GRANDS CHATS, CONÇU POUR DURER】Mesurant 59 x 45 x 47 cm, le compartiment intérieur est adapté aux bacs et convient aux grandes races de chats comme les Maine Coons. Fabriquée en panneaux d'aggloméré, ce placard supporte jusqu’à 75 kg 【POUR LES CHATS ET AUSSI POUR VOUS】Utilisez ce meuble pour cacher le bac à litière, ajoutez un coussin pour chat à l'intérieur pour créer un abri douillet ou garnissez-le de jolies plantes pour égayer votre intérieur : c'est comme vous voulez 【MONTAGE FACILE】Le montage vous préoccupe ? Vous n’avez pas de souci à vous faire. Grâce à des instructions claires et à des pièces numérotées, vous l’installerez en seulement 20 minutes et votre chat pourra profiter immédiatement de sa nouvelle litière Spécifications Marque: FEANDREA Dimensions du produit: 85L x 48,5l x 50H centimètres Matériau: Bois d'ingénierie Usages spécifiques pour le produit: Intérieur Caractéristique spéciale: Montage facile Composants inclus: Bac à litière Recommandation par race: Taille L Couleur: Marron Miel + Blanc Rustique Poids de l'article: 15,4 Kilogrammes Point fort de l’article: Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS PCL012K01 Voir plus Usages spécifiques: Intérieur Recommandé pour la race: Taille L Point fort de l’article: Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS PCL012K01 Fabricant: Feandrea Nombre d' articles: 3 UPC: 194343315324 Type d’animal de compagnie: Chat Nom du modèle: PCL012K01 Pays d'origine: Chine Numéro du modèle: PCL012K01 Numéro de pièce: PCL012K01 Nombre d'unités: 1 unité Classement des meilleures ventes d'Amazon: 1460 en Animalerie (Voir les 100 premiers en Animalerie) 26 en Maisons de toilette pour chats ASIN: B0DN6354FY Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (414) 4,5 sur 5 étoiles Fonctionnalités spéciales: Montage facile Dimensions de l'article L x l x H: 85L x 48,5l x 50H centimètres Poids de l’article: 15,4 Kilogrammes GTIN: 194343315324 Commentaires client",
     "price": 49.49,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 57.43,
+    "discount_percent": 13.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/maison-pour-chat-feandrea-meuble-a-litiere-85-x-485-x-50-cm-3431972",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/wfEhO/3431972_1/re/1200x1200/qt/90/3431972_1.jpg",
@@ -24441,8 +24497,8 @@
     "title": "Clavier filaire Razer Huntsman V2 Clavier Azerty - Noir (Vendeur tiers)",
     "description": "119€ - Amazon Super tarif pour ce clavier qu’on ne présente plus ! Switchs optiques analogiques Razer: Définissez un point d’activation en fonction de votre style de jeu, ou utilisez l’entrée analogique pour un contrôle plus fluide et plus nuancé, en éliminant le mouvement WASD rigide à 8 directions pour un mouvement à 360 degrés Touches en PBT à double injection: Plus dures et plus durables que l’ABS, ces touches robustes ne s’useront pas et leurs caractères ne s’effaceront jamais grâce à leur processus de moulage à double injection Alimenté par Razer Chroma RGB: Avec 16,8 millions de couleurs et une suite d’effets, synchronisez ses touches et l’éclairage inférieur avec le reste de votre poste de combat, et profitez d’une plus grande immersion, car il réagit dynamiquement avec plus de 150 jeux intégrés Repose-poignet magnétique en similicuir moelleux: Doté d’un éclairage inférieur Razer Chroma RGB, le support de poignet doux et moelleux s’enclenche magnétiquement sur le clavier pour réduire la pression sur votre poignet. Ainsi, vous ressentez moins de fatigue, même lorsque vous jouez sur de longues périodes Bouton numérique multifonction et 4 touches multimédias: Configurez-les pour mettre en pause, jouer, passer et modifier absolument tout, de la luminosité au volume : profitez d’un confort ultime tout en vous divertissant Spécifications Marque: Razer Appareils compatibles: Console de jeu Technologie de connectivité: USB Description du clavier: Filaire Utilisations recommandées pour le produit: Jeu Caractéristique spéciale: Repose-poignet magnétique Couleur: Switch Optique Analogique Gestion de la couleur de rétro-éclairage du clavier: RVB Style: Huntsman V2 Dimensions du produit: 44,6L x 14,1l x 4,5H centimètres appareils compatibles: Console de jeu technologie de la connectivité: USB Fonctionnalités du produit: Repose-poignet magnétique Prise en charge des couleurs de rétroéclairage du clavier: RVB Source énergétique: Alimentation USB/filaire Type d’interrupteur: Tactile Disposition du clavier: AZERTY Orientation de la main: Ambidextre Quantité de boutons: 104 niveau de résistance à l'eau: Non étanche Modèle de commutateur de clavier mécanique: Switchs optiques analogiques Razer Famille de systèmes d'exploitation compatible: Windows Nombre de touches: 104 Nombre de sections: 3 Type de produit: Huntsman V2 Thème: Arc-en-ciel Dimensions de l'article L x l x H: 44,6L x 14,1l x 4,5H centimètres matériel interne: Polytéréphtalate de butylène Matériau de la plaque de clavier: Polybutylène Terephthalate (PBT) Usages recommandés pour le produit: Jeu contenu de la boîte: Câble USB, Manuel de l'utilisation, Razer Huntsman V2 Numéro du modèle: RZ03-03610500-R3F1 Nom du modèle: Huntsman V2 (Analog Switch) - French Layout Code article international: 08886419346678 Unité de comptage: 1.0 unité fabriquant: Razer nombre d'articles: 1 Génération: 2ème génération Poids de l'article: 2,22 Kilogrammes numéro de pièce: 8886419346678 Description de la garantie: 2 year Classement des meilleures ventes d'Amazon: 3904 en Jeux vidéo (Voir les 100 premiers en Jeux vidéo) 243 en Claviers gaming pour PC ASIN: B08P4XX518 Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (146) 4,4 sur 5 étoiles Commentaires client",
     "price": 119.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 217.7,
+    "discount_percent": 45.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/clavier-razer-huntsman-v2-3431971",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/plb2w/3431971_1/re/1200x1200/qt/90/3431971_1.jpg",
@@ -24545,8 +24601,8 @@
     "title": "Airfryer Ninja Crispi FN101EUST en verre - Beige",
     "description": "79,99€ - Auchan Le Crispi Airfryer FN101EUST en verre est une friteuse à air puissante et polyvalente. *caractéristiques du produit :* - Puissance de 1700 W - Deux contenants en verre de 3.8 L et 1.4 L - 4 modes de cuisson",
     "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 99.0,
+    "discount_percent": 19.2,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/ninja-crispi-airfryer-fn101eust-en-verre-beige-3431967",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jfGE2/3431967_1/re/1200x1200/qt/90/3431967_1.jpg",
@@ -24649,8 +24705,8 @@
     "title": "Caméra Thermique Hikmicro D01 - Résolution Natif IR 96x96, 240x240 SuperIR (Vendeur Tiers)",
     "description": "127,99€ - Amazon 【SuperScene Reconnaissance Intelligente de Scènes】 La caméra IR D01 intègre la technologie exclusive de reconnaissance de scènes SuperScene de HIKMICRO, conçue pour simplifier les inspections thermiques pour les débutants. Alimentée par le deep learning, elle diagnostique automatiquement, en quelques secondes, les problèmes courants à la maison, ce qui permet des inspections plus rapides. 【Facilité d'Utilisation】 La conception conviviale du bouton de la D01 vous permet d'allumer, de naviguer dans les menus, de capturer et d'enregistrer, et de changer les couleurs instantanément. Conçue pour les propriétaires afin de repérer des problèmes tels que les ponts thermiques, les courants d'air, les problèmes électriques, et plus encore — que ce soit pour vérifier les systèmes HVAC, les fours, les voitures ou même retrouver un animal perdu. 【240×240 SuperIR】 Avec l'algorithme d'amélioration d'image SuperIR et un taux de rafraîchissement de 20 Hz, la D01 améliore la clarté de l'image, passant de 96x96 IR natif à 240x240 SuperIR lors de la visualisation en direct, pour des détails nets. Dotée d’un champ de vision de 50°, elle offre une large couverture lors du balayage. Prend en charge la capture programmée pour l’analyse des gradients de chaleur de jour comme de nuit. Cinq palettes de couleurs pour répondre à différents besoins.",
     "price": 127.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 140.0,
+    "discount_percent": 8.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/camera-thermique-hikmicro-d01-resolution-natif-ir-96x96-240x240-superir-vendeur-tiers-3431960",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ddHel/3431960_1/re/1200x1200/qt/90/3431960_1.jpg",
@@ -24701,8 +24757,8 @@
     "title": "Casque Moto BMW Modulable System 7 EVO",
     "description": "411€ Le Casque Moto BMW Modulable System 7 EVO est conçu pour une utilisation routière polyvalente. *caractéristiques du produit :* - Casque modulable - Coque en carbone - Système de sécurité MIPS - Unisexe Description Le casque Moto BMW System 7 Evo est un casque unisexe destiné au Touring, tout comme à l'Urbain. Il se caractérise par sa mentonnière modulable et son accent sur la sécurité. La composition du casque BMW System 7 Evo : La coque extérieure du casque modulable BMW System 7 Evo existe en deux tailles, elle est composée de carbone donc vous offre un amortissement des chocs excellent pour un poids plume. La coque intérieure est faite de polystyrène expansé à segmentation multiple, afin de garantir votre protection tout en gardant un poids léger. Les mousses intérieures du casque BMW System 7 Evo sont faites de nouveaux matériaux déperlants afin de vous garder au sec en tout temps. Le confort du casque moto BMW System 7 Evo : Le casque System 7 Evo est équipé d'un mécanisme de visière et de joint optimisés pour éviter tout souci. Équipé d'une visière double-écran au nouveau design, l'intérieur est antibuée et les deux faces sont traitées anti-rayures . La visière pare-soleil est intégrée et commandée par coulisseau, elle reste accessible en mode jet. Le système de ventilation du casque est efficace, tout en gardant un excellent aérodynamisme et aéroacoustique. Avec le nouveau design Evo, le casque est équipé d'un spoiler de grande taille. Les mousses intérieures ont été pensées dans un but de grand confort. Un casque modulable avant tout : Le casque modulable repose sur un mécanisme à quatre articulations. L'ouverture de la partie menton se fait grâce à une touche centrale. La sécurité du casque modulable System 7 Evo BMW : Le casque BMW System 7 Evo est doté de la technologie MIPS qui vise à réduire la rotation en cas de chute, et vous protège donc au maximum. Aussi, un bandeau de nuque est intégré pour un maintien parfait. Le système de fermeture est d'une sangle avec boucle clip, afin de garantir sa stabilité en cas de chute. En cas de défaut, le casque est couvert par une garantie constructeur de 5 ans. Le casque moto BMW modulable System 7 Evo est compatible avec le système de communication V3 pour casque System 7. Le casque est livré avec une visière claire équipée d’un écran antibuée PinLock. Les visières colorées ou teintées sont disponibles en option et vendues séparément. Taille du XS au 3XL",
     "price": 411.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 822.0,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/casque-moto-bmw-modulable-system-7-evo-3431958",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/IovH9/3431958_1/re/1200x1200/qt/90/3431958_1.jpg",
@@ -24975,58 +25031,6 @@
       },
       {
         "price": 31.99,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Robot pâtissier Fagor 6L (Via coupon)",
-    "description": "54,99€ - JoyBuy Robot pétrin et pâtissier grande capacité de la marque Fagor dans son coloris bleu. Avec sa cuve généreuse de 6 litres, il est calibré pour préparer de gros volumes de pâte à pain, brioches ou gâteaux. Points forts et caractéristiques : • Tarif canon à 54,99 € via coupon : S'obtient en récupérant le coupon de réduction de 25 € dès 50 € d'achats sur la fiche produit. • Grand bol inox de 6 Litres : Capacité XXL idéale pour préparer des pâtes familiales en une seule fois. • Mouvement planétaire : Mélange homogène des ingrédients en rabattant la préparation vers le centre de la cuve. • Kit pâtisserie inclus : Livré avec son fouet à fils, son crochet pétrisseur et son batteur plat. • Sécurité & Confort : Couvercle anti-projections transparent et pieds antidérapants sous la base pour assurer la stabilité pendant l'utilisation.",
-    "price": 54.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/via-coupon-de-25eur-robot-patissier-fagor-6l-bleu-kit-patisserie-inclus-3431941",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZaBXD/3431941_1/re/1200x1200/qt/90/3431941_1.jpg",
-    "detected_at": "2026-10-13T19:27:40+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 54.99,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 54.99,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre analogique Casio Collection UTP-1302PD-1AVEF",
-    "description": "44,95€ - Amazon GARDE-TEMPS METAL CONTEMPORAIN: Boîtier et bracelet en acier inoxydable poli allient raffinement et clarté — affichage trois aiguilles adapté à chaque style et occasion CADRAN NOIR AIGUILLES LUMINEUSES: Cadran noir épuré avec index en relief et aiguilles lumineuses pour une lisibilité jour et nuit, ajoutant une élégance discrète au quotidien TAILLE MOYENNE UNISEXE: 35 mm de diamètre et 9 mm d'épaisseur se posent naturellement au poignet — proportions équilibrées convenant aussi bien aux hommes qu'aux femmes AFFICHAGE DATE A TROIS HEURES: Guichet date pratique à 3 heures ajoutant une utilité quotidienne au cadran épuré, fonctionnel sans encombrement visuel ETANCHEITE CINQ BARS: Protection 5 bars pour la pluie et le quotidien — fermoir dépliant avec poussoir sécurise le bracelet acier confortablement au poignet. Spécifications Pile(s) / Batterie(s): 1 C - incluse(s) Date de mise en ligne sur Amazon.fr: 19 juin 2026 Fabricant: Casio ASIN: B0H5RGFGL7 Numéro du modèle de l'article: UTP-1302PD-1AVEF_FBA Pays d'origine: Chine Service: Unisex Disponibilité des pièces détachées: Information indisponible sur les pièces détachées Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Mode Affichage: Analogique Type de mouvement de la montre: Quartz Caractéristiques spéciales: Aiguilles lumineuses Source d’alimentation: Alimenté par batterie Type de bretelles: Bracelet en acier inoxydable Profondeur d'étanchéité à l’eau: 50 Mètres Type de fermoir: Fermoir déployant à bouton-poussoir Niveau d' etancheite: Imperméable Type de fermeture: Bouton-poussoir Style: Moderne Forme de l’article: Rond Couleur de la bande: Argent Couleur du cadran: Noir Motif: Uni Style de façade: Solide Marque: Casio Nom du modèle: Casio Collection Numéro de modèle: UTP-1302PD-1AVEF_FBA Série de modèles: Casio Collection Nombre d' articles: 1 Nom du type du produit: Watch Numéro de pièce: UTP-1302PD-1AVEF Classement des meilleures ventes d'Amazon: 38370 en Mode (Voir les 100 premiers en Mode) 196 en Montres bracelet pour homme Moyenne des commentaires client: 5,0 5,0 sur 5 étoiles (2) 5,0 sur 5 étoiles Type du matériau de la bande: Acier inoxydable Type de matériau du boîtier: Acier Inoxydable Type de matériau de la fenêtre de cadran: Verre minéral Diamètre du boîtier: 35 Millimètres Largeur de la bande: 1 Centimètres Épaisseur du boîtier: 9 Millimètres Longueur de bande: 20,5 Centimètres Type de garantie: Limited Commentaires client",
-    "price": 44.95,
-    "reference_price": 49.99,
-    "discount_percent": 10.1,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-analogique-casio-collection-utp-1302pd-1avef-3431940",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/7XY5B/3431940_1/re/1200x1200/qt/90/3431940_1.jpg",
-    "detected_at": "2026-10-13T19:27:03+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 44.95,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 44.95,
         "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
