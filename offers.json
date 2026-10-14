@@ -1,5 +1,446 @@
 [
   {
+    "title": "Papier A4, feuilles de 100 g, ...ti-usages, papier DIN A4 extra",
+    "price": 14.95,
+    "reference_price": 18.18,
+    "discount_percent": 17.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CMTWJ7BF",
+    "image_url": "https://m.media-amazon.com/images/P/B0CMTWJ7BF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:22:09",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.95,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Splash About Happy Nappy Couche de Bain, Red, 0-3 Mois",
+    "price": 16.45,
+    "reference_price": 18.0,
+    "discount_percent": 8.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D33SHCFK",
+    "image_url": "https://m.media-amazon.com/images/P/B0D33SHCFK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:22:08",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.45,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Accessories 2608585609 F...5 mm Longueur 160 mm 10 pièces",
+    "price": 33.66,
+    "reference_price": 52.1,
+    "discount_percent": 35.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001IBKRBC",
+    "image_url": "https://m.media-amazon.com/images/P/B001IBKRBC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:22:07",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 33.66,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bresser MyTime ND Thermo-Hygro...pérature et de l'humidité Vert",
+    "price": 27.09,
+    "reference_price": 29.99,
+    "discount_percent": 9.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B084T9FPHQ",
+    "image_url": "https://m.media-amazon.com/images/P/B084T9FPHQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:22:03",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 27.09,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "walther design ME-297-3 Album ... 200 Photos 10x15 cm, monstera",
+    "price": 15.49,
+    "reference_price": 23.26,
+    "discount_percent": 33.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C93S4T1V",
+    "image_url": "https://m.media-amazon.com/images/P/B0C93S4T1V.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:22:02",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.49,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BURG-WÄCHTER, Feuerschutztreso...3 l, 25,0 kg, Stahl, Anthrazit",
+    "price": 288.99,
+    "reference_price": 319.99,
+    "discount_percent": 9.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B094DJTXD4",
+    "image_url": "https://m.media-amazon.com/images/P/B094DJTXD4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:56",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 288.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tesa 580950000002 Powerstrips ...chets avec 4 Languettes Chrome",
+    "price": 5.68,
+    "reference_price": 10.39,
+    "discount_percent": 45.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000U3YN5U",
+    "image_url": "https://m.media-amazon.com/images/P/B000U3YN5U.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:39",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.68,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Philips Hue Piquet Au Sol pour Caméra Secure",
+    "price": 35.44,
+    "reference_price": 39.99,
+    "discount_percent": 11.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CDM9GKG5",
+    "image_url": "https://m.media-amazon.com/images/P/B0CDM9GKG5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:38",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 35.44,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "VALUE Câble de moniteur HDMI haute vitesse, ST-ST, noir, 2 m",
+    "price": 8.33,
+    "reference_price": 12.46,
+    "discount_percent": 33.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00171P5QK",
+    "image_url": "https://m.media-amazon.com/images/P/B00171P5QK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:37",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.33,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BOLDRINI Joint porte-brosse ge...professionnel de haute qualité",
+    "price": 11.41,
+    "reference_price": 12.95,
+    "discount_percent": 11.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07HWWDS6J",
+    "image_url": "https://m.media-amazon.com/images/P/B07HWWDS6J.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:26",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.41,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Clairefontaine 410021C - Petit...able Cuir d'Agneau, Serpent Or",
+    "price": 8.54,
+    "reference_price": 10.87,
+    "discount_percent": 21.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07XFXPMP6",
+    "image_url": "https://m.media-amazon.com/images/P/B07XFXPMP6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:25",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.54,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "B-brand réduite Peak casque, Taille unique, blanc, 1",
+    "price": 12.24,
+    "reference_price": 13.92,
+    "discount_percent": 12.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01E4CY8H0",
+    "image_url": "https://m.media-amazon.com/images/P/B01E4CY8H0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:17",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.24,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KollyKolla Gourde 500ml, Gourd...le, Bureau, Extérieur, Fitness",
+    "price": 8.7,
+    "reference_price": 9.45,
+    "discount_percent": 7.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F4XC8LV5",
+    "image_url": "https://m.media-amazon.com/images/P/B0F4XC8LV5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:09",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.7,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PIKOLIN Protège Matelas Imperméable",
+    "price": 9.08,
+    "reference_price": 28.99,
+    "discount_percent": 68.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B06Y62BYB1",
+    "image_url": "https://m.media-amazon.com/images/P/B06Y62BYB1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:08",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.08,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blue Print adn12134 Filtre à huile",
+    "price": 6.99,
+    "reference_price": 9.7,
+    "discount_percent": 27.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01EVCJWYC",
+    "image_url": "https://m.media-amazon.com/images/P/B01EVCJWYC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "REV Lampe LED – Lanterne sans ... lm, 2 W, 4000 mAh, IP65, noir",
+    "price": 31.8,
+    "reference_price": 117.42,
+    "discount_percent": 72.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C8DPJQC5",
+    "image_url": "https://m.media-amazon.com/images/P/B0C8DPJQC5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:04",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 31.8,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "GEDORE R05123032 Clé à fourche double",
+    "price": 19.92,
+    "reference_price": 22.21,
+    "discount_percent": 10.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07CNDSC3V",
+    "image_url": "https://m.media-amazon.com/images/P/B07CNDSC3V.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:03",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.92,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Durable Duraframe Magnetic Cad...hage A4, 5 pièces, noir, 79982",
+    "price": 31.21,
+    "reference_price": 32.43,
+    "discount_percent": 3.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B005HDK8GQ",
+    "image_url": "https://m.media-amazon.com/images/P/B005HDK8GQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:02",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 31.21,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Metzger 113-1347X Boulon de guidage, étrier de frein",
+    "price": 6.59,
+    "reference_price": 17.6,
+    "discount_percent": 62.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00N49MSG8",
+    "image_url": "https://m.media-amazon.com/images/P/B00N49MSG8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:01",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.59,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chelino Fashion & Love Couches pour bébé Taille 4 34 couches",
+    "price": 11.26,
+    "reference_price": 13.09,
+    "discount_percent": 14.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07YQD4FVL",
+    "image_url": "https://m.media-amazon.com/images/P/B07YQD4FVL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:21:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.26,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "JVC Gumy True Wireless, Écoute... Pluie, HA-Z77T-P (Rose Pêche)",
+    "price": 41.28,
+    "reference_price": 59.99,
+    "discount_percent": 31.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C3RNHMDX",
+    "image_url": "https://m.media-amazon.com/images/P/B0C3RNHMDX.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 16:20:56",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 41.28,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
     "title": "Système de douche Duravit, sys...uche facile à nettoyer, chromé",
     "price": 291.87,
     "reference_price": 334.9,
@@ -6128,6 +6569,10 @@
       {
         "price": 56.99,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 56.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -10603,6 +11048,10 @@
       {
         "price": 23.74,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 23.74,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -10628,6 +11077,10 @@
       {
         "price": 25.43,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 25.43,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -10653,6 +11106,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -10831,611 +11288,288 @@
     ]
   },
   {
-    "title": "Philips ampoule LED Spot GU5.3 35W Blanc Chaud, Verre",
-    "price": 8.99,
-    "reference_price": 14.61,
-    "discount_percent": 38.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B09F9M69ZH",
-    "image_url": "https://m.media-amazon.com/images/P/B09F9M69ZH.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 14:00:23",
+    "title": "Jogging droit large Uniqlo - Bleu Marine, Du XS au XL",
+    "description": "14,90€ - Uniqlo Baisse de prix chez Uniqlo sur ce jogging droit large unisexe, proposé à 14,90 € au lieu de 34,90 € , soit une réduction de 57 % - Transparence: Opaque - Coupe: Regular - Silhouette: Droit - Poches: Avec poches Un pantalon à la coupe droite et ample, idéal pour une tenue décontractée au quotidien. ✅ Caractéristiques : Modèle : jogging droit large Unisexe Coloris en promotion : bleu marine Tailles proposées : du XS au XL Longueurs : Short, Regular et Tall Composition : 67 % polyester et 33 % coton Coupe regular, silhouette droite Poches latérales Lavage en machine à 40 °C maximum, cycle délicat ⭐ Note : 4,7/5 (144 avis) Prix le plus bas des 30 derniers jours avant réduction : 24,90 € Livraison dès 3,95 €, gratuite dès 60 € d'achat Click & Collect gratuit Composition des matériaux et instructions d'entretien Détails du tissu Corps: 67% Polyester, 33% Coton/ Côte: 82% Coton, 18% Polyester/ Tissu Des Poches: 100% Coton Instructions de lavage Lavage en machine sur cycle délicat à une température maximale de 40 °C, Ne pas nettoyer à sec, Ne convient pas au séchage en machine.",
+    "price": 14.9,
+    "reference_price": 34.9,
+    "discount_percent": 57.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jogging-droit-large-uniqlo-bleu-marine-tailles-xs-a-xl-3432519",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8W3UT/3432519_1/re/1200x1200/qt/90/3432519_1.jpg",
+    "detected_at": "2026-10-14T16:18:51+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.9,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Billet de Train Eurostar de Paris pour Rotterdam dès 35€ (70€ aller/retour) - Plusieurs dates Ex : 13 Janvier 2026",
+    "description": "35€ - Eurostar Billet de train Eurostar Paris - Rotterdam dès 35€ (Plusieurs dates Ex : 13/01) Trajets de train entre Paris Nord et Rotterdam Centraal proposes par la compagnie Eurostar. L offre permet d effectuer des trajets directs aller-retour ou aller simple vers les Pays-Bas avec des billets disponibles a partir de 35€ par trajet selon les dates retenues sur le mois de janvier 2027. Lien direct : https://www.eurostar.com/FR-FR/find-lowest-fares Prix : 35,00€ Frais de port : 0€ Code promo : Aucun Eurostar et Thalys unissent leurs forces sous le nom d’Eurostar et font entrer les voyages internationaux en train dans une nouvelle ère. Nos lignes directes et indirectes forment un réseau ferroviaire unique qui relie la France, la Belgique, les Pays-Bas, l'Allemagne et le Royaume-Uni.",
+    "price": 35.0,
+    "reference_price": 52.0,
+    "discount_percent": 32.7,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/billet-de-train-eurostar-de-paris-pour-rotterdam-des-35eur-70eur-allerretour-plusieurs-dates-ex-13-janvier-2026-3432518",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/kxglD/3432518_1/re/1200x1200/qt/90/3432518_1.jpg",
+    "detected_at": "2026-10-14T16:14:43+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 8.99,
-        "observed_at": "2026-10-12T14:00:29.104092+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
+        "price": 35.0,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
   {
-    "title": "Thermostat de radiateur Eurotronic Comet, blanc, 700083",
-    "price": 25.94,
-    "reference_price": 32.89,
-    "discount_percent": 21.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B015PM6ZE2",
-    "image_url": "https://m.media-amazon.com/images/P/B015PM6ZE2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 14:00:22",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.94,
-        "observed_at": "2026-10-12T14:00:29.104264+00:00"
-      },
-      {
-        "price": 25.94,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 25.94,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hazet 652 Démonte-pneus, Voir Illustration, 600mm",
-    "price": 31.1,
-    "reference_price": 51.26,
-    "discount_percent": 39.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B001CA10WY",
-    "image_url": "https://m.media-amazon.com/images/P/B001CA10WY.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:59:31",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 31.1,
-        "observed_at": "2026-10-12T12:59:39.197132+00:00"
-      },
-      {
-        "price": 31.1,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 31.1,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LINDY Câble DisplayPort 1.2 de 5 m, Gold Line",
-    "price": 83.8,
-    "reference_price": 100.68,
-    "discount_percent": 16.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B075B783HB",
-    "image_url": "https://m.media-amazon.com/images/P/B075B783HB.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:59:31",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 83.8,
-        "observed_at": "2026-10-12T12:59:39.197242+00:00"
-      },
-      {
-        "price": 83.8,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 83.8,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Paulmann 94283 Luminaire d'ext...n plastique Blanc chaud 3000 K",
-    "price": 62.88,
-    "reference_price": 76.19,
-    "discount_percent": 17.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B083M6TKVB",
-    "image_url": "https://m.media-amazon.com/images/P/B083M6TKVB.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:59:17",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 62.88,
-        "observed_at": "2026-10-12T12:59:39.197253+00:00"
-      },
-      {
-        "price": 62.88,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 62.88,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Paulmann 29164 Filament 230V S...3W RGBW+ gradable Doré ampoule",
-    "price": 91.8,
-    "reference_price": 105.63,
-    "discount_percent": 13.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CHY5FC9K",
-    "image_url": "https://m.media-amazon.com/images/P/B0CHY5FC9K.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:59:14",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 91.8,
-        "observed_at": "2026-10-12T12:59:39.197261+00:00"
-      },
-      {
-        "price": 91.8,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 91.8,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gedore Clé à tube double massi...onale 14 x 15 mm – 626 14 x 15",
-    "price": 19.44,
-    "reference_price": 23.49,
-    "discount_percent": 17.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B000UYWUW2",
-    "image_url": "https://m.media-amazon.com/images/P/B000UYWUW2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:15:49",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.44,
-        "observed_at": "2026-10-12T12:59:39.197267+00:00"
-      },
-      {
-        "price": 19.44,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 19.44,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Splitter HDMI 18G, 2 Ports",
-    "price": 64.9,
-    "reference_price": 67.61,
-    "discount_percent": 4.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0869LWXXZ",
-    "image_url": "https://m.media-amazon.com/images/P/B0869LWXXZ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:15:40",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 64.9,
-        "observed_at": "2026-10-12T12:59:39.197273+00:00"
-      },
-      {
-        "price": 64.9,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 64.9,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chauvin Arnoux P01120526B AmpF...ue de poche multimètre, 450 mm",
-    "price": 319.61,
-    "reference_price": 345.0,
-    "discount_percent": 7.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00FOQ0H3U",
-    "image_url": "https://m.media-amazon.com/images/P/B00FOQ0H3U.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:15:39",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 319.61,
-        "observed_at": "2026-10-12T12:59:39.197280+00:00"
-      },
-      {
-        "price": 319.61,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 319.61,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Oehlbach Speaker Wire SP-15 - ...eur à Bobine - 20m Transparent",
-    "price": 50.99,
-    "reference_price": 56.8,
-    "discount_percent": 10.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B000KZCUR6",
-    "image_url": "https://m.media-amazon.com/images/P/B000KZCUR6.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 12:15:38",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 50.99,
-        "observed_at": "2026-10-12T12:59:39.197285+00:00"
-      },
-      {
-        "price": 50.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 50.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Alpen 92100700100 Foret hélicoïdal, Gris, 7,0mm",
-    "price": 12.59,
-    "reference_price": 13.19,
-    "discount_percent": 4.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00MDIJ3W8",
-    "image_url": "https://m.media-amazon.com/images/P/B00MDIJ3W8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 11:54:16",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.59,
-        "observed_at": "2026-10-12T12:59:39.197291+00:00"
-      },
-      {
-        "price": 12.59,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 12.59,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "MAUL Lampe de bureau MAULstudy rouge E27 articulée métal",
-    "price": 69.39,
-    "reference_price": 71.9,
-    "discount_percent": 3.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CYQB795Z",
-    "image_url": "https://m.media-amazon.com/images/P/B0CYQB795Z.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 11:54:16",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 69.39,
-        "observed_at": "2026-10-12T12:59:39.197297+00:00"
-      },
-      {
-        "price": 69.39,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 69.39,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Xilence Performance C Série | ...38 | 3Pin | 92 mm | Rouge/Noir",
-    "price": 3.12,
-    "reference_price": 5.99,
-    "discount_percent": 47.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B01L6PMFAU",
-    "image_url": "https://m.media-amazon.com/images/P/B01L6PMFAU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 11:54:06",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 3.12,
-        "observed_at": "2026-10-12T12:59:39.197302+00:00"
-      },
-      {
-        "price": 3.12,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 3.12,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Thermaltake Toughpower GF2 ARG...TT Premium Edition PC-Netzteil",
-    "price": 106.78,
-    "reference_price": 191.9,
-    "discount_percent": 44.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B08V9CMB7Q",
-    "image_url": "https://m.media-amazon.com/images/P/B08V9CMB7Q.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 11:39:40",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 106.78,
-        "observed_at": "2026-10-12T12:59:39.197308+00:00"
-      },
-      {
-        "price": 106.78,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 106.78,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Schneider 151276 XB 1 pochette...der et 1 stylo bille Rave Noir",
-    "price": 11.1,
-    "reference_price": 11.69,
-    "discount_percent": 5.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00KVNMKWW",
-    "image_url": "https://m.media-amazon.com/images/P/B00KVNMKWW.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 11:39:36",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 11.1,
-        "observed_at": "2026-10-12T12:59:39.197314+00:00"
-      },
-      {
-        "price": 11.1,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 11.1,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Philips Hue White and Colour A...e Homekit, nouvelle génération",
-    "price": 287.48,
-    "reference_price": 329.99,
-    "discount_percent": 12.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FJY174B3",
-    "image_url": "https://m.media-amazon.com/images/P/B0FJY174B3.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:26:14",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 287.48,
-        "observed_at": "2026-10-12T12:59:39.197320+00:00"
-      },
-      {
-        "price": 287.48,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 287.48,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "biOrb AIR 60 Blanc 1 Unité",
-    "price": 419.36,
-    "reference_price": 439.9,
-    "discount_percent": 4.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00I9DTXSK",
-    "image_url": "https://m.media-amazon.com/images/P/B00I9DTXSK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:04:19",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 419.36,
-        "observed_at": "2026-10-12T12:59:39.197325+00:00"
-      },
-      {
-        "price": 419.36,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 419.36,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TRIXIE 76133 Sable pour Terrarium Rouge foncé 5 kg",
-    "price": 10.99,
-    "reference_price": 16.97,
-    "discount_percent": 35.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00435I66S",
-    "image_url": "https://m.media-amazon.com/images/P/B00435I66S.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:04:18",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-12T12:59:39.197331+00:00"
-      },
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Exoterra Bois d'Ornement pour Reptiles Pied de Vigne Sablé",
-    "price": 8.42,
-    "reference_price": 10.99,
-    "discount_percent": 23.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0032GAL4Y",
-    "image_url": "https://m.media-amazon.com/images/P/B0032GAL4Y.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:04:18",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 8.42,
-        "observed_at": "2026-10-12T12:59:39.197336+00:00"
-      },
-      {
-        "price": 8.42,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 8.42,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Kerbl Pet Enclos d’extérieur et d‘intéri EUR Noir",
-    "price": 24.57,
-    "reference_price": 28.9,
+    "title": "Clavier mécanique sans fil RK Royal Kludge R75 Azerty (via remise au panier - vendeur tiers)",
+    "description": "73,09€ - Amazon /!\\ REDUCTION LORS DE LA VALIDATION DU PANIER /!\\ très bon clavier que j'utilise depuis plus de un an. Réduction de 15% aussi sur le rose Clavier mécanique sans fil à trois modes】Le clavier de jeu mécanique ROYAL KLUDGE R75 prend en charge 3 modes de connexion : Bluetooth, 2.4G et Type-C filaire. Le clavier de jeu sans fil réagit rapidement en peu de temps, Il peut connecter jusqu'à 3 appareils pour une utilisation multitâche efficace et un changement rapide d'appareil. La batterie de 4000mAh garantit une utilisation durable et stable du produit 【Touches PBT durables】Les touches PBT sont fabriquées avec une technologie de moulage par injection bicolore, offrant une texture mate et des propriétés anti-décoloration, ce qui les rend plus durables. Comparées aux touches ABS, les touches PBT ont une durée de vie plus longue, ce qui améliore le confort et la stabilité de la frappe. De plus, les touches PBT sont moins sujettes à l'usure et conservent leur apparence et leur sensation d'origine plus longtemps 【Clavier Mécanique Gasket Mounted】Il adopte une structure de joint et cinq couches de matériaux insonorisants, et il y a du coton amortissant entre la carte PCB et la coque, ce qui peut réduire efficacement le bruit et les vibrations des touches. Cette conception permet de minimiser le bruit et d'offrir un son doux et pur, offrant ainsi une expérience de frappe fluide 【Creamy Switch mécanique à chaud】Le clavier est équipé d’un Creamy Switch soyeux. Il produit un son soyeux et agréable lorsqu’il est frappé, sans aucun bruit sourd et faible. Il offre une expérience de frappe claire et confortable, permettant aux utilisateurs de ressentir le confort et la satisfaction apportés par le clavier.Le circuit imprimé du clavier est remplaçable à chaud et compatible avec les commutateurs à 3 ou 5 broches 【Conception compacte populaire à 75%】Le clavier Mécanique RK ROYAL KLUDGE R75 est un produit qui convient parfaitement aux amateurs de clavier et aux professionnels, il allie innovation et savoir-faire. Ce clavier mécanique au design compact à 75 % peut apporter plus d’espace utilisable à votre environnement de bureau, tout en ayant une apparence élégante. De plus, il est extrêmement portable, ce qui vous permet de profiter d’une excellente expérience de frappe, où que vous soyez 【Clavier éclairé RVB】Le clavier est équipé d'un rétroéclairage RVB personnalisable qui offre différents modes et ajuste la luminosité et la vitesse de flux. Cela permet de personnaliser l'éclairage pour refléter votre personnalité et style. En plus d'ajouter une ambiance au jeu avec des effets lumineux, le clavier offre également un déclenchement sans fantôme pour une expérience de jeu plus fluide",
+    "price": 73.09,
+    "reference_price": null,
     "discount_percent": 15.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CD24SF3F",
-    "image_url": "https://m.media-amazon.com/images/P/B0CD24SF3F.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:04:17",
-    "category": "Animaux",
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/rk-royal-kludge-r75-azerty-3432517",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/PA8hi/3432517_1/re/1200x1200/qt/90/3432517_1.jpg",
+    "detected_at": "2026-10-14T16:14:27+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0D3GZYN1P?smid=AJZG4RF9FYEOG",
     "price_history": [
       {
-        "price": 24.57,
-        "observed_at": "2026-10-12T12:59:39.197341+00:00"
-      },
-      {
-        "price": 24.57,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 24.57,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 73.09,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
   {
-    "title": "Francodex - Tortue VIT - 15 g",
-    "price": 9.99,
-    "reference_price": 11.45,
-    "discount_percent": 12.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00HVYHO20",
-    "image_url": "https://m.media-amazon.com/images/P/B00HVYHO20.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:04:14",
-    "category": "Animaux",
+    "title": "Scanner outil de Diagnostic de voiture codage EUC 39 + Services programmation clé avec FCA CANFD DOIP",
+    "description": "201,06€ - AliExpress",
+    "price": 201.06,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/xtool-d7s-v20-obd2-scanner-outil-de-diagnostic-de-voiture-codage-euc-39-services-programmation-cle-avec-fca-canfd-doip-3432516",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OtMCF/3432516_1/re/1200x1200/qt/90/3432516_1.jpg",
+    "detected_at": "2026-10-14T16:12:49+00:00",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "price_checked_at": null,
+    "merchant_url": "https://fr.aliexpress.com/item/1005009976236325.html",
+    "price_history": [
+      {
+        "price": 201.06,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Etagère 5 Tablettes Métal Bois - 180 x 90 x 40 cm Charge Lourde",
+    "description": "16,90€ - Mr Bricolage Bon prix pour cette étagère ! Étagère 5 tablettes bois/métal 180x90x40 cm conçue pour supporter des charges lourdes avec une capacité de 175 kg par tablette. Sa hauteur de 180 cm et ses dimensions généreuses en font un choix idéal pour organiser et optimiser votre espace de rangement, que ce soit dans un atelier, un garage ou une pièce de stockage. Cette étagère robuste associe la chaleur du bois à la solidité du métal, garantissant durabilité et stabilité. Facile à monter, elle s’adapte à différents environnements grâce à son design fonctionnel et sa structure résistante. Avantages clés : Capacité élevée : 175 kg par tablette pour accueillir outils, matériaux ou objets volumineux. Matériaux résistants : bois et métal pour une solidité optimale. Dimensions pratiques : 180 cm de hauteur, 90 cm de largeur et 40 cm de profondeur. Polyvalente : parfaite pour un usage professionnel ou domestique. Choisir cette étagère, c’est opter pour un rangement fiable et durable qui facilite votre organisation au quotidien. Optimisez votre espace avec une solution pratique et robuste signée DECO SYSTEM.",
+    "price": 16.9,
+    "reference_price": 18.25,
+    "discount_percent": 7.4,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/etagere-5-tablettes-metal-bois-180-x-90-x-40-cm-charge-lourde-3432515",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mGjsU/3432515_1/re/1200x1200/qt/90/3432515_1.jpg",
+    "detected_at": "2026-10-14T16:12:29+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.9,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Clavier Mecanique RK Royal kludge R65 (via remise au panier - vendeur tiers)",
+    "description": "59,99€ - Amazon /!\\ REDUCTION LORS DE LA VALIDATION DU PANIER /!\\ j'ai un RK royal depuis un plus d'un an et j'en suis très satisfait. RK ROYAL KLUDGE R65 Clavier Mecanique 60% Gasket Mounted, Clavier Gamer Tri-Mode RGB Rétroéclairé, Clavier sans Fil AZERTY QMK/Via Hot-Swap, Clavier Compact PBT keycaps, Creamy Switch 【Clavier mécanique tri-mode】 Le clavier mecanique RK ROYAL KLUDGE R65 Tir Gasket Mounted Washer prend en charge les connexions USB-C, 2.4Ghz et Bluetooth. Les utilisateurs peuvent facilement basculer entre différents appareils connectés, ce qui en fait un choix polyvalent pour les utilisateurs à la recherche de performances et de commodité 【Clavier mécanique à 60 % de montage par joint】 : Clavier de jeu compact à 65 %, adapté au transport et à l’économie d’espace de bureau. Il adopte une structure de joint et cinq couches de matériau insonorisant, et il y a également du coton amortissant entre la carte PCB et la coque, ce qui peut réduire efficacement le bruit et les vibrations des touches et offrir une meilleure expérience de frappe. Ce clavier est conçu pour répondre à la plupart des besoins de travail et de jeu 【Rétroéclairage RVB cool】Vous pouvez choisir parmi plus de 20 modes de rétroéclairage intégrés dans le clavier pour profiter d’une variété d’effets RVB dynamiques, Grâce au logiciel QMK/VIA conçu spécifiquement pour les claviers de jeu sans fil. Le rétroéclairage du clavier TKL crée une atmosphère immersive pour le jeu, et toutes les pressions sur les touches sont enregistrées, ce qui rend l'expérience de jeu plus fluide et réactive 【Bouton en métal CNC en aluminium de haute qualité】Utilisez le bouton en métal CNC en aluminium de haute qualité pour contrôler facilement le volume de votre appareil. Il suffit de le faire pivoter pour régler le volume rapidement et facilement, ce qui vous permet de vous concentrer sur l'essentiel sans aucune distraction. Ce bouton est conçu pour offrir une expérience utilisateur fluide et ergonomique, vous permettant de profiter pleinement de votre appareil sans aucun effort 【Creamy Switch soyeux remplaçable à chaud】 Le clavier est équipé d’un Creamy Switch soyeuse. Ces commutateurs linéaires ont un design unique qui produit un son de tapotement soyeux et texturé qui vous offre une expérience de frappe confortable et agréable. Il maintient un retour doux et léger même lorsque vous frappez fort. La carte PCB de haute qualité est compatible avec les commutateurs à 3 broches/5 broches, ce qui vous permet d’effectuer des réglages hautement personnalisés 【Touches PBT robustes】 Les touches PBT sont fabriquées à l’aide d’une technologie de moulage par injection bicolore, qui non seulement donne aux touches une texture mate, mais empêche également efficacement la décoloration rapide de la couleur, améliorant considérablement la durabilité des touches. Par rapport aux touches ABS courantes, les touches PBT ont également une durée de vie plus longue, ce qui peut offrir aux utilisateurs une expérience de frappe plus confortable et plus stable",
+    "price": 59.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/clavier-mecanique-rk-royal-kludge-r65-3432513",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/a5y76/3432513_1/re/1200x1200/qt/90/3432513_1.jpg",
+    "detected_at": "2026-10-14T16:10:12+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 59.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Boitier PC Lian-Li Lancool 207 m-ATX, Noir",
+    "description": "74,28€ - PcComponentes Boitier pc lian li avec une petite promo et les frais de livraison gratuit. C'est un boitier avec 2 gros ventilateurs de 140mm à l'avant et plus les ventilateurs sont gros moins ils ont besoin de tourner vite et moins ils font de bruit. Boîtier PC noir avec panneau(s) en verre trempé, compatible ATX/mATX/Mini-ITX. Supporte GPU 37,5 cm, ventirad 18 cm radiateurs jusqu'à 360 mm. Baies 3,5\"/2,5\", gestion câbles optimisée, ports USB-A + USB-C en façade. Alimentation non fournie. Design Matériel: Acier, Verre trempé Format: Tower Type: PC Couleur du produit: Noir Facteur de forme de carte mère supporté: ATX, micro ATX, Mini-ITX Nombre de consoles 3.5\": 2 Nombre de baies 2,5 \": 1 Nombre de slots d'extension: 7 Vitre latérale: Oui Convient pour: Jouer Panneau(x) de verre trempé: Oui Gestion optimisée des câbles: Oui Bouton Marche/Arrêt: Oui Hauteur maximale refroidisseur de CPU: 18 cm Longueur maximale carte graphique: 37,5 cm Longueur maximale du câble d'alimentation: 16 cm Alimentation Electrique Bloc d'alimentation inclus: Non Connectivité Entrée audio: Oui Quantité de ports de type A USB 3.2 Gen 1 (3.1 Gen 1): 2 Quantité de ports USB de type C: 1 Quantité de ports de type C USB 3.2 Gen 2 (3.1 Gen 2): 1 Refroidissement Ventilateurs avant maximum: 2 Prise en charge des diamètres des ventilateurs avants: 140 mm Ventilateurs latéraux maximaux: 2 Pris en charge des diamètres des ventilateurs latérals: 120 mm Ventilateurs arrières maximaux: 1 Pris en charge des diamètres des ventilateurs arrières: 120 mm Ventilateurs supérieurs maximaux: 3 Pris en charge des diamètres des ventilateurs supérieurs: 120,140 mm Vitesse du ventilateur: 450 - 1900 tr/min Courant d'air maximum: 109,3 cfm Pression d'air maximale: 3,3 mmH2O Tailles des radiateurs supérieurs prises en charge: 240,280,360 mm Support de stockage Tailles de disques durs supportées: 2.5,3.5\" Facteur de forme SSD: 2.5\" Détails techniques Période de garantie: 1 année(s) Poids et dimensions Largeur: 219 mm Profondeur: 455,6 mm Hauteur: 456 mm",
+    "price": 74.28,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/boitier-pc-lian-li-lancool-207-m-atx-noir-3432511",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FhTBq/3432511_1/re/1200x1200/qt/90/3432511_1.jpg",
+    "detected_at": "2026-10-14T16:08:21+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 74.28,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Clé dynamométrique pour vélo Crivit .",
+    "description": "9,99€ - Lidl Uniquement en ligne dès le jeudi 22/10",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cle-dynamometrique-pour-velo-crivit-3432510",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jdxRo/3432510_1/re/1200x1200/qt/90/3432510_1.jpg",
+    "detected_at": "2026-10-14T16:07:16+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
         "price": 9.99,
-        "observed_at": "2026-10-12T12:59:39.197346+00:00"
-      },
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ordinateur Portable 16\" Apple MacBook Pro Portable avec M5 Max, CPU 18 Cœurs et GPU 32 cœurs",
+    "description": "3 999€ - Amazon Apple MacBook Pro Portable avec M5 Max, CPU 18 cœurs et GPU 32 cœurs : Conçu pour l’IA, Écran Liquid Retina XDR 16,2 Pouces, Mémoire unifiée 36 Go, SSD 2 to, Wi-FI 7, Noir sidéral",
+    "price": 3999.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/apple-macbook-pro-portable-avec-m5-max-cpu-18-coeurs-et-gpu-32-coeurs-3432509",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/55yY0/3432509_1/re/1200x1200/qt/90/3432509_1.jpg",
+    "detected_at": "2026-10-14T16:05:39+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3999.0,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle Zazie Zest Of.",
+    "description": "9,99€ - Cultura Les plus grands tubes de Zazie réunis dans un best of 12 titres : \"Je suis un homme\", \"Rue de la paix\", \"Larsen\", \"Zen\", \"Un point c'est toi\".",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/zest-of-vinyle-zazie-3432508",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mpJfl/3432508_1/re/1200x1200/qt/90/3432508_1.jpg",
+    "detected_at": "2026-10-14T16:03:17+00:00",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
         "price": 9.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "VTTAE Lapierre Overvolt AM 5.8 Performance CX 800 Wh",
+    "description": "2 999€ - Statera Bikes Voici la fiche résumée du Lapierre Overvolt AM 5.8 Performance CX 800 Wh : Points clés & Positionnement * Type : VTT électrique tout-suspendu (E-MTB All-Mountain / Enduro). * Prix proposé : 2 999,00 € (au lieu du prix conseillé de 5 999,00 €). * Format de roues « Mullet » : 29 pouces à l'avant (meilleur franchissement) et 27,5 pouces à l'arrière (plus d'agilité et de motricité). Motorisation & Électronique * Moteur : Bosch Performance Line CX (couple max. 85 Nm, assistance jusqu'à 25 km/h). * Batterie : Bosch PowerTube 800 Wh (très grande autonomie, jusqu'à 150 km selon usage). * Écran / Console : Bosch Kiox 300 (Système Intelligent). Châssis & Suspensions * Cadre : Aluminium (Alliage Suprême 5). * Fourche : RockShox Domain GOLD Isolator R, débattement 170 mm. * Amortisseur : Lapierre Shock (205x60 mm Trunnion). Transmission & Freinage * Transmissions : Shimano CUES U6000 1x11 vitesses (cassette LG400 11-50T). * Freins : Freins à disques hydrauliques Shimano M4100 à 4 pistons (fort pouvoir de ralentissement requis pour le VTTAE). * Pneumatiques : Continental Kryptotal F Enduro (avant) / Kryptotal R Enduro (arrière). * Tige de selle : Télescopique JD YSP18 (130 mm de débattement). Spécifications générales * Poids total autorisé : 120 kg (vélo + pilote + équipement). * Poids du vélo : ~23,9 kg.",
+    "price": 2999.0,
+    "reference_price": 5999.0,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vvtae-lapierre-overvolt-am-58-performance-cx-800-wh-3432507",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wVcz0/3432507_1/re/1200x1200/qt/90/3432507_1.jpg",
+    "detected_at": "2026-10-14T15:59:47+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 2999.0,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Peluche Nintendo Luigi - 30 cm",
+    "description": "6,99€ - Smyths Toys Peluche officielle representant le personnage de Luigi issu de l univers Super Mario, d une hauteur de 30 cm. Le personnage est fabrique dans une matiere douce et porte sa casquette verte emblematique, sa salopette bleue ainsi que ses gants blancs. Un jouet adapte aux enfants des la naissance comme aux collectionneurs de l univers Nintendo. Lien direct : https://www.smythstoys.com/fr/fr-fr/jouets/peluches/autres-peluches/super-mario-peluche-luigi-30-cm/p/222907 Prix : 6,99€ Frais de port : 3,99€ (gratuits des 29€ d achats ou en retrait magasin Click and Collect 1h) Code promo : Aucun",
+    "price": 6.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/peluche-nintendo-luigi-30-cm-3432506",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/L2X3M/3432506_1/re/1200x1200/qt/90/3432506_1.jpg",
+    "detected_at": "2026-10-14T15:58:10+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle Ariana Grande Sweetener",
+    "description": "24,99€ - Cultura A seulement 24 ans, Ariana Grande affiche déjà une incroyable carrière ! 3 albums studio tous certifié platine, 18 milliards de streams, et des tubes comme 'Problem' ou encore 'Love Me Harder' qui l'ont porté au rang de pop star internationale. Elle fait aujourd'hui un retour très attendu avec un nouvel opus 'Sweetener' dont le premier extrait 'No Tears Left To Cry' cartonne déjà en tête des charts du monde entier !! Titre du produitSweetener - Vinyle Artiste principalAriana Grande InterprèteAriana Grande Support musical2 LP Date de commercialisation22/08/2022 EditeurUNIVERSAL MUSIC DV EAN0602577005954",
+    "price": 24.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sweetener-vinyle-ariana-grande-3432504",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3GhOJ/3432504_1/re/1200x1200/qt/90/3432504_1.jpg",
+    "detected_at": "2026-10-14T15:55:06+00:00",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -11462,8 +11596,30 @@
     ]
   },
   {
+    "title": "Poêle Tomado Superior Superior - Ø 20 cm",
+    "description": "5,98€ - Action Description Composée de 5 couches, avec double couche antiadhésive Convient pour tous feux Poêle sans APFO Cette poêle d'excellente qualité de Tomado permet de préparer les meilleurs légumes et viandes. Cette poêle chauffe 2x plus vite qu’une poêle ordinaire. Cela permet de gagner du temps, mais aussi de l’énergie. Idéal pour une cuisson économe en énergie. Caractéristiques Couleur:Noir Matériau:Acier Avec couche antiadhésive:Oui Avec couvercle:Non Lavable au lave-vaisselle:Oui Pour type de source de chaleur:Électrique, Gaz, Induction, Céramique",
+    "price": 5.98,
+    "reference_price": 7.49,
+    "discount_percent": 20.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/poele-tomado-superior-superior-o-20-cm-3432502",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pP2Ir/3432502_1/re/1200x1200/qt/90/3432502_1.jpg",
+    "detected_at": "2026-10-14T15:50:06+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.98,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
+      }
+    ]
+  },
+  {
     "title": "Occasion Comme neuf: Interrupteur magnétothermique triphasé Elektronova 4P 32A C32 6kA - 4 modules DIN - 380V",
-    "description": "5,99€ - Amazon Description du produit Interrupteur magnétothermique automatique Elektron 4P C32 32A 6kA 4 modules DIN - conçu pour garantir une continuité maximale de service dans les installations triphasées 380 V. Assure une protection instantanée contre les surcharges et les courts-circuits grâce au mécanisme de déclenchement rapide courbe C32. Le corps en technopolymère auto-extinguible résiste à des températures élevées et aux chocs, tandis que le levier ergonomique est testé pour plus de 20 000 opérations. Produit conforme à la norme IEC/EN 60898-1 et doté d'un marquage CE ; chaque unité est testée en usine pour garantir des performances constantes. Idéal pour les tableaux électriques civils et les petites applications industrielles, s'installe rapidement sur rail DIN 4 sans besoin d'outils spéciaux et s'intègre avec les principaux accessoires de signalisation et de connexion. Couvert par 2 ans de garantie ELEKTRONOVA avec service technique dédié en Italie.",
+    "description": "5,99€ - Amazon Description du produit Interrupteur magnétothermique automatique Elektron 4P C32 32A 6kA 4 modules DIN - conçu pour garantir une continuité maximale de service dans les installations triphasées 380 V. Assure une protection instantanée contre les surcharges et les courts-circuits grâce au mécanisme de déclenchement rapide courbe C32. Le corps en technopolymère auto-extinguible résiste à des températures élevées et aux chocs, tandis que le levier ergonomique est testé pour plus de 20 000 opérations. Produit conforme à la norme IEC/EN 60898-1 et doté d'un marquage CE ; chaque unité est testée en usine pour garantir des performances constantes. Idéal pour les tableaux électriques civils et les petites applications industrielles, s'installe rapidement sur rail DIN 4 sans besoin d'outils spéciaux et s'intègre avec les principaux accessoires de signalisation et de connexion. Couvert par 2 ans de garantie ELEKTRONOVA avec service technique dédié en Italie. À propos de ce produit Interrupteur magnétothermique automatique certifié - qualité professionnelle pour installations civiles et industrielles Protège l'installation contre les surcharges et les courts-circuits Puissance de coupure nominale 6 kA, tension nominale 380 V 4P Quadripolaire, 4 modules DIN, triphasé Conforme IEC/EN 60898-1 - 2 ans de garantie Commentaires client",
     "price": 5.99,
     "reference_price": 9.98,
     "discount_percent": 40.0,
@@ -11487,8 +11643,8 @@
     "title": "Chaussures de running Saucony Hurricane 25 - course, vert",
     "description": "79,99€ - Veepee Chaussures de running \"Hurricane 25\" Collection : 2026 Sport : course Hauteur du talon : 3,8 cm Sur le devant : Lacets Plateforme : 3,2 cm Nos chaussures les plus premium et amortissantes de tous les temps. Conçues avec des technologies innovantes, les Hurricane 25 sont pensées pour offrir un confort et un soutien au plus haut niveau. • Confort premium et amortissement maximal grâce à l'épaisse couche de super mousse PWRRUN PB, pour une sensation douce et élastique, associée à la protection réactive de la couche de mousse PWRRUN. • La semelle intérieure SRS offre un confort et des performances exceptionnels. • Géométrie repensée pour mettre en valeur la technologie CenterPath et offrir une protection encore plus grande. • Semelle en caoutchouc XT-900, redessinée pour garantir une plus grande flexibilité, résistance et adhérence. • Tige en mesh technique, douce et premium, pour un confort de luxe à chaque contact. Idéales pour les sorties quotidiennes. Durabilité : modèle vegan contenant des matériaux recyclés. Coloris Vert Composition Dessus / tige : tissu et synthétique Semelle intérieure : tissu et polyuréthane expansé Semelle extérieure : caoutchouc Doublure : tissu Caractéristiques techniques PWRRUN PB PWRRUN SRS CenterPath XT-900",
     "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 110.0,
+    "discount_percent": 27.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/saucony-chaussures-de-running-hurricane-25-course-vert-3432500",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/DwYi7/3432500_1/re/1200x1200/qt/90/3432500_1.jpg",
@@ -11509,8 +11665,8 @@
     "title": "36 Sachets M&M'S - 36 x 45g",
     "description": "17,99€ - Amazon Attends un peu. Quoi ? Quelqu'un a dit 1,6 kilo de M&M's aux cacahuètes ? Tu ne rêves pas. De vraies cacahuètes grillées dans un délicieux chocolat au lait, enrobées d'une coque sucrée et colorée. Donnez à votre réunion d'équipe un petit coup de pouce à la manière d'une cacahuète en distribuant des sachets au lieu de pointer du doigt des diagrammes. Contient 36 sachets de 45g. Passe à 17,99 € avec Prévoyez et Économisez !",
     "price": 17.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 24.0,
+    "discount_percent": 25.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/mms-peanut-bonbons-chocolat-au-lait-cacahuetes-36-sachets-de-45g-3432498",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/aH6YI/3432498_1/re/1200x1200/qt/90/3432498_1.jpg",
@@ -11531,8 +11687,8 @@
     "title": "Bouteille de vin rouge Château Pavillon Beauregard 2019, Lalande De Pomerol AOC, 75cl (+ 2.62€ en cagnotte)",
     "description": "17,50€ - Wine and Co Un excellent tarif (14,88€ après cagnottage) pour ce grand millésime 2019 du petit frère du Château Beauregard, célèbre à Pomerol ! Ce Pavillon Beauregard est vinifié dans les mêmes chais mais dans l'appellation voisine de Lalande de Pomerol. C'est un excellent RQP . Prêt à boire ou à attendre jusqu'en 2034. Vivino 4,1/5 Figaro vin 93/100 James Suckling 91/100 Guide Hachette 1*",
     "price": 17.5,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 25.0,
+    "discount_percent": 30.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/bouteille-de-vin-rouge-chateau-pavillon-beauregard-2019-lalande-de-pomerol-aoc-75cl-via-15-cagnottes-3432494",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/VVX6T/3432494_1/re/1200x1200/qt/90/3432494_1.jpg",
@@ -11570,8 +11726,8 @@
     "title": "Sweat à capuche Gap V Intx Hood - Flannel Taupe, Tailles S à XL",
     "description": "27,65€ - Zalando",
     "price": 27.65,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 49.95,
+    "discount_percent": 44.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/gap-v-intx-hood-sweat-a-capuche-flannel-taupe-3432491",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/i2pIb/3432491_1/re/1200x1200/qt/90/3432491_1.jpg",
@@ -11592,8 +11748,8 @@
     "title": "Chaussure de foot basse à crampons Nike Mercurial Superfly 11 Elite Kylian Mbappé pour terrain synthétique",
     "description": "209,99€ - Nike Coloris : Metallic Gold/Green Glow.",
     "price": 209.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 270.0,
+    "discount_percent": 22.2,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/nike-mercurial-superfly-11-elite-kylian-mbappe-chaussure-de-foot-basse-a-crampons-pour-terrain-synthetique-3432488",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/D53r2/3432488_1/re/1200x1200/qt/90/3432488_1.jpg",
@@ -11614,8 +11770,8 @@
     "title": "Casque audio sans fil Logitech G G321 Lightspeed",
     "description": "33,99€ - Amazon • Confort et ajustement dynamiques: casque sans fil avec micro conçu pour un confort léger (210 g) avec un bandeau épais, un tissu maille à haute élasticité et des oreillettes en mousse à mémoire de forme • Technologie sans fil LIGHTSPEED: la technologie sans fil légendaire de Logitech G offre une expérience de gaming sur PC transparente et fiable avec une autonomie de plus de 20 heures pour des sessions de jeu épiques • Microphone 16 kHz: le micro à tige avec fonction de désactivation du son flip-up permet des communications cristallines pour des discussions d’équipe précises et un contrôle facile du micro pendant le jeu • Compatibilité Bluetooth: prêt à l’emploi pour un accès rapide au chat Discord, aux jeux mobiles, à la musique et plus encore, il est pour le gaming en Bluetooth en déplacement • Transducteurs audio: un son riche et détaillé pour un jeu immersif, pour mieux entendre les bruits de pas, ressentir les explosions et détecter les indices du jeu dès la première utilisation • Commandes simplifiées: les boutons d’alimentation, Bluetooth et de volume, facilement accessibles, vous permettent de régler rapidement les paramètres afin de rester concentré sur le jeu • Jouez sans limite: G321 offre un port confortable, une qualité de micro claire, des connexions flexibles et des fonctionnalités avancées, pour améliorer votre configuration et votre expérience de jeu Spécifications Marque: Logitech G Couleur: Blanc Emplacement des oreilles: Extra-auriculaire Facteur de forme: Supra-Auriculaire Impédance: 32 Ohms Insonorisation: Réduction adaptative du bruit, Réduction hybride du bruit Réponse en fréquence: 20 KHz Sensibilité: 78 dB Prise jack pour écouteurs: Pas de jack Nom de modèle: Logitech G321 LIGHTSPEED Numéro du modèle: 981-001569 Nom du modèle: Logitech G321 LIGHTSPEED contenu de la boîte: Casque gaming sans fil G321 LIGHTSPEED, Câble de charge USB-C vers USB-A, Documentation utilisateur, Récepteur sans fil USB-A LIGHTSPEED Description de la tranche d’âge: Adulte pays d'origine: Vietnam Description de la garantie: 2 year manufacturer nombre d'articles: 1 Point fort de l’article: Confort et ajustement dynamiques, micro à tige 16 khz, + de 20 h d’autonomie, PC, PS4, PS5, Nintendo Switch, mobile - Blanc Nombre d’emballages: 1 fabriquant: Logitech numéro de pièce: 981-001569 Classement des meilleures ventes d'Amazon: 34 en Jeux vidéo (Voir les 100 premiers en Jeux vidéo) 2 en Casques gaming pour PC ASIN: B0FL7QLH89 Moyenne des commentaires client: 4,1 4,1 sur 5 étoiles (495) 4,1 sur 5 étoiles Placement des écouteurs auditifs: Extra-auriculaire facteur de forme des écouteurs: Supra-Auriculaire Forme de l'écouteur: Rond Méthode de contrôle: Bouton poussoir unité de mesure de l'impédance: 32 Ohms Contrôle du bruit: Réduction adaptative du bruit, Réduction hybride du bruit Réponse de fréquence: 20 KHz Type de conducteur audio: Dynamique Gamme de fréquence: 20 Hz - 20 KHz appareils compatibles: Ordinateurs portables, ordinateurs de bureau, consoles de jeux, tablettes, téléphones, haut-parleurs intelligents, téléviseurs, téléphones portables Fonctionnalités du produit: Sans fil (2,4 GHz LIGHTSPEED sans fil, Bluetooth), microphone 16 kHz, coussinets en mousse à mémoire de forme, bandeau épais Jack écouteurs: Pas de jack technologie de la connectivité: 2.4 GHz, Bluetooth, USB technologie sans fil: 2,4 GHz, Bluetooth Version Bluetooth: 5.2 Interface matérielle: Bluetooth Interface d'appareil d'entrée: Bluetooth Compatible Bluetooth ?: Oui Type de produit: G321 | +20h Batterie durée de vie moyenne de la batterie: 20 heures Commentaires client",
     "price": 33.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 43.27,
+    "discount_percent": 21.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/casque-audio-sans-fil-logitech-g-g321-lightspeed-3432487",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/66cjr/3432487_1/re/1200x1200/qt/90/3432487_1.jpg",
@@ -11636,8 +11792,8 @@
     "title": "Sweat à capuche Levi's Cozy Up Hoodie - jet black",
     "description": "52,45€ - Zalando",
     "price": 52.45,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 69.95,
+    "discount_percent": 25.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/levis-cozy-up-hoodie-sweat-a-capuche-jet-black-3432486",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/METQm/3432486_1/re/1200x1200/qt/90/3432486_1.jpg",
@@ -11658,8 +11814,8 @@
     "title": "Casque Conduction Osseuse Bluetooth 6.0, IP7 (Vendeur TIers)",
     "description": "36,99€ - Amazon - Technologie de conduction osseuse: Ce écouteurs à conduction osseuse utilise une technologie avancée qui transmet le son via des vibrations légères directement à l’oreille interne, sans passer par le conduit auditif. Cette méthode innovante préserve l’intégrité de l’oreille externe, réduisant le gonflement et la fatigue de l’oreille souvent causés par les écouteurs traditionnels. Grâce à un design ouvert et ergonomique, il offre un confort exceptionnel même lors d’une utilisation prolongée. - Sécurité et santé: Conçus pour une utilisation en extérieur et lors d’activités sportives, ces open … À propos de ce produit Technologie de conduction osseuse: Ce écouteurs à conduction osseuse utilise une technologie avancée qui transmet le son via des vibrations légères directement à l’oreille interne, sans passer par le conduit auditif. Cette méthode innovante préserve l’intégrité de l’oreille externe, réduisant le gonflement et la fatigue de l’oreille souvent causés par les écouteurs traditionnels. Grâce à un design ouvert et ergonomique, il offre un confort exceptionnel même lors d’une utilisation prolongée. Sécurité et santé: Conçus pour une utilisation en extérieur et lors d’activités sportives, ces open ear ecouteur favorisent une perception accrue de votre environnement, vous permettant de rester vigilant face à la circulation, aux piétons et aux signaux d’alerte. Leur design ouvert empêche l’accumulation de sueur dans l’oreille, minimisant ainsi les risques d’irritation, d’infections ou d’inconfort liés à une écoute prolongée. Idéal pour un usage quotidien en toute sécurité et confort. IPX7 Étanches et Résistants à la Transpiration: Ces casque conduction osseuse bluetooth à oreille ouverte offrent une protection fiable conforme à la norme IPX7, idéals pour le sport et les activités de plein air sous la pluie ou en cas de forte transpiration. Les écouteurs de sport sont dotés d’un revêtement anticorrosion, facile à nettoyer et durable. Audio Open-Ear pour un Son Amélioré : Grâce à une technologie sonore avancée, ces casque conduction osseuse sans fil offrent un son d'une richesse, d'une profondeur et d'une précision impressionnantes. Le traitement minutieux des fréquences garantit des basses puissantes, des médiums cristallins et des aigus équilibrés. Profitez d'une immersion naturelle avec une grande fidélité des détails et un rendu vocal éclatant, pour un plaisir musical d'exception à chaque écoute. Bluetooth 6.0 Mode et Mode Jeu: Ce casque à conduction osseuse utilise une puce Bluetooth 6.0 avancée pour une connexion rapide, stable et à faible latence. Deux modes d'écoute répondent à différents besoins : le mode Bluetooth 6.0 convient pour la musique quotidienne et les appels, garantissant une qualité sonore claire et stable ; le mode jeu est spécialement conçu pour réduire la latence, assurant une synchronisation parfaite entre le son et l’image, pour une expérience de jeu plus fluide. Autonomie Longue Durée: Ces casque sans fil à oreilles ouvertes offrent jusqu’à 12 heures de lecture musicale continue après seulement 2 heures de charge, idéals pour le sport, les trajets quotidiens, le travail ou les loisirs. Grâce à une batterie fiable, profitez de votre musique et de vos appels en toute tranquillité, où que vous soyez. Les écouteurs sans fil sont équipés d’un écran LED qui affiche le niveau de batterie restant, pour un suivi clair et pratique à tout moment. Commentaires client",
     "price": 36.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 43.27,
+    "discount_percent": 14.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/casque-conduction-osseuse-bluetooth-60-ip7-ecouteurs-a-conduction-osseuse-3432485",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/GaxC6/3432485_1/re/1200x1200/qt/90/3432485_1.jpg",
@@ -11680,8 +11836,8 @@
     "title": "Onimusha: Dawn of Dreams sur PS4/PS5 (Dématérialisé)",
     "description": "4,99€ - PlayStation Store Plongez au cœur du Japon féodal et incarnez l'Oni des Cendres : Soki, un jeune guerrier puissant, s'allie à ses compagnons pour affronter les redoutables démons connus sous le nom de Genma. À la mort d'Oda Nobunaga, les forces Genma, qui avaient autrefois ravagé le Japon, disparaissent. Toyotomi Hideyoshi prend le pouvoir, laissant croire à beaucoup que la paix est revenue. Ce jour fatidique du 29 juin 1596, une planète étrangement lumineuse apparaît dans le ciel, provoquant une transformation inattendue chez Hideyoshi. Des catastrophes naturelles frappent le pays, plongeant la population dans une angoisse généralisée. Les Genma refont surface et sèment la terreur à travers le pays. Deux ans plus tard, alors que le chaos règne, Hideyoshi entreprend de rassembler des cerisiers venus des confins du Japon pour les faire transporter jusqu'à la capitale. C'est alors qu'apparaît un jeune guerrier doté de pouvoirs obscurs.",
     "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 9.99,
+    "discount_percent": 50.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/onimusha-dawn-of-dreams-ps4ps5-dematerialise-3432484",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/rgXLt/3432484_1/re/1200x1200/qt/90/3432484_1.jpg",
@@ -11856,8 +12012,8 @@
     "title": "Machine à expresso Philips Baristina BAR302/20 cafetière à grain Blanche + Porte-filtre Bois de Hêtre",
     "description": "249,99€ - Boulanger La machine à expresso PHILIPS Baristina BAR302/20 est conçue pour offrir une expérience de café incomparable. *spécifications du produit :* - Broyeur en céramique - Pression de 16 bars - Infusion de grains fraîchement moulus - Préservation des arômes - Porte-filtre en bois de hêtre",
     "price": 249.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 320.0,
+    "discount_percent": 21.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/machine-a-expresso-philips-baristina-bar30220-cafetiere-a-grain-blanche-porte-filtre-bois-de-hetre-3432474",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1LLUE/3432474_1/re/1200x1200/qt/90/3432474_1.jpg",
@@ -23393,6 +23549,10 @@
       {
         "price": 196.01,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 196.01,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -23415,6 +23575,10 @@
       {
         "price": 25.95,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 25.95,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -23437,6 +23601,10 @@
       {
         "price": 32.95,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 32.95,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -23459,6 +23627,10 @@
       {
         "price": 5.39,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 5.39,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -23481,6 +23653,10 @@
       {
         "price": 369.99,
         "observed_at": "2026-10-13T16:08:57.468173+00:00"
+      },
+      {
+        "price": 369.99,
+        "observed_at": "2026-10-14T16:22:55.415232+00:00"
       }
     ]
   },
@@ -23706,500 +23882,6 @@
       {
         "price": 11.99,
         "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Gels WC Action Nettoyante - Parfum menthe",
-    "description": "2,89€ - Aldi À partir du mardi 20 octobre chez Aldi, profitez d'une offre de -68% sur le 2ème produit sur le Gel WC Action Nettoyante Canard (Parfum Fraîcheur Menthe).",
-    "price": 2.89,
-    "reference_price": null,
-    "discount_percent": 68.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/canard-canari-gel-wc-action-nettoyante-68-sur-le-2eme-3431816",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/dmTRW/3431816_1/re/1200x1200/qt/90/3431816_1.jpg",
-    "detected_at": "2026-10-13T15:19:36+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2.89,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 2.89,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Gundam Rogue Orbit sur PS5",
-    "description": "49,99€ - Auchan Article en précommande, date de sortie le 05/06/27 Développé par Bandai Namco Studios L'histoire : Vous incarnez RE-X , le pilote du mecha prototype Gundam Helix . Accompagné de votre Haro nommé Vii , vous menez des missions depuis le vaisseau spatial Stellarvane jusqu'à la surface de Mars pour affronter une menace extraterrestre destructrice appelée l'Apocalypse . Modes de jeu : Il est jouable en solo mais propose également un mode coopératif en ligne jusqu'à 3 joueurs (l'abonnement PlayStation Plus est requis pour le multijoueur). Prenez les commandes d'un puissant Mobile Suit dans un jeu d'action qui réimagine l'expérience Gundam avec des combats frénétiques et cinématographiques se déroulant dans un tout nouvel univers. Trailer: [shortcode id=\"20619141\"/]",
-    "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-gundam-rogue-orbit-sur-ps5-3431815",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JvI7h/3431815_1/re/1200x1200/qt/90/3431815_1.jpg",
-    "detected_at": "2026-10-13T15:19:15+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tronçonneuse Électrique Scheppach CSE2600 - 45.5cm 2400W",
-    "description": "69,99€ - Cdiscount",
-    "price": 69.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tronconneuse-electrique-scheppach-cse2600-455cm-2400w-3431814",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xrj07/3431814_1/re/1200x1200/qt/90/3431814_1.jpg",
-    "detected_at": "2026-10-13T15:19:06+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 69.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 69.99,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Abri de pêche pliable Vevor - 1,5 x 1,5 x 1,65 m, Noir",
-    "description": "49€ - Amazon Prévue initialement pour la pêche sur glace, elle peut surtout dépanner comme affût photo ou abri étanche rapide pour poser son matos au sec au bord de l'eau. La structure se déplie et se replie directement sans assemblage d'arceaux (y) toile en tissu Oxford 300D étanche (revêtement PU 3 couches) dimensions : 1,5 x 1,5 m au sol, 1,65 m de haut (1 à 2 personnes) porte zippée, fenêtre amovible pour l'aération et poche de rangement interne livrée complète : sac de transport type sac à dos, 8 piquets d'ancrage et haubans À propos de ce produit Tissu de qualité supérieure : Cet abri de pêche sur glace portable est fabriqué en tissu Oxford 300D de haute qualité et dispose d'un revêtement noir en PU à 3 couches pour une excellente résistance au vent, à l'eau et au froid. La forte capacité de blocage de la lumière empêche efficacement la pénétration de la lumière, améliorant ainsi votre expérience et votre efficacité de pêche sur glace, créant un environnement idéal pour les passionnés. Stabilité face au vent : La structure de la tige de support de la tente de pêche sur glace escamotable est conçue pour durer et est renforcée aux coins avec des matériaux robustes pour une résistance supérieure au vent et à la neige. Elle comprend 8 ancres à glace robustes et 4 cordes à vent pour assurer la stabilité en cas de vent fort. Les ancres à glace peuvent être facilement placées grâce aux boucles d'arrimage situées sur la jupe extra-large. Conception pop-up : La conception pop-up pratique permet une installation et un démontage faciles de la cabane à glace pour la pêche hivernale. En quelques étapes simples, vous pouvez préparer votre abri à l'emploi ou le ranger rapidement. Détails supplémentaires : Cette tente de pêche sur glace de 1,5 x 1,5 x 1,65 m avec sac de transport est dotée d'une fenêtre amovible pour une ventilation réglable et un risque de fuite réduit. La conception de la porte à fermeture éclair permet une entrée et une sortie faciles. Un sac de rangement interne offre une organisation pratique pour divers articles, améliorant votre confort et votre plaisir pendant la pêche hivernale. Facile à transporter : Cette tente de pêche sur glace pliable à ouverture rapide est légère et facile à transporter, ce qui la rend simple à ranger. Vous pouvez tout ranger dans un grand sac fourre-tout avec des sangles de sac à dos pour un transport pratique. Commencez votre aventure de pêche sur glace à tout moment, n'importe où, et profitez d'une grande commodité pour les amateurs de plein air. Commentaires client",
-    "price": 49.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/abri-de-peche-pliable-vevor-15-x-15-x-165-m-noir-3431813",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/D2e61/3431813_1/re/1200x1200/qt/90/3431813_1.jpg",
-    "detected_at": "2026-10-13T15:18:36+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 49.0,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 49.0,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ecran PC 27\" Xiaomi Gaming Monitor G27i - Full HD, Fast IPS, 165Hz",
-    "description": "116,99€ - AliExpress Officiel] Xiaomi Gaming Monitor G27i | Technologie \"Fast IPS\" - Rafraîchissement 165Hz - GTG de 1 ms，FreeSync™ Premium",
-    "price": 116.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/officiel-xiaomi-gaming-monitor-g27i-technologie-fast-ips-rafraichissement-165hz-3431812",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2Vjc1/3431812_1/re/1200x1200/qt/90/3431812_1.jpg",
-    "detected_at": "2026-10-13T15:16:41+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 116.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 116.99,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Souris Gaming Sans Fil Tri-Mode Uineer - Ultralégère 58 g, 32 000 DPI, Bluetooth 5.0 / 2,4 GHz / Filaire (Vendeur Tiers, Via Coupon)",
-    "description": "17,98€ - Amazon 17,98€ au lieu de 27,19€ soit 9,21€/34% de réduction ( avec coupon ) (y) Description : La Uineer sans fil gamer tri-mode est une souris gaming ultralégère, polyvalente et confortable, pour le jeu, le bureau et la création. Elle bascule entre Bluetooth 5.0, sans fil 2,4 GHz et mode filaire, et se connecte jusqu'à 3 appareils. Son capteur optique propose 6 niveaux de DPI (800 à 32 000), avec un taux de rafraîchissement de 1 000 Hz et un temps de réponse de 1 ms. Ses 6 boutons sont programmables via le logiciel compagnon (macros, réglages). Avec seulement 58 g, elle limite la fatigue du poignet lors des longues sessions. Sa finition motif fibre de carbone avec détails dorés lui donne un look soigné, et sa forme est optimisée pour les droitiers. Caractéristiques : Marque : Uineer Type : Souris gaming sans fil tri-mode Poids : 58 g Capteur : Optique haute performance Résolution : 6 niveaux de DPI, de 800 à 32 000 Taux de rafraîchissement : 1 000 Hz Temps de réponse : 1 ms Connexions : Bluetooth 5.0, sans fil 2,4 GHz, filaire Multi-appareils : Jusqu'à 3 appareils Boutons : 6 programmables, macros via le logiciel compagnon Durée de vie des boutons : 6 millions de clics Batterie : Rechargeable, 500 mAh Charge : USB-C rapide, câble de 50 cm inclus Design : Motif fibre de carbone avec détails dorés Prise en main : Forme ergonomique pour droitiers Compatibilité : PC, Mac et appareils compatibles À propos de ce produit 【Capteur optique haute performance｜6 niveaux de DPI jusqu'à 32 000】Six niveaux de DPI prédéfinis réglables : 800, 1600, 2400, 3200, 6500, 32000. Choisissez un DPI plus bas pour le travail de conception détaillé ou augmentez la sensibilité pour un gaming rapide. L'indicateur à code couleur intégré vous permet de vérifier votre réglage DPI actif en un coup d'œil. Le taux de rapport réglable va de 125 Hz à 1000 Hz avec un temps de réponse de 1 ms, enregistrant instantanément chaque clic et glissement pour un suivi précis du curseur. 【58 g ultra-légère et forme ergonomique pour un confort toute la journée】Avec seulement 58 g, cette souris ultralégère glisse sans effort et avec moins de résistance. Sa conception légère aide à minimiser la tension du poignet et la fatigue de la main lors d'une utilisation prolongée. Adaptée au gaming rapide, aux tâches de bureau, aux études et aux longues sessions informatiques quotidiennes. 【Commutation multi-appareils instantanée｜Bluetooth 5.0, 2,4 GHz et USB-A filaire】Une souris avec trois modes de connexion. Basculez entre ordinateur portable, bureau et tablette d'un simple clic. Pas de changement de dongle, pas de réappairage répété et aucun tracas supplémentaire. Travaillez en toute fluidité sur PC, Mac, iPad et autres appareils compatibles. 【Boutons entièrement personnalisables et fonctions macro via le logiciel pilote compagnon】Réattribuez chaque bouton et définissez des commandes macro personnalisées avec le logiciel pilote compatible pour l'adapter à votre flux de travail. Attribuez des raccourcis fréquemment utilisés aux boutons latéraux ou créez des profils dédiés à des applications spécifiques. Les commutateurs durables testés en laboratoire sont évalués jusqu'à 6 millions de clics pour des performances fiables à long terme. 【Batterie 500 mAh｜Recharge rapide USB-C】La batterie intégrée de 500 mAh offre une longue autonomie pour des journées de travail complètes et des sessions de gaming. Rechargez rapidement via le câble USB-C si nécessaire. Plus de remplacements fréquents de piles jetables et plus d'arrêts inattendus pour interrompre votre travail ou votre jeu. Réaction rapide et support produit : Tous les produits Unieer bénéficient d'une garantie de 24 mois. Nous accordons une grande importance à un design réfléchi, une qualité fiable, un emballage sûr et un service client attentif. Si vous avez des questions sur nos produits, veuillez nous contacter afin que nous puissions garantir votre entière satisfaction. Commentaires client",
-    "price": 17.98,
-    "reference_price": 27.19,
-    "discount_percent": 33.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/souris-gaming-sans-fil-tri-mode-uineer-ultralegere-58-g-32-000-dpi-bluetooth-50-24-ghz-filaire-design-fibre-de-carbone-3431811",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DZ7bP/3431811_1/re/1200x1200/qt/90/3431811_1.jpg",
-    "detected_at": "2026-10-13T15:16:15+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 17.98,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 17.98,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Huile d'olive vierge extra Bellasan - 2L (soit 5.58€/L)",
-    "description": "11,15€ - Aldi À partir du mardi 20 octobre chez Aldi, le bidon de 2 Litres d'huile d'olive vierge extra de la marque Bellasan est proposé à 11,15 €, ce qui revient à 5,58 € le litre. Un très bon prix au litre vu l'augmentation globale des prix de l'huile d'olive ces derniers temps.",
-    "price": 11.15,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bellasan-huile-dolive-vierge-extra-b-ref-8272-3431810",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ByQt1/3431810_1/re/1200x1200/qt/90/3431810_1.jpg",
-    "detected_at": "2026-10-13T15:15:38+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 11.15,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 11.15,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Blu-ray 4K Superman (1978) SteelBook édition limitée",
-    "description": "24,29€ - Amazon Film en version cinéma (1978, 143') Boîtier métal SteelBook® limité Contient : - le 4K Ultra HD du film (Dolby Vision et HDR10) - le Blu-ray du film Synopsis Sauvé de justesse avant la destruction de sa planète, le jeune Kal-El atterrit sur notre planète. Elevé par un couple de paysans, il devient Clark Kent, un timide journaliste. Mais derrière ses lunettes et sa gaucherie envers Lois Lane, personne ne se doute qu'il est le défenseur de l'humanité. Doté de pouvoirs extraordinaires, Superman ne craint personne ou presque... éalisateur ‏ : ‎ Richard Donner Durée ‏ : ‎ 2 heures et 23 minutes Date de sortie ‏ : ‎ 19 novembre 2025 Acteurs ‏ : ‎ Christopher Reeve, Gene Hackman, Margot Kidder, Marlon Brando, Terence Stamp Sous-titres : ‏ : ‎ Arabe, Castillan, Chinois, Coréen, Danois, Finnois, Français, Norvégien, Néerlandais, Portugais, Suédois, Tchèque, Thaï Langue ‏ : ‎ Allemand (Dolby Digital 2.0), Anglais (DTS-HD 2.0), Anglais (DTS-HD 5.1), Castillan (Dolby Digital 2.0), Français (Dolby Digital 2.0), Italien (Dolby Digital 2.0), Portugais (Dolby Digital 2.0) Studio ‏ : ‎ Warner Bros. Entertainment France ASIN ‏ : ‎ B0FJT9F8BP Pays d'origine ‏ : ‎ France Nombre de disques ‏ : ‎ 2 Commentaires client",
-    "price": 24.29,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/blu-ray-4k-superman-1978-steelbook-edition-limitee-3431809",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/kkFBT/3431809_1/re/1200x1200/qt/90/3431809_1.jpg",
-    "detected_at": "2026-10-13T15:12:57+00:00",
-    "category": "Culture & sorties",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.29,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 24.29,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Selection de jeux Switch 1/2 et PS5 en Promotion au Auchan de Neuilly sur Marne (93)",
-    "description": "29,99€ Une sélection de jeux Switch 1 et 2 en promotions dont Pokémon Z-A, Kirby Air Rider, Sonic Racing Crossworld et une sélection de jeux PS5",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-jeux-switch-12-et-ps5-en-promotion-au-auchan-de-neuilly-sur-marne-93330-3431808",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AhlKR/3431808_1/re/1200x1200/qt/90/3431808_1.jpg",
-    "detected_at": "2026-10-13T15:09:37+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini hachoir Ninja Express NJ1002EUBK",
-    "description": "33,80€ - Amazon HACHEZ, ÉMINCEZ ET RÉDUISEZ EN PURÉE LES ALIMENTS EN TOUTE FACILITɠ: La technologie Sharp Ninja Blade permet de hacher et d’émincer à la perfection les légumes, pour obtenir des sauces et des purées lisses et onctueuses : le cadeau de naissance idéal. MIXEZ RAPIDEMENT VOS ALIMENTS PAR SIMPLE PRESSION D’UN BOUTON : Hachez, émincez et réduisez les aliments en toute facilité avec ce mini-hachoir électrique. Appuyez brièvement sur PowerPod pour hacher et découper. Ou maintenez appuyé pour une purée. DESIGN PRATIQUE POUR EMPILER ET RANGER L’APPAREIL : Les bols de mixage 500 ml du hachoir s’empilent lorsque les couvercles et les accessoires anti-éclaboussure sont attachés. Vous pourrez donc facilement le ranger au réfrigérateur ou dans un placard. FACILE À NETTOYER : Ce mixeur compact noir est facile à nettoyer grâce aux pièces amovibles lavables au lave-vaisselle, comme les accessoires anti-éclaboussure, les pales et les bols de mixage. COMPREND : PowerPod de 200 W, 2 bols avec couvercles et accessoires anti-éclaboussure, une batterie de lames et un livret de recettes créées par des chefs. Dimensions : H 25 x l 14 x P 14 cm. Poids : 960 g. Couleur : Noir/Clair.",
-    "price": 33.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ninja-mini-hachoir-3431807",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZkBkm/3431807_1/re/1200x1200/qt/90/3431807_1.jpg",
-    "detected_at": "2026-10-13T15:08:58+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 33.8,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 33.8,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "10% de remise sur tous les rayons de 20h à 23h (en ligne ou via l'app)",
-    "description": "Chronodrive Chronodrive Happy Hour ce mardi 13 octobre de 20h à 23h Ce soir uniquement, utilisez le code Happyhour sur le site ou l’application Chronodrive. -10% Date : mardi 13 octobre Commande à passer entre 20h et 23h Retrait : le jour de votre choix ️ Code promo : \"HAPPYHOUR\" Vous pouvez donc passer commande pendant le Happy Hour et choisir un jour ultérieur pour récupérer vos courses. Code de parrainage : PAR0MIGW3 pour 10€ offert dès 30% d'achat",
-    "price": 10.0,
-    "reference_price": null,
-    "discount_percent": 10.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chronodrive-10-sur-tout-le-site-3431777",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bY5Hv/3431777_1/re/1200x1200/qt/90/3431777_1.jpg",
-    "detected_at": "2026-10-13T15:08:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.0,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 10.0,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Valise Cabine Rigide Delsey Paris AIR Armour Slim - 55x40x20 cm, 34 litres, S, Noir (Vendeur Tiers)",
-    "description": "89,99€ - Amazon Valise cabine desley plus que 9 en stock",
-    "price": 89.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/delsey-paris-air-armour-valise-cabine-rigide-slim-55x40x20-cm-34-litres-s-noir-3431806",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gXlwQ/3431806_1/re/1200x1200/qt/90/3431806_1.jpg",
-    "detected_at": "2026-10-13T15:05:20+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 89.99,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 89.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "PC Portable 15,6\" Ninkear A15 - Ryzen 5 5500U, 16 Go de RAM 512 Go SSD, Ecran FHD, IPS, QWERTY, Windows 11",
-    "description": "316,05€ - AliExpress Caractéristiques clés: ✅ AMD Ryzen 5 5500U| 6 cœurs et 12 threads| Fréquence Turbo jusqu'à 4,0 GHz Performances supérieures à celles du processeur i7 de 11e génération, exécutant facilement divers logiciels de bureau, les applications graphiques 2D et 3D, ainsi que plusieurs jeux. ✅ 16 Go de RAM DDR4| SSD 512 Go RAM extensible jusqu'à 64 Go (2× SO-DIMM) et SSD de 4 To (un slot supplémentaire), offrant des performances éclairantes et un stockage massif ! ✅ Déverrouillage par empreinte digitale et pavé tactile Déverrouillage du système en seulement 0.3 secondes avec le capteur d'empreintes digitales, et une gestion du multitâche plus facile grâce à un pavé tactile compatible avec les gestes et le multi-touch (E.Par exemple, faire glisser vers la gauche ou vers la droite avec trois doigts vous permet de sélectionner et de rapidement passer entre les applications ouvertes.)",
-    "price": 316.05,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-ninkear-a15-ryzen-5-5500u-16-go-de-ram-512-go-ssd-ecran-fhd-ips-qwerty-windows-11-3431805",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/x1NU7/3431805_1/re/1200x1200/qt/90/3431805_1.jpg",
-    "detected_at": "2026-10-13T15:04:46+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 316.05,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 316.05,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Adaptateur Pour Robinet D'intérieur Gardena (Vendeur Tiers)",
-    "description": "12,20€ - Amazon Commandé pour ma part, ça permet de pouvoir déboucher les canalisations intérieures sans avoir un tuyau qui court dans toute la maison, en ce mettant juste sur le robinet de la salle de bain, toujours pratique !",
-    "price": 12.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/adaptateur-gardena-pour-robinet-dinterieur-3431804",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/SHph4/3431804_1/re/1200x1200/qt/90/3431804_1.jpg",
-    "detected_at": "2026-10-13T15:02:39+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.2,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 12.2,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tondeuse thermique autotractée Scheppach MS132-42 - 42cm, 131 CC",
-    "description": "159,99€ - Cdiscount",
-    "price": 159.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tondeuse-thermique-autotractee-ms132-42-42cm-131-cc-scheppach-3431802",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DUmux/3431802_1/re/1200x1200/qt/90/3431802_1.jpg",
-    "detected_at": "2026-10-13T15:01:01+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 159.99,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 159.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque Gaming SteelSeries - Arctis Nova Pro pour Xbox, PC, PS5, PS4, Switch",
-    "description": "149,99€ - Amazon SteelSeries Arctis Nova Pro Xbox, casque gaming multi-système, Hi-Res, GameDAC Gen 2 Le SteelSeries Arctis Nova Pro Xbox est un casque gaming conçu pour offrir une expérience sonore immersive sur plusieurs plateformes. Il prend en charge le son haute résolution (Hi-Res) et le son spatial à 360°, afin de profiter d’un environnement audio détaillé dans les jeux compatibles. Il intègre le GameDAC Gen 2, qui permet de gérer les paramètres audio, ainsi qu’un microphone ClearCast Gen 2 destiné aux communications vocales en jeu. Sa compatibilité avec Xbox, PC, PlayStation 5, PlayStation 4 et Nintendo Switch en fait une solution polyvalente pour les joueurs utilisant plusieurs systèmes. Il convient aussi bien aux sessions de jeu en ligne qu’aux jeux solo où l’immersion sonore occupe une place importante. Caractéristiques principales : Marque : SteelSeries Modèle : Arctis Nova Pro Xbox Type : casque gaming multi-système Son haute résolution Hi-Res Son spatial à 360° GameDAC Gen 2 inclus Microphone ClearCast Gen 2 Compatibilité : Xbox, PC, PS5, PS4 et Nintendo Switch",
-    "price": 149.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casque-gaming-steelseries-arctis-nova-pro-pour-xbox-pc-ps5-ps4-switch-3431801",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2VI1d/3431801_1/re/1200x1200/qt/90/3431801_1.jpg",
-    "detected_at": "2026-10-13T15:00:57+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 149.99,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 149.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Nouveaux clients] Fer à souder électrique ANENG SL108 - 96 W, température réglable de 100 à 450°C, chauffe rapide en 1 min",
-    "description": "18,62€ - Alibaba Bon prix pour ce fer à souder électrique ANENG SL108 Plage de température 100-450°C: La large plage de température permet un contrôle précis et une polyvalence dans le brasage de différents matériaux et composants. Temps de chauffe rapide 1 minute: Le temps de chauffe rapide assure que le fer à souder est prêt à l'emploi en seulement une minute, augmentant l'efficacité et la productivité. Compatibilité avec l'adaptateur d'alimentation universel: La compatibilité avec un adaptateur d'alimentation universel ou une batterie externe le rend pratique à utiliser dans divers lieux et configurations. > Livraison gratuite ❖ Caractéristiques : Fer à souder électrique ANENG SL108 Puissance annoncée : 96 W Température réglable de 100 à 450°C Temps de chauffe annoncé : environ 1 minute Contrôle numérique de la température Poignée ergonomique au format stylo Alimentation secteur : 100 à 240 V AC Compatibilité annoncée avec différentes solutions d'alimentation Matériaux : alliage d'aluminium et plastique Longueur : 19,5 cm Format compact et portable Garantie commerciale annoncée : 1 an",
-    "price": 18.62,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-fer-a-souder-electrique-aneng-sl108-96-w-temperature-reglable-de-100-a-450c-chauffe-rapide-en-1-min-3431800",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2SLAe/3431800_1/re/1200x1200/qt/90/3431800_1.jpg",
-    "detected_at": "2026-10-13T14:57:10+00:00",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 18.62,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 18.62,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Wo Long 2 Wings Of Ember PS5",
-    "description": "54,99€ - Auchan Découvrez Wo Long 2: Wings of Ember sur PS5, la suite du jeu d'action-RPG exigeant de Team Ninja. Plongez dans une version sombre et fantastique de l'ère des Trois Royaumes déchirée par la guerre et envahie par de redoutables démons. Dans la peau d'un guerrier doté du pouvoir mystique du phénix, maîtrisez des combats d'arts martiaux chinois encore plus acrobatiques et dynamiques. Ce volet propose des environnements plus ouverts favorisant l'exploration, un système de moral repensé, ainsi que des mécaniques de contre et de stratégie affinées pour renverser des boss titanesques. Un savant mélange d'action intense et de dark fantasy.",
-    "price": 54.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-wo-long-2-wings-of-ember-ps5-3431799",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/EejDh/3431799_1/re/1200x1200/qt/90/3431799_1.jpg",
-    "detected_at": "2026-10-13T14:55:48+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 54.99,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 54.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu électronique Tire sur mon doigt (via 10,43€ de remise fidélité)",
-    "description": "4,47€ - Intermarché Vous en avez rêvé ? Ils l'ont fait ! Fais tourner la roulette afin de savoir combien de fois tu dois tirer sur le doigt du singe pour faire gonfler ses fesses et vois si ton coup le fait péter ou non... Si vous voulez plus d'informations sur le produit, cf fiche produit Amazon Offre valable du 20/10/2026 au 01/11/2026. Disponible sur ce catalogue . Conditions : *Le cumul \"avantages carte\" est limité à 3 produits porteurs de l'offre concernée, identiques ou différents (parfum, saveur, variété), par foyer et par jour, excepté sur les bouteilles de vin et champagne vendues à l’unité, où l’offre est limitée à 6 bouteilles identiques par foyer et par jour. Le prix avantage carte déduit correspond au prix auquel vous reviendrait le produit après prise en compte du montant de l'avantage carte crédité sur votre carte de fidélité. Le prix au kilo avantage carte déduit correspond au prix au kilo auquel vous reviendrait le produit, selon la quantité choisie, après prise en compte du montant de l’avantage carte crédité sur votre carte de fidélité. Voir les conditions générales d’utilisation de la Carte de fidélité à l’accueil de votre magasin.",
-    "price": 4.47,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tire-sur-mon-doigt-jeu-electronique-via-1043eur-de-remise-fidelite-3431798",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/dUfq6/3431798_1/re/1200x1200/qt/90/3431798_1.jpg",
-    "detected_at": "2026-10-13T14:55:13+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 4.47,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 4.47,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
       }
     ]
   }
