@@ -1,5 +1,26 @@
 [
   {
+    "title": "BLANCO 526416 WEGA II, Chrom, Hochdruck",
+    "price": 94.01,
+    "reference_price": 113.02,
+    "discount_percent": 16.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09HCPSKV8",
+    "image_url": "https://m.media-amazon.com/images/P/B09HCPSKV8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:42:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 94.01,
+        "observed_at": "2026-10-14T13:43:58.244190+00:00"
+      }
+    ]
+  },
+  {
     "title": "Siemens BRITA Intenza TZ70063A...EQ et les machines à encastrer",
     "price": 42.73,
     "reference_price": 46.24,
@@ -116,7 +137,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -137,7 +158,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -158,7 +179,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -431,7 +452,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -452,7 +473,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2930,7 +2951,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -4547,7 +4568,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -4568,7 +4589,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -4589,7 +4610,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -4673,7 +4694,7 @@
     "category": "Jardin & extérieur",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -4694,7 +4715,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -4715,7 +4736,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -10722,6 +10743,28 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-14T13:12:14.048617+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jouet Lego Technic 42172 McLaren P1",
+    "description": "297,99€ - Smyths Toys Ce set de construction McLaren P1 pour adultes regorge de détails authentiques Le modèle fini est une version à l'échelle 1/8 à collectionner pour les fans de supercars Plongez dans la construction avec l'application LEGO Builder, qui permet d'enregistrer des sets, de suivre votre progression, de zoomer et même de faire pivoter votre modèle en 3D Contenu : 3893x pièces, 1x notice de montage Dimensions : 59L x 25l x 14H cm",
+    "price": 297.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-technic-42172-mclaren-p1-3432413",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SCc0T/3432413_1/re/1200x1200/qt/90/3432413_1.jpg",
+    "detected_at": "2026-10-14T13:39:39+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 297.99,
+        "observed_at": "2026-10-14T13:43:58.244190+00:00"
       }
     ]
   },
@@ -23530,58 +23573,6 @@
       },
       {
         "price": 22.49,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[JoyPlus] Lot de 6 Boîtes Transparent de Rangement- avec Poignée, 12x28x18cm",
-    "description": "7,59€ - JoyBuy Les boîtes de rangement sont très appréciées pour leurs dimensions appropriées et leur qualité robuste, ce qui les rend pratiques et polyvalentes pour organiser divers articles dans toute la maison. Les clients apprécient le caractère complet de l'ensemble, notant que les tailles sont particulièrement adaptées à l'organisation des tiroirs. De plus, le produit est exempt d'odeurs désagréables, et la quantité reçue correspond systématiquement à la description. Cette boîte de rangement en plastique est fabriquée dans un matériau épais, sans bavures, avec une bonne finition. Son couvercle permet de protéger contre la poussière et l'humidité, et sa capacité est idéale pour ranger les petits objets et articles divers sur un bureau. Les boîtes sont empilables, ce qui permet de gagner de l'espace et facilite l'accès. La transparence est modérée, permettant de voir clairement le contenu. Avec un excellent rapport qualité-prix, elle est très pratique pour l'organisation de la maison.",
-    "price": 7.59,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/joyplus-lot-de-6-boites-transparent-de-rangement-avec-poignee-ideal-pour-frigo-12-x-28-x-18-cm-3431695",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ANLKs/3431695_1/re/1200x1200/qt/90/3431695_1.jpg",
-    "detected_at": "2026-10-13T12:22:40+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 7.59,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 7.59,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Ideas 21367 - La fusée de Tintin",
-    "description": "113,04€ - Amazon LEGO Ideas La fusée de Tintin : Un kit de construction Tintin pour adultes Construisez et exposez une réplique détaillée de la fusée de Tintin, telle qu’on la voit dans les albums emblématiques Objectif Lune et On a marché sur la Lune. Créez votre propre décor nostalgique Reconstituez des scènes d’exploration spatiale avec Tintin, le capitaine Haddock, Dupond et Dupont, le professeur Tournesol et Milou. LEGO Ideas La fusée de Tintin (21367) pour adulte. Recréez son damier rouge et blanc découvert dans Objectif Lune et On a marché sur la Lune. Exposez-la avec Milou et 5 minifigurines en scaphandre lunaire avec casque et bouteille d'oxygène (Tintin et le Capitaine Haddock portent également un équipement radio). Retirez un panneau dans la partie supérieure de la fusée LEGO pour révéler une salle de contrôle détaillée. Placez-y un personnage pour recréer la scène magique de On a marché sur la Lune, où Tintin et ses compagnons découvrent pour la première fois la Terre depuis l'espace. Superbe cadeau pour adultes créatifs et amateurs.trices de BD, cette décoration fascinante offre aux constructeurs.trices novices ou expert.e.s une activité manuelle passionnante. L'application LEGO Builder propose une expérience de construction enrichie avec visualisation en 3D, suivi de la progression et instructions numériques étape par étape. DIMENSIONS - La maquette de fusée de ce set mesure plus de 49 cm de haut, 20 cm de long et 23 cm de large. Le kit contient 1 283 pièces.",
-    "price": 113.04,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-ideas-21367-la-fusee-de-tintin-3431693",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/c10rc/3431693_1/re/1200x1200/qt/90/3431693_1.jpg",
-    "detected_at": "2026-10-13T12:21:20+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T13:11:28.868088+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 113.04,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 113.04,
         "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
