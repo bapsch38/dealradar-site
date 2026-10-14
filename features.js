@@ -116,22 +116,33 @@
     const history = Array.isArray(offer.price_history) ? offer.price_history.filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0) : [];
     const distinctPrices = new Set(history.map(item => Number(item.price).toFixed(2))).size;
     const validDates = history.map(item => Date.parse(item.observed_at || item.date || "")).filter(Number.isFinite);
-    if (history.length >= 3 && distinctPrices >= 2) { score += 12; reasons.push("historique avec plusieurs observations et variation"); }
-    else if (history.length >= 2) { score += 5; reasons.push("plusieurs observations conservées"); if (distinctPrices < 2) warnings.push("aucune variation de prix constatée pour l'instant"); }
-    else warnings.push("historique trop court pour juger une tendance");
-    if (validDates.length >= 2 && Math.max(...validDates) - Math.min(...validDates) >= 6 * 60 * 60 * 1000) { score += 4; reasons.push("observations espacées dans le temps"); }
+    const historySpan = validDates.length >= 2 ? Math.max(...validDates) - Math.min(...validDates) : 0;
+    if (history.length >= 10 && historySpan >= 7 * 86400000) { score += 15; reasons.push("historique étalé sur au moins 7 jours"); }
+    else if (history.length >= 4 && historySpan >= 24 * 3600000) { score += 10; reasons.push("historique avec plusieurs relevés datés"); }
+    else if (history.length >= 2) { score += 4; reasons.push("plusieurs relevés conservés"); }
+    else warnings.push("historique trop court : aucune tendance fiable pour l'instant");
+    if (history.length >= 2 && distinctPrices === 1) warnings.push("prix stable sur les relevés disponibles ; cela ne prouve pas le prix passé");
+    if (history.length >= 3 && distinctPrices >= 2) { score += 4; reasons.push("variation de prix réellement observée"); }
+    if (historySpan >= 6 * 3600000) reasons.push("relevés espacés dans le temps");
+    // Une publication récente n'est pas une vérification récente du prix.
+    // Seul price_checked_at peut apporter le bonus de fraîcheur.
     const rawDate = offer.price_verified === true && offer.price_checked_at
       ? offer.price_checked_at
       : (offer.detected_at || offer.published_at);
     const date = rawDate ? new Date(String(rawDate).replace(" ", "T") + (/[zZ]|[+-]\d{2}:?\d{2}$/.test(String(rawDate)) ? "" : "Z")) : null;
     if (date && !Number.isNaN(date.getTime())) {
       const age = Date.now() - date.getTime();
-      if (age >= 0 && age <= 3600000) { score += 18; reasons.push("contrôle de moins d'une heure"); }
-      else if (age <= 21600000 && age >= 0) { score += 11; score -= 3; reasons.push("donnée de moins de 6 h"); }
-      else if (age <= 86400000 && age >= 0) { score += 5; score -= 7; reasons.push("donnée de moins de 24 h"); }
-      else if (age > 86400000) { score -= 18; warnings.push("données anciennes : le prix peut avoir changé"); }
-      else warnings.push("date de contrôle incohérente");
-    } else warnings.push("date de contrôle absente");
+      if (offer.price_verified === true && offer.price_checked_at) {
+        if (age >= 0 && age <= 3600000) { score += 18; reasons.push("prix contrôlé il y a moins d'une heure"); }
+        else if (age <= 21600000 && age >= 0) { score += 11; reasons.push("prix contrôlé il y a moins de 6 h"); }
+        else if (age <= 86400000 && age >= 0) { score += 5; reasons.push("prix contrôlé il y a moins de 24 h"); }
+        else if (age > 86400000) { score -= 18; warnings.push("contrôle du prix ancien : il peut avoir changé"); }
+        else warnings.push("date de contrôle incohérente");
+      } else {
+        if (age > 7 * 86400000) { score -= 12; warnings.push("publication ancienne : offre potentiellement expirée"); }
+        else warnings.push("date de publication récente, mais prix non confirmé directement");
+      }
+    } else warnings.push("date de publication ou de contrôle absente");
     if (discount != null && discount >= 70) { score -= 12; warnings.push("réduction exceptionnelle : prix de référence à contrôler"); }
     else if (discount != null && discount >= 50) { score -= 7; warnings.push("réduction très forte : contrôle renforcé conseillé"); }
     else if (discount != null && discount >= 30) { score -= 3; warnings.push("réduction importante : comparer le prix de référence"); }
