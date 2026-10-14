@@ -571,7 +571,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 1.49,
@@ -591,7 +591,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 40.7,
@@ -611,7 +611,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 13.86,
@@ -631,7 +631,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 699.0,
@@ -851,7 +851,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 85.99,
@@ -871,7 +871,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 148.46,
@@ -891,7 +891,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 189.99,
@@ -911,7 +911,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 81.37,
@@ -931,7 +931,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 11.48,
@@ -951,7 +951,7 @@
     "category": "Animaux",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 18.99,
@@ -1191,7 +1191,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 63.99,
@@ -1211,7 +1211,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 192.34,
@@ -1231,7 +1231,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 111.99,
@@ -1251,7 +1251,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 59.99,
@@ -1271,7 +1271,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 49.99,
@@ -1291,7 +1291,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 299.99,
@@ -1311,7 +1311,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 19.6,
@@ -1331,7 +1331,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "price_history": [
       {
         "price": 12.52,
@@ -3796,6 +3796,10 @@
       {
         "price": 24.95,
         "observed_at": "2026-10-13T01:48:28.839462+00:00"
+      },
+      {
+        "price": 24.95,
+        "observed_at": "2026-10-14T01:54:44.401054+00:00"
       }
     ]
   },
@@ -6796,6 +6800,27 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Reebok Baskets de course tailles de 38 au 45,5",
+    "description": "30€ - Reebok Ne faites aucun compromis sur la performance avec ces chaussures Reebok Viva Speed pour homme, conçues pour offrir une sensation réactive aussi bien lors de vos kilomètres d’entraînement que dans le rythme intense du quotidien. La tige en mesh gris respirant maintient les pieds au frais, tandis que la semelle intermédiaire sculptée à retour d’énergie assure un amorti moelleux à chaque pas. Rehaussées d’accents Vector Red audacieux et d’un dégradé noir affirmé, elles affichent une esthétique technique et athlétique qui se démarque du début à la fin.",
+    "price": 30.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/reebok-baskets-de-course-tailles-de-38-au-455-3432032",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OgYak/3432032_1/re/1200x1200/qt/90/3432032_1.jpg",
+    "detected_at": "2026-10-14T01:30:51+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 30.0,
+        "observed_at": "2026-10-14T01:54:44.401054+00:00"
       }
     ]
   },
@@ -11679,48 +11704,6 @@
     "price_history": [
       {
         "price": 2.23,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Rasoir Électrique Homme Braun (NEVO11005C) - 7-en-1, Technologie AeroTouch, Étanche, 60 min d’Autonomie",
-    "description": "449,98€ - Amazon Le rasoir électrique Braun NEVO associe la technologie AeroTouch à un système intelligent qui adapte le rasage à la densité de la barbe. Sa tête flexible facilite l’accès aux zones difficiles pour un rasage précis au quotidien. Caractéristiques principales : * Technologie AeroTouch pour réduire les frottements sur la peau. * 250 lames en acier inoxydable pour un rasage de près. * Système d’entretien automatique 7-en-1 pour nettoyer, entretenir et recharger le rasoir. * Tête flexible et tondeuse intégrée pour les contours et les poils longs. * Étanche à 100 % et autonomie jusqu’à 60 minutes. * Recharge rapide en 5 minutes pour un rasage d’appoint.",
-    "price": 449.98,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/braun-nevo11005c-rasoir-electrique-homme-7-en-1-technologie-aerotouch-etanche-60-min-dautonomie-3431734",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cl7ik/3431734_1/re/1200x1200/qt/90/3431734_1.jpg",
-    "detected_at": "2026-10-13T13:29:10+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 449.98,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Seau de Bonbons Krema Mix Party Halloween - 720 g",
-    "description": "4,89€ - Carrefour Pour préparer Halloween ! Carrefour propose une opération sur les seaux de bonbons Krema Mix Party Halloween de 720 g, à -30 % dans les magasins participants, soit -2,10€ par seau. *Offre constatée sur le drive Market Bordeaux Ferry , disponible dans de nombreux magasins/drive de France. Infos importantes : Marque : Krema / Carambar & Co. Produit : assortiment de bonbons Mix Party Halloween. Format : seau de 720 g. Code EAN : 3664346358057. Fabrication française indiquée sur la fiche produit. Offre à -30 % à vérifier dans le magasin ou Drive participant. À conserver à l'abri de la chaleur et de l'humidité. Allergènes possibles : lait et fruits à coque. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
-    "price": 4.89,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bonbons-krema-mix-party-halloween-seau-de-720-g-le-2-a-70-carrefour-magasins-participants-3431733",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YR3d1/3431733_1/re/1200x1200/qt/90/3431733_1.jpg",
-    "detected_at": "2026-10-13T13:28:44+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 4.89,
         "observed_at": "2026-10-13T13:36:14.466903+00:00"
       }
     ]
