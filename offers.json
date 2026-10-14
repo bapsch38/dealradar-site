@@ -1,5 +1,26 @@
 [
   {
+    "title": "Bialetti Moka Express Bridgert...n, 6 tasses (270ml), Aluminium",
+    "price": 38.99,
+    "reference_price": 59.9,
+    "discount_percent": 34.91,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DBHLTH1Q",
+    "image_url": "https://m.media-amazon.com/images/P/B0DBHLTH1Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 07:45:27",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 38.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
     "title": "Pyrex - Cook & Heat - Plat Ron... four, Conservez et Réchauffez",
     "price": 12.6,
     "reference_price": 17.99,
@@ -6282,7 +6303,7 @@
     "title": "KS TOOLS 150.1850 Extracteur d...oint de transmission universel",
     "price": 68.62,
     "reference_price": 114.3,
-    "discount_percent": 39.97,
+    "discount_percent": 40.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00OIS124I",
     "image_url": "https://m.media-amazon.com/images/P/B00OIS124I.01._AC_SL1500_.jpg",
@@ -6290,7 +6311,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6303,7 +6324,7 @@
     "title": "ICY BOX M.2 NVMe SSD Package, ...), clé PCIe M, Aluminium, Noir",
     "price": 37.78,
     "reference_price": 44.16,
-    "discount_percent": 14.45,
+    "discount_percent": 14.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07JJXCSC4",
     "image_url": "https://m.media-amazon.com/images/P/B07JJXCSC4.01._AC_SL1500_.jpg",
@@ -6311,7 +6332,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6332,7 +6353,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6345,7 +6366,7 @@
     "title": "Philips ampoule LED Spot GU5.3 35W Blanc Chaud, Verre",
     "price": 8.99,
     "reference_price": 14.61,
-    "discount_percent": 38.47,
+    "discount_percent": 38.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09F9M69ZH",
     "image_url": "https://m.media-amazon.com/images/P/B09F9M69ZH.01._AC_SL1500_.jpg",
@@ -6353,7 +6374,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6366,7 +6387,7 @@
     "title": "Thermostat de radiateur Eurotronic Comet, blanc, 700083",
     "price": 25.94,
     "reference_price": 32.89,
-    "discount_percent": 21.13,
+    "discount_percent": 21.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B015PM6ZE2",
     "image_url": "https://m.media-amazon.com/images/P/B015PM6ZE2.01._AC_SL1500_.jpg",
@@ -6374,7 +6395,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6387,7 +6408,7 @@
     "title": "Hazet 652 Démonte-pneus, Voir Illustration, 600mm",
     "price": 31.1,
     "reference_price": 51.26,
-    "discount_percent": 39.33,
+    "discount_percent": 39.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B001CA10WY",
     "image_url": "https://m.media-amazon.com/images/P/B001CA10WY.01._AC_SL1500_.jpg",
@@ -6395,7 +6416,7 @@
     "category": "Auto & moto",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6408,7 +6429,7 @@
     "title": "LINDY Câble DisplayPort 1.2 de 5 m, Gold Line",
     "price": 83.8,
     "reference_price": 100.68,
-    "discount_percent": 16.77,
+    "discount_percent": 16.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B075B783HB",
     "image_url": "https://m.media-amazon.com/images/P/B075B783HB.01._AC_SL1500_.jpg",
@@ -6416,7 +6437,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6429,7 +6450,7 @@
     "title": "Paulmann 94283 Luminaire d'ext...n plastique Blanc chaud 3000 K",
     "price": 62.88,
     "reference_price": 76.19,
-    "discount_percent": 17.47,
+    "discount_percent": 17.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B083M6TKVB",
     "image_url": "https://m.media-amazon.com/images/P/B083M6TKVB.01._AC_SL1500_.jpg",
@@ -6437,7 +6458,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6458,7 +6479,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6758,6 +6779,644 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nike Air Max 90 Essential blanc,rose,noir 42 à 44",
+    "description": "89,99€ - The Bradery",
+    "price": 89.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nike-air-max-90-essential-blancrosenoir-42-a-44-3432159",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yl5Q2/3432159_1/re/1200x1200/qt/90/3432159_1.jpg",
+    "detected_at": "2026-10-14T07:43:36+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaque de toiture ondulée acier Ondométal - Anthracite, Rouge ou Graphite, 300 x 90 cm",
+    "description": "26,73€ - Castorama Baisse de prix sur les 3 couleurs (Graphite, Rouge et Anthracite) Caractéristiques du produit La tôle ONDOMETAL nervurée SED900 est la solution idéale pour la réalisation de toitures solides et durables. Conçue en acier galvanisé, elle offre une excellente résistance aux intempéries et à la corrosion, garantissant une protection fiable dans le temps. Son profil nervuré assure une bonne rigidité ainsi qu’une évacuation efficace de l’eau de pluie, même en cas de fortes précipitations. Facile à poser, elle convient aussi bien aux projets de rénovation qu’aux constructions neuves. Informations supplémentaires Produit économique Léger, facile à transporter et à mettre en oeuvre Résistant et durable Spécifications techniques Type d'article Plaque de toiture ondulée Marque Sedpa France Lieu Extérieur Compatibilité Compatible avec la gamme d'accessoires SED900 Couleur Graphite Longueur (cm) 300cm Largeur (cm) 90cm Hauteur (cm) 2.5cm Épaisseur (cm) 0.05cm Type de pack À l'unité Quantité par pack 1 Raccords et fixations inclus Fixations vendues séparément Durabilité Très résistant Isolé non Présence de plomb Sans plomb Résistance aux impacts Résistant aux chocs Résistance aux intempéries Résistant aux conditions extérieures Résistant aux ultraviolets Résistant aux UV Mode d’emploi Voir notice de pose Instructions d'installation voir notice de pose Norme NF Acquisition au marquage CE Marquage CE Garantie fabricant 10 ans",
+    "price": 26.73,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/plaque-de-toiture-ondulee-acier-ondometal-anthracite-rouge-ou-graphite-300-x-90-cm-3432157",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/kj9UB/3432157_1/re/1200x1200/qt/90/3432157_1.jpg",
+    "detected_at": "2026-10-14T07:42:36+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.castorama.fr/plaque-de-toiture-ondulee-acier-anthracite-ondometal-300-x-90-cm/3068755107129_CAFR.prd",
+    "price_history": [
+      {
+        "price": 26.73,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection d'articles en Promotion - Ex : Sweat à Capuche Zippé en Scuba Simon, Plusieurs tailles disponibles (weekday.com)",
+    "description": "36€ Weekday propose son sweat à capuche zippé en scuba Simon (bleu foncé) à 36 € au lieu de 59,99 €, soit -40 %. C’est un sweat zippé en scuba épais, de coupe standard. Il est composé de 70 % de polyester, 24 % de viscose et 6 % d’élasthanne. Cette matière lui donne un aspect lisse et structuré, un peu à mi-chemin entre le sweat classique et le haut technique. Le mannequin mesure 188 cm et porte du M. Le site est actuellement en promo globale : l’offre de mi-saison homme propose jusqu’à -40 % sur 64 articles (jeans, pantalons, pulls, vestes, t-shirts...). Si ce sweat ne te convient pas, tu peux trouver d’autres pièces remisées, comme le pantalon de jogging en scuba Cody assorti, lui aussi à 36 € au lieu de 59,99 €. Infos pratiques : Remise appliquée directement sur le site, sans code promo. Livraison gratuite à partir de 70 €, commande minimale de 5 €. Retours possibles sous 30 jours. Entretien : lavage en machine à 40 °C, séchage à l’air, repassage à température moyenne. Plusieurs coloris sont proposés sur la fiche (bleu foncé, noir, gris chiné). Les tailles disponibles peuvent partir vite à ce prix. Qualité vraiment bonne pour le prix",
+    "price": 36.0,
+    "reference_price": 59.99,
+    "discount_percent": 40.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/weekday-sweat-a-capuche-zippe-en-scuba-simon-3432156",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wPTdH/3432156_1/re/1200x1200/qt/90/3432156_1.jpg",
+    "detected_at": "2026-10-14T07:41:48+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 36.0,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot Aspirateur Roborock Qrevo Curv 2 Pro - 25000 Pa, Station 100°C, Blanc (Vendeur Tiers)",
+    "description": "599€ - Cdiscount Présentation du produit Aspiration HyperForce de 25000 Pa Système de navigation RetracSense Reconnaissance d'obstacles Reactive AI Double système anti-enchevêtrement Lavage des serpillères à l'eau chaude à 100 °C Chassis AdapiLift Chassis pour nettoyage de moquettes/tapis de 3 cm Conception ultra fine de 7,98 cm Défachement automatique des serpillères Points forts Mode de nettoyage : Sec, humide Collecte des poussières : Avec sac Capacité du collecteur : Capacité du réservoir d'eau propre: 4L, Capacité du bac à poussière: 3L, Capacité du sac à poussière:2.5L Puissance électrique : 60W",
+    "price": 599.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/aspirateur-robot-roborock-qrevo-curv-2-pro-25-000-pa-station-100-c-vendeur-tiers-3432155",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jJeiT/3432155_1/re/1200x1200/qt/90/3432155_1.jpg",
+    "detected_at": "2026-10-14T07:41:31+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.cdiscount.com/electromenager/aspirateurs-nettoyeurs/roborock-qrevo-curv-2-pro-aspirateur-robot-25000/f-1101409-aacap45505.html",
+    "price_history": [
+      {
+        "price": 599.0,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vol Aller/Retour Marseille > Alger Algérie, du 26 Mars au 09 Avril (Bagage à main Inclus)",
+    "description": "76€ - Gotogate",
+    "price": 76.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vol-allerretour-marseille-alger-algerie-du-26-mars-au-09-avril-bagage-a-main-inclus-3432153",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Z1NEG/3432153_1/re/1200x1200/qt/90/3432153_1.jpg",
+    "detected_at": "2026-10-14T07:39:28+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 76.0,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "EA Sport FC 26 sur PS5",
+    "description": "28,60€ - JoyBuy FC 26 est un super jeux de foot",
+    "price": 28.6,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ea-sport-fc-26-ps5-version-francaise-3432152",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FcbzC/3432152_1/re/1200x1200/qt/90/3432152_1.jpg",
+    "detected_at": "2026-10-14T07:38:13+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 28.6,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra d'action Insta360 Ace Pro 2 Xplorer Bundle - Leica 8K, 2 Batteries",
+    "description": "379€ - Photogalerie Description Insta360 Ace Pro 2 Dual Battery Xplorer Bundle (Dark Gray) L'Insta360 Ace Pro 2 Dual Battery Xplorer Bundle (Dark Gray) a été développé en collaboration avec Leica pour établir une nouvelle norme en matière de qualité d'image des caméras d'action, avec une ouverture F2,6 qui capture plus de lumière et réduit le bruit. Le capteur élite 1/1,3\" 8K de l'Insta360 Ace Pro 2 offre une imagerie unëven, avec une plage dynamique de 13,5 arrêts et une taille de pixel équivalente de 2,4 µm. Avec désormais la prise en charge de la vidéo 4K 60 fps Active HDR et 8K 30 fps. Rencontre la première caméra d'action avec une puce d'image dédiée pour la réduction du bruit et le traitement de l'image, ainsi qu'une puce AI 5nm pour un traitement plus poussé et des performances puissantes. Avec 100 % de puissance de traitement en plus par rapport à l'Insta360 Ace Pro, il s'agit d'une configuration révolutionnaire avec des résultats incroyables. Immerge-toi dans une résolution 8K à couper le souffle et capture chaque détail avec une clarté époustouflante. Même en mouvement, profite de vidéos fluides et cinématiques à 30 images par seconde qui donnent vie à tes aventures. Le système avancé The dual-chip et le capteur garantissent une clarté époustouflante en basse lumière. Cela est pris en charge par PureVideo, un mode de prise de vue à faible luminosité qui réduit le bruit tout en améliorant la clarté et les détails, disponible jusqu'à 4K60fps. Tape deux fois sur l'écran tactile et zoome 2x sans perdre en qualité d'image. Tu veux faire un gros plan mais tu n'arrives pas à le faire à temps ? Clarity Zoom est la solution. Une clarté à toute épreuve, des images super hautes. Une action plus fluide, plus claire, l'Insta360 Ace Pro 2 peut gérer tout ce que tu attends d'elle. La première actioncam avec un pare-vent intégré. Avec un design innovant, il minimise le bruit pendant les moments de pointe, prêt à s'allumer et à s'éteindre quand tu le souhaites. De nouveaux algorithmes audio apportent de la clarté à ton contenu, immergeant tes spectateurs comme aucun autre. Résistant à l'eau jusqu'à 12 m dès la sortie de la boîte, à partir d'une profondeur améliorée de 10 m, ou plonge jusqu'à 60 m avec la housse de plongée en option. Des performances solides avec un écran robuste et inclinable et une protection d'objectif amovible qui peut supporter l'action. Allez de l'avant avec une batterie plus grande de 1800 mAh et une autonomie de 180 minutes. Reprends la route rapidement grâce au chargement rapide PD, qui permet à ton appareil d'atteindre 80 % de charge en seulement 18 minutes et d'être complètement chargé en 47 minutes. Tu es sorti toute la journée et ton téléphone est mort ? Branche et charge ton appareil photo pour les cas d'urgence où tu n'as pas besoin d'une banque d'alimentation. Ayez plus de contrôle grâce à l'écran tactile inclinable de 2,5 pouces, plus grand et plus lumineux. Plus robuste que jamais, il facilite la visualisation et la perfection de tes prises de vue, même en plein soleil. Caractéristiques de l'Insta360 Ace Pro 2 Dual Battery Xplorer Bundle (Dark Gray) L'offre groupée pour explorateur comprend 2 batteries . Convient aux aventuriers, aux créateurs de contenu, aux vloggers et aux amateurs de sport . 1/1,3&rdquo ; capteur 8K Objectif LEICA SUMMARIT pour des images nettes et lumineuses avec une distorsion minimale . Profils de couleurs Leica pour des couleurs vives et fidèles à la réalité . Vidéo : 8K30fps / Vidéo HDR en 4K60fps / Ralenti en 4K120fps . Mode vidéo : vidéo, FreeFrame, Active HDR, PureVideo, ralenti, Starlapse, Timelapse, Timeshift, pré-enregistrement et enregistrement en boucle, Dashcam . Ratio d'aspect : 16:9 (4 :3 image libre) Photo : 50 mégapixels Mode photo : photo, HDR, intervalle et rafale Technologie PureVideo pour une qualité d'image optimale en cas de faible luminosité Stabilisation FlowState pour des images fluides 360&deg ; Horizon Lock pour un horizon droit dans l'image La technol",
+    "price": 379.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/camera-daction-insta360-ace-pro-2-xplorer-bundle-leica-8k-2-batteries-3432151",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5a9eL/3432151_1/re/1200x1200/qt/90/3432151_1.jpg",
+    "detected_at": "2026-10-14T07:37:39+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 379.0,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Évier compact Inox Jabiri - 1 cuve/1 égouttoir, L.76 x P.43,5 cm",
+    "description": "29,90€ - Castorama Si vous cherchez un évier inox, prix plutôt intéressant Caractéristiques du produit Optimisez votre espace cuisine avec l'égouttoir réversible de l'évier compact Jabiri en acier inoxydable. Conçu pour s'adapter à tous les plans de travail, cet évier à une cuve associe parfaitement design moderne et robustesse au quotidien. Sa haute résistance à la chaleur allant jusqu'à 180 degrés garantit une longévité exceptionnelle face aux chocs thermiques. Facile à poser grâce à ses fixations et sa notice incluses, il convient aussi bien aux bricoleurs novices qu'aux professionnels. Profitez d'un équipement de qualité supérieure pour simplifier vos tâches ménagères avec ce modèle disponible chez Castorama. Égouttoir réversible pour une installation flexible à gauche ou à droite de votre cuve. Acier inoxydable de haute qualité offrant une excellente résistance à la corrosion. Résistance thermique élevée supportant des températures de cuisine jusqu'à 180 degrés. Adaptabilité totale avec une compatibilité garantie sur tous les types de plans de travail. Diamètre de perçage standard de 35 mm pour accueillir facilement votre robinet. Évacuation rapide et fluide de l'eau grâce à un diamètre de vidage optimal de 90 mm. Pack complet comprenant les raccords, les fixations et une notice de montage claire. Entretien simple et rapide au quotidien grâce à sa surface lisse non poreuse. Design compact idéal pour optimiser l'espace des petites et moyennes cuisines. Conforme à la norme européenne EN 13310 garantissant la sécurité et la qualité du produit. Spécifications techniques Type d'article Évier de cuisine avec égouttoir Gamme Jabiri Nombre de bac(s) 1 Égouttoir Égouttoir réversible Largeur minimale du meuble 450mm Matière Acier inoxydable Couleur Acier inoxydable Plan de travail compatible Convient à tous les plans de travail Nombre de trous de robinet 1 Pré-perçage Pré-percé Diamètre de perçage pour robinet (en mm) 35mm Diamètre d'évacuation 90mm Évacuation comprise Bonde vendue séparement Kit de vidage requis Kit A Raccords et fixations inclus Raccords et fixations inclus Type de raccord Encastré Longueur (cm) 76cm Largeur (cm) 76cm Profondeur (cm) 43.5cm Hauteur (cm) 16cm Épaisseur (mm) 0.6mm Inclus Raccords, fixations et notice inclus Résistance à la chaleur Résistant à la chaleur Résistant aux rayures Non résistant aux rayures Réversible Réversible Norme EN 13310 Garantie fabricant 15 ans",
+    "price": 29.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/evier-compact-inox-de-cuisine-jabiri-1-cuve1-egouttoir-l76-x-p435-cm-3432154",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/A4OsZ/3432154_1/re/1200x1200/qt/90/3432154_1.jpg",
+    "detected_at": "2026-10-14T07:37:36+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.castorama.fr/evier-a-encastrer-en-acier-inoxydable-compact-1-cuve-avec-egouttoir-l-76-x-p-43-5-cm-jabiri/5063022677877_CAFR.prd",
+    "price_history": [
+      {
+        "price": 29.9,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Flacon de 473ml de Cire Lustrante Meguiar's G191016EU - 3 en 1",
+    "description": "23,74€ - Amazon MarqueMeguiar's Forme de l'articleLiquide Usages spécifiques pour le produitBrillant, brillant, propre, poli, nettoyage Utilisations recommandées pour le produitNettoie, polissage, pour protéger la peinture Poids de l'article16 Onces Nombre d'articles1 Trois en un: ravive, lustre et protège en une seule étape Ravive la peinture: Elimine les légers défauts de peinture comme les traces d’eau, les fins tourbillons ou le voile terne Brillance profonde: augmente la brillance, les reflets et la profondeur de couleur Protection durable: apporte une protection durable contre les agressions qu’une peinture peut subir de la part des éléments Facile d’utilisation: bien plus facile à appliquer et à essuyer qu’une cire traditionnelle à base de carnauba",
+    "price": 23.74,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/meguiars-g191016eu-cire-lustrante-3-en-1-473ml-3432149",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CHb9q/3432149_1/re/1200x1200/qt/90/3432149_1.jpg",
+    "detected_at": "2026-10-14T07:37:23+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 23.74,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Pack Boite à Histoires Lunii + Livre Audio Défi Vilain Échappe à Scar + 1 Livre Audio au Choix",
+    "description": "55,92€ - Amazon À propos de cet article TOUT EST DANS LA BOÎTE : La conteuse Ma Fabrique à Histoires verte, le livre audio officiel Le Roi Lion, Échappe à Scar, et un second livre audio Lunii à choisir parmi 2 titres. Plus de 2h d'histoires dès le premier soir, sans écran et sans connexion pendant l'écoute. LE ROI LION, ÉCHAPPE À SCAR : Le livre audio officiel emmène l'enfant dans la savane avec les voix des personnages, dans un récit interactif où c'est lui qui décide de la suite. L'écoute se fait à tout moment, sans internet, dans la chambre comme sur la route des vacances. COMPOSEZ VOS HISTOIRES, ÉCOUTEZ VOS CRÉATIONS : L'enfant choisit les éléments de son récit, un héros, un lieu, un accessoire, un compagnon, puis écoute sa création prendre vie. Un tour de molette, et l'histoire n'est plus la même. Pas de bonne réponse, pas de parcours imposé : il crée sans contrainte. UN ESPACE DE CONFIANCE, SANS INTRUS : Sans internet, sans publicité, sans algorithme qui décide à sa place. Les livres audio s'ajoutent en Wi-Fi depuis l'application, puis la connexion se coupe seule : l'écoute se fait sans ondes et sans écran. L'enfant s'évade librement, les parents restent sereins. FABRIQUÉE EN FRANCE ET POUR DURER : Choisir la durabilité, c'est aussi un geste pour la planète : garantie 2 ans, réparable, éco-conçue, avec un programme d'échange et de reconditionnement. Le cadeau des 3 à 8 ans, qui continue de faire plaisir bien après le déballage.",
+    "price": 55.92,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pack-ma-fabrique-a-histoire-boite-a-histoires-lunii-livre-audio-defi-vilain-echappe-a-scar-1-livre-audio-au-choix-3432150",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Xw20x/3432150_1/re/1200x1200/qt/90/3432150_1.jpg",
+    "detected_at": "2026-10-14T07:36:41+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 55.92,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Speed Champions 77260 - La Toyota Supra MK4 de Fast and Furious",
+    "description": "17,99€ - Amazon Jouet voiture dès 10 ans ou ado, maquette avec minifigurine de Brian O’Conner, idée de cadeau STEM, 292 pièces",
+    "price": 17.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-la-toyota-supra-mk4-de-fast-and-furious-77260-3432148",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/W8ZZl/3432148_1/re/1200x1200/qt/90/3432148_1.jpg",
+    "detected_at": "2026-10-14T07:28:32+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Abri de jardin résine Lifetime Landmark 60501 - Gris, surface totale 4.54 m²",
+    "description": "519,90€ - Castorama Bon tarif pour un abri en résine avec une garantie de 10 ans Caractéristiques du produit Avec cet Abri Résine Lifetime 60501, facile de ranger et de stocker vos produits de jardin : avec ses 3,96 m² au sol, vous pouvez y entreposer vélos, outils, tondeuse ou mobiliers de jardin… Garantie 10 ans, en panneaux en résine 23mm (Polyéthylène Haute Densité – HDPE) traités anti UV et avec renforts en acier améliorant sa durabilité, cet abri résiste à de nombreuses intempéries, et requiert peu d’entretien. Sa finition imitation bois et tuiles très esthétique lui permet de s’intégrer quel que soit le style de votre jardin. Dimensions intérieures : L. 199 x P. 199 cm / Surface intérieure : 3,96 m² Dimensions totales extérieures hors tout : L. 214 x P. 214 x H. 227 cm / Surface totale extérieure hors tout : 4,54 m² Informations supplémentaires Avec double porte d'entrée de largeur 1.37m et hauteur 1.91m permettant un accès simplifié verrouillable (cadenas vendu séparément) Avec plancher très robuste idéal pour entreposer et protéger les objets lourds Charpente métallique pour plus de résistance et de durabilité Hauteur de faîtage suffisamment importante pour permettre un déplacement facile à l’intérieur Montage facile et rapide par emboîtement et vissage, sans outils spécifiques nécessaires Avec fenêtre latérale et puit de lumière traversant le toit sur toute sa profondeur pour un éclairage efficace et naturel de tout l'abri Avec bouches d'aération intégrées permettant une ventilation optimale Spécifications techniques Type d'article Abri de jardin Marque Lifetime Surface intérieure (en m²) 4.37m² Type de toit Double pentes Matière du toit Résine Plancher fourni Plancher inclus Type de porte Porte double Nombre de portes 2 Nombre de fenêtres 1 Hauteur intérieure (cm) 200cm Dimensions intérieures l. 2,09 x P. 2,09 x H. 2,20 m Mode d'ouverture de la porte Battant Fenêtres fixes/avec ouvrant Fenêtres fixes et ouvrantes Type de vitrage Simple vitrage Matière du vitrage Polycarbonate Assemblage requis À monter soi-même Nombre de personnes nécessaires pour le montage 3 Raccords et fixations inclus Raccords et fixations inclus Base incluse Base non incluse Épaisseur du plancher (en mm) 27mm Épaisseur du toit (en mm) 32mm Surface totale hors-tout (en m²) 4.58m² Résistant aux ultraviolets Résistant aux UV Résistance aux intempéries Résistant aux conditions extérieures Garantie fabricant 10 ans Poids net (kg) 149kg",
+    "price": 519.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/abri-de-jardin-resine-lifetime-landmark-60501-gris-surface-totale-454-m2-3432145",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FimZ4/3432145_1/re/1200x1200/qt/90/3432145_1.jpg",
+    "detected_at": "2026-10-14T07:27:07+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 519.9,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Pokémon Smart Play 72162 - Chasse au trésor d’Évoli et Lokhlass - 623 Pièces",
+    "description": "44,90€ - Amazon Embarquez pour des aventures en mer avec le set SMART Play : Chasse au Trésor d’Évoli et Lokhlass (72162) LEGO Pokémon incluant les figurines articulées d’Évoli et Lokhlass. Les enfants dès 8 ans imaginent une infinité d’histoires, guident le duo jusqu’à l’épave et abaissent le mât pour soulever le rocher et révéler un coffre au trésor plein de pièces et de pierres précieuses. Évoli, Lokhlass et le coffre intègrent chacun un SMART Tag. Les SMART Briques incluses dans les sets Tout-en-un (vendus séparément) donnent vie aux aventures des Dresseurs Pokémon avec une infinités d’options de jeu interactif. Les Pokémon peuvent ainsi réagir les uns aux autres et au jeu des enfants par des sons, des lumières et plus encore. Les fonctions interactives incluent une mélodie émise quand un Pokémon transporte le trésor, des pièces qui tintent quand on le déplace, et les cris de joie des Pokémon lorsqu’il est en lieu sûr. Cette idée de cadeau amusante contient 623 pièces. LEGO 72162 Août 2026 8+ 623 pièces 59.99 € chez LEGO Contenu du set: : - JEU DE CONSTRUCTION ET AVENTURES SUR UNE ÉPAVE – Le set Chasse au trésor d’Évoli et Lokhlass LEGO Pokémon (72162) est un set Compatible SMART Play invitant les enfants à mettre le cap vers une infinité de jeux créatifs - JEU IMAGINATIF – Les enfants peuvent se transformer en Dresseur Pokémon, suivre une carte jusqu’à une épave, abaisser le mât pour soulever un rocher et découvrir un coffre au trésor rempli de pièces et de pierres précieuses - LES POKÉMON VOUS RÉPONDENT – Les SMART Tags d’Évoli, Lokhlass et du coffre au trésor activent les SMART Briques (non incluses), déclenchant des sons et des lumières lorsque les Pokémon réagissent les uns aux autres et au jeu interactif des enfants - 2 FIGURINES POKÉMON ARTICULÉES – Aidez l’adorable Évoli, avec queue et oreilles articulées, et la grande figurine de Lokhlass, dotée de nageoires mobiles, à chercher des trésors, à écouter de la musique et à combattre grâce au système SMART Play interactif - COMMENT ACTIVER VOTRE SET – Ajoutez la SMART Brique LEGO d’un set Tout-en-un (vendu séparément) pour activer des fonctions de jeu immersives. Les SMART Briques ne sont pas disponibles à l’achat séparément - JEUX SANS ÉCRAN – Les enfants peuvent partager avec leurs amis et leur famille une infinité de jeux créatifs riches en action en montant à bord du radeau d’Évoli ou en suivant Lokhlass, en quête d’aventures en mer - IDÉE DE CADEAU POUR LES ENFANTS – Inspirez une infinité de jeux de simulation avec ce petit cadeau à offrir pour un anniversaire, les fêtes ou en toute occasion aux garçons, aux filles et aux fans de Pokémon à partir de 8 ans - DIMENSIONS – La figurine de Lokhlass incluse dans ce jouet de construction de 623 pièces mesure plus de 16 cm de haut, 17 cm de large et 13 cm de profondeur",
+    "price": 44.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-pokemon-smart-play-72162-chasse-au-tresor-devoli-et-lokhlass-623-pieces-3432144",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8r8Lv/3432144_1/re/1200x1200/qt/90/3432144_1.jpg",
+    "detected_at": "2026-10-14T07:26:46+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 44.9,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coupe-branches à Lames Franches Hychika - 99cm",
+    "description": "28,49€ - Amazon MarqueHYCHIKA BETTER TOOLS FOR BETTER LIFE CouleurVert Poids de l'article2 Kilogrammes StyleModerne Dimensions du produit99L x 20l centimètres Matériau de la lameAcier à haute teneur en carbone Longueur réglable : le taille haie manuel est doté d'un système extensible avec cinq réglages possibles. Il suffit d'appuyer sur le bouton extensible pour régler la longueur, qui peut atteindre 99 cm. La poignée peut être verrouillée à une longueur fixe, ce qui vous permet de couper facilement des branches à distance ou en hauteur sans avoir besoin d'une échelle. Lame en acier de haute qualité : la lame est fabriquée en acier à haute teneur en carbone et traitée thermiquement pour une plus grande résistance, un tranchant accru, une protection contre la rouille et une durabilité accrue. Son revêtement antidérapant réduit la friction pour permettre une coupe nette et précise sans risque de flexion, de rupture ou de déformation de la lame, et pour une durée de vie prolongée. Engrenages : Le sécateur télescopique est doté d'un système d'engrenages qui augmente la force appliquée aux lames, offrant ainsi d'excellentes performances de coupe et permettant une taille rapide et précise, ce qui le rend plus efficace et moins fatigant, tout en réduisant la pénibilité de la taille. Poignée confortable et antidérapante : le coupe de branches est doté d'une poignée ergonomique en aluminium léger. Le revêtement en caoutchouc de la poignée offre une prise en main sûre et confortable, permettant un meilleur contrôle pendant l'utilisation. Vous pouvez ainsi couper et tailler pendant de longues périodes sans inconfort, ce qui améliore votre efficacité. Polyvalent : le cisaille de jardin est doté d'une lame en forme de mâchoire de requin, capable de couper des branches jusqu'à 50 mm de diamètre. Il est idéal pour l'embellissement des paysages et l'entretien des jardins, et convient pour tailler les branches épaisses, les arbres fruitiers, les plantes en pot, les arbustes, les haies et les branches sèches et épaisses. Il est le choix parfait pour les professionnels et les amateurs de jardinage. Commentaires client",
+    "price": 28.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/hychika-99-cm-coupe-branches-a-lames-franches-3432137",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QwxLH/3432137_1/re/1200x1200/qt/90/3432137_1.jpg",
+    "detected_at": "2026-10-14T07:26:33+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 28.49,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Trottinette Électrique Xiaomi 5 Max - 1000W, 60 Km, Double Suspension",
+    "description": "399,49€ - TradeInn Description Xiaomi Trottinette électrique 5 Max Découvrez la mobilité urbaine comme jamais auparavant avec la trottinette électrique Xiaomi 5 Max. Conquérez chaque trajet grâce à sa suspension avant hydraulique-ressort double et sa suspension arrière double ressort pour une douceur inégalée. Profitez d´une autonomie de 60 km, du TCS antidérapant pour les routes mouillées et d´un puissant moteur de 1000W pour gravir les pentes sans effort. La récupération d´énergie intelligente et l´éclairage d´ambiance améliorent la sécurité et l´efficacité, rendant chaque voyage agréable Xiaomi 5 Max Trottinette Électrique : L´Évolution Ultime de la Mobilité Urbaine Découvrez le summum du transport personnel avec la trottinette électrique Xiaomi 5 Max, méticuleusement conçue pour transformer vos trajets quotidiens et redéfinir votre liberté en ville. Cette trottinette de nouvelle génération est bien plus qu´un simple moyen de se rendre d´un point A à un point B ; c´est un partenaire puissant, confortable et intelligent pour l´explorateur urbain moderne. Dites adieu aux embouteillages, aux transports en commun bondés et aux problèmes de stationnement, et adoptez une façon plus intelligente, plus fluide et plus exaltante de naviguer dans votre monde. Au cœur de la Xiaomi 5 Max se trouve un moteur exceptionnellement puissant, conçu pour offrir une accélération époustouflante et conquérir facilement les terrains urbains difficiles. Sentez la réponse instantanée lorsque vous montez des pentes raides jusqu´à 25 %, laissant derrière vous les trottinettes et les cyclistes conventionnels. Que vous démarriez à l´arrêt ou que vous ayez besoin d´une accélération pour vous insérer dans la circulation, le groupe motopropulseur robuste vous offre la confiance et les performances dont vous avez besoin. Avec plusieurs modes de conduite, notamment Piéton, Standard et Sport (S+), vous pouvez instantanément adapter les performances de la trottinette à votre environnement, d´une allure tranquille dans les zones fréquentées à une vitesse de pointe palpitante sur les chemins dégagés. Un confort de conduite inégalé est une caractéristique déterminante de la 5 Max. Équipée d´un système de double suspension avant et arrière sophistiqué, cette trottinette absorbe sans effort les chocs et les vibrations des surfaces irrégulières. Glissez en douceur sur les pavés, les chaussées fissurées et les dos d´âne, tandis que la suspension avancée travaille à vous offrir un voyage stable et extrêmement confortable. Ce système transforme les rues accidentées de la ville en une expérience de navigation fluide, réduisant la fatigue et vous permettant de rouler plus longtemps et avec plus de plaisir. L´angoisse de l´autonomie appartient au passé. La Xiaomi 5 Max est alimentée par une batterie haute capacité et longue durée qui offre une distance de déplacement incroyable sur une seule charge. Couvrez l´ensemble de vos trajets quotidiens, faites des courses en ville et ayez encore de l´énergie à revendre pour une balade spontanée en soirée. Cette autonomie étendue vous offre la liberté ultime d´explorer votre ville sans limites. Pour compléter cette endurance, il y a les pneus Xiaomi DuraGel avancés de 10 pouces. Ces pneus tubeless auto-obturants offrent une durabilité et une tranquillité d´esprit exceptionnelles, réparant automatiquement les petites crevaisons pour vous permettre de continuer à rouler sans interruption. La sécurité et le contrôle sont primordiaux dans la conception de la trottinette. Le système de freinage double, doté d´un frein avant E-ABS réactif et d´un frein arrière à tambour fiable, assure des distances d´arrêt courtes et sûres. Le système intégré de récupération d´énergie cinétique (KERS) capture intelligemment l´énergie pendant le freinage et la décélération, la convertissant en énergie utilisable pour prolonger davantage votre autonomie. Roulez en toute confiance de jour comme de nuit, grâce au phare avant à LED ultra-lumineux qui illumine ",
+    "price": 399.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/trottinette-electrique-xiaomi-5-max-1000w-60-km-double-suspension-3432135",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/C5NJz/3432135_1/re/1200x1200/qt/90/3432135_1.jpg",
+    "detected_at": "2026-10-14T07:25:36+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 399.49,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte Graphique Gigabyte AMD RX 9060 XT 16 Go",
+    "description": "489€ - Galaxus Bonjour Je viens de voir ce deal a l'instant, j'ai pas le temps de faire trop de recherche sur le modèle pour la description mais vu les prix en ce moment elle me semble \"intéressante\". ⚠️Attention limite de 10 exemplaires⚠️ Description de la carte (sur le site Galaxus) En bref Mémoire vidéo généreuse Avec 16 Go de RAM GDDR6, la carte graphique offre un espace mémoire suffisant pour l'affichage fluide de textures haute résolution et d'applications de jeux exigeantes. Architecture GPU moderne La carte graphique repose sur l'architecture RDNA 4 et prend en charge DirectX 12 pour une performance de calcul efficace et un affichage graphique avancé dans les jeux modernes. Connectique polyvalente Dotée de deux ports HDMI et de deux ports DisplayPort, la carte permet de connecter facilement plusieurs moniteurs à votre système existant. A vous de juger si c'est un bon deal ou non Vu les prix en ce moment c'est compliqué de trouver une carte au bon prix.",
+    "price": 489.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/amd-rx-9060-xt-16go-gigabyte-3432142",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5GS3k/3432142_1/re/1200x1200/qt/90/3432142_1.jpg",
+    "detected_at": "2026-10-14T07:25:15+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 489.0,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sèche-serviette électrique De'longhi Merak Digit - 500W",
+    "description": "189,90€ - Castorama Le sèche-serviettes électrique à inertie fluide 500W blanc De'Longhi Merak Digit est conçu pour chauffer et sécher les serviettes. *caractéristiques du produit :* - Inertie fluide - Collecteurs ronds et lames plates - Télécommande infrarouge magnétique et amovible - Thermostat discret en partie basse - Connexion Wi-Fi - Application RADIATORS Connect Existe en version gris 500w a 199,90 € castorama.fr/seche-serviettes-electrique-a-inertie-fluide-500w-noir-de-longhi-merak-digit/8053600040961_CAFR.prd Version 700w en blanc a 249,90€ castorama.fr/seche-serviettes-electrique-a-inertie-fluide-700w-blanc-de-longhi-merak-digit/8053600040954_CAFR.prd Version 700w en gris a 259,90 € castorama.fr/seche-serviettes-electrique-a-inertie-fluide-700w-noir-de-longhi-merak-digit/8053600040978_CAFR.prd",
+    "price": 189.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/seche-serviette-electrique-500w-delonghi-merak-digit-3432141",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/lQA14/3432141_1/re/1200x1200/qt/90/3432141_1.jpg",
+    "detected_at": "2026-10-14T07:25:06+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.castorama.fr/seche-serviettes-electrique-a-inertie-fluide-500w-noir-de-longhi-merak-digit/8053600040961_CAFR.prd",
+    "price_history": [
+      {
+        "price": 189.9,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle LP Pink Martini \"Sympathique\"",
+    "description": "19,99€ - Amazon Big band de douze musiciens, les Américains de Pink Martini arrivent en véritables ovnis. La musique qu’ils proposent est un savoureux mélange archimaîtrisé de jazz et de danse de salon vintage. Leur univers laisse l’impression de revivre les heures de gloire d’une Havane en plein « rêve américain ». C’est avec le tube « Sympathique », repris dans de nombreuses pubs télé, que ces étranges fantômes du passé vont séduire un public très hétéroclite. À propos de ce produit Sympathique Commentaires client",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-lp-pink-martini-sympathique-3432140",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pVL8T/3432140_1/re/1200x1200/qt/90/3432140_1.jpg",
+    "detected_at": "2026-10-14T07:24:37+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Reconditionné : Casque Filaire Sennheiser HD 599 SE - Noir",
+    "description": "79€ - Sennheiser Sennheiser HD 599 SE : un casque audiophile ouvert à prix intéressant ! Le Sennheiser HD 599 SE est un casque hi-fi ouvert reconnu pour sa qualité sonore et son confort. Il conviendra parfaitement aux amateurs de musique qui recherchent une écoute détaillée et naturelle. Les points forts : Son détaillé et naturel, avec une belle spatialisation. Basses présentes et agréables, sans être excessives. Conception ouverte pour une scène sonore plus large et aérée. Très confortable grâce à ses coussinets en velours et son arceau rembourré. Connexion filaire, sans batterie ni latence Bluetooth. À savoir : Casque ouvert : le son fuit vers l'extérieur et les bruits ambiants restent audibles. Idéal à la maison pour la musique, les films et les jeux. Pas conçu pour les déplacements ou les environnements bruyants. Un excellent choix pour découvrir la hi-fi sans forcément investir dans un casque haut de gamme très coûteux !",
+    "price": 79.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-filaire-hd-599-se-3432130",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1r3gJ/3432130_1/re/1200x1200/qt/90/3432130_1.jpg",
+    "detected_at": "2026-10-14T07:23:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 79.0,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Climatiseur Réversible Midea PortaSplit - Prêt à Poser, 3500W, Jusqu'à 40m²",
+    "description": "969€ - Castorama La fameuse clim portasplit est de retour. Apparemment les magasins en ont reçu un peu partout car le catalogue commence aujourd'hui Le climatiseur mobile réversible Midea PortaSplit 3500 W offre le parfait compromis entre la puissance d'un climatiseur split et la simplicité d'un système mobile. Idéal pour chauffer ou rafraîchir des pièces allant jusqu'à 40 m², cet appareil prêt à poser s'installe sans l'aide d'un professionnel en quelques minutes seulement. Grâce à sa connexion intelligente via l'application SmartHome et sa télécommande, vous pilotez votre confort thermique avec précision. Son fonctionnement silencieux et sa polyvalence en font un équipement indispensable en toutes saisons. Puissance de 3500 W idéale pour climatiser ou chauffer des pièces jusqu'à 40 m². Installation rapide sans professionnel grâce au kit de fixation et au kit fenêtre inclus. Confort polyvalent avec les modes climatisation, chauffage, déshumidification et ventilation. Niveau sonore réduit à partir de 39 dB pour un confort acoustique optimal de jour comme de nuit. Pilotage à distance simplifié avec la télécommande ou via l'application mobile dédiée. Performance de climatisation split avec la flexibilité d'un appareil mobile prêt à poser. Liaison flexible de 2 mètres entre les unités intérieure et extérieure pour un placement libre. Algorithme intelligent pour optimiser les performances de l'appareil en temps réel. Diffusion d'air homogène avec un déflecteur réglable pour éviter les courants d'air directs. Garantie fabricant de 2 ans pour vous assurer une utilisation sereine et durable.",
+    "price": 969.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/climatiseur-reversible-pret-a-poser-3500-w-jusqua-40-m2-midea-portasplit-3432139",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/WsHvX/3432139_1/re/1200x1200/qt/90/3432139_1.jpg",
+    "detected_at": "2026-10-14T07:23:21+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 969.0,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 Genouillères avec Appui-cuisse ToughBuilt GelFit Fanatic",
+    "description": "49,95€ - iBOOD D'autres modèles sont disponibles : https://www.ibood.com/fr/s-fr/find-offer?q=Genouill%C3%A8re%20 Quiconque a déjà travaillé longtemps sur des sols durs le sait : à un moment, les genoux commencent à protester. Avec les genouillères ToughBuilt GelFit™ Fanatic, vous pouvez vous concentrer entièrement sur votre travail. Et non sur le moment où vous pourrez enfin vous relever. Confort, même lors des longues sessions Ces genouillères ont été spécialement conçues pour les professionnels qui doivent s’agenouiller, monter, poser ou visser chaque jour. Grâce à leur conception ergonomique, non seulement vos genoux, mais aussi votre tibia et votre cuisse sont parfaitement soutenus. Vous travaillez ainsi bien plus confortablement, même lors des interventions prolongées. Ingénieux jusque dans les moindres détails Le cœur du produit est le rembourrage GelFit™, qui s’adapte agréablement et répartit la pression de manière uniforme. La plateforme intégrée relève légèrement le tibia et soulage l’articulation de la cheville – une petite différence dont vous apprécierez vite les bienfaits. De plus, l’appui-cuisse empêche la torsion des genouillères et veille à ce que tout reste bien en place. Le système de boucles élastique/EVA maintient solidement les genouillères sans exercer de pression désagréable. Robuste pour la dure vie de chantier Évidemment, les genouillères doivent être non seulement confortables, mais aussi résistantes. La coque antidérapante, doublement injectée en caoutchouc et plastique, assure une excellente adhérence sur différents types de sols, tandis que le tissu 1680D ultra-résistant supporte sans soucis les utilisations intensives. Que vous posiez du carrelage, installiez des planchers ou réalisiez d’autres travaux exigeants, avec les genouillères ToughBuilt GelFit™ Fanatic, vous travaillez plus confortablement, en toute sécurité et plus longtemps. Vos genoux vous remercieront. Spécifications Marque : ToughBuilt Type : GelFit™ Fanatic Genouillères avec appui-cuisse GelFit™ pour un confort optimal Allège la pression sur genoux & chevilles Extrêmement robustes & antidérapantes Caractéristiques Design ergonomique pour genoux, tibias & cuisses Plateforme surélevant le tibia pour soulager la cheville Appui-cuisse anti-torsion Coussinets GelFit™ pour un confort tout au long de la journée Coque antidérapante doublement injectée avec caoutchouc & plastique Tissu 1680D résistant à l’abrasion Système de serrage élastique/EVA pour un maintien sûr sans compression Idéal pour les pros exigeant confort & durabilité",
+    "price": 49.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-genouilleres-avec-appui-cuisse-toughbuilt-gelfit-fanatic-3432138",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/JUGEH/3432138_1/re/1200x1200/qt/90/3432138_1.jpg",
+    "detected_at": "2026-10-14T07:23:13+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 49.95,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rise of the Tomb Raider: 20 Year Celebration Xbox Séries (Dématérialisé)",
+    "description": "2,99€ - Xbox Store Rise of the Tomb Raider: 20 Year Celebration sur Xbox store Description Rise of the Tomb Raider: 20e Anniversaire contient le jeu Rise of the Tomb Raider applaudi par la critique et sélectionné pour plus de 100 prix. Lara Croft la survivante devient une aventurière aguerrie lorsqu’elle s’embarque dans sa première expédition de « Tomb Raider » dans les régions les plus hostiles de la Sibérie à la recherche du secret de l'immortalité. Les joueurs sur Xbox One X peuvent choisir entre trois modes visuels incluant la 4K native pour une résolution de la plus haute fidélité possible, des images enrichies pour des améliorations graphiques à couper le souffle, et une fréquence d'images élevée pour une expérience de jeu d'une fluidité sans précédent. Les autres améliorations techniques apportées sur Xbox One X incluent une compatibilité avec les écrans HDR pour des couleurs plus vives et plus fidèles, une compatibilité avec la spatialisation sonore, y compris Dolby Atmos® pour un son en 3D authentique, une amélioration de la résolution des textures, et un anticrénelage amélioré pour des détails encore plus réalistes et immersifs. Les améliorations visuelles supplémentaires incluent un éclairage volumétrique et des reflets améliorés, une végétation plus naturelle, des structures géométriques améliorées, ainsi qu'un meilleur filtrage des textures. Rise of the Tomb Raider: 20e Anniversaire inclut la nouvelle campagne solo « Liens du sang », la nouvelle option de coop pour le mode Endurance, le mode de difficulté « Survivant de l'extrême » pour la campagne principale, le pistolet et la tenue « 20e Anniversaire », et 5 habillages Lara classiques. Le jeu inclut également tous les contenus téléchargeables déjà sortis, tels que « Baba Yaga : le temple de la sorcière », le mode Endurance, « Réveil glacial », 12 tenues, 7 armes, et 35 cartes d'expédition. Avec plus de 50 heures de jeu à la clé, cette édition est la version ultime de cette expérience primée.",
+    "price": 2.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/rise-of-the-tomb-raider-20-year-celebration-xbox-series-dematerialise-3432134",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NtqZo/3432134_1/re/1200x1200/qt/90/3432134_1.jpg",
+    "detected_at": "2026-10-14T07:20:29+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 2.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Need for Speed Heat Édition Deluxe sur PS4 (Dématérialisé)",
+    "description": "7,99€ - PlayStation Store Need for Speed™ Heat Édition Deluxe (PS4, PlayStation Store)",
+    "price": 7.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/need-for-speed-heat-edition-deluxe-ps4-playstation-store-3432133",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/UV3Zv/3432133_1/re/1200x1200/qt/90/3432133_1.jpg",
+    "detected_at": "2026-10-14T07:20:20+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casquette Timberland T60156 homme - Coupe trucker, coton, taille 44 ou 46",
+    "description": "10,99€ - Espace des marques Casquette Timberland T60156 pour homme, proposée dans un coloris blanc, bleu marine et rose, avec le logo de la marque sur l'avant. Ce modèle adopte une coupe trucker et une composition 100 % coton. Son association de couleurs apporte une touche originale tout en restant facile à assortir avec un jean, un tee-shirt ou un sweat. Caractéristiques : Marque : Timberland Référence : T60156/96G Composition : 100 % coton Coupe : trucker Coloris : blanc, marine et rose Logo Timberland sur l'avant Livraison gratuite dès 85 € d'achat. Le site propose également un programme de fidélité permettant de cumuler des avantages sur les achats. Les retours sont possibles sous 30 jours à compter de l'expédition de la commande.",
+    "price": 10.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casquette-timberland-t60156-homme-coupe-trucker-coton-3432132",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YIFMY/3432132_1/re/1200x1200/qt/90/3432132_1.jpg",
+    "detected_at": "2026-10-14T07:20:19+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures Asics Gel-Lyte III PS Kids - Tailles du 27 au 35",
+    "description": "24,99€ - Sport-Outlet La ASICS Gel-Lyte III PS Enfants Sneakers C5A5N-7301 est une chaussure sportive pour enfants au design rétro. *caractéristiques du produit:* - Look rétro sportif - Confort optimal - Semelle extérieure adhérente - Bonne stabilité - Idéale pour les loisirs et l'école",
+    "price": 24.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/asics-gel-lyte-iii-ps-enfants-du-27-au-35-3432131",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/VGZ4X/3432131_1/re/1200x1200/qt/90/3432131_1.jpg",
+    "detected_at": "2026-10-14T07:19:33+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Pack Triplé gagnant Resident Evil sur PS4 (Dématérialisé)",
+    "description": "12,49€ - PlayStation Store Pack Triplé gagnant Resident Evil (PS4, PlayStation Store)",
+    "price": 12.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pack-triple-gagnant-resident-evil-ps4-playstation-store-3432129",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mn2SH/3432129_1/re/1200x1200/qt/90/3432129_1.jpg",
+    "detected_at": "2026-10-14T07:19:24+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.49,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Point d'accès extérieur Wi-Fi 6 Huawei eKit AP771 - 3570 Mbps, PoE",
+    "description": "108,89€ - Galaxus Description Le point d'accès extérieur Huawei eKit AP771 est une solution puissante pour fournir du Wi-Fi dans les espaces extérieurs. Avec un débit de transmission maximal allant jusqu'à 3570 Mbps, réparti sur 689 Mbps dans la bande 2,4 GHz et 2880 Mbps dans la bande 5 GHz, ce point d'accès offre une connexion fiable et rapide pour de nombreux appareils. Il prend en charge les derniers standards Wi-Fi, y compris le Wi-Fi 6, et est conçu pour être monté sur des mâts, ce qui le rend idéal pour une utilisation dans divers environnements. L'AP771 est équipé d'antennes intégrées et permet une installation facile. Grâce à sa construction robuste, il est adapté à une utilisation en extérieur et peut gérer jusqu'à 256 clients simultanément. L'alimentation se fait par Power over Ethernet (PoE), ce qui simplifie encore l'installation. Débit de transmission maximal de 3570 Mbps pour des vitesses élevées Prend en charge jusqu'à 256 connexions simultanées pour de grands réseaux Construction robuste pour une utilisation en extérieur, idéale pour divers environnements Alimentation par PoE pour une installation facile.",
+    "price": 108.89,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/point-dacces-exterieur-wi-fi-6-huawei-ekit-ap771-3570-mbps-poe-3432126",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/71iLF/3432126_1/re/1200x1200/qt/90/3432126_1.jpg",
+    "detected_at": "2026-10-14T07:19:16+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 108.89,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Séparateur de poussières Dewalt DXVCS002",
+    "description": "54,95€ - iBOOD Le DeWalt DXVCS002 Séparateur préalable est un accessoire pour aspirateur industriel qui aide à réduire la poussière et à maintenir une puissance d'aspiration constante. Ce séparateur de poussière DeWalt sépare la poussière de tous les autres objets que vous aspirez. Il se connecte facilement à votre aspirateur de chantier compatible. Caractéristiques du produit : Marque: Dewalt Type: DXVCS002 Collecteur de poussière Empêche la perte de puissance d'aspiration Prolonge la durée de vie de l'aspirateur Roulettes Idéal pour les aspirateurs industriels Compatible avec les tuyaux de la plupart des aspirateurs disponibles sur le marché Les roulettes sur la face inférieure assurent la mobilité et la facilité d'utilisation Fabriqué en polypropylène de haute qualité et résistant aux températures élevées Facile à assembler et à stocker Livré avec tuyaux flexibles Caractéristiques physiques Poids: 5,19 kg Capacité: 23 litres Longueur du tuyau: 2,1 m",
+    "price": 54.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/dewalt-dxvcs002-separateur-prealable-3432128",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/x3FxW/3432128_1/re/1200x1200/qt/90/3432128_1.jpg",
+    "detected_at": "2026-10-14T07:18:13+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 54.95,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tomb Raider: Definitive Edition Xbox Séries (Dématérialisé)",
+    "description": "1,99€ - Xbox Store Tomb Raider: Definitive Edition est un jeu d'action-aventure remanié pour les consoles nouvelle génération. *caractéristiques du produit:* - Lara détaillée - Environnement réaliste - Combats intenses - Personnalisation des armes et équipements - Obstacles environnementaux à surmonter Description L'aventure qui force la jeune et inexpérimentée Lara Croft à devenir une survivante endurcie a été remaniée pour les consoles nouvelle génération. Vous y retrouverez une Lara incroyablement détaillée et un environnement qui ressemble à s'y méprendre au monde réel. Lara doit endurer des combats intenses, personnaliser ses armes et son équipement pour survivre à sa première aventure et découvrir le secret mortel de l'île. La Definitive Edition du jeu d'action-aventure acclamé par la critique inclut des contenus bonus et regroupe tous les packs de contenu téléchargeable additionnels de la version Xbox 360. La version téléchargeable de ce jeu est disponible en anglais, français, italien, allemand, espagnol,portugais, russe, néerlandais et arabe",
+    "price": 1.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tomb-raider-definitive-edition-xbox-series-dematerialise-3432125",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gQJjT/3432125_1/re/1200x1200/qt/90/3432125_1.jpg",
+    "detected_at": "2026-10-14T07:17:01+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
       }
     ]
   },
@@ -11876,309 +12535,6 @@
       {
         "price": 75.36,
         "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie Externe AsperX USB Type C - 100W, 20000mAh (via remise au panier - vendeur tiers)",
-    "description": "48,63€ - Amazon Bénéficiez d'une réduction de 45 % avec ce coupon Charge rapide pour deux ordinateurs portables : la batterie externe AsperX, d'une puissance totale de 165 W, permet de recharger rapidement deux ordinateurs portables à forte charge simultanément (100 W + 65 W), pour une charge complète pendant les réunions ou les discussions. C'est la batterie externe mobile idéale pour les personnes actives Charge rapide bidirectionnelle USB-C 2X PD 100 W : le port/câble USB-C prend en charge une sortie PD 3.0 maximale de 100 W, chargeant votre MacBook Pro 16 à 50 % en seulement 45 minutes, avec une vitesse de charge très rapide ; le port/câble USB-C prend en charge une entrée haute puissance de 65 W, qui ne prend qu'environ 1 heure et 40 minutes pour se charger complètement, ce qui permet aux personnes occupées de gagner beaucoup de temps Câble de charge rapide intégré de 60 cm - 3 longueurs : Comparé à d'autres banques d'alimentation avec des câbles intégrés de seulement 8 à 15 cm, notre câble de charge est rallongé jusqu'à 60 cm et est réglable sur trois vitesses, ce qui rend votre distance de charge plus flexible ; De plus, le câble rétractable a été rétracté 30 000 fois et peut être retiré pour la charge et rétracté pour le stockage - pas besoin de connecter un câble séparé, ce qui est très pratique pour les voyages Grande capacité de 20 000 mAh - Conforme aux normes de l'aviation : la très grande capacité vous permet de recharger complètement vos appareils plusieurs fois pendant vos voyages : chargez les séries iPhone et Samsung Galaxy 3 à 4 fois et chargez le MacBook Air une fois ; c'est un choix idéal pour les voyages, le camping en plein air, les voyages d'affaires, l'utilisation familiale quotidienne ou l'utilisation d'urgence Écran dynamique intelligent TFT : La batterie externe AsperX est dotée d'un écran haute résolution de haute qualité qui affiche en temps réel et avec précision la capacité restante, la puissance de sortie et le temps de charge, vous permettant ainsi de toujours surveiller l'état de charge. De plus, vous pouvez régler la luminosité et la durée d'allumage (3 secondes, 3 minutes, voire en continu) selon vos besoins. Enfin, l'écran intègre un rappel de température pour éviter toute surchauffe Chargement simultané de plusieurs appareils : cette banque d'alimentation mobile dispose de 2 ports Type-C et d'un port USB, qui peuvent charger 3 appareils en même temps sans attendre ; De plus, la banque d'alimentation mobile prend également en charge le mode faible courant, qui peut charger des casques Bluetooth, des bracelets de sport, des montres intelligentes, des petits ventilateurs, etc. pour répondre à tous vos besoins quotidiens Haute performance de sécurité : Utilisant 21700 cellules de batterie de qualité automobile et une technologie de surveillance intelligente de l'IA, détection et réglage de la température en temps réel ; la coque est en alliage d'aluminium de qualité aéronautique, qui dissipe la chaleur plus rapidement pendant la charge, est résistante aux chocs et aux chutes; De plus, l'achat de la banque d'alimentation mobile AsperX est livré avec une garantie de 18 mois et un service client en ligne 24h/24 Spécifications Type de connecteur: USB Type C Marque: AsperX Capacité de la batterie: 20000 milliamp_hours Couleur: Gris Caractéristique spéciale: 1. Puissance totale de 165 W, charge rapide ; 2. Câble de charge USB-C rétractable intégré de 60 cm 3. Deux ports/câbles de charge rapide USB-C de 100 W 4. Batterie de qualité automobile, grande capacité de 20 000 mAh 5. Charge jusqu'à trois appareils simultanément 6. Écran TFT dynamique intelligent 7. Compatible avec les avions pour des voyages pratiques 8. 10 dispositifs de sécurité 9. Boîtier en alliage d'aluminium de haute qualité 10. Large compatibilité, format compact Voir plus Tension: 20 Volts Composition de la pile: Lithium-polymère Utilisations recommandées pour le produit: Caméra, Ordinateur portable, Tablette, Téléphone Source d'ali",
-    "price": 48.63,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/100w-20000mah-batterie-externe-pour-ordinateur-portable-iphone-3431834",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bw3lm/3431834_1/re/1200x1200/qt/90/3431834_1.jpg",
-    "detected_at": "2026-10-13T16:06:45+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 48.63,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini PC SOYO M5 Air, Ryzen 3 4300U, 16 Go LPDDR4-4266, SSD 512 Go, triple screen, Wifi 5 & BT 5.0, Windows 11",
-    "description": "196,01€ - AliExpress Note préalable : il est disponible moins cher, mais non dealable faute de stock suffisant ici et là . (embarrassedflame) En outre, si vous poussez à 239€ dans votre cabas, avec WOFR29, ce qu'ajouté sera à moitié prix. (whistleflame) En ces temps de famine technologique, je propose ici un Ryzen somme toute modeste, puisqu'il ne surclasse un N150 que de +37% en multi, et +21% en single thread . Il surclasse le 3500U également, proposé en deal Amazon, même si moindrement. (laughflame) Cela dit, il suffira amplement pour de la bureautique ou un mini serveur. :) Si par contre l'aspect streaming / transcodage vous titille, je ne saurais que trop vous tourner vers le LarkBox X . ☝️ Certes plus cher, mais disposant du bloc media engine Intel, et d'un support pipeline plus conséquent qu'un N150, le rendant d'autant plus intéressant. Il est en outre près de deux fois plus puissant que ce 4300U. Bref, faites selon vos besoins et votre budget. ⚙️ Synthèse Processeur : AMD Ryzen 3 4300U 4 cores physiques non-multithreadés Fréquence de base : 2,7 GHz Fréquence turbo maximale : 3,7 Ghz TDP nominal : 15W cTDP de 12-25W Des informations plus détaillés sur sa fiche TechPowerUp pour les curieux. Circuit graphique : Vega 5 (5 CU) N'attendez outre mesure faire du jeu dessus, sauf pixel art et autres jeux 2D. Voire anciens et légers jeux 3D. L'IGP n'est pas taillé pour ça sans quoi. Mémoire vive : 16 Go de LPDDR4-4266 MT/s ( soudée ) Mémoire donc non-extensible ou amovible Stockage : 1 x SSD de 512 Go en M.2 2280 1 x slot M.2 2280 de libre L'un des slots est en Nvme PCIe 3.0 4x / SATA, l'autre uniquement en PCIe 3.0 4x. En dépit de mes recherches, je n'ai pas pu fixer ce qu'il en était. Et pour cause, en contactant finalement le revendeur, il m'a été dit que « le fabricant ne précise pas explicitement dans quel slot est installé le SSD préconfiguré ». Voir la fin de l'échange en dernière image du deal. Connexions réseaux : 1 Gb Ethernet Wifi 5 & Bluetooth 5.0 * Je ne peux m'avancer ni sur les contrôleurs, ni sur le fait que celui sans-fil soit embarqué sur un module M.2 2230 amovible. Et ce, malgré toutes mes recherches... (cryflame) Ports USB : 6 x USB \"3.0\" ( entendre par là 3.2 Gen1x1 à 5 Gb/s ) Type-A : 4 à l'arrière, deux en façade 1 × USB \"3.2\" ( 5 ou 10 Gb/s, Alt DP Mode ) Type-C à l'avant Impossible de savoir ce qu'il en est de l'USB-C. Là encore, la dénomination rend vaine toute tentative de trancher. Sauf concernant le 20 Gb/s, qui sur un tel produit est exclu. Connectiques d'affichage : 1 x HDMI 2.0 TMDS annoncés jusqu'à 4K@60Hz 1 x DisplayPort en 1.4 annoncés jusqu'à 4K@60Hz 1 x USB Type-C avec DisplayPort Alt Mode* * Je n'ai pas pu déterminer s'il embarquait bien le même support DP que le port DP natif. Donc il pourrait ne pas atteindre les mêmes fréquences, ni le nombres de lignes négociés. Ceci dit, le 4K@60 Hz sur l’USB‑C paraît hautement probable au vu des sources croisées, mais l’absence de fiche technique officielle détaillant ce port ne permet pas d’exclure totalement le 4K@30Hz. Alimentation par port DC et adaptateur secteur 19V/3,42A (65W) fourni 1 x prise combo jack 3,5 mm à l'avant ️ Support Vesa fourni Windows Pro 11 préinstallé Dimensions : L115 x P110 x H36 mm Poids : Indéfini. Sûrement entre 400 et 600g. ⚖️ Des bisous les loulous! Et n'hésitez pas à rejoindre la horde des \"1300\" ( déjà ! ). Et comme « si on termine sans banane, c'est qu'on a raté quelque chose d'essentiel » : la banane reste offerte à l'adhésion ! A vous la horde de juger ! Soyez commode, et d'une grande clémence. #ref Note concernant les réseaux sans fil Je l'ai déjà dit, mais un module Wifi - Bluetooth en M.2, ça se change potentiellement . Donc, pour peu qu'il s'agisse d'un module M.2 2230, et si vous voulez du Wifi 7, ce serait alors possible. Vérifiez, et pensez-y. ;) On peut alors envisager du MediaTek MT7925 : compatibilité validée avec AMD, et déjà utilisée sur des plateformes Asus X870. Voire son grand frère le MT7927. Atten",
-    "price": 196.01,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m5-air-ryzen-3-4300u-16-go-lpddr4-4266-ssd-512-go-triple-screen-wifi-5-bt-50-windows-11-3431833",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/An5EJ/3431833_1/re/1200x1200/qt/90/3431833_1.jpg",
-    "detected_at": "2026-10-13T16:05:21+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 196.01,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 lampes-tempête à pétrole Lunartec Anika - 24 cm, aspect zinc (bronze disponible)",
-    "description": "25,95€ - Pearl Prix conseillé : 39,90 € – Prix actuel : 25,95 € le lot de 2 lampes. Livraison à partir de 3,99 € en point relais, soit 29,94 € livraison comprise . Également disponibles : Version zinc, 24 cm : 25,95 € les 2 lampes , en quantité limitée. Version bronze, 24 cm : 27,95 € les 2 lampes , soit 2 € supplémentaires, avec une réduction affichée de 30 %. Version zinc à l’unité : 14,95 € , avec une réduction affichée de 35 %. Présentation Ce lot comprend deux lampes-tempête à pétrole Lunartec Anika , au design rétro inspiré des lanternes traditionnelles. D’une hauteur de 24 cm, elles permettent de profiter d’un éclairage à flamme réelle sans avoir besoin d’électricité, de piles ou de batterie. Elles peuvent notamment être utilisées pour créer une ambiance chaleureuse sur une terrasse, dans un jardin ou lors de soirées en extérieur. Leur conception associe une structure métallique, un globe en verre transparent et une grille de protection. La finition zinc leur donne un aspect argenté classique, tandis que la version bronze propose une esthétique plus ancienne. Caractéristiques techniques Fonctionnement sans électricité Les lampes utilisent un combustible adapté aux lampes à pétrole et une mèche pour produire une flamme naturelle. Le système fonctionne de manière entièrement mécanique, sans alimentation électrique. Flamme réglable Une molette permet d’ajuster la hauteur de la mèche et donc l’intensité de la flamme. Le mécanisme de levier facilite l’accès à la mèche et au globe en verre. Réservoir individuel de 180 ml Chaque lampe possède un réservoir métallique à paroi épaisse, avec système de fermeture à vis. Cette capacité permet une utilisation prolongée, selon le combustible utilisé et le réglage de la flamme. Structure métallique avec protection Le globe en verre est entouré d’une armature métallique destinée à protéger la flamme des courants d’air. Une poignée supérieure permet de transporter ou de suspendre la lampe lorsqu’elle est éteinte et refroidie. Dimensions et poids Hauteur : 24 cm. Largeur : 16 cm. Profondeur : 11,6 cm. Poids : environ 340 g par lampe. Capacité du réservoir : 180 ml. Dimensions de la mèche : 130 × 10,5 × 2 mm. Matériaux : métal et verre. Coloris : zinc ou bronze. Contenu du lot Le pack comprend : 2 lampes-tempête Lunartec Anika. 4 mèches. 2 entonnoirs de remplissage. 1 notice d’utilisation en français. Les mèches sont remplaçables, ce qui permet de prolonger la durée d’utilisation des lampes. Disponibilité et livraison Version zinc : quantité limitée, actuellement disponible. Version bronze : en stock , avec une livraison annoncée sous 1 à 3 jours. Livraison en point relais Colissimo ou Chronopost à partir de 3,99 €. Retrait gratuit possible dans les magasins Pearl, sous réserve de disponibilité locale. Informations complémentaires Ces lampes sont particulièrement adaptées à un usage décoratif, notamment pour les terrasses, les jardins, les soirées en extérieur ou les ambiances vintage. Elles peuvent également constituer un éclairage d’appoint lorsqu’aucune alimentation électrique n’est disponible. Elles ne sont toutefois pas conçues pour chauffer une pièce et ne doivent pas être utilisées comme système de chauffage. Comme tout appareil fonctionnant avec une flamme nue, elles nécessitent une surveillance permanente, une surface stable et un éloignement des matériaux inflammables. Référence du lot zinc : ZX1260-110. Référence du lot bronze : NC9357-110. Les lampes-tempête rétro \"Anika\" sont idéales pour créer une atmosphère conviviale avec une véritable flamme. *spécifications du produit :* - Lot de 2 lampes-tempête - Hauteur : 24 cm - Fonctionnement à pétrole - Aspect zinc - Sans électricité",
-    "price": 25.95,
-    "reference_price": 39.9,
-    "discount_percent": 35.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-lampes-tempete-a-petrole-lunartec-anika-24-cm-aspect-zinc-bronze-disponible-3431831",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/NNrN9/3431831_1/re/1200x1200/qt/90/3431831_1.jpg",
-    "detected_at": "2026-10-13T15:57:27+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.95,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sneaker Puma Club II Era Mixte - Taille 37 à 48",
-    "description": "32,95€ - Amazon Plusieurs tailles et modèles disponibles",
-    "price": 32.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/puma-club-ii-era-sneaker-mixte-3431832",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/etQJU/3431832_1/re/1200x1200/qt/90/3431832_1.jpg",
-    "detected_at": "2026-10-13T15:54:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 32.95,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Amigo: Kebab Simulator sur PC (Dématérialisé)",
-    "description": "5,39€ - Steam ALORS C'EST TOP NIVEAU JUSTE POUR SE MARER UN PEU Quand j'ai vu ça je me suis dit ... pourquoi pas ? Puis j'adore les kebab !!! quoique ça peut servir de formation pas cher non ? Ami ! J'ai besoin de votre aide pour gérer mon entreprise Kebab, m'occuper de passer les commandes, garder l'endroit propre, servir correctement les clients, essayer d'avoir des avis positifs, améliorer l'endroit Et, méfiez-vous de ceux de la santé !",
-    "price": 5.39,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/amigo-kebab-simulator-3431829",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/04jFx/3431829_1/re/1200x1200/qt/90/3431829_1.jpg",
-    "detected_at": "2026-10-13T15:53:09+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.39,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini Pc Soyo S4 plus - Ryzen 7 H255 / 24go LPDDR5 / 512go SSD",
-    "description": "369,99€ - AliExpress Modèle déjà publié à plusieurs reprises. Bon prix (je n'ai pas dit extraordinaire) me semble-t-il, sans coupon. Si une bonne âme en connaît un pour encore faire baisser le prix, je suis preneur... Et pour toutes les questions techniques, vous avez les deals de @poetemaudit !",
-    "price": 369.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/soyo-s4-plus-mini-ryzen-7-h255-24go-lpddr5-512go-ssd-3431830",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/mznSR/3431830_1/re/1200x1200/qt/90/3431830_1.jpg",
-    "detected_at": "2026-10-13T15:52:51+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 369.99,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
-      }
-    ]
-  },
-  {
-    "title": "2 packs avantage Neo achetés parmi une sélection = 1 pack offert Lungo.",
-    "description": "Dolce Gusto Profitez de notre nouvelle offre et faites le plein de café. Recevez jusqu’à 3 packs Avantage NEO Espresso x72 capsules offerts Profitez de notre nouvelle offre et faites le plein de café. Recevez jusqu’à 3 packs Avantage NEO Lungo (18 boîtes) 2+1 NEO Lungo 2 Packs Avantage NEO au choix = 1 Pack Avantage NEO Lungo (6 boîtes) OFFERT 4 Packs Avantage NEO au choix = 2 Packs Avantage NEO Lungo (12 boîtes) OFFERTS 6 Packs Avantage NEO au choix = 3 Packs Avantage NEO Lungo (18 boîtes) OFFERTS Bénéficiez dès maintenant d’1 pack Avantage NEO Lungo offert dès 2 packs achetés ! GRAND CHOIX de cafés et boissons (highfive)",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/2-packs-avantage-neo-achetes-parmi-une-selection-1-pack-offert-lungo-3431827",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/CNZhG/3431827_1/re/1200x1200/qt/90/3431827_1.jpg",
-    "detected_at": "2026-10-13T15:51:15+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": []
-  },
-  {
-    "title": "Ecran Pc 27 \" AOC Q27G4SDR - QHD, QD-OLED 360 Hz, HDR True Black 400, Adaptive-Sync/G-SYNC Compatible",
-    "description": "429,95€ - Rue du Commerce Le moniteur AOC Q27G4SDR transforme vos sessions en avantage décisif grâce à sa dalle QD-OLED 26,5\" et sa définition QHD 2.5K (2560 x 1440) . En jeu compétitif, profitez d’une image précise, riche en détails et d’une lecture instantanée de l’action. Sur un RPG ou un film, le rendu gagne en profondeur avec des noirs naturellement intenses et des couleurs nuancées. Pour les amateurs de fluidité, la fréquence 360 Hz associée au temps de réponse 0.03 ms (gris à gris) aide à conserver des mouvements nets, même lors des rotations rapides. Lancez une partie classée, enchaînez les flick shots ou suivez une trajectoire à haute vitesse : l’affichage reste stable et réactif. La compatibilité Adaptive-Sync / G-SYNC Compatible réduit les saccades et les déchirures pour une expérience plus régulière. Conçu pour s’intégrer à votre setup, ce modèle propose une connectique polyvalente avec DisplayPort et HDMI pour PC et consoles. En usage quotidien, appréciez un poste de travail confortable : le pied réglable avec pivot facilite l’alignement de l’écran, que vous montiez un stream, retouchiez une image ou alterniez bureautique et divertissement. La certification DisplayHDR True Black 400 renforce les scènes sombres avec un contraste saisissant. Caractéristiques principales : Modèle : AOC Q27G4SDR Taille d’écran : 26,5\" Définition : 2560 x 1440 (2.5K / QHD) Format : 16/9 Type de dalle : QD-OLED Taux de rafraîchissement : 360 Hz Temps de réponse : 0.03 ms (gris à gris) Synchronisation : Adaptive-Sync / G-SYNC Compatible HDR : DisplayHDR True Black 400 Connectique : DisplayPort / HDMI",
-    "price": 429.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-aoc-q27g4sdr-qhd-qd-oled-360-hz-hdr-true-black-400-adaptive-syncg-sync-compatible-3431828",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5naWg/3431828_1/re/1200x1200/qt/90/3431828_1.jpg",
-    "detected_at": "2026-10-13T15:50:16+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 429.95,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Macif] TV 65\" Sony OLED Bravia 6 - 2026, 120Hz, 4K",
-    "description": "1 349,10€ - Sony Pour les non macif vous pouvez utilisé ce code de 7% (RAD7-249S-KBB9-7SW2-4WT5) Il y a 7% de cashback avec igraal aussi À retenir de la TV SONY K-65A62 TV OLED Diagonale : 164 cm (65\") TV Ultra HD (4K) : 3840 x 2160 Fluidité : Dalle 100/120Hz • VRR 120Hz Traitement spécial : HDR (HDR10, HDR HLG, Dolby Vision) Système Audio 2.0 de 20 W RMS Tuner : TNT • Satellite • Câble Smart TV : Google TV • Wi-Fi • Bluetooth • Enregistreur • Lecteur multimédia Série / Design : BRAVIA 6 / Border Less Classe énergie : F | F (HDR)",
-    "price": 1349.1,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/macif-tv-65-sony-oled-bravia-6-2026-120hz-3431825",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vAYW8/3431825_1/re/1200x1200/qt/90/3431825_1.jpg",
-    "detected_at": "2026-10-13T15:44:57+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1349.1,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Totally Reliable Delivery Service sur PC (Dématérialisé - Steam)",
-    "description": "1,47€ - Steam Petit prix pour un jeu parfait pour une soirée entre potes. Comptez 2 à 3 soirées pour en faire le tour. Le jeu n’a pas de grandes prétentions et ne vaut clairement pas 14,99 €, mais à 1,47 €, c’est un très bon rapport prix/fun pour 2/3 soirées. Compatible PC & Mac Jusqu'à 4 joueurs Description du jeu: Totally Reliable Delivery Service est une simulation catastrophique de livraisons de colis au moteur ragdoll. Travaillez ensemble pour manipuler des machines bizarres ou des gadgets utiles, et faites parler les merveilles de la physique pour assurer la livraison des colis à leur destination. Gameplay: [shortcode id=\"20619142\"/] Configuration minimal SYSTÈME D'EXPLOITATION *: Windows 7 ou plus récent PROCESSEUR : Intel Core i5 2500K ou équivalent MÉMOIRE VIVE : 4 GB de mémoire GRAPHIQUES : GTX 560, Radeon HD 5870 ou plus récent DIRECTX : Version 11 ESPACE DISQUE : 4 GB d'espace disque disponible",
-    "price": 1.47,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/totally-reliable-delivery-service-sur-pc-dematerialise-3431824",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/svJZu/3431824_1/re/1200x1200/qt/90/3431824_1.jpg",
-    "detected_at": "2026-10-13T15:44:04+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1.47,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Riz Thaï Hom Mali 1 Kg",
-    "description": "1€ - JoyBuy Riz thaï Hom Mali de la marque X.O. en paquet de 1 kg disponible au prix de 1 € sur Joybuy. I| s'aqit d'une variété de riz thaïlandais de qualité supérieure, réputée pour ses grains longs et fins, son parfum délicat qui rappelle le jasmin ou le pandan, et sa texture tendre qui reste moelleuse",
-    "price": 1.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/riz-thai-hom-mali-1-kg-3431823",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1PJVA/3431823_1/re/1200x1200/qt/90/3431823_1.jpg",
-    "detected_at": "2026-10-13T15:43:46+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1.0,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chargeur de Voiture ESR Magsafe 15W avec Support Telephone Voiture (Vendeur tiers)",
-    "description": "19,79€ - Amazon ESR Support Telephone Voiture Magsafe 15W Chargeur Induction Voiture. Économisez 45% au moment de passer la commande. À propos de cet article: Compatibilité : iPhone 12 à 18, Samsung Galaxy S25/S26 et Google Pixel 10 (selon modèle), avec coque magnétique. Non compatible Motorola et OnePlus. Charge rapide et sécurisée : MagSafe 15 W pour iPhone. Chargeur USB-C de 20 W minimum recommandé. Fixation magnétique puissante : maintien jusqu’à 1 600 g, avec ventouse réutilisable pour tableau de bord ou pare-brise et angle réglable. Navigation pratique : rotation portrait/paysage pour une meilleure visibilité pendant la conduite. Garantie et assistance : protection de 12 mois et service client complet. À propos de ce produit Compatibilité : uniquement pour iPhone 18 Pro/Pro Max/Duo/17/Air/17e et 16/15/14/13/12 Series, Galaxy S26 Ultra/S26 +/S26/S25 Ultra/S25+/S25 avec un étui magnétique; Google Pixel 10/10 Pro/10 Pro XL; pour une charge optimale, utilisez le câble fourni avec un chargeur USB-C vers C ≥ 20 W ; recommandé en combinaison avec des étuis officiels ou magnétiques ESR ; non compatible avec les téléphones Motorola, Oneplus Charge rapide certifiée : la charge MagSafe 15 W pour iPhone, vous offre une charge plus sûre et plus fiable à des vitesses plus rapides Fixation magnétique sécurisée : un puissant anneau d'aimants avec une force de maintien de 1 600 g maintient votre téléphone bien en place, même sur des routes cahoteuses ; une coque MagSafe officiel ou une coque magnétique ESR est recommandé pour les terrains accidentés Montez à votre façon : se monte en toute sécurité sur votre tableau de bord ou votre pare-brise avec une ventouse réutilisable et une rotule librement réglable qui vous permet de trouver l'angle le plus confortable Prêt pour la navigation : basculez entre portrait et paysage pour une navigation facile Service client complet : vidéos d'installation détaillées, FAQ, plan de protection complet de 12 mois, support illimité et aide individuelle Commentaires client",
-    "price": 19.79,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chargeur-de-voiture-esr-magsafe-15w-avec-support-telephone-voiture-vendeur-tiers-3431821",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JWD1i/3431821_1/re/1200x1200/qt/90/3431821_1.jpg",
-    "detected_at": "2026-10-13T15:40:16+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.79,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      }
-    ]
-  },
-  {
-    "title": "REVIT SPRINT H20 BLOUSON TEXTILE DE MOTO NOIR/BLANC",
-    "description": "53,99€ - FC-Moto Revit Sprint H2O Blouson Moto Textile La Sprint H2O est parfaite pour ceux qui recherchent une veste imperméable dépouillée, de retour aux sources et offrant une protection. Il est fabriqué à partir d’une coque extérieure en polyester légère mais respirante et est équipé des protections anti-chocs ultra-minces SEESMART™ aux coudes et aux épaules. La veste Sprint H2O comprend également un gilet fixe hydratex®|G-liner (pour vous garder au sec), ainsi qu’une doublure thermique amovible pour les périodes plus fraîches. Fonctionnalités: Doublure thermique amovible Hydratex®|Doublure G Logo et éléments réfléchissants laminés Coupe de course Bandoulière et languette de réglage réglables Boucle pour jeans Poche intérieure, Poche intérieure dans la doublure thermique, Poches fendues Spécifications: Préparé pour la protection dorsale SEESOFT™ de niveau 2 de type RV en option SEESMART™ Niveau 1 Protections d’épaules et de coudes EN 17092-4:2020 A",
-    "price": 53.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/revit-sprint-h20-blouson-textile-de-moto-noirblanc-3431819",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/NX1RP/3431819_1/re/1200x1200/qt/90/3431819_1.jpg",
-    "detected_at": "2026-10-13T15:32:33+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 53.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac à dos Voyage Cabine Avion Sac 40x20x25 cm pour Ryanair Sacs Avion Bagage Cabine Hayayu (vendeur tiers)",
-    "description": "19,85€ - Amazon SAC A DOS VOYAGE CABINE AVION:Le sac à dos Hayayu est conçu pour voyager pour ryanair, le sac à dos mesure environ 40x30x20 lorsqu'il est plein. Ce sac à dos court-courrier convient non seulement à un usage quotidien, mais aussi comme bagage personnel sur la plupart des compagnies aériennes européennes, telles que les autres compagnies aériennes : pour ryanair, Pour wizzair, pour jet2, et plus encore SAC À DOS DE VOYAGE À COMPARTIMENTS SÛRS : Le sac à dos de voyage hayayu d'une capacité de 24L peut contenir vos articles de voyage essentiels. Il convient aux voyages courts et aux voyages d'affaires. Le dos du sac à dos possède une petite poche cachée antivol pour les petits portefeuilles, les passeports, etc. Ordinateur séparé pour tablette 14\", et l'éponge sur le dos protège mieux l'ordinateur. CONCEPTION PRATIQUE ET UTILE : Le plus grand compartiment du sac à dos daypack casual est équipé d'une attache bagage et dispose d'une poche intérieure zippée et d'un petit compartiment. Trous usb sur le côté du sac à dos pour recharger votre téléphone portable et écouter de la musique. Poches latérales sur le côté du sac à dos pour votre gobelet d'eau. Le sac à dos peut être ouvert à 180° comme une valise, ce qui est pratique pour passer rapidement les contrôles de sécurité. CONFORTABLE ET BIEN PENSÉ : Les bretelles sont plus confortables avec un ajustement plus gênant s. La mousse au dos du sac de voyage permet une utilisation respirante et confortable.Les sangles au dos des bagages cabine permettent de fixer le sac à dos à une valise et de le transporter ensemble. Les sangles de compression horizontales des deux côtés aident à fermer le sac, le gardant compact et mince. HAYAYU SAC A DOS FEMME HOMME : Nos sacs à dos sont fabriqués en fibre de polyester et sont légers, ce qui en fait des sacs à dos idéaux pour les voyageurs d'affaires, les navetteurs et les amateurs d'activités de plein air. Vous pouvez utiliser le sac à dos hayayu comme sac de voyage, sac à dos décontracté, sac à dos pour ordinateur portable, sac de sport ou pour un usage quotidien, le sac à dos hayayu sera un bon choix pour vous.",
-    "price": 19.85,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-voyage-cabine-avion-sac-40x20x25-pour-ryanair-sacs-avion-bagage-cabine-vendeur-tiers-3431818",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/n18RQ/3431818_1/re/1200x1200/qt/90/3431818_1.jpg",
-    "detected_at": "2026-10-13T15:31:12+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.85,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
   }
