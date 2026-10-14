@@ -1,5 +1,26 @@
 [
   {
+    "title": "Biolage, Hydra Source, Baume R...ra Bio, Formule Végane, 236 ml",
+    "price": 23.17,
+    "reference_price": 25.02,
+    "discount_percent": 7.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F5HTRCBT",
+    "image_url": "https://m.media-amazon.com/images/P/B0F5HTRCBT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 22:58:13",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 23.17,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
+      }
+    ]
+  },
+  {
     "title": "Mousse volume Wella EIMI Extra 75 ml",
     "price": 6.44,
     "reference_price": 9.18,
@@ -11115,27 +11136,24 @@
     ]
   },
   {
-    "title": "NATESSANCE Huile aux Fleurs de...querette Bio 100 ml - Lot de 2",
-    "price": 11.56,
-    "reference_price": 25.73,
-    "discount_percent": 55.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B079Z8RVR2",
-    "image_url": "https://m.media-amazon.com/images/P/B079Z8RVR2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 11:42:47",
-    "category": "Autre",
+    "title": "The Factory Must Grow Bundle - 8 jeux sur PC dont Eden Crafters, Oddsparks, Nova Lands, shapez... (Dématérialisé - Steam)",
+    "description": "12,84€ - Humble Bundle Un très beau bundle axé sur la gestion, l'automatisation, la construction de bases et la survie, proposé par Humble Bundle jusqu'au 4 novembre 2026. Le bundle est divisé en 2 paliers : Palier 1 : 5 articles pour ~6.42 € Nova Lands Learning Factory shapez Outpath Oxygen Palier 2 : 8 articles pour ~12,84 € (Comprend tous les jeux du Palier 1 + les 3 titres suivants) Eden Crafters Oddsparks: An Automation Adventure Blossom: The Seed of Life Remarque : Les clés sont à activer sur Steam avant le 4 mai 2027. Ce bundle soutient l'association caritative TD Foundation .",
+    "price": 12.84,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/humble-bundle-pack-de-jeux-the-factory-must-grow-8-jeux-dont-eden-crafters-oddsparks-nova-lands-shapez-3432704",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/t9lfO/3432704_1/re/1200x1200/qt/90/3432704_1.jpg",
+    "detected_at": "2026-10-14T22:34:04+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 11.56,
-        "observed_at": "2026-10-13T11:43:20.622838+00:00"
-      },
-      {
-        "price": 11.56,
-        "observed_at": "2026-10-14T11:43:59.321409+00:00"
+        "price": 12.84,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
       }
     ]
   },
@@ -21692,7 +21710,7 @@
     "description": "279,98€ - Amazon Offre amazon à -40%",
     "price": 279.98,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 40.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-lefant-m210-pro-3432114",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/612Mz/3432114_1/re/1200x1200/qt/90/3432114_1.jpg",
@@ -23186,9 +23204,9 @@
   {
     "title": "Raclette multifonctions 2 personnes HIGH ONE HO-2RG2",
     "description": "7€ - Electro Dépôt Appareil adapté pour 2 personnes. Puissance 350 watts Raclette + Polyvalent grâce à la fonction grill en plus de la fonction raclette. 2 Spatules + 2 poelons, Parfait pour faire glisser le fromage sans abîmer les poêlons.",
-    "price": 7.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "price": 6.98,
+    "reference_price": 9.98,
+    "discount_percent": 30.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/raclette-multifonctions-2-personnes-high-one-ho-2rg2-3432035",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/PwOR6/3432035_1/re/1200x1200/qt/90/3432035_1.jpg",
@@ -23196,12 +23214,16 @@
     "category": "Électroménager",
     "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T13:33:11.152536+00:00",
+    "price_checked_at": "2026-10-14T22:59:16.782866+00:00",
     "merchant_url": "https://www.electrodepot.fr/raclette-multifonctions-high-one-ho-2rg2.html",
     "price_history": [
       {
         "price": 7.0,
         "observed_at": "2026-10-14T02:41:19.739118+00:00"
+      },
+      {
+        "price": 6.98,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
       }
     ]
   },
@@ -23284,7 +23306,7 @@
     "category": "Gaming",
     "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T13:36:39.183389+00:00",
+    "price_checked_at": "2026-10-14T22:59:16.782866+00:00",
     "merchant_url": "https://store.playstation.com/fr-fr/product/UP1003-PPSA26786_00-THEORDEROFGIANTS",
     "price_history": [
       {
@@ -23306,7 +23328,7 @@
     "category": "Gaming",
     "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T13:36:39.183389+00:00",
+    "price_checked_at": "2026-10-14T22:59:16.782866+00:00",
     "merchant_url": "https://store.playstation.com/fr-fr/product/EP1001-PPSA03603_00-MMSENHANCED00000",
     "price_history": [
       {
@@ -23510,6 +23532,10 @@
       {
         "price": 104.93,
         "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      },
+      {
+        "price": 104.93,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
       }
     ]
   },
@@ -23532,6 +23558,10 @@
       {
         "price": 40.0,
         "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      },
+      {
+        "price": 40.0,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
       }
     ]
   },
@@ -23576,6 +23606,10 @@
       {
         "price": 864.59,
         "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      },
+      {
+        "price": 864.59,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
       }
     ]
   },
@@ -23598,6 +23632,10 @@
       {
         "price": 40.0,
         "observed_at": "2026-10-13T22:53:52.916842+00:00"
+      },
+      {
+        "price": 40.0,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
       }
     ]
   },
@@ -24689,8 +24727,8 @@
     "title": "Table Agerby - Ø119cm, verre/chêne naturel",
     "description": "175€ - Jysk La table AGERBY Ø119 verre/chêne naturel est une table de salle à manger ronde. **spécifications du produit :** - Plateau en verre trempé - Pieds en chêne massif - Bois traité à l'huile - Dimensions : Ø119 x H76 cm",
     "price": 175.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 269.0,
+    "discount_percent": 34.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/table-agerby-o119-verrechene-naturel-3431957",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/iE2vr/3431957_1/re/1200x1200/qt/90/3431957_1.jpg",
@@ -24740,9 +24778,9 @@
   {
     "title": "[Habitants] Distribution Gratuite de Pièges à Moustiques Tigres - Ormes (45)",
     "description": "Lauréat du Budget Participatif 2026, le projet \"Pièges à Moustiques\", sera concrétisé par une Distribution Gratuite de Pièges à Moustiques Tigres prévue début du Printemps 2027 . Pour en bénéficier, inscription Obligatoire dès à présent sur la liste d’attente en envoyant un mail à budgetparticipatif@ville-ormes.fr en indiquant : nom et prénom, adresse postale, et numéro de téléphone. Distribution d'1 Piège/Foyer, dans la limite des stocks disponibles. Signature d’une charte obligatoire. Infos",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
+    "price": 188.98,
+    "reference_price": 206.0,
+    "discount_percent": 8.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/habitants-distribution-gratuite-de-pieges-a-moustiques-tigres-ormes-45-3431951",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/5HzCR/3431951_1/re/1200x1200/qt/90/3431951_1.jpg",
@@ -24752,14 +24790,19 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 188.98,
+        "observed_at": "2026-10-14T22:59:45.786658+00:00"
+      }
+    ]
   },
   {
     "title": "Jeu de construction Lego Speed Champions Flash McQueen 77255",
     "description": "17,90€ - Amazon VOITURE JOUET ROUGE FLASH McQUEEN DU FILM CARS – Les enfants dès 9 ans peuvent célébrer le 20ème anniversaire du film Cars de Disney Pixar avec le jouet de construction LEGO Speed Champions|Flash McQueen DESIGN & ACCESSOIRES AUTHENTIQUES – La réplique reprend des caractéristiques, dont le sourire de Flash, l'éclair jaune & orange, les autocollants de phares, le numéro 95, le logo du sponsor Rust-eze et l’inscription « Lightyear » sur les pneus CHÂSSIS DÉTAILLÉ – Ce modèle de Flash McQueen est la seule voiture LEGO Speed Champions dotée d’un châssis détaillé, pour un jeu encore plus passionnant MAQUETTE CARS À L'ÉCHELLE D'UNE MINIFIGURINE – Après la construction amusante de ce set collector Flash McQueen, les enfants peuvent l'exposer fièrement comme décoration sur une étagère ou un bureau CADEAU POUR FANS DE VOITURES – Ce jouet Flash McQueen offre une expérience de construction en famille et de jeu gratifiante et constitue une superbe idée de cadeau pour un garçon ou une fille dès 9 ans DÉVELOPPEZ LA PASSION DE LA COURSE – Découvrez d'autres sets de construction de voitures LEGO Speed Champions (vendus séparément) regorgeant de détails authentiques VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-unes des plus grandes légendes automobiles",
     "price": 17.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 17.99,
+    "discount_percent": 0.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-speed-champions-flash-mcqueen-77255-3431949",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/JUA1y/3431949_1/re/1200x1200/qt/90/3431949_1.jpg",
@@ -24810,8 +24853,8 @@
     "title": "Enregistreur vocal professionnel Rexsun - 64 Go, réduction de bruit, double microphone HD",
     "description": "5,99€ - JoyBuy [Enregistrement en un clic en 2024] – Nouvelle version optimisée pour un démarrage instantané sans allumer d'avance. capturez l'audio en quelques secondes sans perte de détails. [64 Go de largeur] - prend en charge une carte microSD amovible de 64 Go (jusqu'à 800 heures). échangez facilement pour plus d'espace. livré avec une carte de 64 Go. [Chargeur type-C & 22 h d'enregistrement] - charge rapide en 1,5 h via port type-C (rare sur le marché). enregistrez pendant la charge sans interruption. batterie lithium rechargeable pour 22 h d'enregistrement continu et 20 jours en veille. protection auto-sauvegarde en cas de faible batterie. [Microphones performants & réduction de bruit] - double microphone omnidirectionnel (360°, 18 m) + puce ANC et DSP pour une qualité audio optimale (jusqu'à 3072 kbps). [Compact & robuste] – design léger en métal (9×3,2×1,5 cm, 56 g). parfait pour les étudiants/professionnels/enseignants. [Contenu de l’emballage] – enregistreur, carte 64 Go, câble type-C, écouteurs, manuel.",
     "price": 5.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 34.99,
+    "discount_percent": 82.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/enregistreur-vocal-professionnel-rexsun-64-go-reduction-de-bruit-double-microphone-hd-3431948",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/hQJnJ/3431948_1/re/1200x1200/qt/90/3431948_1.jpg",
@@ -24888,8 +24931,8 @@
     "title": "Aspirateur Balai sans fil 2-en-1 HKoenig UP600 Powerclean (Via Coupon)",
     "description": "54,90€ - JoyBuy Aspirateur balai sans fil et multifonction H.Koenig UP600 PowerClean. Ultra léger (environ 1,1 kg), il se convertit en aspirateur à main en un clic pour nettoyer facilement les sols, meubles, escaliers et l'intérieur des véhicules. Points forts et caractéristiques : • Tarif à 54,90 € via coupon : S'obtient en appliquant le coupon de réduction de 25 € disponible dès 50 € d'achats sur la page du produit. • Utilisation 2-en-1 : Passsage rapide de la fonction aspirateur balai à l'aspirateur à main pour toutes les surfaces en hauteur. • Système cyclonique sans sac : Réservoir à poussière transparent d'une capacité généreuse de 0,8 litre, simple à vider. • Batterie Lithium 22.2V : Offre jusqu'à 30 à 40 minutes d'autonomie selon la vitesse sélectionnée. • Accessoires et rangement : Livré avec son support mural de charge, une brosse motorisée, un suceur plat et une brosse ronde.",
     "price": 54.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 94.27,
+    "discount_percent": 41.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/via-coupon-de-25eur-aspirateur-balai-sans-fil-2-en-1-hkoenig-up600-powerclean-3431944",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/S1jKk/3431944_1/re/1200x1200/qt/90/3431944_1.jpg",
@@ -24914,8 +24957,8 @@
     "title": "Jeu de construction Lego Speed Champions 77238 Lamborghini Revuelto & Huracán STO",
     "description": "31,99€ - Carrefour • Jouets voitures pour garçon ou fille dès 10 ans – Les enfants & les fans de course automobile peuvent construire, exposer & piloter ces 2 répliques de voitures LEGO Speed Champions • 2 minifigurines de pilotes – Chaque maquette de voiture Lamborghini s’accompagne d’une minifigurine de pilote portant une combinaison et un casque dédiés • Design Lamborghini authentique – Chaque modèle de voiture de course présente des détails de conception identiques aux véhicules d'origine, dont les prises d’air, les ailerons & les optiques futuristes en forme de Y • Jouets de construction à exposer comme décoration – Après des heures de jeu en autonomie, les enfants peuvent exposer les véhicules sur une étagère ou leur table de chevet • Voitures à offrir aux fans de sport automobile – Ce set LEGO Lamborghini est une belle idée de cadeau à offrir à un garçon ou une fille de 10 ans et plus ou à un adulte collectionneur de voitures • Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D • Des voitures à construire, pour jouer et exposer – Les sets LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-uns des véhicules les plus mythiques au monde",
     "price": 31.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 37.99,
+    "discount_percent": 15.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77238-lamborghini-revuelto-huracan-sto-3431942",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/HseQL/3431942_1/re/1200x1200/qt/90/3431942_1.jpg",
@@ -24966,8 +25009,8 @@
     "title": "Montre analogique Casio Collection UTP-1302PD-1AVEF",
     "description": "44,95€ - Amazon GARDE-TEMPS METAL CONTEMPORAIN: Boîtier et bracelet en acier inoxydable poli allient raffinement et clarté — affichage trois aiguilles adapté à chaque style et occasion CADRAN NOIR AIGUILLES LUMINEUSES: Cadran noir épuré avec index en relief et aiguilles lumineuses pour une lisibilité jour et nuit, ajoutant une élégance discrète au quotidien TAILLE MOYENNE UNISEXE: 35 mm de diamètre et 9 mm d'épaisseur se posent naturellement au poignet — proportions équilibrées convenant aussi bien aux hommes qu'aux femmes AFFICHAGE DATE A TROIS HEURES: Guichet date pratique à 3 heures ajoutant une utilité quotidienne au cadran épuré, fonctionnel sans encombrement visuel ETANCHEITE CINQ BARS: Protection 5 bars pour la pluie et le quotidien — fermoir dépliant avec poussoir sécurise le bracelet acier confortablement au poignet. Spécifications Pile(s) / Batterie(s): 1 C - incluse(s) Date de mise en ligne sur Amazon.fr: 19 juin 2026 Fabricant: Casio ASIN: B0H5RGFGL7 Numéro du modèle de l'article: UTP-1302PD-1AVEF_FBA Pays d'origine: Chine Service: Unisex Disponibilité des pièces détachées: Information indisponible sur les pièces détachées Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Mode Affichage: Analogique Type de mouvement de la montre: Quartz Caractéristiques spéciales: Aiguilles lumineuses Source d’alimentation: Alimenté par batterie Type de bretelles: Bracelet en acier inoxydable Profondeur d'étanchéité à l’eau: 50 Mètres Type de fermoir: Fermoir déployant à bouton-poussoir Niveau d' etancheite: Imperméable Type de fermeture: Bouton-poussoir Style: Moderne Forme de l’article: Rond Couleur de la bande: Argent Couleur du cadran: Noir Motif: Uni Style de façade: Solide Marque: Casio Nom du modèle: Casio Collection Numéro de modèle: UTP-1302PD-1AVEF_FBA Série de modèles: Casio Collection Nombre d' articles: 1 Nom du type du produit: Watch Numéro de pièce: UTP-1302PD-1AVEF Classement des meilleures ventes d'Amazon: 38370 en Mode (Voir les 100 premiers en Mode) 196 en Montres bracelet pour homme Moyenne des commentaires client: 5,0 5,0 sur 5 étoiles (2) 5,0 sur 5 étoiles Type du matériau de la bande: Acier inoxydable Type de matériau du boîtier: Acier Inoxydable Type de matériau de la fenêtre de cadran: Verre minéral Diamètre du boîtier: 35 Millimètres Largeur de la bande: 1 Centimètres Épaisseur du boîtier: 9 Millimètres Longueur de bande: 20,5 Centimètres Type de garantie: Limited Commentaires client",
     "price": 44.95,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 49.99,
+    "discount_percent": 10.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/montre-analogique-casio-collection-utp-1302pd-1avef-3431940",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/7XY5B/3431940_1/re/1200x1200/qt/90/3431940_1.jpg",
@@ -24984,32 +25027,6 @@
       },
       {
         "price": 44.95,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 15 élastiques pour cheveux - Beige",
-    "description": "0,80€ - Kiabi - Lot de 15 élastiques - Sans métal - Qui brillent A ce prix là on peut continuer à les semer.",
-    "price": 0.8,
-    "reference_price": 2.0,
-    "discount_percent": 60.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-15-elastiques-beige-3431939",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3XJmF/3431939_1/re/1200x1200/qt/90/3431939_1.jpg",
-    "detected_at": "2026-10-13T19:25:09+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 0.8,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 0.8,
         "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
