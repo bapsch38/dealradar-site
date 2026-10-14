@@ -247,7 +247,7 @@ main{max-width:1320px;padding:38px 28px 84px}
 .home-confidence-note b{color:var(--green)}
 @media(max-width:850px){.home-guide{padding:22px}.home-guide-grid{grid-template-columns:1fr}}
 
-body.home-page #categories,body.home-page #dernieres-offres,body.home-page #mon-dealradar,body.home-page #fonctionnement,body.home-page #alertes{display:none!important}
+body.home-page #mon-dealradar,body.home-page #fonctionnement,body.home-page #alertes{display:none!important}
 @media(max-width:850px){.nav{padding:14px 18px}.home-shortcut-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero{padding:38px 28px}.navlinks{display:none}main{padding:25px 18px 58px}}
 @media(max-width:520px){.nav-publish{font-size:10px;padding:10px 11px}.hero{padding:28px 20px}.hero-actions{flex-direction:column}.hero-action{width:100%}.home-shortcut-grid{grid-template-columns:1fr}.home-shortcut{padding:18px}.section{margin-top:42px}}
 
@@ -276,6 +276,24 @@ header{background:rgba(5,15,27,.93)}
 .offer-detail-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:20px}.offer-detail-actions a{display:inline-flex;justify-content:center;align-items:center;border:1px solid #3b6178;border-radius:10px;padding:11px 14px;background:#142f45;color:#e4f3ff;font-size:12px;font-weight:800}.offer-detail-actions a.primary{background:var(--green);border-color:var(--green);color:#082016}
 .featured-card{cursor:pointer;text-align:left;color:inherit;font:inherit}.featured-card:focus-visible,.deal-card:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
 @media(max-width:650px){.offer-dialog-content{padding:15px}.offer-dialog-head{padding:16px}.offer-detail-top{grid-template-columns:100px minmax(0,1fr);gap:13px}.offer-detail-title{font-size:16px}.offer-detail-current{font-size:23px}.offer-detail-facts{grid-template-columns:1fr 1fr}}
+
+
+/* Ergonomie accueil : accès rapide au catalogue et couleurs plus lisibles */
+:root{--bg:#071522;--panel:#11283c;--panel2:#1b3b54;--text:#f5f9ff;--muted:#b8c9dc;--green:#69f0b8;--line:#2d4a62;--blue:#7dc8ff;--purple:#c4b2ff}
+body{background:radial-gradient(ellipse at 8% 0%,#12344a 0%,transparent 36%),radial-gradient(ellipse at 95% 28%,#12372f 0%,transparent 27%),var(--bg)}
+.hero{box-shadow:0 18px 55px #0002}
+.home-guide,.home-shortcuts,.featured-section,#categories,#dernieres-offres{scroll-margin-top:90px}
+#categories .category-card{background:linear-gradient(160deg,#153149,#102337);border-color:#2e4d66}
+#categories .category-name{font-size:14px}
+#dernieres-offres .deal-card{box-shadow:0 6px 20px #00000016}
+#dernieres-offres .deal-body{gap:9px}
+.deal-meta{line-height:1.55}
+.deal-card-open{background:#17344a;border-color:#3c627c}
+.deal-card-open:hover{background:#194454}
+.featured-card{background:linear-gradient(135deg,#153b39,#102338 76%)}
+.pill,.searchbar button,.deal-cta,.offer-detail-actions a.primary{box-shadow:0 5px 16px #69f0b822}
+@media(min-width:1100px){.deals-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.deal-image-wrap,.deal-image{min-height:165px;height:165px}.deal-body{padding:14px}.deal-title{font-size:14px}}
+@media(max-width:650px){.home-guide{margin-top:20px}.home-shortcuts{margin-top:28px}.deal-image-wrap,.deal-image{min-height:155px;height:155px}.deal-body{padding:13px}.deal-price{font-size:21px}}
 
 </style>
 </head>
@@ -746,7 +764,7 @@ function renderPriceHistory(offer) {
   if (history.length < 2) return '<div class="price-history"><div class="price-history-head"><span>Historique DealRadar</span><strong>1 observation</strong></div><div class="price-history-note">Pas encore de tendance exploitable. Le prix actuel est affiché séparément ; DealRadar doit collecter d’autres valeurs dans le temps. Ce n’est pas l’historique complet du marchand.</div></div>';
   const values = history.map(item => Number(item.price));
   const uniquePrices = new Set(values.map(value => value.toFixed(2)));
-  if (history.length < 2 || uniquePrices.size < 2) return '<div class="price-history"><div class="price-history-head"><span>' + (history.length < 2 ? "Une seule observation" : "Aucune variation constatée") + '</span><strong>' + formatPrice(values[values.length - 1]) + '</strong></div><div class="price-history-note">DealRadar n’a enregistré aucune variation de prix dans les observations disponibles. Ce n’est pas l’historique complet du marchand.</div></div>';
+  if (history.length < 2) return '<div class="price-history"><div class="price-history-head"><span>Une seule observation</span><strong>' + formatPrice(values[values.length - 1]) + '</strong></div><div class="price-history-note">Pas encore de tendance exploitable. DealRadar vient de commencer le suivi ; les relevés futurs seront ajoutés ici sans inventer de prix passés.</div></div>';
   const points = values.map((value, i) => ((i / (values.length - 1)) * 100).toFixed(1) + ',' + (29 - ((value - Math.min(...values)) / (Math.max(...values) - Math.min(...values) || 1)) * 24).toFixed(1)).join(' ');
   return '<div class="price-history" data-history="' + escapeAttribute(JSON.stringify(history)) + '"><div class="price-history-head"><span>Variations observées par DealRadar</span><strong class="price-history-current">' +
     escapeHtml(formatPrice(values[values.length - 1])) + '</strong></div><div class="price-history-controls" role="group" aria-label="Période de l’historique">' +
