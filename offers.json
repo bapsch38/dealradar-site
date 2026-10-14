@@ -511,7 +511,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:28:25.742311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 13.56,
@@ -531,7 +531,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:28:25.742311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 20.51,
@@ -551,7 +551,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:28:25.742311+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 8.44,
@@ -1171,7 +1171,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:50:22.763076+00:00",
     "price_history": [
       {
         "price": 124.19,
@@ -1191,7 +1191,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:50:22.763076+00:00",
     "price_history": [
       {
         "price": 19.99,
@@ -1211,7 +1211,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:50:22.763076+00:00",
     "price_history": [
       {
         "price": 26.21,
@@ -1231,7 +1231,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:50:22.763076+00:00",
     "price_history": [
       {
         "price": 24.37,
@@ -1251,7 +1251,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:50:22.763076+00:00",
     "price_history": [
       {
         "price": 69.99,
@@ -1271,7 +1271,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:50:22.763076+00:00",
     "price_history": [
       {
         "price": 45.0,
@@ -6944,6 +6944,132 @@
     ]
   },
   {
+    "title": "Guitare électrique Sire Larry Carlton J5 - White",
+    "description": "370,45€ - Muziker Comment différencier une Larry Carlton J5 d'un Peugeot J5 ? La ligne : La Larry Carlton présente des courbes gracieuses plus qu'inspirées d'une Fender Jazzmaster, le Peugeot présente l'aérodynamique plus qu'inspirée d'un parpaing. Attention tout de même au coloris : Les deux sont disponibles en blanc et on pourrait les confondre, mais le Peugeot présente en général des traces de salissure avancée voire de corrosion perforante. L'équipement : La Larry Carlton possède une touche en ébène et des mécaniques à blocage, le J5 existe en version benne mais n'a pas d'anti-blocage. L'énergie : La Larry Carlton, tout comme le Peugeot, peut faire beaucoup de bruit, mais elle fonctionne à l'électricité, et au prix actuel du carburant, vous verrez vite la différence. Et pour ceux qui ne seraient toujours pas sûr de pouvoir les distinguer, une illustration pourra peut-être les aider : Une Larry Carlton J5 : Un Peugeot J5 : Maintenant, à vous d'ouvrir les yeux et d'être attentifs pour ne pas vous tromper, une erreur est vite arrivée et peut être lourde de conséquences. Vidéos : [shortcode id=\"20619155\"/][shortcode id=\"20619156\"/] Pour comparer : 549 € chez Bax 549 € chez Woodbrass 587,88 € chez Rome Instruments 599 € chez Sonovente Autres versions : 434 € en Blue 438 € en Sunburst 444 € en Surf Green Metallic Caractéristiques : Corps : Aulne nord-américain) Manche : Vissé, en érable, profil C Diapason : 25,5\" Touche : Ebène, radius 9,5\" edgeless, 22 frettes Medium Jumbo Sillet : Os, largeur 42 mm Chevalet/cordier : Göldo/Sire Vintage JM-Type Bridge + Göldo/Sire DG Tremolo Mécaniques : Sire Premium Locking Tuners Micros : 2x Larry Carlton Standard Jazzmaster Contrôles : 1x Volume, 1x Tone, sélecteur 3 positions",
+    "price": 370.45,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/guitare-electrique-sire-larry-carlton-j5-white-3432102",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/I208K/3432102_1/re/1200x1200/qt/90/3432102_1.jpg",
+    "detected_at": "2026-10-14T06:46:28+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 370.45,
+        "observed_at": "2026-10-14T06:50:25.265982+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Reconditionné : PC Portable Hybride 14\" Lenovo ThinkPad X1 Yoga G3 - FHD Tactile, i5-8350U, RAM 8 Go, SSD NVMe 256 Go, W11 (Etat Correct)",
+    "description": "199€ - Kiatoo Prix intéressant pour ce PC hydride 2-en-1 avec écran tactile ! :) ► Caractéristiques & Description Informations Générales Marque : Lenovo Gamme : ThinkPad Modèle : X1 Yoga G3 Système d'exploitation : Windows 11 Processeur Type de processeur : Intel Core i5 Référence du processeur : Intel Core i5 8350U Fréquence du processeur : 1,7 GHz Génération de processeur : Gen 8 Mémoire RAM : 8Go RAM Type de RAM : DDR3 RAM Maximum : 8Go max. RAM soudée ou extensible : RAM soudée Graphisme Type de carte graphique : Carte graphique intégrée Carte graphique : Intel UHD Graphics 620 Marque de carte graphique : Intel HD Graphics Affichage Taille de l'écran : 14\" Type d'écran : Full HD Résolution d'écran : 1920 x 1080 pixels Traitement antireflets : non Écran tactile : oui Stockage Disque dur : 256Go SSD Type de disque dur : SSD (Disque reconditionné avec 3 tests différents) Format du disque dur : M.2 Interface du disque : NVMe Communication Wifi : oui Bluetooth : non Connectique Port(s) vidéo : Sans VGA Port(s) vidéo : Avec HDMI Port(s) vidéo : Sans DisplayPort Port(s) USB : Avec USB Type-C Port(s) USB : 2x USB 3 / 2x USB Type-C Autres prises : Sans port Ethernet Autres prises : 1x Micro/Casque, 1 x Port de sécurité Thunderbolt : 1 x Thunderbolt 3 Clavier Type de clavier : Clavier AZERTY - Français, sans pavé numérique, avec trackpoint Type de clavier : Avec trackpoint Type de clavier : Sans pavé numérique Equipement Webcam intégrée : non Lecteur CD/DVD : non Lecteur de cartes mémoire : oui Etat du produit Etat du produit : Occasion certifiée reconditionnée Caractéristiques physiques Couleur : Noir Dimensions : 33,3 x 22,9 x 17 cm Poids : 1,4 kg Autres Informations Type de produit : PC hydride (2 en 1) reconditionné Accessoires livrés avec l'appareil : 1x chargeur (alimentation) et 1x batterie - Etat : grade sélectionné Garantie : Garantie 1 an Pièces et Main d'œuvre Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
+    "price": 199.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/reconditionne-pc-portable-hybride-14-lenovo-thinkpad-x1-yoga-g3-fhd-tactile-i5-8350u-ram-8-go-ssd-nvme-256-go-w11-etat-correct-3432101",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3vXI8/3432101_1/re/1200x1200/qt/90/3432101_1.jpg",
+    "detected_at": "2026-10-14T06:43:23+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 199.0,
+        "observed_at": "2026-10-14T06:50:25.265982+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tomb Raider I-VI Remastered sur Xbox One/Series X (Dématérialisé)",
+    "description": "10,99€ - Xbox Store Tomb Raider I-VI Remastered sur Xbox Description Lara Croft est de retour ! Partez à la découverte des aventures originales de Lara Croft, remastérisé avec fidélité. Aspects clés Profitez des graphismes classiques et remastérisés : jouez avec les modèles polygonaux originaux ou passez aux graphismes remastérisés à n'importe quel moment Une aventure en mode tour du monde : Suivez Lara Croft autour du globe et affrontez des ennemis létaux ainsi que de dangereuses légendes. Vivez les aventures les plus sombres de Lara : découvrez les secrets du passé de Lara Croft et résolvez le mystère de sa disparition Titres de jeu inclus : Tomb Raider I + The Unfinished Business Expansion Tomb Raider II + The Gold Mask Expansion Tomb Raider III + The Lost Artifact Expansion Tomb Raider IV: The Last Revelation Tomb Raider V: Chronicles Tomb Raider VI: The Angel of Darkness",
+    "price": 10.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tomb-raider-i-vi-remastered-xbox-dematerialise-3432098",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BfXB4/3432098_1/re/1200x1200/qt/90/3432098_1.jpg",
+    "detected_at": "2026-10-14T06:39:53+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-14T06:50:25.265982+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Xenoblade Chronicles X : Definitive Edition sur Nintendo Switch",
+    "description": "39,99€ - Amazon Détails sur le produit Classé : 12 ans et plus Date de sortie : 20 mars 2025 Date de mise en ligne sur Amazon.fr : 29 octobre 2024 ASIN : B0DLH7JGYQ Numéro du modèle de l'article : NINXENOBLADEX Pays d'origine : Japon",
+    "price": 39.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/xenoblade-chronicles-x-definitive-edition-sur-nintendo-switch-3432097",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/T9uNk/3432097_1/re/1200x1200/qt/90/3432097_1.jpg",
+    "detected_at": "2026-10-14T06:35:57+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-14T06:50:25.265982+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Speed Champions 77260 - La Toyota Supra MK4 de Fast and Furious",
+    "description": "17,99€ - Carrefour - VOITURE JOUET FAST AND FURIOUS POUR GARÇON OU FILLE DÈS 10 ANS – Construisez et exposez une maquette de La Toyota Supra MK4 de Fast and Furious LEGO Speed Champions pour enfant dès 10 ans, puis recréez des scènes du film culte de 2001 - MINIFIGURINE DE BRIAN O’CONNER – Placez au volant de sa voiture de sport orange la minifigurine du célèbre personnage portant son T-shirt et son jean iconiques - DÉTAILS & ACCESSOIRES AUTHENTIQUES – Ce set collector Fast and Furious inclut les décalques « Nuclear Gladiator » de Troy Lee sur les côtés, un aileron arrière et 4 jantes fantaisie chromées - DÉCORATION INTÉRIEURE – Une fois cette construction amusante terminée, les passionné.e.s d'automobile pourront l'exposer sur une étagère, un bureau ou une table de nuit - CADEAU VOITURE POUR ENFANT DÈS 10 ANS – Cet hommage à la saga est une superbe idée de cadeau d'anniversaire qui fera le bonheur d'un garçon ou d'une fille fan de voitures de course - CONSTRUIRE ENSEMBLE – L’application LEGO Builder offre une expérience collaborative guidée, où chaque ami.e ou membre de la famille peut, depuis son propre appareil, construire une partie du set - VOITURES DE LÉGENDE POUR LE JEU ET LA DÉCORATION – Les sets LEGO Speed Champions invitent les enfants et les fans enthousiastes à construire les répliques d’une large gamme de véhicules légendaires",
+    "price": 17.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-la-toyota-supra-mk4-de-fast-and-furious-77260-3432096",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/k0Jv8/3432096_1/re/1200x1200/qt/90/3432096_1.jpg",
+    "detected_at": "2026-10-14T06:29:52+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 17.99,
+        "observed_at": "2026-10-14T06:50:25.265982+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Aspirateur Eau & Poussière Parkside PWD 12 B1 - 1200W, Cuve Inox 12L, Fonction Soufflerie",
+    "description": "29,99€ - Lidl Description Puissance : env. 1200 W Puissance d'aspiration : env. 33 l/s (env. 180 airwatts) Volume du réservoir : env. 12 l (brut) PARKSIDE® Aspirateur eau et poussière »PWD 12 B1« Caractéristiques Appareil de nettoyage multifonctionnel – élimine sans effort la saleté humide et sèche Peut également être utilisé comme souffleur ou pour aspirer de l'eau Cuve en acier inoxydable de 12 litres facile à vider Supports intégrés pour le tube, le câble et les suceurs 4 roulettes pour une bonne stabilité Avec des filtres pour toutes les applications Accessoires 1x tuyau d'aspiration de 200 cm avec poignée coudée, 3x tubes en plastique, 1x suceur de sol avec embout (pour l'eau et la poussière), 1x suceur plat, 1x sac filtrant en papier, 1x filtre en mousse pour l'aspiration de liquides, 1x filtre sec (sac en tissu, lavable) pour la saleté sèche",
+    "price": 29.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/aspirateur-eau-et-poussiere-parkside-pwd-12-b1-3432095",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/PeRwB/3432095_1/re/1200x1200/qt/90/3432095_1.jpg",
+    "detected_at": "2026-10-14T06:27:23+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T06:50:25.265982+00:00"
+      }
+    ]
+  },
+  {
     "title": "Final Fantasy VII Remake Intergrade sur Nintendo Switch 2",
     "description": "29,99€ - Cdiscount • DÉCOUVREZ LA VILLE DE MIDGAR COMME JAMAIS AUPARAVANT. Le monde est contrôlé par la compagnie Shinra qui exploite la mako, l'énergie vitale de la planète. Dans la mégalopole de Midgar, un groupe de hors-la-loi idéalistes connu sous le nom d'Avalanche consistue l'un des derniers bastions de la résistance. Cloud, un ex-membre des troupes d'élite de la Shinra, accompagne Avalanche lors d'une opération de destruction du réacteur mako nº 1. L'explosion plonge la ville dans un brasier chaotique et Cloud est tourmenté par des visions d'un ennemi qu'il pensait mort depuis longtemps. Le jeu primé FINAL FANTASY VII REMAKE INTERGRADE est une réinvention de l’histoire originale, jusqu’à la fuite de Midgar, accompagnée de graphismes époustouflants, d’un gameplay palpitant, et de nouveaux éléments de scénario. En plus d'une histoire inoubliable et de personnages attachants, ce RPG propose un système de combat hybride mélangeant action en temps réel et stratégie axée sur les commandes. Il inclut aussi FF7R EPISODE INTERmission, une histoire annexe suivant les aventures de Yuffie Kisaragi en parallèle de celles de Cloud.",
     "price": 29.99,
@@ -11781,90 +11907,6 @@
     "price_history": [
       {
         "price": 33.8,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      }
-    ]
-  },
-  {
-    "title": "10% de remise sur tous les rayons de 20h à 23h (en ligne ou via l'app)",
-    "description": "Chronodrive Chronodrive Happy Hour ce mardi 13 octobre de 20h à 23h Ce soir uniquement, utilisez le code Happyhour sur le site ou l’application Chronodrive. -10% Date : mardi 13 octobre Commande à passer entre 20h et 23h Retrait : le jour de votre choix ️ Code promo : \"HAPPYHOUR\" Vous pouvez donc passer commande pendant le Happy Hour et choisir un jour ultérieur pour récupérer vos courses. Code de parrainage : PAR0MIGW3 pour 10€ offert dès 30% d'achat",
-    "price": 10.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chronodrive-10-sur-tout-le-site-3431777",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bY5Hv/3431777_1/re/1200x1200/qt/90/3431777_1.jpg",
-    "detected_at": "2026-10-13T15:08:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "price_history": [
-      {
-        "price": 10.0,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Valise Cabine Rigide Delsey Paris AIR Armour Slim - 55x40x20 cm, 34 litres, S, Noir (Vendeur Tiers)",
-    "description": "89,99€ - Amazon Valise cabine desley plus que 9 en stock",
-    "price": 89.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/delsey-paris-air-armour-valise-cabine-rigide-slim-55x40x20-cm-34-litres-s-noir-3431806",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gXlwQ/3431806_1/re/1200x1200/qt/90/3431806_1.jpg",
-    "detected_at": "2026-10-13T15:05:20+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "price_history": [
-      {
-        "price": 89.99,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      }
-    ]
-  },
-  {
-    "title": "PC Portable 15,6\" Ninkear A15 - Ryzen 5 5500U, 16 Go de RAM 512 Go SSD, Ecran FHD, IPS, QWERTY, Windows 11",
-    "description": "316,05€ - AliExpress Caractéristiques clés: ✅ AMD Ryzen 5 5500U| 6 cœurs et 12 threads| Fréquence Turbo jusqu'à 4,0 GHz Performances supérieures à celles du processeur i7 de 11e génération, exécutant facilement divers logiciels de bureau, les applications graphiques 2D et 3D, ainsi que plusieurs jeux. ✅ 16 Go de RAM DDR4| SSD 512 Go RAM extensible jusqu'à 64 Go (2× SO-DIMM) et SSD de 4 To (un slot supplémentaire), offrant des performances éclairantes et un stockage massif ! ✅ Déverrouillage par empreinte digitale et pavé tactile Déverrouillage du système en seulement 0.3 secondes avec le capteur d'empreintes digitales, et une gestion du multitâche plus facile grâce à un pavé tactile compatible avec les gestes et le multi-touch (E.Par exemple, faire glisser vers la gauche ou vers la droite avec trois doigts vous permet de sélectionner et de rapidement passer entre les applications ouvertes.)",
-    "price": 316.05,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pc-portable-156-ninkear-a15-ryzen-5-5500u-16-go-de-ram-512-go-ssd-ecran-fhd-ips-qwerty-windows-11-3431805",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/x1NU7/3431805_1/re/1200x1200/qt/90/3431805_1.jpg",
-    "detected_at": "2026-10-13T15:04:46+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "price_history": [
-      {
-        "price": 316.05,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Adaptateur Pour Robinet D'intérieur Gardena (Vendeur Tiers)",
-    "description": "12,20€ - Amazon Commandé pour ma part, ça permet de pouvoir déboucher les canalisations intérieures sans avoir un tuyau qui court dans toute la maison, en ce mettant juste sur le robinet de la salle de bain, toujours pratique !",
-    "price": 12.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/adaptateur-gardena-pour-robinet-dinterieur-3431804",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/SHph4/3431804_1/re/1200x1200/qt/90/3431804_1.jpg",
-    "detected_at": "2026-10-13T15:02:39+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "price_history": [
-      {
-        "price": 12.2,
         "observed_at": "2026-10-13T15:15:24.437828+00:00"
       }
     ]
