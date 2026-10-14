@@ -1,5 +1,89 @@
 [
   {
+    "title": "Siemens VSP 3 AAAA",
+    "price": 140.41,
+    "reference_price": 182.32,
+    "discount_percent": 22.99,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07GT2MG3Q",
+    "image_url": "https://m.media-amazon.com/images/P/B07GT2MG3Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:29:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 140.41,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Princess Friteuse 182642-4 L -... froide, Inox Brossé, 4 Litres",
+    "price": 42.49,
+    "reference_price": 55.84,
+    "discount_percent": 23.91,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B095Z2GV11",
+    "image_url": "https://m.media-amazon.com/images/P/B095Z2GV11.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:29:45",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 42.49,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca - Poubelle de Recyclage ...lle, Plastique Gris Anthracite",
+    "price": 88.84,
+    "reference_price": 107.99,
+    "discount_percent": 17.73,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CSKGSB89",
+    "image_url": "https://m.media-amazon.com/images/P/B0CSKGSB89.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:29:36",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 88.84,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lagostina Tempra Mineral Poêle... toutes les sources de chaleur",
+    "price": 31.49,
+    "reference_price": 44.99,
+    "discount_percent": 30.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C4BCKY8S",
+    "image_url": "https://m.media-amazon.com/images/P/B0C4BCKY8S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:29:35",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 31.49,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
     "title": "Rowenta ZR740003, Filtre à pou... Explorer Série 60, Blanc/Gris",
     "price": 14.99,
     "reference_price": 20.39,
@@ -7509,7 +7593,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.decathlon.fr/p/couteau-chasse-multifonctions-x7-orange/163153/c20m8395979",
     "price_history": [
       {
         "price": 23.99,
@@ -7547,11 +7631,55 @@
     ]
   },
   {
+    "title": "Perche à Selfie Invisible Insta360 - 114 cm (Vendeur tiers)",
+    "description": "14,99€ - Amazon À propos de cet article COMPLÈTEMENT INVISIBLE : disparaît complètement des séquences à 360° pour des vues impossibles à la troisième personne et des prises de vues similaires à celles d'un drone. AUGMENTEZ VOTRE PORTÉE : s'étend jusqu'à 114 cm pour les vues grand angle et les perspectives à la troisième personne. LARGE COMPATIBILITÉ : montez plusieurs caméras. Les caméras de la série Ace et GO nécessitent un adaptateur 3 broches vers 1/4\" ou un support à libération rapide (vendu séparément) CONCEPTION LÉGÈRE : perche à selfie ultra-portable facile à transporter et à manœuvrer. CONSTRUCTION DURABLE : alliage d'aluminium avancé avec extension fluide et structure à amortissement par ressort pour une stabilité optimale lors des prises de vue d'action. Une perche à selfie légère, parfaite pour immortaliser la vie quotidienne, mais qui n'est pas conçue pour les aventures à grande vitesse. Pour les sports et actions à haute intensité, nous recommandons la perche à selfie invisible d'action.",
+    "price": 14.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/perche-a-selfie-invisible-insta360-114-cm-vendeur-tiers-3432322",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mkKFs/3432322_1/re/1200x1200/qt/90/3432322_1.jpg",
+    "detected_at": "2026-10-14T11:25:24+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0FJRTCPXR?smid=A670UR27O305C",
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lego Pokémon 72156 L'Aventure de Carapuce avec le Buggy du Dresseur",
+    "description": "22,99€ - E.Leclerc • JOUET DE CONSTRUCTION INTERACTIF – L’aventure de Carapuce avec le buggy du Dresseur (72156) est un set Compatible LEGO SMART Play qui place les enfants aux commandes d’une aventure Pokémon déjantée • AVENTURES IMAGINATIVES – Doté de 2 canons à tenons d’eau et d’un compartiment de stockage pour les tenons, le véhicule articulé permet à Carapuce et au Dresseur d’éteindre les flammes sur le gril du hamburger végétarien • LES POKÉMON VOUS RÉPONDENT – Les SMART Tags de Carapuce et du buggy activent les SMART Briques (non incluses), déclenchant des effets sonores et lumineux faisant réagir les Pokémon les uns aux autres et au jeu interactif des enfants • FIGURINE ARTICULÉE – En route pour une balade animée avec le buggy, sa télécommande et Carapuce ! Le Pokémon réagit à la conduite en exprimant sa joie • COMMENT ACTIVER VOTRE SET – Ajoutez la SMART Brique LEGO d’un set Tout-en-un (vendu séparément) pour activer des fonctions de jeu immersives. Les SMART Briques ne sont pas disponibles à l’achat séparément • JEUX SANS ÉCRAN – Les enfants peuvent partager avec leurs amis et leur famille une infinité d’actions et de jeux imaginatifs mettant en scène un Pokémon farceur • IDÉE DE CADEAU POUR GAMERS – Ce set LEGO constitue un magnifique cadeau à offrir pour un anniversaire, des fêtes ou toute occasion aux garçons, aux filles et aux fans de Pokémon, de jeux vidéo, d’objets ou de cartes à collectionner dès 7 ans",
+    "price": 22.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-pokemon-72156-laventure-de-carapuce-avec-le-buggy-du-dresseur-3432321",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/S0uzi/3432321_1/re/1200x1200/qt/90/3432321_1.jpg",
+    "detected_at": "2026-10-14T11:24:47+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": true,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T11:29:42.747474+00:00",
+    "merchant_url": "https://www.e.leclerc/fp/lego-pokemon-smart-play-l-aventure-de-carapuce-avec-le-buggy-du-dresseur-72156-5702018067987",
+    "price_history": [
+      {
+        "price": 22.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
     "title": "Plafonnier LED Rond - Salle de bain Lumière Plafond IP44, 4000K Lumière Panneau Taille: 40 cm (Vendeur Tiers - Via Coupon)",
     "description": "20€ - Amazon coupon de réduction de 50 % 【Blanc neutre 4000 K et IRC > 80 – Une lumière naturelle et apaisante】 Une lumière blanche neutre de 4000 K avec un indice de rendu des couleurs (IRC) élevé > 80 offre un éclairage agréable et naturel – idéal pour le salon, la chambre à coucher, la salle à manger et la chambre d'enfant. Parfait pour une ambiance détendue et un confort au quotidien 【4 800 lumens, ultra-lumineux 】 Une puissance de 48 W et un flux lumineux de 4 800 lumens offrent un éclairage clair et homogène pour des pièces de 12 à 20 m² – pas de coins sombres, une luminosité maximale immédiate sans scintillement ni délai 【Design ultraplat, Ø 40 cm – Moderne et élégant】 Seulement 2,5 cm d’épaisseur, diamètre de 40 cm – plafonnier élégant et moderne en noir mat, parfait pour les plafonds bas et les intérieurs contemporains 【Sans scintillement ni éblouissement – Doux pour les yeux et confortable】 Un diffuseur en acrylique de haute qualité assure une lumière douce et homogène, sans scintillement, éblouissement ni ombre – idéal pour les yeux et une utilisation quotidienne 【Indice de protection IP44 contre les projections d’eau – Sûr et durable】 Indice de protection IP44 contre l’humidité – convient pour la salle de bains, la cuisine, le couloir et la cave. Montage simple, technologie LED durable, économe en énergie et sans entretien",
     "price": 20.0,
     "reference_price": null,
-    "discount_percent": 50.0,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/plafonnier-led-rond-salle-de-bain-lumiere-plafond-ip44-4000k-lumiere-panneau-taille-40cm-3432319",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/CIRRt/3432319_1/re/1200x1200/qt/90/3432319_1.jpg",
@@ -7789,9 +7917,97 @@
     ]
   },
   {
+    "title": "Enceinte Bluetooth portable Jbl Go 4",
+    "description": "24,99€ - Carrefour Enceinte Bluetooth portable Jbl Go 4 En résumé Puissance 4,2 Watts Autonomie 7 h Etanche (IP67) Une enceinte Bluetooth ultra-portable avec un son JBL Pro puissant, des basses percutantes et un style audacieux. L’audacieuse enceinte Bluetooth ultra-portable JBL Go 4 offre un son JBL Pro clair et puissant avec des basses riches et percutantes. De plus, elle résiste à l’eau et à la poussière. Et avec ses 7 heures d’autonomie, vous allez pouvoir profiter de bons moments pendant une journée d’excursion ou une soirée sous les étoiles. Son JBL Pro ultra-portable avec des basses plus percutantes Jusqu’à 7 heures d’autonomie plus 2 heures avec Playtime Boost Résiste à l’eau et à la poussière Son JBL Pro ultra-portable avec des basses plus percutantes Ne vous fiez pas à sa petite taille. La JBL Go 4 offre un son JBL Pro puissant avec des basses percutantes. Vos amis n’en croiront pas leurs oreilles en écoutant le son JBL Pro sortir d’une si petite enceinte. Jusqu’à 7 heures d’autonomie plus 2 heures avec Playtime Boost Recharger la batterie de votre enceinte ? N’y pensez plus ! L’enceinte JBL Go 4 vous offre jusqu’à 7 heures d’autonomie avec une seule charge. Appuyez simplement sur Playtime Boost pour prolonger la durée d’autonomie, en ajoutant jusqu’à 2 heures d’autonomie à votre batterie. Elle ajuste et optimise les performances pour un son plus puissant et plus net. Résiste à l’eau et à la poussière L’indice de résistance à l’eau et à la poussière IP67 de la JBL Go 4 garantit que cette enceinte portable peut s’adapter à presque tous les environnements, lors d’une soirée piscine ou d’un pique-nique en bord de mer.",
+    "price": 24.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-portable-jbl-go-4-3432305",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DzM7Q/3432305_1/re/1200x1200/qt/90/3432305_1.jpg",
+    "detected_at": "2026-10-14T10:59:45+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Routeur 5G Brovi CPE C7",
+    "description": "161,34€ - Amazon.de Routeur sorti à l'été 2026, de la marque Brovi de Huawei, meilleur rapport qualité prix en 5G. Les routeurs Huawei sont connus comme ceux gérant le mieux les ondes radio 4G et 5G donc normalement moins de latences ou micro coupure que les concurrents. Prix beaucoup moins cher que sur amazon France. GAMING ET STREAMING SANS RALENTISSEMENT LE SOIR – Branchez votre PS5, Xbox ou PC gaming sur le port Gigabit LAN pour une connexion filaire stable, pendant que jusqu'à 5,8 Gbit/s (théoriques) de bande passante 5G laissent de la marge aux téléchargements, aux streams 4K et au cloud gaming – même quand toute la famille est en ligne EN LIGNE EN 3 MINUTES – SANS LIGNE FIXE, SANS TECHNICIEN – Insérez une SIM 5G/4G, branchez, c'est prêt. Testé sur le terrain avec plus de 50 opérateurs européens, dont Orange et Iliad. Idéal pour un nouvel appartement, une chambre étudiante ou une colocation (Carte SIM non incluse) SIGNAL FORT LÀ OÙ LES AUTRES DÉCROCHENT – 18 antennes cellulaires (dont 8 à gain élevé) avec sélection intelligente captent une 5G stable même en zone de couverture faible ; deux ports TS-9 permettent d'ajouter des antennes externes (non incluses) pour camping-car, résidence secondaire et zones rurales WIFI 6 POUR TOUTE LA MAISON, JUSQU'À 128 APPAREILS – Le WiFi 6 AX3000 double bande (jusqu'à 3 000 Mbit/s théoriques) alimente smartphones, TV, consoles et objets connectés ; EasyMesh étend un roaming fluide pièce par pièce, y compris avec des routeurs compatibles d'autres marques UN VRAI ROUTEUR, LES APPELS EN PLUS – Deux ports Gigabit Ethernet permettent aussi d'utiliser le C7 comme routeur classique derrière un modem fibre, câble ou ADSL ; le port téléphonique VoLTE/VoNR connecte votre téléphone sans fil – appelez sans abonnement fixe INSTALLATION SIMPLE, TRANQUILLITÉ DURABLE – Gérez réseau, consommation de données et WiFi invité dans l'app AI Life ; en plus, garantie étendue de 6 mois exclusive Amazon et support Brovi de l'installation au dépannage",
+    "price": 161.34,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/routeur-5g-brovi-cpe-c7-3432304",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/S9eIy/3432304_1/re/1200x1200/qt/90/3432304_1.jpg",
+    "detected_at": "2026-10-14T10:59:19+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 161.34,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wc Japonais Suspendu Swiss Aqua Technologies Fusion SATFUS11BFC - Sans Bride, Rinçage Vortex, Abattant Softclose, Sans Électricité",
+    "description": "119,95€ - Livea Le Fusion WC japonais suspendu sans bride est un modèle moderne et fonctionnel. *caractéristiques du produit :* - Type de produit : WC japonais - Marque : Swiss Aqua Technologies - Série : Fusion - Coloris : blanc - Finition : brillant - Matière : céramique - Largeur : 36 cm - Hauteur : 35 cm - Profondeur : 50 cm - Type d'abattant : SoftClose (fermeture douce et silencieuse)",
+    "price": 119.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/wc-japonais-suspendu-swiss-aqua-technologies-fusion-satfus11bfc-sans-bride-rincage-vortex-abattant-softclose-sans-electricite-3432303",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/49Vvl/3432303_1/re/1200x1200/qt/90/3432303_1.jpg",
+    "detected_at": "2026-10-14T10:58:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 119.95,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nettoyant Meguiar's Brillance Éclair Intérieur G13616F 473ml - Nettoie et Protège les Surfaces Intérieures de Voitures",
+    "description": "12,46€ - Amazon MarqueMeguiar's Forme de l'articleLiquide ParfumFraîcheur Usages spécifiques pour le produitserviette, voiture Caractéristique du matériauNon toxique Volume de l'article473 Millilitres DEPOUSSIERE tous les éléments de l'habitalec POLYVALENT il s'utilise sur le plastique comme le cuir ou les équipements audio/vidéo PULVERISER puis essuyer pour supprimer les saletés légères NE LAISSE pas de d'aspect gras ou de finition brillante FINITION Neutre Commentaires client",
+    "price": 12.46,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/meguiars-g13616f-brillance-eclair-interieur-473ml-nettoie-et-protege-les-surfaces-interieures-de-voitures-3432299",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/qLCNf/3432299_1/re/1200x1200/qt/90/3432299_1.jpg",
+    "detected_at": "2026-10-14T10:53:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.46,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
     "title": "[Nouveaux clients] Testeur de câbles réseau ANENG M469A - RJ45/RJ11, détection des courts-circuits, diagnostic de câblage",
     "description": "8,82€ - Alibaba Bon prix pour ce testeur de câbles. Compatible avec les connecteurs RJ45 et RJ11 , il peut être utilisé pour contrôler une installation Ethernet, identifier un problème de câblage ou effectuer des vérifications après la pose de connecteurs. Livraison gratuite > Caractéristiques Compatible avec les connecteurs RJ45 et RJ11 Adapté aux câbles réseau Ethernet et téléphoniques Détection des courts-circuits Outil de diagnostic et de vérification du câblage Utilisation pour l'installation et la maintenance de réseaux filaires",
-    "price": null,
+    "price": 8.82,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -7803,7 +8019,56 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 8.82,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Réchaud à bois Fire-Maple Maverick 3 (Vendeur tiers)",
+    "description": "20,48€ - Amazon Matériau sain et durable de haute qualité : Fabriqué en acier inoxydable, il est antirouille, très solide, résistant à la corrosion et ne se déforme pas facilement pour garantir une utilisation à long terme. Pliable et portable : non plié (234*282*140mm/9.2*11.1*5.5in), plié (282*147*8mm/11.1*5.8*0.3in). Il pèse 617 g et est livré avec un sac de transport, pratique pour l'emporter partout. Facile à installer : contient 5 pièces, peut être facilement assemblé et désassemblé en moins d'une minute. Idéal pour le camping, la randonnée, les pique-niques, les barbecues et les activités de plein air. Ce poêle à bois triangulaire est parfait pour les feux de camp, un support de pot supplémentaire vous sera fourni dans votre sac pour diverses utilisations, profitez simplement de votre jardin ou du feu de camp en plein air. Spécifications Marque: Fire-Maple Couleur: 3 Pièces Type de carburant: Wood Utilisations recommandées pour le produit: Extérieur Dimensions de l'article L x l x H: 28,2 x 14,7 x 0,8 centimètres Assemblage requis: Oui Matériau: Acier inoxydable Matériau de la poignée: Acier inoxydable Nom de modèle: Maverick-3 Matériau du cadre: Acier inoxydable Type d’alimentation: Wood Configuration du gril: Portable Méthode de cuisson principale: Grillade Dimensions de l’article: 28,2 x 14,7 x 0,8 centimètres Type de matériau: Acier inoxydable Matériau de la structure: Acier inoxydable À assembler: Oui Type d'installation: Autonome Usages recommandés pour le produit: Extérieur Nom du modèle: Maverick-3 Numéro du modèle: Maverick Nombre de paquets: 3 Utilisation extérieure ou intérieure: Extérieure Nombre d’articles dans l'unité vendue au client: 3 Fabricant: Fire-Maple Point fort de l’article: Pliable et Coupe-vent en Acier Inoxydable, idéal pour Cuisine Camping, Barbecues, Randonnées en Montagne et Pique-Niques 4 Nombre d'unités: 3.0 unité Pays d'origine: Chine Numéro de pièce: Maverick 3 Classement des meilleures ventes d'Amazon: 28097 en Sports et Loisirs (Voir les 100 premiers en Sports et Loisirs) 84 en Réchauds de camping ASIN: B09PFR35LB Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (217) 4,5 sur 5 étoiles Commentaires client",
+    "price": 20.48,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/rechaud-a-bois-3432298",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/P9Wgh/3432298_1/re/1200x1200/qt/90/3432298_1.jpg",
+    "detected_at": "2026-10-14T10:46:54+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.48,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Reconditionnée : Console Sony Playstation 5",
+    "description": "549,99€ - PlayStation Direct Console PlayStation®5 - reconditionnement certifié* Manette sans fil DualSense® - reconditionnement certifié Disque SSD 1 To 2 socles en plastique pour poser la console à l'horizontale Câble HDMI® Cordon d'alimentation Câble USB Mode d'emploi ASTRO's PLAYROOM® (jeu pré-installé) *garantie 12 mois",
+    "price": 549.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/playstation-5-reconditionne-3432297",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/rdQFE/3432297_1/re/1200x1200/qt/90/3432297_1.jpg",
+    "detected_at": "2026-10-14T10:45:46+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 549.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "Carte graphique MLLSE RX 580 8 Go 2048SP GDDR5",
@@ -7916,9 +8181,31 @@
     ]
   },
   {
+    "title": "Processeur AMD Ryzen 7 9800X3D",
+    "description": "333,51€ - AliExpress Processeur AMD Ryzen 7 9800X3D Scénario d'utilisation Jeux Horloge de suralimentation maximale 5.2 VERSION PCIe PCIe5.0 Canaux mémoire pris en charge 2 Type de mémoire pris en charge DDR5 Modèles de chipset pris en charge AMD autres TDP/TDP par défaut 120 Nombre de fils 16 Capacité du cache L3 96 Capacité du cache L2 8 Débloqué no Construit par GPU no Processus de puce 7 nm Type de processeur AMD Ryzen série 7000-R7 Type de prise 15h Application Ordinateur de bureau Nom de marque AMD Modèle AMD AMD Ryzen 7 9800X3D Nombre de cœurs Huit cœurs",
+    "price": 333.51,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-9800x3d-3432292",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6atel/3432292_1/re/1200x1200/qt/90/3432292_1.jpg",
+    "detected_at": "2026-10-14T10:36:19+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 333.51,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
     "title": "[Lidl+] Filet de pièces d’or en chocolat offert dè 30€ d’achat de 17h00 à 23h59",
     "description": "[Lidl+] Filet de pièces d’or en chocolat offert dè 30€ d’achat de 17h00 à 23h59",
-    "price": null,
+    "price": 30.0,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -7930,12 +8217,61 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 30.0,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sac de moto FC-Moto Hump 2.0 - Sac à dos de moto",
+    "description": "22,90€ - FC-Moto Sac de moto - FC-Moto Hump 2.0 Sac à dos de moto SAC À dos de moto FC-Moto Hump 2.0 Vous êtes à la recherche d’un sac à dos pratique qui ne vous dérangera pas lorsque vous conduisez une moto? Alors le sac à dos moto aérodynamique FC-Moto Hump avec sa coque rigide est le bon choix ! Fonctionnalités: construction à coque dure pour un ajustement et un confort sûrs forme aérodynamique - idéal pour les vitesses plus élevées matériau résistant à l’eau impression du logo bretelles réglables sangles horizontales de poitrine et de taille pour plus de soutien et un ajustement sûr grand compartiment principal compartiment séparé pour ordinateur portable 2 compartiments intérieurs en maille Crochet à l’intérieur Spécifications: volume: 24 litres compartiment pour ordinateur portable: 15 pouces taille: 51 x 35 x 13 cm poids: env. 749 grammes Contenu: 1 x sac à dos de moto FC-Moto Hump 2.0 Couleur: noir Taille: Taille unique Type de sacs :S acs à dos Genre: Femmes, Hommes",
+    "price": 22.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sac-de-moto-fc-moto-hump-20-sac-a-dos-de-moto-3432289",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/x99RJ/3432289_1/re/1200x1200/qt/90/3432289_1.jpg",
+    "detected_at": "2026-10-14T10:26:59+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 22.9,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu PS5 Tales of the Shire: A Lord of The Rings Game",
+    "description": "18,14€ - Amazon - La version physique contient une magnifique carte dépliante du pittoresque village de Bywater et un code de téléchargement pour la bande-son officielle du jeu - Vivez une belle existence de Hobbit : incarnez un personnage tout droit sorti des romans légendaires de J.R.R. Tolkien ! - Bienvenue chez vous, Hobbit : décorez votre propre maison de Hobbit et créez un coin douillet en agençant les meubles et décorations selon vos envies, sans système de grilles de placement pour brider votre créativité - La nourriture, c'est la vie : le quotidien d'un Hobbit est rythmé par les repas. Pêchez, cultivez votre jardin et partez à la cueillette pour remplir votre garde-manger des fruits de votre labeur. - Explorez Bywater : promenez-vous dans la nature pour découvrir les clairières secrètes et les trésors perdus de la Comté Spécifications Classé: 3 ans et plus Dimensions du colis: 17 x 13,6 x 1,5 cm; 90 grammes Date de sortie: 8 août 2025 Date de mise en ligne sur Amazon.fr: 5 mai 2025 ASIN: B0F7M1NJKQ Pays d'origine: Autriche Disponibilité des pièces détachées: Information indisponible sur les pièces détachées Mises à jour logicielles garanties jusqu’à: Information non disponible Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Jeux vidéo Commentaires client",
+    "price": 18.14,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tales-of-the-shire-a-lord-of-the-rings-game-sur-ps5-3432288",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/GUNHr/3432288_1/re/1200x1200/qt/90/3432288_1.jpg",
+    "detected_at": "2026-10-14T10:24:54+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.14,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "[Precommande] The Legend Of Zelda : Ocarina Of Time sur Nintendo Switch 2 (+ 30€ de remise sur Nintendo Switch Sports)",
     "description": "69,99€ - Micromania Zing Très belle offre ! 30€ de remise pour le jeu Nintendo Switch Sports Resort en précommandant Zelda De plus vous aurez un sac de Gym offert et toujours les deux bonus à savoir : Un superbe portefeuille aux couleurs du jeu Un coffret avec pierres de mémoire",
-    "price": null,
+    "price": 69.99,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -7947,12 +8283,17 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "Recharge pour Balai Vileda Refill Steam Mop",
     "description": "10,99€ - Amazon Presque moitié prix (-48%) Amazon! Pack de 2 Recharges en Microfibre Vileda Steam Vous voulez des sols étincelants et désinfectés en profondeur sans perdre en efficacité ? Ne manquez pas cette offre sur le pack de 2 recharges en microfibre pour balai vapeur Vileda Steam : l'accessoire indispensable pour capturer la saleté la plus incrustée sans effort. ⚡ Ce qui rend ce bon plan incontournable : Efficacité maximale grâce à la microfibre Vileda : Conçues pour absorber la graisse, la poussière et éliminer jusqu'à 99 % des bactéries uniquement avec la puissance de la vapeur. Lavables en machine (de 40 °C à 60 °C) : Réutilisables et ultra-durables ; lavez-les après chaque utilisation pour les conserver comme neuves sans perdre en efficacité. Ajustement parfait et dimensions idéales (27,5 x 17 cm) : Taille optimisée pour couvrir une grande surface en un seul passage et atteindre facilement les angles et les rebords. Compatibilité totale : Spécialement conçues pour les balais vapeur Vileda Steam / Vileda 100 °C (212 °F). Pack économique de 2 unités : Gardez toujours une recharge propre sous la main pour ne jamais interrompre vos sessions de ménage. La recharge officielle indispensable pour votre balai vapeur au meilleur prix en promotion. À propos de ce produit Lavable en machine de 40 à 60°C Couleur : Blanc Dimensions : 2,5 x 17 x 27,5 cm Poids du produit: 0,12 kilogrammes Commentaires client",
-    "price": null,
+    "price": 10.99,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -7964,12 +8305,17 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "[Vente privée] Jeu de société - Tower Up",
     "description": "14,36€ - Philibert Net Très grosse démarque en vente privée sur Tower Up , l'excellent jeu de construction urbaine et d'opportunisme signé Sébastien Pauchon ( Jaipur , Sobek ), Frank Crittin et Grégoire Largey, édité par Monolith. Noté 7,3/10 sur BoardGameGeek , c'est l'un des jeux familiaux/initiés les plus percutants et élégants de 2024. Pourquoi c'est un carton assuré à ce tarif : Vous incarnez un cabinet d'architectes rivalisant pour redessiner le skyline de la ville. Derrière son accessibilité immédiate (façon Aventuriers du Rail ), le jeu cache une redoutable dimension tactique et un blocage digne des meilleurs jeux de Reiner Knizia. Le gameplay brille par son épure : Un choix binaire à chaque tour : Soit vous prenez une carte de ressource pour récupérer de nouveaux étages modulaires, soit vous construisez en posant vos blocs sur le plateau pour agrandir ou surélever des immeubles existants. Prise de contrôle et opportunisme : Construire rapporte des millions selon la hauteur du gratte-ciel et le quartier, mais poser votre toit au sommet vous assure la majorité et bloque les opportunités adverses. Course aux objectifs : Des cartes jalons récompensent les premiers à quadriller certaines zones ou à atteindre des hauteurs cibles. Matériel et présence sur table : 120 étages et 40 toits en 3D qui s'empilent pour former une véritable maquette urbaine en relief, rangée dans un thermoformage pensé au millimètre. Note BGG : 7,3/10 Format : 2 à 4 joueurs Durée : 30 à 45 min Âge : Dès 8 ans Auteurs : Frank Crittin, Grégoire Largey & Sébastien Pauchon Éditeur : Monolith Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat).",
-    "price": null,
+    "price": 14.36,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -7981,12 +8327,17 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 14.36,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "Four à pizza électrique H.Koenig (HKI-PIZ-1460EU) - 2200W",
     "description": "99,99€ - Carrefour Four à pizza électrique à moins de 100 euros, température jusqu'à 400°C, grande largeur de pizza jusqu'à 37 cm alors que la majorité des fours est de 32/33 cm, et une pelle est fournie. De plus, livraison gratuite en point relais, et possibilité de paiement en 4 fois sans frais avec paypal.",
-    "price": null,
+    "price": 99.99,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -7998,12 +8349,193 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque de route Mavic Syncro SL MIPS, Noir",
+    "description": "49,99€ - Private Sport Shop Un casque Mavic système Mips pour un prix raisonnable",
+    "price": 49.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-de-route-syncro-sl-mips-noir-3432282",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zpbPI/3432282_1/re/1200x1200/qt/90/3432282_1.jpg",
+    "detected_at": "2026-10-14T10:16:08+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque sans fil CMF headphones pro",
+    "description": "73,62€ - Amazon En noir il est à 78 euros. Sur AliExpress il y a une offre à 65 euros mais on dirait bien que c'est une arnaque. CMF Headphone Pro (par Nothing) Un super rapport qualité/prix si vous cherchez un casque sans fil complet sans vous ruiner. Il vient directement chasser sur les terres des références d'entrée/milieu de gamme comme le Sony WH-CH720N ou le Soundcore Q45, avec quelques atouts très solides. Les points forts : Autonomie monstrueuse : jusqu’à 50h avec ANC active (et près de 100h sans), de quoi tenir deux à trois semaines sans approcher une prise en usage quotidien. Audio complet : support du codec LDAC pour la haute résolution sur Android et signature sonore dynamique avec de bons graves (ajustable via l’app Nothing X). Réduction de bruit (ANC) hybride efficace : atténue très bien les bruits sourds et réguliers (transports, open space). Design et construction soignés : finition mate propre, coussinets confortables et commandes physiques intuitives (pas de tactile hasardeux). Il est robuste comparé au CH-CH720N. Connexion multipoint rapide (PC + smartphone en simultané) et charge rapide USB-C. À ce tarif, c’est difficile de faire plus complet pour un usage nomade ou bureautique quotidien. À propos de ce produit BATTERIE: Jusqu’à 100 heures d'écoute, ou 50 heures avec la réduction de bruit activée. Et jusqu'à 50 heures de temps d'appel. Grâce à son chargeur USB-C, la batterie se recharge complètement en moins de 2 heures. COMMANDES INTUITIVES: Pilotez vos écouteurs directement depuis votre casque grâce aux boutons dédiés. Glissez pour régler les basses ou les aigus. Tournez pour régler le volume. Appuyez pour passer d'une fonction à l'autre. Pas d'applications. Pas d'écrans. Rien qu'un son pur, sans entrave. SPATIAL AUDIO:Static Spatial Audio vous enveloppe d'un paysage sonore grâce aux modes Cinéma et Concert. Chaque mode est réglé pour optimiser la largeur, la profondeur et la clarté du paysage sonore. ANC:Isolez-vous des bruits ambiants avec la réduction de bruit hybride. En s'adaptant à votre environnement, et en basculant automatiquement entre les modes haut, moyen et bas. Le Mode Transparence laisse entrer une partie du monde extérieur. HI-RES: Prenant en charge LDAC et les certifications Hi-Res avec ou sans fil, le CMF Headphone Pro fournit un son haute résolution dans chaque mode, pour un rendu musical aussi fidèle que possible. Commentaires client",
+    "price": 73.62,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cmf-headphones-pro-3432281",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ruS4F/3432281_1/re/1200x1200/qt/90/3432281_1.jpg",
+    "detected_at": "2026-10-14T10:15:14+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 73.62,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Way of the Gun en Blu-ray 4K UHD",
+    "description": "15€ - L'Atelier d'Images Dolby Vision, VO Atmos. Première baisse pour ce titre, directement sur le site de l'éditeur, à l'occasion du Festival Lumière. De nombreux titres en promos également sur cette page jusqu'à dimanche. Way of the Gun est un thriller américain réalisé par Christopher McQuarrie , scénariste oscarisé pour Usual Suspects . Ce premier long-métrage en tant que réalisateur met en scène Ryan Phillippe ( Souviens-toi… l’été dernier ), Benicio Del Toro ( Traffic ) et Juliette Lewis ( Tueurs nés ). Le film suit deux criminels impliqués dans un enlèvement aux conséquences inattendues.",
+    "price": 15.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/blu-ray-4k-uhd-way-of-the-gun-3432280",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8rtvZ/3432280_1/re/1200x1200/qt/90/3432280_1.jpg",
+    "detected_at": "2026-10-14T10:15:01+00:00",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.0,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte graphique ASRock RX 9070 Challenger 16 Go",
+    "description": "649,99€ - JoyBuy Très bon prix par les temps qui courent pour cette rx 9070 chez joybuy Caractéristiques principales et points forts La carte graphique hautes performances ASRock RX 9070 Challenger 16 Go est conçue pour le jeu et les charges de travail professionnelles. Propulsée par l'architecture du processeur graphique RX 9070 d'AMD, elle offre des performances ultra-rapides avec 16 Go de mémoire GDDR6 sur un bus de 256 bits.La carte dispose de 56 unités de calcul AMD RDNA avec accélérateurs RT et IA pour le ray tracing, les graphismes améliorés par l'IA et un rendu fluide.Le système de refroidissement à trois ventilateurs 0 dB garantit un fonctionnement silencieux sous faible charge et une dissipation thermique efficace lors de hautes performances.Les options de connectivité incluent 3 sorties DisplayPort 2.1a et 2 sorties HDMI 2.1b, ce qui le rend adapté aux configurations multi-écrans et aux jeux 4K. • GPU AMD RX 9070 avec 16 Go de mémoire GDDR6, bus mémoire de 256 bits • Système de refroidissement silencieux 0 dB à trois ventilateurs • Prend en charge l'interface PCI-Express x16 (compatible PCIe 5.0) • 3x sorties DisplayPort 2.1a et 2x sorties HDMI 2.1b • Idéal pour les jeux, les applications professionnelles et la création de contenu 4K",
+    "price": 649.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/carte-graphique-asrock-rx-9070-challenger-16-go-3432279",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/tA5QS/3432279_1/re/1200x1200/qt/90/3432279_1.jpg",
+    "detected_at": "2026-10-14T10:14:59+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 649.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque vélo route Mavic elite noir taille S et M",
+    "description": "23,99€ - Private Sport Shop Casque Mavic basic mais prix light",
+    "price": 23.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-velo-route-mavic-elite-noir-taille-s-et-m-3432278",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KIrg5/3432278_1/re/1200x1200/qt/90/3432278_1.jpg",
+    "detected_at": "2026-10-14T10:13:00+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kit Solaire Plug and Play Zendure 2400 PRO - 1840 Wc, avec Batterie 2,4kWh, Back-up intégré",
+    "description": "1 077€ - Upwatt Le Kit Solaire Plug and Play 1840 Wc avec Batterie 2,4kWh Zendure 2400 PRO est un système complet pour produire et stocker de l'énergie solaire. caractéristiques du produit : Puissance de 1840 Wc Batterie de 2,4 kWh Back-up intégré Plug and Play Réduction de la dépendance au réseau Contrôle du budget énergie Référence produit : KPP1840JAZEx1 Produisez, stockez et consommez votre propre énergie solaire Ce kit complet vous permet de transformer la lumière du soleil en électricité du quotidien, de la conserver pour plus tard et de réduire durablement votre dépendance au réseau. Une façon concrète de mieux contrôler votre budget énergie. Le kit contient : Panneaux solaires compacts et performants : 4 modules bifaciaux JA Solar de 460 Wc chacun avec un excellent rendement de 23% Stockage : la batterie Zendure SolarFlow 2400 Pro, qui offre 2,4 kWh de capacité et une puissance bidirectionnelle de 2400 W Mode secours : une sortie hors réseau pour garder de l’électricité en cas de panne secteur, ou pour alimenter un site isolé Mise en service facile : un système Plug & Play qui se branche rapidement, sans gros travaux Pilotage à distance : avec l’application Zendure, suivez et gérez votre batterie (connexion Internet nécessaire) Un kit prêt à l’emploi pour devenir acteur de votre énergie : vous produisez, vous stockez, vous utilisez, simplement et sans complication.",
+    "price": 1077.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/kit-solaire-plug-and-play-zendure-2400-pro-1840-wc-avec-batterie-24kwh-back-up-integre-3432274",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/v1SGq/3432274_1/re/1200x1200/qt/90/3432274_1.jpg",
+    "detected_at": "2026-10-14T10:08:24+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 1077.0,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tondeuse thermique poussée Scheppach MP132-40 - 40cm, 131 CC",
+    "description": "112,49€ - Cdiscount Points forts Composition du lot : tondeuse à gazon thermique MP132-40 Plus produit : Hauteur de tonte ajustable à 3 positions (de 30 à 66mm). Guidon repliable. Type de motorisation : Thermique Largeur de coupe : 40 cm La tondeuse à gazon thermique SCHEPPACH MP132-40 est équipée d'un moteur à essence puissant de 131cm3 développant 3,3CV/2,4kW. Elle dispose d'un bac de ramassage en textile de 35L facile à vider et d'un guidon repliable pour faciliter le rangement et le transport. La hauteur de tonte est ajustable de 30 à 66mm. Convient aux jardins jusqu'à 600m2. Dimensions (L x l x h) : 1310 x 470 x 970 mm Cylindrée 131 cm3 Puissance 2,4 kW / 3,3 CV Largeur de coupe maxi. 40 cm Hauteurs de coupe 30 – 66 mm",
+    "price": 112.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tondeuse-thermique-poussee-scheppach-mp132-40-40cm-131-cc-3432273",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/GFLkk/3432273_1/re/1200x1200/qt/90/3432273_1.jpg",
+    "detected_at": "2026-10-14T10:06:15+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 112.49,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de Société : Ziggurat",
+    "description": "7,59€ - Philibert Net Ziggurat est à -80% via une vente privée sur Philibert : Soyez connecté Soyez abonné à la newsletter générale Cliquez sur le bandeau apparu sur la page d’accueil pour accepter de participer aux ventes privées Rendez-vous sur \"Mon compte\" Un bouton \"Une vente privée est en cours, foncez !\" apparaît, de là vous verrez tous les produits concernés Ziggurat est un jeu Legacy pour toute la famille ! Son histoire se déroule sur 6 chapitres : les décisions que vous prenez au cour de chaque partie affecteront les suivantes. Au fur et à mesure de l'histoire, vous modifierez de manière permanente la campagne en ajoutant de nouvelles règles, de nouveaux éléments de jeu, et même des autocollants sur le plateau !",
+    "price": 7.59,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-ziggurat-3432272",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bcdRS/3432272_1/re/1200x1200/qt/90/3432272_1.jpg",
+    "detected_at": "2026-10-14T10:04:08+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.59,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "[Ventes privées] Jeu de société Trekking the World",
     "description": "11,39€ - Philibert Net Braderie massive de -70 % en vente privée sur Trekking the World , le superbe jeu de voyage et de collection signé Charlie Bink ( Trekking the National Parks ) et édité en français par Underdog Games. Passer à peine au-dessus de 11 € pour une grande boîte réputée pour la beauté de ses illustrations et son matériel très soigné, c'est l'une des plus belles affaires de cette vague. Pourquoi c'est une excellente pioche : Dans la veine des Aventuriers du Rail ou de Parks , vous incarnez des globe-trotters parcourant les continents pour visiter des merveilles naturelles ou architecturales, participer à des festivals et collectionner des souvenirs locaux. Le gameplay propose une course tactique fluide et accessible : Déplacements et gestion de cartes : Vous utilisez vos cartes Trek pour vous déplacer de ville en ville le long des routes mondiales, en optimisant la valeur numérique pour atteindre les destinations cibles. Visite de sites et cartes Destination : Atteindre un lieu emblématique vous permet de revendiquer sa carte si vous défaussez les bonnes combinaisons d'icônes, déclenchant des points de victoire et des pouvoirs permanents ou immédiats. Collection de souvenirs et valise : Sur votre passage, vous récupérez de petits cubes de souvenirs colorés à ranger sur votre plateau valise personnel pour créer des séries et marquer de gros multiplicateurs en fin de partie. Édition exemplaire : Grand plateau planisphère illustré avec soin, cartes grand format façon cartes postales rétro, valises personnelles épaisses et inserts thermoformés prêts à jouer. Mode solo inclus : La boîte contient un deck d'automa pour jouer en solitaire. Format : 1 à 5 joueurs Durée : 30 à 60 min Âge : Dès 10 ans Auteur : Charlie Bink Éditeur : Underdog Games Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat).",
-    "price": null,
+    "price": 11.39,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -8015,12 +8547,39 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 11.39,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures Lowell en cuir - 2 coloris",
+    "description": "120€ - Dr. Martens Les chaussures à 4 œillets Lowell combinent esthétique contemporaine et design façon vêtement de travail d'archive. Elles sont réalisées en cuir Orleans et dotées d'un col rembourré confortable, ainsi que de coutures et d'un empiècement sur le bout du pied. La semelle extérieure BEN crantée est de plus soulignée de surpiqûres jaunes. Orleans est un cuir pull-up ciré légèrement texturé qui est doux, souple et résistant. Nettoyez-le avec un chiffon humide et prenez-en soin avec le cirage Dr. Martens. Imaginée dans les années 80, la semelle BEN est pourvue de crans profonds et du motif unique de Dr. Martens. Nos modèles bénéficiant du montage Goodyear sont thermocollés et renforcés par nos surpiqûres signature.",
+    "price": 120.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-lowell-en-cuir-3432270",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NF8k0/3432270_1/re/1200x1200/qt/90/3432270_1.jpg",
+    "detected_at": "2026-10-14T10:02:38+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 120.0,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "[Vente privée] Jeu de société - Great Western Trail : El Paso",
     "description": "13,45€ - Philibert Net Grosse démarque de -50 % en vente privée sur Great Western Trail : El Paso , la déclinaison condensée et nerveuse du monument d'Alexander Pfister, éditée par Lookout Games. Passer sous la barre des 14 € pour un stand-alone complet issu de l'une des franchises expertes les plus réputées du jeu de plateau moderne, c'est une affaire en or. Pourquoi c'est une excellente pioche : El Paso conserve l'essence stratégique du classique Great Western Trail (le déplacement en boucle, le deckbuilding de bétail et la livraison ferroviaire) tout en resserrant drastiquement les règles et le temps de partie pour tenir en moins d'une heure. Les points forts du jeu : Deckbuilding et gestion de troupeaux : Vous achetez et faites tourner des cartes de bétail pour optimiser la valeur de votre convoi avant chaque arrivée à la gare. Course sur la piste : Vous déplacez votre pion d'action en action le long du sentier vers El Paso, en choisissant d'avancer vite pour couper l'herbe sous le pied des adversaires ou de prendre le temps d'activer un maximum de bâtiments. Réseau ferroviaire et bâtiments : Développez vos gares le long des rails pour débloquer des bonus immédiats et implantez vos propres bâtiments sur le sentier pour multiplier vos options tactiques. Format fluide et accessible : Toute la saveur du grand frère sans la lourdeur d'installation ni les parties de 2 h 30, avec un matériel soigné et un mode solo dédié. Format : 1 à 4 joueurs Durée : 45 à 75 min Âge : Dès 12 ans Auteur : Alexander Pfister Éditeur : Lookout Games / Plan B Games Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat).",
-    "price": null,
+    "price": 13.45,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
@@ -8032,7 +8591,56 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 13.45,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de Société : Star Wars - Bounty Hunters",
+    "description": "3,43€ - Philibert Net Star Wars: Bounty Hunters est à -85% via une vente privée sur Philibert : Soyez connecté Soyez abonné à la newsletter générale Cliquez sur le bandeau apparu sur la page d’accueil pour accepter de participer aux ventes privées Rendez-vous sur \"Mon compte\" Un bouton \"Une vente privée est en cours, foncez !\" apparaît, de là vous verrez tous les produits concernés Dans Star Wars : Bounty Hunters, vous êtes à la poursuite de célèbres cibles en fuite : Han Solo, Chewbacca, Grogu... Ne les laissez pas s'échapper ! Recrutez les meilleurs chasseurs de primes et capturez les prestigieux héros rebelles dans ce jeu de draft au rythme effréné. Jouez en simultané, sans temps mort !",
+    "price": 3.43,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-star-wars-bounty-hunters-3432269",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/nf9lF/3432269_1/re/1200x1200/qt/90/3432269_1.jpg",
+    "detected_at": "2026-10-14T10:02:11+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.43,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Aspirateur Rowenta RO3927EA avec sac Hygiene+, 3 L",
+    "description": "84,99€ - Amazon Branché sur secteur, ce traîneau fonctionne sans batterie à recharger. Son moteur affiche une puissance maximale de 900 W. La poussière est recueillie dans un sac Hygiene+ ; sa fermeture automatique limite le contact avec le contenu au moment du remplacement. À propos de ce produit PUISSANCE DE NETTOYAGE OPTIMALE : aspirateur avec sac doté d'un moteur basse consommation de 900 W max (conformément au règlement EU N°666/2013) pour des résultats parfaits sur tous les types de sols ULTRA COMPACT : sac à poussière de grande capacité (3 L) s'adaptant à la compacité de l'appareil et poignée de transport ergonomique pour une utilisation et un rangement très faciles HAUTE FILTRATION : système de filtration à 3 niveaux qui capture 99,98% de la poussière LIBERTÉ DE MOUVEMENT : grand rayon d'action de 8.80 m, permettant de couvrir de larges surfaces sans avoir à débrancher l'appareil, pour un confort total RÉPARABILITÉ 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6 200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets HYGIÈNE IMPECCABLE : sac Hygiene+ équipé d'un rabat à fermeture automatique pour éviter tout contact avec la poussière et assurer ainsi une meilleure hygiène, et un plus grand confort LIVRÉ AVEC : suceur fente convertible en brossette pour aspirer les recoins ACCESSOIRES COMPATIBLES : Parquet Softcare ZR900401, Mini Turbobrosse ZR900601, Maxi Turbobrosse ZR900701, Suceur fente flexible XXL ZR902901, Bras articulé multifonction ZR903401 Commentaires client",
+    "price": 84.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/aspirateur-rowenta-ro3927ea-avec-sac-hygiene-3-l-3432265",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/WUbWo/3432265_1/re/1200x1200/qt/90/3432265_1.jpg",
+    "detected_at": "2026-10-14T09:59:59+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 84.99,
+        "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
   },
   {
     "title": "Jean balloon taille normale 100% Coton - Lie de vin (du 32 au 46)",
@@ -8540,7 +9148,7 @@
     "description": "126€ - Asics N'oubliez pas les 10% de réduction pour une 1ère commande, via inscription à la newsletter (highfive) Technologie GEL à 360 degrés dans la semelle intermédiaire Panneaux en maille fermés Marquage minimal Amorti FF BLAST PLUS dans la semelle intermédiaire La chaussure GEL-QUANTUM 360 I AMP reconnaît le dixième anniversaire du lancement de la franchise GEL-QUANTUM. La première version de la série était la première chaussure ASICS à être dotée de la technologie GEL à 360 degrés dans la semelle intermédiaire. Sa structure supérieure est modifiée avec des panneaux en maille fermés et un marquage minimal, donnant à la chaussure un aspect plus dimensionnel avec une plus grande profondeur. La semelle intermédiaire est conservée avec sa technologie GEL à 360 degrés, mais elle est dotée d'un amorti FF BLAST PLUS pour un meilleur confort sous le pied.",
     "price": 126.0,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 10.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/baskets-asics-gel-quantum-360-amp-tailles-du-36-au-465-3432235",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/quZgl/3432235_1/re/1200x1200/qt/90/3432235_1.jpg",
@@ -14397,72 +15005,6 @@
     "price_history": [
       {
         "price": 180.5,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Lego Jurassic World 76968 Exclu Cdiscount Les Fossiles de Dinosaures : le Tyrannosaurus Rex",
-    "description": "194,99€ - Cdiscount",
-    "price": 194.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-jurassic-world-76968-exclu-cdiscount-les-fossiles-de-dinosaures-le-tyrannosaurus-rex-pour-adulte-3431901",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5ZGZc/3431901_1/re/1200x1200/qt/90/3431901_1.jpg",
-    "detected_at": "2026-10-13T18:20:07+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 194.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société Exploding Kittens - Edition Festive",
-    "description": "9€ - Librairie Molière Exploding kittens, c'est Higlander avec des chatons : à la fin, il ne peut en rester qu'un. Dans Exploding Kittens, vous avez le droit d'avoir tout un tas de cartes en main. Quand vient votre tour, vous pouvez en jouer autant que vous voulez, pour faire les pires crasses à vos amis. Attendez-vous à des effets de cartes violents et stupides, on n'est pas là pour se faire des papouilles ! Quelle que soit votre décision, vous devrez de toute façon piocher une carte et serrer les coussinets pour ne pas tomber sur une carte « Exploding Kittens ». Si c’est le cas, vous avez perdu. Vous pouvez laper un bol de mojito-croquette, tout en admirant les illustrations foutraques et déjantées qui ont fait la renommée de ce petit jeu d'un mauvais goût assumé, en attendant qu'un seul joueur survive à ce déploiement de violence gratuite. Voilà, vous êtes prêts à perdre vos amis. (En même temps, on vous avait prévenu.)",
-    "price": 9.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-exploding-kittens-edition-festive-3431898",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/lHbw7/3431898_1/re/1200x1200/qt/90/3431898_1.jpg",
-    "detected_at": "2026-10-13T18:15:01+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 55\" Samsung 55S85H 2026 - OLED, 4K UHD, Smart TV",
-    "description": "899,99€ - JoyBuy Synthèse de l'offre Modèle : Samsung QE55S85HAEXXH (Gamme 2026) — 55\" (139,7 cm) Prix : 999,99 € (au lieu de 1 299,99 €, soit 23 % de réduction) Financement : À partir de 93 €/mois ou paiement en 3x sans frais via Klarna Avantages Joybuy : Jusqu'à 1 000 points Joybuy gagnés (ou 0,74 € d'économie immédiate) Livraison : Gratuite, dès demain Garantie & Services : 2 ans constructeur, retours gratuits sous 30 jours, assistance 24/7 Caractéristiques clés du produit Écran & Image : Dalle OLED 4K Ultra HD (3 840 × 2 160 pixels) de 55 pouces. Traitement HDR et gestion dynamique des couleurs/noirs. Fréquence & Fluidité : Dalle native 100 Hz avec technologie Motion Xcelerator pour la fluidité des mouvements. Gaming : Prise en charge d'AMD FreeSync Premium. Smart TV & Audio : Système Smart TV intégré avec accès aux applications de streaming et système sonore adaptatif. Connectique : 4 ports HDMI et 2 ports USB. Dimensions & Consommation : Poids de 13,40 kg, classe énergétique F. Fabrication : Fabriqué en Corée du Sud. Avis clients Aucun avis client n'est encore disponible pour ce modèle sur la fiche.",
-    "price": 899.99,
-    "reference_price": 1299.99,
-    "discount_percent": 30.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/samsung-55s85h-tv-oled-55-140-cm-2026-4k-uhd-smart-tv-3425639",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rZ9XC/3425639_1/re/1200x1200/qt/90/3425639_1.jpg",
-    "detected_at": "2026-10-13T18:14:12+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 899.99,
         "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
