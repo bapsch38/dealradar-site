@@ -866,10 +866,6 @@ function renderOffers() {
     const offerTextForPrice = (String(offer.title || "") + " " + String(offer.description || "")).toLocaleLowerCase("fr");
     // La livraison gratuite n'indique pas que le produit lui-même est gratuit.
     const priceTextForFree = offerTextForPrice
-      .replace(/\\b(?:livraison|expédition|expedition|envoi|frais de port|frais de livraison|frais d['’]expédition|frais d['’]envoi)\\s+(?:est\\s+)?(?:gratuite?|gratuits?|offerte?|offerts?|offertes?)\\b/g, " ")
-      .replace(/\\b(?:livraison|expédition|expedition|envoi)\\s+(?:est\\s+)?(?:gratuite?|offerte?)\\b/g, " ");
-    // La livraison gratuite n'indique pas que le produit lui-même est gratuit.
-    const priceTextForFree = offerTextForPrice
       .replace(/\b(?:livraison|expédition|expedition|envoi|frais de port|frais de livraison|frais d['’]expédition|frais d['’]envoi)\s+(?:est\s+)?(?:gratuite?|gratuits?|offerte?|offerts?|offertes?)\b/g, " ")
       .replace(/\b(?:livraison|expédition|expedition|envoi)\s+(?:est\s+)?(?:gratuite?|offerte?)\b/g, " ");
     const unknownPriceLabel = /\b(gratuit|gratuite|gratuitement|offert|offerte|offerts|offertes)\b/.test(priceTextForFree)
