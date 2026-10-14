@@ -1565,7 +1565,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:57:10.984798+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1586,7 +1586,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:57:10.984798+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1607,7 +1607,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:57:10.984798+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1628,7 +1628,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:57:10.984798+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1859,7 +1859,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:58:22.647902+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1880,7 +1880,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:57:10.984798+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6737,6 +6737,72 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Buche de bois densifié ultra calorifique 7,5KG Woodstock 5Pcs",
+    "description": "2,99€ - Castorama Retour de la promotion à 2,99€ le lot de 5 buches optimisation possibles: -5% avec le pass partenaires Fnac/Darty ou Boursobank permet de recharger le stck avant l'hiver donc tout bon :)",
+    "price": 2.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/buche-de-bois-densifie-ultra-calorifique-75kg-woodstock-5pcs-3432108",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ptkD2/3432108_1/re/1200x1200/qt/90/3432108_1.jpg",
+    "detected_at": "2026-10-14T06:53:56+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 2.99,
+        "observed_at": "2026-10-14T06:57:12.503969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Les Schtroumpfs Village Party sur PS5",
+    "description": "11,99€ - Cdiscount Le Grand Schtroumpf est bien décidé à organiser une fête extraordinaire ! À cette occasion, il demande à tous les Schtroumpfs de participer aux préparatifs afin de rendre la fête inoubliable ! Arpentez le village et invitez tous les Schtroumpfs du monde entier à l’événement, mais méfiez-vous de Gargamel qui a eu vent de la fête et qui fera tout pour la gâcher... Dans le mode party-game, rassemblez vos amis et votre famille pour passer des heures d’amusement Schtroumpftastique à travers 50 mini-jeux inspirés par l’esprit des Schtroumpfs. Dans le mode aventure, partez dans un voyage trépidant truffé de quêtes, rencontrez plus de 100 Schtroumpfs emblématiques, et explorez 10 régions différentes, du village des Schtroumpfs au territoire de Gargamel",
+    "price": 11.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/les-schtroumpfs-village-party-sur-ps5-3432106",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fd2RA/3432106_1/re/1200x1200/qt/90/3432106_1.jpg",
+    "detected_at": "2026-10-14T06:53:19+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-14T06:57:12.503969+00:00"
+      }
+    ]
+  },
+  {
+    "title": "-15% dès 25 euros d'achat chez L'Oréal Paris",
+    "description": "L'Oréal Paris Code CATSEYES : -15% sur le site L'Oréal Paris, valable jusqu'au 30/10/2026 pour toute commande d'au moins 25€. Il n'est pas cumulable avec d'autres offres, et la bannière précise qu'il faut bien enregistrer son code (à ajouter dans le panier ou au compte avant de payer). Source du code promo : Lieu de consolation pour les perdants du jeux concours instant gagnant de L'Oréal Paris disponible ici : ecampaign.loreal-paris.fr/quiz/1823809_1221/OAPCatsEyes2026.html?utm_source=agence-reflexemedia Il est possible de gagner quelques lots sympa donc n'hésitez pas à participer au passage ! (y)",
+    "price": 25.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/15-des-25-euros-dachat-3432105",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/280_1/re/1200x1200/qt/90/280_1.jpg",
+    "detected_at": "2026-10-14T06:52:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 25.0,
+        "observed_at": "2026-10-14T06:57:12.503969+00:00"
       }
     ]
   },
