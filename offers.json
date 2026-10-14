@@ -3755,6 +3755,10 @@
       {
         "price": 16.6,
         "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 16.6,
+        "observed_at": "2026-10-14T09:48:09.977601+00:00"
       }
     ]
   },
@@ -3776,6 +3780,10 @@
       {
         "price": 8.56,
         "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 8.56,
+        "observed_at": "2026-10-14T09:48:09.977601+00:00"
       }
     ]
   },
@@ -4008,7 +4016,7 @@
     "title": "CORSAIR Frame 4000D Wood RS Bo...i-affaissement – Blanc & Chêne",
     "price": 124.04,
     "reference_price": 142.49,
-    "discount_percent": 12.95,
+    "discount_percent": 12.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0GF9L2P4J",
     "image_url": "https://m.media-amazon.com/images/P/B0GF9L2P4J.01._AC_SL1500_.jpg",
@@ -4083,7 +4091,7 @@
     "title": "ASUS Prime H610M-A WiFi LGA1700 microATX",
     "price": 97.72,
     "reference_price": 109.99,
-    "discount_percent": 11.16,
+    "discount_percent": 11.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07M6J1H17",
     "image_url": "https://m.media-amazon.com/images/P/B07M6J1H17.01._AC_SL1500_.jpg",
@@ -4108,7 +4116,7 @@
     "title": "Philips Hue Bande LED OmniGlow...ication et par commande vocale",
     "price": 239.0,
     "reference_price": 349.99,
-    "discount_percent": 31.71,
+    "discount_percent": 31.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0FW4FDVLK",
     "image_url": "https://m.media-amazon.com/images/P/B0FW4FDVLK.01._AC_SL1500_.jpg",
@@ -4133,7 +4141,7 @@
     "title": "C.K Magma MA2740 Ensemble de 3 Pochettes",
     "price": 11.44,
     "reference_price": 24.44,
-    "discount_percent": 53.19,
+    "discount_percent": 53.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07R17VD6Z",
     "image_url": "https://m.media-amazon.com/images/P/B07R17VD6Z.01._AC_SL1500_.jpg",
@@ -4158,7 +4166,7 @@
     "title": "LACOR - 44424 - Poêle en acier...aisselle, Ø24 cm, hauteur 6 cm",
     "price": 27.81,
     "reference_price": 39.95,
-    "discount_percent": 30.39,
+    "discount_percent": 30.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D6RNMN3M",
     "image_url": "https://m.media-amazon.com/images/P/B0D6RNMN3M.01._AC_SL1500_.jpg",
@@ -4183,7 +4191,7 @@
     "title": "Lindy Fibre Optique Duplex LC/LC OM4, 5m",
     "price": 23.5,
     "reference_price": 28.93,
-    "discount_percent": 18.77,
+    "discount_percent": 18.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00WDYFZYC",
     "image_url": "https://m.media-amazon.com/images/P/B00WDYFZYC.01._AC_SL1500_.jpg",
@@ -4208,7 +4216,7 @@
     "title": "CHERRY DW 9000 SLIM, ensemble ...ppe silencieuse, Blanc argenté",
     "price": 57.6,
     "reference_price": 89.08,
-    "discount_percent": 35.34,
+    "discount_percent": 35.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B001NZWI0Q",
     "image_url": "https://m.media-amazon.com/images/P/B001NZWI0Q.01._AC_SL1500_.jpg",
@@ -4233,7 +4241,7 @@
     "title": "Bosch 1000x Agrafes à dos étroit, résinifiées, type 55",
     "price": 22.85,
     "reference_price": 29.99,
-    "discount_percent": 23.81,
+    "discount_percent": 23.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B001419E24",
     "image_url": "https://m.media-amazon.com/images/P/B001419E24.01._AC_SL1500_.jpg",
@@ -4258,7 +4266,7 @@
     "title": "Facom NKD.500 Coffret De Douilles Impact 12 Pans 3/4",
     "price": 627.84,
     "reference_price": 848.17,
-    "discount_percent": 25.98,
+    "discount_percent": 26.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00U78PCOY",
     "image_url": "https://m.media-amazon.com/images/P/B00U78PCOY.01._AC_SL1500_.jpg",
@@ -4333,7 +4341,7 @@
     "title": "Gillette Venus Lot De 4 Rechar...mes Conçus Pour Corps Et Poils",
     "price": 10.94,
     "reference_price": 16.95,
-    "discount_percent": 35.46,
+    "discount_percent": 35.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DW47DN2F",
     "image_url": "https://m.media-amazon.com/images/P/B0DW47DN2F.01._AC_SL1500_.jpg",
@@ -4358,7 +4366,7 @@
     "title": "SEVERIN Friteuse à air chaud 2...n poulet entier, noir, FR 2446",
     "price": 99.9,
     "reference_price": 114.99,
-    "discount_percent": 13.12,
+    "discount_percent": 13.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0BW3Z3X4W",
     "image_url": "https://m.media-amazon.com/images/P/B0BW3Z3X4W.01._AC_SL1500_.jpg",
@@ -7426,6 +7434,94 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "display ALTERED de Skybound Odyssey - 36 Boosters offerte (anglais)",
+    "description": "20€ - Philibert Net À partir de 20€ de produits Altered achetés, une display de Skybound Odyssey - 36 Boosters offerte (anglais)",
+    "price": 20.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/display-altered-de-skybound-odyssey-36-boosters-offerte-anglais-3432256",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8zIE6/3432256_1/re/1200x1200/qt/90/3432256_1.jpg",
+    "detected_at": "2026-10-14T09:43:55+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-14T09:48:09.977601+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jouet de construction Lego Speed Champion 77256 - La Machine à Remonter le Temps de Retour vers le Futur",
+    "description": "18,89€ - JoyBuy",
+    "price": 18.89,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77256-la-machine-a-remonter-le-temps-de-retour-vers-le-futur-3432254",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/voff8/3432254_1/re/1200x1200/qt/90/3432254_1.jpg",
+    "detected_at": "2026-10-14T09:42:30+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.89,
+        "observed_at": "2026-10-14T09:48:09.977601+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Précommande / Fnac+] L'Odyssée (2026) Édition Collector Spéciale Fnac en SteelBook Blu-ray 4K Ultra HD (+5€ sur la cagnotte)",
+    "description": "34,99€ - Fnac Pour ceux qui sont intéressés par la version steelbook collector Fnac. Offre Adhérent : 5 € offerts sur votre compte fidélité pour l'achat de cet article ! Offre réservée aux adhérents valable uniquement sur Fnac.com (produits vendus et expédiés par fnac.com uniquement). Synopsis: L’Odyssée (The Odyssey) est un péplum mythologique d’aventure et de fantastique écrit et réalisé par Christopher Nolan, d’après le poème épique d’Homère. Le récit suit Ulysse, roi d’Ithaque, dans son périlleux voyage de retour après la guerre de Troie, marqué par ses rencontres avec Polyphème, les Sirènes, Calypso et Circé. Matt Damon incarne Ulysse, tandis que Tom Holland interprète son fils Télémaque. Anne Hathaway joue Pénélope et Robert Pattinson tient le rôle d’Antinoos. Édition SteelBook • Spéciale FNAC Disques: 3 Contenu: • 1 disque Blu-ray 4K UHD du film • 2 disques Blu-ray BD-50 Version Originale: DTS-HD MA 5.1 Version Française: DTS 5.1 Audio +: Anglais DTS-HD MA 5.1, Français, Allemand, Italien DTS 5.1 Sous-titres: Français, Néerlandais, Allemand, Italien, Anglais pour sourds et malentendants. Bonus: LES COULISSES DU TOURNAGE – Supervisée par Christopher Nolan lui-même, cette collection de 12 contenus exclusifs vous emmène au cœur de la création de L’ODYSSÉE. À travers des images inédites du tournage et des entretiens avec le réalisateur, les acteurs et les principaux membres de l’équipe, découvrez les coulisses de cette production hors norme et tout le travail artistique et technique qui a permis de donner vie au célèbre récit d’Homère. DÉFINIR LE CAP – Découvrez comment Christopher Nolan a relevé le défi de taille que représentait l’adaptation d’un grand classique de la littérature en une épopée cinématographique. ICÔNES – Casting, costumes, coiffure, maquillage et interprétation se conjuguent pour donner vie aux personnages emblématiques de L’ODYSSÉE. LA FENÊTRE ULTIME – Découvrez comment Christopher Nolan a concrétisé un rêve de cinéma de longue date, repoussant les limites du septième art pour franchir un cap sans précédent. DES DÉCORS RÉELS – Suivez les acteurs et l’équipe aux quatre coins du monde, affrontant des conditions extrêmes pour filmer certains des paysages les plus extraordinaires de la planète. LE CHEVAL – Le cheval de Troie est l’une des ruses les plus célèbres de l’Histoire. Pour le film, il a été entièrement repensé afin de rendre cette incroyable supercherie aussi réaliste que possible. LA CHUTE DE TROIE – Plongez au cœur d’un immense décor construit au Maroc, où des projecteurs spéciaux recréent les flammes tandis que des armées entières brandissent leurs épées, dans des scènes à l’ampleur spectaculaire. ITHAQUE – En associant un château du XVe siècle situé sur l’île italienne de Favignana à des décors intérieurs construits en studio, les cinéastes donnent vie à la demeure qu’Ulysse est déterminé à retrouver. PRÊTS POUR LA BATAILLE – Matt Damon, Tom Holland et l’équipe des cascadeurs unissent leurs forces pour donner un réalisme et une intensité saisissants aux impressionnantes scènes d’action du film. MAGIE APPARENTE – Découvrez comment les équipes des effets spéciaux et des effets visuels ont travaillé main dans la main pour donner vie aux éléments fantastiques du film avec un réalisme époustouflant. LE PEUPLE DE LA MER – Des navires vikings réaménagés, des conditions de navigation difficiles en haute mer et des effets de tempête immersifs donnent vie au périlleux voyage d’Ulysse. LA MUSIQUE – Le compositeur Ludwig Göransson ouvre les portes de son studio et dévoile comment instruments anciens, voix et expérimentations ont façonné la bande originale intime et poignante de L’ODYSSÉE. LE CHEMIN DU RETOUR – Découvrez les étapes de la postproduction, où un travail de montage minutieux et une conception sonore immersive viennent parachever le film. L’ODYSSÉE, ÉPOPÉE FILMIQUE – Reece Feldman, créateur de contenu, interroge Christopher Nolan sur les coulisses de la postproduction et les étapes qui suivent le",
+    "price": 34.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/precommande-adherent-fnac-lodyssee-2026-edition-collector-speciale-fnac-steelbook-blu-ray-4k-ultra-hd-5eur-sur-votre-compte-fidelite-3432253",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pN8QU/3432253_1/re/1200x1200/qt/90/3432253_1.jpg",
+    "detected_at": "2026-10-14T09:37:51+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.fnac.com/a23410776/L-Odyssee-2026-Edition-Collector-Speciale-Fnac-SteelBook-Blu-ray-4K-Ultra-HD-Matt-Damon-Blu-ray-4K#omnsearchpos=1",
+    "price_history": [
+      {
+        "price": 34.99,
+        "observed_at": "2026-10-14T09:48:09.977601+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jouet Lego Toy Story Serre Livres Zigzag (43301)",
+    "description": "106,24€ - Carrefour 1 acheté = 15% de remise soit l'unité à 106,24 au lieu de 124,99 Offre valable jusqu'au 18/10/2026 Valable sur différents Lego",
+    "price": 106.24,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-serre-livres-zigzag-toy-story-43301-lego-3432252",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ih5MH/3432252_1/re/1200x1200/qt/90/3432252_1.jpg",
+    "detected_at": "2026-10-14T09:37:36+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.carrefour.fr/p/lego-serre-livres-zigzag-toy-story-43301-lego-5702018066898",
+    "price_history": [
+      {
+        "price": 106.24,
+        "observed_at": "2026-10-14T09:48:09.977601+00:00"
       }
     ]
   },
