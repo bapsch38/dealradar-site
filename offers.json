@@ -1,5 +1,47 @@
 [
   {
+    "title": "Haier Air Fryer XXL I-Master S...r, Avec Ensemble d’Accessoires",
+    "price": 149.9,
+    "reference_price": 179.5,
+    "discount_percent": 16.49,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CKYZ3NHR",
+    "image_url": "https://m.media-amazon.com/images/P/B0CKYZ3NHR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:38:11",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 149.9,
+        "observed_at": "2026-10-14T11:38:50.729410+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO 526152 Daras Robinet d'...52, Silgranite Noir, Hochdruck",
+    "price": 90.99,
+    "reference_price": 103.25,
+    "discount_percent": 11.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0865R36ZS",
+    "image_url": "https://m.media-amazon.com/images/P/B0865R36ZS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:38:10",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 90.99,
+        "observed_at": "2026-10-14T11:38:50.729410+00:00"
+      }
+    ]
+  },
+  {
     "title": "Blanco 523390 CLARON 500-IF Év...r Durinox, 500 mm Beckenbreite",
     "price": 717.43,
     "reference_price": 813.99,
@@ -360,7 +402,7 @@
     "title": "CASO MG 20 Ceramic Menu - Micr...cier inoxydable, façade miroir",
     "price": 153.44,
     "reference_price": 185.38,
-    "discount_percent": 17.23,
+    "discount_percent": 17.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01CR1EX9I",
     "image_url": "https://m.media-amazon.com/images/P/B01CR1EX9I.01._AC_SL1500_.jpg",
@@ -381,7 +423,7 @@
     "title": "SAMSUNG Réfrigérateur 3 portes RF50C530ES9",
     "price": 1008.83,
     "reference_price": 1149.37,
-    "discount_percent": 12.23,
+    "discount_percent": 12.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CLPH9VCN",
     "image_url": "https://m.media-amazon.com/images/P/B0CLPH9VCN.01._AC_SL1500_.jpg",
@@ -402,7 +444,7 @@
     "title": "Dyson PencilWash, Nettoyeur de...age Rapide, 30 Min d’autonomie",
     "price": 199.0,
     "reference_price": 299.0,
-    "discount_percent": 33.44,
+    "discount_percent": 33.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0GJT26L7Z",
     "image_url": "https://m.media-amazon.com/images/P/B0GJT26L7Z.01._AC_SL1500_.jpg",
@@ -423,7 +465,7 @@
     "title": "StarTech.com Support Double Éc...r/Inclinaison/Rotation/Tourner",
     "price": 123.34,
     "reference_price": 159.08,
-    "discount_percent": 22.47,
+    "discount_percent": 22.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B082986GRX",
     "image_url": "https://m.media-amazon.com/images/P/B082986GRX.01._AC_SL1500_.jpg",
@@ -444,7 +486,7 @@
     "title": "Série 4, Machine à laver front..., max. 1400 tr/min, WAN2827UFR",
     "price": 431.82,
     "reference_price": 489.99,
-    "discount_percent": 11.87,
+    "discount_percent": 11.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0GQZS86NX",
     "image_url": "https://m.media-amazon.com/images/P/B0GQZS86NX.01._AC_SL1500_.jpg",
@@ -465,7 +507,7 @@
     "title": "Calor - Silence Soft Epilateur...e précision - 24 pinces - Rose",
     "price": 29.98,
     "reference_price": 39.99,
-    "discount_percent": 25.03,
+    "discount_percent": 25.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00J4A8EJQ",
     "image_url": "https://m.media-amazon.com/images/P/B00J4A8EJQ.01._AC_SL1500_.jpg",
@@ -486,7 +528,7 @@
     "title": "RWEV 1600-2 * Agitateur",
     "price": 251.22,
     "reference_price": 287.64,
-    "discount_percent": 12.66,
+    "discount_percent": 12.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0B9LS45KZ",
     "image_url": "https://m.media-amazon.com/images/P/B0B9LS45KZ.01._AC_SL1500_.jpg",
@@ -528,7 +570,7 @@
     "title": "LINDY 36491 Câble DisplayPort 1 M Noir",
     "price": 7.3,
     "reference_price": 13.26,
-    "discount_percent": 44.95,
+    "discount_percent": 44.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07DFMNFST",
     "image_url": "https://m.media-amazon.com/images/P/B07DFMNFST.01._AC_SL1500_.jpg",
@@ -549,7 +591,7 @@
     "title": "BS 200 Plus * Ponceuse à bande combinée",
     "price": 256.0,
     "reference_price": 365.94,
-    "discount_percent": 30.04,
+    "discount_percent": 30.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0BCZRG24R",
     "image_url": "https://m.media-amazon.com/images/P/B0BCZRG24R.01._AC_SL1500_.jpg",
@@ -570,7 +612,7 @@
     "title": "C Amir (Édition Limitée)",
     "price": 9.54,
     "reference_price": 14.99,
-    "discount_percent": 36.36,
+    "discount_percent": 36.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D98P965J",
     "image_url": "https://m.media-amazon.com/images/P/B0D98P965J.01._AC_SL1500_.jpg",
@@ -591,7 +633,7 @@
     "title": "LINDY Câble fibre optique hybride DP 2.0 UHBR10 10 m",
     "price": 172.89,
     "reference_price": 208.22,
-    "discount_percent": 16.97,
+    "discount_percent": 17.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0C591CPQT",
     "image_url": "https://m.media-amazon.com/images/P/B0C591CPQT.01._AC_SL1500_.jpg",
@@ -612,7 +654,7 @@
     "title": "douceur d'intérieur, Brosse WC...t Blanc, Polystyrène et Bambou",
     "price": 11.49,
     "reference_price": 16.98,
-    "discount_percent": 32.33,
+    "discount_percent": 32.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09G36D37S",
     "image_url": "https://m.media-amazon.com/images/P/B09G36D37S.01._AC_SL1500_.jpg",
@@ -7673,6 +7715,94 @@
     ]
   },
   {
+    "title": "Set de Clés en croix Parkside PRSK 6 B2 - Avec repose-genoux, 6 pièces",
+    "description": "18,99€ - Lidl Set : 6 pièces Caractéristique : Manomètre de pression des pneus avec échelle en psi et bar PARKSIDE® Set de clés en croix, PRSK 6 B2 avec repose-genoux, 6 pièces Caractéristiques Set d'outils pour voiture avec repose-genoux pratique 2-en-1 : support confortable et rangement peu encombrant Clé en croix avec 4 ouvertures de clé courantes pour les boulons de roue de voiture Le repose-genoux s'adapte au genou et reprend sa forme d'origine Manomètre de pression des pneus avec échelle en psi et bar Jauge de profondeur de profil de pneu avec échelle de vernier par pas de 0,1 mm pour une détermination précise de la profondeur de profil Lampe d'inspection LED avec lumière spot et latérale, aimant pratique et crochet – 3 piles incluses, 1,5 V⎓ (AAA/LR03) Craie de marquage pour identifier les pneus stockés Ouverture de clé de la clé en croix : 17, 19, 21, 23 mm Plage de mesure de la pression des pneus : 10–100 psi/0,7–6,8 bar Plage de mesure de la profondeur de profil : 0–50 mm Puissance de la lumière spot/latérale : 1 W/3 W Couleur de la craie de marquage : Blanc",
+    "price": 18.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/set-de-cles-en-croix-parkside-prsk-6-b2-avec-repose-genoux-6-pieces-3432328",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/JimNj/3432328_1/re/1200x1200/qt/90/3432328_1.jpg",
+    "detected_at": "2026-10-14T11:34:47+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-14T11:38:50.729410+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SSD interne Biwin Black Opal NV3500 M.2 - 1 To (vendeur tiers)",
+    "description": "139,99€ - Amazon Biwin Black Opal NV3500 M.2 SSD 1 to, PCIe Gen 3x4 NVMe 1.4 avec Cache HMB et SLC, Vitesse de Lecture jusqu'à 3500 Mo/s, Disque SSD Interne pour Ordinateur Portable et Ordinateur de Bureau",
+    "price": 139.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/biwin-black-opal-nv3500-m2-ssd-1-to-3432327",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/VNj9t/3432327_1/re/1200x1200/qt/90/3432327_1.jpg",
+    "detected_at": "2026-10-14T11:33:56+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0DBV3456H?smid=A2U990HR97BSAP",
+    "price_history": [
+      {
+        "price": 139.99,
+        "observed_at": "2026-10-14T11:38:50.729410+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Étagère De Garage GoodHome Ryle - En Acier Thermo-laqué H.179 x L.75 x P.35 cm, Noir",
+    "description": "19,90€ - Castorama L'étagère de garage GoodHome Ryle en acier thermo-laqué noir est une solution de stockage robuste et pratique. Idéale pour les garages, ateliers ou caves, elle s'assemble rapidement sans outils grâce à son système de clipsage innovant. Ses plateaux en HDF et sa structure résistante assurent une stabilité maximale. Sa garantie de 10 ans en fait un choix durable pour ranger vos outils et charges lourdes en toute sécurité Caractéristiques : - Dimensions: H.179 x L.75 x P.35 cm - Matériau: acier thermo-laqué noir - Capacité de charge totale: 500 kg - Capacité de charge par plateau: 100 kg - Plateaux réglables en HDF - Assemblage sans outils avec système de clipsage - Fabriquée en Europe - Idéale pour garages, ateliers ou caves",
+    "price": 19.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/etagere-de-garage-en-acier-thermo-laque-noir-h179-x-l75-x-p35-cm-goodhome-ryle-3432326",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/59QnC/3432326_1/re/1200x1200/qt/90/3432326_1.jpg",
+    "detected_at": "2026-10-14T11:33:21+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.castorama.fr/etagere-de-garage-en-acier-thermo-laque-noir-h-179-x-l-75-x-p-35-cm-goodhome-ryle/5063022514233_CAFR.prd",
+    "price_history": [
+      {
+        "price": 19.9,
+        "observed_at": "2026-10-14T11:38:50.729410+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Armani Emporio Armani You Stronger With You Intensely 150 ml",
+    "description": "78,51€ - Parfumdreams Stronger With You Intensely de Giorgio Armani est un parfum qui dégage une aura confiante et chaleureuse, basée sur une signature fougère intense. Cette composition s'ouvre sur une note de tête vive, dans laquelle l'épice piquante du poivre rose rencontre les accents frais du genévrier et de la feuille de violette. Par la suite, le cœur de la fragrance se déploie et révèle une tension fascinante : des notes aromatiques de lavande et de sauge sont enveloppées d'une facette inattendue et gourmande de cannelle et de caramel crémeux. Cette association confère au parfum un centre à la fois moderne et attirant. La note de fond assure une conclusion durable et marquante. Un mélange de vanille chaude, de fève tonka et de bois d'ambre se fond ici dans un doux accord de daim qui confère à l'Eau de Parfum sa profondeur inimitable et son caractère durable. Caractère du parfum : Un parfum de fougère intense avec un rayonnement épicé, chaud et gourmand. Notes clés : Une composition de poivre rose, de lavande, de caramel, de vanille et de daim. Type de parfum : Eau de Parfum longue durée avec une profondeur et une présence marquantes.",
+    "price": 78.51,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/armani-emporio-armani-you-stronger-with-you-intensely-150-ml-3432325",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/33KhG/3432325_1/re/1200x1200/qt/90/3432325_1.jpg",
+    "detected_at": "2026-10-14T11:33:21+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 78.51,
+        "observed_at": "2026-10-14T11:38:50.729410+00:00"
+      }
+    ]
+  },
+  {
     "title": "Mini PC Soyo M5 - Ryzen 3 4300U, RAM 16 Go LPDDR4, SSD 512 Go, Windows 11 Pro",
     "description": "179,55€ - AliExpress Capacité mémoire 16 Go Capacité du disque dur 512 GO Numéro de Modèle M5 Marque du processeur AMD Modèle de Processeur 4300U Type d'écriture MINI ORDINATEUR DE BUREAU Type de carte graphique Carte intégrée Nom de marque SOYO Origine CN (Origine) Type MINI-PC",
     "price": 179.55,
@@ -10214,7 +10344,7 @@
     "description": "32€ - Bexley Du 14 au 25 octobre, toutes les chemises sur le site et en magasin passent de 64 à 32€",
     "price": 32.0,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/toutes-les-chemises-bexley-a-moitie-prix-3432174",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/dtL8h/3432174_1/re/1200x1200/qt/90/3432174_1.jpg",
@@ -15025,50 +15155,6 @@
     "price_history": [
       {
         "price": 2.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Billet de train Ouigo Grande Vitesse Aix-en-Provence pour Paris dès 16€ - Plusieurs dates Ex : 4 Novembre 2026",
-    "description": "16€ - SNCF Connect Billet de train OUIGO Grand Speed Aix-en-Provence TGV vers l'Île-de-France - Dès 16€ (Plusieurs dates ex : 4/11 et 25/11) Billet de TGV OUIGO Grande Vitesse au départ d'Aix-en-Provence TGV à destination de la région parisienne (Paris Roissy-CDG 2 Airport ou Paris Marne-la-Vallée - Chessy - Disneyland). Disponible pour des trajets en novembre, notamment le mercredi 4 novembre de 16h43 à 19h51 et le mercredi 25 novembre de 18h42 à 22h02. https://www.sncf-connect.com/home/shop/results/outward Prix : 16€ D'autres billets de train disponible à partir de 19€ aussi donc n'hésiter pas à chercher sur le site de la sncf.",
-    "price": 16.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/billet-de-train-ouigo-grande-vitesse-aix-en-provence-pour-paris-des-16eur-plusieurs-dates-ex-4-novembre-2026-3431904",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jCJuX/3431904_1/re/1200x1200/qt/90/3431904_1.jpg",
-    "detected_at": "2026-10-13T18:25:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 16.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque sans fil Sennheiser Momentum 4 - Noir",
-    "description": "180,50€ - Amazon.de Casque sans fil Sennheiser Momentum 4 Wireless Copper Edition (ANC, 60h d’autonomie, aptX Adaptive) – 184,65 € (livraison incluse) @ Prix : 179 € Frais de port : 5,65 € Prix de référence : 212 € chez Amazon.fr (399,90 € prix catalogue Sennheiser) Description : Le Sennheiser Momentum 4 Wireless en version spéciale Copper (noir avec finitions cuivrées sur les coques et l’arceau) passe à 179 € chez Amazon Allemagne , soit 184,65 € livré en France . Le même modèle est à 212 € sur Amazon.fr, donc environ 27 € d’économie en passant par le .de. Caractéristiques principales : Transducteurs 42 mm, son signature Sennheiser Réduction de bruit active adaptative + mode transparence Jusqu’à 60 h d’autonomie (charge rapide : 10 min ≈ 6 h d’écoute) Bluetooth 5.2, multipoint (2 appareils) Codecs SBC, AAC, aptX Adaptive Écoute filaire via jack ou USB-C Commandes tactiles, détection de port (pause automatique) Égaliseur et réglages via l’app Sennheiser Smart Control Étui de transport fourni Points à savoir : Pliage à plat uniquement (pas repliable) ANC très bon mais un cran en dessous des Bose QC Ultra / Sony XM5-XM6",
-    "price": 180.5,
-    "reference_price": 212.0,
-    "discount_percent": 14.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sennheiser-momentum-4-wireless-copper-edition-3431903",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1AnZw/3431903_1/re/1200x1200/qt/90/3431903_1.jpg",
-    "detected_at": "2026-10-13T18:23:12+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 180.5,
         "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
