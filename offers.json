@@ -1,5 +1,110 @@
 [
   {
+    "title": "Brother TZe-SL651 Ruban auto-p...une 24 mm de large 8 m de long",
+    "price": 25.99,
+    "reference_price": 30.32,
+    "discount_percent": 14.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08J3MN5TJ",
+    "image_url": "https://m.media-amazon.com/images/P/B08J3MN5TJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 23:43:31",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lindy Câble actif Mini DisplayPort vers DVI-D, noir, 2m",
+    "price": 21.1,
+    "reference_price": 22.92,
+    "discount_percent": 7.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01MQYW54T",
+    "image_url": "https://m.media-amazon.com/images/P/B01MQYW54T.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 23:43:30",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 21.1,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wera 05134377001 Embout 867/1 ...BDC SB 1 x TX 25x25mm, Or/Vert",
+    "price": 3.7,
+    "reference_price": 11.44,
+    "discount_percent": 67.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00A8QUQM8",
+    "image_url": "https://m.media-amazon.com/images/P/B00A8QUQM8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 23:43:29",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.7,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
+      }
+    ]
+  },
+  {
+    "title": "OSRAM NIGHT BREAKER H1 LED; fi...LED H1 omologata per la strada",
+    "price": 113.03,
+    "reference_price": 117.66,
+    "discount_percent": 3.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CLPGB82B",
+    "image_url": "https://m.media-amazon.com/images/P/B0CLPGB82B.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 23:43:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 113.03,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wera 05005920001 8767 A VDE HF...tion de retenue, TX 10 x 36 mm",
+    "price": 14.16,
+    "reference_price": 29.3,
+    "discount_percent": 51.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F7HW4RG1",
+    "image_url": "https://m.media-amazon.com/images/P/B0F7HW4RG1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 23:43:26",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.16,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
+      }
+    ]
+  },
+  {
     "title": "C.K T49145-2 Tournevis dextro VDE MOD2 x 100",
     "price": 14.2,
     "reference_price": 15.99,
@@ -11007,114 +11112,15 @@
     ]
   },
   {
-    "title": "LEGO Creator 3-en-1 Le Dinosau...arçon ou Fille dès 8 Ans 31379",
-    "price": 17.34,
-    "reference_price": 24.99,
-    "discount_percent": 30.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FPXD9B3S",
-    "image_url": "https://m.media-amazon.com/images/P/B0FPXD9B3S.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:17:06",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 17.34,
-        "observed_at": "2026-10-13T12:17:54.931172+00:00"
-      },
-      {
-        "price": 17.34,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
-      }
-    ]
-  },
-  {
-    "title": "CUISINE ROYALE +PATISSERIES PLAYMOBIL PLL71848",
-    "price": 20.69,
-    "reference_price": 29.52,
-    "discount_percent": 29.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DQVPDLMS",
-    "image_url": "https://m.media-amazon.com/images/P/B0DQVPDLMS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:17:02",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 20.69,
-        "observed_at": "2026-10-13T12:17:54.931172+00:00"
-      },
-      {
-        "price": 20.69,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Botanicals Bouquet de Fleurs d'Olivia Rodrigo 11507",
-    "price": 34.99,
-    "reference_price": 42.99,
-    "discount_percent": 18.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GGSRL31C",
-    "image_url": "https://m.media-amazon.com/images/P/B0GGSRL31C.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 11:58:50",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 34.99,
-        "observed_at": "2026-10-13T11:59:50.729303+00:00"
-      },
-      {
-        "price": 34.99,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
-      }
-    ]
-  },
-  {
-    "title": "NUK Extra Cool Anneau de denti... et massant 3 mois Multicolore",
-    "price": 5.99,
-    "reference_price": 16.56,
-    "discount_percent": 63.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0793DGX6F",
-    "image_url": "https://m.media-amazon.com/images/P/B0793DGX6F.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 11:58:46",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-13T11:59:50.729303+00:00"
-      },
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Roulette jumelée Metafranc WU0...de charge (max.) 70 kg 4 pc(s)",
-    "price": 20.62,
-    "reference_price": 27.19,
-    "discount_percent": 24.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07M85MT1P",
-    "image_url": "https://m.media-amazon.com/images/P/B07M85MT1P.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 11:58:44",
+    "title": "Forfait mobile Carrefour : Appels/SMS/MMS Illimités avec 130 Go (via 2€ sur la carte fidélité par mois - Réseau Orange)",
+    "description": "8,90€ Forfait Carrefour Mobile 130 Go à 8,90 €/mois avec le Club Carrefour – Réseau Orange, sans engagement ! 130 Go d'internet mobile pour moins de 9 € par mois, sur le réseau Orange ? Voilà une offre plutôt intéressante pour ceux qui veulent réduire leur facture de téléphone sans se priver de data ! Carrefour Mobile propose son forfait Maxi 130 Go à 10,90 €/mois, avec 2 € reversés chaque mois sur la cagnotte Club Carrefour. Résultat : pour les détenteurs de la carte Club Carrefour, le coût revient à 8,90 €/mois après avantage fidélité. Et surtout, aucun engagement : vous pouvez résilier quand vous le souhaitez ! Ce que comprend le forfait : 130 Go d'internet mobile en France, sur le réseau 4G Orange. 19 Go utilisables depuis l'Europe et les DOM. Appels, SMS et MMS illimités en France métropolitaine et vers les DOM. Appels et SMS illimités depuis l'Europe et les DOM (hors MMS). Sans engagement. 2 € crédités chaque mois sur la cagnotte Club Carrefour. Combien ça coûte réellement ? Vous payez 10,90 € par mois sur votre facture téléphonique, puis Carrefour crédite 2 € sur votre cagnotte fidélité. Sur une année, cela représente 24 € cumulés sur votre cagnotte Club Carrefour, soit un coût net équivalent à 106,80 € par an, à condition d'utiliser cet avantage fidélité. ⚠️ Attention, les 2 € ne sont pas déduits directement de votre facture : ils sont reversés sur votre cagnotte Carrefour. Il s'agit bien d'un forfait 4G et non 5G. Pour ceux qui font régulièrement leurs courses chez Carrefour, c'est une façon plutôt maligne de récupérer quelques euros chaque mois tout en profitant d'une belle enveloppe internet ! �",
+    "price": 2.0,
+    "reference_price": 2.56,
+    "discount_percent": 21.9,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/forfait-mobile-carrefour-appelssmsmms-illimites-avec-130-go-via-2eur-sur-la-carte-fidelite-par-mois-reseau-orange-3432711",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/I0TFC/3432711_1/re/1200x1200/qt/90/3432711_1.jpg",
+    "detected_at": "2026-10-14T23:27:01+00:00",
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
@@ -11122,18 +11128,14 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 20.62,
-        "observed_at": "2026-10-13T11:59:50.729303+00:00"
-      },
-      {
-        "price": 20.62,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
+        "price": 2.0,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
       }
     ]
   },
   {
     "title": "Siège auto enfant Lionelo LARS (100 - 150 cm / 15 à 36 kg) – Groupe 2/3, Appui-tête réglable 6 positions",
-    "description": "39,90€ - Amazon Siège auto évolutif pour enfant Lionelo LARS (adapté aux enfants de 15 à 36 kg, soit 100 à 150 cm / Groupe 2/3). Proposé au tarif exceptionnel de 39,90 € au lieu de 64,90 € sur Amazon avec la livraison gratuite Prime. Plus bas prix historique : D'après l'historique des prix Amazon, ce siège est habituellement vendu entre 56 € et 65 € tout au long de l'année. À 39,90 € , il atteint son prix le plus bas absolu enregistré sur les 30 derniers jours et sur 1 an ! Points forts et caractéristiques techniques : • Rapport qualité/prix imbattable : Un siège auto sécurisé, confortable et évolutif pour moins de 40 €. • Sécurité renforcée (Conception Impactguard) : Structure équipée de renforts latéraux et d'une technologie d'absorption des chocs pour protéger efficacement la tête et les épaules de l'enfant en cas d'impact. • Évolutif & Ergonomique : Appui-tête réglable facilement sur 6 positions pour accompagner la croissance de l'enfant au fil des années. • Confort de route : Assise rembourrée avec mousse haute densité et accoudoirs ergonomiques pour un maintien optimal sur les longs trajets. • Entretien très facile : Housse de protection amovible et lavable en machine pour un nettoyage simple au quotidien. • Installation rapide : Fixation universelle et sécurisée à l'aide de la ceinture de sécurité 3 points du véhicule.",
+    "description": "39,90€ - Amazon Siège auto évolutif pour enfant Lionelo LARS (adapté aux enfants de 15 à 36 kg, soit 100 à 150 cm / Groupe 2/3). Proposé au tarif exceptionnel de 39,90 € au lieu de 64,90 € sur Amazon avec la livraison gratuite Prime. Plus bas prix historique : D'après l'historique des prix Amazon, ce siège est habituellement vendu entre 56 € et 65 € tout au long de l'année. À 39,90 € , il atteint son prix le plus bas absolu enregistré sur les 30 derniers jours et sur 1 an ! Points forts et caractéristiques techniques : • Rapport qualité/prix imbattable : Un siège auto sécurisé, confortable et évolutif pour moins de 40 €. • Sécurité renforcée (Conception Impactguard) : Structure équipée de renforts latéraux et d'une technologie d'absorption des chocs pour protéger efficacement la tête et les épaules de l'enfant en cas d'impact. • Évolutif & Ergonomique : Appui-tête réglable facilement sur 6 positions pour accompagner la croissance de l'enfant au fil des années. • Confort de route : Assise rembourrée avec mousse haute densité et accoudoirs ergonomiques pour un maintien optimal sur les longs trajets. • Entretien très facile : Housse de protection amovible et lavable en machine pour un nettoyage simple au quotidien. • Installation rapide : Fixation universelle et sécurisée à l'aide de la ceinture de sécurité 3 points du véhicule. À propos de ce produit CONCEPTION IMPACTGUARD: Grâce à une technologie spéciale, le siège absorbe les chocs et minimise l'impact des forces d'accélération sur l'enfant en cas d'accident. Il s'adapte à toutes les voitures et permet une installation universelle face à la route ASSISE CONFORTABLE: le siège pour enfants est doté d'une assise profonde et large recouverte de mousse EPE, qui absorbe les chocs et assurele confort d'assise de l'enfant. Le confort est également assuré par des accoudoirs confortables qui maintiennent la ceinture dans la bonne position. Le dossier peut être retiré pour faciliter le rangement du siège SÉCURITÉ: fabriqué en mousse à mémoire de forme Memory Foam, l'appui-tête absorbe toutes les tensions et améliore la sécurité du petit passager. La plage de réglage à 10 niveaux de l'appui-tête vous permet d'adapter efficacement le siège à la croissance de votre enfant PROTECTION LATÉRALE: des panneaux spéciaux absorbent les forces d'accélération lors des chocs latéraux et arrière, offrant ainsi une plus grande sécurité de tous les côtés SÉCURITÉ TOTALE: le siège auto de voyage Lars a fait l'objet de tests en plusieurs étapes, à la fois en interne et auprès d'un organisme de certification indépendant. Il est conforme à la norme de sécurité européenne i-Size R129 Commentaires client",
     "price": 39.9,
     "reference_price": 64.9,
     "discount_percent": 38.5,
@@ -23396,6 +23398,10 @@
       {
         "price": 20.0,
         "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      },
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
       }
     ]
   },
@@ -23418,6 +23424,10 @@
       {
         "price": 99.99,
         "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      },
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
       }
     ]
   },
@@ -23440,6 +23450,10 @@
       {
         "price": 60.5,
         "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      },
+      {
+        "price": 60.5,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
       }
     ]
   },
@@ -23462,6 +23476,10 @@
       {
         "price": 82.99,
         "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      },
+      {
+        "price": 82.99,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
       }
     ]
   },
@@ -23484,6 +23502,10 @@
       {
         "price": 8.0,
         "observed_at": "2026-10-13T23:35:12.715032+00:00"
+      },
+      {
+        "price": 8.0,
+        "observed_at": "2026-10-14T23:44:50.056445+00:00"
       }
     ]
   },
@@ -24979,58 +25001,6 @@
       },
       {
         "price": 46.55,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur Balai sans fil 2-en-1 HKoenig UP600 Powerclean (Via Coupon)",
-    "description": "54,90€ - JoyBuy Aspirateur balai sans fil et multifonction H.Koenig UP600 PowerClean. Ultra léger (environ 1,1 kg), il se convertit en aspirateur à main en un clic pour nettoyer facilement les sols, meubles, escaliers et l'intérieur des véhicules. Points forts et caractéristiques : • Tarif à 54,90 € via coupon : S'obtient en appliquant le coupon de réduction de 25 € disponible dès 50 € d'achats sur la page du produit. • Utilisation 2-en-1 : Passsage rapide de la fonction aspirateur balai à l'aspirateur à main pour toutes les surfaces en hauteur. • Système cyclonique sans sac : Réservoir à poussière transparent d'une capacité généreuse de 0,8 litre, simple à vider. • Batterie Lithium 22.2V : Offre jusqu'à 30 à 40 minutes d'autonomie selon la vitesse sélectionnée. • Accessoires et rangement : Livré avec son support mural de charge, une brosse motorisée, un suceur plat et une brosse ronde.",
-    "price": 54.9,
-    "reference_price": 94.27,
-    "discount_percent": 41.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/via-coupon-de-25eur-aspirateur-balai-sans-fil-2-en-1-hkoenig-up600-powerclean-3431944",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/S1jKk/3431944_1/re/1200x1200/qt/90/3431944_1.jpg",
-    "detected_at": "2026-10-13T19:32:14+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 54.9,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 54.9,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de construction Lego Speed Champions 77238 Lamborghini Revuelto & Huracán STO",
-    "description": "31,99€ - Carrefour • Jouets voitures pour garçon ou fille dès 10 ans – Les enfants & les fans de course automobile peuvent construire, exposer & piloter ces 2 répliques de voitures LEGO Speed Champions • 2 minifigurines de pilotes – Chaque maquette de voiture Lamborghini s’accompagne d’une minifigurine de pilote portant une combinaison et un casque dédiés • Design Lamborghini authentique – Chaque modèle de voiture de course présente des détails de conception identiques aux véhicules d'origine, dont les prises d’air, les ailerons & les optiques futuristes en forme de Y • Jouets de construction à exposer comme décoration – Après des heures de jeu en autonomie, les enfants peuvent exposer les véhicules sur une étagère ou leur table de chevet • Voitures à offrir aux fans de sport automobile – Ce set LEGO Lamborghini est une belle idée de cadeau à offrir à un garçon ou une fille de 10 ans et plus ou à un adulte collectionneur de voitures • Une façon amusante de construire – L’application LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive : ils peuvent sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter les modèles en 3D • Des voitures à construire, pour jouer et exposer – Les sets LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-uns des véhicules les plus mythiques au monde",
-    "price": 31.99,
-    "reference_price": 37.99,
-    "discount_percent": 15.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77238-lamborghini-revuelto-huracan-sto-3431942",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HseQL/3431942_1/re/1200x1200/qt/90/3431942_1.jpg",
-    "detected_at": "2026-10-13T19:28:30+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 31.99,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 31.99,
         "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
