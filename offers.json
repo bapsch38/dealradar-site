@@ -1,5 +1,47 @@
 [
   {
+    "title": "WELLA Color Fresh Mascarilla Rubio Perla, 150 ml",
+    "price": 16.09,
+    "reference_price": 19.15,
+    "discount_percent": 16.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07TLDVXJG",
+    "image_url": "https://m.media-amazon.com/images/P/B07TLDVXJG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 20:49:45",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.09,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lanberg Cable de Extensión Aco...13 Macho/Hembra 1.8m VDE Negro",
+    "price": 10.81,
+    "reference_price": 13.04,
+    "discount_percent": 17.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B079ZMR34B",
+    "image_url": "https://m.media-amazon.com/images/P/B079ZMR34B.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 20:49:45",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 10.81,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
+  },
+  {
     "title": "Bosch Pistolet à peinture sans...l ; syst. 18V ; sans batterie)",
     "price": 114.73,
     "reference_price": 121.38,
@@ -6779,6 +6821,10 @@
       {
         "price": 7.3,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 7.3,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6800,6 +6846,10 @@
       {
         "price": 256.0,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 256.0,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6821,6 +6871,10 @@
       {
         "price": 9.54,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 9.54,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6842,6 +6896,10 @@
       {
         "price": 172.89,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 172.89,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6863,6 +6921,10 @@
       {
         "price": 11.49,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 11.49,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6884,6 +6946,10 @@
       {
         "price": 27.76,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 27.76,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6905,6 +6971,10 @@
       {
         "price": 16.99,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6926,6 +6996,10 @@
       {
         "price": 10.32,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 10.32,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6947,6 +7021,10 @@
       {
         "price": 5.21,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 5.21,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6968,6 +7046,10 @@
       {
         "price": 29.58,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 29.58,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -6989,6 +7071,10 @@
       {
         "price": 14.99,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -11118,52 +11204,156 @@
     ]
   },
   {
-    "title": "Bandai - Stumble Guys - Banana...t Enfant 2 Ans et + - PMS7008D",
-    "price": 18.35,
-    "reference_price": 28.99,
-    "discount_percent": 36.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CW9ZG5DF",
-    "image_url": "https://m.media-amazon.com/images/P/B0CW9ZG5DF.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 08:30:05",
-    "category": "Bébé & enfants",
+    "title": "Ensemble Matelas Ressorts Simon 160x200 cm - Ép. 20 cm avec 2 oreillers",
+    "description": "169,99€ - BUT Commandable uniquement sur internet - non disponible en magasin, retrait en magasin ou livraison en point relais à 15€ et à domicile pour 30€ ! Descriptif produit L'Ensemble matelas ressorts 160x200 cm ép. 28 cm avec avec 2 oreillers SIMON combine confort et fonctionnalité pour un sommeil réparateur . Ce matelas à ressorts ensachés, avec ses 690 ressorts, assure une indépendance de couchage optimale , idéale pour éviter toute perturbation des mouvements pendant la nuit, et favorise une meilleure circulation de l'air pour un couchage plus sain. Grâce à son épaisseur de 28 cm, il garantit un confort enveloppant, parfait pour s'adapter aux positions de sommeil variées. Parfait pour deux personnes, ce matelas est conçu pour offrir le meilleur maintien, quelle que soit votre morphologie. Les deux oreillers à mémoire de forme, d'une dimension de 50x70 cm, ajoutent une touche de personnalisation supplémentaire à votre confort, épousant parfaitement la forme de la tête et du cou. Livré roulé, ce matelas facilitera son installation dans votre chambre sans encombre. Ce produit bénéficie de la garantie légale minimale de deux ans, pour plus de détails",
+    "price": 169.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ensemble-matelas-ressorts-160x200-cm-ep-20-cm-avec-2-oreillers-simon-3432671",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/q6pzb/3432671_1/re/1200x1200/qt/90/3432671_1.jpg",
+    "detected_at": "2026-10-14T20:37:43+00:00",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 18.35,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      },
-      {
-        "price": 18.35,
-        "observed_at": "2026-10-14T08:48:30.564398+00:00"
+        "price": 169.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
   {
-    "title": "JUDUKU Jeux de société Girl'z ...u Jeu de Société - Girls Night",
-    "price": 24.99,
-    "reference_price": 30.0,
-    "discount_percent": 16.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0C7D3V237",
-    "image_url": "https://m.media-amazon.com/images/P/B0C7D3V237.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 08:30:04",
-    "category": "Jouets & jeux",
+    "title": "Écran PC 24\" HKC G24H3D - IPS, FHD, 240Hz (260Hz OC), HDR400, VESA 100X100",
+    "description": "87,16€ - Cdiscount • L’écran 24’’ HKC G24H3D gaming offre une immersion totale grâce à sa dalle Fast IPS Full HD 1920x1080, combinée à un taux de rafraîchissement ultra‑rapide de 240 Hz et un temps de réponse de 1 ms pour une fluidité incomparable. Avec un contraste de 1000:1 et une luminosité de 350 cd/m², il délivre des images précises, lumineuses et réactives, idéales pour le gaming. Ses connectiques 2xHDMI et DisplayPort assurent une compatibilité optimale, tandis que la fixation VESA 100x100 et le pied inclinable offrent une installation simple et confortable. Son design noir élégant et son pied fixe complètent parfaitement votre setup gaming. Écran Fast IPS 23,8 pouces offre une réactivité rapide pour le gaming - Taux de rafraîchissement de 240 Hz pour des mouvements ultra-fluides - HDR400 procure une luminosité et des contraste élevés - 90 % DCI-P3 pour des couleurs vives et précises - Pied fixe",
+    "price": 87.16,
+    "reference_price": 109.99,
+    "discount_percent": 20.8,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-24-hkc-g24h3d-ips-fhd-240hz-260hz-oc-hdr400-vesa-100x100-3432670",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/S1GLh/3432670_1/re/1200x1200/qt/90/3432670_1.jpg",
+    "detected_at": "2026-10-14T20:37:03+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 24.99,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      },
+        "price": 87.16,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casserole Inox non Revêtue Tefal Ingenio Daily Cook - 16 cm, tous feux, full inox (12,99€ casserole 20 cm) - Via Retrait Magasin",
+    "description": "11,49€ - Auchan Aussi dispo en 20 cm 12,99€ au lieu de 25,99€ Casserole inox non revêtue 20cm tous feux dont induction INGENIO DAILY COOK Caractéristiques générales Type de feux Tous feux dont induction Couleur Gris Type de cuisson Tous feux dont induction Composition Matière de la poignée Non concerné Revêtement anti adhésif Non Matière Acier inoxydable Revêtement intérieur Acier inoxydable Composition du lot Ingenio Daily Cook Casserole 16 cm en acier inoxydable, empilable Dimensions et poids Poids 0.48 kg Hauteur 10 cm Largeur 27.3 cm Longueur 27.3 cm Diamètre 16 cm Dimensions 27.3 x 27.3 x 10 cm Contact Adresse du responsable UE 112 du Chemin Moulin Carron, Chemin du Moulin Carron, 69134 Ecully, France Responsable en UE GROUPE SEB France S.A.S., https://groupe-seb.my.salesforce-sites.com/webform?language=fr&country=FR&brand=tefal Caractéristiques techniques Type de poignée(s) Amovible Compatibilité lave-vaisselle Oui Système de poignée Amovible Contenance 2 l Réf / EAN : 413744 / 3168430361157",
+    "price": 12.99,
+    "reference_price": 25.99,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casserole-inox-non-revetue-tefal-ingenio-daily-cook-16-cm-tous-feux-full-inox-1299eur-casserole-20-cm-3432667",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4xrrN/3432667_1/re/1200x1200/qt/90/3432667_1.jpg",
+    "detected_at": "2026-10-14T20:35:43+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.auchan.fr/tefal-casserole-inox-non-revetue-20cm-tous-feux-dont-induction-ingenio-daily-cook/pr-C1830634",
+    "price_history": [
       {
-        "price": 24.99,
-        "observed_at": "2026-10-14T08:48:30.564398+00:00"
+        "price": 12.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ecran PC 27\" Ochama - 2K, QHD, 180Hz",
+    "description": "129€ - JoyBuy Grand écran de 27 pouces : ce moniteur dispose d'un grand écran de 27 pouces, offrant un champ de vision large adapté aux jeux vidéo et à l'utilisation bureautique. Taux de rafraîchissement élevé de 180 Hz : prend en charge un taux de rafraîchissement élevé de 180 Hz, assurant un gameplay fluide et réduisant le flou de mouvement et le déchirage d'écran. Résolution HD 2K : offre une résolution HD 2K, fournissant des images claires et détaillées pour améliorer l'expérience visuelle. Conception à bord très fin : présente une conception à bord très fin, maximisant la zone visible de l'écran et idéale pour les configurations à plusieurs moniteurs. Double usage pour le jeu et le bureau : conçu pour répondre aux besoins de jeu et de bureau, adapté au multitâche et aux expériences de jeu immersives. Résolution maximale 2560 x 1440 Technologie d'Écran Écran LCD Caractéristiques Design plat Fréquence de rafraîchissement de l'affichage 180 Hz à 240 Hz Utiliser Jeux vidéo Technologie d'Affichage Écran LCD Mode de Sortie Audio stéréo Taille de l'Écran 27 à 31 pouces modèle Moniteur de jeu et de bureau 27 pouces 180 Hz avec bordures ultra fines, grand écran 2K HD Pays d'Origine Chine Marque Ochama",
+    "price": 129.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecran-pc-2k-qhd-27-ochama-180hz-3432668",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BSygG/3432668_1/re/1200x1200/qt/90/3432668_1.jpg",
+    "detected_at": "2026-10-14T20:34:51+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 129.0,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ruban d’étanchéité Tapebear en butyle argent - 50 mm x 5 m",
+    "description": "1,99€ - JoyBuy TAPEBEAR Ruban d’étanchéité en butyle argent - 100 mm x 5 m 2,99€ Livraison offerte dès 29€ d’achat Ruban de réparation professionnel : Le ruban d'étanchéité professionnel convient à la réparation des toits et auvents de véhicules récréatifs, des portes, des fenêtres, des tuyaux de descente, des bateaux, des tuyaux en PVC et de plomberie, des systèmes d'arrosage, des portes, des murs, des joints, des évents, des conduits d'air, des systèmes CVC, des évents de bricolage, des réparations de toits en caoutchouc EPDM Performance durable : Notre bande de butyle est faite de caoutchouc butyle pur, un film d'aluminium PET amélioré a été ajouté avec un tissu non tissé et un film anti-vieillissement, ce qui le rend plus résistant à la corrosion et anti-vieillissement. Il est plus épais et plus lourd. Résistant à l'eau et aux températures élevées, résistant aux UV, sans fissure ni déformation, il offre un meilleur résultat d'étanchéité et une longue durée de vie Large application : Ses caractéristiques super collantes et flexibles lui permettent de s'adapter à la plupart des surfaces et des conditions météorologiques. Il convient parfaitement aux surfaces plates, incurvées ou en angle, telles que le métal, les tuiles, les bardeaux, l'aluminium, les plaques de plâtre, le bois, la fibre de verre, la brique, le béton et bien d'autres encore. Épaisseur 39.37mil ; Température de travail : -40℃ à 80℃ Conseils pour un meilleur effet : 1. Nettoyer la surface de base, s'assurer que la surface est propre et sèche ; 2. Presser à plusieurs reprises le mastic butyle jusqu'à ce que le ruban soit complètement collé à la surface, appliquer le ruban et ne pas le déplacer dans les 24 heures. S'assurer qu'il ne pleut pas dans les 24 heures suivant l'application du ruban ; 3. veiller à ne pas coller et réparer en présence d'eau Marque de confiance : TAPEBEAR est une marque spécialisée dans la production de rubans, dédiée à la fabrication d'excellents rubans. Si vous avez des questions, n'hésitez pas à nous contacter, nous vous donnerons une réponse satisfaisante",
+    "price": 1.99,
+    "reference_price": 11.27,
+    "discount_percent": 82.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tapebear-ruban-detancheite-en-butyle-argent-50-mm-x-5-m-3432669",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mhwSH/3432669_1/re/1200x1200/qt/90/3432669_1.jpg",
+    "detected_at": "2026-10-14T20:34:33+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
+  },
+  {
+    "title": "10€ de Réduction dès 90€ d'achats sur une Sélection de Meubles",
+    "description": "Cdiscount Conditions",
+    "price": 90.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/10eur-des-90eur-dachats-sur-une-selection-de-meubles-3432666",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/1_5/re/1200x1200/qt/90/1_5.jpg",
+    "detected_at": "2026-10-14T20:23:35+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.cdiscount.com/odr/ImagesOK/CommercialOffer/conditions_124858202610091535164215.pdf?rnd=777FD2BC",
+    "price_history": [
+      {
+        "price": 90.0,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Station météo Bresser 5-en-1 beaufort avec écran couleur 7002525",
+    "description": "89€ - Nature & Découvertes Station météo 5-en-1 Bresser Beaufort avec écran couleur - Station météo sans fil élégante avec mesure de vent/pluie, prévisions et alarmes - Capteur extérieur 5-en-1 et écran couleur - Température et humidité (intérieure et extérieure), pression atmosphérique - Vitesse et direction du vent, précipitations - Base : 182 x 118 x 20mm, 255g - Capteur : 343,5 x 393,5 x 136mm - Prévisions météorologiques - Enregistrement des valeurs min/max - Alarme haute et basse - Indicateur du climat intérieur - Réveil avec fonction de répétition et avertissement de verglas - Réglage radiocommandé de l'heure et de la date, phase de la Lune - Fonction de gradation automatique du rétroéclairage Caractéristiques de la station de base : - Reçoit les données météorologiques du capteur 5-en-1 - Grand écran couleur et design élégant soigné - Affichage graphique de la tendance météo (12 heures) - Mesure de la température (degrés Celsius ou Fahrenheit) et de l'humidité intérieures, ainsi que de la pression - Affichage de la température extérieure (degrés Celsius ou Fahrenheit) et de l'humidité de l'air extérieur - Températures : de -40 à 60 degrés Celsius - Plage de mesure de la pression atmosphérique : de 540 à 1100mbar - Affichage de la direction et de la vitesse du vent - Affichage de l'échelle de Beaufort (échelle de classification de la force du vent) - Valeur de vitesse de vent : de 0 à 180km/h - Affichage de l'historique des précipitations (jour/semaine/mois) - Affichage de l'histogramme des précipitations (5 derniers jours) ou du changement de pression (1, 3, 6, 12 et 24 dernières heures) - Gamme de mesure de pluie : de 0 à 9999mm - Indicateur du climat intérieur - Fonction d'alarme pour les valeurs maximales et les minimales - Enregistrement des valeurs min/max (jusqu'à 24h) - Affichage d'indices météo : température ressentie, point de rosée, indice de refroidissement éolien, indice de chaleur - Réglage de la date et de l'heure via signal radio DCF - Affichage des phases de la Lune - Fonction réveil avec touche de répétition (Snooze) et fonction verglas - Jour de la semaine affiché en 5 langues sélectionnables (EN/DE/FR/ES/IT) - Capteur de lumière ambiante pour l'adaptation automatique de l'intensité du rétroéclairage par LED - Alimentation par adaptateur secteur ou pile de secours CR2032 (non fournie) - Dimensions : 182 x 118 x 20mm - Poids : 225g Caractéristiques capteur extérieur : - Mesure de la température, de l'humidité, de la vitesse du vent, de la direction du vent et des précipitations - Portée de transmission jusqu'à 150m - Fonctionnement par piles : 3 piles AA (non fournies) - Dimensions : 343,5 x 393,5 x 136mm Dans la boîte : - Station de base - Multicapteur avec matériel de montage - Adaptateur secteur - Mode d'emploi",
+    "price": 89.0,
+    "reference_price": 159.0,
+    "discount_percent": 44.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/station-meteo-5-en-1-3432665",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1aggT/3432665_1/re/1200x1200/qt/90/3432665_1.jpg",
+    "detected_at": "2026-10-14T20:22:38+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 89.0,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -11191,7 +11381,7 @@
   },
   {
     "title": "Buffet Vincente - L.160 cm, imitation chêne et noir",
-    "description": "109,99€ - BUT Commandable uniquement sur internet - non disponible en magasin et livraison à domicile pour 39€ et retrait gratuit en magasin ! Descriptif produit Le buffet L.160 cm VINCENTE imitation chêne et noir allie élégance et fonctionnalité avec son design moderne et épuré. Sa structure en panneaux de particules est rehaussée par des pieds en métal noir mat, offrant une robustesse remarquable. Avec ses dimensions généreuses de longueur de 160 cm , largeur de 40 cm et hauteur de 80 cm, il s'intègre parfaitement dans un salon ou une salle à manger. Les deux portes coulissantes, l'une imitation chêne et l'autre noire, dissimulent trois étagères pratiques pour un rangement optimal. Le plateau imitation chêne supporte jusqu'à 50 kg, idéal pour exposer vos objets décoratifs préférés. Facile à monter soi-même, ce buffet est une solution esthétique et pratique pour organiser votre espace de vie. Ce produit bénéficie de la garantie légale minimale de deux ans",
+    "description": "109,99€ - BUT Commandable uniquement sur internet - non disponible en magasin, livraison à domicile pour 39€ et retrait gratuit en magasin ! Descriptif produit Le buffet L.160 cm VINCENTE imitation chêne et noir allie élégance et fonctionnalité avec son design moderne et épuré. Sa structure en panneaux de particules est rehaussée par des pieds en métal noir mat, offrant une robustesse remarquable. Avec ses dimensions généreuses de longueur de 160 cm , largeur de 40 cm et hauteur de 80 cm, il s'intègre parfaitement dans un salon ou une salle à manger. Les deux portes coulissantes, l'une imitation chêne et l'autre noire, dissimulent trois étagères pratiques pour un rangement optimal. Le plateau imitation chêne supporte jusqu'à 50 kg, idéal pour exposer vos objets décoratifs préférés. Facile à monter soi-même, ce buffet est une solution esthétique et pratique pour organiser votre espace de vie. Ce produit bénéficie de la garantie légale minimale de deux ans",
     "price": 109.99,
     "reference_price": null,
     "discount_percent": null,
@@ -11455,7 +11645,7 @@
   },
   {
     "title": "The Outer Worlds 2 sur PS5",
-    "description": "17,99€ - Cdiscount Explorez les confins de la galaxie dans The Outer Worlds 2, un jeu de rôle où vos choix façonnent une nouvelle colonie spatiale. Ce titre, développé par Obsidian Entertainment et édité par Xbox Game Studios, est la suite du célèbre RPG de science-fiction sorti en 2019. Il vous plonge dans le système planétaire d'Arcadia, sous l'emprise d'une mégacorporation, où vous incarnez un agent de la Directive Terrestre. *Développeur** : Obsidian Entertainment *Éditeur** : Xbox Game Studios *Genre** : Action RPG, style western *Format** : 1 joueur, mode solo *Perspective** : Première personne, avec passage à la troisième personne Bon à savoir : Installation : Le disque physique contient seulement 1.32 Go de données, nécessitant un téléchargement important pour l'installation complète du jeu. Progression : La narration est non linéaire, influencée par les choix de dialogue et les factions choisies. Nouveautés : Attendez-vous à un nouvel équipage, de nouvelles armes et des ennemis inédits dans une colonie inexplorée. Idéal pour les amateurs de RPG narratifs qui apprécient l'exploration et les quêtes secondaires, ce second opus promet une aventure riche pour les voyageurs spatiaux. Cashback : 3 % via Widilo sur l'achat en ligne (ou jusqu’à 2,5 % via eBuyClub). Taux variable selon les produits, voir les conditions sur le site de cashback.",
+    "description": "17,99€ - Cdiscount Xbox https://www.cdiscount.com/jeux-pc-video-console/xbox-series-x/the-outer-worlds-2-jeu-xbox-series-x/f-1035202-196388612932.html Explorez les confins de la galaxie dans The Outer Worlds 2, un jeu de rôle où vos choix façonnent une nouvelle colonie spatiale. Ce titre, développé par Obsidian Entertainment et édité par Xbox Game Studios, est la suite du célèbre RPG de science-fiction sorti en 2019. Il vous plonge dans le système planétaire d'Arcadia, sous l'emprise d'une mégacorporation, où vous incarnez un agent de la Directive Terrestre. *Développeur** : Obsidian Entertainment *Éditeur** : Xbox Game Studios *Genre** : Action RPG, style western *Format** : 1 joueur, mode solo *Perspective** : Première personne, avec passage à la troisième personne Bon à savoir : Installation : Le disque physique contient seulement 1.32 Go de données, nécessitant un téléchargement important pour l'installation complète du jeu. Progression : La narration est non linéaire, influencée par les choix de dialogue et les factions choisies. Nouveautés : Attendez-vous à un nouvel équipage, de nouvelles armes et des ennemis inédits dans une colonie inexplorée. Idéal pour les amateurs de RPG narratifs qui apprécient l'exploration et les quêtes secondaires, ce second opus promet une aventure riche pour les voyageurs spatiaux. Cashback : 3 % via Widilo sur l'achat en ligne (ou jusqu’à 2,5 % via eBuyClub). Taux variable selon les produits, voir les conditions sur le site de cashback.",
     "price": 17.99,
     "reference_price": 19.32,
     "discount_percent": 6.9,
@@ -11467,7 +11657,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.cdiscount.com/jeux-pc-video-console/xbox-series-x/the-outer-worlds-2-jeu-xbox-series-x/f-1035202-196388612932.html",
     "price_history": [
       {
         "price": 17.99,
@@ -14570,19 +14760,24 @@
   {
     "title": "5% à 30% de réduction sur une sélection d'articles",
     "description": "Decathlon De 5% à 30 % de réduction sur une sélection de produits sur le site et l'application Décathlon. La commence demain, mais le code fonctionne déjà",
-    "price": null,
+    "price": 5.99,
     "reference_price": null,
-    "discount_percent": 30.0,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/codes-promo/5-a-30-de-reduction-sur-une-selection-darticles-3432461",
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/83_4/re/1200x1200/qt/90/83_4.jpg",
     "detected_at": "2026-10-14T14:57:37+00:00",
     "category": "Autre",
-    "price_verified": false,
+    "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": []
+    "price_checked_at": "2026-10-14T20:50:59.879336+00:00",
+    "merchant_url": "https://www.decathlon.fr/deals/decath-flash",
+    "price_history": [
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
+      }
+    ]
   },
   {
     "title": "Flacon de 280ml de Gel Exfoliant Medicube Body Peel Shot (Vendeur Tiers - Via Prévoyez et Économisez)",
@@ -14598,7 +14793,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FPCC599C?smid=A2QRSKXPTKLMGP",
     "price_history": [
       {
         "price": 15.81,
@@ -14620,7 +14815,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.zalando.fr/nike-sb-chron-2-unisex-baskets-basses-fauna-browndesert-dustbaroque-browngum-brown-ns415o00t-o12.html",
     "price_history": [
       {
         "price": 55.95,
@@ -14686,7 +14881,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.darty.com/nav/achat/petit_electromenager/expresso_cafetiere/cafetiere_dosette/krups_yy3888.html",
     "price_history": [
       {
         "price": 39.99,
@@ -14719,9 +14914,9 @@
   {
     "title": "Puma CA PRO CLASSIC II UNISEX - Baskets basses - white (sauf 38,5)",
     "description": "54,95€ - TradeInn Résumé de la description Adoptez un style intemporel et un confort moderne avec les baskets PUMA Ca Pro Classic II. Inspirée du cool californien des années 80, cette sneaker basse présente une tige en cuir de première qualité, une semelle intermédiaire empilée pour un amorti amélioré et la bande PUMA Formstrip emblématique. Conçues pour une polyvalence quotidienne et un port toute la journée, les Ca Pro Classic II offrent une esthétique épurée et raffinée, parfaite pour toute garde-robe. Idéales pour les pronateurs neutres, ces baskets allient design hérité et détails contemporains pour un style sans effort",
-    "price": 54.95,
-    "reference_price": 90.0,
-    "discount_percent": 38.9,
+    "price": 55.0,
+    "reference_price": 69.99,
+    "discount_percent": 21.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/puma-ca-pro-classic-ii-unisex-baskets-basses-white-sauf-385-3432453",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pcH4S/3432453_1/re/1200x1200/qt/90/3432453_1.jpg",
@@ -14735,6 +14930,10 @@
       {
         "price": 54.95,
         "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      },
+      {
+        "price": 55.0,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -14786,8 +14985,8 @@
     "title": "BIOLANE - Sérum Physiologique Bébé - Embout rond - 30 Unidoses",
     "description": "3,56€ - Amazon HYGIÈNE DU NEZ ✦ Le sérum physiologique Biolane s'utilise au quotidien pour le nettoyage du nez de votre bébé souvent obstrué par des mucus. Il favorise l'élimination des sécrétions excessives. En prévention ou en traitement du rhume - utilisable en lavage de 1 à 6 fois par jour, il permet de moucher les bébés en cas de rhume HYGIÈNE DES YEUX ✦ Ce sérum peut aussi être utilisé pour l'hygiène oculaire du bébé, en instillation, lavage, en application de compresses ou cotons imbibés, ou en versant directement quelques gouttes dans l'œil. 100% D'ORIGINE NATURELLE ✦ Pour l'hygiène et le soin du nez du bébé, le sérum physiologique est composé d'ingrédients d'origine naturelle : à base de chlorure de sodium et d'eau purifiée : une solution bien tolérée par les muqueuses des bébés. EMBOUT ROND ✦ Spécialement adapté pour les bébés, ce sérum Biolane en unidose possède un embout rond et ergonomique conçu pour nettoyer leur nez sans risque. L'embout rond ultra sécuritaire est une innovation et modèle déposé par Biolane FABRIQUÉ EN FRANCE ✦ Le sérum physiologique Biolane est fabriqué en France, assurant une grande qualité de produit. 30 Unidoses de 5ML , pour l'hygiène nasale et des yeux des bébés PROCHAINEMENT NOUVEAU PACKAGING ✦ Pour fêter ses 50 ans, Biolane fait peau neuve. Découvrez un nouveau design qui regroupe tous les fondamentaux - expertise, naturalité et douceur - des produits Biolane. Les serums physiologiques Biolane conservent la même charte de formulation et continue à vous accompagner dès la naissance de votre bébé ! Il est possible que vous receviez de façon aléatoire le nouveau packaging (dans la limite des stocks disponibles) Tout récipient entamé ne doit pas être réutilisé, le produit ne contenant pas de conservateurs Spécifications Production interrompue par le fabricant: Non Dimensions du colis: 15,38 x 8,6 x 4,15 cm; 22 grammes Fabricant: Biolane ASIN: B074MC76SP Numéro du modèle de l'article: BUS30 Pays d'origine: France Mises à jour logicielles garanties jusqu’à: Information non disponible Marque: Biolane Parfum: Sans parfum Type de peau: Sensible, Tous Quantité d'articles dans le colis: 1 Avantages du produit: Nettoyant Caractéristique spéciale: Ingrédients naturels Forme de l'article: Goutte Caractéristique du matériau: Naturelle Matériau non utilisé: Sans Nombre d'articles: 1 Avantages: Nettoyant Caractéristiques spéciales: Ingrédients naturels Conditionnement du produit: Goutte Partie du corps ciblée: Nez Usages recommandés pour le produit: Nez et yeux Utilisation du produit de nettoyage de la peau: Nettoyant pour le visage Caractéristiques du matériau: Naturelle Type de matériau non utilisé: Sans Couleur: 30 Unités Quantité de lot: 1 Nombre d' articles: 1 Unité de comptage: 30.0 unité Nom du modèle: Sérum Physiologique - Bébé - Nettoie le nez et les yeux - Dès la naissance Point fort de l’article: Nettoie le nez et les yeux, Dès la naissance, Fabriqué en France Code article international: 03286010034779 Numéro du modèle: BUS30 Numéro de pièce: BUS30 Classement des meilleures ventes d'Amazon: 10 en Bébé et Puériculture (Voir les 100 premiers en Bébé et Puériculture) 1 en Mouche-bébé Moyenne des commentaires client: 4,8 4,8 sur 5 étoiles (7 043) 4,8 sur 5 étoiles Commentaires client",
     "price": 3.56,
-    "reference_price": 4.46,
-    "discount_percent": 20.2,
+    "reference_price": 4.4,
+    "discount_percent": 19.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/biolane-serum-physiologique-bebe-embout-rond-30-unidoses-3432450",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lI95d/3432450_1/re/1200x1200/qt/90/3432450_1.jpg",
@@ -14796,7 +14995,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B074MC76SP?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 3.56,
@@ -14807,9 +15006,9 @@
   {
     "title": "CHAUSSURE ASICS GEL CHALLENGER 15 TOUTES SURFACES BLANC",
     "description": "68,58€ - Tennis Compagnie La chaussure Asics Gel Challenger 15 Toutes Surfaces Blanc est conçue pour offrir un maintien sûr et une stabilité remarquable sur le court. *spécifications du produit:* - Technologie WINGWALL - Semelle adaptée au tennis - Contact intégral au sol - Conception pour transitions rapides et contrôlées - Amélioration de l’équilibre et du contrôle",
-    "price": 76.2,
+    "price": 68.58,
     "reference_price": 94.99,
-    "discount_percent": 19.8,
+    "discount_percent": 27.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/chaussure-asics-gel-challenger-15-toutes-surfaces-blanc-3432449",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ZWLaz/3432449_1/re/1200x1200/qt/90/3432449_1.jpg",
@@ -14823,6 +15022,10 @@
       {
         "price": 76.2,
         "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      },
+      {
+        "price": 68.58,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -14884,7 +15087,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0DD6ZTWB1?smid=A1T43ER275YURQ",
     "price_history": [
       {
         "price": 42.0,
@@ -15793,8 +15996,8 @@
     "title": "3 Boxer Nike Coton - Tailles M & L, Bleu Et Noir",
     "description": "14,99€ - Veepee Boxer (x3) Coloris Bleu - noir Composition 95% coton et 5% élasthanne Conseils d’entretien Lavage en machine Lavage : 30°C",
     "price": 14.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 37.99,
+    "discount_percent": 60.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/nike-boxer-x3-coton-bleu-et-noir-3432394",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/w1ae8/3432394_1/re/1200x1200/qt/90/3432394_1.jpg",
@@ -15815,8 +16018,8 @@
     "title": "Short de running Femme Nike Flow 2-en-1 Dri-FIT - taille haute",
     "description": "31,49€ - Nike Coloris : Cucumber Calm/Cucumber Calm.",
     "price": 31.49,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 44.99,
+    "discount_percent": 30.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/nike-flow-short-de-running-2-en-1-dri-fit-taille-haute-pour-femme-3432393",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/XP26C/3432393_1/re/1200x1200/qt/90/3432393_1.jpg",
@@ -15859,8 +16062,8 @@
     "title": "Lot de 3 Pinces en Acier et Carbone Workpro (Vendeur Tiers)",
     "description": "15,99€ - Amazon Matériel résistant et durable】Ce jeu de pinces est forgé en acier au carbone, elles sont connues le traitement thermique et le polissage entière, ce qui sont non seulement durables, mais également résistants à la corrosion 【Lame tranchante et mâchoire de précision】La lame de coupe renforcé avec des bords tranchants et une force de coupe élevée. La mâchoire précise peut fixer bien l'objet et l'empêcher de glisser 【Poignée ergonomique】Poignée bi-matière en PP et TPR est antidérapante et confortable, elle vous permet d’économiser la force et réduire la fatigue lors de travail 【Outil indispensable】Ces pinces les plus utilisées fréquemment conviennent à la plupart des demandes d'utilisation de famille ou du travail, tels que les réparations de véhicule, d’appareil ménager, de machine ou meuble 【Ce que vous obtenez】Inclus: Pince à bec long de 160mm; Pince coupante de 160mm ; Pince universelle de 185mm; Poids: 145g, 175g, 285g Spécifications Marque: WORKPRO Matériau: Acier au carbone Dimensions du produit: 8L x 6,6l centimètres Couleur: Argenté, Rouge, Bleu Matériau de la poignée: polypropylène (PP) et caoutchouc thermoplastique (TPR) Usages spécifiques pour le produit: Coupure, Saisissement, Torsion de fils Type de prise: Ergonomique, Anti-dérapant Largeur de coupe: 160 Millimètres Nombre d'articles: 3 UPC: 820909690962 Utilisations spécifiques pour le produit: Coupure, Saisissement, Torsion de fils Numéro de modèle: W001366A Nom de l'ensemble: Jeu de pinces (pince universelle 180 mm, pince à bec long 160 mm, pince coupante latérale 160 mm) Pays d'origine: Chine Composants inclus: Pince Coupante 160mm Fabricant: Hang Zhou Great Star Industrial Co.,LTD Numéro de pièce: 1 Classement des meilleures ventes d'Amazon: 4387 en Bricolage (Voir les 100 premiers en Bricolage) 5 en Ensembles de pinces ASIN: B0C6SQMMM9 Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (959) 4,5 sur 5 étoiles Dimensions de l’article L x l: 8L x 6,6l centimètres Type de matériau: Acier au carbone Type de poignée: Ergonomique, Anti-dérapant GTIN: 820909690962 Commentaires client",
     "price": 15.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 19.54,
+    "discount_percent": 18.2,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lot-de-3-pinces-en-acier-et-carbone-workpro-vendeur-tiers-3432391",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Zy9cA/3432391_1/re/1200x1200/qt/90/3432391_1.jpg",
@@ -15881,8 +16084,8 @@
     "title": "Just Dance 2024 sur Xbox Series S/X (code dans la boite) - Velizy (78) / Poitiers (86)",
     "description": "4,99€ - Micromania Zing Titre disponible : A Night in the Château de Versailles - The Just Dance Orchestra A Queda - GLORIA GROOVE After Party - Banx & Ranx ft. Zach Zoya Butter - BTS Calm Down - Rema Canned Heat - Jamiroquai Can't Tame Her - Zara Larsson Chaise Longue - Wet Leg Cradles - Sub Urban Cure For Me - Aurora DESPECHÁ - ROSALÍA Don't Cha - The Pussycat Dolls Ft. Busta Rhymes Flowers - Miley Cyrus Gime More - Britney Spears How You Like That - BLACKPINK I Am My Own Muse - Fall Out Boy I Wanna Dance With Somebody - Whitney Houston I'm Good (Blue) - David Guetta & Bebe Rexha I'm Not Here to Make Friends - Sam Smith It's the Most Wonderful Time of the Year - Andy Williams Kill Bill - SZA Makeba - Jain My Name Is - D Billions Never Be Like You - Flume Ft. Kai Sail - AWOLNATION Rapper's Delight - Groove Century Say My Name - ATEEZ Seven - Jung Kook ft. Latto Shine a Little Love - The Sunlight Shakers Stronger (What Doesn't Kill You) - Kelly Clarkson Survivor - Destiny's Child Swan Lake - The Just Dance Orchestra Tainted Love - The Just Dancers Tití Me Preguntó - Bad Bunny Treasure - Bruno Mars vampire - Olivia Rodrigo Wasabi - Little Mix Whitney - Rêve Woof - Sofi Tukker You Should See Me in a Crown - Billie Eilish",
     "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 9.99,
+    "discount_percent": 50.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/just-dance-2024-code-de-telechargement-xbox-series-x-3432390",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Ok7lf/3432390_1/re/1200x1200/qt/90/3432390_1.jpg",
@@ -17081,8 +17284,8 @@
     "title": "Armani Emporio Armani You Stronger With You Intensely 150 ml",
     "description": "78,51€ - Parfumdreams Stronger With You Intensely de Giorgio Armani est un parfum qui dégage une aura confiante et chaleureuse, basée sur une signature fougère intense. Cette composition s'ouvre sur une note de tête vive, dans laquelle l'épice piquante du poivre rose rencontre les accents frais du genévrier et de la feuille de violette. Par la suite, le cœur de la fragrance se déploie et révèle une tension fascinante : des notes aromatiques de lavande et de sauge sont enveloppées d'une facette inattendue et gourmande de cannelle et de caramel crémeux. Cette association confère au parfum un centre à la fois moderne et attirant. La note de fond assure une conclusion durable et marquante. Un mélange de vanille chaude, de fève tonka et de bois d'ambre se fond ici dans un doux accord de daim qui confère à l'Eau de Parfum sa profondeur inimitable et son caractère durable. Caractère du parfum : Un parfum de fougère intense avec un rayonnement épicé, chaud et gourmand. Notes clés : Une composition de poivre rose, de lavande, de caramel, de vanille et de daim. Type de parfum : Eau de Parfum longue durée avec une profondeur et une présence marquantes.",
     "price": 78.51,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 87.23,
+    "discount_percent": 10.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/armani-emporio-armani-you-stronger-with-you-intensely-150-ml-3432325",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/33KhG/3432325_1/re/1200x1200/qt/90/3432325_1.jpg",
@@ -17125,8 +17328,8 @@
     "title": "Mini PC Soyo M5 - Ryzen 3 4300U, RAM 16 Go LPDDR4, SSD 512 Go, Windows 11 Pro",
     "description": "179,55€ - AliExpress Capacité mémoire 16 Go Capacité du disque dur 512 GO Numéro de Modèle M5 Marque du processeur AMD Modèle de Processeur 4300U Type d'écriture MINI ORDINATEUR DE BUREAU Type de carte graphique Carte intégrée Nom de marque SOYO Origine CN (Origine) Type MINI-PC",
     "price": 179.55,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 380.96,
+    "discount_percent": 52.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m5-ryzen-3-4300u-ram-16-go-lpddr4-ssd-512-go-windows-11-pro-3432323",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/b2S38/3432323_1/re/1200x1200/qt/90/3432323_1.jpg",
@@ -17147,8 +17350,8 @@
     "title": "Perche à Selfie Invisible Insta360 - 114 cm (Vendeur tiers)",
     "description": "14,99€ - Amazon À propos de cet article COMPLÈTEMENT INVISIBLE : disparaît complètement des séquences à 360° pour des vues impossibles à la troisième personne et des prises de vues similaires à celles d'un drone. AUGMENTEZ VOTRE PORTÉE : s'étend jusqu'à 114 cm pour les vues grand angle et les perspectives à la troisième personne. LARGE COMPATIBILITÉ : montez plusieurs caméras. Les caméras de la série Ace et GO nécessitent un adaptateur 3 broches vers 1/4\" ou un support à libération rapide (vendu séparément) CONCEPTION LÉGÈRE : perche à selfie ultra-portable facile à transporter et à manœuvrer. CONSTRUCTION DURABLE : alliage d'aluminium avancé avec extension fluide et structure à amortissement par ressort pour une stabilité optimale lors des prises de vue d'action. Une perche à selfie légère, parfaite pour immortaliser la vie quotidienne, mais qui n'est pas conçue pour les aventures à grande vitesse. Pour les sports et actions à haute intensité, nous recommandons la perche à selfie invisible d'action.",
     "price": 14.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 22.88,
+    "discount_percent": 34.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/perche-a-selfie-invisible-insta360-114-cm-vendeur-tiers-3432322",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mkKFs/3432322_1/re/1200x1200/qt/90/3432322_1.jpg",
@@ -17169,8 +17372,8 @@
     "title": "Lego Pokémon 72156 L'Aventure de Carapuce avec le Buggy du Dresseur",
     "description": "22,99€ - E.Leclerc • JOUET DE CONSTRUCTION INTERACTIF – L’aventure de Carapuce avec le buggy du Dresseur (72156) est un set Compatible LEGO SMART Play qui place les enfants aux commandes d’une aventure Pokémon déjantée • AVENTURES IMAGINATIVES – Doté de 2 canons à tenons d’eau et d’un compartiment de stockage pour les tenons, le véhicule articulé permet à Carapuce et au Dresseur d’éteindre les flammes sur le gril du hamburger végétarien • LES POKÉMON VOUS RÉPONDENT – Les SMART Tags de Carapuce et du buggy activent les SMART Briques (non incluses), déclenchant des effets sonores et lumineux faisant réagir les Pokémon les uns aux autres et au jeu interactif des enfants • FIGURINE ARTICULÉE – En route pour une balade animée avec le buggy, sa télécommande et Carapuce ! Le Pokémon réagit à la conduite en exprimant sa joie • COMMENT ACTIVER VOTRE SET – Ajoutez la SMART Brique LEGO d’un set Tout-en-un (vendu séparément) pour activer des fonctions de jeu immersives. Les SMART Briques ne sont pas disponibles à l’achat séparément • JEUX SANS ÉCRAN – Les enfants peuvent partager avec leurs amis et leur famille une infinité d’actions et de jeux imaginatifs mettant en scène un Pokémon farceur • IDÉE DE CADEAU POUR GAMERS – Ce set LEGO constitue un magnifique cadeau à offrir pour un anniversaire, des fêtes ou toute occasion aux garçons, aux filles et aux fans de Pokémon, de jeux vidéo, d’objets ou de cartes à collectionner dès 7 ans",
     "price": 22.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 29.99,
+    "discount_percent": 23.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lego-pokemon-72156-laventure-de-carapuce-avec-le-buggy-du-dresseur-3432321",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/S0uzi/3432321_1/re/1200x1200/qt/90/3432321_1.jpg",
@@ -17191,8 +17394,8 @@
     "title": "Plafonnier LED Rond - Salle de bain Lumière Plafond IP44, 4000K Lumière Panneau Taille: 40 cm (Vendeur Tiers - Via Coupon)",
     "description": "20€ - Amazon coupon de réduction de 50 % 【Blanc neutre 4000 K et IRC > 80 – Une lumière naturelle et apaisante】 Une lumière blanche neutre de 4000 K avec un indice de rendu des couleurs (IRC) élevé > 80 offre un éclairage agréable et naturel – idéal pour le salon, la chambre à coucher, la salle à manger et la chambre d'enfant. Parfait pour une ambiance détendue et un confort au quotidien 【4 800 lumens, ultra-lumineux 】 Une puissance de 48 W et un flux lumineux de 4 800 lumens offrent un éclairage clair et homogène pour des pièces de 12 à 20 m² – pas de coins sombres, une luminosité maximale immédiate sans scintillement ni délai 【Design ultraplat, Ø 40 cm – Moderne et élégant】 Seulement 2,5 cm d’épaisseur, diamètre de 40 cm – plafonnier élégant et moderne en noir mat, parfait pour les plafonds bas et les intérieurs contemporains 【Sans scintillement ni éblouissement – Doux pour les yeux et confortable】 Un diffuseur en acrylique de haute qualité assure une lumière douce et homogène, sans scintillement, éblouissement ni ombre – idéal pour les yeux et une utilisation quotidienne 【Indice de protection IP44 contre les projections d’eau – Sûr et durable】 Indice de protection IP44 contre l’humidité – convient pour la salle de bains, la cuisine, le couloir et la cave. Montage simple, technologie LED durable, économe en énergie et sans entretien",
     "price": 20.0,
-    "reference_price": null,
-    "discount_percent": 50.0,
+    "reference_price": 36.8,
+    "discount_percent": 45.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/plafonnier-led-rond-salle-de-bain-lumiere-plafond-ip44-4000k-lumiere-panneau-taille-40cm-3432319",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/CIRRt/3432319_1/re/1200x1200/qt/90/3432319_1.jpg",
@@ -17235,8 +17438,8 @@
     "title": "ECOVACS DEEBOT X11S OMNICYCLONE, robot aspirateur laveur 30 000 Pa avec rouleau OZMO ROLLER 3.0",
     "description": "799€ - Amazon L’ECOVACS DEEBOT X11S OMNICYCLONE combine une puissance d’aspiration de 30 000 Pa avec le rouleau autonettoyant OZMO ROLLER 3.0 de 27 cm pour aspirer et laver efficacement les sols durs, tapis et moquettes. Sa station OMNI avec vidage automatique PureCyclone 2.0 limite l’entretien, tandis que la recharge rapide PowerBoost Plus permet de récupérer jusqu’à 13 % de batterie pendant un cycle de lavage de 3 minutes. Son système TruePass lui permet également de franchir des seuils jusqu’à 4 cm. * Aspiration BLAST de 30 000 Pa et brosse anti-emmêlement ZeroTangle 4.0. * Rouleau OZMO ROLLER 3.0 de 27 cm avec nettoyage continu et technologie TruEdge 3.0 pour les bords. * Station OMNI PureCyclone 2.0 avec vidage automatique sans sac. * Recharge rapide PowerBoost Plus, franchissement d’obstacles jusqu’à 4 cm et navigation intelligente AIVI 3D 4.0.",
     "price": 799.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 930.0,
+    "discount_percent": 14.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/ecovacs-deebot-x11s-omnicyclone-robot-aspirateur-laveur-30-000-pa-avec-rouleau-ozmo-roller-30-3432318",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/H7AVJ/3432318_1/re/1200x1200/qt/90/3432318_1.jpg",
@@ -23493,6 +23696,10 @@
       {
         "price": 24.85,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 24.85,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23515,6 +23722,10 @@
       {
         "price": 12.0,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 12.0,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23537,6 +23748,10 @@
       {
         "price": 49.49,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 49.49,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23559,6 +23774,10 @@
       {
         "price": 119.0,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 119.0,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23581,6 +23800,10 @@
       {
         "price": 79.99,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23603,6 +23826,10 @@
       {
         "price": 3.76,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 3.76,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23625,6 +23852,10 @@
       {
         "price": 64.56,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 64.56,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23647,6 +23878,10 @@
       {
         "price": 79.99,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23669,6 +23904,10 @@
       {
         "price": 57.39,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 57.39,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -23717,6 +23956,10 @@
       {
         "price": 73.39,
         "observed_at": "2026-10-13T20:47:38.506338+00:00"
+      },
+      {
+        "price": 73.39,
+        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   },
@@ -24539,136 +24782,6 @@
       },
       {
         "price": 64.62,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Sous Conditions] Abonnement mensuel à Disney+ Standard avec pub à 4,99 €/mois (pendant 4 mois)",
-    "description": "4,99€ - Disney + Disney+ propose une offre promotionnelle permettant de profiter de son abonnement Standard avec pub à 4,99 €/mois pendant 4 mois , au lieu de 6,99 €/mois habituellement. L'occasion de (re)découvrir les films, séries et documentaires des univers Disney, Pixar, Marvel, Star Wars et National Geographic à tarif réduit ! Détails de l'offre : Prix promotionnel : 4,99 €/mois pendant 4 mois Prix habituel : 6,99 €/mois Réduction : -29 % Coût total sur 4 mois : 19,96 € au lieu de 27,96 € Économie réalisée : 8 € Caractéristiques de l'abonnement : Publicités courtes et limitées Qualité vidéo jusqu'à 1080p Full HD Jusqu'à 2 lectures simultanées Qualité audio jusqu'à 5.1 Qui peut en profiter ? L'offre est réservée aux nouveaux abonnés Disney+ ainsi qu'aux anciens abonnés éligibles souhaitant se réabonner, âgés de 18 ans ou plus. Conditions de l'offre : L'offre est annoncée comme valable jusqu'au 17 août 2029 , sous réserve des conditions de Disney+. À l'issue des 4 mois promotionnels, l'abonnement sera automatiquement renouvelé au tarif mensuel Standard avec pub alors en vigueur (actuellement 6,99 €/mois), sauf résiliation préalable. Pensez à résilier avant la fin des 4 mois si vous ne souhaitez pas poursuivre votre abonnement au tarif habituel.",
-    "price": 4.99,
-    "reference_price": 6.99,
-    "discount_percent": 28.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/disney-standard-avec-pub-a-499-eurmois-pendant-4-mois-nouveaux-et-anciens-abonnes-eligibles-3431918",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xhl6x/3431918_1/re/1200x1200/qt/90/3431918_1.jpg",
-    "detected_at": "2026-10-13T18:47:36+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Blouson coupe-vent léger Army Placebo Jott",
-    "description": "45€ - JOTT Belle remise sur le blouson coupe-vent PLACEBO de JOTT, affiché à 45 € au lieu de 150 €, soit une réduction de 70 % et 105 € d’économie sur le site officiel de la marque. Avec son coloris Army, ce modèle affiche un style urbain et moderne, idéal pour la mi-saison, les sorties en extérieur ou les journées venteuses. Sa matière extérieure en polyamide ripstop est conçue pour couper le vent, tandis que sa doublure intérieure en mesh favorise la respirabilité. Caractéristiques : - Marque : JOTT - Modèle : PLACEBO - Couleur : Army - Prix : 45 € au lieu de 150 € - Matière extérieure : 100 % polyamide - Doublure : 100 % polyester - Coupe : droite et courte - Fermeture : zip - Capuche : avec cordons de serrage - Col haut ajustable - Deux poches latérales avec grands rabats - Poignets et taille ajustables grâce à des cordons de serrage Le tissu est annoncé comme coupe-vent et résistant à l'eau, pour protéger des éclaboussures et des pluies modérées. Il ne s'agit toutefois pas d'une veste imperméable destinée aux fortes averses. Le modèle est indiqué comme taillant normalement, avec un conseil de choisir sa taille habituelle. Plusieurs tailles sont proposées sur la page, de S à XXL selon les disponibilités. À 45 € pour un blouson JOTT initialement vendu 150 €, la réduction est intéressante si vous cherchez une veste légère avec un look streetwear.",
-    "price": 45.0,
-    "reference_price": 150.0,
-    "discount_percent": 70.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/blouson-coupe-vent-leger-army-placebo-jott-3431917",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gyOSm/3431917_1/re/1200x1200/qt/90/3431917_1.jpg",
-    "detected_at": "2026-10-13T18:47:09+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 45.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 45.0,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Machine à Café jouet Fisher-Price Café Musical Learn & Serve",
-    "description": "25,99€ - Amazon Fisher price café learn jouet multilingue À propos de ce produit Les tout-petits peuvent s’amuser à « préparer », servir et partager leur café avec ce jouet interactif d’apprentissage imitant une station de barista, qui contient plus de 100 chansons, sons, mélodies et phrases 10 accessoires de jeu : comprend 2 tasses à café avec leur couvercle, un pichet à lait, une cuillère, un macaron et un croissant, un sac à emporter et un porte-boisson 3 niveaux Éveil Progressif permettent d’apprendre l’alphabet, les formes, les chiffres et les séquences, le partage et bien plus encore. Utilisez le bouton en forme de globe pour sélectionner une langue : anglais, allemand ou français 5 activations ! Appuyez sur 4 boutons ou tournez le bouton du mousseur à lait pour entendre des sons réalistes, de la musique et des phrases. Ajoutez des grains dans le réservoir et faites glisser le porte-filtre pour entendre un cliquetis Favorise le développement de la motricité fine et globale, initie à la relation de cause à effet et encourage le jeu d’imitation chez les enfants de 18 mois et plus Commentaires client",
-    "price": 25.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/machine-a-cafe-jouet-3431913",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZFib3/3431913_1/re/1200x1200/qt/90/3431913_1.jpg",
-    "detected_at": "2026-10-13T18:41:47+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 75\" Philips The One 75PQS9001 - 2026, Ambilight, QLED, 144Hz (via ODR de 100€)",
-    "description": "914,37€ - Icoza Lien de l'ODR: https://www.philips.fr/c-w/promotions/ambilight-cashback + un code d’activation pour un jeu Assassin’s Creed offert pour les 1000 premiers participants À retenir de la TV PHILIPS 75PQS9001 TV LCD à rétroéclairage LED et avec QLED Diagonale : 189 cm (74\") TV Ultra HD (4K) : 3840 x 2160 TV Ambilight 3 / AmbiScape (3 canaux) Fluidité : Dalle 100/120Hz • VRR 144Hz • Interpolation 120Hz (MEMC) • Boost 240Hz (2K Virtualization) Traitements spéciaux : HDR (HDR10, HDR10+, HDR HLG, Dolby Vision 2) • Micro Dimming Pro • FreeSync Premium Système Audio 2.0 de 40 W RMS Tuner : TNT • Satellite • Câble Smart TV : Internet • Wi-Fi • Bluetooth • Lecteur multimédia réseau • AirPlay 2 • Alexa / Auracast / Control4 / Google Home / HomeKit / Matter Assistants : Google • Alexa Série / Design : The One Classe énergie : F | G (HDR)",
-    "price": 914.37,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-75-philips-the-one-2026-ambilight-qled-144hz-via-odr-de-100eur-3431915",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3p5gM/3431915_1/re/1200x1200/qt/90/3431915_1.jpg",
-    "detected_at": "2026-10-13T18:40:51+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 914.37,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 914.37,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de quilles finlandaises en bois - 12 quilles et 1 lanceur en pin",
-    "description": "5,99€ - GiFi Jeu de quilles finlandaises en bois GiFi - 12 quilles et 1 lanceur en pin Jeu de quilles finlandaises comprenant 12 quilles en bois numérotées et 1 lanceur. Les quilles mesurent 5 cm de diamètre pour 15 cm de hauteur, et le lanceur a une hauteur de 22 cm. Fabriqué en bois de pin, ce jeu est accessible dès l'âge de 3 ans. i.fr/3594190952/FR-2026-S42-V99/index.html#page/28-29 Prix : 5,99€ Frais de port : Offert en retrait magasin Code promo : Aucun Caractéristiques du produit Âge recommandé : dès 3 ans Diamètre : 5 cm Hauteur quille : 15 cm Hauteur Mölkky : 22 cm Matière(s) : bois Coloris : naturel Description du produit Ce jeu de plein air est composé de quilles numérotées et d'un lanceur en bois pour des parties conviviales. Fabriqué en bois naturel , il allie simplicité et plaisir pour toute la famille. Idéal pour jouer en extérieur, il permet de stimuler l'adresse et le calcul mental . Comprend 12 quilles et 1 Mölkky.",
-    "price": 5.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-quilles-finlandaises-en-bois-12-quilles-et-1-lanceur-en-pin-3431914",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/nEvcU/3431914_1/re/1200x1200/qt/90/3431914_1.jpg",
-    "detected_at": "2026-10-13T18:40:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 5.99,
         "observed_at": "2026-10-14T19:26:16.073333+00:00"
       }
     ]
