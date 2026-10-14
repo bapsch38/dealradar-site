@@ -2258,7 +2258,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2279,7 +2279,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2384,7 +2384,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6737,6 +6737,72 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DeWalt DXVCS002 Séparateur préalable",
+    "description": "54,95€ - iBOOD Le DeWalt DXVCS002 Séparateur préalable est un accessoire pour aspirateur industriel conçu pour réduire la poussière et maintenir une puissance d'aspiration constante. *caractéristiques du produit:* - Réduit la poussière - Maintient une puissance d'aspiration constante",
+    "price": 54.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/dewalt-dxvcs002-separateur-prealable-3432118",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/37it2/3432118_1/re/1200x1200/qt/90/3432118_1.jpg",
+    "detected_at": "2026-10-14T07:06:25+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 54.95,
+        "observed_at": "2026-10-14T07:08:01.924200+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Osram Original Ampoules Halogène - BA15S R10W - 12V/10W - set de 2 pièces",
+    "description": "3,16€ - Amazon Très bon prix ! ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants. CONTENU DE LA LIVRAISON: 2x OSRAM R10W Ampoule INFORMATION TECHNIQUE: Tension nominale : 12V, Capacité nominale: 10W, Culot: BA15s, Catégorie ECE: R10W REMARQUE: , OSRAM ORIGINAL LINE 12V, Le classique, Les lampes de la gamme ORIGINAL LINE 12 V sont d'une grande fiabilité et sont très compétitives en matière de prix. Les clients qui apprécient la qualité éprouvée font le bon choix en optant pour les ampoules ORIGINAL LINE 12 V., Performances exceptionnelle - fiable et rentable, En offrant des performances et une fiabilité de pointe et en proposant des prix abordables, ce n'est pas un hasard si OSRAM est le leader du marché dans le secteur LIMITATIONS: Avantages produit , Large gamme de produits, Qualité fiable , Caractéristiques produit , Pièces de rechange d'origine",
+    "price": 3.16,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/osram-original-ampoules-halogene-ba15s-r10w-12v10w-set-de-2-pieces-3432117",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QtXqx/3432117_1/re/1200x1200/qt/90/3432117_1.jpg",
+    "detected_at": "2026-10-14T07:05:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.16,
+        "observed_at": "2026-10-14T07:08:01.924200+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Disque de Signalisation Thirard Pas de Publicité - Polystyrène Rigide, Adhésif, Ø80mm (Vendeur Tiers)",
+    "description": "2€ - Amazon Bon prix ! Pas très glamour mais utile ! On ne peut pas le louper ! Usage pratique : Idéal pour indiquer l'interdiction de distribution de publicité, ce disque adhésif se fixe facilement sur boîtes aux lettres, portes ou murs, garantissant une communication claire et immédiate Dimensions et avantages : avec un Ø de 80 mm, ce disque offre une visibilité optimale tout en étant discret Sa taille permet une intégration facile sans encombrer l'espace Sécurité et robustesse : Fabriqué en polystyrène choc rigide, il résiste aux intempéries et à l'usure, assurant une signalisation durable et fiable en extérieur comme en intérieur Utilisation et fonctionnement : Doté d'un adhésif puissant, ce disque s'installe aisément sur diverses surfaces sans nécessiter d'outils ou de perçage, offrant une fixation rapide et sécurisée Garantie de 2 ans : Ce produit bénéficie d’une garantie de 2 ans, gage de sa qualité et de sa durabilité pour une tranquillité d’esprit assurée",
+    "price": 2.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/thirard-disque-de-signalisation-pas-de-publicite-polystyrene-rigide-adhesif-o-80-mm-3432115",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/IuX3c/3432115_1/re/1200x1200/qt/90/3432115_1.jpg",
+    "detected_at": "2026-10-14T07:03:45+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 2.0,
+        "observed_at": "2026-10-14T07:08:01.924200+00:00"
       }
     ]
   },
@@ -12003,72 +12069,6 @@
     "price_history": [
       {
         "price": 2.89,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Gundam Rogue Orbit sur PS5",
-    "description": "49,99€ - Auchan Article en précommande, date de sortie le 05/06/27 Développé par Bandai Namco Studios L'histoire : Vous incarnez RE-X , le pilote du mecha prototype Gundam Helix . Accompagné de votre Haro nommé Vii , vous menez des missions depuis le vaisseau spatial Stellarvane jusqu'à la surface de Mars pour affronter une menace extraterrestre destructrice appelée l'Apocalypse . Modes de jeu : Il est jouable en solo mais propose également un mode coopératif en ligne jusqu'à 3 joueurs (l'abonnement PlayStation Plus est requis pour le multijoueur). Prenez les commandes d'un puissant Mobile Suit dans un jeu d'action qui réimagine l'expérience Gundam avec des combats frénétiques et cinématographiques se déroulant dans un tout nouvel univers. Trailer: [shortcode id=\"20619141\"/]",
-    "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-gundam-rogue-orbit-sur-ps5-3431815",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JvI7h/3431815_1/re/1200x1200/qt/90/3431815_1.jpg",
-    "detected_at": "2026-10-13T15:19:15+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 49.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tronçonneuse Électrique Scheppach CSE2600 - 45.5cm 2400W",
-    "description": "69,99€ - Cdiscount",
-    "price": 69.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tronconneuse-electrique-scheppach-cse2600-455cm-2400w-3431814",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xrj07/3431814_1/re/1200x1200/qt/90/3431814_1.jpg",
-    "detected_at": "2026-10-13T15:19:06+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 69.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Abri de pêche pliable Vevor - 1,5 x 1,5 x 1,65 m, Noir",
-    "description": "49€ - Amazon Prévue initialement pour la pêche sur glace, elle peut surtout dépanner comme affût photo ou abri étanche rapide pour poser son matos au sec au bord de l'eau. La structure se déplie et se replie directement sans assemblage d'arceaux (y) toile en tissu Oxford 300D étanche (revêtement PU 3 couches) dimensions : 1,5 x 1,5 m au sol, 1,65 m de haut (1 à 2 personnes) porte zippée, fenêtre amovible pour l'aération et poche de rangement interne livrée complète : sac de transport type sac à dos, 8 piquets d'ancrage et haubans À propos de ce produit Tissu de qualité supérieure : Cet abri de pêche sur glace portable est fabriqué en tissu Oxford 300D de haute qualité et dispose d'un revêtement noir en PU à 3 couches pour une excellente résistance au vent, à l'eau et au froid. La forte capacité de blocage de la lumière empêche efficacement la pénétration de la lumière, améliorant ainsi votre expérience et votre efficacité de pêche sur glace, créant un environnement idéal pour les passionnés. Stabilité face au vent : La structure de la tige de support de la tente de pêche sur glace escamotable est conçue pour durer et est renforcée aux coins avec des matériaux robustes pour une résistance supérieure au vent et à la neige. Elle comprend 8 ancres à glace robustes et 4 cordes à vent pour assurer la stabilité en cas de vent fort. Les ancres à glace peuvent être facilement placées grâce aux boucles d'arrimage situées sur la jupe extra-large. Conception pop-up : La conception pop-up pratique permet une installation et un démontage faciles de la cabane à glace pour la pêche hivernale. En quelques étapes simples, vous pouvez préparer votre abri à l'emploi ou le ranger rapidement. Détails supplémentaires : Cette tente de pêche sur glace de 1,5 x 1,5 x 1,65 m avec sac de transport est dotée d'une fenêtre amovible pour une ventilation réglable et un risque de fuite réduit. La conception de la porte à fermeture éclair permet une entrée et une sortie faciles. Un sac de rangement interne offre une organisation pratique pour divers articles, améliorant votre confort et votre plaisir pendant la pêche hivernale. Facile à transporter : Cette tente de pêche sur glace pliable à ouverture rapide est légère et facile à transporter, ce qui la rend simple à ranger. Vous pouvez tout ranger dans un grand sac fourre-tout avec des sangles de sac à dos pour un transport pratique. Commencez votre aventure de pêche sur glace à tout moment, n'importe où, et profitez d'une grande commodité pour les amateurs de plein air. Commentaires client",
-    "price": 49.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/abri-de-peche-pliable-vevor-15-x-15-x-165-m-noir-3431813",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/D2e61/3431813_1/re/1200x1200/qt/90/3431813_1.jpg",
-    "detected_at": "2026-10-13T15:18:36+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 49.0,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
