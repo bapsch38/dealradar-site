@@ -1,5 +1,341 @@
 [
   {
+    "title": "Siemens ET601FNP1E plaque Noir...placement) Céramique 4 zone(s)",
+    "price": 319.74,
+    "reference_price": 329.87,
+    "discount_percent": 3.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01LW1WMAI",
+    "image_url": "https://m.media-amazon.com/images/P/B01LW1WMAI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:54",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 319.74,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO 119 293 x x",
+    "price": 28.45,
+    "reference_price": 29.4,
+    "discount_percent": 3.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00BSTWH4Y",
+    "image_url": "https://m.media-amazon.com/images/P/B00BSTWH4Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:52",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 28.45,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO KANO-S Robinet de cuisi...mie d'eau 5,5 x 24,6 x 19,1 cm",
+    "price": 294.3,
+    "reference_price": 536.47,
+    "discount_percent": 45.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CNV4S6WL",
+    "image_url": "https://m.media-amazon.com/images/P/B0CNV4S6WL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:51",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 294.3,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Siemens SZ73045 Accessoires po...lle / 60 cm/revêtement en inox",
+    "price": 68.88,
+    "reference_price": 87.82,
+    "discount_percent": 21.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01BGQSE0O",
+    "image_url": "https://m.media-amazon.com/images/P/B01BGQSE0O.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:50",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 68.88,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kärcher Buse à jet pour OC 3",
+    "price": 14.39,
+    "reference_price": 14.99,
+    "discount_percent": 4.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07L6WBQH5",
+    "image_url": "https://m.media-amazon.com/images/P/B07L6WBQH5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:49",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.39,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Hausgeräte DSZ4682 Acces...plates de 60 cm de large/blanc",
+    "price": 64.87,
+    "reference_price": 77.76,
+    "discount_percent": 16.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08QW6LZVZ",
+    "image_url": "https://m.media-amazon.com/images/P/B08QW6LZVZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:30",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 64.87,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Accessoires de lavage/séchage",
+    "price": 27.79,
+    "reference_price": 33.58,
+    "discount_percent": 17.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B083YCYLZ8",
+    "image_url": "https://m.media-amazon.com/images/P/B083YCYLZ8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:29",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 27.79,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rabot électrique filaire 620 W - MAKITA KP0800",
+    "price": 137.85,
+    "reference_price": 168.56,
+    "discount_percent": 18.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B005KH4VXK",
+    "image_url": "https://m.media-amazon.com/images/P/B005KH4VXK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 137.85,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO LANTOS XL 6 S-IF Compac...de Vidage Automatique – 523140",
+    "price": 253.99,
+    "reference_price": 298.63,
+    "discount_percent": 14.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B079SB3BJJ",
+    "image_url": "https://m.media-amazon.com/images/P/B079SB3BJJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:27",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 253.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CASO Adaptateur et kit de pomp... Pompe à vide manuelle - Blanc",
+    "price": 12.05,
+    "reference_price": 14.3,
+    "discount_percent": 15.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B084HYJMT6",
+    "image_url": "https://m.media-amazon.com/images/P/B084HYJMT6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:26",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.05,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Villeroy & Boch - Artesano Hot...nt 1 litre, verre borosilicate",
+    "price": 71.9,
+    "reference_price": 89.88,
+    "discount_percent": 20.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DH57G2RL",
+    "image_url": "https://m.media-amazon.com/images/P/B0DH57G2RL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:24",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 71.9,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Gorenje R4142PW réfrigérateur Autoportante 242 L E Blanc",
+    "price": 299.0,
+    "reference_price": 409.0,
+    "discount_percent": 26.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B088MF9BYD",
+    "image_url": "https://m.media-amazon.com/images/P/B088MF9BYD.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:23",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 299.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Villeroy & Boch La Classica Lo...9,3 cm, 18/10 Acier inoxydable",
+    "price": 59.9,
+    "reference_price": 69.68,
+    "discount_percent": 14.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00YSFBTYO",
+    "image_url": "https://m.media-amazon.com/images/P/B00YSFBTYO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:22",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 59.9,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Leonardo Cucina Optic 066336 B...ec des touches rondes, 21,5 cm",
+    "price": 27.28,
+    "reference_price": 30.16,
+    "discount_percent": 9.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07PRN9NKQ",
+    "image_url": "https://m.media-amazon.com/images/P/B07PRN9NKQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:12",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 27.28,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SIEMENS Filtre anti odeur LZ55651 Filtre à charbon",
+    "price": 56.75,
+    "reference_price": 60.0,
+    "discount_percent": 5.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00HQLPW6S",
+    "image_url": "https://m.media-amazon.com/images/P/B00HQLPW6S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:10",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 56.75,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "WMF Bueno Pro Grille-pain en a...e, 870 W, acier inoxydable mat",
+    "price": 53.0,
+    "reference_price": 70.63,
+    "discount_percent": 25.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07GSYK5Q5",
+    "image_url": "https://m.media-amazon.com/images/P/B07GSYK5Q5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 14:51:09",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 53.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
     "title": "WMF Kult X Batteur Électrique ...Haute Qualité 400 W 0416560011",
     "price": 45.29,
     "reference_price": 49.99,
@@ -5246,6 +5582,10 @@
       {
         "price": 13.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -9596,6 +9936,10 @@
       {
         "price": 37.78,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 37.78,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -9621,6 +9965,10 @@
       {
         "price": 130.77,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 130.77,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -10872,6 +11220,424 @@
     ]
   },
   {
+    "title": "Couette sans housse Easy 220 × 240 cm - Lavable à 30 °C, 200 g/m² (en magasin)",
+    "description": "14,95€ - Action Une couette grand format à 14,95 €, avec un petit avantage : pas besoin de housse séparée ! ️ Cette couette Easy proposée chez Action mesure 220 × 240 cm. Le principe est simple : la couette et son revêtement ne font qu'un, ce qui évite de devoir installer une housse après chaque lavage. Elle existe dans plusieurs coloris et dispose d'un rembourrage de 200 g/m². Infos importantes : Dimensions : 220 × 240 cm Couette et housse réunies en un seul produit Rembourrage : polyester, 200 g/m² Revêtement doux Coloris disponibles : brun, gris ou blanc Lavable en machine jusqu'à 30 °C Sèche-linge déconseillé Référence Action : 3224853 Offre valable en magasin selon les stocks Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
+    "price": 14.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/couette-sans-housse-easy-220-240-cm-lavable-a-30-c-200-gm2-en-magasin-3432454",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/qrkWl/3432454_1/re/1200x1200/qt/90/3432454_1.jpg",
+    "detected_at": "2026-10-14T14:48:27+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.95,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Puma CA PRO CLASSIC II UNISEX - Baskets basses - white (sauf 38,5)",
+    "description": "54,95€ - Zalando",
+    "price": 54.95,
+    "reference_price": 90.0,
+    "discount_percent": 38.9,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/puma-ca-pro-classic-ii-unisex-baskets-basses-white-sauf-385-3432453",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pcH4S/3432453_1/re/1200x1200/qt/90/3432453_1.jpg",
+    "detected_at": "2026-10-14T14:48:16+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.zalando.fr/puma-pro-classic-unisex-baskets-basses-white-pu115o0vm-a13.html",
+    "price_history": [
+      {
+        "price": 54.95,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BIOLANE - Eau Pure H2O Bébé - Nettoie et protège - Flacon Pompe - 750ml",
+    "description": "5,15€ - Amazon EAU PURE H2O - Formulée à 99% d'ingrédients d'origine naturelle, l'eau pure H2O Biolane permet de nettoyer en douceur la peau de bébé. Sa base lavante très douce s'utilise sur toutes les zones sensibles NETTOYANT QUOTIDIEN - L'eau pure H2O est adaptée pour la toilette quotidienne du visage, corps et siège du bébé. Appliqué tous les jours à l'aide d'un coton, ce nettoyant apaise et adoucit la peau du bébé SANS RINÇAGE - La formule douce de cette lotion ne nécessite pas de rinçage. Elle laisse la peau propre, douce et parfumée, tout en protégeant la peau délicate du bébé POMPE DOSEUSE - Grâce au flacon-pompe \"une seule main\", l'eau pure H2O est facile à utiliser, elle limite les éclaboussures et permet de toujours garder une main sur le bébé pendant la toilette FABRIQUÉE EN FRANCE - L'eau pure H2O Biolane est fabriquée en France, assurant une grande qualité de produit. Le flacon pompe allie praticité et grande capacité de 750ml pour la toilette quotidienne de votre bébé",
+    "price": 5.15,
+    "reference_price": 7.0,
+    "discount_percent": 26.4,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/biolane-eau-pure-h2o-bebe-nettoie-et-protege-flacon-pompe-750ml-3432452",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QG9mT/3432452_1/re/1200x1200/qt/90/3432452_1.jpg",
+    "detected_at": "2026-10-14T14:46:33+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.15,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 étagères de garage SONGMICS - 180 × 90 × 40 cm, 5 niveaux, 875 kg par étagère (vendeur tiers)",
+    "description": "69,99€ - Leroy Merlin Pour remettre un peu d'ordre dans le garage ! Le lot SONGMICS est proposé à 69,99 € chez Leroy Merlin, au lieu de 83,99 €, avec livraison offerte. 180 cm de haut et cinq niveaux réglables. Montage par emboîtement, sans vis. Infos importantes : Lot de 2 étagères métalliques Dimensions unitaires : 180 × 90 × 40 cm 5 plateaux MDF par étagère Charge maximale annoncée : 175 kg par niveau, soit 875 kg par étagère Structure en acier galvanisé Montage par emboîtement Vendu par SONGMICS HOME sur la marketplace Leroy Merlin Livraison à domicile offerte d'après la fiche Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
+    "price": 69.99,
+    "reference_price": 83.99,
+    "discount_percent": 16.7,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-etageres-de-garage-songmics-180-90-40-cm-5-niveaux-875-kg-par-etagere-vendeur-tiers-3432451",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/N8dUp/3432451_1/re/1200x1200/qt/90/3432451_1.jpg",
+    "detected_at": "2026-10-14T14:45:45+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.leroymerlin.fr/produits/etagere-de-rangement-charge-lourde-lot-de-2-etagere-de-garage-40-x-90-x-180-cm-capacite-de-charge-jusqu-a-875-kg-tablettes-reglables-argent-97227764.html",
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BIOLANE - Sérum Physiologique Bébé - Embout rond - 30 Unidoses",
+    "description": "3,56€ - Amazon HYGIÈNE DU NEZ ✦ Le sérum physiologique Biolane s'utilise au quotidien pour le nettoyage du nez de votre bébé souvent obstrué par des mucus. Il favorise l'élimination des sécrétions excessives. En prévention ou en traitement du rhume - utilisable en lavage de 1 à 6 fois par jour, il permet de moucher les bébés en cas de rhume HYGIÈNE DES YEUX ✦ Ce sérum peut aussi être utilisé pour l'hygiène oculaire du bébé, en instillation, lavage, en application de compresses ou cotons imbibés, ou en versant directement quelques gouttes dans l'œil. 100% D'ORIGINE NATURELLE ✦ Pour l'hygiène et le soin du nez du bébé, le sérum physiologique est composé d'ingrédients d'origine naturelle : à base de chlorure de sodium et d'eau purifiée : une solution bien tolérée par les muqueuses des bébés. EMBOUT ROND ✦ Spécialement adapté pour les bébés, ce sérum Biolane en unidose possède un embout rond et ergonomique conçu pour nettoyer leur nez sans risque. L'embout rond ultra sécuritaire est une innovation et modèle déposé par Biolane FABRIQUÉ EN FRANCE ✦ Le sérum physiologique Biolane est fabriqué en France, assurant une grande qualité de produit. 30 Unidoses de 5ML , pour l'hygiène nasale et des yeux des bébés PROCHAINEMENT NOUVEAU PACKAGING ✦ Pour fêter ses 50 ans, Biolane fait peau neuve. Découvrez un nouveau design qui regroupe tous les fondamentaux - expertise, naturalité et douceur - des produits Biolane. Les serums physiologiques Biolane conservent la même charte de formulation et continue à vous accompagner dès la naissance de votre bébé ! Il est possible que vous receviez de façon aléatoire le nouveau packaging (dans la limite des stocks disponibles) Tout récipient entamé ne doit pas être réutilisé, le produit ne contenant pas de conservateurs",
+    "price": 3.56,
+    "reference_price": 4.46,
+    "discount_percent": 20.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/biolane-serum-physiologique-bebe-embout-rond-30-unidoses-3432450",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/lI95d/3432450_1/re/1200x1200/qt/90/3432450_1.jpg",
+    "detected_at": "2026-10-14T14:44:36+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.56,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CHAUSSURE ASICS GEL CHALLENGER 15 TOUTES SURFACES BLANC",
+    "description": "76,20€ - Tennis Compagnie La chaussure Asics Gel Challenger 15 Toutes Surfaces Blanc est conçue pour offrir un maintien sûr et une stabilité remarquable sur le court. *spécifications du produit:* - Technologie WINGWALL - Semelle adaptée au tennis - Contact intégral au sol - Conception pour transitions rapides et contrôlées - Amélioration de l’équilibre et du contrôle",
+    "price": 76.2,
+    "reference_price": 94.99,
+    "discount_percent": 19.8,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussure-asics-gel-challenger-15-toutes-surfaces-blanc-3432449",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZWLaz/3432449_1/re/1200x1200/qt/90/3432449_1.jpg",
+    "detected_at": "2026-10-14T14:44:05+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 76.2,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Huile d'Amande Douce Bébé Biolane - Hydrate et protège, 75ml",
+    "description": "2,37€ - Amazon HUILE D'AMANDE DOUCE : Hydratez bébé avec l'huile d'amande douce de Biolane, une huile qui nourrit et adoucit la peau de votre bébé. Testé cliniquement, il convient aux peaux sensibles. Idéale pour un massage après la toilette, cette huile procure un moment de douceur avec bébé INGRÉDIENTS D’ORIGINE NATURELLE : Formulé à 100% d'ingrédients d'origine naturelle, les acides gras essentiels de l'amande douce nourrissent l'épiderme du bébé. Soumise aux agressions extérieures de l'environnement, la peau de bébé peut s'assécher. Pour une hydratation en douceur et 100% naturelle ! CORPS ET BAIN : L'huile d'amande adoucit et nourrit intensément la peau sensible de votre bébé. Ajoutez-la dans le bain, l'huile d'amande douce recouvre naturellement la peau de bébé et forme un film protecteur. Sa peau sera douce et protégée. Cette huile convient également pour éliminer les croûtes de lait, appliquez sur le cuir chevelu et laissez reposer TESTÉE CLINIQUEMENT : Une formule testée cliniquement pour la plus grande sécurité des nouveau-nés. Cette huile d'amande douce allie douceur et plaisir, la peau de votre bébé sera apaisée. FABRIQUÉ EN FRANCE : L'huile d'amande douce est fabriquée en France, favorisant l'emploi local et assurant une grande qualité de produit. Très pratique à transporter, l'huile Biolane est proposée en format 75ml. NOUVEAU PACKAGING : Il est possible de recevoir de façon aléatoire l'ancien packaging format spray (dans la limite des stocks disponibles)",
+    "price": 2.37,
+    "reference_price": 2.56,
+    "discount_percent": 7.4,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/biolane-huile-damande-douce-bebe-hydrate-et-protege-75ml-3432448",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zsXho/3432448_1/re/1200x1200/qt/90/3432448_1.jpg",
+    "detected_at": "2026-10-14T14:42:43+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B07RYMY7TR?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 2.37,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Aspirateur Robot laveur Ecovacs Deebot X12 Pro Omni - 22 000 Pa (Vendeur tiers)",
+    "description": "749€ - Amazon Le DEEBOT X12 PRO Omni combine une aspiration puissante jusqu’à 22 000 Pa avec un débit d’air de 22 l/s pour éliminer efficacement la poussière et les poils d’animaux. Sa station OMNI automatise l’entretien, avec un lavage du rouleau à l’eau chaude sous pression et un nettoyage du réservoir d’eau sale pour limiter les résidus et les odeurs. Caractéristiques principales : * Aspiration jusqu’à 22 000 Pa et technologie BLAST anti-enchevêtrement. * Système TruePass à 4 roues motrices adaptatives, capable de franchir une marche jusqu’à 2,4 cm ou plusieurs marches jusqu’à 4 cm. * Station OMNI avec lavage à l’eau chaude sous pression et entretien automatisé. * Navigation AIVI 3D 4.0 et assistant YIKO 2.0 pour cartographier, planifier et adapter le nettoyage.",
+    "price": 749.0,
+    "reference_price": 849.0,
+    "discount_percent": 11.8,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecovacs-deebot-x12-pro-omni-aspirateur-robot-22-000-pa-lavage-a-leau-chaude-et-franchissement-de-seuils-jusqua-4-cm-3432447",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/lqp2h/3432447_1/re/1200x1200/qt/90/3432447_1.jpg",
+    "detected_at": "2026-10-14T14:42:38+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0GLNQSF9C?smid=A14K9DHD91ZMO5",
+    "price_history": [
+      {
+        "price": 749.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Projecteur LED compact Amaran Ace 25x (Vendeur tiers)",
+    "description": "42€ - Amazon Amaran Ace 25x Lumière LED Bi-Color, 32W Lumière Vidéo on-Camera, 2700K-6500K, 6320 Lux @ 0,5m, Charge Rapide USB-C, Montage Magnétique, 9 Effets Lumineux, Contrôle Via App amaran sans Fil Existe en White et Pink 42€ au lieu de 84€ Lumière Compacte & Puissante On-Camera – Le amaran Ace 25x offre jusqu'à 32W de puissance LED bi-color avec un mode Boost pour une luminosité supplémentaire. Parfait pour les créateurs en déplacement, il fournit 6 320 lux à 0,5 m (5 600K) dans un design de poche, idéal pour la création de contenu dans n'importe quel environnement. Installation Rapide & Facile – Grâce à la monture à dégagement rapide amaran Ace Lock, la lumière se fixe à votre caméra ou trépied en une seconde, garantissant des ajustements rapides et une stabilité pendant les tournages. Gagnez du temps avec cette installation ultra-rapide pour ne jamais manquer un moment. Autonomie prolongée et charge rapide – Profitez de jusqu'à 4 heures et 40 minutes d'autonomie en mode Silencieux, ou de 70 minutes en mode Standard. Grâce à la charge rapide, la lampe atteint 90 % de sa capacité en seulement 40 minutes, réduisant ainsi les temps d'arrêt et préservant la continuité de votre flux de travail créatif. Commandes Personnalisées & Intégration de l'App Sans Fil – Simplifiez votre éclairage avec des raccourcis personnalisés, une luminosité réglable et des modes de ventilation, accessibles via un écran couleur convivial ou l'application amaran sans fil. Obtenez un éclairage parfait en toute simplicité. Effets Lumineux Polyvalents & Haute Précision des Couleurs – Avec 9 effets lumineux intégrés, y compris Paparazzi, Feux d'artifice et TV, vous pouvez ajouter une touche créative à vos prises de vue. Avec un indice CRI et TLCI de 95+, et une température de couleur ajustable de 2 700K à 6 500K, il garantit un éclairage précis et naturel pour toutes les situations.",
+    "price": 42.0,
+    "reference_price": 84.0,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/amaran-ace-25x-32w-white-et-pink-3432439",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YeutW/3432439_1/re/1200x1200/qt/90/3432439_1.jpg",
+    "detected_at": "2026-10-14T14:41:57+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 42.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Airfryer Moulinex Dual Easy Fry & Grill (EZ905D20) - 8,3 L, 2 tiroirs, 2450 W",
+    "description": "129,99€ - Darty Remise sur ce Moulinex double tiroir, avec une fonction gril ! Le Dual Easy Fry & Grill EZ905D20 passe à 129,99 € chez Darty au lieu de 199,99 €. Capacité totale de 8,3 litres qui se répartit en deux tiroirs indépendants. Un mode de synchronisation pour terminer les deux cuissons en même temps. Infos importantes : Capacité totale : 8,3 litres Deux tiroirs de 5,2 et 3,1 litres Puissance : 2450 W 8 programmes automatiques Fonction gril intégrée Synchronisation des cuissons Pièces amovibles compatibles lave-vaisselle Garantie légale de conformité de 2 ans Vendu et expédié par Darty, livraison gratuite Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
+    "price": 129.99,
+    "reference_price": 199.99,
+    "discount_percent": 35.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/airfryer-moulinex-dual-easy-fry-grill-ez905d20-83-l-2-tiroirs-2450-w-3432446",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1mrHr/3432446_1/re/1200x1200/qt/90/3432446_1.jpg",
+    "detected_at": "2026-10-14T14:41:20+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 129.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Huile de Massage pour Bébé Biolane - 50 ml",
+    "description": "5€ - Amazon HUILE DE MASSAGE L'huile de massage pour bébé Biolane favorise la détente et l'apaisement de bébé, le préparant doucement à une douce nuit. Cette huile de massage offre une expérience de massage douce et apaisante, et crée un vrai moment de complicité entre le parent et le bébé. RITUEL DU SOIR L'huile de massage Biolane offre un moment de détente conçue pour le rituel du soir. L'huile permet de préparer en douceur bébé avant une nuit paisible, massez délicatement la peau avec l'huile relaxante afin d'aider bébé à se détendre. L'arôme subtil et apaisant de l'huile crée une atmosphère relaxante pour le rituel du soir. FAVORISE LA DÉTENTE L'huile massage et relaxation de Biolane aide à apaiser et calmer bébé. Des mouvements doux et réguliers aident les bébés agités à se calmer et permettent d'améliorer leur sommeil. Masser les bras, les jambes, le dos et le ventre pour bénéficier de bienfaits apaisants pour votre bébé. INGRÉDIENTS D'ORIGINE NATURELLE Formulées à 99% d'ingrédients d'origine naturelle, l'huile de massage relaxante Biolane est composées d'huiles nourrissantes de sésame, cameline et amande douce. La formule douce a été élaborée pour prendre soin des peaux sensibles des bébés. Testée cliniquement sous contrôle médical pour la grande sécurité des bébés. L'huile massage relaxante pour bébé laisse une peau douce. FABRIQUÉE EN FRANCE L'huile de massage relaxante de Biolane est fabriquée en France, assurant une grande qualité de produit. Format de 50ml à utiliser tous les soirs, pour un moment de détente, de partage et d'apaisement.",
+    "price": 5.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/biolane-huile-de-massage-bebe-favorise-la-detente-50ml-3432445",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LwjOe/3432445_1/re/1200x1200/qt/90/3432445_1.jpg",
+    "detected_at": "2026-10-14T14:40:51+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sac de transport Extensible pour Chats Pecute - L 32 x l 26 x H 42 cm",
+    "description": "43,71€ - Amazon 【REMARQUE】Avant d'acheter, veuillez mesurer la hauteur assise du chien (des pattes avant au sommet de la tête) pour vous assurer que la hauteur assise du chien est dans la plage recommandée, sinon elle peut être trop grande ou trop petite ; Taille L : 42*32*26cm, convient aux chats animal de moins de 5kg ; Taille XL : 48*39*28cm, pour les animal moins de 7kg. 【Extensible Et Pliable】 Pecute Sac Transport Chat Chien: Basé sur des sacs à dos de transport chat chien ordinaires, il augmentera l'espace d'expansion. Après l'expansion, l'espace intérieur augmentera de 90 %. Pliable, lorsque vous n'avez pas besoin de l'utiliser, le sac à dos chat petit chien plié prend très peu de place 【Une Circulation d'air Maximale et des Entrées Multiples】Pecute Sac a Dos pour Chien : Comprend des fenêtres à mailles respirâtes sur trois côtés, qui donnent beaucoup d'air aux chiens et aux chats. Il vous permet d'observer facilement les mouvements de votre animal, pendant que vous l'observez, il profite également du paysage extérieur. Grâce aux fermetures éclair sur le dessus et sur le devant, vos adorables animaux peuvent facilement entrer et sortir de notre cage de transport 【La Sécurité et Le Stockage】Pecute Sac a Dos pour animaux de compagnie de Transport：①Il adopte une fermeture éclair de type verrou pour empêcher les animaux de compagnie de l'ouvrir. ②L'intérieur du sac à dos est équipé d'une corde de sécurité qui peut être attachée au collier pour empêcher les animaux de compagnie de tomber accidentellement. ③Les poches des deux côtés peuvent contenir des sacs de nourriture et de déchets ainsi que certains accessoires nécessaires 【Une Conception Qui Absorbe Les Chocs】Pecute Sac aDos Chiens: Respirant, résistant à la décompression et aux chocs, le coussin dorsal en éponge alvéolaire, qui allège la pression et est facilement déplaçable. Spécifications Couleur: Bleu-Respirant Marque: Pecute Dimensions du produit: 32L x 26l x 42H centimètres Matériau: Mailles Caractéristique spéciale: Bandoulière réglable, Coffre-fort extérieur, Expansible Poids de l'article: 3,5 Livres Utilisations recommandées pour le produit: Transport de petits chiens ou chats pendant les voyages, les activités de plein air ou les visites vétérinaires Voir plus Taille: L 32 x l 26 x H 42 cm Style: Moderne Type de fermeture: Fermeture éclair Nom du modèle: Sac à dos Chat Nombre d' articles: 1 Fabricant: pecute Type d’animal de compagnie: Chat Pays d'origine: Chine Composants inclus: sac à dos chat Numéro du modèle: PC-PCB04 Espèces visées: Chien Numéro de pièce: PSM-05M Unité de comptage: 1.0 unité Description de la garantie: 1 ans constructeur Public visé: Chat, Chien Classement des meilleures ventes d'Amazon: 1143 en Animalerie (Voir les 100 premiers en Animalerie) 4 en Sac à dos de transport pour chiens ASIN: B08BZ5SZ65 Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (1 530) 4,7 sur 5 étoiles Dimensions de l'article L x l x H: 32L x 26l x 42H centimètres Poids de l’article: 3,5 Livres Fonctionnalités spéciales: Bandoulière réglable, Coffre-fort extérieur, Expansible Taille de la race: Petit Compatible avec le type de véhicule: Bicyclette, Voiture Usages recommandés pour le produit: Transport de petits chiens ou chats pendant les voyages, les activités de plein air ou les visites vétérinaires Charge maximale recommandée: 11 livres Point fort de l’article: Sac de Transport pour Chat Solide et Sécurisé avec Matelas en Peluche Amovible, Portable Sac a dos Chien pour Voyage, Achats Commentaires client",
+    "price": 43.71,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pecute-sac-a-dos-chat-extensible-sac-transport-chat-respirant-bleu-3432444",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/eQYQT/3432444_1/re/1200x1200/qt/90/3432444_1.jpg",
+    "detected_at": "2026-10-14T14:36:55+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 43.71,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tablette 11\" Honor Pad X8a - FHD 90Hz, Snapdragon 680, RAM 4 Go, 64 Go, 8300mAh, 22.5W",
+    "description": "93,55€ - AliExpress [Nom du marchand] Tablette 11\" HONOR Pad X8a – FHD+ 90 Hz, 8 300 mAh, 4 haut-parleurs (Version UE) Prix de référence habituel : ~149,99 € – 169,99 € Prix du deal : [Insérer le prix promo, ex. : 99,00 €] Frais de port : Gratuits (ou à préciser selon le marchand) Code promo / Coupon : [Insérer le code ou « Coupon à cocher sur la page »] Description du deal Une tablette d'entrée de gamme soignée et très bien positionnée sous la barre des 150 €, parfaite pour la consultation web, les cours en ligne, la lecture et le streaming multimédia. La version européenne dispose de toutes les certifications nécessaires et intègre nativement l'ensemble des services Google (Play Store, YouTube, etc.). Caractéristiques principales Écran : Dalle de 11 pouces LCD TFT, définition FHD+ (1920 × 1200 px), taux de rafraîchissement fluide de 90 Hz, certifiée TÜV Rheinland (faible émission de lumière bleue et technologie anti-scintillement pour le confort visuel) Processeur : Qualcomm Snapdragon 680 (octa-core gravé en 6 nm), performant et économe en énergie Audio : Système sonore immersif composé de 4 haut-parleurs stéréo avec algorithme d'optimisation vocale HONOR Histen Batterie & Autonomie : Capacité généreuse de 8 300 mAh garantissant jusqu'à 14 heures de lecture vidéo continue Design & Finition : Corps fin en alliage métallique unibody, épaisseur contenue de 7,25 mm et poids plume d'environ 495 g Stockage & RAM : 4 Go de RAM avec 64 ou 128 Go de stockage (extensible facilement jusqu'à 1 To par carte MicroSD) Système : Interface MagicOS 8.0 basée sur Android 14, fluide et intuitive Connectivité & Caméras : Wi-Fi 5 double bande, Bluetooth 5.1, capteur photo 5 MP à l'arrière et caméra frontale 5 MP pour les appels vidéo Les atouts en bref Confort visuel : Grand affichage 11 pouces 90 Hz particulièrement agréable pour les longues sessions de lecture et de navigation. Expérience multimédia : Les 4 haut-parleurs délivrent un son clair et puissant, rare sur cette gamme de prix. Autonomie longue durée : L'accumulateur de 8 300 mAh encaisse facilement plusieurs journées d'utilisation modérée sans recharge. Finition premium : Châssis métallique fin et élégant offrant une excellente prise en main.",
+    "price": 93.55,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tablette-11-honor-pad-x8a-fhd-90hz-snapdragon-680-ram-4-go-64-go-8300mah-225w-3432443",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/P9Hql/3432443_1/re/1200x1200/qt/90/3432443_1.jpg",
+    "detected_at": "2026-10-14T14:36:03+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 93.55,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets basses Calvin Klein Classic Cupsole - black/bright white",
+    "description": "54,95€ - Zalando",
+    "price": 54.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/calvin-klein-classic-cupsole-laceup-baskets-basses-blackbright-white-3432442",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/f3kB3/3432442_1/re/1200x1200/qt/90/3432442_1.jpg",
+    "detected_at": "2026-10-14T14:35:45+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 54.95,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tondeuse Homme Gillette Labs Body + Intimate i3, 4 Accessoires, Noire",
+    "description": "39,90€ - Amazon TONDEUSE POUR LE CORPS ET LA ZONE INTIME GILLETTE LABS i3 : comprend deux sabots pour le corps (3mm et peau sensible) et une brosse de nettoyage TECHNOLOGIE SKINFIRST : jusqu'à 0 % de coupures et d'entailles faisant d'elle la technologie de tondeuse corporelle la plus sûre de Gillette* (*moins de coupures et d'entailles avec le sabot peau sensible) MANIABILITÉ PRÉCISE : Conçu pour un contrôle facile, le design compact et ergonomique de la tondeuse pour le corps permet une manipulation précise partout, même dans les zones difficiles d'accès RASAGE CONFORTABLE : Pour un rasage corporel confortable pour les hommes - le sabot peau sensible offre une protection renforcée pour un confort ultime, même sur les peaux sensibles LAMES DURABLES : Doté de lames durables de Gillette, d'un design étanche et d'une batterie NiMH robuste avec une autonomie de 80 minutes Spécifications Pile(s) / Batterie(s): 1 A - incluse(s) Dimensions du colis: 20,2 x 11,4 x 5,6 cm; 210 grammes Fabricant: Procter & Gamble ASIN: B0G6WXP4LN Numéro du modèle de l'article: 8006530219518 Pays d'origine: Chine Mises à jour logicielles garanties jusqu’à: Information non disponible Utilisations recommandées pour le produit: Corps, Soin de la zone intime Couleur: Noir Poids de l'article: 210 Grammes Marque: Gillette Source d'alimentation: Alimenté par batterie Caractéristique spéciale: Imperméable, Multigroomer, Rechargeable, Sans fil Matériau de la lame: Acier inoxydable Public cible: Homme Piles requises ?: Oui Nom de modèle: Gillette Labs i3 Usages recommandés pour le produit: Corps, Soin de la zone intime Public ciblé: Homme Nom du modèle: Gillette Labs i3 Utilisations spécifiques pour le produit: Pour corps et zone intime Nombre de paquets: 1 Composants inclus: 1 tondeuse GilletteLabs i3, 2 accessoires de coupe de précision, Chargeur Point fort de l’article: pour Tondre Corps et Zone Intime, Etanche, Sabot pour la Peau Sensible, Technologie Autosense, Batterie Rechargeable Incluse Unité de comptage: 1 unité Type de cheveu: Tous Numéro de modèle: 8006530219518 Numéro de pièce: 8006530219518 Classement des meilleures ventes d'Amazon: 841 en Hygiène et Santé (Voir les 100 premiers en Hygiène et Santé) 7 en Tondeuses corps Moyenne des commentaires client: 4,1 4,1 sur 5 étoiles (366) 4,1 sur 5 étoiles Source d'energie: Alimenté par batterie Caractéristiques spéciales: Imperméable, Multigroomer, Rechargeable, Sans fil Est-ce que les batteries sont nécessaires: Oui Est imperméable: Vraie Longueur de coupe maximale: 3 Millimètres Mode de fonctionnement: électrique Longueur de coupe minimale: 3 Millimètres Temps de charge: 8 heures Matériau de la Lame: Acier inoxydable Commentaires client",
+    "price": 39.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/gillette-labs-body-intimate-tondeuse-homme-i3-4-accessoires-noire-3432441",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/V1oJA/3432441_1/re/1200x1200/qt/90/3432441_1.jpg",
+    "detected_at": "2026-10-14T14:33:50+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 39.9,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CarPlay Moto Android Auto",
+    "description": "44,19€ - AliExpress Produit chimique à haute préoccupation Nom de marque Origine Mémoire externe maximale Taille de l'écran Niveau d'étanchéité Matériau Résolution Aucun EKIY CN (Origine) 16G 5.0 inch IPX7 Plastic 854*480",
+    "price": 44.19,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/carplay-moto-android-auto-portable-numerique-moto-tableau-de-bord-gps-navigation-3432438",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NCl1d/3432438_1/re/1200x1200/qt/90/3432438_1.jpg",
+    "detected_at": "2026-10-14T14:26:09+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 44.19,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "T-shirt Reebok Cray - 100% coton, taille du XS au XXL",
+    "description": "10€ - JD Sports Tes journées off gagnent un basique : le T-shirt Reebok Cray pour homme blanc en coton doux et résistant. Exclusivité JD Col rond côtelé Manches courtes Grand logo Reebok sur la poitrine Entretien : lavable en machine Matière 100% coton",
+    "price": 10.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/t-shirt-reebok-100-coton-noir-ou-blanc-tailles-xs-a-xxl-3432437",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bXc4j/3432437_1/re/1200x1200/qt/90/3432437_1.jpg",
+    "detected_at": "2026-10-14T14:23:36+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 10.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vélo Gravel Salsa Journeyer 2.1 Clarisse All-Road",
+    "description": "699,99€ - Private Sport Shop Vélo Gravel de la marque SALSA Journeyer 2.1 ALL-ROAD Spécifications : Cadre Cadre : Journeyer Drop-Bar Quick-Release Fourche : Queue en éventail Transmission Pédalier : Shimano TY501 46/30 dents, boîtier de pédalier Shimano UN101 68 x 122,5 mm Dérailleur avant : Shimano Claris R2000 Dérailleur arrière : Shimano Claris R2000, chape moyenne Cassette : Shimano HG31 11–34 dents Chaîne : KMC X8 Composants Poignées / Ruban de guidon : Liège noir Guidon : Salsa Cowbell 3, 31,8 Tige : Salsa Guide 31,8, 6 degrés Casque audio : FSA NO.42 ACB IS-2 Manette de vitesses : Shimano Claris R2000 Freins et disques : Tektro MD-C310, Shimano RT10 (Center Lock, 160 mm) Selle : WTB Volt Medium, acier, 142 x 265 mm Seatclamp : salsa Lip-Lock Tige de selle : Salsa Guide 27,2 x 350 mm, déport de 12 mm Roues Roue avant : moyeu Shimano TX505 9 x 100 mm à blocage rapide, jante WTB ST i23 700c, 32 trous Roue arrière : moyeu Shimano TX505-8 10 x 135 mm à blocage rapide, jante WTB ST i23 700c, 32 trous Pneus : Teravail Washburn, 700c x 38 mm, 30 tpi",
+    "price": 699.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/velo-gravel-salsa-journeyer-21-clarisse-all-road-3432436",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0Mfjo/3432436_1/re/1200x1200/qt/90/3432436_1.jpg",
+    "detected_at": "2026-10-14T14:18:19+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 699.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sneakers Puma X-Ray 4 - Tailles du 35 au 48, Coloris Noir ou Blanc",
+    "description": "36€ - Puma Sneakers Puma X-Ray 4 - Plusieurs coloris Les baskets legeres Puma X-Ray 4 pour homme et femme sont actuellement proposees a 36,00€ au lieu de 60,00€ sur le site officiel de la marque. Ces sneakers affichent une tige en mesh respirant avec des empiements synthetiques et une semelle intermediaire en EVA pour un amorti leger au quotidien. Plusieurs coloris sont disponibles au meme prix, notamment le modele blanc PUMA White-Feather Gray, ainsi que de nombreuses pointures allant du 35.5 au 48. La livraison est gratuite a partir de 50€ d'achat, ou facturee 4,95€ en dessous. Un code de bienvenue de 15% via inscription newsletter permet d'optimiser davantage la commande. Lien direct : https://eu.puma.com/fr/fr/pd/sneakers-legeres-x-ray-4-unisexe/407361?swatch=02 Prix : 36,00 € Frais de port : 4,95 € Code promo : Aucun",
+    "price": 36.0,
+    "reference_price": 60.0,
+    "discount_percent": 40.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sneakers-puma-x-ray-4-tailles-du-35-au-48-coloris-noir-ou-blanc-3432435",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9d9Ea/3432435_1/re/1200x1200/qt/90/3432435_1.jpg",
+    "detected_at": "2026-10-14T14:17:13+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 36.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
     "title": "CarPlay Android Auto sans fil Junsun pour Clio 4 2012-2017",
     "description": "71,65€ - AliExpress Garantie 3 Years Station prédéfinie Set by yourself Type de tuner 4745/MT6625N Lecteur DVD intégré no Lecteur CD intégré no Jeu de puces MTK 8-core Vitesse du processeur 1.3Ghz~2.0Ghz Type de processeur AMP7388 Est-ce un écran tactile Oui Écran intégré Oui Catégorie Combination product Emplacement TF/Micro SD 2 Din double din mémoire vive 4G Interface USB,RCA Système D'exploitation ANDROID 13 Pouvoir hors 4*45W Tension 12 V Poids de l'article 2.5kg Taille de l'article 10 inch Mémoire externe maximale 256G Fonctionnalités spéciales Haut-parleur/microphone intégré,fonction wifi,Prise en charge de la commande au volant,Prise en charge du réseau 3G,Prise en charge du réseau 4G,Prise en charge du bus Can,GPS intégré,Téléphone mobile,Lecteurs mp3 Format multimédia numérique Mp3,MP4 : la MP4 est un format de fichier audio et vidéo,WMA,JPEG",
     "price": 71.65,
@@ -11403,8 +12169,8 @@
     "title": "Asics GEL-NYC - Maternelle Chaussures",
     "description": "60€ - Foot Locker Asics GEL-NYC - Maternelle Chaussures",
     "price": 60.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 94.99,
+    "discount_percent": 36.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/asics-gel-nyc-maternelle-chaussures-3432406",
     "image_url": "https://www.dealabs.com/assets/img/default-deal_ce491.svg",
@@ -11491,8 +12257,8 @@
     "title": "Lot de 4 Trackers Ugreen FineTrack Duo 2 - iOS & Android, Recharge USB-C, Autonomie 12 mois, IP68, 110 dB (Vendeur tiers)",
     "description": "37,75€ - Amazon Prix intéressant pour ce lot de 4 trackers Ugreen certifiés pour Apple Find My et Google Find Hub ! (y) ► Caractéristiques & Description Compatible avec Apple et Google : UGREEN FineTrack Duo 2 est certifié pour Apple Find My et Google Find Hub et prend en charge iOS 14.5 et versions ultérieures ainsi qu'Android 9.0 et versions ultérieures. Il peut être utilisé avec des appareils Apple ou Android. Remarque : il ne peut pas être utilisé simultanément avec les deux systèmes. Jusqu’à 12 mois d’autonomie et recharge USB-C : Batterie rechargeable intégrée de 90 mAh, offrant jusqu’à 12 mois d’autonomie (selon les conditions d’utilisation). Lorsque l’appareil est inactif, il passe automatiquement en mode veille à faible consommation, et l’app envoie une notification lorsque le niveau de batterie est faible. La recharge via USB-C prend environ 1,5 à 2 heures, sans remplacement fastidieux de la batterie ni chargeur dédié : il suffit de brancher l’appareil pour le recharger. Signal sonore jusqu’à 110 dB : Le haut-parleur intégré émet un signal sonore jusqu’à 110 dB. Dans la portée Bluetooth (jusqu’à 20 mètres en extérieur), vous pouvez déclencher la sonnerie via l’app. La sonnerie dure jusqu’à 60 secondes et une courte pression sur le bouton permet de l’arrêter. Avec un volume de 110 dB, aux 80 dB des localisateurs ordinaires, ce tracker vous aide à retrouver rapidement vos clés ou votre portefeuille, même sous les coussins du canapé, dans un sac à main bien rempli ou dans des environnements bruyants tels qu’une gare. Résistance à l’eau et à la poussière IP68 : Ce tracker est doté d’une protection contre l’eau et la poussière et peut être immergé dans une eau jusqu’à 1 mètre de profondeur pendant 60 minutes maximum. Contrairement aux trackers classiques, que ce soit pendant des vacances à la plage, un camping sous la pluie, dans une trousse de toilette humide ou après une chute accidentelle dans un évier, le tracker peut fonctionner de manière fiable. Cette conception robuste et durable vous permet de l’utiliser en toute confiance où que vous soyez. Lot de 4 Trackers : Le lot comprend 4 trackers pour suivre plusieurs objets tels que les clés, le sac à dos, le portefeuille, la sacoche pour ordinateur portable ou les bagages. Chaque tracker peut être associé et géré séparément. Le partage via l'application permet de partager certains trackers avec jusqu'à 5 utilisateurs sur Apple et 9 sur Google. État de la batterie : Après l’ajout à l’app Apple « Localiser » ou Google Find Hub, l’état de la batterie se met progressivement à jour pour afficher les dernières informations. Il s’agit du fonctionnement normal de l’application. Veuillez patienter, aucune inquiétude à avoir. Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
     "price": 37.75,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 52.99,
+    "discount_percent": 28.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lot-de-4-trackers-ugreen-finetrack-duo-2-ios-android-recharge-usb-c-autonomie-12-mois-ip68-110-db-vendeur-tiers-3432401",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lZ01Y/3432401_1/re/1200x1200/qt/90/3432401_1.jpg",
@@ -15910,8 +16676,8 @@
     "title": "Évier compact Inox Jabiri - 1 cuve/1 égouttoir, L.76 x P.43,5 cm",
     "description": "29,90€ - Castorama Si vous cherchez un évier inox, prix plutôt intéressant Caractéristiques du produit Optimisez votre espace cuisine avec l'égouttoir réversible de l'évier compact Jabiri en acier inoxydable. Conçu pour s'adapter à tous les plans de travail, cet évier à une cuve associe parfaitement design moderne et robustesse au quotidien. Sa haute résistance à la chaleur allant jusqu'à 180 degrés garantit une longévité exceptionnelle face aux chocs thermiques. Facile à poser grâce à ses fixations et sa notice incluses, il convient aussi bien aux bricoleurs novices qu'aux professionnels. Profitez d'un équipement de qualité supérieure pour simplifier vos tâches ménagères avec ce modèle disponible chez Castorama. Égouttoir réversible pour une installation flexible à gauche ou à droite de votre cuve. Acier inoxydable de haute qualité offrant une excellente résistance à la corrosion. Résistance thermique élevée supportant des températures de cuisine jusqu'à 180 degrés. Adaptabilité totale avec une compatibilité garantie sur tous les types de plans de travail. Diamètre de perçage standard de 35 mm pour accueillir facilement votre robinet. Évacuation rapide et fluide de l'eau grâce à un diamètre de vidage optimal de 90 mm. Pack complet comprenant les raccords, les fixations et une notice de montage claire. Entretien simple et rapide au quotidien grâce à sa surface lisse non poreuse. Design compact idéal pour optimiser l'espace des petites et moyennes cuisines. Conforme à la norme européenne EN 13310 garantissant la sécurité et la qualité du produit. Spécifications techniques Type d'article Évier de cuisine avec égouttoir Gamme Jabiri Nombre de bac(s) 1 Égouttoir Égouttoir réversible Largeur minimale du meuble 450mm Matière Acier inoxydable Couleur Acier inoxydable Plan de travail compatible Convient à tous les plans de travail Nombre de trous de robinet 1 Pré-perçage Pré-percé Diamètre de perçage pour robinet (en mm) 35mm Diamètre d'évacuation 90mm Évacuation comprise Bonde vendue séparement Kit de vidage requis Kit A Raccords et fixations inclus Raccords et fixations inclus Type de raccord Encastré Longueur (cm) 76cm Largeur (cm) 76cm Profondeur (cm) 43.5cm Hauteur (cm) 16cm Épaisseur (mm) 0.6mm Inclus Raccords, fixations et notice inclus Résistance à la chaleur Résistant à la chaleur Résistant aux rayures Non résistant aux rayures Réversible Réversible Norme EN 13310 Garantie fabricant 15 ans",
     "price": 29.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 49.9,
+    "discount_percent": 40.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/evier-compact-inox-de-cuisine-jabiri-1-cuve1-egouttoir-l76-x-p435-cm-3432154",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/A4OsZ/3432154_1/re/1200x1200/qt/90/3432154_1.jpg",
@@ -15932,8 +16698,8 @@
     "title": "Flacon de 473ml de Cire Lustrante Meguiar's G191016EU - 3 en 1",
     "description": "23,74€ - Amazon MarqueMeguiar's Forme de l'articleLiquide Usages spécifiques pour le produitBrillant, brillant, propre, poli, nettoyage Utilisations recommandées pour le produitNettoie, polissage, pour protéger la peinture Poids de l'article16 Onces Nombre d'articles1 Trois en un: ravive, lustre et protège en une seule étape Ravive la peinture: Elimine les légers défauts de peinture comme les traces d’eau, les fins tourbillons ou le voile terne Brillance profonde: augmente la brillance, les reflets et la profondeur de couleur Protection durable: apporte une protection durable contre les agressions qu’une peinture peut subir de la part des éléments Facile d’utilisation: bien plus facile à appliquer et à essuyer qu’une cire traditionnelle à base de carnauba",
     "price": 23.74,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 32.07,
+    "discount_percent": 26.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/meguiars-g191016eu-cire-lustrante-3-en-1-473ml-3432149",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/CHb9q/3432149_1/re/1200x1200/qt/90/3432149_1.jpg",
@@ -15954,8 +16720,8 @@
     "title": "Pack Boite à Histoires Lunii + Livre Audio Défi Vilain Échappe à Scar + 1 Livre Audio au Choix",
     "description": "55,92€ - Amazon À propos de cet article TOUT EST DANS LA BOÎTE : La conteuse Ma Fabrique à Histoires verte, le livre audio officiel Le Roi Lion, Échappe à Scar, et un second livre audio Lunii à choisir parmi 2 titres. Plus de 2h d'histoires dès le premier soir, sans écran et sans connexion pendant l'écoute. LE ROI LION, ÉCHAPPE À SCAR : Le livre audio officiel emmène l'enfant dans la savane avec les voix des personnages, dans un récit interactif où c'est lui qui décide de la suite. L'écoute se fait à tout moment, sans internet, dans la chambre comme sur la route des vacances. COMPOSEZ VOS HISTOIRES, ÉCOUTEZ VOS CRÉATIONS : L'enfant choisit les éléments de son récit, un héros, un lieu, un accessoire, un compagnon, puis écoute sa création prendre vie. Un tour de molette, et l'histoire n'est plus la même. Pas de bonne réponse, pas de parcours imposé : il crée sans contrainte. UN ESPACE DE CONFIANCE, SANS INTRUS : Sans internet, sans publicité, sans algorithme qui décide à sa place. Les livres audio s'ajoutent en Wi-Fi depuis l'application, puis la connexion se coupe seule : l'écoute se fait sans ondes et sans écran. L'enfant s'évade librement, les parents restent sereins. FABRIQUÉE EN FRANCE ET POUR DURER : Choisir la durabilité, c'est aussi un geste pour la planète : garantie 2 ans, réparable, éco-conçue, avec un programme d'échange et de reconditionnement. Le cadeau des 3 à 8 ans, qui continue de faire plaisir bien après le déballage.",
     "price": 55.92,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 69.55,
+    "discount_percent": 19.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/pack-ma-fabrique-a-histoire-boite-a-histoires-lunii-livre-audio-defi-vilain-echappe-a-scar-1-livre-audio-au-choix-3432150",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Xw20x/3432150_1/re/1200x1200/qt/90/3432150_1.jpg",
@@ -15976,8 +16742,8 @@
     "title": "LEGO Speed Champions 77260 - La Toyota Supra MK4 de Fast and Furious",
     "description": "17,99€ - Amazon Jouet voiture dès 10 ans ou ado, maquette avec minifigurine de Brian O’Conner, idée de cadeau STEM, 292 pièces",
     "price": 17.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 21.01,
+    "discount_percent": 14.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-la-toyota-supra-mk4-de-fast-and-furious-77260-3432148",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/W8ZZl/3432148_1/re/1200x1200/qt/90/3432148_1.jpg",
@@ -15995,11 +16761,33 @@
     ]
   },
   {
+    "title": "40% remboursé sur la Carte de Fidélité valable sur l'hygiène bébé - Lingettes & Soins",
+    "description": "E.Leclerc Salut la communauté ! Grosse offre puériculture à ne pas rater aujourd'hui seulement chez E.Leclerc ! Vous bénéficiez de 40% remboursés en Ticket Leclerc sur tout le rayon hygiène bébé Lingettes & eau nettoyante, Gel lavant, shampoing, crèmes et soins, ... Détails & Conditions : Valable uniquement aujourd'hui ! Où ? En magasin physique et sur le Drive. Condition : Présentation de la carte de fidélité E.Leclerc lors du passage en caisse ou validation de la commande Drive. Cagnotte: Le Ticket Leclerc s'accumule directement sur votre carte et sera utilisable dès votre prochain passage dès demain !",
+    "price": 5.15,
+    "reference_price": 7.0,
+    "discount_percent": 26.4,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/magasin-drive-40-en-ticket-leclerc-sur-lhygiene-bebe-lingettes-soins-uniquement-aujourdhui-3432147",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DgZYq/3432147_1/re/1200x1200/qt/90/3432147_1.jpg",
+    "detected_at": "2026-10-14T07:28:17+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "http://E.Leclerc",
+    "price_history": [
+      {
+        "price": 5.15,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
+      }
+    ]
+  },
+  {
     "title": "Abri de jardin résine Lifetime Landmark 60501 - Gris, surface totale 4.54 m²",
     "description": "519,90€ - Castorama Bon tarif pour un abri en résine avec une garantie de 10 ans Caractéristiques du produit Avec cet Abri Résine Lifetime 60501, facile de ranger et de stocker vos produits de jardin : avec ses 3,96 m² au sol, vous pouvez y entreposer vélos, outils, tondeuse ou mobiliers de jardin… Garantie 10 ans, en panneaux en résine 23mm (Polyéthylène Haute Densité – HDPE) traités anti UV et avec renforts en acier améliorant sa durabilité, cet abri résiste à de nombreuses intempéries, et requiert peu d’entretien. Sa finition imitation bois et tuiles très esthétique lui permet de s’intégrer quel que soit le style de votre jardin. Dimensions intérieures : L. 199 x P. 199 cm / Surface intérieure : 3,96 m² Dimensions totales extérieures hors tout : L. 214 x P. 214 x H. 227 cm / Surface totale extérieure hors tout : 4,54 m² Informations supplémentaires Avec double porte d'entrée de largeur 1.37m et hauteur 1.91m permettant un accès simplifié verrouillable (cadenas vendu séparément) Avec plancher très robuste idéal pour entreposer et protéger les objets lourds Charpente métallique pour plus de résistance et de durabilité Hauteur de faîtage suffisamment importante pour permettre un déplacement facile à l’intérieur Montage facile et rapide par emboîtement et vissage, sans outils spécifiques nécessaires Avec fenêtre latérale et puit de lumière traversant le toit sur toute sa profondeur pour un éclairage efficace et naturel de tout l'abri Avec bouches d'aération intégrées permettant une ventilation optimale Spécifications techniques Type d'article Abri de jardin Marque Lifetime Surface intérieure (en m²) 4.37m² Type de toit Double pentes Matière du toit Résine Plancher fourni Plancher inclus Type de porte Porte double Nombre de portes 2 Nombre de fenêtres 1 Hauteur intérieure (cm) 200cm Dimensions intérieures l. 2,09 x P. 2,09 x H. 2,20 m Mode d'ouverture de la porte Battant Fenêtres fixes/avec ouvrant Fenêtres fixes et ouvrantes Type de vitrage Simple vitrage Matière du vitrage Polycarbonate Assemblage requis À monter soi-même Nombre de personnes nécessaires pour le montage 3 Raccords et fixations inclus Raccords et fixations inclus Base incluse Base non incluse Épaisseur du plancher (en mm) 27mm Épaisseur du toit (en mm) 32mm Surface totale hors-tout (en m²) 4.58m² Résistant aux ultraviolets Résistant aux UV Résistance aux intempéries Résistant aux conditions extérieures Garantie fabricant 10 ans Poids net (kg) 149kg",
     "price": 519.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 699.9,
+    "discount_percent": 25.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/abri-de-jardin-resine-lifetime-landmark-60501-gris-surface-totale-454-m2-3432145",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/FimZ4/3432145_1/re/1200x1200/qt/90/3432145_1.jpg",
@@ -16020,8 +16808,8 @@
     "title": "LEGO Pokémon Smart Play 72162 - Chasse au trésor d’Évoli et Lokhlass - 623 Pièces",
     "description": "44,90€ - Amazon Embarquez pour des aventures en mer avec le set SMART Play : Chasse au Trésor d’Évoli et Lokhlass (72162) LEGO Pokémon incluant les figurines articulées d’Évoli et Lokhlass. Les enfants dès 8 ans imaginent une infinité d’histoires, guident le duo jusqu’à l’épave et abaissent le mât pour soulever le rocher et révéler un coffre au trésor plein de pièces et de pierres précieuses. Évoli, Lokhlass et le coffre intègrent chacun un SMART Tag. Les SMART Briques incluses dans les sets Tout-en-un (vendus séparément) donnent vie aux aventures des Dresseurs Pokémon avec une infinités d’options de jeu interactif. Les Pokémon peuvent ainsi réagir les uns aux autres et au jeu des enfants par des sons, des lumières et plus encore. Les fonctions interactives incluent une mélodie émise quand un Pokémon transporte le trésor, des pièces qui tintent quand on le déplace, et les cris de joie des Pokémon lorsqu’il est en lieu sûr. Cette idée de cadeau amusante contient 623 pièces. LEGO 72162 Août 2026 8+ 623 pièces 59.99 € chez LEGO Contenu du set: : - JEU DE CONSTRUCTION ET AVENTURES SUR UNE ÉPAVE – Le set Chasse au trésor d’Évoli et Lokhlass LEGO Pokémon (72162) est un set Compatible SMART Play invitant les enfants à mettre le cap vers une infinité de jeux créatifs - JEU IMAGINATIF – Les enfants peuvent se transformer en Dresseur Pokémon, suivre une carte jusqu’à une épave, abaisser le mât pour soulever un rocher et découvrir un coffre au trésor rempli de pièces et de pierres précieuses - LES POKÉMON VOUS RÉPONDENT – Les SMART Tags d’Évoli, Lokhlass et du coffre au trésor activent les SMART Briques (non incluses), déclenchant des sons et des lumières lorsque les Pokémon réagissent les uns aux autres et au jeu interactif des enfants - 2 FIGURINES POKÉMON ARTICULÉES – Aidez l’adorable Évoli, avec queue et oreilles articulées, et la grande figurine de Lokhlass, dotée de nageoires mobiles, à chercher des trésors, à écouter de la musique et à combattre grâce au système SMART Play interactif - COMMENT ACTIVER VOTRE SET – Ajoutez la SMART Brique LEGO d’un set Tout-en-un (vendu séparément) pour activer des fonctions de jeu immersives. Les SMART Briques ne sont pas disponibles à l’achat séparément - JEUX SANS ÉCRAN – Les enfants peuvent partager avec leurs amis et leur famille une infinité de jeux créatifs riches en action en montant à bord du radeau d’Évoli ou en suivant Lokhlass, en quête d’aventures en mer - IDÉE DE CADEAU POUR LES ENFANTS – Inspirez une infinité de jeux de simulation avec ce petit cadeau à offrir pour un anniversaire, les fêtes ou en toute occasion aux garçons, aux filles et aux fans de Pokémon à partir de 8 ans - DIMENSIONS – La figurine de Lokhlass incluse dans ce jouet de construction de 623 pièces mesure plus de 16 cm de haut, 17 cm de large et 13 cm de profondeur",
     "price": 44.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 57.45,
+    "discount_percent": 21.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lego-pokemon-smart-play-72162-chasse-au-tresor-devoli-et-lokhlass-623-pieces-3432144",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/8r8Lv/3432144_1/re/1200x1200/qt/90/3432144_1.jpg",
@@ -16042,8 +16830,8 @@
     "title": "Coupe-branches à Lames Franches Hychika - 99cm",
     "description": "28,49€ - Amazon MarqueHYCHIKA BETTER TOOLS FOR BETTER LIFE CouleurVert Poids de l'article2 Kilogrammes StyleModerne Dimensions du produit99L x 20l centimètres Matériau de la lameAcier à haute teneur en carbone Longueur réglable : le taille haie manuel est doté d'un système extensible avec cinq réglages possibles. Il suffit d'appuyer sur le bouton extensible pour régler la longueur, qui peut atteindre 99 cm. La poignée peut être verrouillée à une longueur fixe, ce qui vous permet de couper facilement des branches à distance ou en hauteur sans avoir besoin d'une échelle. Lame en acier de haute qualité : la lame est fabriquée en acier à haute teneur en carbone et traitée thermiquement pour une plus grande résistance, un tranchant accru, une protection contre la rouille et une durabilité accrue. Son revêtement antidérapant réduit la friction pour permettre une coupe nette et précise sans risque de flexion, de rupture ou de déformation de la lame, et pour une durée de vie prolongée. Engrenages : Le sécateur télescopique est doté d'un système d'engrenages qui augmente la force appliquée aux lames, offrant ainsi d'excellentes performances de coupe et permettant une taille rapide et précise, ce qui le rend plus efficace et moins fatigant, tout en réduisant la pénibilité de la taille. Poignée confortable et antidérapante : le coupe de branches est doté d'une poignée ergonomique en aluminium léger. Le revêtement en caoutchouc de la poignée offre une prise en main sûre et confortable, permettant un meilleur contrôle pendant l'utilisation. Vous pouvez ainsi couper et tailler pendant de longues périodes sans inconfort, ce qui améliore votre efficacité. Polyvalent : le cisaille de jardin est doté d'une lame en forme de mâchoire de requin, capable de couper des branches jusqu'à 50 mm de diamètre. Il est idéal pour l'embellissement des paysages et l'entretien des jardins, et convient pour tailler les branches épaisses, les arbres fruitiers, les plantes en pot, les arbustes, les haies et les branches sèches et épaisses. Il est le choix parfait pour les professionnels et les amateurs de jardinage. Commentaires client",
     "price": 28.49,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 47.34,
+    "discount_percent": 39.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/hychika-99-cm-coupe-branches-a-lames-franches-3432137",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/QwxLH/3432137_1/re/1200x1200/qt/90/3432137_1.jpg",
@@ -16108,8 +16896,8 @@
     "title": "Sèche-serviette électrique De'longhi Merak Digit - 500W",
     "description": "189,90€ - Castorama Le sèche-serviettes électrique à inertie fluide 500W blanc De'Longhi Merak Digit est conçu pour chauffer et sécher les serviettes. *caractéristiques du produit :* - Inertie fluide - Collecteurs ronds et lames plates - Télécommande infrarouge magnétique et amovible - Thermostat discret en partie basse - Connexion Wi-Fi - Application RADIATORS Connect Existe en version gris 500w a 199,90 € castorama.fr/seche-serviettes-electrique-a-inertie-fluide-500w-noir-de-longhi-merak-digit/8053600040961_CAFR.prd Version 700w en blanc a 249,90€ castorama.fr/seche-serviettes-electrique-a-inertie-fluide-700w-blanc-de-longhi-merak-digit/8053600040954_CAFR.prd Version 700w en gris a 259,90 € castorama.fr/seche-serviettes-electrique-a-inertie-fluide-700w-noir-de-longhi-merak-digit/8053600040978_CAFR.prd",
     "price": 189.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 239.9,
+    "discount_percent": 20.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/seche-serviette-electrique-500w-delonghi-merak-digit-3432141",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lQA14/3432141_1/re/1200x1200/qt/90/3432141_1.jpg",
@@ -16130,8 +16918,8 @@
     "title": "Vinyle LP Pink Martini \"Sympathique\"",
     "description": "19,99€ - Amazon Big band de douze musiciens, les Américains de Pink Martini arrivent en véritables ovnis. La musique qu’ils proposent est un savoureux mélange archimaîtrisé de jazz et de danse de salon vintage. Leur univers laisse l’impression de revivre les heures de gloire d’une Havane en plein « rêve américain ». C’est avec le tube « Sympathique », repris dans de nombreuses pubs télé, que ces étranges fantômes du passé vont séduire un public très hétéroclite. À propos de ce produit Sympathique Commentaires client",
     "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 21.99,
+    "discount_percent": 9.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/vinyle-lp-pink-martini-sympathique-3432140",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pVL8T/3432140_1/re/1200x1200/qt/90/3432140_1.jpg",
@@ -16174,8 +16962,8 @@
     "title": "Climatiseur Réversible Midea PortaSplit - Prêt à Poser, 3500W, Jusqu'à 40m²",
     "description": "969€ - Castorama La fameuse clim portasplit est de retour. Apparemment les magasins en ont reçu un peu partout car le catalogue commence aujourd'hui Le climatiseur mobile réversible Midea PortaSplit 3500 W offre le parfait compromis entre la puissance d'un climatiseur split et la simplicité d'un système mobile. Idéal pour chauffer ou rafraîchir des pièces allant jusqu'à 40 m², cet appareil prêt à poser s'installe sans l'aide d'un professionnel en quelques minutes seulement. Grâce à sa connexion intelligente via l'application SmartHome et sa télécommande, vous pilotez votre confort thermique avec précision. Son fonctionnement silencieux et sa polyvalence en font un équipement indispensable en toutes saisons. Puissance de 3500 W idéale pour climatiser ou chauffer des pièces jusqu'à 40 m². Installation rapide sans professionnel grâce au kit de fixation et au kit fenêtre inclus. Confort polyvalent avec les modes climatisation, chauffage, déshumidification et ventilation. Niveau sonore réduit à partir de 39 dB pour un confort acoustique optimal de jour comme de nuit. Pilotage à distance simplifié avec la télécommande ou via l'application mobile dédiée. Performance de climatisation split avec la flexibilité d'un appareil mobile prêt à poser. Liaison flexible de 2 mètres entre les unités intérieure et extérieure pour un placement libre. Algorithme intelligent pour optimiser les performances de l'appareil en temps réel. Diffusion d'air homogène avec un déflecteur réglable pour éviter les courants d'air directs. Garantie fabricant de 2 ans pour vous assurer une utilisation sereine et durable.",
     "price": 969.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 999.0,
+    "discount_percent": 3.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/climatiseur-reversible-pret-a-poser-3500-w-jusqua-40-m2-midea-portasplit-3432139",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/WsHvX/3432139_1/re/1200x1200/qt/90/3432139_1.jpg",
@@ -16218,8 +17006,8 @@
     "title": "Rise of the Tomb Raider: 20 Year Celebration Xbox Séries (Dématérialisé)",
     "description": "2,99€ - Xbox Store Rise of the Tomb Raider: 20 Year Celebration sur Xbox store Description Rise of the Tomb Raider: 20e Anniversaire contient le jeu Rise of the Tomb Raider applaudi par la critique et sélectionné pour plus de 100 prix. Lara Croft la survivante devient une aventurière aguerrie lorsqu’elle s’embarque dans sa première expédition de « Tomb Raider » dans les régions les plus hostiles de la Sibérie à la recherche du secret de l'immortalité. Les joueurs sur Xbox One X peuvent choisir entre trois modes visuels incluant la 4K native pour une résolution de la plus haute fidélité possible, des images enrichies pour des améliorations graphiques à couper le souffle, et une fréquence d'images élevée pour une expérience de jeu d'une fluidité sans précédent. Les autres améliorations techniques apportées sur Xbox One X incluent une compatibilité avec les écrans HDR pour des couleurs plus vives et plus fidèles, une compatibilité avec la spatialisation sonore, y compris Dolby Atmos® pour un son en 3D authentique, une amélioration de la résolution des textures, et un anticrénelage amélioré pour des détails encore plus réalistes et immersifs. Les améliorations visuelles supplémentaires incluent un éclairage volumétrique et des reflets améliorés, une végétation plus naturelle, des structures géométriques améliorées, ainsi qu'un meilleur filtrage des textures. Rise of the Tomb Raider: 20e Anniversaire inclut la nouvelle campagne solo « Liens du sang », la nouvelle option de coop pour le mode Endurance, le mode de difficulté « Survivant de l'extrême » pour la campagne principale, le pistolet et la tenue « 20e Anniversaire », et 5 habillages Lara classiques. Le jeu inclut également tous les contenus téléchargeables déjà sortis, tels que « Baba Yaga : le temple de la sorcière », le mode Endurance, « Réveil glacial », 12 tenues, 7 armes, et 35 cartes d'expédition. Avec plus de 50 heures de jeu à la clé, cette édition est la version ultime de cette expérience primée.",
     "price": 2.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 19.85,
+    "discount_percent": 84.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/rise-of-the-tomb-raider-20-year-celebration-xbox-series-dematerialise-3432134",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/NtqZo/3432134_1/re/1200x1200/qt/90/3432134_1.jpg",
@@ -16240,8 +17028,8 @@
     "title": "Need for Speed Heat Édition Deluxe sur PS4 (Dématérialisé)",
     "description": "7,99€ - PlayStation Store Need for Speed™ Heat Édition Deluxe (PS4, PlayStation Store)",
     "price": 7.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 9.99,
+    "discount_percent": 20.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/need-for-speed-heat-edition-deluxe-ps4-playstation-store-3432133",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/UV3Zv/3432133_1/re/1200x1200/qt/90/3432133_1.jpg",
@@ -16262,8 +17050,8 @@
     "title": "Casquette Timberland T60156 homme - Coupe trucker, coton, taille 44 ou 46",
     "description": "10,99€ - Espace des marques Casquette Timberland T60156 pour homme, proposée dans un coloris blanc, bleu marine et rose, avec le logo de la marque sur l'avant. Ce modèle adopte une coupe trucker et une composition 100 % coton. Son association de couleurs apporte une touche originale tout en restant facile à assortir avec un jean, un tee-shirt ou un sweat. Caractéristiques : Marque : Timberland Référence : T60156/96G Composition : 100 % coton Coupe : trucker Coloris : blanc, marine et rose Logo Timberland sur l'avant Livraison gratuite dès 85 € d'achat. Le site propose également un programme de fidélité permettant de cumuler des avantages sur les achats. Les retours sont possibles sous 30 jours à compter de l'expédition de la commande.",
     "price": 10.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 13.33,
+    "discount_percent": 17.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/casquette-timberland-t60156-homme-coupe-trucker-coton-3432132",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/YIFMY/3432132_1/re/1200x1200/qt/90/3432132_1.jpg",
@@ -16284,8 +17072,8 @@
     "title": "Chaussures Asics Gel-Lyte III PS Kids - Tailles du 27 au 35",
     "description": "24,99€ - Sport-Outlet La ASICS Gel-Lyte III PS Enfants Sneakers C5A5N-7301 est une chaussure sportive pour enfants au design rétro. *caractéristiques du produit:* - Look rétro sportif - Confort optimal - Semelle extérieure adhérente - Bonne stabilité - Idéale pour les loisirs et l'école",
     "price": 24.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 50.0,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/asics-gel-lyte-iii-ps-enfants-du-27-au-35-3432131",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/VGZ4X/3432131_1/re/1200x1200/qt/90/3432131_1.jpg",
@@ -16306,8 +17094,8 @@
     "title": "Pack Triplé gagnant Resident Evil sur PS4 (Dématérialisé)",
     "description": "12,49€ - PlayStation Store Pack Triplé gagnant Resident Evil (PS4, PlayStation Store)",
     "price": 12.49,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 24.99,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/pack-triple-gagnant-resident-evil-ps4-playstation-store-3432129",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mn2SH/3432129_1/re/1200x1200/qt/90/3432129_1.jpg",
@@ -16328,8 +17116,8 @@
     "title": "Point d'accès extérieur Wi-Fi 6 Huawei eKit AP771 - 3570 Mbps, PoE",
     "description": "108,89€ - Galaxus Description Le point d'accès extérieur Huawei eKit AP771 est une solution puissante pour fournir du Wi-Fi dans les espaces extérieurs. Avec un débit de transmission maximal allant jusqu'à 3570 Mbps, réparti sur 689 Mbps dans la bande 2,4 GHz et 2880 Mbps dans la bande 5 GHz, ce point d'accès offre une connexion fiable et rapide pour de nombreux appareils. Il prend en charge les derniers standards Wi-Fi, y compris le Wi-Fi 6, et est conçu pour être monté sur des mâts, ce qui le rend idéal pour une utilisation dans divers environnements. L'AP771 est équipé d'antennes intégrées et permet une installation facile. Grâce à sa construction robuste, il est adapté à une utilisation en extérieur et peut gérer jusqu'à 256 clients simultanément. L'alimentation se fait par Power over Ethernet (PoE), ce qui simplifie encore l'installation. Débit de transmission maximal de 3570 Mbps pour des vitesses élevées Prend en charge jusqu'à 256 connexions simultanées pour de grands réseaux Construction robuste pour une utilisation en extérieur, idéale pour divers environnements Alimentation par PoE pour une installation facile.",
     "price": 108.89,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 122.8,
+    "discount_percent": 11.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/point-dacces-exterieur-wi-fi-6-huawei-ekit-ap771-3570-mbps-poe-3432126",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/71iLF/3432126_1/re/1200x1200/qt/90/3432126_1.jpg",
@@ -16372,8 +17160,8 @@
     "title": "Tomb Raider: Definitive Edition Xbox Séries (Dématérialisé)",
     "description": "1,99€ - Xbox Store Tomb Raider: Definitive Edition est un jeu d'action-aventure remanié pour les consoles nouvelle génération. *caractéristiques du produit:* - Lara détaillée - Environnement réaliste - Combats intenses - Personnalisation des armes et équipements - Obstacles environnementaux à surmonter Description L'aventure qui force la jeune et inexpérimentée Lara Croft à devenir une survivante endurcie a été remaniée pour les consoles nouvelle génération. Vous y retrouverez une Lara incroyablement détaillée et un environnement qui ressemble à s'y méprendre au monde réel. Lara doit endurer des combats intenses, personnaliser ses armes et son équipement pour survivre à sa première aventure et découvrir le secret mortel de l'île. La Definitive Edition du jeu d'action-aventure acclamé par la critique inclut des contenus bonus et regroupe tous les packs de contenu téléchargeable additionnels de la version Xbox 360. La version téléchargeable de ce jeu est disponible en anglais, français, italien, allemand, espagnol,portugais, russe, néerlandais et arabe",
     "price": 1.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 19.85,
+    "discount_percent": 90.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/tomb-raider-definitive-edition-xbox-series-dematerialise-3432125",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/gQJjT/3432125_1/re/1200x1200/qt/90/3432125_1.jpg",
@@ -16394,8 +17182,8 @@
     "title": "Armoire en tissu Songmics XXL (150 x 175 cm) - 12 Compartiments, Noir",
     "description": "21,82€ - Amazon À propos de cet article [Grande capacité] D’une taille de 45 x 150 x 175 cm, cette armoire offre de l’espace pour ranger les habits de toute la famille. La zone de suspension a une hauteur de 132 cm pour les vêtements longs tels que les manteaux, les robes et plus encore [Bien compartimentée] Cette penderie est divisée en 12 cases et 1 zone de suspension. Vous pouvez suspendre les chemises sur la tringle, trier les pantalons et les chaussettes sur les étagères et placer les chaussures en bas [Excellente stabilité] Ce placard est constitué de barres métalliques épaisses d'un diamètre de 16 mm, de raccords en plastique de qualité et d'un tissu non-tissé de 120 g/㎡. La tringle supporte jusqu’à 15 kg, chaque étagère supporte jusqu'à 5 kg [Montage facile] Grâce aux instructions illustrées et aux pièces numérotées, il suffit d’emboîter les barres et les raccords, même pas besoin d’outil. En plus, des raccords de rechange sont fournis [Anti-poussière, accès facile] Fermez la fermeture éclair, la housse en tissu protègent vos vêtements. Vous pouvez aussi laisser la porte ouverte pour un accès facile dans votre chambre ou votre dressing",
     "price": 21.82,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 38.77,
+    "discount_percent": 43.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/armoire-en-tissu-songmics-xxl-150x175-cm-12-compartiments-noir-3432122",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/xvUjR/3432122_1/re/1200x1200/qt/90/3432122_1.jpg",
@@ -16416,8 +17204,8 @@
     "title": "Legacy of Kain: Defiance Remastered dématérialisé Pc",
     "description": "9,99€ - GOG Legacy of Kain: Defiance Remastered sur Gog Retrouvez le monde ténébreux de Nosgoth en prenant le contrôle du vampire Kain et de son lieutenant trahi Raziel, deux puissantes entités déchirées par le conflit qui oppose le libre arbitre et la destinée. Participez à une histoire hors du temps, dans un monde de dark fantasy repensé pour une nouvelle génération. Armé d'épées légendaires et de capacités surnaturelles, combattez dans d'immenses espaces gothiques remplis d'ennemis, d'énigmes et de secrets enfouis, où chaque victoire se paye au prix fort. Legacy of Kain: Defiance Remastered bénéficie de nouveaux graphismes HD, de contrôles enrichis, d'une caméra améliorée et vous permet de passer à tout moment du mode HD au mode original. Cette réédition présente également un mode photo, des apparences de personnages supplémentaires, une encyclopédie complète sur l'univers du jeu, ainsi que du contenu inédit et des \"niveaux perdus\" tirés du jeu d'origine. Deux protagonistes Incarnez aussi bien Kain que Raziel, chacun bénéficiant de ses propres perspectives, styles de combat et capacités qui influent sur le déroulement de l'histoire. Dark fantasy et énigmes gratifiantes Explorez des cités en ruines, des temples anciens et des forteresses imposantes regorgeant d'énigmes, d'adversaires coriaces et de terribles secrets. Fidèle au jeu d'origine, mais amélioré selon les standards actuels Graphismes HD et contrôles enrichis, caméra améliorée et la possibilité de basculer à tout moment entre les présentations classique et moderne. Apparences de personnages Gagnez des apparences supplémentaires pour Kain et Raziel, inspirées de la série Legacy of Kain. L'IU et les sous-titres de cette version remasterisée sont entièrement localisés, mais une partie du contenu bonus et des archives n'existe qu'en anglais (encyclopédie, présentations des niveaux perdus, tomes des arcanes et bandes dessinées archivées).",
     "price": 9.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 39.99,
+    "discount_percent": 75.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/legacy-of-kain-defiance-remastered-dematerialise-pc-3432123",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/NbxpE/3432123_1/re/1200x1200/qt/90/3432123_1.jpg",
@@ -16438,8 +17226,8 @@
     "title": "Doudoune Jack & Jones Lupo Homme - Noir, tailles S à XXL",
     "description": "26,99€ - Private Sport Shop Si vous cherchez une doudoune noire pour les journées fraîches, ce modèle Lupo de Jack & Jones peut être intéressant. On est sur une doudoune pour homme au style assez classique et polyvalent, facile à associer avec un jean, un pantalon chino ou une tenue plus décontractée. Elle convient aussi bien aux déplacements quotidiens qu'aux sorties en ville. La doudoune est conçue en polyester entièrement recyclé, avec une coupe au style contemporain. Le coloris noir permet de l'associer facilement à différentes tenues. Tailles disponibles : du S au XXL. Le produit est indiqué comme prêt à l'envoi, avec une livraison en France estimée entre le 16 et le 20 octobre 2026. Frais de livraison à partir de 2,99 €.",
     "price": 26.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 69.99,
+    "discount_percent": 61.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/doudoune-jack-jones-lupo-homme-noir-tailles-s-a-xxl-3432121",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/4WqXa/3432121_1/re/1200x1200/qt/90/3432121_1.jpg",
@@ -16460,8 +17248,8 @@
     "title": "Flacon de 500ml de Bain de Bouche The Breath Co. - sans alcool, protection gencives",
     "description": "4,74€ - Amazon 4,74 via prévoyez et économisez. Une fois la commande expédiée, vous pouvez annuler l’abonnement et aucune frais ne vous sera facturé.",
     "price": 4.74,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 7.94,
+    "discount_percent": 40.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/the-breath-co-bain-de-bouche-sans-alcool-protection-henvive-500ml-3432116",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/d5ZGe/3432116_1/re/1200x1200/qt/90/3432116_1.jpg",
@@ -16482,8 +17270,8 @@
     "title": "Shadow of the Tomb Raider Definitive Edition Xbox séries/pc dématérialisé",
     "description": "3,99€ - Xbox Store Shadow of the Tomb Raider Definitive Edition dir Xbox séries et pc Description Prenez part au moment décisif où Lara Croft devient pilleuse de tombeaux. Dans Shadow of the Tomb Raider Definitive Edition, vous découvrirez les derniers secrets des origines de Lara. Cette édition contient le jeu de base, les 7 défis tombeaux des DLC, ainsi que toutes les armes, tenues et compétences téléchargeables. Découvrez le passé de la plus célèbre des pilleuses de tombeaux dans cette édition ultime.",
     "price": 3.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 7.79,
+    "discount_percent": 48.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/shadow-of-the-tomb-raider-definitive-edition-xbox-seriespc-dematerialise-3432120",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jwNNC/3432120_1/re/1200x1200/qt/90/3432120_1.jpg",
@@ -16548,8 +17336,8 @@
     "title": "Osram Original Ampoules Halogène - BA15S R10W - 12V/10W - set de 2 pièces",
     "description": "3,16€ - Amazon Très bon prix ! ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants. CONTENU DE LA LIVRAISON: 2x OSRAM R10W Ampoule INFORMATION TECHNIQUE: Tension nominale : 12V, Capacité nominale: 10W, Culot: BA15s, Catégorie ECE: R10W REMARQUE: , OSRAM ORIGINAL LINE 12V, Le classique, Les lampes de la gamme ORIGINAL LINE 12 V sont d'une grande fiabilité et sont très compétitives en matière de prix. Les clients qui apprécient la qualité éprouvée font le bon choix en optant pour les ampoules ORIGINAL LINE 12 V., Performances exceptionnelle - fiable et rentable, En offrant des performances et une fiabilité de pointe et en proposant des prix abordables, ce n'est pas un hasard si OSRAM est le leader du marché dans le secteur LIMITATIONS: Avantages produit , Large gamme de produits, Qualité fiable , Caractéristiques produit , Pièces de rechange d'origine",
     "price": 3.16,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 7.76,
+    "discount_percent": 59.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/osram-original-ampoules-halogene-ba15s-r10w-12v10w-set-de-2-pieces-3432117",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/QtXqx/3432117_1/re/1200x1200/qt/90/3432117_1.jpg",
@@ -16570,8 +17358,8 @@
     "title": "Disque de Signalisation Thirard Pas de Publicité - Polystyrène Rigide, Adhésif, Ø80mm (Vendeur Tiers)",
     "description": "2€ - Amazon Bon prix ! Pas très glamour mais utile ! On ne peut pas le louper ! Usage pratique : Idéal pour indiquer l'interdiction de distribution de publicité, ce disque adhésif se fixe facilement sur boîtes aux lettres, portes ou murs, garantissant une communication claire et immédiate Dimensions et avantages : avec un Ø de 80 mm, ce disque offre une visibilité optimale tout en étant discret Sa taille permet une intégration facile sans encombrer l'espace Sécurité et robustesse : Fabriqué en polystyrène choc rigide, il résiste aux intempéries et à l'usure, assurant une signalisation durable et fiable en extérieur comme en intérieur Utilisation et fonctionnement : Doté d'un adhésif puissant, ce disque s'installe aisément sur diverses surfaces sans nécessiter d'outils ou de perçage, offrant une fixation rapide et sécurisée Garantie de 2 ans : Ce produit bénéficie d’une garantie de 2 ans, gage de sa qualité et de sa durabilité pour une tranquillité d’esprit assurée",
     "price": 2.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 29.99,
+    "discount_percent": 93.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/thirard-disque-de-signalisation-pas-de-publicite-polystyrene-rigide-adhesif-o-80-mm-3432115",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/IuX3c/3432115_1/re/1200x1200/qt/90/3432115_1.jpg",
@@ -22456,6 +23244,10 @@
       {
         "price": 106.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 106.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22478,6 +23270,10 @@
       {
         "price": 999.0,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 999.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22522,6 +23318,10 @@
       {
         "price": 1.8,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 1.8,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22544,6 +23344,10 @@
       {
         "price": 595.0,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 595.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22566,6 +23370,10 @@
       {
         "price": 59.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 59.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22588,6 +23396,10 @@
       {
         "price": 66.39,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 66.39,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22610,6 +23422,10 @@
       {
         "price": 39.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22632,6 +23448,10 @@
       {
         "price": 897.0,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 897.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22654,6 +23474,10 @@
       {
         "price": 784.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 784.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22676,6 +23500,10 @@
       {
         "price": 19.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22698,6 +23526,10 @@
       {
         "price": 4.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -22976,6 +23808,10 @@
       {
         "price": 110.0,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
+      },
+      {
+        "price": 110.0,
+        "observed_at": "2026-10-14T14:52:54.328043+00:00"
       }
     ]
   },
@@ -23700,365 +24536,6 @@
       {
         "price": 13.5,
         "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Séjour 7J/6N pour 2 à Khao Lak (Thaïlande) - Kappa Club Ananea Beyond Khao Lak 4* + Tout compris + Massage et dîner - Septembre (301€/pers)",
-    "description": "603€ - Voyage privé Envie de vous évader en Thaïlande et de profiter d'un séjour tropical entre plages, détente et découvertes locales ? Direction Khao Lak , une destination réputée pour son littoral bordé de longues plages et son ambiance plus paisible que les grandes stations balnéaires thaïlandaises. Je vous ai trouvé un séjour au Kappa Club Ananea Beyond Khao Lak 4 *, en formule tout compris , avec hébergement en villa Garden ou de catégorie supérieure . Pour ces dates, l'offre prévoit également de beaux avantages : un dîner en tête-à-tête sur la plage avec menu 3 plats et deux massages d'une heure par personne , pour une parenthèse placée sous le signe de la détente. Pour 2 personnes , le séjour revient à seulement 603€ au total , soit 301,50€ par personne , pour 6 nuits du 30 août au 5 septembre 2027 . > L'hôtel est noté : 9,1/10 sur Booking > Inclus 6 nuits au Kappa Club Ananea Beyond Khao Lak 4* Hébergement en villa Garden ou de catégorie supérieure Formule tout compris 1 dîner en tête-à-tête sur la plage, menu 3 plats 2 massages d'une heure par personne et par séjour Marché de Bang Niang Visite du Golden Temple Repas chez l'habitant Initiation à la boxe thaï dans un camp local Sans transport : vols non inclus > Le petit plus Un séjour qui combine détente et immersion locale : en plus de la formule tout compris, les avantages Kappa Club permettent de découvrir quelques facettes de la culture thaïlandaise, tandis que les massages et le dîner sur la plage ajoutent une touche romantique au séjour. ✤ Poussez les portes de votre 4* Envie de vous évader dans un complexe luxueux et romantique ? Bienvenue au Kappa Club Ananea Beyond Resort Khao Lak 4* ! À quelques pas du sable blanc et poudreux de la plage de Pakweep, à Phang Nga, entouré d'une nature intacte et verdoyante, cet établissement vous promet détente et évasion. Engagé pour la durabilité du tourisme, la préservation de l'environnement, votre pied-à-terre a reçu la certification Travelife Gold. N'attendez plus pour vous offrir des vacances bien méritées dans un petit coin de paradis... A noter : Activités et animations Kappa Club du 31/10/2026 au 29/08/2027. En dehors de cette période, l'hôtel ne bénéficie pas des activités Kappa Club. ✤ L'expérience Kappa Club Vivez le club de vacances comme vous ne l’avez jamais vécu ! Avec Kappa Club , voyagez de manière authentique... en club ! Découvrez plusieurs facettes d’une destination tout en bénéficiant de prestations haut de gamme, animations à la carte, rencontre et découverte, convivialité et authenticité... Kappa Club rassemble les conditions idéales pour vous offrir des vacances de rêve tout en vous proposant des animations ludiques et culturelles à la carte. Situation géographique : 9/69 Moo 1, Pak Weep Beach, Khuk Khak, Takua Pa, Phang Nga 82220 Thailand., Khao Lak, Thailand, Khao Lak, Thaïlande L'aéroport de Phuket se trouve à environ 90 kilomètres de l'hôtel. ✤ Les chambres Lors de cette échappée, vous séjournerez en Villa Garden ou en hébergement de catégorie supérieure, avec supplément : la Villa Premier. À noter : Si la Villa Garden de base est complète, vous serez automatiquement placés en chambre de catégorie supérieure avec supplément : la Villa Premier. Villa Garden (70 m²) Profitez pleinement du confort de votre Villa , située au milieu des jardins tropicaux. Son petit plus ? Le balcon privé qui vous permettra de vous relaxer sous l'air frais du début de journée... Vous bénéficierez de : Wi-Fi gratuit, télévision par câble et Smart TV, minibar et eau gratuite, nécessaire à café et thé avec bouilloire, salle de bains avec douche, peignoirs et chaussons, sac de plage et serviette de bain, climatisation, sèche-cheveux, service en chambre. Pas de possibilité de séjourner en chambre individuelle avec supplément. La capacité maximale en chambre est de 3 adultes. Villa Premier (61 m²) Optez pour une chambre à deux pas de la plage avec cette Villa Premier et profitez d'équipements de luxe et du balcon privé pour d",
-    "price": 603.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sejour-7j6n-pour-2-a-khao-lak-thailande-kappa-club-ananea-beyond-khao-lak-4-tout-compris-massage-et-diner-septembre-301eurpers-3431723",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y6eq7/3431723_1/re/1200x1200/qt/90/3431723_1.jpg",
-    "detected_at": "2026-10-13T13:08:56+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 603.0,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 603.0,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 6 canettes de Oasis - 33cl",
-    "description": "1,99€ - JoyBuy Ex : Prix pour 24 canettes Livraison gratuite avec Joyplus (1 mois gratuit) Points forts du produit Une boisson au jus délicieuse et rafraîchissante saveur fraise offrant un goût fruité et sucré Parfait pour se désaltérer et agréable pour toute la famille Pack pratique de 6 x 330 ml, idéal pour les déjeuners, les pique-niques ou comme boisson quotidienne Enrichi en vitamine C pour un bénéfice nutritionnel supplémentaire Ingrédients Eau, sucre, correcteur d'acidité (acide citrique), jus de fraise à base de concentré (0,3 %), arômes, correcteur d'acidité (citrate de sodium), conservateur (sorbate de potassium), colorant (anthocyanes), vitamine C. Allergènes Aucun Informations nutritionnelles Nutriments Pour 100 ml Énergie 132 kJ / 31 kcal Matières grasses 0 g dont acides gras saturés 0 g Glucides 7,5 g dont sucres 7,4 g Protéines 0 g Sel 0,01 g Conditions de conservation À conserver dans un endroit frais et sec. Pour un goût optimal, servir frais. Conseils d'utilisation À servir frais pour un rafraîchissement optimal. À déguster directement ou à verser sur des glaçons. À consommer de préférence avant le Voir l'emballage pour plus de détails Informations sur la conformité du produit Détails du fabricant Nom : Refresco UK Ltd. Adresse : 2-4 Sir Frank Whittle Road, Longbridge, Birmingham, West Midlands, B31 2FZ, Royaume-Uni Site Web : www.refresco.co.uk Personne responsable (UE) Nom : FRONERI France SAS Adresse : KERGAMET PLOUEDERN CS 20809, 29208 LANDERNEAU CEDEX, France Adresse e-mail : service.consommateur@fr.froneri.com",
-    "price": 1.99,
-    "reference_price": 5.99,
-    "discount_percent": 66.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-6-canettes-de-oasis-33cl-3431721",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/m2hre/3431721_1/re/1200x1200/qt/90/3431721_1.jpg",
-    "detected_at": "2026-10-13T13:07:04+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 1.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre automatique Lorus - RL473BX9 (Acier inoxydable et Cadran bleu)",
-    "description": "87,41€ - Amazon Baisse de prix ! :) ⌚ Montre automatique homme Lorus RL473BX9 – Acier inoxydable & cadran bleu Lorus RL473BX9 , une montre automatique au look sportif et élégant qui associe un cadran bleu foncé à un boîtier et un bracelet en acier inoxydable. Un design intemporel qui s'adapte aussi bien à une tenue décontractée qu'à un style plus habillé ! Son mouvement automatique Y676 fonctionne grâce aux mouvements du poignet, sans pile. Elle dispose également d'un affichage du jour et de la date, d'une lunette rotative ainsi que d'un fond de boîtier transparent permettant d'admirer son mécanisme. Caractéristiques principales : Marque : Lorus Référence : RL473BX9 Mouvement : automatique, calibre Y676 Boîtier : acier inoxydable Bracelet : acier inoxydable avec fermoir déployant Cadran : bleu foncé Diamètre du boîtier : 44 mm Épaisseur : 13 mm Verre : minéral Fonctions : heures, minutes, secondes, jour et date Lunette : rotative Aiguilles et index : luminescents Réserve de marche : environ 40 heures Étanchéité : 10 bar (100 mètres) Fond de boîte : vissé et transparent Garantie constructeur : 2 ans Les points forts : ✔️ Mouvement automatique sans pile ✔️ Finition acier et cadran bleu très réussis ✔️ Fond transparent pour apprécier le mécanisme ✔️ Étanchéité adaptée à la baignade en surface, dans les limites des recommandations du fabricant ✔️ Un modèle polyvalent au design sportif, avec un excellent potentiel pour un usage quotidien",
-    "price": 87.41,
-    "reference_price": 140.0,
-    "discount_percent": 37.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-automatique-lorus-rl473bx9-acier-inoxydable-et-cadran-bleu-3431720",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1wJXb/3431720_1/re/1200x1200/qt/90/3431720_1.jpg",
-    "detected_at": "2026-10-13T13:04:37+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0D8TRLVBM?th=1",
-    "price_history": [
-      {
-        "price": 87.41,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 87.41,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Formation Gratuite Premiers Secours Citoyen (PSC) aux habitants de 16/25 Ans - Raismes (59)",
-    "description": "Le Service Jeunesse de Raismes organise une Formation Gratuite Premiers Secours Citoyen (PSC). Elle est destinée aux habitants âgés de 16 à 25 Ans et aura lieu le Jeudi 22 Octobre 2026 (de 09h à 17h) à la Maison de Quartier Joliot-Curie à Raismes. Information et Inscription dès à présent au 07.71.89.58.01 ou au 06.85.57.98.95 Infos",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/formation-gratuite-premiers-secours-citoyen-psc-aux-habitants-de-1625-ans-raismes-59-3431719",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YlQJj/3431719_1/re/1200x1200/qt/90/3431719_1.jpg",
-    "detected_at": "2026-10-13T13:01:38+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": []
-  },
-  {
-    "title": "Barquette de légumes pot au feu 1kg",
-    "description": "1,99€ - Aldi Avec le retour de l'automne et de la pluie vient le retour des plats emblématiques de cette période. Bon, peu cher et rassasiant, le pot au feu est un incontournable de la saison froide. Du 13 au 17 octobre, Aldi propose la barquette de légumes pour pot au feu d'1kg à seulement 1.99€. Cette barquette contient un mélanges de carottes, oignons jaunes, navets, poireaux, thym, bref tout le nécessaire pour concocter ce plat. Tous les légumes de cette barquette sont d'origine France.",
-    "price": 2.0,
-    "reference_price": 7.9,
-    "discount_percent": 74.7,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/barquette-de-legumes-pot-au-feu-1kg-3431718",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6jfRU/3431718_1/re/1200x1200/qt/90/3431718_1.jpg",
-    "detected_at": "2026-10-13T13:00:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 1.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      },
-      {
-        "price": 2.0,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Brosse à Dents Électrique Sonique 7Magic - 3 Intensités, 5 Modes de Brossage, Noir (Vendeur Tiers)",
-    "description": "24,42€ - Amazon Marque7MAGIC Tranche d'âge (description)Adulte Caractéristique spéciale3 niveaux d'intensité, 5 modes, 40000 VPM, Une charge dure 180 jours Source d'alimentationAlimenté par pile Description de la fermeté de l'articleMoyenne CouleurNoir 3 Niveaux d'Intensité et 5 Modes Intelligents - La brosse à dents électrique 7MAGIC répond à vos besoins quotidiens. Le mode Nettoyage de la brosse à dents sonique élimine la plaque dentaire et les mauvaises odeurs, le mode Blanchiment et Polissage apporte un éclat, le mode Soin des gencives stimule la circulation sanguine, et le mode Sensibilité est doux pour les dents sensibles lors de la première utilisation. Simple, efficace et personnalisable. Une charge dure 180 jours - Puissance fiable à la maison ou en voyage. Que vous soyez en déplacement ou chez vous, la brosse à dents électrique 7MAGIC s'adapte à votre routine grâce à sa batterie longue durée de 180 jours. L'indicateur de batterie en temps réel de la brosse à dents vous aide à garder le contrôle pour une utilisation quotidienne fluide. 40000 VPM offre une expérience de nettoyage efficace – nos brosses à dents soniques éliminent plus de 300 % de plaque dentaire par rapport aux brosses à dents manuelles, garantissant un nettoyage approfondi tout en réduisant la fatigue liée au brossage manuel. La Fonction de Minuterie vous aide à prendre de bonnes habitudes – un indicateur de changement de 30 secondes rappelle aux utilisateurs de modifier la zone de nettoyage pour s’assurer que chaque Quadrant est bien nettoyé. Les dentistes recommandent deux minutes de brossage à chaque fois et la fonction de minutage de la brosse a dent electrique garantit que l'utilisateur respecte ce temps recommandé pour assurer un nettoyage complet de chaque surface dentaire et le bon brossage. Grâce à son étanchéité ipx7, la brosse à dents à ultrasons peut être utilisée directement dans le bain, ce qui facilite également le nettoyage électrique de la brosse à dents. Conception Silencieuse sans déranger – Conception ultra-silencieuse pour un confort absolu - Grâce à son fonctionnement discret, cette brosse à dents électrique préserve la tranquillité de toute la famille, sans risquer de réveiller les enfants ou de déranger les personnes âgées, surtout le matin ou en soirée. Elle s’utilise également en toute discrétion dans les lieux partagés, comme au bureau ou à la salle de sport, sans gêner votre entourage ni créer de situation embarrassante. Son utilisation silencieuse rend chaque brossage plus agréable, plus apaisant et offre un véritable sentiment de confort au quotidien. 6 têtes de rechange pour 18 mois d'utilisation — La brosse à dents électrique 7Magic est fournie avec 6 têtes de rechange de qualité supérieure (5 têtes standard et 1 tête pour un nettoyage en profondeur). La brosse à dents électrique 7Magic est fabriquée à partir de matériaux sûrs et doux pour les gencives. Ses poils en forme de W et sa tête compacte assurent une couverture optimale des espaces interdentaires et de la ligne des gencives, éliminant ainsi les résidus alimentaires difficiles d'accès. Chaque tête ayant une durée de vie d'environ 3 mois, vous disposez de jusqu'à 18 mois d'utilisation avant de devoir remplacer vos têtes de brosse. La brosse à dents électrique 7MAGIC est le cadeau idéal pour prendre soin de la santé bucco-dentaire de vos proches. Parfaite pour un anniversaire, Thanksgiving, Noël, la fête des Mères, la fête des Pères, la Saint-Valentin, une remise de diplôme ou toute autre occasion, cette édition spéciale est une belle façon de témoigner votre affection. Support Client - La brosse à dents électrique 7MAGIC est durable et résistante. Le paquet comprend : 1 * brosse à dents sonique 7MAGIC, 6 * têtes de brosse, 1 * USB-Type C (adaptateur non inclus), 1 * support mural, 1 * couvercle de tête de brosse et 1 * manuel d'utilisation. Nous offrons une politique de maintenance de 2 ans et un support technique professionnel à vie. Si vous avez des questions, v",
-    "price": 24.42,
-    "reference_price": 29.61,
-    "discount_percent": 17.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/7magic-brosse-a-dents-electrique-sonique-180-jours-dautonomie-noir-3431711",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/e3mk1/3431711_1/re/1200x1200/qt/90/3431711_1.jpg",
-    "detected_at": "2026-10-13T12:55:49+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0D9BDV6JT?smid=A2C4SHZM5Y9182",
-    "price_history": [
-      {
-        "price": 24.42,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 24.42,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Red Dead Redemption 2: Ultimate Edition Rockstar Games Launcher - PC (Dématérialisée)",
-    "description": "12,74€ - Gamivo Red Dead Redemption 2: Ultimate Edition sur PC via Rockstar Games Launcher, avec une clé annoncée comme Global. Découvrez l'aventure de Arthur Morgan et de la bande de Van der Linde dans le Far West, avec du contenu bonus exclusif à l'Ultimate Edition.",
-    "price": 12.74,
-    "reference_price": 19.85,
-    "discount_percent": 35.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/red-dead-redemption-2-ultimate-edition-rockstar-games-launcher-pc-dematerialisee-3431716",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bcBQ6/3431716_1/re/1200x1200/qt/90/3431716_1.jpg",
-    "detected_at": "2026-10-13T12:54:49+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.74,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 12.74,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 32 Tampons O.b. Pro Comfort Super Plus",
-    "description": "1,50€ - JoyBuy Livraison gratuit avec JOYPLUS (1 mois gratuit) Caractéristiques principales et points forts Conçu pour les très fortes journées de règles, offrant un confort ultime et une protection fiable dans la gamme o.b. La technologie Dynamic Fit avec expansion 3D permet au tampon de s'adapter naturellement au corps Des rainures interconnectées uniques aident à diriger le flux vers le cœur du tampon pour une absorption efficace La surface SilkTouch permet une insertion et un retrait faciles et sans gêne Cœur 100 % végétal, sans produits chimiques nocifs, y compris les pesticides Testés gynécologiquement, sans chlore et sans parfum Les tampons o.b. ProComfort Super Plus associent la technologie innovante Dynamic Fit à une surface douce et soyeuse pour une expérience confortable et sûre lors de vos règles très abondantes. Conseils d'utilisation Utiliser comme indiqué sur l'emballage. Insérer selon le confort personnel. Changer si nécessaire. Pour usage externe uniquement. Pays d'origine Fabriqué aux Pays-Bas Contenu net 32 unités Dimensions Absorption : Super Plus (flux très abondant) Instructions de sécurité et d'utilisation Suivez les instructions d'utilisation. Changez régulièrement de tampon (tous les 4 à 8 heures) pour réduire le risque de choc toxique (TSS). Consultez un médecin si vous présentez des symptômes du TSS (fièvre, vomissements, diarrhée, éruption cutanée semblable à un coup de soleil).Ne pas jeter les tampons dans les toilettes ; à jeter dans une poubelle. Tenir hors de portée des enfants. Cesser l'utilisation en cas d'irritation. À conserver dans un endroit frais et sec, à l'abri de la lumière directe du soleil. Durée de conservation Veuillez consulter l'emballage du produit pour connaître la date de péremption. Numéro de lot Veuillez vérifier l'emballage du produit pour connaître le numéro de lot.",
-    "price": 1.5,
-    "reference_price": 2.0,
-    "discount_percent": 25.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tampons-procomfort-ob-super-32-unites-3431710",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8X3uO/3431710_1/re/1200x1200/qt/90/3431710_1.jpg",
-    "detected_at": "2026-10-13T12:54:28+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1.5,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 1.5,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Adhérents] Pack appareil photo hybride Panasonic Lumix S5 II + 2 objectifs : 20-60 mm f/3.5-5.6 et 50 mm f/1.8 | (via ODR 300€)",
-    "description": "1 399€ - Fnac Super prix pour ce Panasonic Lumix S5 Mark II , un hybride plein format particulièrement polyvalent en photo comme en vidéo. Il est proposé avec deux objectifs : le Lumix S 20-60 mm f/3.5-5.6 et le Lumix S 50 mm f/1.8 . Le pack est affiché à 1699€ pour les adhérents Fnac, mais une offre de remboursement s'ajoute à cela ! On arrive donc à 1399€ (y) Offre de remboursement Du 20 août 2026 au 13 novembre 2026, enregistrez votre appareil photo LUMIX des séries S5M2*, S5M2X*, S9*, TZ300* ainsi que certains objectifs LUMIX S achetés chez un revendeur participant et bénéficiez d’une remise pouvant aller jusqu’à 400 € Cliquez ici pour télécharger les détails de l'offre . ❖ Caractéristiques Hybride Panasonic Lumix S5 Mark II Capteur CMOS plein format 24,2 MP Monture Leica L Autofocus hybride phase + contraste à 779 points Stabilisation du capteur avec Active I.S. Double ISO natif Vidéo interne 6K/30p 10 bits Vidéo C4K/60p 4:2:2 10 bits Profil V-Log / V-Gamut , plus de 14 stops de plage dynamique annoncés Ralenti jusqu'à 180 i/s en Full HD Enregistrement vidéo sans limite de durée prédéfinie Sortie ProRes RAW via HDMI avec option adaptée Mode haute résolution 96 MP en RAW Rafale électronique jusqu'à 30 i/s avec autofocus Viseur OLED 3,68 millions de points Écran tactile orientable 3 pouces Double emplacement pour cartes SD Boîtier tropicalisé Alimentation et recharge via USB ➜ Objectifs inclus : > Panasonic Lumix S 20-60 mm f/3.5-5.6 Un zoom polyvalent avec un grand-angle de 20 mm, intéressant pour le paysage, le voyage, l'architecture et la vidéo. Il permet également de réaliser des portraits et des photos du quotidien sans changer constamment d'objectif. > Panasonic Lumix S 50 mm f/1.8 Une focale fixe lumineuse, adaptée aux portraits, aux scènes en faible luminosité et aux prises de vue avec un arrière-plan flou. Son ouverture à f/1.8 complète bien le zoom 20-60 mm.",
-    "price": 1399.0,
-    "reference_price": 1999.0,
-    "discount_percent": 30.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/adherents-pack-appareil-photo-hybride-panasonic-lumix-s5-ii-2-objectifs-20-60-mm-f35-56-et-50-mm-f18-via-odr-300eur-3431715",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/R24KB/3431715_1/re/1200x1200/qt/90/3431715_1.jpg",
-    "detected_at": "2026-10-13T12:52:28+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.fnac.com/Pack-hybride-Panasonic-Lumix-S5-Mark-II-S-20-60mm-f-3-5-5-6-S-50mm-f-1-8/a18053666/w-4#description",
-    "price_history": [
-      {
-        "price": 1399.0,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 1399.0,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Clé à Molette Workpro - avec Grande Ouverture, 30mm, Poignée Souple Bi-Matière, Métrique Complet, Longeur 200mm (Vendeur Tiers)",
-    "description": "11,99€ - Amazon Principaux points forts CouleurBleu MarqueWORKPRO MatériauAcier au chrome-vanadium Longueur de l'article200 Millimètres Poids de l'article310 Grammes Quantité d'articles dans le colis1 Matériau en acier Cr-V de haute qualité: Fabriqué en acier Cr-V de qualité supérieure, forgé et traité pour résister à la corrosion, offrant une longue durée de vie Esthétique et sensation de qualité: La combinaison de la finition oxyde noir et de la poignée bleue donne un aspect élégant et une sensation de qualité supérieure Échelles métriques double face: Les échelles métriques gravées au laser sur les deux faces, de 0 à 30mm, facilitent les ajustements de taille précis et faciles Conception ergonomique: La poignée est conçue pour une prise en main confortable, avec des angles doux et des surfaces antidérapantes, assurant un contrôle stable pendant l'utilisation Torque élevé: Conçu pour fournir un torque ≥305N.M, poids de 310g, idéal pour les tâches lourdes et les applications industrielles Commentaires client",
-    "price": 11.99,
-    "reference_price": 14.99,
-    "discount_percent": 20.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/workpro-cle-a-molette-avec-grande-ouverture-30-mm-poignee-souple-bi-matiere-metrique-complet-longeur-200-mm-3431706",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rORVN/3431706_1/re/1200x1200/qt/90/3431706_1.jpg",
-    "detected_at": "2026-10-13T12:50:56+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0D48DWLKG?smid=A1H05RYQWRY6GC",
-    "price_history": [
-      {
-        "price": 11.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 11.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Veilleuses - Rechargeables, à Détecteur de Mouvement, RVB & Blanc Chaud, 750mAh (Via Remise au Panier - Vendeur Tiers)",
-    "description": "19,19€ - Amazon Obtenez un coupon de réduction de 40 % Détection radar et éclairage automatique : dispose de capteurs de haute précision pour détecter les mouvements dans un rayon de 5 m et s'active automatiquement en cas de faible luminosité. Cette veilleuse à détecteur de mouvement réactif permet une sécurité mains libres dans les entrées et fonctionne comme une veilleuse activée par le mouvement, s'éteint après votre départ pour économiser de l'énergie. Batterie de 750 mAh et charge de type C : équipée d'une batterie haute capacité de 750 mAh, cette veilleuse sans fil prend en charge jusqu'à 3 mois d'utilisation sur une seule charge. Le design rechargeable élimine la dépendance de la prise, ce qui le rend fiable pour les pannes de courant ou les courses de cuisine tard dans la nuit sans chercher les interrupteurs. Base magnétique et placement flexible : aimants puissants intégrés et coussinets métalliques adhésifs pour un montage sûr sur les appareils ou les murs. Idéales comme veilleuse de couloir, ces veilleuses portables peuvent être placées dans les placards ou les zones de rangement, facilitant la navigation dans les escaliers sans laisser de résidus ou nécessitant des outils. Navigation sûre et confort oculaire : empêche les trébuchements et les chutes pour les personnes âgées tout en offrant un éclairage doux pour les crèches. La veilleuse à détecteur de mouvement sert parfaitement de veilleuse de salle de bain sans éblouissement, permettant aux parents de vérifier les bébés ou de gérer les besoins de minuit sans déranger les partenaires de sommeil avec des lumières agressives. 【11 scènes RVB et utilisation polyvalente】Basculez entre 11 scènes prédéfinies et couleurs dynamiques pour créer une atmosphère pour les fêtes ou des vibrations apaisantes pour les chambres des enfants. Cette lampe polyvalente s'adapte à tous les scénarios, du compagnon de lecture de chevet à l'accent décoratif pour les chambres d'hôtes, assurant confort et style. Spécifications Dimensions du produit: 11,4P x 9l x 9H centimètres Type de lampe: Veilleuse Couleur de l'ombre: Translucide Matériau de l'abat-jour: Plastique Type d'interrupteur: Bascule Style: Vega 2PS Marque: Yeelight Couleur: Rgb 2ps Type de source lumineuse: LED Matériau: Plastique Type d’interrupteur: Bascule Type d'ampoule: LED Type de prise: Câble électrique Nombre d'ampoules: 2 Type de montage: Montage mural Angle d'éclairage: LED étiquetteÉnergie: F Le produit est-il sans fil ?: Oui Couleur de l’abat-jour: Translucide Dimensions de l'article P x L x H: 11,4P x 9l x 9H centimètres Matériaux de l'abat-jour: Plastique Materiau: Plastique Composants inclus: Port USB Nombre d' articles: 2 Utilisation extérieure ou intérieure: Intérieur Numéro de modèle: YLYYD-0034 Nombre de pièces: 2 Fabricant: yeelight Unité de comptage: 2.0 unité ASIN: B0H24XZJS9 Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (403) 4,4 sur 5 étoiles Commentaires client",
-    "price": 19.19,
-    "reference_price": 29.99,
-    "discount_percent": 36.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-veilleuses-rechargeables-a-detecteur-de-mouvement-rvb-et-blanc-chaud-750-mah-3431705",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/B1K4i/3431705_1/re/1200x1200/qt/90/3431705_1.jpg",
-    "detected_at": "2026-10-13T12:49:52+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0H24XZJS9?smid=AS87FZ84LJUJQ",
-    "price_history": [
-      {
-        "price": 19.19,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 19.19,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 65\" Sony 65 Bravia 6 - 2026, OLED , 164cm, 4K",
-    "description": "1 499€ - Boulanger Les barres de son éligibles à l’offre : https://boulanger.scene7.com/is/content/Boulanger/2.B.com/Commerce/EMS/FOOT26IMAF.pdf Même prix chez DARTY sans l’offre barre de son OLED cinéma et couleurs réalistes Le Sony BRAVIA 6 65\" offre une expérience visuelle immersive grâce à son écran OLED 4K de 3840 x 2160 pixels. Plus de 8 millions de pixels auto-émissifs délivrent des noirs profonds et des pics de luminosité éclatants pour un contraste cinématographique exceptionnel, visible quel que soit l'angle de vision. La technologie TRILUMINOS Pro restitue plus d'un milliard de couleurs pour des nuances subtiles de saturation, teinte et luminosité, rendant chaque scène plus vraie que nature. Compatible Dolby Vision et HDR10/HLG, l'écran exploite la plage dynamique élevée pour un rendu détaillé des hautes lumières et des ombres. Fréquence native 120 Hz, images fluides et claires pour films et sports. Design flush surface contemporain et socle réglable en hauteur pour intégrer une barre de son et s'adapter aux meubles TV. Smart TV, son cinéma et gaming optimisé Google TV avec Gemini donne accès à plus de 400 000 films et épisodes, plus de 10 000 applications et jeux via le Google Play Store et la commande vocale pour rechercher et contrôler le téléviseur. Quatre entrées HDMI 2.1 permettent la 4K à 120 images par seconde, VRR et ALLM pour une expérience gaming dynamique et réactive. L'audio intègre Dolby Atmos et Dolby Audio pour une immersion sonore de type salle de cinéma. Connectique complète : 4 HDMI, 2 USB, sortie audio numérique et port Ethernet, Wi-Fi intégré et Google Cast pour diffuser facilement le contenu. Dimensions sans pied 144,3 x 83,2 x 4,0 cm, poids 17,3 kg.",
-    "price": 1499.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-oled-sony-65-bravia-6-2026-65-164-cm-4k-3431713",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8aKyR/3431713_1/re/1200x1200/qt/90/3431713_1.jpg",
-    "detected_at": "2026-10-13T12:46:50+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.boulanger.com/ref/1245292",
-    "price_history": [
-      {
-        "price": 1499.0,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 1499.0,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Machine expresso automatique Krups EA810870 - Noire ou Rouge, 1450W, 15 bars (Via 20€ sur la carte de fidélité) - Retrait magasin",
-    "description": "159,99€ - Carrefour Super prix ! Caractéristiques techniques Couleur Noir Capacité du réservoir (en l) 1.7 Arrêt automatique Oui Nombre de tasses 2 Témoin de détartrage Oui Encastrable Non Puissance (en W) 1450 Réservoir amovible Oui Fabrication française Oui Type de cafetière Expresso broyeur à grains Disponibilité pièces détachées 120 Pression (en bar) 15 Puissance totale (en W) 1450 Marque de console KRUPS Broyeur à Café Intégré Oui Réservoir à lait non Cuve amovible Oui Température réglable Oui",
-    "price": 159.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/machine-expresso-automatique-krups-ea810870-noire-ou-rouge-1450w-15-bars-via-20eur-sur-la-carte-de-fidelite-retrait-magasin-3431712",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Pove7/3431712_1/re/1200x1200/qt/90/3431712_1.jpg",
-    "detected_at": "2026-10-13T12:46:25+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.carrefour.fr/p/machine-a-expresso-a-broyeur-noir-ea810870-krups-0010942215714",
-    "price_history": [
-      {
-        "price": 159.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 159.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pantalon de golf chino Oakley Icon homme - Coloris Fathom, du 28 au 36 US",
-    "description": "11,99€ - Private Sport Shop Un pantalon chino Oakley pensé pour le golf, mais avec une coupe assez sobre pour se porter aussi en dehors du parcours. Il est composé de 70 % coton, 28 % polyester et 2 % élasthanne, pour un peu d'extensibilité dans les mouvements. Plusieurs détails techniques sont mis en avant : des perforations découpées au laser au-dessus des genoux pour la ventilation, des chevilles fendues avec bande intérieure pour bien tomber sur les chaussures, et des doubles poches passepoilées. Côté finitions, on retrouve une fermeture à glissière Vislon siglée Oakley et le logo ellipse sur la cuisse gauche. Le coloris proposé est le Fathom, référence FOA402610. Tailles disponibles au moment du post : 28 US (L30), 30 US (L30), 32 US (L32), 34 US (L34) et 36 US (L34). Le vendeur indique un article prêt à l'envoi. Une inscription gratuite sur Private Sport Shop est nécessaire pour commander.",
-    "price": 11.99,
-    "reference_price": 14.9,
-    "discount_percent": 19.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pantalon-de-golf-chino-oakley-icon-homme-coloris-fathom-du-28-au-36-us-3431709",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/TjZMK/3431709_1/re/1200x1200/qt/90/3431709_1.jpg",
-    "detected_at": "2026-10-13T12:42:53+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:07:07.513752+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 11.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 11.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   }
