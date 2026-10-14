@@ -241,6 +241,32 @@ body.offers-page #selection-dealradar{margin-top:14px}
 body.offers-page #dernieres-offres{margin-top:42px}
 body.offers-page .page-intro{display:block}
 
+
+:root{--bg:#071321;--panel:#102338;--panel2:#19334d;--text:#f4f8ff;--muted:#b5c5d8;--green:#63f0b0;--line:#29435d;--blue:#79bdff;--purple:#b8a1ff}
+body{background:radial-gradient(ellipse at 8% 0%,#102c43 0%,transparent 34%),var(--bg)}
+header{background:rgba(5,15,27,.93)}
+.hero{background:radial-gradient(ellipse at 84% 42%,#155d53 0%,#143b46 22%,#11283c 56%,#0d1b2c 100%);border-color:#2f645d}
+.featured-card{background:linear-gradient(135deg,#143c38,#102238 70%);border-color:#2c6258}
+.deal-card{transition:transform .18s,border-color .18s,box-shadow .18s}
+.deal-card:hover{transform:translateY(-3px);border-color:#4b9f9a;box-shadow:0 12px 30px #0003;cursor:pointer}
+.deal-card-open{display:flex;justify-content:space-between;gap:10px;width:100%;margin-top:10px;padding:10px 12px;border:1px solid #3b6178;border-radius:10px;background:#142f45;color:#dff2ff;font-weight:800;font-size:12px;cursor:pointer}
+.deal-card-open:hover{background:#183e4d;border-color:var(--blue)}
+.deal-confidence{display:inline-flex;gap:5px;font-size:10px;font-weight:800;border:1px solid var(--line);border-radius:999px;padding:5px 8px;color:var(--muted)}
+.deal-confidence.high{color:#7ff0b4;border-color:#2d7255;background:#103426}.deal-confidence.medium{color:#ffd58a;border-color:#7b6234;background:#352a16}.deal-confidence.low{color:#ffaaa8;border-color:#7b4141;background:#351b22}
+.offer-dialog{width:min(760px,calc(100% - 24px));max-height:88vh;overflow:auto;padding:0;border:1px solid #3b5a73;border-radius:20px;background:#0b1a29;color:var(--text);box-shadow:0 24px 90px #0009}
+.offer-dialog::backdrop{background:#020811c9;backdrop-filter:blur(5px)}
+.offer-dialog-head{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 22px;background:#0c1b2bed;border-bottom:1px solid var(--line)}
+.offer-dialog-head h2{font-size:22px;margin-top:6px}.offer-dialog-close{width:38px;height:38px;border:1px solid var(--line);border-radius:10px;background:#172b40;color:var(--text);font-size:18px;cursor:pointer}
+.offer-dialog-content{padding:22px}.offer-detail-top{display:grid;grid-template-columns:150px minmax(0,1fr);gap:18px;align-items:start}
+.offer-detail-image{width:100%;aspect-ratio:1;object-fit:contain;border-radius:14px;background:#fff}.offer-detail-title{font-size:19px;line-height:1.45;margin:0 0 12px}
+.offer-detail-prices{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:12px 0}.offer-detail-current{font-size:28px;font-weight:900;color:var(--green)}.offer-detail-reference{font-size:14px;color:var(--muted);text-decoration:line-through}.offer-detail-discount{font-size:12px;font-weight:900;background:#173c2c;color:#8cf7b8;border-radius:7px;padding:6px 8px}
+.offer-detail-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:20px 0}.offer-detail-fact{padding:12px;border:1px solid var(--line);border-radius:11px;background:#102236}.offer-detail-fact span{display:block;color:var(--muted);font-size:11px;margin-bottom:6px}.offer-detail-fact strong{font-size:13px;overflow-wrap:anywhere}
+.offer-detail-section{margin-top:18px;padding-top:16px;border-top:1px solid var(--line)}.offer-detail-section h3{font-size:14px;margin:0 0 10px}.offer-detail-description{color:#d2deeb;font-size:13px;line-height:1.75;white-space:pre-line;overflow-wrap:anywhere}
+.offer-detail-reasons{display:flex;gap:7px;flex-wrap:wrap}.offer-detail-reasons span{font-size:11px;padding:6px 8px;border-radius:7px;background:#102b27;border:1px solid #275447;color:#b7f5d2}.offer-detail-warnings span{background:#302519;border-color:#695033;color:#ffe0a6}
+.offer-detail-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:20px}.offer-detail-actions a{display:inline-flex;justify-content:center;align-items:center;border:1px solid #3b6178;border-radius:10px;padding:11px 14px;background:#142f45;color:#e4f3ff;font-size:12px;font-weight:800}.offer-detail-actions a.primary{background:var(--green);border-color:var(--green);color:#082016}
+.featured-card{cursor:pointer;text-align:left;color:inherit;font:inherit}.featured-card:focus-visible,.deal-card:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+@media(max-width:650px){.offer-dialog-content{padding:15px}.offer-dialog-head{padding:16px}.offer-detail-top{grid-template-columns:100px minmax(0,1fr);gap:13px}.offer-detail-title{font-size:16px}.offer-detail-current{font-size:23px}.offer-detail-facts{grid-template-columns:1fr 1fr}}
+
 </style>
 </head>
 <body class="offers-page">
@@ -441,6 +467,10 @@ body.offers-page .page-intro{display:block}
   </section>
 </main>
 
+<dialog id="offer-details-dialog" class="offer-dialog" aria-labelledby="offer-dialog-title">
+  <div class="offer-dialog-head"><div><span class="eyebrow">Fiche détaillée</span><h2 id="offer-dialog-title">Détails de l’offre</h2></div><button type="button" class="offer-dialog-close" id="offer-dialog-close" aria-label="Fermer la fiche">✕</button></div>
+  <div id="offer-dialog-content" class="offer-dialog-content"></div>
+</dialog>
 <footer>
   <div class="footer-inner">
     <div><strong>DealRadar</strong> — Les bonnes affaires. Au bon moment.</div>
@@ -667,9 +697,11 @@ function renderPriceHistory(offer) {
   if (!history.length) return '<div class="price-history"><div class="price-history-note">Historique de prix en cours de constitution : aucune observation enregistrée pour le moment.</div></div>';
   if (history.length < 2) return '<div class="price-history"><div class="price-history-head"><span>Historique DealRadar</span><strong>1 observation</strong></div><div class="price-history-note">Pas encore de tendance exploitable. Le prix actuel est affiché séparément ; DealRadar doit collecter d’autres valeurs dans le temps. Ce n’est pas l’historique complet du marchand.</div></div>';
   const values = history.map(item => Number(item.price));
+  const uniquePrices = new Set(values.map(value => value.toFixed(2)));
+  if (history.length < 2 || uniquePrices.size < 2) return '<div class="price-history"><div class="price-history-head"><span>' + (history.length < 2 ? "Une seule observation" : "Aucune variation constatée") + '</span><strong>' + formatPrice(values[values.length - 1]) + '</strong></div><div class="price-history-note">DealRadar n’a enregistré aucune variation de prix dans les observations disponibles. Ce n’est pas l’historique complet du marchand.</div></div>';
   const min = Math.min(...values), max = Math.max(...values), range = max - min || 1;
   const points = values.map((value, i) => ((i / (values.length - 1)) * 100).toFixed(1) + ',' + (29 - ((value - min) / range) * 24).toFixed(1)).join(' ');
-  return '<div class="price-history" data-history="' + escapeAttribute(JSON.stringify(history)) + '"><div class="price-history-head"><span>Historique observé</span><strong class="price-history-current">' + escapeHtml(formatPrice(values[values.length - 1])) + '</strong></div><div class="price-history-controls" role="group" aria-label="Période de l’historique"><button type="button" data-history-days="30" aria-pressed="false">30 j</button><button type="button" data-history-days="90" aria-pressed="false">90 j</button><button type="button" data-history-days="180" aria-pressed="true">180 j</button></div><svg viewBox="0 0 100 34" preserveAspectRatio="none" role="img" aria-label="Évolution des prix réellement observés"><polyline class="price-history-line" points="' + points + '" fill="none" stroke="#46f58b" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="price-history-note">' + history.length + ' observations DealRadar · minimum ' + escapeHtml(formatPrice(min)) + ' · maximum ' + escapeHtml(formatPrice(max)) + ' · observations enregistrées, pas historique complet du marchand</div></div>';
+  return '<div class="price-history" data-history="' + escapeAttribute(JSON.stringify(history)) + '"><div class="price-history-head"><span>Variations observées par DealRadar</span><strong class="price-history-current">' + escapeHtml(formatPrice(values[values.length - 1])) + '</strong></div><div class="price-history-controls" role="group" aria-label="Période de l’historique"><button type="button" data-history-days="30" aria-pressed="false">30 j</button><button type="button" data-history-days="90" aria-pressed="false">90 j</button><button type="button" data-history-days="180" aria-pressed="true">180 j</button></div><svg viewBox="0 0 100 34" preserveAspectRatio="none" role="img" aria-label="Évolution des prix réellement observés"><polyline class="price-history-line" points="' + points + '" fill="none" stroke="#46f58b" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round"/></svg><div class="price-history-note">' + history.length + ' observations DealRadar · minimum ' + escapeHtml(formatPrice(min)) + ' · maximum ' + escapeHtml(formatPrice(max)) + ' · observations enregistrées, pas historique complet du marchand</div></div>';
 }
 document.addEventListener("click", event => {
   const button = event.target.closest(".price-history-controls button[data-history-days]");
@@ -736,12 +768,12 @@ function renderFeaturedOffers() {
     const img = image
       ? '<img class="featured-image" src="' + escapeAttribute(image) + '" alt="' + title + '" loading="lazy" referrerpolicy="no-referrer">'
       : '<div class="featured-image" role="img" aria-label="Visuel indisponible"></div>';
-    return '<a class="featured-card" href="' + escapeAttribute(item.url) + '" target="_blank" rel="noopener noreferrer sponsored">' +
+    return '<article class="featured-card" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(item.url) + '" aria-label="Ouvrir les détails : ' + title + '">' +
       img + '<div><div class="featured-label">-' + Math.round(item.discount) + ' % annoncé</div>' +
       '<div class="featured-title">' + title + '</div><div><span class="featured-price">' + formatPrice(item.price) + '</span>' +
       '<span class="featured-old-price">' + formatPrice(item.reference) + '</span></div>' +
       '<div class="featured-foot">' + escapeHtml(source) + ' · ' + (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le marchand') +
-      (typeof window.DealRadarTrust === "function" ? ' · Confiance ' + window.DealRadarTrust(offer).level.toLowerCase() : '') + '</div></div></a>';
+      (typeof window.DealRadarTrust === "function" ? ' · Confiance ' + window.DealRadarTrust(offer).level.toLowerCase() : '') + '</div><div class="featured-foot">Ouvrir la fiche détaillée ↗</div></div></article>';
   }).join("");
 }
 function renderOffers() {
@@ -830,19 +862,67 @@ function renderOffers() {
       ? descriptionText.slice(0, descriptionLimit).replace(/\s+\S*$/, "") + "…"
       : descriptionText;
     const fallbackImage = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef2f6"/><g fill="none" stroke="#9aa8b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><rect x="315" y="145" width="170" height="150" rx="18"/><path d="M350 330h100M400 295v35"/></g><text x="400" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#64748b">Image indisponible</text></svg>');
-    return '<article class="deal-card">' +
-      '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + title.replace(/"/g,"&quot;") + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
-      '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + category + '</div><span class="deal-source-badge">' + source + '</span></div><h3 class="deal-title">' + title + '</h3>' +
-      prices + (description ? '<p class="deal-meta">' + description + '</p>' : '') +
-      '<div class="deal-meta">' + (date ? 'Détectée le ' + date.toLocaleDateString("fr-FR") + ' · ' : '') +
-      (offer.price_verified === true ? 'Prix relevé sur une fiche marchand' : (price ? (isDealabs ? 'Prix annoncé sur Dealabs · à comparer chez le marchand' : 'Prix transmis par le flux · à comparer chez le marchand') : 'Prix non fourni dans les données reçues')) + '</div>' +
+
+    const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée"};
+    const trustClass = trustInfo.score >= 75 ? "high" : trustInfo.score >= 42 ? "medium" : "low";
+    const sourceLabel = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\\./i.test(url) ? "Amazon" : rawSource);
+    return '<article class="deal-card" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
+      '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + escapeAttribute(title) + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
+      '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + escapeHtml(category) + '</div><span class="deal-source-badge">' + escapeHtml(sourceLabel) + '</span></div>' +
+      '<h3 class="deal-title">' + escapeHtml(title) + '</h3>' + prices +
+      '<div class="deal-meta">' + (date ? 'Repérée le ' + date.toLocaleDateString("fr-FR") : 'Date non disponible') + '</div>' +
+      '<div><span class="deal-confidence ' + trustClass + '">Confiance ' + escapeHtml(String(trustInfo.level).toLowerCase()) + ' · ' + trustInfo.score + '/100</span></div>' +
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
-      renderPriceHistory(offer) +
-      (url ? '<a class="deal-cta" href="' + url + '" target="_blank" rel="noopener noreferrer sponsored">Voir l’offre ↗</a>' : '') +
-      '<div class="deal-community-actions"><a class="deal-report" href="' + escapeAttribute(reportOfferUrl(offer, "confirm")) + '" target="_blank" rel="noopener noreferrer">✓ Confirmer le prix</a><a class="deal-report" href="' + escapeAttribute(reportOfferUrl(offer, "report")) + '" target="_blank" rel="noopener noreferrer">⚑ Signaler un prix ou une offre expirée</a><a class="deal-report" href="' + escapeAttribute(reportCategoryUrl(offer)) + '" target="_blank" rel="noopener noreferrer">Catégorie incorrecte</a></div>' +
+      '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>' +
       '</div></article>';
   }).join("");
 }
+
+function openOfferDetails(url) {
+  const offer = offers.find(item => item.url === url);
+  if (!offer) return;
+  const dialog = document.getElementById("offer-details-dialog");
+  const root = document.getElementById("offer-dialog-content");
+  if (!dialog || !root) return;
+  const price = parsePriceValue(offer.price ?? offer.current_price);
+  const reference = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
+  const discount = price !== null && reference !== null && reference > price ? (1-price/reference)*100 : null;
+  const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée",reasons:[],warnings:[]};
+  const source = /dealabs/i.test(String(offer.source || "") + " " + url) ? "Dealabs" : String(offer.source || "Source inconnue");
+  const category = inferCategory(offer);
+  const image = productImageCandidates(offer,url)[0] || "";
+  const date = safeDate(offer.price_checked_at || offer.detected_at || offer.published_at);
+  const description = String(offer.description || "").replace(/<[^>]*>/g," ").replace(/\\s+/g," ").trim();
+  const reasons = (trustInfo.reasons || []).slice(0,6).map(x=>"<span>✓ "+escapeHtml(x)+"</span>").join("");
+  const warnings = (trustInfo.warnings || []).slice(0,6).map(x=>"<span>! "+escapeHtml(x)+"</span>").join("");
+  const priceMarkup = price !== null ? '<span class="offer-detail-current">'+formatPrice(price)+'</span>' : '<span class="offer-detail-current">Prix non communiqué</span>';
+  const oldMarkup = reference !== null && price !== null && reference > price ? '<span class="offer-detail-reference">'+formatPrice(reference)+'</span>' : "";
+  const discountMarkup = discount !== null ? '<span class="offer-detail-discount">-'+discount.toFixed(1).replace(".",",")+' %</span>' : "";
+  const merchantUrl = typeof offer.merchant_url === "string" && /^https:\/\//i.test(offer.merchant_url) ? offer.merchant_url : url;
+  root.innerHTML =
+    '<div class="offer-detail-top">'+(image?'<img class="offer-detail-image" src="'+escapeAttribute(image)+'" alt="'+escapeAttribute(offer.title||"")+'" loading="lazy" referrerpolicy="no-referrer">':'<div class="offer-detail-image"></div>')+
+    '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=75?"high":trustInfo.score>=42?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div><div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
+    '<div class="offer-detail-facts"><div class="offer-detail-fact"><span>Source de la publication</span><strong>'+escapeHtml(source)+'</strong></div><div class="offer-detail-fact"><span>Catégorie</span><strong>'+escapeHtml(category)+'</strong></div><div class="offer-detail-fact"><span>Prix de référence</span><strong>'+(reference!==null&&price!==null&&reference>price?formatPrice(reference):"Non communiqué par la source")+'</strong></div><div class="offer-detail-fact"><span>Dernier repère temporel</span><strong>'+(date?date.toLocaleString("fr-FR"):"Date inconnue")+'</strong></div></div>'+
+    (description?'<section class="offer-detail-section"><h3>Description et conditions</h3><div class="offer-detail-description">'+escapeHtml(description)+'</div></section>':"")+
+    '<section class="offer-detail-section"><h3>Pourquoi cet indice de confiance ?</h3><div class="offer-detail-reasons">'+(reasons||"<span>Peu d’éléments documentés</span>")+'</div>'+(warnings?'<div class="offer-detail-reasons offer-detail-warnings" style="margin-top:8px">'+warnings+'</div>':"")+'<p class="deal-meta">Le score évalue la fiabilité des informations disponibles, pas la qualité du produit.</p></section>'+
+    '<section class="offer-detail-section"><h3>Historique DealRadar</h3>'+renderPriceHistory(offer)+'</section>'+
+    '<div class="offer-detail-actions"><a class="primary" href="'+escapeAttribute(merchantUrl)+'" target="_blank" rel="noopener noreferrer sponsored">Voir chez le marchand ↗</a><a href="'+escapeAttribute(reportOfferUrl(offer,"confirm"))+'" target="_blank" rel="noopener noreferrer">Confirmer le prix</a><a href="'+escapeAttribute(reportOfferUrl(offer,"report"))+'" target="_blank" rel="noopener noreferrer">Signaler un problème</a><a href="'+escapeAttribute(reportCategoryUrl(offer))+'" target="_blank" rel="noopener noreferrer">Signaler la catégorie</a></div>';
+  document.getElementById("offer-dialog-title").textContent="Fiche produit";
+  if(!dialog.open) dialog.showModal();
+}
+document.addEventListener("click",event=>{
+  const button=event.target.closest("[data-offer-details]");
+  if(button){event.preventDefault();event.stopPropagation();openOfferDetails(button.dataset.offerDetails);return;}
+  const card=event.target.closest("[data-offer-card-url]");
+  if(card&&!event.target.closest("a,button,input,select")) openOfferDetails(card.dataset.offerCardUrl);
+});
+document.addEventListener("keydown",event=>{
+  const card=event.target.closest&&event.target.closest("[data-offer-card-url]");
+  if(card&&(event.key==="Enter"||event.key===" ")&&!event.target.closest("a,button,input,select")){event.preventDefault();openOfferDetails(card.dataset.offerCardUrl);}
+});
+document.getElementById("offer-dialog-close")?.addEventListener("click",()=>document.getElementById("offer-details-dialog").close());
+document.getElementById("offer-details-dialog")?.addEventListener("click",event=>{if(event.target===event.currentTarget)event.currentTarget.close();});
+
 function renderPagination(totalPages, totalItems) {
   if (!pagination) return;
   if (totalItems <= pageSize) {
