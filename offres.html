@@ -864,7 +864,7 @@ function renderOffers() {
     const fallbackImage = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef2f6"/><g fill="none" stroke="#9aa8b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><rect x="315" y="145" width="170" height="150" rx="18"/><path d="M350 330h100M400 295v35"/></g><text x="400" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#64748b">Image indisponible</text></svg>');
 
     const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée"};
-    const trustClass = trustInfo.score >= 75 ? "high" : trustInfo.score >= 42 ? "medium" : "low";
+    const trustClass = trustInfo.score >= 75 ? "high" : trustInfo.score >= 40 ? "medium" : "low";
     const sourceLabel = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource);
     return '<article class="deal-card" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
       '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + escapeAttribute(title) + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
