@@ -120,7 +120,9 @@
     else if (history.length >= 2) { score += 5; reasons.push("plusieurs observations conservées"); if (distinctPrices < 2) warnings.push("aucune variation de prix constatée pour l'instant"); }
     else warnings.push("historique trop court pour juger une tendance");
     if (validDates.length >= 2 && Math.max(...validDates) - Math.min(...validDates) >= 6 * 60 * 60 * 1000) { score += 4; reasons.push("observations espacées dans le temps"); }
-    const rawDate = offer.price_checked_at || offer.detected_at || offer.published_at;
+    const rawDate = offer.price_verified === true && offer.price_checked_at
+      ? offer.price_checked_at
+      : (offer.detected_at || offer.published_at);
     const date = rawDate ? new Date(String(rawDate).replace(" ", "T") + (/[zZ]|[+-]\d{2}:?\d{2}$/.test(String(rawDate)) ? "" : "Z")) : null;
     if (date && !Number.isNaN(date.getTime())) {
       const age = Date.now() - date.getTime();
