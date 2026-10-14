@@ -50,7 +50,7 @@
     "url": "https://www.amazon.fr/dp/B07TTVQQ7R",
     "image_url": "https://m.media-amazon.com/images/P/B07TTVQQ7R.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 08:15:08",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -71,7 +71,7 @@
     "url": "https://www.amazon.fr/dp/B0DBHLTH1Q",
     "image_url": "https://m.media-amazon.com/images/P/B0DBHLTH1Q.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 07:45:27",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -197,7 +197,7 @@
     "url": "https://www.amazon.fr/dp/B082986GRX",
     "image_url": "https://m.media-amazon.com/images/P/B082986GRX.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 02:40:34",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -218,7 +218,7 @@
     "url": "https://www.amazon.fr/dp/B0GQZS86NX",
     "image_url": "https://m.media-amazon.com/images/P/B0GQZS86NX.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 02:12:38",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -239,7 +239,7 @@
     "url": "https://www.amazon.fr/dp/B00J4A8EJQ",
     "image_url": "https://m.media-amazon.com/images/P/B00J4A8EJQ.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 01:26:22",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -260,7 +260,7 @@
     "url": "https://www.amazon.fr/dp/B0B9LS45KZ",
     "image_url": "https://m.media-amazon.com/images/P/B0B9LS45KZ.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 23:56:24",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -302,7 +302,7 @@
     "url": "https://www.amazon.fr/dp/B07DFMNFST",
     "image_url": "https://m.media-amazon.com/images/P/B07DFMNFST.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:19",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -365,7 +365,7 @@
     "url": "https://www.amazon.fr/dp/B0C591CPQT",
     "image_url": "https://m.media-amazon.com/images/P/B0C591CPQT.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:15",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -386,7 +386,7 @@
     "url": "https://www.amazon.fr/dp/B09G36D37S",
     "image_url": "https://m.media-amazon.com/images/P/B09G36D37S.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:14",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -407,7 +407,7 @@
     "url": "https://www.amazon.fr/dp/B0DXL3GL5H",
     "image_url": "https://m.media-amazon.com/images/P/B0DXL3GL5H.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:13",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -428,7 +428,7 @@
     "url": "https://www.amazon.fr/dp/B00EA0B6H2",
     "image_url": "https://m.media-amazon.com/images/P/B00EA0B6H2.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:11",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -449,7 +449,7 @@
     "url": "https://www.amazon.fr/dp/B00ID52G2Y",
     "image_url": "https://m.media-amazon.com/images/P/B00ID52G2Y.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:10",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -491,7 +491,7 @@
     "url": "https://www.amazon.fr/dp/B0D1RD1T8Q",
     "image_url": "https://m.media-amazon.com/images/P/B0D1RD1T8Q.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:08",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -512,7 +512,7 @@
     "url": "https://www.amazon.fr/dp/B002NTOZYI",
     "image_url": "https://m.media-amazon.com/images/P/B002NTOZYI.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:46:06",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -533,7 +533,7 @@
     "url": "https://www.amazon.fr/dp/B09BDCHNDD",
     "image_url": "https://m.media-amazon.com/images/P/B09BDCHNDD.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:14:29",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -554,7 +554,7 @@
     "url": "https://www.amazon.fr/dp/B0CDM94MJL",
     "image_url": "https://m.media-amazon.com/images/P/B0CDM94MJL.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:14:27",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -596,7 +596,7 @@
     "url": "https://www.amazon.fr/dp/B0CQMDMP8R",
     "image_url": "https://m.media-amazon.com/images/P/B0CQMDMP8R.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:14:20",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -617,7 +617,7 @@
     "url": "https://www.amazon.fr/dp/B015RX2TJ4",
     "image_url": "https://m.media-amazon.com/images/P/B015RX2TJ4.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 20:14:18",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -659,7 +659,7 @@
     "url": "https://www.amazon.fr/dp/B06XXKWDJ6",
     "image_url": "https://m.media-amazon.com/images/P/B06XXKWDJ6.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:53:22",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -764,7 +764,7 @@
     "url": "https://www.amazon.fr/dp/B00DI7V9XO",
     "image_url": "https://m.media-amazon.com/images/P/B00DI7V9XO.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:53:13",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -785,7 +785,7 @@
     "url": "https://www.amazon.fr/dp/B07J6BZMBR",
     "image_url": "https://m.media-amazon.com/images/P/B07J6BZMBR.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:53:09",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -827,7 +827,7 @@
     "url": "https://www.amazon.fr/dp/B0D7X6HYDS",
     "image_url": "https://m.media-amazon.com/images/P/B0D7X6HYDS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:23:06",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -869,7 +869,7 @@
     "url": "https://www.amazon.fr/dp/B09GBGZZZD",
     "image_url": "https://m.media-amazon.com/images/P/B09GBGZZZD.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:23:03",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -911,7 +911,7 @@
     "url": "https://www.amazon.fr/dp/B08P213HBB",
     "image_url": "https://m.media-amazon.com/images/P/B08P213HBB.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:23:00",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -932,7 +932,7 @@
     "url": "https://www.amazon.fr/dp/B07H8K3TLB",
     "image_url": "https://m.media-amazon.com/images/P/B07H8K3TLB.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:22:59",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -953,7 +953,7 @@
     "url": "https://www.amazon.fr/dp/B008POA6K2",
     "image_url": "https://m.media-amazon.com/images/P/B008POA6K2.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:22:56",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -995,7 +995,7 @@
     "url": "https://www.amazon.fr/dp/B07W7KV3SR",
     "image_url": "https://m.media-amazon.com/images/P/B07W7KV3SR.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 18:57:28",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -1436,7 +1436,7 @@
     "url": "https://www.amazon.fr/dp/B0DX7D5B6R",
     "image_url": "https://m.media-amazon.com/images/P/B0DX7D5B6R.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 18:29:47",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -1499,7 +1499,7 @@
     "url": "https://www.amazon.fr/dp/B08MS1TQB5",
     "image_url": "https://m.media-amazon.com/images/P/B08MS1TQB5.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 18:06:08",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -1520,7 +1520,7 @@
     "url": "https://www.amazon.fr/dp/B0G6LGJW6D",
     "image_url": "https://m.media-amazon.com/images/P/B0G6LGJW6D.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 18:06:07",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -1709,7 +1709,7 @@
     "url": "https://www.amazon.fr/dp/B0F4F171C1",
     "image_url": "https://m.media-amazon.com/images/P/B0F4F171C1.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 17:54:33",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -1730,7 +1730,7 @@
     "url": "https://www.amazon.fr/dp/B07SFH7K8N",
     "image_url": "https://m.media-amazon.com/images/P/B07SFH7K8N.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 17:54:32",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -1898,7 +1898,7 @@
     "url": "https://www.amazon.fr/dp/B0CSK5TM6F",
     "image_url": "https://m.media-amazon.com/images/P/B0CSK5TM6F.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 17:38:48",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3797,6 +3797,10 @@
       {
         "price": 23.68,
         "observed_at": "2026-10-13T09:25:22.873114+00:00"
+      },
+      {
+        "price": 23.68,
+        "observed_at": "2026-10-14T09:32:31.449655+00:00"
       }
     ]
   },
@@ -3818,6 +3822,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-13T09:25:22.873114+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T09:32:31.449655+00:00"
       }
     ]
   },
@@ -3839,6 +3847,10 @@
       {
         "price": 14.24,
         "observed_at": "2026-10-13T09:25:22.873114+00:00"
+      },
+      {
+        "price": 14.24,
+        "observed_at": "2026-10-14T09:32:31.449655+00:00"
       }
     ]
   },
@@ -3860,6 +3872,10 @@
       {
         "price": 31.49,
         "observed_at": "2026-10-13T09:25:22.873114+00:00"
+      },
+      {
+        "price": 31.49,
+        "observed_at": "2026-10-14T09:32:31.449655+00:00"
       }
     ]
   },
@@ -3881,6 +3897,10 @@
       {
         "price": 10.27,
         "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      },
+      {
+        "price": 10.27,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
       }
     ]
   },
@@ -3902,6 +3922,10 @@
       {
         "price": 33.28,
         "observed_at": "2026-10-13T09:04:58.803843+00:00"
+      },
+      {
+        "price": 33.28,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
       }
     ]
   },
@@ -3923,6 +3947,10 @@
       {
         "price": 16.79,
         "observed_at": "2026-10-13T08:45:57.048564+00:00"
+      },
+      {
+        "price": 16.79,
+        "observed_at": "2026-10-14T08:48:30.564398+00:00"
       }
     ]
   },
@@ -3944,6 +3972,10 @@
       {
         "price": 347.68,
         "observed_at": "2026-10-13T08:40:10.328937+00:00"
+      },
+      {
+        "price": 347.68,
+        "observed_at": "2026-10-14T08:48:30.564398+00:00"
       }
     ]
   },
@@ -3965,6 +3997,10 @@
       {
         "price": 83.52,
         "observed_at": "2026-10-13T08:30:12.921267+00:00"
+      },
+      {
+        "price": 83.52,
+        "observed_at": "2026-10-14T08:48:30.564398+00:00"
       }
     ]
   },
@@ -3986,6 +4022,10 @@
       {
         "price": 124.04,
         "observed_at": "2026-10-13T08:30:12.921267+00:00"
+      },
+      {
+        "price": 124.04,
+        "observed_at": "2026-10-14T08:48:30.564398+00:00"
       }
     ]
   },
@@ -4007,6 +4047,10 @@
       {
         "price": 18.35,
         "observed_at": "2026-10-13T08:30:12.921267+00:00"
+      },
+      {
+        "price": 18.35,
+        "observed_at": "2026-10-14T08:48:30.564398+00:00"
       }
     ]
   },
@@ -4028,6 +4072,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-13T08:30:12.921267+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T08:48:30.564398+00:00"
       }
     ]
   },
@@ -4049,6 +4097,10 @@
       {
         "price": 97.72,
         "observed_at": "2026-10-13T08:30:12.921267+00:00"
+      },
+      {
+        "price": 97.72,
+        "observed_at": "2026-10-14T08:48:30.564398+00:00"
       }
     ]
   },
@@ -4070,6 +4122,10 @@
       {
         "price": 239.0,
         "observed_at": "2026-10-13T07:55:18.426884+00:00"
+      },
+      {
+        "price": 239.0,
+        "observed_at": "2026-10-14T08:16:12.175447+00:00"
       }
     ]
   },
@@ -4091,6 +4147,10 @@
       {
         "price": 11.44,
         "observed_at": "2026-10-13T07:12:33.878873+00:00"
+      },
+      {
+        "price": 11.44,
+        "observed_at": "2026-10-14T07:46:23.404145+00:00"
       }
     ]
   },
@@ -4112,6 +4172,10 @@
       {
         "price": 27.81,
         "observed_at": "2026-10-13T06:27:32.153576+00:00"
+      },
+      {
+        "price": 27.81,
+        "observed_at": "2026-10-14T06:28:29.301570+00:00"
       }
     ]
   },
@@ -4124,7 +4188,7 @@
     "url": "https://www.amazon.fr/dp/B00WDYFZYC",
     "image_url": "https://m.media-amazon.com/images/P/B00WDYFZYC.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 06:02:27",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -4133,6 +4197,10 @@
       {
         "price": 23.5,
         "observed_at": "2026-10-13T06:02:31.775317+00:00"
+      },
+      {
+        "price": 23.5,
+        "observed_at": "2026-10-14T06:28:29.301570+00:00"
       }
     ]
   },
@@ -4154,6 +4222,10 @@
       {
         "price": 57.6,
         "observed_at": "2026-10-13T05:47:42.063795+00:00"
+      },
+      {
+        "price": 57.6,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
       }
     ]
   },
@@ -4175,6 +4247,10 @@
       {
         "price": 22.85,
         "observed_at": "2026-10-13T04:00:40.824102+00:00"
+      },
+      {
+        "price": 22.85,
+        "observed_at": "2026-10-14T04:05:16.314403+00:00"
       }
     ]
   },
@@ -4187,7 +4263,7 @@
     "url": "https://www.amazon.fr/dp/B00U78PCOY",
     "image_url": "https://m.media-amazon.com/images/P/B00U78PCOY.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 02:01:50",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -4196,6 +4272,10 @@
       {
         "price": 627.84,
         "observed_at": "2026-10-13T02:01:55.765931+00:00"
+      },
+      {
+        "price": 627.84,
+        "observed_at": "2026-10-14T02:14:02.361860+00:00"
       }
     ]
   },
@@ -4217,6 +4297,10 @@
       {
         "price": 24.95,
         "observed_at": "2026-10-13T01:48:28.839462+00:00"
+      },
+      {
+        "price": 24.95,
+        "observed_at": "2026-10-14T01:54:44.401054+00:00"
       }
     ]
   },
@@ -4238,6 +4322,10 @@
       {
         "price": 89.99,
         "observed_at": "2026-10-13T01:10:48.819149+00:00"
+      },
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-14T01:27:19.324555+00:00"
       }
     ]
   },
@@ -4259,6 +4347,10 @@
       {
         "price": 10.94,
         "observed_at": "2026-10-13T00:52:07.274133+00:00"
+      },
+      {
+        "price": 10.94,
+        "observed_at": "2026-10-14T00:58:24.054406+00:00"
       }
     ]
   },
@@ -4280,6 +4372,10 @@
       {
         "price": 99.9,
         "observed_at": "2026-10-13T00:52:07.274133+00:00"
+      },
+      {
+        "price": 99.9,
+        "observed_at": "2026-10-14T00:58:24.054406+00:00"
       }
     ]
   },
@@ -4301,6 +4397,10 @@
       {
         "price": 235.06,
         "observed_at": "2026-10-12T23:32:40.004771+00:00"
+      },
+      {
+        "price": 235.06,
+        "observed_at": "2026-10-13T23:35:12.715032+00:00"
       }
     ]
   },
@@ -4322,6 +4422,10 @@
       {
         "price": 6.49,
         "observed_at": "2026-10-12T22:33:18.611432+00:00"
+      },
+      {
+        "price": 6.49,
+        "observed_at": "2026-10-13T22:53:52.916842+00:00"
       }
     ]
   },
@@ -4343,6 +4447,10 @@
       {
         "price": 17.36,
         "observed_at": "2026-10-12T22:17:06.696397+00:00"
+      },
+      {
+        "price": 17.36,
+        "observed_at": "2026-10-13T22:28:12.315028+00:00"
       }
     ]
   },
@@ -4364,6 +4472,10 @@
       {
         "price": 31.45,
         "observed_at": "2026-10-12T22:02:00.505050+00:00"
+      },
+      {
+        "price": 31.45,
+        "observed_at": "2026-10-13T22:02:51.987880+00:00"
       }
     ]
   },
@@ -4385,6 +4497,10 @@
       {
         "price": 13.79,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 13.79,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4406,6 +4522,10 @@
       {
         "price": 19.0,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 19.0,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4427,6 +4547,10 @@
       {
         "price": 34.43,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 34.43,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4448,6 +4572,10 @@
       {
         "price": 53.0,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 53.0,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4469,6 +4597,10 @@
       {
         "price": 9.48,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 9.48,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4490,6 +4622,10 @@
       {
         "price": 11.69,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 11.69,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4511,6 +4647,10 @@
       {
         "price": 9.24,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 9.24,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4532,6 +4672,10 @@
       {
         "price": 8.69,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
+      },
+      {
+        "price": 8.69,
+        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4553,6 +4697,10 @@
       {
         "price": 40.17,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 40.17,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4574,6 +4722,10 @@
       {
         "price": 8.59,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 8.59,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4595,6 +4747,10 @@
       {
         "price": 19.1,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 19.1,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4616,6 +4772,10 @@
       {
         "price": 264.09,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
+      },
+      {
+        "price": 264.09,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4637,6 +4797,10 @@
       {
         "price": 6.4,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 6.4,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4658,6 +4822,10 @@
       {
         "price": 9.7,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 9.7,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4679,6 +4847,10 @@
       {
         "price": 9.8,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 9.8,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4700,6 +4872,10 @@
       {
         "price": 56.06,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 56.06,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4721,6 +4897,10 @@
       {
         "price": 12.88,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 12.88,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4742,6 +4922,10 @@
       {
         "price": 22.0,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 22.0,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4763,6 +4947,10 @@
       {
         "price": 12.75,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 12.75,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4784,6 +4972,10 @@
       {
         "price": 166.76,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 166.76,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4796,7 +4988,7 @@
     "url": "https://www.amazon.fr/dp/B01GQ8HGXS",
     "image_url": "https://m.media-amazon.com/images/P/B01GQ8HGXS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 19:01:49",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -4805,6 +4997,10 @@
       {
         "price": 11.18,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
+      },
+      {
+        "price": 11.18,
+        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4826,6 +5022,10 @@
       {
         "price": 29.94,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 29.94,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4847,6 +5047,10 @@
       {
         "price": 7.97,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 7.97,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4868,6 +5072,10 @@
       {
         "price": 316.92,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 316.92,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4889,6 +5097,10 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4910,6 +5122,10 @@
       {
         "price": 38.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 38.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4931,6 +5147,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4952,6 +5172,10 @@
       {
         "price": 8.15,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 8.15,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4973,6 +5197,10 @@
       {
         "price": 5.2,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 5.2,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4994,6 +5222,10 @@
       {
         "price": 14.03,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 14.03,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -5015,6 +5247,10 @@
       {
         "price": 5.9,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
+      },
+      {
+        "price": 5.9,
+        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -5036,6 +5272,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5057,6 +5297,10 @@
       {
         "price": 13.19,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 13.19,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5078,6 +5322,10 @@
       {
         "price": 11.0,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 11.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5099,6 +5347,10 @@
       {
         "price": 15.12,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 15.12,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5120,6 +5372,10 @@
       {
         "price": 12.37,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 12.37,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5141,6 +5397,10 @@
       {
         "price": 38.62,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 38.62,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5162,6 +5422,10 @@
       {
         "price": 6.59,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 6.59,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5183,6 +5447,10 @@
       {
         "price": 749.0,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
+      },
+      {
+        "price": 749.0,
+        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5204,6 +5472,10 @@
       {
         "price": 22.45,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      },
+      {
+        "price": 22.45,
+        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5225,6 +5497,10 @@
       {
         "price": 40.8,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      },
+      {
+        "price": 40.8,
+        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5246,6 +5522,10 @@
       {
         "price": 7.9,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      },
+      {
+        "price": 7.9,
+        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5267,6 +5547,10 @@
       {
         "price": 41.97,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      },
+      {
+        "price": 41.97,
+        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5288,6 +5572,10 @@
       {
         "price": 71.23,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
+      },
+      {
+        "price": 71.23,
+        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5309,6 +5597,10 @@
       {
         "price": 5.15,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
+      },
+      {
+        "price": 5.15,
+        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5330,6 +5622,10 @@
       {
         "price": 28.9,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
+      },
+      {
+        "price": 28.9,
+        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5351,6 +5647,10 @@
       {
         "price": 65.02,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
+      },
+      {
+        "price": 65.02,
+        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5372,6 +5672,10 @@
       {
         "price": 5.4,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
+      },
+      {
+        "price": 5.4,
+        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5393,6 +5697,10 @@
       {
         "price": 11.95,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
+      },
+      {
+        "price": 11.95,
+        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5414,6 +5722,10 @@
       {
         "price": 33.13,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 33.13,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5435,6 +5747,10 @@
       {
         "price": 16.81,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 16.81,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5456,6 +5772,10 @@
       {
         "price": 16.08,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 16.08,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5477,6 +5797,10 @@
       {
         "price": 16.99,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5498,6 +5822,10 @@
       {
         "price": 5.76,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 5.76,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5519,6 +5847,10 @@
       {
         "price": 12.31,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 12.31,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5540,6 +5872,10 @@
       {
         "price": 10.85,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 10.85,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5561,6 +5897,10 @@
       {
         "price": 56.99,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 56.99,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5582,6 +5922,10 @@
       {
         "price": 20.45,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 20.45,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5603,6 +5947,10 @@
       {
         "price": 122.4,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
+      },
+      {
+        "price": 122.4,
+        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5624,6 +5972,10 @@
       {
         "price": 22.49,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 22.49,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5645,6 +5997,10 @@
       {
         "price": 18.45,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 18.45,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5666,6 +6022,10 @@
       {
         "price": 36.39,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 36.39,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5687,6 +6047,10 @@
       {
         "price": 13.99,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5708,6 +6072,10 @@
       {
         "price": 27.97,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 27.97,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5729,6 +6097,10 @@
       {
         "price": 21.29,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 21.29,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5750,6 +6122,10 @@
       {
         "price": 19.99,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5771,6 +6147,10 @@
       {
         "price": 20.86,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 20.86,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5792,6 +6172,10 @@
       {
         "price": 11.57,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 11.57,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5813,6 +6197,10 @@
       {
         "price": 59.54,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
+      },
+      {
+        "price": 59.54,
+        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5834,6 +6222,10 @@
       {
         "price": 12.69,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 12.69,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5855,6 +6247,10 @@
       {
         "price": 10.43,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 10.43,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5876,6 +6272,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5897,6 +6297,10 @@
       {
         "price": 10.95,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 10.95,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5918,6 +6322,10 @@
       {
         "price": 14.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5939,6 +6347,10 @@
       {
         "price": 51.38,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 51.38,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5960,6 +6372,10 @@
       {
         "price": 10.49,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 10.49,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5981,6 +6397,10 @@
       {
         "price": 41.0,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 41.0,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6002,6 +6422,10 @@
       {
         "price": 26.02,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 26.02,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6023,6 +6447,10 @@
       {
         "price": 25.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6044,6 +6472,10 @@
       {
         "price": 17.98,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
+      },
+      {
+        "price": 17.98,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6065,6 +6497,10 @@
       {
         "price": 26.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6077,7 +6513,7 @@
     "url": "https://www.amazon.fr/dp/B09XFK22BN",
     "image_url": "https://m.media-amazon.com/images/P/B09XFK22BN.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 16:50:24",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T15:55:46.780531+00:00",
@@ -6086,6 +6522,10 @@
       {
         "price": 17.65,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 17.65,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6107,6 +6547,10 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6128,6 +6572,10 @@
       {
         "price": 19.52,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 19.52,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6149,6 +6597,10 @@
       {
         "price": 12.94,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 12.94,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6170,6 +6622,10 @@
       {
         "price": 12.9,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6191,6 +6647,10 @@
       {
         "price": 149.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 149.99,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6212,6 +6672,10 @@
       {
         "price": 12.5,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
+      },
+      {
+        "price": 12.5,
+        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6233,6 +6697,10 @@
       {
         "price": 5.99,
         "observed_at": "2026-10-12T16:32:35.264056+00:00"
+      },
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-13T16:48:54.697541+00:00"
       }
     ]
   },
@@ -6254,6 +6722,10 @@
       {
         "price": 23.74,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
+      },
+      {
+        "price": 23.74,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -6275,6 +6747,10 @@
       {
         "price": 25.43,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
+      },
+      {
+        "price": 25.43,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -6296,6 +6772,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -6308,7 +6788,7 @@
     "url": "https://www.amazon.fr/dp/B075BV684S",
     "image_url": "https://m.media-amazon.com/images/P/B075BV684S.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 15:43:20",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -6317,6 +6797,10 @@
       {
         "price": 58.79,
         "observed_at": "2026-10-12T15:43:27.201935+00:00"
+      },
+      {
+        "price": 58.79,
+        "observed_at": "2026-10-13T15:55:49.257502+00:00"
       }
     ]
   },
@@ -6338,6 +6822,10 @@
       {
         "price": 209.49,
         "observed_at": "2026-10-12T15:24:49.978930+00:00"
+      },
+      {
+        "price": 209.49,
+        "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
   },
@@ -6359,6 +6847,10 @@
       {
         "price": 15.43,
         "observed_at": "2026-10-12T15:05:45.719112+00:00"
+      },
+      {
+        "price": 15.43,
+        "observed_at": "2026-10-13T15:15:24.437828+00:00"
       }
     ]
   },
@@ -6380,6 +6872,10 @@
       {
         "price": 68.62,
         "observed_at": "2026-10-12T14:45:29.366098+00:00"
+      },
+      {
+        "price": 68.62,
+        "observed_at": "2026-10-13T14:59:08.321533+00:00"
       }
     ]
   },
@@ -6401,6 +6897,10 @@
       {
         "price": 37.78,
         "observed_at": "2026-10-12T14:21:00.952177+00:00"
+      },
+      {
+        "price": 37.78,
+        "observed_at": "2026-10-13T14:39:44.905806+00:00"
       }
     ]
   },
@@ -6422,6 +6922,10 @@
       {
         "price": 130.77,
         "observed_at": "2026-10-12T14:21:00.952177+00:00"
+      },
+      {
+        "price": 130.77,
+        "observed_at": "2026-10-13T14:39:44.905806+00:00"
       }
     ]
   },
@@ -6443,6 +6947,10 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T14:00:29.104092+00:00"
+      },
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-13T14:16:08.335598+00:00"
       }
     ]
   },
@@ -6464,6 +6972,10 @@
       {
         "price": 25.94,
         "observed_at": "2026-10-12T14:00:29.104264+00:00"
+      },
+      {
+        "price": 25.94,
+        "observed_at": "2026-10-13T14:16:08.335598+00:00"
       }
     ]
   },
@@ -6485,6 +6997,10 @@
       {
         "price": 31.1,
         "observed_at": "2026-10-12T12:59:39.197132+00:00"
+      },
+      {
+        "price": 31.1,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6497,7 +7013,7 @@
     "url": "https://www.amazon.fr/dp/B075B783HB",
     "image_url": "https://m.media-amazon.com/images/P/B075B783HB.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 12:59:31",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
@@ -6506,6 +7022,10 @@
       {
         "price": 83.8,
         "observed_at": "2026-10-12T12:59:39.197242+00:00"
+      },
+      {
+        "price": 83.8,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6527,6 +7047,10 @@
       {
         "price": 62.88,
         "observed_at": "2026-10-12T12:59:39.197253+00:00"
+      },
+      {
+        "price": 62.88,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6548,6 +7072,10 @@
       {
         "price": 91.8,
         "observed_at": "2026-10-12T12:59:39.197261+00:00"
+      },
+      {
+        "price": 91.8,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6569,6 +7097,10 @@
       {
         "price": 50.99,
         "observed_at": "2026-10-12T12:59:39.197285+00:00"
+      },
+      {
+        "price": 50.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6590,6 +7122,10 @@
       {
         "price": 106.78,
         "observed_at": "2026-10-12T12:59:39.197308+00:00"
+      },
+      {
+        "price": 106.78,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6611,6 +7147,10 @@
       {
         "price": 287.48,
         "observed_at": "2026-10-12T12:59:39.197320+00:00"
+      },
+      {
+        "price": 287.48,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6632,6 +7172,10 @@
       {
         "price": 10.99,
         "observed_at": "2026-10-12T12:59:39.197331+00:00"
+      },
+      {
+        "price": 10.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6653,6 +7197,10 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-12T12:59:39.197352+00:00"
+      },
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6674,6 +7222,10 @@
       {
         "price": 35.49,
         "observed_at": "2026-10-12T12:59:39.197357+00:00"
+      },
+      {
+        "price": 35.49,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6695,6 +7247,10 @@
       {
         "price": 10.44,
         "observed_at": "2026-10-12T12:59:39.197367+00:00"
+      },
+      {
+        "price": 10.44,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6716,6 +7272,10 @@
       {
         "price": 13.9,
         "observed_at": "2026-10-12T12:59:39.197384+00:00"
+      },
+      {
+        "price": 13.9,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6737,6 +7297,10 @@
       {
         "price": 8.04,
         "observed_at": "2026-10-12T12:59:39.197400+00:00"
+      },
+      {
+        "price": 8.04,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6758,6 +7322,10 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T12:59:39.197446+00:00"
+      },
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6779,6 +7347,10 @@
       {
         "price": 79.99,
         "observed_at": "2026-10-12T12:59:39.197453+00:00"
+      },
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6800,6 +7372,10 @@
       {
         "price": 3499.0,
         "observed_at": "2026-10-12T12:59:39.197469+00:00"
+      },
+      {
+        "price": 3499.0,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6821,6 +7397,10 @@
       {
         "price": 23.99,
         "observed_at": "2026-10-12T12:59:39.197475+00:00"
+      },
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6842,6 +7422,120 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      },
+      {
+        "price": 2269.0,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot 100 Capsules Café LAVAZZA Décaféiné- Compatibles Nespresso Original",
+    "description": "22,74€ - Amazon Pour les buveurs de café décaféiné 1 prix assez bas pour ce lot de 100 capsules Lavazza (café de qualité)",
+    "price": 22.74,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-100-capsules-cafe-lavazza-decafeine-compatibles-nespresso-original-3432251",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DN9wp/3432251_1/re/1200x1200/qt/90/3432251_1.jpg",
+    "detected_at": "2026-10-14T09:31:20+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/Lavazza-Capsules-Compatibles-Nespresso-Paquets/dp/B09BFFXQF4?pd_rd_w=gZ90q&content-id=amzn1.sym.e2481bde-0da7-4342-bf9f-af2562b1597c&pf_rd_p=e2481bde-0da7-4342-bf9f-af2562b1597c&pf_rd_r=ZKP2BFDRNA3DQPTTAZ4H&pd_rd_wg=3p5j0&pd_rd_r=5eb7cad5-a4f3-4eb9-9a96-80970d0dddcd&pd_rd_i=B09BFFXQF4&ref_=pd_bap_d_grid_rp_0_1_ec_i&th=1",
+    "price_history": [
+      {
+        "price": 22.74,
+        "observed_at": "2026-10-14T09:33:59.601771+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[SharkNinja] Robot aspirateur laveur Shark AI Ultra 2-en-1 RV2600WDEU avec LiDAR – 149,99 € (livraison gratuite)",
+    "description": "149,99€ - SharkNinja Le Robot aspirateur et laveur Shark AI ULTRA 2-en-1 avec navigation LiDAR RV2600WDEU est conçu pour un nettoyage efficace et méthodique de votre intérieur. *caractéristiques du produit :* - Aspiration puissante + lavage sonique - Navigation Laser AI 360 - Fonction CleanEdge pour des coins mieux nettoyés - Programmation via l'application SharkClean - Jusqu’à 110 minutes d’autonomie - Commande vocale avec Amazon Alexa et Google Assistant Prix de 149,99 € sur le site officiel SharkNinja, contre 399,99 € affichés comme prix de référence constructeur.",
+    "price": 149.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sharkninja-robot-aspirateur-laveur-shark-ai-ultra-2-en-1-rv2600wdeu-avec-lidar-14999-eur-livraison-gratuite-3432250",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Cw6nR/3432250_1/re/1200x1200/qt/90/3432250_1.jpg",
+    "detected_at": "2026-10-14T09:31:02+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 149.99,
+        "observed_at": "2026-10-14T09:33:59.601771+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jupe-short portefeuille Uniqlo - Gris (du XXS au XL)",
+    "description": "19,90€ - Uniqlo Bon prix ! :) Livraison : retrait en magasin gratuit • 3.95 € en point relais • gratuite dès 60€ d'achat. Points clés Tissu opaque pour une bonne tenue Doublure intégrale pour plus de confort Tissu extérieur en partie en fibre recyclée Coloris gris facile à associer Disponible du XXS au XL Caractéristiques Marque : Uniqlo ID produit : 488009 Transparence : opaque Doublure : doublé Tissu extérieur : 40% polyester, 40% polyester (fibre recyclée), 20% polyamide Tissu des poches : 52% polyester, 48% polyester (fibre recyclée) Entretien : lavage en machine cycle délicat à 40 °C max, lavage à sec, pas de séchage en machine Coloris : gris Tailles : XXS à XL Ressources Historique du deal Comparateur de prix Fiche officielle Uniqlo ⭐ Avis marchand (Trustpilot) Uniqlo sur Trustpilot Clique sur le bouton \"Suivre\" si tu souhaites être notifié de mes prochains deals !",
+    "price": 19.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jupe-short-portefeuille-uniqlo-gris-du-xxs-au-xl-3432249",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/G6tLu/3432249_1/re/1200x1200/qt/90/3432249_1.jpg",
+    "detected_at": "2026-10-14T09:30:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.9,
+        "observed_at": "2026-10-14T09:33:59.601771+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO 43024 - Casque d’Ayrton Senna Editions",
+    "description": "69,99€ - Amazon - CONSTRUISEZ LA RÉPLIQUE D’UN CASQUE DE F1 – Rendez hommage à une icône du sport automobile avec le jeu de construction Casque d’Ayrton Senna LEGO Editions pour les ados à partir de 14 ans - DÉTAILS AUTHENTIQUES – Inspirée du casque instantanément reconnaissable de Senna, l'un des casques les plus emblématiques de la F1, cette réplique jaune vif rend hommage aux racines du pilote légendaire - MINIFIGURINE LEGO DE FORMULE 1 – Inclut un mini casque LEGO et une minifigurine d’Ayrton Senna avec un T-shirt orné du personnage de B.D. Senninha, créé par Ayrton, pour inspirer les enfants du monde entier - SET COLLECTOR À EXPOSER – Une fois le casque assemblé, les fans peuvent exposer fièrement la maquette comme décoration pour bureau ou étagère, aux côtés d'autres décors sur le thème du sport ou de la F1 - CADEAU FORMULE 1 POUR ENFANT DÈS 14 ANS – Garçons, filles et adultes passionné.e.s de sport automobile seront ravi.e.s en recevant ce superbe cadeau pour un anniversaire ou une autre occasion spéciale - ARRÊT AU STAND NUMÉRIQUE – Les jeunes pilotes peuvent s'immerger dans l'action de la F1 en suivant leur progression, en zoomant et en faisant pivoter leurs créations dans l'application LEGO Builder",
+    "price": 69.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-43024-casque-dayrton-senna-editions-3432248",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/U7Np9/3432248_1/re/1200x1200/qt/90/3432248_1.jpg",
+    "detected_at": "2026-10-14T09:29:47+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0GGT99LRC",
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-14T09:33:59.601771+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Niveau Laser 360° / 16 Lignes Conentool - 2 batteries, Trépied, Mallette, Accessoires",
+    "description": "39,99€ - JoyBuy Set plutôt complet avec 2 batteries, trépied et pas mal d'accessoires > Livraison gratuite Caractéristiques du produit et scénarios d'utilisation Une seule installation couvre toute la pièce : quatre plans complets à 360° enveloppent le sol, le plafond et chaque mur à la fois, pour que vous puissiez carrelar, encadrer, suspendre et aligner depuis une seule position Trois modes pour chaque situation : nivellement automatique dans un rayon de ±3° avec alerte de hors-niveau, mode manuel pour verrouiller les plans à n'importe quel angle, et mode impulsion pour une utilisation avec un détecteur laser jusqu'à 30 m Le faisceau vert visible à 515-535 nm reste net sur les carreaux clairs, les cloisons sèches et les pièces lumineuses, avec une précision de ±1,5 mm à 5 m et une portée de travail de 10-30 m Deux batteries au lithium de 2400 mAh incluses pour un travail continu par remplacement, avec jusqu'à environ 8 heures d'autonomie sur une seule ligne ou environ 3,5 heures avec toutes les lignes en fonctionnement Se monte partout où le travail l'exige : trou de montage de 1/4\", support magnétique, base rotative à 360°, support mural et trépied réglable (inclinaison à 180°), le tout rangé dans le coffret rigide Dimensions et spécifications Modèle Niveau laser à 16 lignes (4D) Laser Faisceau vert, 515-535 nm Lignes 16 lignes / quatre plans à 360° Précision ±1,5 mm à 5 m Distance de travail 10-30 m (jusqu'à 30 m en mode impulsion avec détecteur) Plage d'auto-nivellement ±3° (avec alerte de hors-niveau) Modes Auto-nivellement / Inclinaison manuelle / Impulsion Protection Résistant à la poussière et aux éclaboussures IP54 Batterie 2 x 2400 mAh Li-ion Autonomie Env. 8 h (ligne unique) / 3,5 h (toutes les lignes) Filetage de montage Trou de montage 1/4\" Dimensions du produit Env. 5,4\" x 5,3\" x 4,7\" (13,8 x 13,5 x 12 cm) Composants inclus 1 x trépied de 1 m, 1 x télécommande, 1 x plaque de tôle, 1 x base en métal, 1 x support de base de levage, 2 x batteries, 1 x chargeur, 1 x adaptateur laser, 1 x tête inclinable, 1 x vis de conversion, 1 x boîte à outils, 1 x niveau laser",
+    "price": 39.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/niveau-laser-360-16-lignes-conentool-2-batteries-trepied-mallette-accessoires-3432247",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/WOWYt/3432247_1/re/1200x1200/qt/90/3432247_1.jpg",
+    "detected_at": "2026-10-14T09:29:35+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-14T09:33:59.601771+00:00"
       }
     ]
   },
@@ -8248,7 +8942,7 @@
     "url": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-edifier-x1-lite-bluetooth-54-26h-ip54-noir-3432164",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Ug0mH/3432164_1/re/1200x1200/qt/90/3432164_1.jpg",
     "detected_at": "2026-10-14T07:47:23+00:00",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11709,7 +12403,7 @@
     "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-hp-200-rouge-2hu82aaabb-24-ghz-1000-dpi-optique-ambidextre-3431973",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Wq7at/3431973_1/re/1200x1200/qt/90/3431973_1.jpg",
     "detected_at": "2026-10-13T20:31:25+00:00",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
