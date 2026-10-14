@@ -1,5 +1,25 @@
 [
   {
+    "title": "Série 4, Machine à laver front..., max. 1400 tr/min, WAN2827UFR",
+    "price": 431.82,
+    "reference_price": 489.99,
+    "discount_percent": 11.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GQZS86NX",
+    "image_url": "https://m.media-amazon.com/images/P/B0GQZS86NX.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 02:12:38",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 431.82,
+        "observed_at": "2026-10-14T02:14:02.361860+00:00"
+      }
+    ]
+  },
+  {
     "title": "Calor - Silence Soft Epilateur...e précision - 24 pinces - Rose",
     "price": 29.98,
     "reference_price": 39.99,
@@ -1191,7 +1211,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 63.99,
@@ -1211,7 +1231,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 192.34,
@@ -1231,7 +1251,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 111.99,
@@ -1251,7 +1271,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 59.99,
@@ -1271,7 +1291,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 49.99,
@@ -1291,7 +1311,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 299.99,
@@ -1311,7 +1331,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 19.6,
@@ -1331,7 +1351,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 12.52,
@@ -1851,7 +1871,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "price_history": [
       {
         "price": 5.11,
@@ -3776,6 +3796,10 @@
       {
         "price": 627.84,
         "observed_at": "2026-10-13T02:01:55.765931+00:00"
+      },
+      {
+        "price": 627.84,
+        "observed_at": "2026-10-14T02:14:02.361860+00:00"
       }
     ]
   },
@@ -6800,6 +6824,27 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Playstation 5 edition standard 1To + Fornite",
+    "description": "549,99€ - Amazon Sony, Console PlayStation 5 Édition Standard 1 To avec lecteur Blu-ray 4K, SSD Ultra-Rapide, 1 Manette DualSense avec Retour Haptique et Gâchettes Adaptatives, Couleur : Blanche + 1 000 V-Bucks inclus",
+    "price": 549.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/playstation-5-edition-standard-1to-fornite-3432033",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bqTPE/3432033_1/re/1200x1200/qt/90/3432033_1.jpg",
+    "detected_at": "2026-10-14T02:11:28+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 549.99,
+        "observed_at": "2026-10-14T02:14:02.361860+00:00"
       }
     ]
   },
@@ -11663,48 +11708,6 @@
       {
         "price": 1.25,
         "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vidéoprojecteur Akiyo O2 avec WiFi6 BT 5.4 (vendeur tiers)",
-    "description": "47,49€ - Amazon 【Apps intégrées】Le projecteur O2 offre un accès à plus de 8 000 applications via Wi-Fi, y compris de nombreux services populaires tels que YouTube. Vous pouvez également télécharger des applications supplémentaires depuis le Play Store. Profitez de plus de 500 000 films sans avoir besoin d'une clé TV supplémentaire 【Projection à courte focale 0,8:1】Le projecteur O2 bénéficie d'un rapport de projection unique de 0,8:1, offrant des images de 35 à 200 pouces à une distance de seulement 0,6 à 3,5 mètres ! Combiné à une capacité de zoom de 50 %, il permet un visionnage sur grand écran dans des espaces compacts tels que les camping-cars, les chambres à coucher ou les campings. Sa taille ultra-compacte, légèrement plus grande qu'un smartphone, lui permet de se glisser facilement dans une poche de manteau. 【Wi-Fi 6 + Bluetooth Bidirectionnel】Le projecteur vidéo O2 utilise la dernière technologie Wi-Fi 6, compatible avec le Wi-Fi 5 GHz et 2,4 GHz, pour un streaming vidéo en ligne plus fluide et sans décalage. Son Bluetooth 5.4 intégré prend en charge à la fois l'entrée et la sortie audio. Connectez sans effort des écouteurs Bluetooth pour une qualité sonore améliorée, ou associez-le à votre smartphone pour transformer le projecteur en haut-parleur 【Rotation à 180° + Auto Keystone】 Le projecteur O2 est doté d'un design rotatif à 180°, qui vous libère des contraintes d'orientation traditionnelles des projecteurs. Il suffit de faire pivoter le support pour projeter sur les murs, les plafonds ou même les tableaux à dessin. Équipé d'une correction automatique de la distorsion trapézoïdale verticale, il permet d'obtenir un rectangle parfait en une seconde seulement. 【Plusieurs Modes de Contrôle】 Le projecteur O2 dispose d'un mode de contrôle exclusif à l'aide d'une souris, d'un mode de contrôle à distance et d'un mode de contrôle via une application. Au-delà de l'utilisation de la télécommande, vous pouvez facilement contrôler le projecteur via « tranScreen » . (Veuillez nous contacter pour obtenir une souris si nécessaire). Ne vous inquiétez plus jamais de perdre votre télécommande ! AKIYO offre une garantie de deux ans et une assistance technique à vie 【Portable Projecteur】Le mini projecteur portable AKIYO O2 mesure 9.5*9.5*15.8cm et ne pèse que 360 g. Aussi petit et léger qu'une bouteille d'eau, il se glisse facilement dans un sac de voyage, ce qui le rend quasiment imperceptible à transporter. Doté d'une puce performante, de 1 Go de RAM et de 16 Go de mémoire interne, il allie puissance et portabilité, ce qui le rend idéal pour le divertissement à domicile et le camping 【Service après-vente】AKIYO privilégie une vision à long terme, plaçant la qualité de ses produits et un service client fiable et durable au cœur de ses priorités. Le projecteur O2 est assorti d'une garantie de 2 ans et d'une assistance technique à vie. En cas de problème, nous vous répondrons dans les 24 heures. Nous proposons également un écran de projection 100 pouces ou une souris en édition limitée. Pour toute demande, veuillez contacter le service client officiel d'AKIYO",
-    "price": 47.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/videoprojecteur-akiyo-o2-avec-wifi6-bt-54-3431729",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/GHvjE/3431729_1/re/1200x1200/qt/90/3431729_1.jpg",
-    "detected_at": "2026-10-13T13:31:33+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
-    "price_history": [
-      {
-        "price": 47.49,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "5 Sachets de 2 Barres - 285g Bounty Chocolat au Lait & Noix de Coco",
-    "description": "2,23€ - Amazon Journée difficile ? Bounty vous apporte le goût du paradis où que vous soyez - de votre café du matin à votre trajet en voiture. Chaque délicieuse barre de chocolat au lait Bounty est gorgée de noix de coco tendre et recouverte d'un épais chocolat au lait. Il y en a pour tous les goûts et tout le monde y trouvera son compte : Bounty met tout le monde d'accord. Nous savons tous que la noix de coco fait vibrer, alors pourquoi ne pas faire des réserves de ces chocolats pour votre réserve de friandises ou à votre assortiment de bonbons à Halloween, afin de faire goûter le paradis à tout le voisinage. Paquet contenant 5 sachets individuels de 2 barres, 285g. Convient aux végétariens.",
-    "price": 2.23,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/barres-bounty-chocolat-au-lait-noix-de-coco-5-sachets-de-2-barres-285g-3431735",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/wnInb/3431735_1/re/1200x1200/qt/90/3431735_1.jpg",
-    "detected_at": "2026-10-13T13:30:12+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
-    "price_history": [
-      {
-        "price": 2.23,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
       }
     ]
   }
