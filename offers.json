@@ -1,5 +1,47 @@
 [
   {
+    "title": "Blanco 523390 CLARON 500-IF Év...r Durinox, 500 mm Beckenbreite",
+    "price": 717.43,
+    "reference_price": 813.99,
+    "discount_percent": 11.86,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07H9BZVWT",
+    "image_url": "https://m.media-amazon.com/images/P/B07H9BZVWT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:31:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 717.43,
+        "observed_at": "2026-10-14T11:33:03.038410+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Cuisinart Cool Scoops sorbetiè...l de barattage de 1.4L | ICE21",
+    "price": 47.43,
+    "reference_price": 61.0,
+    "discount_percent": 22.25,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DLQ395VS",
+    "image_url": "https://m.media-amazon.com/images/P/B0DLQ395VS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:31:40",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 47.43,
+        "observed_at": "2026-10-14T11:33:03.038410+00:00"
+      }
+    ]
+  },
+  {
     "title": "Siemens VSP 3 AAAA",
     "price": 140.41,
     "reference_price": 182.32,
@@ -7593,7 +7635,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "https://www.decathlon.fr/p/couteau-chasse-multifonctions-x7-orange/163153/c20m8395979",
+    "merchant_url": "",
     "price_history": [
       {
         "price": 23.99,
@@ -7627,6 +7669,28 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini PC Soyo M5 - Ryzen 3 4300U, RAM 16 Go LPDDR4, SSD 512 Go, Windows 11 Pro",
+    "description": "179,55€ - AliExpress Capacité mémoire 16 Go Capacité du disque dur 512 GO Numéro de Modèle M5 Marque du processeur AMD Modèle de Processeur 4300U Type d'écriture MINI ORDINATEUR DE BUREAU Type de carte graphique Carte intégrée Nom de marque SOYO Origine CN (Origine) Type MINI-PC",
+    "price": 179.55,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m5-ryzen-3-4300u-ram-16-go-lpddr4-ssd-512-go-windows-11-pro-3432323",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/b2S38/3432323_1/re/1200x1200/qt/90/3432323_1.jpg",
+    "detected_at": "2026-10-14T11:29:39+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://fr.aliexpress.com/item/1005012743054459.html",
+    "price_history": [
+      {
+        "price": 179.55,
+        "observed_at": "2026-10-14T11:33:03.038410+00:00"
       }
     ]
   },
@@ -7679,7 +7743,7 @@
     "description": "20€ - Amazon coupon de réduction de 50 % 【Blanc neutre 4000 K et IRC > 80 – Une lumière naturelle et apaisante】 Une lumière blanche neutre de 4000 K avec un indice de rendu des couleurs (IRC) élevé > 80 offre un éclairage agréable et naturel – idéal pour le salon, la chambre à coucher, la salle à manger et la chambre d'enfant. Parfait pour une ambiance détendue et un confort au quotidien 【4 800 lumens, ultra-lumineux 】 Une puissance de 48 W et un flux lumineux de 4 800 lumens offrent un éclairage clair et homogène pour des pièces de 12 à 20 m² – pas de coins sombres, une luminosité maximale immédiate sans scintillement ni délai 【Design ultraplat, Ø 40 cm – Moderne et élégant】 Seulement 2,5 cm d’épaisseur, diamètre de 40 cm – plafonnier élégant et moderne en noir mat, parfait pour les plafonds bas et les intérieurs contemporains 【Sans scintillement ni éblouissement – Doux pour les yeux et confortable】 Un diffuseur en acrylique de haute qualité assure une lumière douce et homogène, sans scintillement, éblouissement ni ombre – idéal pour les yeux et une utilisation quotidienne 【Indice de protection IP44 contre les projections d’eau – Sûr et durable】 Indice de protection IP44 contre l’humidité – convient pour la salle de bains, la cuisine, le couloir et la cave. Montage simple, technologie LED durable, économe en énergie et sans entretien",
     "price": 20.0,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/plafonnier-led-rond-salle-de-bain-lumiere-plafond-ip44-4000k-lumiere-panneau-taille-40cm-3432319",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/CIRRt/3432319_1/re/1200x1200/qt/90/3432319_1.jpg",
@@ -10150,7 +10214,7 @@
     "description": "32€ - Bexley Du 14 au 25 octobre, toutes les chemises sur le site et en magasin passent de 64 à 32€",
     "price": 32.0,
     "reference_price": null,
-    "discount_percent": 50.0,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/toutes-les-chemises-bexley-a-moitie-prix-3432174",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/dtL8h/3432174_1/re/1200x1200/qt/90/3432174_1.jpg",
@@ -10181,7 +10245,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.boulanger.com/ref/1240598",
     "price_history": [
       {
         "price": 899.0,
@@ -10269,7 +10333,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B00B8UGBX6?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 3.5,
@@ -10291,7 +10355,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0GL35RVV2?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 41.31,
