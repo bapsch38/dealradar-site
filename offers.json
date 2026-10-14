@@ -1,5 +1,47 @@
 [
   {
+    "title": "AEG 900168824 GR201SM Sac d'aspirateur, Bleu, Blanc",
+    "price": 21.99,
+    "reference_price": 66.99,
+    "discount_percent": 67.17,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07DTHGL62",
+    "image_url": "https://m.media-amazon.com/images/P/B07DTHGL62.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:44:11",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 21.99,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO LINUS-S-F Robinet de cu...ie d'eau - 11 x 26,6 x 28,4 cm",
+    "price": 391.49,
+    "reference_price": 482.9,
+    "discount_percent": 18.93,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CNV4CXY4",
+    "image_url": "https://m.media-amazon.com/images/P/B0CNV4CXY4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:43:56",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 391.49,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
+      }
+    ]
+  },
+  {
     "title": "Blanco 526001 SUBLINE 700-U Évier de Cuisine, Noir, 700mm",
     "price": 413.27,
     "reference_price": 489.0,
@@ -8,7 +50,7 @@
     "url": "https://www.amazon.fr/dp/B0865WN83R",
     "image_url": "https://m.media-amazon.com/images/P/B0865WN83R.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 12:36:21",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -29,7 +71,7 @@
     "url": "https://www.amazon.fr/dp/B0DX73JTQ6",
     "image_url": "https://m.media-amazon.com/images/P/B0DX73JTQ6.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 12:36:20",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -50,7 +92,7 @@
     "url": "https://www.amazon.fr/dp/B0DWGWK415",
     "image_url": "https://m.media-amazon.com/images/P/B0DWGWK415.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 12:36:19",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -92,7 +134,7 @@
     "url": "https://www.amazon.fr/dp/B0CP2JFLYR",
     "image_url": "https://m.media-amazon.com/images/P/B0CP2JFLYR.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 12:36:17",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -176,7 +218,7 @@
     "url": "https://www.amazon.fr/dp/B07H9HC38L",
     "image_url": "https://m.media-amazon.com/images/P/B07H9HC38L.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 12:03:33",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -197,7 +239,7 @@
     "url": "https://www.amazon.fr/dp/B0851FKFXV",
     "image_url": "https://m.media-amazon.com/images/P/B0851FKFXV.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 12:03:28",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -218,7 +260,7 @@
     "url": "https://www.amazon.fr/dp/B005610X50",
     "image_url": "https://m.media-amazon.com/images/P/B005610X50.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 12:03:27",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -239,7 +281,7 @@
     "url": "https://www.amazon.fr/dp/B07Y2L9DQC",
     "image_url": "https://m.media-amazon.com/images/P/B07Y2L9DQC.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 11:57:30",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -302,7 +344,7 @@
     "url": "https://www.amazon.fr/dp/B0BFMMP6BC",
     "image_url": "https://m.media-amazon.com/images/P/B0BFMMP6BC.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 11:57:22",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -323,7 +365,7 @@
     "url": "https://www.amazon.fr/dp/B098JVFHGV",
     "image_url": "https://m.media-amazon.com/images/P/B098JVFHGV.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 11:51:19",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -386,7 +428,7 @@
     "url": "https://www.amazon.fr/dp/B07HCW86NH",
     "image_url": "https://m.media-amazon.com/images/P/B07HCW86NH.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 11:45:55",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -428,7 +470,7 @@
     "url": "https://www.amazon.fr/dp/B002J914QO",
     "image_url": "https://m.media-amazon.com/images/P/B002J914QO.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 11:40:09",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -470,7 +512,7 @@
     "url": "https://www.amazon.fr/dp/B0865R36ZS",
     "image_url": "https://m.media-amazon.com/images/P/B0865R36ZS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 11:38:10",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -659,7 +701,7 @@
     "url": "https://www.amazon.fr/dp/B08CGSJ5ZS",
     "image_url": "https://m.media-amazon.com/images/P/B08CGSJ5ZS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 11:13:12",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -2171,7 +2213,7 @@
     "url": "https://www.amazon.fr/dp/B0DL3FQYV6",
     "image_url": "https://m.media-amazon.com/images/P/B0DL3FQYV6.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 18:29:39",
-    "category": "Autre",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -2360,7 +2402,7 @@
     "url": "https://www.amazon.fr/dp/B0DMR2XM6F",
     "image_url": "https://m.media-amazon.com/images/P/B0DMR2XM6F.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 18:05:38",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -2780,7 +2822,7 @@
     "url": "https://www.amazon.fr/dp/B085LR8Q6N",
     "image_url": "https://m.media-amazon.com/images/P/B085LR8Q6N.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 17:20:46",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -2906,7 +2948,7 @@
     "url": "https://www.amazon.fr/dp/B0GK354F68",
     "image_url": "https://m.media-amazon.com/images/P/B0GK354F68.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 17:03:41",
-    "category": "Autre",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -2927,7 +2969,7 @@
     "url": "https://www.amazon.fr/dp/B0DSJMN338",
     "image_url": "https://m.media-amazon.com/images/P/B0DSJMN338.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 17:03:33",
-    "category": "Autre",
+    "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3077,7 +3119,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3095,10 +3137,10 @@
     "url": "https://www.amazon.fr/dp/B0169RZKYS",
     "image_url": "https://m.media-amazon.com/images/P/B0169RZKYS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 16:28:37",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3119,7 +3161,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3140,7 +3182,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3203,7 +3245,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3221,7 +3263,7 @@
     "url": "https://www.amazon.fr/dp/B000UWCTYS",
     "image_url": "https://m.media-amazon.com/images/P/B000UWCTYS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 15:55:04",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3287,7 +3329,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3308,7 +3350,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3473,7 +3515,7 @@
     "url": "https://www.amazon.fr/dp/B08L6V7YRM",
     "image_url": "https://m.media-amazon.com/images/P/B08L6V7YRM.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 13:58:10",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
@@ -3515,7 +3557,7 @@
     "url": "https://www.amazon.fr/dp/B07K95QZ95",
     "image_url": "https://m.media-amazon.com/images/P/B07K95QZ95.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 13:58:07",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3683,7 +3725,7 @@
     "url": "https://www.amazon.fr/dp/B00HA00PFI",
     "image_url": "https://m.media-amazon.com/images/P/B00HA00PFI.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 13:35:07",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3725,7 +3767,7 @@
     "url": "https://www.amazon.fr/dp/B08JCWLS1P",
     "image_url": "https://m.media-amazon.com/images/P/B08JCWLS1P.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 13:10:34",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -4103,7 +4145,7 @@
     "url": "https://www.amazon.fr/dp/B07RBMXVG2",
     "image_url": "https://m.media-amazon.com/images/P/B07RBMXVG2.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:46:40",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -4149,7 +4191,7 @@
     "url": "https://www.amazon.fr/dp/B0CX2NSTYK",
     "image_url": "https://m.media-amazon.com/images/P/B0CX2NSTYK.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:17:10",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -6799,7 +6841,7 @@
     "url": "https://www.amazon.fr/dp/B0DWMGSTXG",
     "image_url": "https://m.media-amazon.com/images/P/B0DWMGSTXG.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 17:19:44",
-    "category": "Autre",
+    "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -7124,7 +7166,7 @@
     "url": "https://www.amazon.fr/dp/B094188F1M",
     "image_url": "https://m.media-amazon.com/images/P/B094188F1M.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 17:02:19",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
@@ -8216,37 +8258,59 @@
     ]
   },
   {
-    "title": "[Précommande] Blu-Ray 4K UHD + Blu-Ray - L'Odyssée",
-    "description": "24,99€ - Cultura Sortie le 18/11/2026 Contient : • 1 disque Blu-ray 4K UHD du film • 1 disque Blu-ray BD-50 bonus HDR10 / Version Originale DTS-HD MA 5.1, Version Française DTS 5.1 Blu-ray bonus (+ de 90', VOST) : Les coulisses du tournage : - \"Définir le cap\" : L'adaptation - \"Icônes\" : Casting, costumes, coiffure, maquillage et interprétation - \"La Fenêtre ultime\" : Christopher Nolan concrétise un rêve de cinéma - \"Des décors réels\" : Les décors naturels - \"Le Cheval\" : Création du cheval de Troie - \"La chute de Troie\" : Création d'une scène à l'ampleur spectaculaire - \"Ithaque\" : La demeure d'Ulysse, entre château italien du XVe siècle et décors en studio - \"Prêts pour la bataille\" : Matt Damon, Tom Holland et l'équipe des cascadeurs - \"Magie apparente\" : Rencontre avec les équipes des effets spéciaux et des effets visuels - \"Le Peuple de la mer\" : Navires vikings, conditions de navigation difficiles en haute mer et effets de tempête immersifs - \"La Musique\" : Rencontre avec Ludwig Göransson - \"Le Chemin du retour\" : La postproduction, le montage et la conception sonore \"L'odyssée, épopée filmique\" : Reece Feldman, créateur de contenu, interroge Christopher Nolan sur les coulisses de la postproduction et les étapes qui suivent le tournage IMAX® prologue exclusif Clip \"When I'm Home\" par James Blake, Travis Scott et Ludwig Göransson Bandes-annonces",
-    "price": 24.99,
+    "title": "Écouteurs sans Fil Apple AirPods 5 Bluetooth, Réduction active du bruit, Traduction en direct, Boîtier de charge USB-C - (Vendeur Carrefour)",
+    "description": "129€ - TikTok Shop Produit vendu et expédié par Carrefour :D Pour celles et ceux qui ne connaissent pas TikTok Shop, il s'agit de la Marketplace de l'application TikTok. Vous trouverez des vendeurs comme Carrefour, Darty, Boulanger, ... qui sont présents sur cette plateforme et qui vendent des produits. Il s'agit bien évidemment de produits officiels et qui disposent d'une facture, comme si vous l'achetiez directement dans ces magasins. Pour obtenir ce prix, il faut obligatoirement cliquer via le lien du deal et avoir l'application TikTok. Ces offres ne sont pas accessibles via un navigateur web ou mobile. Caractéristiques & Spécifications : RÉDUCTION ACTIVE DU BRUIT. Grâce à la Réduction active du bruit améliorée, les AirPods 5 atténuent les bruits extérieurs, à un prix plus accessible que jamais. ENTENDEZ CE QU’IL SE PASSE AUTOUR DE VOUS. L’Audio adaptatif allie la Réduction active du bruit et le mode Transparence de façon à optimiser l’expérience audio en fonction de l’environnement où vous vous trouvez. Et quand vous vous mettez à parler, la Détection des conversations baisse automatiquement le volume du son diffusé. TRADUCTION EN DIRECT. Grâce à Apple Intelligence, Traduction en direct vous permet de communiquer sans frontières. QUALITÉ DU SON ET DES APPELS AMÉLIORÉE. Profitez d’une meilleure qualité sonore grâce à l’Égalisation adaptative nouvelle génération. Avec Isolement de la voix, le traitement audio informa­­tique avancé réduit le bruit de fond et clarifie le son de votre voix pour améliorer la qualité des appels dans les environnements bruyants. AUDIO SPATIAL PERSONNALISÉ. L’Audio spatial personnalisé avec suivi dynamique des mouvements de la tête vous plonge au cœur d’un son à 360°, et vous offre une expérience d’écoute comme au cinéma pour la musique, les films, les séries TV, les jeux et bien plus. ULTRA-CONFORTABLES. Avec leur design ouvert iconique, les AirPods 5 s’ajustent parfaitement à vos oreilles pour vous offrir un confort optimal. Et ils ne craignent pas la pluie ni les efforts intensifs. Classés IP57, ils résistent à la poussière, à la transpiration et à l’eau.5 AUTONOMIE PROLONGÉE. Jusqu’à 4 heures d’écoute avec Réduction active du bruit sur une seule charge et jusqu’à 20 heures d’écoute au total en utilisant le boîtier. BOÎTIER DE CHARGE USB‑C. Les AirPods 5 sont fournis avec un Boîtier de charge USB‑C ultra‑compact. Vidéos & Tests : [shortcode id=\"20619169\"/][shortcode id=\"20619170\"/][shortcode id=\"20619171\"/]",
+    "price": 129.0,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-blu-ray-4k-uhd-blu-ray-lodyssee-3432363",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5skfs/3432363_1/re/1200x1200/qt/90/3432363_1.jpg",
-    "detected_at": "2026-10-14T12:31:48+00:00",
-    "category": "Culture & sorties",
+    "url": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-5-bluetooth-reduction-active-du-bruit-traden-direct-boitier-de-charge-usb-c-vendeur-carrefour-3432376",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2NMtA/3432376_1/re/1200x1200/qt/90/3432376_1.jpg",
+    "detected_at": "2026-10-14T12:41:59+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "https://www.cultura.com/p-l-odyssee-13289823.html",
+    "merchant_url": "",
     "price_history": [
       {
-        "price": 24.99,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
+        "price": 129.0,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
       }
     ]
   },
   {
-    "title": "Baskets Asics Gel-Venture 6 GTX - Du 41,5 au 45",
-    "description": "65€ - Foot Locker Baskets Asics GEL-VENTURE 6 GTX - tailles disponibles 41,5 à 45 Stabilité en mouvement Les « ASICS GEL-VENTURE 6 GTX » t'aident à marcher en toute confiance sur différentes surfaces. La tige GORE-TEX aide à te protéger de l'humidité, tandis que les renforts superposés renforcent le confort et la durabilité au quotidien. La technologie GEL à l'arrière du pied apporte une sensation de douceur, et la semelle adhérente inspirée du trail améliore la stabilité à chaque pas. Caractéristiques des « ASICS GEL-VENTURE 6 GTX » : Tige GORE-TEX avec construction superposée. Technologie Rearfoot GEL. Motif de semelle extérieure gaufré spécial trail.",
-    "price": 65.0,
+    "title": "Caméra d'Action Insta360 Go 3S - 128 Go Retro Bundle, 4K, 39g, Pack Exclusif",
+    "description": "249,90€ - MN Photo Vidéo Description Avec ses 39,1 g , l'Insta360 Go 3S capture l'action en vidéo 4K UHD depuis des angles impossibles pour une caméra classique. Ce pack exclusif Retro Bundle ajoute une dimension créative unique, alliant une technologie de pointe à une esthétique de photographie argentique. Sa stabilisation FlowState et son stockage interne de 128 Go en font l'outil ultime pour documenter le quotidien avec une liberté et un style inégalés, sans jamais s'encombrer. Points forts de la caméra Insta360 Go 3S 128Go Retro Bundle - Canvas White : Capture vidéo 4K UHD dans un format ultra-compact Poids plume de seulement 39,1 g Stabilisation FlowState et verrouillage de l'horizon Stockage interne confortable de 128 Go Accessoires exclusifs du Retro Bundle Contrôle vocal 2.0 et double microphone intégré Étanche jusqu'à 4,9 m Une qualité 4K au creux de la main Malgré sa taille miniature, la Go 3S ne fait aucun compromis sur la qualité d'image. Son capteur enregistre des vidéos en 4K UHD d'une grande netteté, sublimées par la stabilisation FlowState. Cette technologie de pointe assure des séquences d'une fluidité parfaite, même en pleine action, tandis que le verrouillage de l'horizon garantit des plans toujours droits, pour un rendu professionnel sans effort. Liberté créative et style rétro Ce bundle exclusif transforme l'expérience de prise de vue. Le viseur Retro offre un cadrage classique à hauteur de taille, tandis que le pendentif magnétique et la sangle permettent de capturer des perspectives immersives en gardant les mains libres. L'habillage NFC et le bloc-batterie prolongent l'autonomie et la connectivité, fusionnant l'esthétique vintage avec la flexibilité d'une action-cam moderne. Caractéristiques de la caméra Insta360 Go 3S 128Go Retro Bundle - Canvas White : IMAGERIE ET OPTIQUE Capteur d'image : CMOS Stabilisation d'image : Numérique Focale (équivalent 35mm) : 16 mm Ouverture maximale : f/2.8 ENREGISTREMENT VIDÉO, PHOTO ET AUDIO Enregistrement interne : MP4 H.264/AVC Résolutions vidéo : 3840 x 2160 à 24/25/30 ips ; 2720 x 1536 à 24/25/30 ips ; 2752 x 1530 à 50 ips ; 1920 x 1080 à 24/25/30/50 ips Support photo : DNG / JPEG Résolutions photo : 12 MP (4000 x 3000) ; 8 MP (2880 x 2880) ; 6 MP (3968 x 1472) Enregistrement audio : AAC 24-Bit à 48 kHz Microphone intégré : Oui, double PERFORMANCES ET CONNECTIVITÉ Vitesse d'obturation : 1/8000 à 120 secondes Sensibilité ISO : 100 à 3200 Balance des blancs : 2000 à 10000K, Auto Stockage interne : 128 Go Sans fil : Bluetooth 5.0 / Wi-Fi 5 (802.11ac) Application mobile compatible : Oui, Android & iOS ALIMENTATION ET CARACTÉRISTIQUES PHYSIQUES Type de batterie : Lithium-Ion intégrée (310 mAh) Conditions de fonctionnement : -20 à 40°C Haut-parleur intégré : Oui Dimensions (L x P x H) : 54 x 26 x 25 mm Poids : 39,1 g CONTENU DU CARTON 1x Caméra Insta360 GO 3S 1x Protection d'objectif (pré-installée) 1x Viseur Retro (Rouge Classique) 1x Habillage NFC personnalisé 1x Bloc-batterie 1x Sangle 1x Pendentif magnétique 1x Câble USB-C vers USB-A",
+    "price": 249.9,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-asics-gel-venture-6-gtx-tailles-415-a-45-3432360",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/mnaKc/3432360_1/re/1200x1200/qt/90/3432360_1.jpg",
-    "detected_at": "2026-10-14T12:29:31+00:00",
+    "url": "https://www.dealabs.com/bons-plans/camera-daction-insta360-go-3s-128go-retro-bundle-4k-39g-pack-exclusif-3432369",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/VRO5D/3432369_1/re/1200x1200/qt/90/3432369_1.jpg",
+    "detected_at": "2026-10-14T12:41:18+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 249.9,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Puma baskets 2 coloris disponible taille de 35 au 48",
+    "description": "32€ - Puma Puma basket 2 coloris disponible",
+    "price": 32.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/puma-baskets-2-coloris-disponible-taille-de-35-au-48-3432372",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4V8sV/3432372_1/re/1200x1200/qt/90/3432372_1.jpg",
+    "detected_at": "2026-10-14T12:39:23+00:00",
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
@@ -8254,43 +8318,21 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 65.0,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
+        "price": 32.0,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
       }
     ]
   },
   {
-    "title": "[Précommande] Blu-ray Édition Collector L'Odyssée - 4K Ultra HD",
-    "description": "50,14€ - Amazon La version \"petit\" Collector est disponible pour précommande à un très bon prix pour les passionnés. Contenu : - Le film en blu-ray 4K (HDR10) - Le film en Blu-ray - un Blu-ray de bonus vidéo - Un boîtier steelbook - Un livret de 60 pages extraits du livre making of \"Réaliser L'Odyssée\" - Des cartes illustrées - L'affiche du film - Un fourreau rigide Bonus vidéo : - 12 modules sur les coulisses du tournage - Entretiens avec l'équipe du film",
-    "price": 50.14,
+    "title": "[nouveaux clients] Livret+ Fortuneo : taux boosté à 5,5 % brut pendant 3 mois (jusqu'à 100 000 €)",
+    "description": "Fortuneo Durant 3 mois, profitez du Livret+ Fortuneo rémunéré à 5,5 % brut, le taux boosté le plus élevé proposé jusqu'ici sur ce livret, après les 5 % de l'offre d'août-septembre. Un placement sans risque et disponible, pratique pour y loger son épargne de sécurité ou ce qui dépasse le plafond du Livret A (1,70 %) et du LDDS, en gardant la liquidité. Valable pour toute 1re ouverture d'un Livret+ (par personne) du 08/10/2026 au 08/12/2026, jusqu'à 100 000 € de versements ; au-delà et à l'issue des 3 mois, le taux de base brut est de 1,80 % (contre 1,60 % lors de l'offre précédente, susceptible de modification). La bonification démarre à la quinzaine suivant l'ouverture, tout retrait pendant les 3 mois vient en déduction des versements bonifiés, et le livret doit rester ouvert jusqu'au 31/12/2027. Un ancien client peut en bénéficier s’il n’a jamais détenu ce livret",
+    "price": 100000.0,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/edition-collector-lodyssee-4k-uktra-hd-3432361",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oeZnn/3432361_1/re/1200x1200/qt/90/3432361_1.jpg",
-    "detected_at": "2026-10-14T12:29:20+00:00",
-    "category": "Culture & sorties",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0HMXW62WJ?smid=A1X6FK5RDHNB96",
-    "price_history": [
-      {
-        "price": 50.14,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Sous Conditions] Forfait Mobile 150 Go & 20 Go en Europe & DOM à 4,50€/mois pendant 3 mois, puis 9€/mois (sans engagement - orangemoney.fr)",
-    "description": "4,50€ Nouveau forfait mobile Orange Money Europe : 150 Go à seulement 4,50 €/mois pendant 3 mois ! Orange Money Europe propose une offre promotionnelle sur son forfait mobile de 150 Go , sans engagement et avec conservation de votre numéro actuel. Détails de l’offre : 150 Go d’Internet mobile Appels illimités SMS illimités 4,50 €/mois pendant les 3 premiers mois Puis 9 €/mois à partir du 4e mois Sans engagement Possibilité de conserver son numéro de téléphone",
-    "price": 4.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/forfait-mobile-orange-money-europe-150-go-a-450-eurmois-pendant-3-mois-puis-9-eurmois-sans-engagement-3432358",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ygABr/3432358_1/re/1200x1200/qt/90/3432358_1.jpg",
-    "detected_at": "2026-10-14T12:26:22+00:00",
+    "url": "https://www.dealabs.com/bons-plans/livret-fortuneo-taux-booste-a-55-brut-pendant-3-mois-jusqua-100-000-eur-3432371",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1Tw4C/3432371_1/re/1200x1200/qt/90/3432371_1.jpg",
+    "detected_at": "2026-10-14T12:39:03+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -8298,52 +8340,118 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 4.5,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
+        "price": 100000.0,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
       }
     ]
   },
   {
-    "title": "Sac à Dos Technique Solognac X-Access 45L Camouflage Treemetic - Ultra-Résistant, Poche Trépied, Poche à Eau, Housse Étanche Incluse",
-    "description": "59,99€ - Decathlon Excellente opportunité pour un sac à dos ultra-costaud de 45 litres, parfait pour les activités outdoor engagées, le bushcraft, la photographie animalière/de paysage et le bivouac . Il passe à 59,99 € chez Decathlon. Construit pour encaisser les pires conditions avec un tissu Polyester 600 deniers résistant aux ronces, des zips YKK 10 mm et des boucles Duraflex, c'est un sac indestructible qui fait le bonheur des amateurs de nature et de matériel robuste. Pourquoi ce sac est un must pour l'outdoor, le bushcraft & la photo ? Poche dorsale dédiée (Photo & Optique) : Compartiment dorsal séparé et extensible de 7 cm, taillé sur mesure pour transporter en toute sécurité un grand trépied photo, une longue-vue ou du matériel encombrant sans encombrer le volume principal. Modularité X-Access (Bushcraft & Matériel) : Le système de sangles externes permet de fixer des pochettes supplémentaires, un tapis de sol, une hachette de bivouac ou un abri de bushcraft. Accessibilité rapide : En plus de l'ouverture principale, un accès latéral direct au fond du sac permet d'attraper rapidement sa veste, un objectif ou du matos de camp sans tout déballer. Résistance tout-terrain : Tissu 600D résistant à la perforation et aux déchirements dans la végétation dense. ⚙️ Spécifications techniques : Capacité : 45 Litres + extensions X-Access. Confort de portage : Bretelles ergonomiques en mousse EVA 15 mm, ceinture de taille en mousse PE 20 mm et sangle de poitrine avec crochets pour tube de poche à eau. Météo : Composant déperlant + sur-sac de pluie étanche inclus dans sa poche. Camouflage Treemetic : Motif 3D haute définition conçu pour se fondre totalement dans le biotope (idéal pour l'affût photo animalier). Rangements : Poche principale, poche dorsale trépied/optique, poche frontale extérieure, poche intérieure zippée et emplacement pour poche à eau. Poids & Dimensions : 1,4 kg — 54 x 31 x 25 cm. Pour moins de 60 €, il est quasi impossible de trouver un sac 45L aussi robuste dans les marques outdoor classiques (Osprey, Deuter, etc.). L'intégration de la poche dorsale pour trépied/optiques et la présence du sur-sac étanche d'origine en font une vraie pépite pour les aventuriers, photographes nature et pratiquants de bivouac. Les + : Tissu 600D increvable + zips YKK 10 mm + boucles Duraflex Compartiment dorsal parfait pour trépied photo ou longue-vue Accès latéral direct au fond du sac Housse de pluie étanche fournie d'origine",
-    "price": 59.99,
+    "title": "Casque Shokz OpenMove Gris + serviette",
+    "description": "65,09€ - Fnac Pensez à ajouter cette serviette qui est offerte pour l'achat du casque : https://www.fnac.com/Serviette-rafraichissante-Shokz-Goodies-Gris/a17428829/w-4 Caractéristiques du casque Fonctionnalités casque: Contrôle iPhone et GSM & Sport Mode de connexion: Sans fil Communication sans fil: Bluetooth Usages: Sport Impédance nominale: 8 ± 0.5 ohm Connecté: Non Assistant vocal compatible: Non Assistant vocal intégré: Non Portée maximale: 10 m Sortie(s) audio: 1 USB Alimentation: Batterie Rechargeable Li-Polymère; Capacité de la batterie: 135mAh; Port de chargement USB-C Câble: USB-C Stérilisateur UV antibactérien: Non Caractéristiques complémentaires Série S661 ; Technologie de conduction osseuse : Premium Pitch 2.0 ; Puce QCC3024 ; Plage de fréquences : 20Hz~20KHz ; Sensibilité : 96 ±3dB ; Microphone : -40dB ±2dB ; Profiles compatibles : A2DP, AVRCP, HSP, HFP ; Charge voltage : 5.25V±5% ; Bande de fréquences : 2402MHz~2480MHz ; Temps de chargement : 2 heures ; Résistance à la sueur : IP55 ; Maximum RF outputpower : 4dBm ; Design ‘‘Oreilles Libres’’ ; Sécurité ; Titane complet ; Son Stéréo PremiumPitch™2.0 Description OpenMove représente le produit d’entrée de gamme de Shokz, anciennement AfterShokz. Profitez d'une écoute sans douleur, sans rien dans vos oreilles. Les écouteurs à conduction osseuse sans fil OpenMove délivrent un son via les pommettes, laissant votre oreille ouverte pour la musique et les appels. Vous pouvez ainsi profiter d'une écoute confortable pendant une activité sportive, des appels téléphoniques et des travaux ménagers. Restez vigilant sur la route lorsque vous êtes en déplacement. Doté de la technologie de conduction osseuse de 7e génération, il laisse l'oreille ouverte pour un son clair et stable, tout en vous permettant d'être attentif à ce qui se passe autour de vous. Il est donc beaucoup plus sûr de courir ou de faire du vélo à l'extérieur, car il permet d'entendre tout ce qui vous entoure. LE MEILLEUR CASQUE À CONDUCTION OSSEUSE D'ENTRÉE DE GAMME DE SHOKZ. Donner à plus de gens l'accès à l'expérience brillante de l'écoute laissant les oreilles ouvertes dans leur vie quotidienne. Shokz, fournisseur officiel de la Fédération Française d'Athlétisme, est la première et la seule marque d'écouteurs et casque partenaire de la Fédération Française d'Athlétisme. Shokz profite de la technologie de conduction osseuse et les avantages de la conception laissant les oreilles libres pour apporter une solution d'écoute aux athlètes de la FFA lors des pratiques sportives. Shokz offre une expérience d'écoute sûre, confortable, stable et hygiénique au public, hautement reconnue par la Fédération Française d'Athlétisme. LA PUISSANCE DE LA TECHNOLOGIE DE CONDUCTION OSSEUSE. Grâce à la puissance de la technologie de conduction osseuse, les écouteurs Shokz génèrent des mini-vibrations qui traversent vos pommettes. Les vibrations atteignent directement vos oreilles internes, en contournant complètement vos tympans, ce qui permet une expérience d'écoute à oreilles ouvertes. DESIGN LEGER 29 g, COMFORTABLE SANS RIEN DANS LES OREILLES. OpenMove s'installe doucement à l'extérieur de l'oreille et vous permet d'écouter sans douleur et sans fatigue. Profitez d'un confort tout au long de la journée. UNE ÉCOUTE ATTENTIVE, EN RESTANT VIGILANT ET EN SÉCURITÉ. La conception laissant les oreilles libres vous permet d'entendre votre musique et la circulation en même temps. Profitez de la musique tout en vous rendant au bureau, en promenant le chien, et plus encore, sans faire de compromis sur la sécurité. PROFITER D'UN SON DE QUALITÉ SUPÉRIEURE À CHAQUE FOIS. PremiumPitch™ est la technologie de conduction osseuse 2.0 qui permet une analyse audio plus détaillée, quel que soit le volume sonore. 2 PREREGLAGES SONORES POUR UNE ÉCOUTE PERSONNALISÉE. Vous pouvez choisir parmi deux effets sonores : le mode Standard et le mode Booster Vocal. UNE CONNEXION SANS FAILLE, UNE QUALITÉ D'APPEL ÉTONNANTE. Equipé d'une puce Bluetooth Qualcomm 5",
+    "price": 65.09,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-technique-decathlon-x-access-45l-camouflage-treemetic-ultra-resistant-poche-trepied-poche-a-eau-housse-etanche-incluse-3432352",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/l6HmZ/3432352_1/re/1200x1200/qt/90/3432352_1.jpg",
-    "detected_at": "2026-10-14T12:24:24+00:00",
-    "category": "Sport & loisirs",
+    "url": "https://www.dealabs.com/bons-plans/casque-shokz-openmove-gris-serviette-3432370",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/VVDEy/3432370_1/re/1200x1200/qt/90/3432370_1.jpg",
+    "detected_at": "2026-10-14T12:38:53+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.fnac.com/Serviette-rafraichissante-Shokz-Goodies-Gris/a17428829/w-4",
+    "price_history": [
+      {
+        "price": 65.09,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Manette sans fil PlayStation PS5 Dualsense - Camouflage",
+    "description": "67,99€ - Amazon La manette sans fil DualSense Camouflage pour PlayStation 5 n'est pas un simple contrôleur ; c'est votre lien physique avec de nouveaux mondes. Oubliez les vibrations traditionnelles : le retour haptique de nouvelle génération fait entrer l'univers du jeu dans la paume de vos mains. Ressentez la différence subtile entre la conduite sur le gravier et l'asphalte lisse, l'impact d'une explosion ou même la sensation délicate des gouttes de pluie. Chaque environnement prend vie avec une richesse de détails tactiles jamais atteinte auparavant. Cette connexion physique est renforcée par les gâchettes adaptatives, qui simulent la tension et la résistance du monde réel. Vous sentirez la corde de votre arc se tendre juste avant de décocher une flèche, la résistance de la pédale de frein d'une voiture de course lors d'une manœuvre à grande vitesse, ou le recul d'une arme puissante. Chaque action que vous effectuez à l'écran a une contrepartie physique, créant une boucle d'immersion qui vous rapproche plus que jamais du jeu.",
+    "price": 67.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/manette-playstation-ps5-dualsense-camouflage-3432366",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zCUq0/3432366_1/re/1200x1200/qt/90/3432366_1.jpg",
+    "detected_at": "2026-10-14T12:38:28+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0BF8NHH2P?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 67.99,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra 360° Insta360 X4 Air - 8K, Étanche, 165 g, Noir",
+    "description": "228,34€ - AliExpress Léger et portable (165 g) : Une caméra élégante de 165 g* débordante de potentiel. Ultra-légère, facile à utiliser, créativité à 360° : vous ne la remarquerez même pas. *Le poids réel peut varier légèrement en fonction de la configuration et de la production. Vidéo 8K 360 : Deux objectifs capturent chaque seconde de plaisir en famille, tous les angles de votre endroit préféré et chaque moment fort en 8K 30 ips époustouflant. Enfin, personne n'est coincé derrière la caméra Filmez d'abord, cadrez ensuite : ne visez jamais, prenez toujours la photo. Appuyez simplement sur enregistrer, vivez l'instant présent et choisissez les meilleurs angles plus tard grâce aux outils de recadrage faciles de l'application Insta360. Objectifs remplaçables : les objectifs du X4 Air sont robustes, durables et facilement remplaçables grâce à notre kit pratique. Remplacez-les s'ils sont endommagés sans avoir à remplacer toute la caméra. Sans stress, sans attente. Stabilisation FlowState et verrouillage de l'horizon à 360° : notre stabilisation d'image de pointe est appliquée automatiquement pour des prises de vue fluides et stables à chaque fois. De plus, le verrouillage de l'horizon maintient les images parfaitement horizontales, même lorsque vous faites pivoter complètement la caméra. HDR actif 8K 30 ips : un mode HDR innovant pour des prises de vue stabilisées de jour. Dans des conditions d'éclairage difficiles, le HDR actif renforce les couleurs dans les hautes lumières et les ombres et capture des détails que les autres caméras d'action ne perçoivent pas",
+    "price": 228.34,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/camera-360-insta360-x4-air-8k-etanche-165-g-noir-3432367",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/hf4YX/3432367_1/re/1200x1200/qt/90/3432367_1.jpg",
+    "detected_at": "2026-10-14T12:35:06+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 59.99,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
+        "price": 228.34,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
       }
     ]
   },
   {
-    "title": "Lot de 10 Paires Chaussettes de travail SOXCO - Homme Noires, Mi-mollet Avec Renforts Talon Et Pointe, Tailles 35 À 50 (Vendeur Tiers)",
-    "description": "12,85€ - Amazon Lot de 10 paires de chaussettes de travail SOXCO noires, conçues pour offrir un bon confort au quotidien. Leur rembourrage doux et leur maille HEX-COMB aident à limiter la fatigue des pieds pendant les longues journées. La technologie DRI-WIK évacue l’humidité pour garder les pieds au sec, tandis que les renforts au talon et à la pointe améliorent la résistance à l’usure. Leur élasticité permet également un maintien confortable tout au long de la journée. * Lot de 10 paires de chaussettes noires mi-mollet. * Technologie DRI-WIK pour évacuer l’humidité. * Rembourrage doux pour plus de confort au quotidien. * Talon et pointe renforcés pour une meilleure durabilité.",
-    "price": 12.85,
+    "title": "LEGO Shrek 72423 - Shrek, l'Âne et Le Chat Potté",
+    "description": "95,99€ - Amazon LEGO Shrek Shrek, l'Âne et Le Chat Potté 72423 Set pour adulte, maquette collector, décoration pour étagère ou bureau, 3 figurines, idée cadeau, 1403 pièces",
+    "price": 95.99,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/soxco-chaussettes-de-travail-homme-noires-lot-de-10-paires-mi-mollet-avec-renforts-talon-et-pointe-3432356",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6wbyn/3432356_1/re/1200x1200/qt/90/3432356_1.jpg",
-    "detected_at": "2026-10-14T12:24:10+00:00",
-    "category": "Mode",
+    "url": "https://www.dealabs.com/bons-plans/lego-shrek-shrek-lane-et-le-chat-potte-72423-3432365",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/asdXI/3432365_1/re/1200x1200/qt/90/3432365_1.jpg",
+    "detected_at": "2026-10-14T12:34:40+00:00",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 12.85,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
+        "price": 95.99,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Perceuse visseuse sans fil 18V Mac Allister MCI1258COM",
+    "description": "19,99€ - Castorama Perceuse visseuse sans fil 18V Mac Allister MCI1258COM",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/perceuse-visseuse-sans-fil-18v-mac-allister-mci1258com-3432364",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yZnhP/3432364_1/re/1200x1200/qt/90/3432364_1.jpg",
+    "detected_at": "2026-10-14T12:34:38+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-14T12:44:45.908402+00:00"
       }
     ]
   },
@@ -11637,7 +11745,7 @@
     "url": "https://www.dealabs.com/bons-plans/vinyle-lp-pink-martini-sympathique-3432140",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pVL8T/3432140_1/re/1200x1200/qt/90/3432140_1.jpg",
     "detected_at": "2026-10-14T07:24:37+00:00",
-    "category": "Autre",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -15313,7 +15421,7 @@
     "url": "https://www.dealabs.com/bons-plans/vinyle-tryo-mamagubida-3431910",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pVydE/3431910_1/re/1200x1200/qt/90/3431910_1.jpg",
     "detected_at": "2026-10-13T18:36:50+00:00",
-    "category": "Autre",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
@@ -15885,7 +15993,7 @@
     "url": "https://www.dealabs.com/bons-plans/plaque-induction-3431875",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/4r07D/3431875_1/re/1200x1200/qt/90/3431875_1.jpg",
     "detected_at": "2026-10-13T17:35:48+00:00",
-    "category": "Bébé & enfants",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -17102,7 +17210,7 @@
     "url": "https://www.dealabs.com/bons-plans/adaptateur-gardena-pour-robinet-dinterieur-3431804",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/SHph4/3431804_1/re/1200x1200/qt/90/3431804_1.jpg",
     "detected_at": "2026-10-13T15:02:39+00:00",
-    "category": "Autre",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
@@ -17933,7 +18041,7 @@
     "url": "https://www.dealabs.com/bons-plans/carte-memoire-microsdxc-samsung-t7-128-go-170-mos-uhs-i-u3-a2-v30-4k-uhd-3431751",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Eai4x/3431751_1/re/1200x1200/qt/90/3431751_1.jpg",
     "detected_at": "2026-10-13T13:54:15+00:00",
-    "category": "Autre",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
@@ -20653,110 +20761,6 @@
       },
       {
         "price": 23.4,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Imprimante 3D Snapamker U1 (snapmaker.com)",
-    "description": "749€ Présentation du produit • L'imprimante 3D « Consumer Toolchanger » • Système SnapSwap™ à 4 têtes d'outils permettant un changement direct en 5 secondes • Jusqu’à 5 fois plus rapide, avec 5 fois moins de déchets • Liberté en matière de couleurs et de matériaux • Calibrage et compensation intelligents pour des impressions nettes et homogènes • Gestion simplifiée du filament grâce au chargement automatique et au mode de secours • Vitesse pouvant atteindre 500 mm/s et accélération de 20 000 mm/s² • Volume d'impression de 270 mm de côté pour les modèles de grande taille et l'impression par lots • Accédez à des matériaux techniques résistants aux hautes températures grâce au couvercle supérieur en option https://eu.snapmaker.com/fr/collections/3d-printer-machines/products/snapmaker-u1-3d-printer",
-    "price": 749.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-snapamker-u1-snapmakercom-3431601",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RcwUf/3431601_1/re/1200x1200/qt/90/3431601_1.jpg",
-    "detected_at": "2026-10-13T10:05:34+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 749.0,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      },
-      {
-        "price": 749.0,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
-      }
-    ]
-  },
-  {
-    "title": "The Rogue Prince of Persia sur PC (Dématérialisé - Steam)",
-    "description": "8,99€ - Steam ✅ Compatible Steam Deck Anniversary update infos : https://therogueprinceofpersia.com/patchnote-anniversary-update/ Plongez dans une aventure épique et palpitante, où chaque action vibre au rythme d'une bande-son intense. Maîtrisez un combat fluide, acrobatique et réactif, associé à un parkour exigeant. Mort après mort, forgez votre propre style de jeu. À travers l'exploration et les rencontres, vous trouverez peut-être un moyen de réparer vos erreurs et de sauver l'Empire perse créé par Evil Empire. RÉÉCRIVEZ LE DESTIN. SAUVEZ LA PERSE. OU PÉRISSEZ EN ESSAYANT. Façonnez la légende d'un prince épargné par la mort, qui condamna son peuple à cause d'une erreur fatale. Faites de votre mieux pour réparer vos erreurs : chaque échec est une nouvelle chance d'explorer des chemins différents, de découvrir des secrets, de rencontrer de nouveaux personnages et d'utiliser les connaissances accumulées lors de vos précédentes tentatives pour changer le destin de votre peuple et faire vos preuves en tant que véritable prince de Perse. MAÎTRISEZ UN STYLE ACROBATIQUE EFFRÉNÉ En tant que prince de Perse, l'agilité est votre arme la plus puissante. Esquivez des pièges, sprintez sur les murs, enchaînez des combos acrobatiques et frappez avec précision. Chaque mouvement est une opportunité et chaque combat récompensera votre technique et votre style. COMBATTEZ À VOTRE MANIÈRE Découvrez, débloquez et maîtrisez plus de 100 armes et médaillons uniques. Adaptez, améliorez et personnalisez votre équipement à chaque essai, et créez des combinaisons mortelles adaptées à votre style de jeu. DES ESSAIS UNIQUES Aucun essai ne se répète. Plongez dans cette aventure en constante évolution dans laquelle la narration, la métaprogression, les modificateurs de difficulté, les événements aléatoires et les niveaux générés de manière procédurale vous donneront envie de continuer à essayer. Trailers sur PC : [shortcode id=\"20619121\"/] [shortcode id=\"20619122\"/]",
-    "price": 8.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/the-rogue-prince-of-persia-sur-pc-dematerialise-3431600",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FVQUX/3431600_1/re/1200x1200/qt/90/3431600_1.jpg",
-    "detected_at": "2026-10-13T10:04:39+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Enceinte Bluetooth portable SOUNARC R1 - 40 W, Bluetooth 5.3, IPX6, 15 h d'autonomie, appairage stéréo - Bleu",
-    "description": "27,99€ - Geekbuying Bon prix pour cette SOUNARC R1 , une enceinte Bluetooth portable de 40 W Livraison gratuite depuis l'Europe Utilisez le code promo NNNDBR1 > Caractéristiques Enceinte portable SOUNARC R1 Coloris : bleu Puissance de sortie : 40 W Bluetooth 5.3 Portée sans fil jusqu'à 10 mètres Codec audio SBC Réponse en fréquence : 100 Hz - 20 kHz Certification IPX6 contre les projections d'eau Appairage stéréo avec une seconde enceinte compatible Connexions Bluetooth, AUX et carte microSD/TF Batterie rechargeable de 4 000 mAh Jusqu'à 15 heures d'autonomie à 50 % du volume Recharge en USB-C (5 V / 1 A) Temps de charge : environ 6 heures Poids : 940 g",
-    "price": 27.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-portable-sounarc-r1-40-w-bluetooth-53-ipx6-15-h-dautonomie-appairage-stereo-bleu-3431599",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/L5Oar/3431599_1/re/1200x1200/qt/90/3431599_1.jpg",
-    "detected_at": "2026-10-13T10:04:27+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 27.99,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      },
-      {
-        "price": 27.99,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[MACIF] TV 77\" LG OLED C6 - 4K UHD, Tandem OLED 2.0, 165Hz, HDR10, Dolby Vision, HLG (Via ODR 300€)",
-    "description": "1 826,43€ - LG De retour en stock Lien de l'ODR: https://www.lg.com/fr/promotions/offres-de-remboursement/actives/2609-offre-tv/?sortCriteria=%40ec_stock_status+ascending%2C%40ec_discount_amount+descending Valable pour tout le monde Exemple d'optimisation du prix (ODR de 300€ à déduire): 1513€ prix final 1) Coupon de -15%. Pack . Vous pouvez choisir une autre barre de son si vous le souhaitez. La liste des produits éligible ( https://www.lg.com/fr/promotions/composez-votre-pack/ ) 2) Coupon de -5% de bienvenue . Première commande 3) Coupon de -5% CMR avantage . Inscription newsletter ( https://www.lg.com/fr/promotions/inscriptions/ ) 4) Coupon de -5% CIC . (Demande via le tchat du site LG, rien a voir avec la banque), vous pouvez dire que vous n'avez pas reçu le code de réduction avec l'inscription à la newsletter. Ils vont vous en donné un code CIC cumulable. 5) Coupon de -3%. Reprise 6) Cashback : igraal , ebuyclub, Poulpeo 7) ODR de 300€ Questions fréquentes : Comment obtenir le code CIC? Demande via le tchat du site LG, rien a voir avec la banque), vous pouvez dire que vous n'avez pas reçu le code de réduction avec l'inscription à la newsletter. Ils vont vous en donné un code CIC cumulable. Dire au bot \" parler à un conseiller\". En combien de temps je recois le code newsletter (CMR)? Instantanément dans votre boite mail. Pensez a regardé vos spams La reprise ne s'affiche pas. Pour activer la reprise il y a un encart en dessous de la TV au panier. Pensez bien a mettre oui quand ça demande si vous êtes connecté à un compte LG. SI la réduction n'apparait pas, il faut des fois allez réactiver le coupon dans la liste à droite au panier Pourquoi mes codes ne se cumule pas ? Seulement les codes présents sur le screen d'exemple sont cumulables. Tout autres code macif ect ne se cumule jamais.",
-    "price": 1826.43,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/macif-tv-77-lg-oled-c6-4k-uhd-tandem-oled-20-165hz-hdr10-dolby-vision-hlg-via-odr-300eur-3431598",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HUwmF/3431598_1/re/1200x1200/qt/90/3431598_1.jpg",
-    "detected_at": "2026-10-13T10:04:00+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1826.43,
-        "observed_at": "2026-10-13T10:14:59.065855+00:00"
-      },
-      {
-        "price": 1826.43,
         "observed_at": "2026-10-14T11:59:57.473107+00:00"
       }
     ]
