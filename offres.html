@@ -891,7 +891,7 @@ function openOfferDetails(url) {
   const source = /dealabs/i.test(String(offer.source || "") + " " + url) ? "Dealabs" : String(offer.source || "Source inconnue");
   const category = inferCategory(offer);
   const image = productImageCandidates(offer,url)[0] || "";
-  const date = safeDate(offer.price_checked_at || offer.detected_at || offer.published_at);
+  const date = safeDate(offer.price_verified === true && offer.price_checked_at ? offer.price_checked_at : (offer.detected_at || offer.published_at));
   const description = String(offer.description || "").replace(/<[^>]*>/g," ").replace(/\\s+/g," ").trim();
   const reasons = (trustInfo.reasons || []).slice(0,6).map(x=>"<span>✓ "+escapeHtml(x)+"</span>").join("");
   const warnings = (trustInfo.warnings || []).slice(0,6).map(x=>"<span>! "+escapeHtml(x)+"</span>").join("");
