@@ -291,7 +291,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 40.88,
@@ -311,7 +311,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 54.58,
@@ -331,7 +331,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "price_history": [
       {
         "price": 41.83,
@@ -571,7 +571,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
     "price_history": [
       {
         "price": 40.7,
@@ -591,7 +591,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
     "price_history": [
       {
         "price": 13.86,
@@ -611,7 +611,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
     "price_history": [
       {
         "price": 699.0,
@@ -631,7 +631,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
     "price_history": [
       {
         "price": 36.8,
@@ -651,7 +651,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
     "price_history": [
       {
         "price": 11.61,
@@ -6768,6 +6768,27 @@
     ]
   },
   {
+    "title": "Figurine Funko Pop Animation: One Piece 924 - Brook (Bonekichi)",
+    "description": "8,38€ - Amazon De circonstance pour préparer Halloween. Hauteur : environ 9,5 cm À propos de ce produit TAILLE DE COLLECTION IDÉALE - D'une hauteur d'environ 9,5 cm (3,75 pouces), cette mini-figurine en vinyle complète d'autres objets de collection et s'intègre parfaitement dans votre vitrine ou sur votre bureau. MATÉRIAU VINYLE PREMIUM - Fabriqué en vinyle durable de haute qualité, cet objet de collection est conçu pour durer et résister à l'usure quotidienne, garantissant un plaisir durable aux fans et aux collectionneurs. CADEAU PARFAIT POUR LES FANS DE ONE PIECE - Idéal pour les fêtes, anniversaires ou occasions spéciales et comme présent, cette figurine est un ajout incontournable à toute One Piece collection de produits dérivés AGRANDISSEZ VOTRE COLLECTION - Ajoutez cette pièce d'exposition en vinyle unique de Brook à votre assortiment croissant de figurines Funko Pop! et recherchez d'autres objets de collection rares et exclusifs pour un ensemble complet MARQUE PHARE DE LA POP CULTURE - Faites confiance à l'expertise de Funko, le premier créateur de produits dérivés de la pop culture comprenant des figurines en vinyle, jouets d'action, peluches, vêtements, jeux de société et bien plus encore. Commentaires client",
+    "price": 8.38,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pop-funko-animation-one-piece-924-brook-bonekichi-amazon-exclusive-3432030",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CilgW/3432030_1/re/1200x1200/qt/90/3432030_1.jpg",
+    "detected_at": "2026-10-14T00:02:31+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 8.38,
+        "observed_at": "2026-10-14T00:17:06.760686+00:00"
+      }
+    ]
+  },
+  {
     "title": "DLC Indiana Jones et le Cercle Ancien : L'Ordre des Géants sur PS5 (Dématérialisé)",
     "description": "13,99€ - PlayStation Store Indiana Jones et le Cercle Ancien : L'Ordre des Géants – DLC PS5 -30 % sur le PlayStation Store ! Le DLC passe à seulement 13,99 € au lieu de 19,99 € ! Une première réduction intéressante pour prolonger l'aventure d'Indy. ️ Au programme : ✅ Une nouvelle aventure au cœur de Rome ✅ Des catacombes mystérieuses et des ruines antiques à explorer ✅ Des énigmes inédites à résoudre ✅ Une secte dangereuse liée au culte de Mithra ✅ Environ 8 heures de contenu supplémentaire Une bonne occasion pour les fans d'Indiana Jones de retrouver l'univers du jeu et de découvrir une nouvelle enquête ! ⚠️ Attention : le jeu de base Indiana Jones et le Cercle Ancien est nécessaire. Il n'est pas inclus dans cette offre.",
     "price": 13.99,
@@ -11689,27 +11710,6 @@
     "price_history": [
       {
         "price": 4.87,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Carte mère SOYO B850ITX AMD, compatible avec les processeurs AMD Ryzen AM5 DDR5 7000 8000 9000",
-    "description": "108,55€ - AliExpress Présentation report > > Paramètres du processeur : Processeurs de bureau AMD AM5 Ruilong séries 7000/8000/9000 > > Paramètres de mémoire : 2*DDR5, prenant en charge une fréquence de 4800~6000+ MHz (overclocking synchrone), avec une capacité maximale de 64 Go. > > Interface du disque dur : 1 interface M.2 (prenant en charge la vitesse PCIE5.0 x4), 1 interface M.2 (prenant en charge la vitesse PCIE4.0 x4 à l'arrière), 4 interfaces SATA3.0. > > Interface USB : Il prend toujours en charge 6 interfaces USB 2.0, 5 interfaces USB 3.2 et 2 interfaces TYPC (jusqu'à 10 Gbps, transmission uniquement). > > interface d'affichage : 1*HDMI (compatible 2.0), 1*DP (compatible 1.4) > > emplacement d'extension 1*PCIE-16X (supportant 5.0x16) > > Paramètres audio : La carte son indépendante audio haute définition Realtek série ALC897 est adoptée. > > Interface NIC : 1*Carte réseau Realtek 8125 2.5G, 1*Interface WIFI M.2 (protocole PCIe). > > Interface d'alimentation : 1*24PIN ATXPWR 1*8PIN ATX12V",
-    "price": 108.55,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/carte-mere-soyo-b850itx-amd-compatible-avec-les-processeurs-amd-ryzen-am5-ddr5-7000-8000-9000-3431731",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/F99lr/3431731_1/re/1200x1200/qt/90/3431731_1.jpg",
-    "detected_at": "2026-10-13T13:26:12+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 108.55,
         "observed_at": "2026-10-13T13:36:14.466903+00:00"
       }
     ]
