@@ -2405,7 +2405,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2426,7 +2426,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2447,7 +2447,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2468,7 +2468,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2489,7 +2489,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2573,7 +2573,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2594,7 +2594,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6737,6 +6737,28 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 camelBak Podium Chill 710 ml",
+    "description": "13,99€ - Amazon Lot de 2 ! CamelBak Podium Chill 710ml – bouteille d'eau vélo – isolation à double paroi – polypropylène Trutaste – ajustement optimisé pour porte-bidon – bouchon auto-étanche – Race Edition Parfaitement étanche et bien adaptée pour les longues sorties. J’ai testé ce produit l’été dernier , cette bouteille garde bien l’eau fraîche longtemps. Poids de l'article 243",
+    "price": 13.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-camelbak-podium-chill-710-ml-3432119",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/b4bWd/3432119_1/re/1200x1200/qt/90/3432119_1.jpg",
+    "detected_at": "2026-10-14T07:06:47+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-14T07:09:48.580716+00:00"
       }
     ]
   },
@@ -12047,28 +12069,6 @@
     "price_history": [
       {
         "price": 11.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Gels WC Action Nettoyante - Parfum menthe",
-    "description": "2,89€ - Aldi À partir du mardi 20 octobre chez Aldi, profitez d'une offre de -68% sur le 2ème produit sur le Gel WC Action Nettoyante Canard (Parfum Fraîcheur Menthe).",
-    "price": 2.89,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/canard-canari-gel-wc-action-nettoyante-68-sur-le-2eme-3431816",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/dmTRW/3431816_1/re/1200x1200/qt/90/3431816_1.jpg",
-    "detected_at": "2026-10-13T15:19:36+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2.89,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
