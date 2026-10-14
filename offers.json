@@ -1,5 +1,26 @@
 [
   {
+    "title": "Hama Multiprise 6 Prises 16A a...lier, Meuble TV, Garage) Blanc",
+    "price": 9.99,
+    "reference_price": 17.7,
+    "discount_percent": 43.56,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00006J4FD",
+    "image_url": "https://m.media-amazon.com/images/P/B00006J4FD.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 09:15:59",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
     "title": "Bosch Electroménager Filtre po...tre anti-odeur - charbon actif",
     "price": 27.0,
     "reference_price": 37.0,
@@ -536,7 +557,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -557,7 +578,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:57:31.087812+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2061,7 +2082,7 @@
     "title": "Whisker Waters Playstation 5 - Import Europe",
     "price": 21.79,
     "reference_price": 30.99,
-    "discount_percent": 29.69,
+    "discount_percent": 29.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CSZ88L91",
     "image_url": "https://m.media-amazon.com/images/P/B0CSZ88L91.01._AC_SL1500_.jpg",
@@ -2082,7 +2103,7 @@
     "title": "ABUS Cadenas Granit 37/55HB50 ...Haute, Acier Trempé, Niveau 10",
     "price": 92.89,
     "reference_price": 124.98,
-    "discount_percent": 25.68,
+    "discount_percent": 25.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B014USEO4U",
     "image_url": "https://m.media-amazon.com/images/P/B014USEO4U.01._AC_SL1500_.jpg",
@@ -2103,7 +2124,7 @@
     "title": "GLORIOUS The Glorious GMMK Compact Clavier",
     "price": 79.99,
     "reference_price": 89.95,
-    "discount_percent": 11.07,
+    "discount_percent": 11.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07L32V19W",
     "image_url": "https://m.media-amazon.com/images/P/B07L32V19W.01._AC_SL1500_.jpg",
@@ -2124,7 +2145,7 @@
     "title": "Canon PP-201 Papier Photo Brillant Format A3+ (20 feuilles)",
     "price": 40.49,
     "reference_price": 46.0,
-    "discount_percent": 11.98,
+    "discount_percent": 12.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00126I3M8",
     "image_url": "https://m.media-amazon.com/images/P/B00126I3M8.01._AC_SL1500_.jpg",
@@ -2145,7 +2166,7 @@
     "title": "Equip 606146 Câble patch fin catégorie 6A F/FTP Rouge 3 m",
     "price": 5.11,
     "reference_price": 13.11,
-    "discount_percent": 61.02,
+    "discount_percent": 61.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09DKQ779G",
     "image_url": "https://m.media-amazon.com/images/P/B09DKQ779G.01._AC_SL1500_.jpg",
@@ -2166,7 +2187,7 @@
     "title": "Sodastream Fizz & Go Easy Mix ...chines Sodastream, blanc sable",
     "price": 26.16,
     "reference_price": 32.21,
-    "discount_percent": 18.78,
+    "discount_percent": 18.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0GK354F68",
     "image_url": "https://m.media-amazon.com/images/P/B0GK354F68.01._AC_SL1500_.jpg",
@@ -2187,7 +2208,7 @@
     "title": "rOtring 600 Portemine | Mine H...tidérapante et corps hexagonal",
     "price": 18.99,
     "reference_price": 32.34,
-    "discount_percent": 41.28,
+    "discount_percent": 41.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DSJMN338",
     "image_url": "https://m.media-amazon.com/images/P/B0DSJMN338.01._AC_SL1500_.jpg",
@@ -2229,7 +2250,7 @@
     "title": "KS Tools 160.0705 Purgeur de l...e frein 20l BS 20 - éléctrique",
     "price": 1173.2,
     "reference_price": 1403.04,
-    "discount_percent": 16.38,
+    "discount_percent": 16.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B007XUFPAK",
     "image_url": "https://m.media-amazon.com/images/P/B007XUFPAK.01._AC_SL1500_.jpg",
@@ -2250,7 +2271,7 @@
     "title": "Canon LU-101 Papier Photo Lust...A3+ (20 feuilles) - 260g/m², L",
     "price": 30.24,
     "reference_price": 60.49,
-    "discount_percent": 50.01,
+    "discount_percent": 50.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B009DKZZ4O",
     "image_url": "https://m.media-amazon.com/images/P/B009DKZZ4O.01._AC_SL1500_.jpg",
@@ -6821,6 +6842,336 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ventilateur Asus TUF Gaming TR120 Fan - ARGB, Reverse, Blanc",
+    "description": "17,99€ - Grosbill Asus TUF GAMING - TR120 Fan ARGB REVERSE - Blanc",
+    "price": 17.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/asus-tuf-gaming-tr120-fan-argb-reverse-blanc-3432231",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/xuDtM/3432231_1/re/1200x1200/qt/90/3432231_1.jpg",
+    "detected_at": "2026-10-14T09:10:38+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Appareil à raclette et pierrade Cosylife COS-RAC4P-stone - 4 personnes, 600 W, pierre amovible",
+    "description": "14,98€ - Electro Dépôt Un appareil à raclette pour 4 personnes qui permet aussi de faire cuire de la viande ou des légumes directement sur une pierre naturelle. Ce modèle Cosylife COS-RAC4P-stone combine deux fonctions : raclette et pierrade. Il est équipé d'une puissance de 600 W et d'une plaque de cuisson en pierre amovible de 21,2 × 21,2 cm. Quelques caractéristiques : 4 poêlons avec revêtement sans PTFE et 4 spatules en bois inclus. Température maximale de 220 °C. Interrupteur marche/arrêt avec voyant lumineux et témoin de chauffe. Dimensions : 25 × 22 × 13 cm. Câble d'alimentation de 80 cm. Pas de thermostat réglable. Disponible en livraison et dans certains magasins Electro Dépôt selon les stocks. Retrait gratuit en magasin sous 1 h, livraison gratuite dès 49,90 € d'achat. Garantie de 2 ans, pièces et main-d'œuvre. Retours gratuits en magasin.",
+    "price": 14.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/appareil-a-raclette-et-pierrade-cosylife-cos-rac4p-stone-4-personnes-600-w-pierre-amovible-3432229",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0COJQ/3432229_1/re/1200x1200/qt/90/3432229_1.jpg",
+    "detected_at": "2026-10-14T09:09:14+00:00",
+    "category": "Électroménager",
+    "price_verified": true,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T09:15:52.743819+00:00",
+    "merchant_url": "https://www.electrodepot.fr/raclette-multifonctions-cosylife-cos-rac4p-stone.html",
+    "price_history": [
+      {
+        "price": 14.98,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection d'Outillage Électroportatif Ryobi en promotion - Ex : Lot de 3 Outils RCK183K-2C42T - avec 2 Batteries 2Ah & une 4Ah",
+    "description": "191,92€ - Castorama Sélection d'outillage électroportatif Ryobi en promotion chez Castorama. Offre valable en magasin et en livraison. Lien vers la sélection complète Exemple: Lot de 3 Outils Électroportatifs sans fil Ryobi RCK183K-2C42T - Batteries 4Ah & 2Ah + 1 Batterie 2Ah offerte Batterie offerte par Ryobi Description Caractéristiques du produit Lot de 3 outils électroportatifs sans fil Ryobi RCK183K-2C42T 1x4Ah + 1x2Ah Informations supplémentaires Combo 3 outils : 1 perceuse-visseuse à percussion RPD18-0 + 1 scie sauteuse RJS18-0 + 1 ponceuse RROS18-0 avec Toolbox - Livré avec 2 batteries 1 x 4,0 Ah et 1 x 2,0 Ah et 1 chargeur rapide 2,0 A RPD18-0 couple max: 52Nm RROS18-0 vitesse d'oscillation : 20 000 osc/min RJS18-0 vitesse : 0-3000 courses/min",
+    "price": 191.92,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/selection-doutillage-electroportatif-ryobi-en-promotion-ex-lot-de-3-outils-rck183k-2c42t-batteries-4ah-2ah-1-batterie-2ah-offerte-3432227",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oEVUx/3432227_1/re/1200x1200/qt/90/3432227_1.jpg",
+    "detected_at": "2026-10-14T09:07:54+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.castorama.fr/destockage-et-offres-speciales/destockage-massif/cat_id_5021.cat?Marque=Ryobi",
+    "price_history": [
+      {
+        "price": 191.92,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "AAA Games Ultimate Collection sur Nintendo Switch (Dématérialisé - eShop)",
+    "description": "1,99€ - Nintendo Une compilation de légende, pour un plaisir illimité !",
+    "price": 1.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/aaa-games-ultimate-collection-nintendo-switch-eshop-3432226",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/FmVqN/3432226_1/re/1200x1200/qt/90/3432226_1.jpg",
+    "detected_at": "2026-10-14T09:06:29+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.nintendo.com/fr-fr/Jeux/Jeux-a-telecharger-sur-Nintendo-Switch/AAA-Games-Ultimate-Collection-3004220.html",
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PC Portable 14\" Asus Vivobook S14 S3407 - Intel Core Ultra 5 325, RAM 16 Go DDR5, SSD 512 Go, Wi-Fi 6, Bluetooth 5.4, Windows 11",
+    "description": "699€ - ASUS ASUS propose actuellement sur son site officiel le Vivobook S14 (S3407) à 699.99 € au lieu de 849.99€ (prix le plus bas des 30 derniers jours), soit 150 € de réduction. Configuration proposée sur le site de Asus: • Processeur : Intel® Core™ Ultra 5 325, 8 cœurs, jusqu'à 4,5 GHz • NPU jusqu’à 47 TOPS pour les fonctions IA • GPU Intel graphics intégré • 16 Go de RAM DDR5 (extensible à 32 Go en changeant la barette de 16 Go, 1 seul slot SO-DIMM) • SSD 512 Go M.2 NVMe PCIe 4.0 (extensible en changeant le SSD, 1 seul slot NVMe 4.0) • Écran 14 pouces OLED 60Hz, 0.2ms, 300 nits • Résolution 1920 × 1200 • Windows 11 famille • Wi-Fi 6(802.11ax) (Dual band) 2*2+ Bluetooth® 5.4 • Webcam FHD avec fonctions IA • 2x USB 3.2 Gen 1 Type-C prenant en charge l’alimentation/affichage • 2x USB 3.2 Gen 1 Type-A • 1x HDMI 2.1 TMDS • 1x 3.5mm Combo Audio Jack • Poids 1.4Kg • Clavier AZERTY chiclet rétroéclairé • Batterie haute capacité 70WHrs, 4S1P, 4-cell Li-ion • Certification Copilot+ PC BONUS : en créant un compte Asus, vous avez un Sac ASUS AC1600 (29.99€) et une souris ASUS WT425 (24.90€) offerts soit 54.98€de cadeaux ! ⚠️ : Chargeur non inclu, mais vous pouvez prendre un chargeur sur le site d'Asus (le PC supporte du 68W) et utiliser le code ACC30 pour avoir -30% sur le chargeur (uniquement valable si achat du PC en même temps).",
+    "price": 699.99,
+    "reference_price": 849.99,
+    "discount_percent": 17.6,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pc-portable-14-asus-vivobook-s14-s3407-core-ultra-5-325-16-go-ddr5-512-go-ssd-win11-3432225",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Iibsb/3432225_1/re/1200x1200/qt/90/3432225_1.jpg",
+    "detected_at": "2026-10-14T09:03:15+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 699.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Alimentation PC Be Quiet! Pure Power 13 M 1200W modulaire ATX 3.1, 80+ Gold (Vendeur tiers)",
+    "description": "127,90€ - Amazon À propos de cet article La Pure Power 13 M 1200 W est certifiée 80 PLUS Gold et affiche un très bon rendement électrique atteignant 93,5 %. C’est le gage d’une faible consommation d'énergie, de coûts réduits, d’un système mieux refroidi et d’un fonctionnement plus silencieux. La Pure Power 13 M 1200 W reste le choix le plus judicieux pour les systèmes silencieux et les PC gaming. La Pure Power 13 M 1200 W est une alimentation ATX 3.1. Elle est équipée à la fois d’un connecteur 12V-2x6 pour les prochaines générations de cartes graphiques PCIe 5.1 et de 4 connecteurs PCIe 6+2-pin pour assurer la compatibilité avec les cartes actuelles. Cela permet à cette nouvelle série d’être extrêmement polyvalente et d’être sans aucun doute le meilleur choix à la fois pour les systèmes haut de gamme actuels et pour ceux à venir. La Pure Power 13 M offre 1200 W de puissance continue sur un rail massif 12V. Même si la carte graphique exige de fortes montées en puissance pendant de courtes périodes, la Pure Power 13 M 1200 W gère facilement ces montées en charge et ce jusqu'au double de sa puissance nominale. Cela garantit un fonctionnement fiable avec la prochaine génération de processeurs et de cartes graphiques. Lorsque la charge est faible, le ventilateur s'arrête complètement jusqu'à ce que la ventilation soit à nouveau nécessaire pour des opérations plus exigeantes. Cette fonctionnalité, associée à un ventilateur be quiet! fiable aux pales optimisées, rend la Pure Power 13 M 1200 W exceptionnellement silencieuse, quelle que soit la charge. Grâce à sa topologie LLC, la Pure Power 13 M 1200 W offre une régulation de tension et une efficacité optimales. Elle est donc parfaite pour monter des systèmes très silencieux ou pour mettre à niveau des PC gaming et des configurations dédiées à la création de contenus multimédias. Spécifications Nom de modèle: Pure Power 13 M Marque: be quiet! Appareils compatibles: Ordinateur de bureau haute performance Type de connecteur: ATX, PCI Express Puissance de sortie: 1200 Watts Facteur de forme: ATX Puissance en watts: 1200 Watts Méthode de refroidissement: Ventilateur Dimensions de l'article L x l x H: 15 x 16 x 8,6 centimètres Poids de l'article: 3277 Grammes appareils compatibles: Ordinateur de bureau haute performance entrée rgb analogique: ATX, PCI Express wattage en sortie: 1200 Watts facteur de forme: ATX Conception d'alimentation: Modulaire complet Nombre de ventilateur: 1 Tension d’entrée maximale: 240 Volts (courant alternatif) Tension d’entrée minimale: 100 Volts (courant alternatif) Type de connecteur de bus système: 24 broche Dimensions de l’article: 15 x 16 x 8,6 centimètres Nom du modèle: Pure Power 13 M nombre d'articles: 1 Unité de comptage: 1.0 unité fabriquant: be quiet! Code article international: 04260052193655 Numéro du modèle: BP029EU Description de la garantie: 10 ans constructeur Classement des meilleures ventes d'Amazon: 198 en Informatique (Voir les 100 premiers en Informatique) 5 en Alimentation pour ordinateur de bureau ASIN: B0GK27BDK5 Moyenne des commentaires client: 5,0 5,0 sur 5 étoiles (6) 5,0 sur 5 étoiles Point fort de l’article: Cybenetics Platinum, Compatible PCIe 5.1, Efficacité jusqu'à 94,4 %, Ventilateur 120mm semi-passif, LLC, Rail 12 V massif Commentaires client",
+    "price": 127.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/alimentation-pc-be-quiet-pure-power-13-m-1200w-modulaire-atx-31-80-gold-3432224",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KbAD1/3432224_1/re/1200x1200/qt/90/3432224_1.jpg",
+    "detected_at": "2026-10-14T09:01:15+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 127.9,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Arbre à papillons tricolore Buddleja davidii Empire Blue, Pinkdelight, White Profusion - Pot de 2L, hauteur 25-30cm",
+    "description": "9,99€ - Willemse Un festival de couleurs pour les papillons… et pour le jardin ! Envie d'un arbuste qui attire les regards autant que les papillons ? Ce Buddleja davidii tricolore associe trois couleurs de fleurs : bleu, rose et blanc ! De juillet à septembre , ses longues grappes de fleurs parfumées attirent papillons, abeilles et autres insectes butineurs. Caractéristiques : Floraison : juillet à septembre Couleurs : bleu, rose et blanc Hauteur adulte : environ 3 m ↔️ Largeur : 2 à 3 m ☀️ Exposition : plein soleil ❄️ Rusticité annoncée : jusqu'à environ -28 °C Arrosage : modéré, surtout la première année Sol : ordinaire, drainant, même légèrement calcaire Fleurs parfumées et mellifères Plantation À planter de préférence de février à mai ou d'octobre à décembre , hors gel. Il apprécie le soleil et une terre qui ne retient pas trop l'eau. Un bon arrosage à la plantation, puis quelques arrosages pendant les périodes sèches du premier été, l'aideront à bien s'installer. ✂️ Entretien Bonne nouvelle : ce buddleja est plutôt facile à vivre ! Une taille courte en février-mars , à environ 30 à 50 cm, favorise l'apparition de nouvelles pousses et une belle floraison. Pensez aussi à retirer les fleurs fanées pour limiter les semis spontanés. Idées d'associations : lavandes, gauras, graminées ou rosiers paysagers pour créer un massif fleuri et animé tout l'été. ⚠️ À savoir : le Buddleja davidii peut se ressemer abondamment et devenir envahissant dans certains milieux. Retirer les fleurs fanées avant la formation des graines est donc une bonne précaution. Un arbuste qui transforme le jardin en petit buffet pour les papillons… sans avoir besoin de leur envoyer une invitation !",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/arbre-a-papillons-tricolore-buddleja-davidii-empire-blue-pinkdelight-white-profusion-3432222",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6Mfj8/3432222_1/re/1200x1200/qt/90/3432222_1.jpg",
+    "detected_at": "2026-10-14T09:00:36+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures New Balance U740 - Raincloud Fan Blue, Tailles du 36 au 50",
+    "description": "59,95€ - Zalando On oublie pas le bon d'achat de 11% sur widilo ce qui fait tomber le prix à 53.35€ Détails du produit Amorti Abzorb dans la semelle intermédiaire pour une distribution optimale des forces et une absorption des chocs Bout de la chaussure :Rond Forme du talon :Plat Fermeture :Laçage Motif :Imprimé Informations additionnelles :Découpes Caractéristiques supplémentaires :Bout renforcé Semelle extérieure :Antidérapante Semelle intérieure :Préformée Référence :NE215P065-C15 Matière et entretien Matière extérieure :Tissu/matière synthétique Doublure :Textile Semelle intérieure :Textile Semelle d'usure :Matières synthétiques Épaisseur de la doublure :Doublure protégeant du froid Tissu :Mesh Conseils d'entretien :Appliquez un produit imperméabilisant adapté avant la première utilisation",
+    "price": 59.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/new-balance-u740-unisex-raincloudfan-blue-du-36-au-50-3432223",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gbvNG/3432223_1/re/1200x1200/qt/90/3432223_1.jpg",
+    "detected_at": "2026-10-14T08:59:41+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 59.95,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Halo Wars : Édition finale sur Xbox one et Xbox Series XIS (Dématérialisé)",
+    "description": "4,99€ - Xbox Store Play Anywhere L'Édition finale de Halo Wars offre une version améliorée du jeu de stratégie en temps réel original, spécialement développée pour Xbox One et Windows 10. Avec l'Édition finale de Halo Wars, qui se déroule lors des prémices de la guerre entre les Humains et l'Alliance covenante, rendue célèbre grâce aux différents FPS Halo, découvrez le théâtre des combats sous un angle tout à fait inédit avec de nouveaux héros. Prenez le contrôle de contingents importants dans des combats intenses. Profitez de graphismes améliorés, de nouveaux succès et de l'intégralité des contenus téléchargeables du célèbre jeu original. Replongez dans la campagne épique ou lancez-vous dans des combats multijoueur en ligne avec de puissantes armées sous vos ordres. L'Édition finale de Halo Wars est une version améliorée du jeu original pour Xbox One et Windows 10. *caractéristiques du produit:* - Graphismes améliorés - Nouveaux succès - Tous les contenus téléchargeables inclus",
+    "price": 4.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/edition-finale-de-halo-wars-3432217",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8JALj/3432217_1/re/1200x1200/qt/90/3432217_1.jpg",
+    "detected_at": "2026-10-14T08:58:12+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures Nike Air Max 90 Futura Wmns - Blanc, Tailles du 36 au 42 (Via Remise au Panier)",
+    "description": "68,59€ - The Village Outlet La Wmns Nike Air Max 90 Futura est une sneaker qui réinvente un classique avec audace et modernité. *caractéristiques du produit:* - Couture en dents de scie autour de la semelle extérieure - Cuir lisse - Logos Swoosh partiellement flottants",
+    "price": 68.59,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/via-remise-panier-wmns-nike-air-max-90-futura-du-365-au-42-3432220",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/rMJdE/3432220_1/re/1200x1200/qt/90/3432220_1.jpg",
+    "detected_at": "2026-10-14T08:54:16+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 68.59,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot aspirateur Laveur 2-en-1 Eufy Anker C30 Edge - LiDAR, 35 000 Pa, Station de Vidage (Vendeur Anker) - Via remise au panier",
+    "description": "549,34€ - Amazon Baisse de prix via remise au panier sur ce modèle : 639€ > Le modèle E35 est aussi en promo 999€ > 899€ avec un kit acccessoires offert > Livraison gratuite > Vendeur Anker Description Puissance d’aspiration de 35 000 Pa pour un nettoyage en profondeur des tapis : Élimine la poussière, les poils d’animaux et les fines particules profondément incrustés dans les fibres des tapis, pour un nettoyage en profondeur. Filtration multicyclonique AeroTurbo, aspiration puissante pendant 365 jours : Maintient 99,99 % de la poussière à l’écart du filtre et évite son obstruction afin de préserver une puissance d’aspiration optimale pendant 365 jours. Passez moins de temps à l’entretien et plus de temps à profiter d’une maison propre. MopMaster 3.0 pour une couverture étendue des bords : La serpillière extensible, guidée par un laser latéral capable de reconnaître plus de 100 profils de plinthes, longe les bords et atteint les coins en retrait. Une pression vers le bas de 10 N, des patins rotatifs à 180 tr/min (3 rotations par seconde) et une serpillière multicouche à double fibre travaillent ensemble pour nettoyer plus en profondeur et couvrir une plus grande surface. Brosse flottante anti-emmêlement pour un nettoyage sans nœuds : Dites adieu aux cheveux longs et aux poils d’animaux qui s’emmêlent. Sa conception en spirale contribue à empêcher les cheveux et les poils de s’enrouler autour de la brosse pour la maintenir propre. Détection intelligente des tapis et relevage automatique : Un laser frontal détecte à l’avance les bords des tapis et relève automatiquement la serpillière de 1,2 cm environ, afin de garder les tapis secs et de limiter les transferts de saleté. Navigation laser iPath 2.0 pour un nettoyage en toute sérénité : Planifie intelligemment les itinéraires de nettoyage et contourne les obstacles pour assurer un nettoyage continu, même dans les zones peu éclairées et sous les meubles. Station tout-en-un pour un entretien sans effort : Elle lave et sèche automatiquement la serpillière, gère l’eau, simplifie le nettoyage de la station et recharge l’appareil pendant les heures creuses. Le sac à poussière de 2,5 L permet jusqu’à 60 jours d’élimination des poussières sans intervention.",
+    "price": 549.34,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-2-en-1-eufy-anker-c30-edge-lidar-35-000-pa-station-de-vidage-vendeur-anker-via-remise-au-panier-3432219",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Xll8q/3432219_1/re/1200x1200/qt/90/3432219_1.jpg",
+    "detected_at": "2026-10-14T08:53:49+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0HKNVL1T4",
+    "price_history": [
+      {
+        "price": 549.34,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 100 Capsules Pompadour Infusion Rooibos Caramel & Cannelle",
+    "description": "1,99€ - Outlet PC Le Pack Pompadour Infusion Rooibos Caramel et Cannelle contient 100 capsules compatibles Nespresso. *caractéristiques du produit :* - Infusion douce et chaleureuse - Sans théine - Pouvoir antioxydant - Saveur caramel et cannelle - Compatible Nespresso - Contient 100 capsules (10 x 10) - Date de péremption : 27/11/2026",
+    "price": 1.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pack-pompadour-infusion-rooibos-caramel-et-cannelle-100-capsules-10-x-10-3432210",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jKo6h/3432210_1/re/1200x1200/qt/90/3432210_1.jpg",
+    "detected_at": "2026-10-14T08:52:32+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Casio MTP-M305M-1AVER",
+    "description": "65,99€ - Mondial Montres Indicateur de phase lunaire Après avoir saisi les données locales, la phase et l'âge de la lune s'affichent dynamiquement sur la montre. Affichage date et jour de la semaine La date ainsi que le jour de la semaine sont affichés. Verre minéral Le verre minéral dur et résistant aux rayures protège la montre des dommages inesthétiques. Bracelet en maille milanais La maille milanais apporte une touche très élégante à votre montre. Fermeture réglable La fermeture est facile à ajuster à votre poignet pour un confort maximal. 3 ans - 1 pile La pile procure à la montre l'énergie nécessaire pendant env. 3 ans. Classe d'étanchéité (5 bars) Il est possible de prendre une douche et un bain avec cette montre - son étanchéité a été testée jusqu'à 5 bars (ISO 22810).",
+    "price": 65.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-casio-mtp-m305m-1aver-3432214",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4sTmc/3432214_1/re/1200x1200/qt/90/3432214_1.jpg",
+    "detected_at": "2026-10-14T08:49:06+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 65.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jouet Lego Chateau de Poudlard 76447",
+    "description": "63,99€ - Amazon Jeu de construction pour enfants dès 9 ans avec une tour du château de sorciers – Rejouez les cours de Quidditch et de métamorphose avec le set LEGO Harry Potter Le château de Poudlard : les cours de vol débordant d’aventure Ce jouet de construction magique inclut 6 minifigurines LEGO Harry Potter – Harry Potter, Neville Londubat, Drago Malefoy, la professeure McGonagall, Madame Bibine et Olivier Dubois Set LEGO mettant en scène une salle de classe – Inclut un bâtiment dépliable avec la salle du matériel de Quidditch, la salle de classe de métamorphose, le bureau de la professeure McGonagall, la salle des trophées et des fonctions vol sur balai 2 portraits de Poudlard à collectionner (sur 14 au total) – Ce set LEGO Harry Potter plein de fantaisie et débordant d’aventures inclut 2 portraits de Poudlard (des 14 à collectionner) à accrocher dans la salle des trophées Idée de cadeau pour garçons et filles de 9 ans et plus – Ce jeu de construction magique est un superbe cadeau Harry Potter pour les enfants dès 9 ans, fans du Monde des Sorciers Une façon amusante de construire – L’appli LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive. Ils peuvent zoomer, faire pivoter les modèles en 3D, suivre leur progression et sauvegarder leurs sets Maquette collector Harry Potter – Cet objet décoratif fait partie d’une collection de sets modulaires (vendus séparément) qui se combinent pour créer un château de Poudlard en briques LEGO remarquablement détaillé",
+    "price": 63.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-harry-potter-le-chateau-de-poudlard-les-cours-de-vol-76447-3432213",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/EdCNl/3432213_1/re/1200x1200/qt/90/3432213_1.jpg",
+    "detected_at": "2026-10-14T08:48:36+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 63.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Casio A130WE-1AEF",
+    "description": "38,99€ - Mondial Montres En plus de posséder un design qui rappelle les gadgets que vous aimez tant, cette montre numérique est dotée d'un affichage analogique de l'heure. Le cadran rétro-futuriste associe des couleurs métalliques élégantes à des touches de couleurs vives, et vient ainsi témoigner d'une passion pour les gadgets. Audacieusement éclectique et pratique, elle est dotée de fonctionnalités utiles telles que la résistance à l'eau, le rétroéclairage LED, le chronomètre, l'alarme et bien plus encore. Informations de base Bracelet Bracelet en acier inoxydable Fermoir réglable Couleur Noir Étanchéité Etanchéité Matériau du boîtier et du cadre Résine/Chromé Poids 54.0 g Taille du boîtier (L× l× H) 40.5 x 33.9 x 9.0 mm Type d'affichage Numérique Extérieur Taille du boîtier Taille de bracelet compatible 150 à 205 mm Verre Verre en résine Fonctions de la montre Autres fonctions Format 12/24 heures Indication de l'heure standard : Numérique : Heure, minute, seconde, format 12 heures, mois, date, jour Calendrier Calendrier automatique complet (jusqu'à l'année 2099) Chronomètre Chronomètre au 1/100e de seconde Capacité de mesure : 23:59'59,99'' Modes de mesure : Temps écoulé, temps intermédiaire, temps des 1re et 2e places Couleur de la lumière LED : orange Éclairage Rétro-éclairage LED Durée de l'éclairage sélectionnable (1,5 ou 3 secondes), rémanence Fonction de mise en sourdine Activation/Désactivation de la tonalité des boutons Heure universelle Multihoraire (4 villes différentes) Heure mondiale 31 fuseaux horaires (48 villes + temps universel coordonné), activation/désactivation de l'heure d'été, changement de la ville de résidence/ville de l'heure mondiale Précision Précision : ±30 secondes par mois Retardateur Compte à rebours Unité de mesure : 1/10e de seconde Plage de compte à rebours : 24 heures Plage de réglage de l'heure de démarrage du compte à rebours : 1 seconde à 24 heures (incréments de 1 seconde, 1 minute et 1 heure) Signal alarme/des heures 5 alarmes quotidiennes ou alarmes ponctuelles Signal des heures",
+    "price": 38.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-casio-a130we-1aef-3432212",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/6NIZY/3432212_1/re/1200x1200/qt/90/3432212_1.jpg",
+    "detected_at": "2026-10-14T08:47:40+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 38.99,
+        "observed_at": "2026-10-14T09:16:33.724048+00:00"
       }
     ]
   },
@@ -12907,111 +13258,6 @@
       {
         "price": 69.99,
         "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Peluche Yoshi 60 cm",
-    "description": "34,99€ - Smyths Toys Découvrez la plus douce et la plus câline des peluches Super Mario ! Avec ses détails réalistes et son rembourrage doux, Yoshi est parfait pour les câlins ou pour jouer. Les fans de Super Mario et les collectionneurs adoreront le design authentique de cette peluche. Peluche issue de l'univers Super Mario Parfait pour jouer, câliner ou exposer Design réaliste et rembourrage doux Contenu : 1x peluche Yoshi Dimension : 60 H cm",
-    "price": 34.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/peluche-yoshi-60-cm-3431862",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4PoSf/3431862_1/re/1200x1200/qt/90/3431862_1.jpg",
-    "detected_at": "2026-10-13T17:01:44+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 34.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 10 Piles alcalines Energizer AAA ou AA",
-    "description": "1,99€ - Action Elles sont pas mal du tout, je les utilise pour les thermostats des radiateurs. Lot de 10 piles alcalines Energizer AAA ou AA Semaine Action du 14/10 au 20/10/2026",
-    "price": 1.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/piles-alcalines-energizer-aaa-ou-aa-3431861",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/0owPJ/3431861_1/re/1200x1200/qt/90/3431861_1.jpg",
-    "detected_at": "2026-10-13T17:00:08+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Deuxième coque de téléphone offerte sur les marques imoshion, Selencia & Accezz",
-    "description": "Coquedetelephone.fr Jusqu’à ce soir 23h59, achète une coque imoshion , Selencia ou Accezz et reçois la deuxième offerte. Utilise le code 1+1offert dans ton panier avant la fin du compte à rebours !",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coque-telephone-3431860",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YRFqP/3431860_1/re/1200x1200/qt/90/3431860_1.jpg",
-    "detected_at": "2026-10-13T16:57:31+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": []
-  },
-  {
-    "title": "Reconditionné : Aspirateur Dyson V15 Detect Absolute (grade parfait état)",
-    "description": "399,99€ - Veepee Aspirateur Dyson V15 Detect Absolute - Reconditionné grade parfait état Description Dyson V15 Detect Absolute - Reconditionné grade parfait état - Livraison offerte par Dyson Aspiration puissante, capture des allergènes, nettoie en profondeur. Idéal pour les foyers avec animaux. Dyson révèle la poussière microscopique¹. ¹Lumière intégrée conçue pour les sols durs. Son efficacité varie en fonction de la luminosité ambiante, du type de débris et du type de surface. Sa lumière révèle les particules invisibles à l’œil nu Sa lumière rend la poussière invisible, visible sur les sols durs pour qu’aucune poussière ne vous échappe. Mesure et compte les particules de poussières microscopiques Un capteur piézo mesure et compte en continu les particules de poussière - adaptant automatiquement la puissance en fonction du volume depoussière². Preuve scientifique d’un nettoyage en profondeur L’écran LCD affiche ce qui a été aspiré, affichant en temps réel la preuve scientifique d’un nettoyage en profondeur. Fonctionne avec le moteur numérique Hyperdymium™ Le moteur Dyson Hyperdymium™ tourne jusqu’à 125 000 tours/mn, générant 240 AW d’aspiration puissante pour un nettoyage en profondeur. Brosses et accessoires inclus Brosse Optic Fluffy™ Sa lumière rend la poussière invisible, visible sur les sols durs. Brosse conçue avec du nylon souple et des filaments en fibre de carbone antistatiques pour éliminer la poussière des sols durs et des espaces étroits. Avec profil bas pour aller sous les meubles. Brosse Digital Motorbar Avec un système de détection dynmique de la charge qui s’adapte automatiquement aux différents types de sols - pour nettoyer en profndeur les tapis et optimiser l’autonomie lors de l’aspiration sur les sols durs. La technnologe auto-démêlante enlève automatiquement les cheveux du rouleau de brosse. Accessoire combiné Large conduit pour les miettes et les grosses particules et brosse pour la poussière. Long suceur Pour nettoyer dans les endroits confinés. Station murale de chargement Pour recharger et ranger l’appareil et ses accessoires lorsqu’il n’est pas utilisé. Chargeur Recharge votre aspirateur, avec ou sans la station d’accueil. Produit reconditionné Dyson Qu’est-ce qu’un produit reconditionné? Ce produit est reconditionné, testé et vérifié par Dyson. Les produits reconditionnés Dyson disposent du même état fonctionnel qu’un produit neuf. La différence résidant seulement dans l’aspect esthétique du produit en fonction de son grade « Parfait état » ou « Très bon état ». Quelle est la garantie sur les produits reconditionnés ? Les produits reconditionnés disposent d’une garantie légale de 1 an. Un grade est disponible sur la vente : Le grade parfait état présente un aspect impeccable et peut présenter de très légères traces d’usure, invisibles à plus de 20 cm. Le produit dispose du même état fonctionnel qu’un produit neuf. La durabilité chez Dyson : Nos ingénieurs entreprennent un processus de certification rigoureux pour chaque élément technologique qu’ils reconditionnent. Cela comprend les tests de fonctionnalité, les contrôles de sécurité, l’inspection de la qualité, la propreté et les tests de normes cosmétiques. La démarche d’économie circulaire nous permet de récupérer les machines d’occasion auprès de nos utilisateurs, de les réparer et de les reconditionner. Cela nous permet, ainsi qu’aux acheteurs Dyson, de réduire les déchets et permet à notre technologie de fonctionner aussi longtemps que possible. La technologie de Dyson est conçue pour durer. Certification: Produit reconditionné Dyson. Une alternative durable à l’achat de neuf. Toutes les machines, pièces et accessoires Dyson sont conçus pour durer. En 2021, plus de 500 000 appareils Dyson ont pu avoir une seconde vie grâce à notre programme de reconditionnement.",
-    "price": 399.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/aspirateur-dyson-v15-detect-absolute-reconditionne-grade-parfait-etat-3431859",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pPEk2/3431859_1/re/1200x1200/qt/90/3431859_1.jpg",
-    "detected_at": "2026-10-13T16:55:17+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 399.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Blu-ray 4K L'Odyssée",
-    "description": "29,99€ - Cultura Le tant attendu \"L'odyssée\" de christopher Nolan enfin disponible à bon prix en précommande!",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-lodyssee-blu-ray-4k-3431858",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8074n/3431858_1/re/1200x1200/qt/90/3431858_1.jpg",
-    "detected_at": "2026-10-13T16:54:03+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   }
