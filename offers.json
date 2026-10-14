@@ -1,5 +1,89 @@
 [
   {
+    "title": "Siemens LZ11IXC16 Accessoire pour hotte",
+    "price": 253.62,
+    "reference_price": 292.91,
+    "discount_percent": 13.41,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07Y2L9DQC",
+    "image_url": "https://m.media-amazon.com/images/P/B07Y2L9DQC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:57:30",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 253.62,
+        "observed_at": "2026-10-14T11:58:49.558090+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Cogex 73281 Attrape boulon magnétique",
+    "price": 5.5,
+    "reference_price": 11.8,
+    "discount_percent": 53.39,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0026PA3XG",
+    "image_url": "https://m.media-amazon.com/images/P/B0026PA3XG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:57:29",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.5,
+        "observed_at": "2026-10-14T11:58:49.558090+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Cecotec Micro-ondes Proclean 3...Wave pour une cuisson uniforme",
+    "price": 64.9,
+    "reference_price": 74.9,
+    "discount_percent": 13.35,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DLLDFMMF",
+    "image_url": "https://m.media-amazon.com/images/P/B0DLLDFMMF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:57:23",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 64.9,
+        "observed_at": "2026-10-14T11:58:49.558090+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Filtre pour Hotte HEZ9VR...odeur Clean Air, charbon actif",
+    "price": 42.0,
+    "reference_price": 47.99,
+    "discount_percent": 12.48,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BFMMP6BC",
+    "image_url": "https://m.media-amazon.com/images/P/B0BFMMP6BC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:57:22",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 42.0,
+        "observed_at": "2026-10-14T11:58:49.558090+00:00"
+      }
+    ]
+  },
+  {
     "title": "CANDY - Plaque Induction - 4 Z...ords Droits - 59 x 52 x 6,2 cm",
     "price": 186.0,
     "reference_price": 219.0,
@@ -1229,7 +1313,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1250,7 +1334,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1271,7 +1355,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1452,7 +1536,7 @@
     "title": "Relaxdays Accessoires Salle de...Bambou, Ensemble Complet, Gris",
     "price": 25.88,
     "reference_price": 39.99,
-    "discount_percent": 35.28,
+    "discount_percent": 35.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B09G3BTD2H",
     "image_url": "https://m.media-amazon.com/images/P/B09G3BTD2H.01._AC_SL1500_.jpg",
@@ -1473,7 +1557,7 @@
     "title": "HÖGERT TECHNIK Pied de biche h...1200 x 19 mm, dureté HRC 42-48",
     "price": 13.87,
     "reference_price": 27.18,
-    "discount_percent": 48.97,
+    "discount_percent": 49.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CZRX92RY",
     "image_url": "https://m.media-amazon.com/images/P/B0CZRX92RY.01._AC_SL1500_.jpg",
@@ -1494,7 +1578,7 @@
     "title": "KS Tools 515.5545 Mini scie sabre pneumatique slimPOWER",
     "price": 158.54,
     "reference_price": 177.58,
-    "discount_percent": 10.72,
+    "discount_percent": 10.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07C8WT733",
     "image_url": "https://m.media-amazon.com/images/P/B07C8WT733.01._AC_SL1500_.jpg",
@@ -1515,7 +1599,7 @@
     "title": "Intenso Memory Safe Disque Dur...C et Mac + Ashampoo Backup Pro",
     "price": 85.99,
     "reference_price": 96.33,
-    "discount_percent": 10.73,
+    "discount_percent": 10.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0GHP99KWS",
     "image_url": "https://m.media-amazon.com/images/P/B0GHP99KWS.01._AC_SL1500_.jpg",
@@ -1523,7 +1607,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1536,7 +1620,7 @@
     "title": "Metabo BS 18 LT BL Perceuse-visseuse + Metaloc",
     "price": 148.46,
     "reference_price": 182.12,
-    "discount_percent": 18.48,
+    "discount_percent": 18.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01GFQTQXE",
     "image_url": "https://m.media-amazon.com/images/P/B01GFQTQXE.01._AC_SL1500_.jpg",
@@ -1544,7 +1628,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1557,7 +1641,7 @@
     "title": "Xerox C230dni A4 22ppm Couleur...il avec Impression Recto-Verso",
     "price": 189.99,
     "reference_price": 289.0,
-    "discount_percent": 34.26,
+    "discount_percent": 34.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B099X3HJQK",
     "image_url": "https://m.media-amazon.com/images/P/B099X3HJQK.01._AC_SL1500_.jpg",
@@ -1565,7 +1649,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1578,7 +1662,7 @@
     "title": "OMAJIN by Netatmo Sonnette vid..., Audio bidirectionnel, OVD-01",
     "price": 81.37,
     "reference_price": 134.9,
-    "discount_percent": 39.68,
+    "discount_percent": 39.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DBR5F5YX",
     "image_url": "https://m.media-amazon.com/images/P/B0DBR5F5YX.01._AC_SL1500_.jpg",
@@ -1586,7 +1670,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1599,7 +1683,7 @@
     "title": "Flamingo Harnais Step&Go Berta...échissant pour Chat | Taille S",
     "price": 11.48,
     "reference_price": 19.99,
-    "discount_percent": 42.57,
+    "discount_percent": 42.6,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0FD42FCDD",
     "image_url": "https://m.media-amazon.com/images/P/B0FD42FCDD.01._AC_SL1500_.jpg",
@@ -1607,7 +1691,7 @@
     "category": "Animaux",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1620,7 +1704,7 @@
     "title": "Kerbl Pet Niche Douillette Anne - Vert - 45 x 40 x 34 cm",
     "price": 18.99,
     "reference_price": 29.52,
-    "discount_percent": 35.67,
+    "discount_percent": 35.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D6C11T4N",
     "image_url": "https://m.media-amazon.com/images/P/B0D6C11T4N.01._AC_SL1500_.jpg",
@@ -1628,7 +1712,7 @@
     "category": "Animaux",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1641,7 +1725,7 @@
     "title": "Pure Moment Réveil de Chevet e...euse, Affichage Réglable) Noir",
     "price": 89.99,
     "reference_price": 109.72,
-    "discount_percent": 17.98,
+    "discount_percent": 18.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D7GWJQX1",
     "image_url": "https://m.media-amazon.com/images/P/B0D7GWJQX1.01._AC_SL1500_.jpg",
@@ -1662,7 +1746,7 @@
     "title": "MAIMERI Classico - Set Débutan...couleurs à l'huile super fines",
     "price": 42.97,
     "reference_price": 48.09,
-    "discount_percent": 10.65,
+    "discount_percent": 10.6,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00SRKIDTA",
     "image_url": "https://m.media-amazon.com/images/P/B00SRKIDTA.01._AC_SL1500_.jpg",
@@ -1683,7 +1767,7 @@
     "title": "CORSAIR SF750 (2024) Alimentat...pport SFX-to-ATX Inclus – Noir",
     "price": 124.9,
     "reference_price": 164.9,
-    "discount_percent": 24.26,
+    "discount_percent": 24.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D5HY3F9X",
     "image_url": "https://m.media-amazon.com/images/P/B0D5HY3F9X.01._AC_SL1500_.jpg",
@@ -1704,7 +1788,7 @@
     "title": "Tristar Set à fondue1,5 L pour...laboussures, facile à nettoyer",
     "price": 26.99,
     "reference_price": 36.99,
-    "discount_percent": 27.03,
+    "discount_percent": 27.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07JK6XRF3",
     "image_url": "https://m.media-amazon.com/images/P/B07JK6XRF3.01._AC_SL1500_.jpg",
@@ -1746,7 +1830,7 @@
     "title": "Tristar WF-1170 Gaufrier à cor... Moule à cornet inclus - 700 W",
     "price": 19.99,
     "reference_price": 30.89,
-    "discount_percent": 35.29,
+    "discount_percent": 35.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07TS8JPBY",
     "image_url": "https://m.media-amazon.com/images/P/B07TS8JPBY.01._AC_SL1500_.jpg",
@@ -7857,6 +7941,72 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SSD Interne Cusu CV3500Q - 1 To, NVMe M2, PCIe 3.0",
+    "description": "106,59€ - AliExpress Numéro de Modèle SSD Application Ordinateur de bureau,Ordinateur portable Taille 1.8\" Nom de marque CUSU Origine CN (Origine) Type externe Style disque dur NVMe SSD Size M.2 2280 CV3500/CV3500Q/CV3500M Interface PCIe3.0 x4 CV5000/CV7000/CV7000-P Interface PCIe4.0 x4 QLC/TLC Random shipment",
+    "price": 106.59,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ssd-interne-cusu-cv3500q-1-to-nvme-m2-pcie-30-3432338",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/O2Df4/3432338_1/re/1200x1200/qt/90/3432338_1.jpg",
+    "detected_at": "2026-10-14T11:54:52+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://fr.aliexpress.com/item/1005008942339629.html",
+    "price_history": [
+      {
+        "price": 106.59,
+        "observed_at": "2026-10-14T11:58:49.558090+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Écouteurs sans fil à conduction osseuse Shokz Open Run Pro 2 - Orange",
+    "description": "108,33€ - AliExpress 1. Double haut-parleur pour un son supérieur Grâce à la technologie DualPitch exclusive de SHOKZ, ces écouteurs combinent parfaitement la conduction osseuse et la conduction aérienne, redéfinissant ainsi la norme sonore pour l'écoute à oreilles libres. Les deux transducteurs travaillent en synergie pour offrir une expérience d'écoute inégalée : un son net, clair et puissant, qui brise les limitations sonores des appareils à oreilles libres traditionnels. 2. Conception à oreilles libres : Équilibre entre sécurité et expérience Grâce à la conception à oreille ouverte emblématique de SHOKZ, les utilisateurs peuvent profiter de la musique, des podcasts et bien plus encore tout en perçant clairement les sons environnants (tels que les alertes de circulation et les conversations). Cela assure efficacement la sécurité lors d'activités de plein air comme les trajets quotidiens ou le sport. De plus, les écouteurs optimisent intelligemment la plage de volume, rendant le contenu audio plus distinct, même dans des environnements extérieurs bruyants. 3. Optimisation ergonomique pour un ajustement confortable et sécurisé Conçus pour un port prolongé, les écouteurs sont équipés de crochets d'oreille ergonomiques et d'une structure intégrée. Ils restent bien en place sans glisser, éliminant le besoin d'ajustements fréquents. La surface de contact élargie entre les crochets d'oreille et la tête répartit uniformément la pression. Combiné à la conception profilée du bandeau, cela réduit la pression lors d'un port prolongé — garantissant un confort aussi durable que votre liste de lecture, répondant aux besoins d'utilisation toute la journée. 4. Microphones coupe-vent pour des appels clairs Les microphones sont positionnés dans des zones à faible bruit de vent afin de minimiser les interférences dues au vent lors des appels en extérieur. Une structure interne spéciale bloque de manière significative le flux d'air avant qu'il n'atteigne les microphones intégrés. Même par temps venteux, les écouteurs garantissent une qualité d'appel claire et transparente, améliorant ainsi l'efficacité de la communication en extérieur. 5. Longue autonomie et recharge rapide pratique - Une fois complètement chargés, les écouteurs offrent jusqu'à 12 heures de lecture musicale continue, répondant ainsi aux besoins des trajets quotidiens, du sport, des voyages d'affaires et d'autres situations. -Ils prennent en charge la charge rapide via un port USB-C : seulement 5 minutes de charge offrent 2,5 heures d'écoute, ce qui rend les recharges d'urgence plus efficaces. -Compatible avec les câbles USB-C universels, ils peuvent être chargés à l'aide du câble inclus ou de votre propre câble USB-C existant, aucun adaptateur supplémentaire n'est requis.",
+    "price": 108.33,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-a-conduction-osseuse-shokz-open-run-pro-2-orange-3432337",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DaPVn/3432337_1/re/1200x1200/qt/90/3432337_1.jpg",
+    "detected_at": "2026-10-14T11:54:17+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://fr.aliexpress.com/item/1005011567357886.html",
+    "price_history": [
+      {
+        "price": 108.33,
+        "observed_at": "2026-10-14T11:58:49.558090+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Eau de Parfum Tom Ford Noir Extreme",
+    "description": "120,69€ - JoyBuy Prix excellent pour du Tom Ford pour le format 100 mL en version \"Parfum\" (la plus intense de la gamme), disponible à ce prix chez Joybuy. Attention à ne pas confondre : on est bien ici sur la concentration Parfum (le flacon entièrement métallisé doré), qui est plus riche, plus cuirée et normalement bien plus chère que l'Eau de Parfum classique (flacon noir translucide). Notes olfactives majeures : • Tête : Cardamome, Gingembre de Shimoga, Mandarine, Néroli • Cœur : Accord Kulfi (le fameux dessert indien lacté et safrané), Rose de Bulgarie, Fleur d'oranger • Fond : Cuir, Daim, Vanille, Ambre, Fève tonka, Bois de gaïac À titre de comparaison, le prix de référence en parfumerie classique est de 257€ chez Sephora, la remise est donc massive.",
+    "price": 120.69,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tom-ford-noir-extreme-eau-de-parfum-3432335",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/C0xwI/3432335_1/re/1200x1200/qt/90/3432335_1.jpg",
+    "detected_at": "2026-10-14T11:53:42+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 120.69,
+        "observed_at": "2026-10-14T11:58:49.558090+00:00"
       }
     ]
   },
@@ -15120,94 +15270,6 @@
     "price_history": [
       {
         "price": 64.62,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Blouson coupe-vent léger Army Placebo Jott",
-    "description": "45€ - JOTT Belle remise sur le blouson coupe-vent PLACEBO de JOTT, affiché à 45 € au lieu de 150 €, soit une réduction de 70 % et 105 € d’économie sur le site officiel de la marque. Avec son coloris Army, ce modèle affiche un style urbain et moderne, idéal pour la mi-saison, les sorties en extérieur ou les journées venteuses. Sa matière extérieure en polyamide ripstop est conçue pour couper le vent, tandis que sa doublure intérieure en mesh favorise la respirabilité. Caractéristiques : - Marque : JOTT - Modèle : PLACEBO - Couleur : Army - Prix : 45 € au lieu de 150 € - Matière extérieure : 100 % polyamide - Doublure : 100 % polyester - Coupe : droite et courte - Fermeture : zip - Capuche : avec cordons de serrage - Col haut ajustable - Deux poches latérales avec grands rabats - Poignets et taille ajustables grâce à des cordons de serrage Le tissu est annoncé comme coupe-vent et résistant à l'eau, pour protéger des éclaboussures et des pluies modérées. Il ne s'agit toutefois pas d'une veste imperméable destinée aux fortes averses. Le modèle est indiqué comme taillant normalement, avec un conseil de choisir sa taille habituelle. Plusieurs tailles sont proposées sur la page, de S à XXL selon les disponibilités. À 45 € pour un blouson JOTT initialement vendu 150 €, la réduction est intéressante si vous cherchez une veste légère avec un look streetwear.",
-    "price": 45.0,
-    "reference_price": 150.0,
-    "discount_percent": 70.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/blouson-coupe-vent-leger-army-placebo-jott-3431917",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gyOSm/3431917_1/re/1200x1200/qt/90/3431917_1.jpg",
-    "detected_at": "2026-10-13T18:47:09+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 45.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Machine à Café jouet Fisher-Price Café Musical Learn & Serve",
-    "description": "25,99€ - Amazon Fisher price café learn jouet multilingue À propos de ce produit Les tout-petits peuvent s’amuser à « préparer », servir et partager leur café avec ce jouet interactif d’apprentissage imitant une station de barista, qui contient plus de 100 chansons, sons, mélodies et phrases 10 accessoires de jeu : comprend 2 tasses à café avec leur couvercle, un pichet à lait, une cuillère, un macaron et un croissant, un sac à emporter et un porte-boisson 3 niveaux Éveil Progressif permettent d’apprendre l’alphabet, les formes, les chiffres et les séquences, le partage et bien plus encore. Utilisez le bouton en forme de globe pour sélectionner une langue : anglais, allemand ou français 5 activations ! Appuyez sur 4 boutons ou tournez le bouton du mousseur à lait pour entendre des sons réalistes, de la musique et des phrases. Ajoutez des grains dans le réservoir et faites glisser le porte-filtre pour entendre un cliquetis Favorise le développement de la motricité fine et globale, initie à la relation de cause à effet et encourage le jeu d’imitation chez les enfants de 18 mois et plus Commentaires client",
-    "price": 25.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/machine-a-cafe-jouet-3431913",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZFib3/3431913_1/re/1200x1200/qt/90/3431913_1.jpg",
-    "detected_at": "2026-10-13T18:41:47+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 75\" Philips The One 75PQS9001 - 2026, Ambilight, QLED, 144Hz (via ODR de 100€)",
-    "description": "914,37€ - Icoza Lien de l'ODR: https://www.philips.fr/c-w/promotions/ambilight-cashback + un code d’activation pour un jeu Assassin’s Creed offert pour les 1000 premiers participants À retenir de la TV PHILIPS 75PQS9001 TV LCD à rétroéclairage LED et avec QLED Diagonale : 189 cm (74\") TV Ultra HD (4K) : 3840 x 2160 TV Ambilight 3 / AmbiScape (3 canaux) Fluidité : Dalle 100/120Hz • VRR 144Hz • Interpolation 120Hz (MEMC) • Boost 240Hz (2K Virtualization) Traitements spéciaux : HDR (HDR10, HDR10+, HDR HLG, Dolby Vision 2) • Micro Dimming Pro • FreeSync Premium Système Audio 2.0 de 40 W RMS Tuner : TNT • Satellite • Câble Smart TV : Internet • Wi-Fi • Bluetooth • Lecteur multimédia réseau • AirPlay 2 • Alexa / Auracast / Control4 / Google Home / HomeKit / Matter Assistants : Google • Alexa Série / Design : The One Classe énergie : F | G (HDR)",
-    "price": 914.37,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-75-philips-the-one-2026-ambilight-qled-144hz-via-odr-de-100eur-3431915",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3p5gM/3431915_1/re/1200x1200/qt/90/3431915_1.jpg",
-    "detected_at": "2026-10-13T18:40:51+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 914.37,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de quilles finlandaises en bois - 12 quilles et 1 lanceur en pin",
-    "description": "5,99€ - GiFi Jeu de quilles finlandaises en bois GiFi - 12 quilles et 1 lanceur en pin Jeu de quilles finlandaises comprenant 12 quilles en bois numérotées et 1 lanceur. Les quilles mesurent 5 cm de diamètre pour 15 cm de hauteur, et le lanceur a une hauteur de 22 cm. Fabriqué en bois de pin, ce jeu est accessible dès l'âge de 3 ans. i.fr/3594190952/FR-2026-S42-V99/index.html#page/28-29 Prix : 5,99€ Frais de port : Offert en retrait magasin Code promo : Aucun Caractéristiques du produit Âge recommandé : dès 3 ans Diamètre : 5 cm Hauteur quille : 15 cm Hauteur Mölkky : 22 cm Matière(s) : bois Coloris : naturel Description du produit Ce jeu de plein air est composé de quilles numérotées et d'un lanceur en bois pour des parties conviviales. Fabriqué en bois naturel , il allie simplicité et plaisir pour toute la famille. Idéal pour jouer en extérieur, il permet de stimuler l'adresse et le calcul mental . Comprend 12 quilles et 1 Mölkky.",
-    "price": 5.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-quilles-finlandaises-en-bois-12-quilles-et-1-lanceur-en-pin-3431914",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/nEvcU/3431914_1/re/1200x1200/qt/90/3431914_1.jpg",
-    "detected_at": "2026-10-13T18:40:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.99,
         "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
