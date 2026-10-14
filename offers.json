@@ -1,5 +1,89 @@
 [
   {
+    "title": "I Provenzali Shampooing Graines De Lin 250 Ml",
+    "price": 6.63,
+    "reference_price": 12.9,
+    "discount_percent": 48.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00BCKU4VM",
+    "image_url": "https://m.media-amazon.com/images/P/B00BCKU4VM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 21:13:51",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.63,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Korres Shampooing Usage Fréque... Aloes & Dictame 250ml O300157",
+    "price": 6.7,
+    "reference_price": 9.8,
+    "discount_percent": 31.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B007JK3XS0",
+    "image_url": "https://m.media-amazon.com/images/P/B007JK3XS0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 21:13:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.7,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Amidomio Euphidra Shampooing après-shampoing 200 ml",
+    "price": 6.46,
+    "reference_price": 13.57,
+    "discount_percent": 52.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01MS9UVRL",
+    "image_url": "https://m.media-amazon.com/images/P/B01MS9UVRL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 21:13:46",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.46,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hazet 995S-T40 Douille mâle à ... mm torx intérieur Taille T 40",
+    "price": 13.73,
+    "reference_price": 20.71,
+    "discount_percent": 33.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001C9Z5EE",
+    "image_url": "https://m.media-amazon.com/images/P/B001C9Z5EE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 21:13:45",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.73,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
+      }
+    ]
+  },
+  {
     "title": "WELLA Color Fresh Mascarilla Rubio Perla, 150 ml",
     "price": 16.09,
     "reference_price": 19.15,
@@ -11104,102 +11188,112 @@
     ]
   },
   {
-    "title": "Majorette - Giftpack Anniversa...éhicules Exclusifs - 212054101",
-    "price": 16.79,
-    "reference_price": 23.99,
-    "discount_percent": 30.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CM6KYTX6",
-    "image_url": "https://m.media-amazon.com/images/P/B0CM6KYTX6.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 08:44:44",
-    "category": "Autre",
+    "title": "Lampe extérieure H20cm POPPY coloris vert",
+    "description": "3€ - Conforama Les points forts BATTERIE RECHARGEABLE IP44 ET TOUCH INTENSITE LUMINEUSE VARIABLE Description Diamètre : 12 cm Coloris: vert Type de douille : LED intégrée Matériaux : Plastique Garantie+ : 3 ans Standard Réparation et déplacement du technicien ou échange à neuf en cas d’irréparabilité Jusqu’à 20% de remise sur un nouveau produit (en cas de non mise en œuvre de la garantie)",
+    "price": 3.0,
+    "reference_price": 6.0,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lampe-exterieure-h20cm-poppy-coloris-vert-3432679",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/puzJ0/3432679_1/re/1200x1200/qt/90/3432679_1.jpg",
+    "detected_at": "2026-10-14T21:10:03+00:00",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 16.79,
-        "observed_at": "2026-10-13T08:45:57.048564+00:00"
-      },
-      {
-        "price": 16.79,
-        "observed_at": "2026-10-14T08:48:30.564398+00:00"
+        "price": 3.0,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
   {
-    "title": "D-Link DGS-1510-28X/E, 28-Port...n d'alimentation UE Uniquement",
-    "price": 347.68,
-    "reference_price": 394.41,
-    "discount_percent": 11.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00PS1KYUM",
-    "image_url": "https://m.media-amazon.com/images/P/B00PS1KYUM.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 08:39:08",
-    "category": "Autre",
+    "title": "anciennes collections, à prix remisés : sandales, baskets, bottines, pour femme, homme & enfant,",
+    "description": "Anciennes collections, à prix remisés : sandales, baskets, bottines, pour femme & enfant de -24 à -40 %",
+    "price": 75.9,
+    "reference_price": 110.0,
+    "discount_percent": 31.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/anciennes-collections-a-prix-remises-sandales-baskets-bottines-pour-femme-homme-enfant-3432678",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Crb0s/3432678_1/re/1200x1200/qt/90/3432678_1.jpg",
+    "detected_at": "2026-10-14T21:07:47+00:00",
+    "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 347.68,
-        "observed_at": "2026-10-13T08:40:10.328937+00:00"
-      },
-      {
-        "price": 347.68,
-        "observed_at": "2026-10-14T08:48:30.564398+00:00"
+        "price": 75.9,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
   {
-    "title": "Paulmann 70604 Function MaxLED...aud, 33W, 230/24V, 75VA argent",
-    "price": 83.52,
-    "reference_price": 94.59,
-    "discount_percent": 11.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B014D2LB9Y",
-    "image_url": "https://m.media-amazon.com/images/P/B014D2LB9Y.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 08:30:06",
+    "title": "Lot de 2 pots de Crème Céramide Protection Mixa Expert Peau Sensible - 400ml",
+    "description": "10,18€ - Amazon Livraison gratuite en Amazon Locker",
+    "price": 10.18,
+    "reference_price": 12.0,
+    "discount_percent": 15.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mixa-expert-peau-sensible-creme-ceramide-protection-anti-secheresse-severe-peaux-tres-seches-et-fragilisees-400ml-lot-de-2-3432677",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/H8VTX/3432677_1/re/1200x1200/qt/90/3432677_1.jpg",
+    "detected_at": "2026-10-14T21:04:56+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0GSZ51DY7?ref_=chk_typ_imgToDp&th=1",
     "price_history": [
       {
-        "price": 83.52,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      },
-      {
-        "price": 83.52,
-        "observed_at": "2026-10-14T08:48:30.564398+00:00"
+        "price": 10.18,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
   {
-    "title": "CORSAIR Frame 4000D Wood RS Bo...i-affaissement – Blanc & Chêne",
-    "price": 124.04,
-    "reference_price": 142.49,
-    "discount_percent": 12.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GF9L2P4J",
-    "image_url": "https://m.media-amazon.com/images/P/B0GF9L2P4J.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 08:30:06",
-    "category": "Autre",
+    "title": "Coque Tocol pour iPhone 18 Pro Max + protection écran (Vendeur Tiers)",
+    "description": "9,92€ - Amazon [Amazon] Coque TOCOL pour iPhone 18 Pro Max + protection écran Une coque TOCOL pour protéger l’iPhone 18 Pro Max au quotidien. Caractéristiques : Protection contre les rayures et les petits chocs Découpes adaptées aux boutons et aux connecteurs Design conçu pour l’iPhone 18 Pro Max Installation et retrait faciles Prix : à vérifier sur Amazon Lien de l’offre : https://www.amazon.fr/TOCOL-iPhone-18-Pro-Max/dp/B0H5NSP83S ⚠️ Vérifiez le prix final, le vendeur et la disponibilité avant de commander. À propos de ce produit Installation Automatique Révolutionnaire : Conçu spécifiquement pour iPhone 18 Pro Max 6,9 pouces, ce système intègre un alignement automatique, un dispositif d'élimination de la poussière et une technologie d'adhérence instantanée. Grâce à une procédure simple en trois étapes — poser, appuyer, tirer — vous obtenez une pose parfaite en quelques secondes et profitez d'une expérience d'installation inédite 1:1 Couverture Plein écran : Ce vitre protection pour iPhone 18 Pro Max présente une conception sans raccord couvrant toute la surface, il épouse parfaitement l'écran et empêche efficacement l'infiltration de poussière, de particules et de fibres. Avec une épaisseur de seulement 0,33 mm, il est compatible avec la plupart des coques de téléphone du marché et n'entraînera pas le décollement des bords Dureté 9H+ de Qualité Militaire : Ce protection pour iPhone 18 Pro Max utilise une technologie d'échange d'ions triple couche pour une résistance supérieure aux chutes et aux chocs. Résiste efficacement aux dommages causés par les clés, les pièces de monnaie et les chutes accidentelles. Utilisez votre appareil en toute sérénité, que vous soyez en déplacement ou en vacances Expérience Visuelle Haute Définition et Confortable : Fabriqué en verre optique haute transparence de qualité supérieure, il reproduit fidèlement les couleurs éclatantes et les détails délicats de l'écran. Tout en conservant une image nette et lumineuse, elle réduit la fatigue oculaire causée par la lumière bleue, idéale pour de longues périodes passées à naviguer sur les réseaux sociaux, à jouer à des jeux ou à travailler, vous offrant une expérience visuelle détendue et confortable Toucher Sensible : Un nano-revêtement unique anti-traces de doigts procure un toucher d'une grande douceur et garantit une réactivité tactile rapide et précise lors des sessions de jeu. La conception aux bords arrondis offre un toucher agréable et fluide, sans angles vifs. Un revêtement hydrophobe et oléophobe de pointe résiste efficacement aux traces de doigts et aux taches, préservant ainsi la netteté de l'écran tout au long de la journée Commentaires client",
+    "price": 9.92,
+    "reference_price": 12.46,
+    "discount_percent": 20.4,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/amazon-coque-tocol-pour-iphone-18-pro-max-protection-ecran-3432676",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NHwlS/3432676_1/re/1200x1200/qt/90/3432676_1.jpg",
+    "detected_at": "2026-10-14T20:56:35+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/TOCOL-iPhone-18-Pro-Max/dp/B0H5NSP83S",
+    "price_history": [
+      {
+        "price": 9.92,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PC portable 16\" MSI Crosshair HX AI - RTX 5070, Intel 255HX, QHD+ 240 Hz, 16 Go, 512 Go (Sélection de villes)",
+    "description": "1 260,42€ - Darty -10% en plus jusqu'à demain 9h avec le code \"PC10\", soit retour d'un très bon prix vu le marché actuel pour cette config ! Plus d'infos si besoin dans le précédent deal à 1400€ (étant à presque 1000°c...) ou ici avec l'historique des précédents deals . Attention disponible en Retrait dans certains magasins seulement. ❖ Caractéristiques et description : Ecran 16\" QHD+ (2560x1600), 240Hz, 16:10, 100 % DCI-P3, dalle de niveau IPS Processeur Intel® Core™ Ultra 7 255HX - Nvidia GeForce RTX 5070 RAM 16 Go DDR5 - Stockage 512 Go SSD Microsoft Windows 11 + Wi-Fi 6E AX211 - Bluetooth v5.3 Processeur Intel® Core™ Ultra 7 255HX. Carte graphique GeForce® pour des performances impressionnantes. Le mode GPU discret (MUX) pousse les performances du GPU à leur niveau le plus haut. De son côté, la technologie MSI Overboost exclusive libère toute la puissance du CPU et du GPU. Technologie de refroidissement Cooler Boost 5 exclusive avec deux ventilateurs et cinq caloducs en cuivre. Libérez tout le potentiel de l’ordinateur grâce au support de la mémoire DDR5 dernière génération. Clavier à 24 zones de rétroéclairage LED RGB personnalisables via Mystic Light dans MSI Center. Clavier numérique physique pour une utilisation plus pratique. La technologie audio Nahimic 3 délivre une expérience immersive à 360⁰ et un son surround 3D dans les jeux. Compatibilité à la norme Hi-Res Audio pour une immersion totale dans une musique fidèle et réaliste. Applications exclusives basées sur l’IA avec AI Robot et MSI AI Engine qui améliorent l’expérience utilisateur de manière intelligente.",
+    "price": 1260.42,
+    "reference_price": 1815.0,
+    "discount_percent": 30.6,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pc-portable-msi-crosshair-hx-ai-rtx-5070-intel-255hx-16-qhd-240-hz-16-go-512-go-retrait-magains-code-valable-jusqua-demain-9h-3432674",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/L8ZWZ/3432674_1/re/1200x1200/qt/90/3432674_1.jpg",
+    "detected_at": "2026-10-14T20:55:17+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 124.04,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      },
-      {
-        "price": 124.04,
-        "observed_at": "2026-10-14T08:48:30.564398+00:00"
+        "price": 1260.42,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -14762,7 +14856,7 @@
     "description": "Decathlon De 5% à 30 % de réduction sur une sélection de produits sur le site et l'application Décathlon. La commence demain, mais le code fonctionne déjà",
     "price": 5.99,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 30.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/codes-promo/5-a-30-de-reduction-sur-une-selection-darticles-3432461",
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/83_4/re/1200x1200/qt/90/83_4.jpg",
@@ -15978,9 +16072,9 @@
   {
     "title": "30% en ticket e.Leclerc sur une sélection de téléviseurs (Lg, Hisense, Samsung, Tcl)",
     "description": "E.Leclerc Sélection de TV (TCL, Hisense, Samsung, LG) : 30% en Ticket E.Leclerc (Samedi 17 octobre) Offre intéressante chez E.Leclerc pour les adeptes du \"Ticket E.Leclerc\" : 30% reversés sur la carte sur une sélection de téléviseurs (marques Hisense, LG, TCL, Samsung) ce samedi 17 octobre . C'est l'occasion de faire de belles affaires si vous aviez prévu de changer de TV, surtout que l'opération concerne plusieurs diagonales et technologies (QLED, Mini-LED, UHD 4K). Détails de l'offre : • Enseigne : E.Leclerc • Offre : 30% en Ticket E.Leclerc avec la Carte • Date : Valable le samedi 17 octobre uniquement • Marques concernées : Hisense, LG, TCL, Samsung • Retrait : Gratuit en 2h (Click & Collect selon les magasins participants)",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
+    "price": 509.99,
+    "reference_price": 786.75,
+    "discount_percent": 35.2,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/30-en-ticket-eleclerc-sur-une-selection-de-televiseurs-lg-hisense-samsung-tcl-3432396",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jnwFt/3432396_1/re/1200x1200/qt/90/3432396_1.jpg",
@@ -15990,7 +16084,12 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 509.99,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
+      }
+    ]
   },
   {
     "title": "3 Boxer Nike Coton - Tailles M & L, Bleu Et Noir",
@@ -16150,8 +16249,8 @@
     "title": "Lot de 3 Tablettes de 100g de Chocolat au Lait Noisettes Lindt L'Authentique",
     "description": "5,02€ - Amazon Lait Noisettes : l'alliance gourmande du croquant de savoureux éclats de noisettes et du fondant incomparable du chocolat au lait Lindt FORMAT LOT DE 3x100G : idéal pour une pause gourmande en famille ou entre amis L'EXPERTISE LINDT : Lindt est fier de proposer des chocolats d'une qualité et d'une finesse incomparables depuis 1845, en alliant avec justesse un cacao de haute qualité aux meilleurs ingrédients QUALITÉ SUPÉRIEURE : Chez Lindt, la passion et l'amour pour le chocolat se retranscrivent à chaque étape, de la sélection des fèves de cacao à la conception du chocolat par les Maîtres Chocolatiers Lindt LINDT S'ENGAGE en faveur du développement durable en assurant la traçabilité de 100 % de ses fèves de cacao jusqu'à leur origine et en les soumettant à une vérification externe",
     "price": 5.02,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 7.2,
+    "discount_percent": 30.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lot-de-3-tablettes-de-chocolat-au-lait-noisettes-lindt-lauthentique-3x100g-3432386",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/cSQI8/3432386_1/re/1200x1200/qt/90/3432386_1.jpg",
@@ -16172,8 +16271,8 @@
     "title": "Jouet Lego Animal Crossing 77056 Les collections du musée de Thibou",
     "description": "41,99€ - Carrefour Un set bientôt retiré à un prix très compétitif. N'oubliez pas de payer par carte cadeau pour gratter 5%'supplémentaires.",
     "price": 41.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 60.0,
+    "discount_percent": 30.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lego-animal-crossing-77056-les-collections-du-musee-de-thibou-3432387",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/VWIH9/3432387_1/re/1200x1200/qt/90/3432387_1.jpg",
@@ -16194,8 +16293,8 @@
     "title": "Lot de 2 Poêles Inox Tefal Duetto On - 24 / 28 cm, Tous feux dont induction",
     "description": "39,99€ - Amazon Bon tarif pour des poêles inox Tefal de ces diamètres. > Livraison gratuite Description RÉSULTATS CROUSTILLANTS: Découvrez une autre expérience de la cuisine grâce à une surface intérieure texturée sans revêtement idéale pour de la viande et des légumes croustillants et dorés CUISSON RAPIDE ET HOMOGÈNE: Une base épaisse qui diffuse la chaleur pour une cuisson rapide et des plats savoureux, vous permettant de passer moins de temps en cuisine et plus de temps à profiter ACIER INOXYDABLE GARANTI 10ANS: Assure des performances et une fiabilité longue durée pour des produits au design robuste, conçus pour résister au fil des années POIGNÉE ERGONOMIQUE: un design ergonomique pour plus de confort et de sécurité FORMATS INDISPENSABLES: pour réaliser des recettes simplissimes qui plairont à coup sûr, telles que des omelettes, des steaks hachés et du poulet grillé",
     "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 59.99,
+    "discount_percent": 33.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lot-de-2-poeles-inox-tefal-duetto-on-24-28-cm-tous-feux-dont-induction-3432385",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/p8xzl/3432385_1/re/1200x1200/qt/90/3432385_1.jpg",
@@ -16216,8 +16315,8 @@
     "title": "Robot Aspirateur Laveur Dreame L10S Ultra Gen3 Set - avec Station, Blanc",
     "description": "379€ - Boulanger Le Robot Aspirateur Laveur DREAME L10S Ultra Gen3 Set est un appareil de nettoyage puissant et efficace. **spécifications du produit :** - Puissance d'aspiration de 25 000 Pa - Moteur TurboForce de 6ème génération - Efficace sur sols durs, tapis et moquettes - Élimine les gros débris comme la litière pour chat - Technologie de nettoyage avancée",
     "price": 379.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 399.0,
+    "discount_percent": 5.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-dreame-l10s-ultra-gen3-set-3432381",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1mHuP/3432381_1/re/1200x1200/qt/90/3432381_1.jpg",
@@ -16237,9 +16336,9 @@
   {
     "title": "VTT Enduro Carbone Lapierre Spicy CF Team - RockShox Flight Attendant 180mm, SRAM X0, AXS, Capteur puissance, SRAM Maven 4 pistons, S à XL",
     "description": "4 499€ - Statera Bikes C'est le sommet de la gamme Enduro chez Lapierre ! Le Spicy CF Team passe à 4 666,00 € au lieu de 10 000,00 €, soit -53 % de remise réelle (-5 334 €) . On parle ici d'un montage ultra haut de gamme (\"Superbike\") équipé des toutes dernières technologies du marché : suspensions électroniques intelligentes RockShox Flight Attendant , transmission sans fil SRAM X0 T-Type avec capteur de puissance et les nouveaux freins surpuissants SRAM Maven . ⚙️ Spécifications techniques d'exception : Cadre : Full Carbone HIGH, débattement 180 mm. Suspensions Électroniques Intelligentes : Fourche RockShox ZEB Ultimate Flight Attendant Boost 180 mm (gestion auto de la compression selon le terrain). Amortisseur RockShox Vivid Flight Attendant à air . Transmission Sans Fil T-Type : Groupe complet SRAM X0 Eagle AXS T-Type 12s (montage direct sur cadre sans patte de dérailleur). Pédalier SRAM X0 avec capteur de puissance intégré (Quarq Power Meter). Freinage : Nouveaux freins SRAM DB Maven Silver 4 pistons 200 mm (le frein le plus puissant de chez SRAM). Tige de selle : RockShox Reverb AXS (télescopique 100 % sans fil). Train roulant : Jantes DT Swiss EX 1700 Spline 30 mm + pneus Continental Kryptotal F & R . Pour mettre en perspective : la fourche et l'amortisseur Flight Attendant, la tige de selle Reverb AXS, le groupe X0 T-Type avec capteur de puissance et les freins Maven dépassent déjà les 4 500 € en pièces détachées au prix de détail. C'est l'équivalent d'acheter le groupe et les suspensions au prix fort et d'avoir le cadre carbone et les roues DT Swiss offerts. Les + : -5 334 € d'économie réelle sur le plus haut de gamme de la marque Écosystème électronique complet SRAM AXS / Flight Attendant (moteur, capteurs, suspensions) Capteur de puissance SRAM X0 intégré d'origine Freins SRAM Maven Silver",
-    "price": 4666.0,
+    "price": 4499.0,
     "reference_price": 10000.0,
-    "discount_percent": 53.3,
+    "discount_percent": 55.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/vtt-enduro-carbone-lapierre-spicy-cf-team-rockshox-flight-attendant-180mm-sram-x0-axs-capteur-puissance-sram-maven-4-pistons-s-a-xl-3432382",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jUAp8/3432382_1/re/1200x1200/qt/90/3432382_1.jpg",
@@ -16253,6 +16352,10 @@
       {
         "price": 4666.0,
         "observed_at": "2026-10-14T13:33:56.296091+00:00"
+      },
+      {
+        "price": 4499.0,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -16260,8 +16363,8 @@
     "title": "Boîte de rangement empilable à 4 niveaux avec portes magnétiques et roulettes - 180 L - 31 x 55 x 111 cm - Blanc",
     "description": "34,19€ - Songmics > Ajoutez le code ATOLLSRLB450 > Livraison offerte Les atouts de ces boîtes empilables en bref : Grande capacité : 4 niveaux cumulant 180 L de rangement pour vos vêtements, chaussures, fournitures de bureau ou articles de salle de bain. Montage express : Ces boîtes se montent en quelques gestes et se replient tout aussi facilement quand vous n’en avez plus besoin. Polyvalentes et faciles à déplacer : Idéales pour la chambre, le salon, la salle de bain ou la cuisine, elles se déplacent sans effort grâce aux roulettes silencieuses intégrées. Double porte magnétique : Accès rapide à leur contenu, même lorsque les boîtes sont empilées. Grâce à l’aimant, la porte se ferme toute seule et reste bien fermée. Matériau en plastique PP : Ces boîtes sont conçues en plastique PP épaissi et dotées de nervures de renfort. Caractéristiques : Couleur : Blanc Matériau : Plastique PP (polypropylène) Dimensions totales : 31 x 55 x 111 cm (P x L x H) Dimensions par niveau (sans roulettes) : 25,5 x 42,7 x 23 cm (P x L x H) Capacité par niveau : 45 L Poids : 4,9 kg Capacité de charge statique maximale par boîte : 4 kg Livraison : 1 x Organiseur à 4 niveaux Précautions de SONGMICS : Cette tour de rangement comprend 4 paniers et un couvercle. Ne surchargez pas ces boîtes de rangement. Ne déplacez pas ces boîtes sur de longues distances lorsqu’elles sont entièrement remplies. Avant de les déplacer, assurez-vous que les freins des roulettes sont complètement déverrouillés.",
     "price": 34.19,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 55.99,
+    "discount_percent": 38.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/boite-de-rangement-empilable-a-4-niveaux-avec-portes-magnetiques-et-roulettes-180-l-31-x-55-x-111-cm-blanc-3432383",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/5CfwW/3432383_1/re/1200x1200/qt/90/3432383_1.jpg",
@@ -16283,7 +16386,7 @@
     "description": "1 096,28€ - LG ● Prix sympa pour ce pack Comment obtenir ce prix ? Grâce à un code MACIF AVANTAGES -15% + ODR de 200€ Barre de son vendu 200€ sur AMAZON La TV LG OLED55C66LB.S60T001 est un téléviseur intelligent de 55 pouces conçu pour offrir une expérience visuelle optimale. *caractéristiques du produit:* - Écran OLED de 55 pouces (139 cm) - Résolution 4K - Plateforme webOS avec fonctions smart AI - Modèle 2026",
     "price": 1096.28,
     "reference_price": null,
-    "discount_percent": 15.0,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/macif-avantages-tv-55-lg-oled55c6-2026-oled-4k-uhd165-hz-vrr-hdr10-dolby-vision-barre-de-son-51-s60tr-via-odr-de-200eur-3432378",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Yr9zM/3432378_1/re/1200x1200/qt/90/3432378_1.jpg",
@@ -16326,8 +16429,8 @@
     "title": "Friteuse à Air Chaud En Verre Tristar - 4,2 et 2,2 litres, 1 500 watts",
     "description": "49,88€ - Action Promotion valable : - Semaine action du 21/10 au 27/10. Friteuse à air chaud en verre Tristar - 4,2 et 2,2 litres | 1 500 watts Description : Fonctions multiples : de la friture au maintien au chaud Moins d’huile nécessaire qu’une friteuse normale. Avec plats en verre et grilles de cuisson. Préparez les repas les plus délicieux avec cette friteuse à air chaud facile à utiliser ! Pratique, délicieux, facile et rapide. Caractéristiques : Avec interrupteur marche / arrêt : Oui Avec minuteur : Oui Puissance ; 1500 Puissance : 1500 watt Type d'alimentation : Secteur Voltage : 240 Voltage : 240 Volt Numéro de l'article : 3225219",
     "price": 49.88,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 69.96,
+    "discount_percent": 28.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/friteuse-a-air-chaud-en-verre-tristar-42-et-22-litres-1-500-watts-3432373",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/v8Q50/3432373_1/re/1200x1200/qt/90/3432373_1.jpg",
@@ -16348,8 +16451,8 @@
     "title": "Écouteurs sans Fil Apple AirPods 5 Bluetooth, Réduction active du bruit, Traduction en direct, Boîtier de charge USB-C - (Vendeur Carrefour)",
     "description": "129€ - TikTok Shop Produit vendu et expédié par Carrefour :D Pour celles et ceux qui ne connaissent pas TikTok Shop, il s'agit de la Marketplace de l'application TikTok. Vous trouverez des vendeurs comme Carrefour, Darty, Boulanger, ... qui sont présents sur cette plateforme et qui vendent des produits. Il s'agit bien évidemment de produits officiels et qui disposent d'une facture, comme si vous l'achetiez directement dans ces magasins. Pour obtenir ce prix, il faut obligatoirement cliquer via le lien du deal et avoir l'application TikTok. Ces offres ne sont pas accessibles via un navigateur web ou mobile. Caractéristiques & Spécifications : RÉDUCTION ACTIVE DU BRUIT. Grâce à la Réduction active du bruit améliorée, les AirPods 5 atténuent les bruits extérieurs, à un prix plus accessible que jamais. ENTENDEZ CE QU’IL SE PASSE AUTOUR DE VOUS. L’Audio adaptatif allie la Réduction active du bruit et le mode Transparence de façon à optimiser l’expérience audio en fonction de l’environnement où vous vous trouvez. Et quand vous vous mettez à parler, la Détection des conversations baisse automatiquement le volume du son diffusé. TRADUCTION EN DIRECT. Grâce à Apple Intelligence, Traduction en direct vous permet de communiquer sans frontières. QUALITÉ DU SON ET DES APPELS AMÉLIORÉE. Profitez d’une meilleure qualité sonore grâce à l’Égalisation adaptative nouvelle génération. Avec Isolement de la voix, le traitement audio informa­­tique avancé réduit le bruit de fond et clarifie le son de votre voix pour améliorer la qualité des appels dans les environnements bruyants. AUDIO SPATIAL PERSONNALISÉ. L’Audio spatial personnalisé avec suivi dynamique des mouvements de la tête vous plonge au cœur d’un son à 360°, et vous offre une expérience d’écoute comme au cinéma pour la musique, les films, les séries TV, les jeux et bien plus. ULTRA-CONFORTABLES. Avec leur design ouvert iconique, les AirPods 5 s’ajustent parfaitement à vos oreilles pour vous offrir un confort optimal. Et ils ne craignent pas la pluie ni les efforts intensifs. Classés IP57, ils résistent à la poussière, à la transpiration et à l’eau.5 AUTONOMIE PROLONGÉE. Jusqu’à 4 heures d’écoute avec Réduction active du bruit sur une seule charge et jusqu’à 20 heures d’écoute au total en utilisant le boîtier. BOÎTIER DE CHARGE USB‑C. Les AirPods 5 sont fournis avec un Boîtier de charge USB‑C ultra‑compact. Vidéos & Tests : [shortcode id=\"20619169\"/][shortcode id=\"20619170\"/][shortcode id=\"20619171\"/]",
     "price": 129.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 149.0,
+    "discount_percent": 13.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-apple-airpods-5-bluetooth-reduction-active-du-bruit-traden-direct-boitier-de-charge-usb-c-vendeur-carrefour-3432376",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/2NMtA/3432376_1/re/1200x1200/qt/90/3432376_1.jpg",
@@ -17218,8 +17321,8 @@
     "title": "Set de Clés en croix Parkside PRSK 6 B2 - Avec repose-genoux, 6 pièces",
     "description": "18,99€ - Lidl Set : 6 pièces Caractéristique : Manomètre de pression des pneus avec échelle en psi et bar PARKSIDE® Set de clés en croix, PRSK 6 B2 avec repose-genoux, 6 pièces Caractéristiques Set d'outils pour voiture avec repose-genoux pratique 2-en-1 : support confortable et rangement peu encombrant Clé en croix avec 4 ouvertures de clé courantes pour les boulons de roue de voiture Le repose-genoux s'adapte au genou et reprend sa forme d'origine Manomètre de pression des pneus avec échelle en psi et bar Jauge de profondeur de profil de pneu avec échelle de vernier par pas de 0,1 mm pour une détermination précise de la profondeur de profil Lampe d'inspection LED avec lumière spot et latérale, aimant pratique et crochet – 3 piles incluses, 1,5 V⎓ (AAA/LR03) Craie de marquage pour identifier les pneus stockés Ouverture de clé de la clé en croix : 17, 19, 21, 23 mm Plage de mesure de la pression des pneus : 10–100 psi/0,7–6,8 bar Plage de mesure de la profondeur de profil : 0–50 mm Puissance de la lumière spot/latérale : 1 W/3 W Couleur de la craie de marquage : Blanc",
     "price": 18.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 19.99,
+    "discount_percent": 5.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/set-de-cles-en-croix-parkside-prsk-6-b2-avec-repose-genoux-6-pieces-3432328",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/JimNj/3432328_1/re/1200x1200/qt/90/3432328_1.jpg",
@@ -17262,8 +17365,8 @@
     "title": "Étagère De Garage GoodHome Ryle - En Acier Thermo-laqué H.179 x L.75 x P.35 cm, Noir",
     "description": "19,90€ - Castorama L'étagère de garage GoodHome Ryle en acier thermo-laqué noir est une solution de stockage robuste et pratique. Idéale pour les garages, ateliers ou caves, elle s'assemble rapidement sans outils grâce à son système de clipsage innovant. Ses plateaux en HDF et sa structure résistante assurent une stabilité maximale. Sa garantie de 10 ans en fait un choix durable pour ranger vos outils et charges lourdes en toute sécurité Caractéristiques : - Dimensions: H.179 x L.75 x P.35 cm - Matériau: acier thermo-laqué noir - Capacité de charge totale: 500 kg - Capacité de charge par plateau: 100 kg - Plateaux réglables en HDF - Assemblage sans outils avec système de clipsage - Fabriquée en Europe - Idéale pour garages, ateliers ou caves",
     "price": 19.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 29.9,
+    "discount_percent": 33.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/etagere-de-garage-en-acier-thermo-laque-noir-h179-x-l75-x-p35-cm-goodhome-ryle-3432326",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/59QnC/3432326_1/re/1200x1200/qt/90/3432326_1.jpg",
@@ -19264,8 +19367,8 @@
     "title": "Halo Wars : Édition finale sur Xbox one et Xbox Series XIS (Dématérialisé)",
     "description": "4,99€ - Xbox Store Play Anywhere L'Édition finale de Halo Wars offre une version améliorée du jeu de stratégie en temps réel original, spécialement développée pour Xbox One et Windows 10. Avec l'Édition finale de Halo Wars, qui se déroule lors des prémices de la guerre entre les Humains et l'Alliance covenante, rendue célèbre grâce aux différents FPS Halo, découvrez le théâtre des combats sous un angle tout à fait inédit avec de nouveaux héros. Prenez le contrôle de contingents importants dans des combats intenses. Profitez de graphismes améliorés, de nouveaux succès et de l'intégralité des contenus téléchargeables du célèbre jeu original. Replongez dans la campagne épique ou lancez-vous dans des combats multijoueur en ligne avec de puissantes armées sous vos ordres. L'Édition finale de Halo Wars est une version améliorée du jeu original pour Xbox One et Windows 10. *caractéristiques du produit:* - Graphismes améliorés - Nouveaux succès - Tous les contenus téléchargeables inclus",
     "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 19.99,
+    "discount_percent": 75.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/edition-finale-de-halo-wars-3432217",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/8JALj/3432217_1/re/1200x1200/qt/90/3432217_1.jpg",
@@ -19308,8 +19411,8 @@
     "title": "Robot aspirateur Laveur 2-en-1 Eufy Anker C30 Edge - LiDAR, 35 000 Pa, Station de Vidage (Vendeur Anker) - Via remise au panier",
     "description": "549,34€ - Amazon Baisse de prix via remise au panier sur ce modèle : 639€ > Le modèle E35 est aussi en promo 999€ > 899€ avec un kit acccessoires offert > Livraison gratuite > Vendeur Anker Description Puissance d’aspiration de 35 000 Pa pour un nettoyage en profondeur des tapis : Élimine la poussière, les poils d’animaux et les fines particules profondément incrustés dans les fibres des tapis, pour un nettoyage en profondeur. Filtration multicyclonique AeroTurbo, aspiration puissante pendant 365 jours : Maintient 99,99 % de la poussière à l’écart du filtre et évite son obstruction afin de préserver une puissance d’aspiration optimale pendant 365 jours. Passez moins de temps à l’entretien et plus de temps à profiter d’une maison propre. MopMaster 3.0 pour une couverture étendue des bords : La serpillière extensible, guidée par un laser latéral capable de reconnaître plus de 100 profils de plinthes, longe les bords et atteint les coins en retrait. Une pression vers le bas de 10 N, des patins rotatifs à 180 tr/min (3 rotations par seconde) et une serpillière multicouche à double fibre travaillent ensemble pour nettoyer plus en profondeur et couvrir une plus grande surface. Brosse flottante anti-emmêlement pour un nettoyage sans nœuds : Dites adieu aux cheveux longs et aux poils d’animaux qui s’emmêlent. Sa conception en spirale contribue à empêcher les cheveux et les poils de s’enrouler autour de la brosse pour la maintenir propre. Détection intelligente des tapis et relevage automatique : Un laser frontal détecte à l’avance les bords des tapis et relève automatiquement la serpillière de 1,2 cm environ, afin de garder les tapis secs et de limiter les transferts de saleté. Navigation laser iPath 2.0 pour un nettoyage en toute sérénité : Planifie intelligemment les itinéraires de nettoyage et contourne les obstacles pour assurer un nettoyage continu, même dans les zones peu éclairées et sous les meubles. Station tout-en-un pour un entretien sans effort : Elle lave et sèche automatiquement la serpillière, gère l’eau, simplifie le nettoyage de la station et recharge l’appareil pendant les heures creuses. Le sac à poussière de 2,5 L permet jusqu’à 60 jours d’élimination des poussières sans intervention.",
     "price": 549.34,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 639.0,
+    "discount_percent": 14.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-2-en-1-eufy-anker-c30-edge-lidar-35-000-pa-station-de-vidage-vendeur-anker-via-remise-au-panier-3432219",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Xll8q/3432219_1/re/1200x1200/qt/90/3432219_1.jpg",
@@ -19330,8 +19433,8 @@
     "title": "Lot de 100 Capsules Pompadour Infusion Rooibos Caramel & Cannelle",
     "description": "1,99€ - Outlet PC Le Pack Pompadour Infusion Rooibos Caramel et Cannelle contient 100 capsules compatibles Nespresso. *caractéristiques du produit :* - Infusion douce et chaleureuse - Sans théine - Pouvoir antioxydant - Saveur caramel et cannelle - Compatible Nespresso - Contient 100 capsules (10 x 10) - Date de péremption : 27/11/2026",
     "price": 1.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 7.9,
+    "discount_percent": 74.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/pack-pompadour-infusion-rooibos-caramel-et-cannelle-100-capsules-10-x-10-3432210",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jKo6h/3432210_1/re/1200x1200/qt/90/3432210_1.jpg",
@@ -19374,8 +19477,8 @@
     "title": "Jouet Lego Chateau de Poudlard 76447",
     "description": "63,99€ - Amazon Jeu de construction pour enfants dès 9 ans avec une tour du château de sorciers – Rejouez les cours de Quidditch et de métamorphose avec le set LEGO Harry Potter Le château de Poudlard : les cours de vol débordant d’aventure Ce jouet de construction magique inclut 6 minifigurines LEGO Harry Potter – Harry Potter, Neville Londubat, Drago Malefoy, la professeure McGonagall, Madame Bibine et Olivier Dubois Set LEGO mettant en scène une salle de classe – Inclut un bâtiment dépliable avec la salle du matériel de Quidditch, la salle de classe de métamorphose, le bureau de la professeure McGonagall, la salle des trophées et des fonctions vol sur balai 2 portraits de Poudlard à collectionner (sur 14 au total) – Ce set LEGO Harry Potter plein de fantaisie et débordant d’aventures inclut 2 portraits de Poudlard (des 14 à collectionner) à accrocher dans la salle des trophées Idée de cadeau pour garçons et filles de 9 ans et plus – Ce jeu de construction magique est un superbe cadeau Harry Potter pour les enfants dès 9 ans, fans du Monde des Sorciers Une façon amusante de construire – L’appli LEGO Builder guide les enfants et leur permet de vivre une aventure de construction intuitive. Ils peuvent zoomer, faire pivoter les modèles en 3D, suivre leur progression et sauvegarder leurs sets Maquette collector Harry Potter – Cet objet décoratif fait partie d’une collection de sets modulaires (vendus séparément) qui se combinent pour créer un château de Poudlard en briques LEGO remarquablement détaillé",
     "price": 63.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 78.0,
+    "discount_percent": 18.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lego-harry-potter-le-chateau-de-poudlard-les-cours-de-vol-76447-3432213",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/EdCNl/3432213_1/re/1200x1200/qt/90/3432213_1.jpg",
@@ -19418,8 +19521,8 @@
     "title": "CHAUSSURES PADEL ASICS GEL CHALLENGER 15 L.E",
     "description": "76€ - Tennispro Côté « court » : La chaussure Gel Challenger Padel a été créée pour offrir aux joueurs de tous les niveaux un modèle stable et confortable. Cette 15ème version est fidèle à ce constat et saura séduire les joueurs les plus exigeants. Nouveauté de cette édition, l'empeigne est réalisée à 100% à partir de cuir synthétique, avec une doublure en mesh, pour favoriser le confort mais également le maintien du pied. La technologie Gel , présente au talon va maximiser l' amorti mais également assurer de meilleures redémarrages. Sur l'extérieur du pied, la technologie Wingwall 2.0 va améliorer toujours plus la stabilité lors des déplacements latéraux afin de les sécuriser. La semelle extérieure, dédiée à la pratique du padel grâce à ses différentes technologies, propose une excellente adhérence à la piste et va faciliter changements de direction et rotations. Côté « technique » : - Rearfoot GEL® : unités de Gel placées au niveau du talon pour améliorer l'amorti et augmenter le dynamisme - Renfort P-Guard : Résistance renforcée autour des orteils et sur les points d'usure - AHAR+ : caoutchouc le plus résistant qui soit, placé sur les zones-clés de la semelle extérieure, pour vous offrir encore plus d'adhérence et de durabilité. - Semelle de propreté Ortholite à mémoire de forme - Wingwall 2.0 : Paroi présente à l'extérieur du pied qui va améliorer la stabilité lors des déplacements latéraux.",
     "price": 76.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 130.0,
+    "discount_percent": 41.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/chaussures-padel-asics-gel-challenger-15-le-3432211",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/trCFz/3432211_1/re/1200x1200/qt/90/3432211_1.jpg",
@@ -19440,8 +19543,8 @@
     "title": "Montre Casio ABL-100WE-1BEF",
     "description": "43,99€ - Mondial Montres Bluetooth® Smart La montre est équipée d’une technologie Bluetooth® économe en énergie permettant l’échange de données d’une simple pression sur un bouton. La fonction Bluetooth® permet de connecter sans fil la montre à un smartphone, donnant ainsi accès à une multitude de fonctionnalités très pratiques. Smartphone time Si l'horloge est couplé au smartphone, le temps est réglé automatiquement et afficher l'heure actuelle si le monde entier. Éclairage LED Le cadran de la montre est éclairé par une diode électroluminescente. Compteur de pas La montre mesure le nombre de pas parcourus. Deuxième fuseau horaire Une seconde heure locale peut être réglée et consultée. Une option idéale si vous téléphonez fréquemment outre-mer, par exemple. Chronomètre 1/100 s - 24 heures Mesure le temps écoulé avec une précision au 1/100ème de seconde sur une durée maximale de 24 heures. Le signal sonore confirme le lancement et l'arrêt du chronomètre. Mémoire 200 tours Cette mémoire permet d'enregistrer des chronométrages, durées de tours et temps intermédiaires datés en vue d'une consultation ultérieure. Un bloc de données est constitué des informations suivantes : date, chronométrage, durée de tour et temps intermédiaires. La mémoire peut stocker 200 blocs de données de ce type. Comptes à rebours - 1/1 sec - 1 heure Pour tous ceux qui aiment la précision : les comptes à rebours vous rappellent les évènements importants ou récurrents en émettant un signal acoustique à la date et l'heure réglées. Le temps peut être programmé en secondes, 1 heure maximum à l'avance - un atout particulièrement appréciable pour la prise quotidienne de médicaments ou les entraînements répétés. 5 alarmes quotidiennes Une alarme sonore vous rappelle quotidiennement vos échéances à l'heure programmée. Ce modèle dispose de cinq alarmes indépendantes pour vous rappeler en toute flexibilité vos rendez-vous importants. Marche/Arrêt bip sonore des touches Le bip sonore des touches peut être désactivé avec la touche de mode. Après la désactivation, il n'y a plus de bip sonore au passage d'une fonction à l'autre. Les alarmes ou comptes à rebours programmés restent cependant actifs après la désactivation du bip sonore des touches. Fonction trouver mon téléphone Vous avez égaré votre smartphone ? Il vous suffit d'appuyer sur un des boutons de la montre pour que votre smartphone émette une alarme. Calendrier automatique Une fois programmé, le calendrier automatique affiche toujours la date correcte. Format de l'heure 12/24 heures Vous pouvez afficher l'heure au format 12 heures ou 24 heures. Verre acrylique L'acrylique est très résistant aux chocs. Bracelet en acier inoxydable Solide, durable et élégant : le bracelet en acier inoxydable est un classique horloger incontournable. Fermeture réglable La fermeture est facile à ajuster à votre poignet pour un confort maximal. Indicateur de niveau des batteries Un symbole indique le moment où un changement de batterie est nécessaire. 2 ans - 1 pile La pile procure à la montre l'énergie nécessaire pendant env. 2 ans. Classe d'étanchéité (WR) d'après ISO 22810 Ce modèle est étanche d'après DIN 8310, ISO 22810, supporte donc facilement de légères projections. Il faut éviter tout contact intense avec l'eau.",
     "price": 43.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 49.99,
+    "discount_percent": 12.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/montre-casio-abl-100we-1bef-3432209",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/huu56/3432209_1/re/1200x1200/qt/90/3432209_1.jpg",
@@ -19703,9 +19806,9 @@
   {
     "title": "[Sur Inscription] Formation gratuite Premiers Secours Citoyen (PSC) - La Roche-Maurice (29)",
     "description": "Le CCAS de La Roche-Maurice organise une Formation Gratuite Premiers Secours Citoyen (PSC). Elle aura lieu le Samedi 14 Novembre 2026 de 09h à 17h, dans la Salle du Conseil de la Mairie. Inscription Obligatoire dès à présent en contactant la Mairie au 02.98.20.43.57 ou par mail mairie@larochemaurice.fr Infos",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
+    "price": 188.98,
+    "reference_price": 206.0,
+    "discount_percent": 8.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/formation-gratuite-premiers-secours-citoyen-psc-la-roche-maurice-29-3432196",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/kWpxW/3432196_1/re/1200x1200/qt/90/3432196_1.jpg",
@@ -19715,7 +19818,12 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 188.98,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
+      }
+    ]
   },
   {
     "title": "Lunettes de Soleil Ray-ban Zuri Bio-Based RB4455",
@@ -19853,8 +19961,8 @@
     "title": "Système d’alarme sans fil connecté KYF-ALARM-015 - WiFi/4G RFID, Compatible Tuya, Alexa, Google",
     "description": "99€ - Brico Dépôt Kit vendu sur le site de la marque, chez Castorama ou Amazon à 149,90€, disponible en arrivage à 99€ Description Le kit alarme connecté KYF-ALARM-015 est une solution de sécurité complète et évolutive, conçue pour protéger votre domicile ou votre entreprise. Grâce à sa centrale WiFi et/ou 4G LTE avec écran, lecteur RFID et assistance vocale, il permet une surveillance fiable avec notifications push, SMS ou appels, où que vous soyez. Points forts : • Centrale d’alarme digitale WiFi et/ou 4G LTE • Détection d’ouverture porte/fenêtre et mouvement PIR • Transmetteur téléphonique GSM vocal intégré • Sirène stroboscopique puissante 110 dB • Notifications Push / SMS / Appels • Contrôle via application Android & iOS • Compatible Alexa & Google Home • Solution évolutive : jusqu’à 180 accessoires • Accessoires préprogrammés – installation rapide Composition du kit : • Centrale d’alarme digitale WiFi / 4G avec écran & lecteur RFID • Sirène stroboscopique sans fil à brancher • 2 détecteurs de mouvement PIR (immunité animaux £15 kg) • 4 détecteurs d’ouverture porte / fenêtre ultra slim • 2 télécommandes multifonctions (Armer / Désarmer / SOS) • 4 badges RFID avec chaînette Caractéristiques techniques principales : Connectivité WiFi 2,4 GHz et/ou 4G LTE (SIM non incluse) Fréquence radio accessoires 868 MHz Sirène 110 dB avec flash lumineux Lecteur RFID 125 kHz – distance 1 à 2 cm Batterie secours centrale Lithium 3,7 V – 500 mAh Portée accessoires Jusqu’à 120 m (champ libre) Température de fonctionnement n -10 °C à +55 °C Nombre d’accessoires max. Jusqu’à 180 Installation facile et rapide : Les détecteurs, la sirène et les accessoires sont préprogrammés d’usine. La centrale se connecte automatiquement aux périphériques et se configure facilement via l’application dédiée, sans câblage. Inclus dans la boîte : • Centrale d’alarme x1 • Sirène sans fil à brancher x1 • Télécommandes x2 • Badges RFID x4 • Détecteurs d’ouverture x4 • Détecteurs de mouvement PIR x2 • Câble USB x1 • Adaptateur secteur x1 • Guide utilisateur • Vis & chevilles Idéal pour : ✔ Maisons et appartements (résidence principale ou secondaire) ✔ Commerces, bureaux et locaux professionnels ✔ Garages, entrepôts et dépendances ✔ Personnes souhaitant surveiller leur domicile à distance ✔ Utilisateurs recherchant une alarme connectée, évolutive et sans câblage ✔ Logements avec animaux domestiques (détecteurs compatibles ≤ 15 kg) ✔ Intégration domotique avec Alexa et Google Home",
     "price": 99.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 149.9,
+    "discount_percent": 34.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/systeme-dalarme-sans-fil-connecte-wifi4g-rfid-kyf-alarm-015-compatible-tuya-alexa-google-3432185",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Wx5DG/3432185_1/re/1200x1200/qt/90/3432185_1.jpg",
@@ -20205,8 +20313,8 @@
     "title": "Kit Tasseaux claustras séparateur de pièces et étagères Foge - l.60 x H.250 cm, MDF effet chêne",
     "description": "59,90€ - Castorama Pas mal pour une séparation de pièce tout en gardant de la place pour du rangement par exemple Caractéristiques du produit Divisez vos espaces avec élégance grâce au claustra Foge en MDF décor chêne. Ce panneau ajouré de 60 x 250 cm est idéal pour structurer votre intérieur sans perdre en luminosité. Facile à installer grâce à son kit prépercé et ses vis fournies, ce modèle recoupable convient aux bricoleurs novices comme aux experts. Sa structure robuste garantit une excellente tenue dans le temps. C'est la solution d'aménagement parfaite pour créer un coin bureau, délimiter une entrée ou isoler un espace nuit de manière moderne. Retrouvez ce modèle exclusif et pratique chez Castorama. Décor chêne chaleureux : apporte une touche naturelle et esthétique à votre décoration. Dimensions généreuses de 60 x 250 cm pour structurer de grands volumes du sol au plafond. Installation rapide grâce au kit prépercé et aux vis de fixation qui sont incluses. Structure recoupable en hauteur pour un ajustement précis et sur mesure selon vos pièces. Cloisonnement ajouré qui sépare l'espace avec style sans jamais bloquer la lumière du jour. Conception robuste en MDF assurant une excellente stabilité et une grande solidité. Montage simple et accessible pour tous les profils de bricoleurs, du débutant à l'expert. Idéal pour délimiter une entrée, un salon, une chambre ou même un espace de bureau. Entretien facile au quotidien avec un chiffon doux pour conserver son aspect d'origine. Solution gain de place moderne pour structurer votre intérieur sans travaux lourds.",
     "price": 59.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 99.9,
+    "discount_percent": 40.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/kit-tasseaux-claustras-separateur-de-pieces-et-etageres-foge-l60-x-h250-cm-mdf-effet-chene-3432165",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/qTmRX/3432165_1/re/1200x1200/qt/90/3432165_1.jpg",
@@ -20271,8 +20379,8 @@
     "title": "Paire D'Haltères Joyfurnos - En néoprène, 2 x 1,5 kg",
     "description": "4,89€ - JoyBuy Sécurisé : Un néoprène à faible odeur enveloppe entièrement le noyau en fonte – pour un entraînement agréable Prise agréable : Poignée ergonomique à surface mate – tient bien en main et reste parfaitement sûre Fitness : Favorise la réduction de la masse grasse, des bras plus fermes et des muscles plus forts Stable : noyau massif en fonte pour une longue durée de vie ; la forme hexagonale empêche tout roulage Couleur tendance : Des teintes vives et intenses qui attirent le regard et apportent une motivation supplémentaire Ces haltères courts associent un noyau en fonte entièrement recouvert de néoprène à faible odeur à une poignée ergonomique mate, agréable en main et antidérapante, même lors d’entraînements intensifs et transpirants. Leur forme hexagonale robuste empêche tout roulage et assure une bonne stabilité au sol. Idéales pour un entraînement ciblé de force et d’endurance, ces haltères aident à réduire la masse grasse, à raffermir les bras et à développer efficacement la musculature des épaules et du haut du corps. Leurs couleurs tendance et vives apportent une touche visuelle dynamique et une motivation supplémentaire à chaque séance d’entraînement./n/nRemarques : Le poids des haltères peut varier jusqu’à 3 %. Pour des raisons de sécurité, ne pas les stocker en hauteur. Après l’entraînement, les reposer avec précaution afin d’éviter les blessures. Éviter le contact direct avec les sols en bois massif pour prévenir tout dommage. Spécifications : Poids : 2 x 1,5 kg Matériau : fonte, revêtement en néoprène Couleur : orange Contenu du colis : 2 haltères de 1,5 kg chacune",
     "price": 4.89,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 13.99,
+    "discount_percent": 65.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/paire-dhalteres-joyfurnos-en-neoprene-2-x-15-kg-3432160",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/0LXIG/3432160_1/re/1200x1200/qt/90/3432160_1.jpg",
@@ -20315,8 +20423,8 @@
     "title": "Plaque de toiture ondulée acier Ondométal - Anthracite, Rouge ou Graphite, 300 x 90 cm",
     "description": "26,73€ - Castorama Baisse de prix sur les 3 couleurs (Graphite, Rouge et Anthracite) Caractéristiques du produit La tôle ONDOMETAL nervurée SED900 est la solution idéale pour la réalisation de toitures solides et durables. Conçue en acier galvanisé, elle offre une excellente résistance aux intempéries et à la corrosion, garantissant une protection fiable dans le temps. Son profil nervuré assure une bonne rigidité ainsi qu’une évacuation efficace de l’eau de pluie, même en cas de fortes précipitations. Facile à poser, elle convient aussi bien aux projets de rénovation qu’aux constructions neuves. Informations supplémentaires Produit économique Léger, facile à transporter et à mettre en oeuvre Résistant et durable Spécifications techniques Type d'article Plaque de toiture ondulée Marque Sedpa France Lieu Extérieur Compatibilité Compatible avec la gamme d'accessoires SED900 Couleur Graphite Longueur (cm) 300cm Largeur (cm) 90cm Hauteur (cm) 2.5cm Épaisseur (cm) 0.05cm Type de pack À l'unité Quantité par pack 1 Raccords et fixations inclus Fixations vendues séparément Durabilité Très résistant Isolé non Présence de plomb Sans plomb Résistance aux impacts Résistant aux chocs Résistance aux intempéries Résistant aux conditions extérieures Résistant aux ultraviolets Résistant aux UV Mode d’emploi Voir notice de pose Instructions d'installation voir notice de pose Norme NF Acquisition au marquage CE Marquage CE Garantie fabricant 10 ans",
     "price": 26.73,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 43.47,
+    "discount_percent": 38.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/plaque-de-toiture-ondulee-acier-ondometal-anthracite-rouge-ou-graphite-300-x-90-cm-3432157",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/kj9UB/3432157_1/re/1200x1200/qt/90/3432157_1.jpg",
@@ -23476,6 +23584,10 @@
       {
         "price": 25.0,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 25.0,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23498,6 +23610,10 @@
       {
         "price": 34.0,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 34.0,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23520,6 +23636,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23542,6 +23662,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23564,6 +23688,10 @@
       {
         "price": 481.48,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 481.48,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23586,6 +23714,10 @@
       {
         "price": 39.99,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23608,6 +23740,10 @@
       {
         "price": 288.06,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 288.06,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23630,6 +23766,10 @@
       {
         "price": 22.9,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 22.9,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23652,6 +23792,10 @@
       {
         "price": 20.89,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 20.89,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -23674,6 +23818,10 @@
       {
         "price": 8.62,
         "observed_at": "2026-10-13T21:12:10.951643+00:00"
+      },
+      {
+        "price": 8.62,
+        "observed_at": "2026-10-14T21:15:34.516298+00:00"
       }
     ]
   },
@@ -24730,58 +24878,6 @@
       },
       {
         "price": 439.99,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Assiette creuse coupelle Duralex Lys - 19,5 cm",
-    "description": "1€ - Electro Dépôt Assiette creuse coupelle 19,5 cm Duralex Lys - Vert Assiette creuse coupelle de la gamme Lys par Duralex en verre trempé teinté vert de 19,5 cm de diamètre[cite: 4]. Fabriquée en France, cette coupelle résiste aux chocs thermiques et mécaniques et convient pour un usage quotidien, compatible lave-vaisselle et micro-ondes. https://www.electrodepot.fr/assiette-duralex-lys-vert-coupelle-19-5cm.html Prix : 1€ Frais de port : Offert en retrait magasin Code promo : Aucun Disponible dans d'autres coloris donc regarder le site en profondeur pour voir si une couleur qui vous plait est disponible !!",
-    "price": 1.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/assiette-creuse-coupelle-duralex-lys-195-cm-3431920",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/QiX85/3431920_1/re/1200x1200/qt/90/3431920_1.jpg",
-    "detected_at": "2026-10-13T18:54:21+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 1.0,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Établi de jeu enfant Theo Klein Bosch 8469 Avec tournevis Ixolino et 81 accessoires (Via coupon)",
-    "description": "64,62€ - JoyBuy Établi de bricolage complet sous licence officielle Bosch pour enfant, comprenant 81 accessoires dont le tournevis électronique Ixolino fonctionnel, un véhicule à assembler et des équipements de protection. Points forts et caractéristiques : • Licence officielle Bosch : Reproduction fidèle des véritables outils Bosch adaptée à la taille des enfants. • Tournevis électronique Ixolino : Intègre la visseuse électronique jouet fonctionnant à piles avec double sens de rotation. • Équipement complet (81 pièces) : Livré avec un set de construction de véhicule, marteau, scie, clé, vis, écrous et casquet/casque de protection. • Structure stable et rangement : Nombreux rangements intégrés et bacs suspendus pour organiser les outils après le jeu.",
-    "price": 64.62,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/via-coupon-etabli-de-jeu-enfant-theo-klein-bosch-8469-avec-tournevis-ixolino-et-81-accessoires-3431919",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/OeQcz/3431919_1/re/1200x1200/qt/90/3431919_1.jpg",
-    "detected_at": "2026-10-13T18:51:48+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 64.62,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 64.62,
         "observed_at": "2026-10-14T19:26:16.073333+00:00"
       }
     ]
