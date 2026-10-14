@@ -10768,6 +10768,28 @@
     ]
   },
   {
+    "title": "Ecran PC gamer 25\" TCL P1 25P1AD - Full HD IPS, 280 Hz (300 Hz OC), 0.5ms, HDR 400 nits, AMD FreeSync",
+    "description": "128,92€ - PcComponentes Prix qui semble bon pour cet écran si l'on compare les prix avec la concurrence :D Fiche produit constructeur Caractéristiques & Spécifications : Affichage Taille de l’écran : 24,5\" / 62,2 cm Luminosité maximale : 400 cd/m² Résolution de la dalle : 1920 × 1080 Gamme de couleurs : 93 % DCI-P3, 99 % sRGB Couleurs : 1,07B / 8bit + 2bit FRC Delta E : ΔE＜2 Taux de rafraîchissement : 280 Hz (OC 300 Hz) Type de produit Plat/Courbé : Plat Type de dalle : HFS Shoot Technologie : DLED Logiciel Smart Gaming Certifications HDR : HDR400 FreeSync Premium G-Sync Compatible Généralités VESA : 75 × 75 mm Dimensions avec pied (lxhxp) : 556 × 439 × 182 mm Dimensions sans pied (lxhxp) : 556 × 325 × 58 mm Dimensions de l’emballage (lxhxp) : 700 × 425 × 142 mm Poids avec pied : 3 kg Poids sans pied : 2,63 kg Poids avec emballage : 4,5 kg",
+    "price": 128.92,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecran-pc-gamer-25-tcl-p1-25p1ad-full-hd-ips-280-hz-300-hz-oc-05ms-hdr-400-nits-amd-freesync-3432421",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OezV2/3432421_1/re/1200x1200/qt/90/3432421_1.jpg",
+    "detected_at": "2026-10-14T13:50:53+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 128.92,
+        "observed_at": "2026-10-14T13:55:46.884232+00:00"
+      }
+    ]
+  },
+  {
     "title": "Batman: Return to Arkham sur PS4 (Dématérialisé)",
     "description": "4,99€ - PlayStation Store Batman: Return to Arkham sur PS4 (Dématérialisé) Retournez à Arkham et découvrez deux des titres les plus acclamés par la critique de la dernière génération - Batman: Arkham Asylum et Batman: Arkham City, avec des visuels entièrement remasterisés et mis à jour. Batman: Return to Arkham inclut les versions complètes des deux jeux et comprend tout le contenu supplémentaire sorti précédemment. Éditeur : WARNER BROS. INTERACTIVE Genres : Aventure, Action Voix : Allemand, Anglais, Espagnol, Français (France), Italien Langues à l'écran : Allemand, Anglais, Espagnol, Français (France), Italien, Polonais, Russe",
     "price": 4.99,
@@ -14096,7 +14118,7 @@
     "description": "126€ - Asics N'oubliez pas les 10% de réduction pour une 1ère commande, via inscription à la newsletter (highfive) Technologie GEL à 360 degrés dans la semelle intermédiaire Panneaux en maille fermés Marquage minimal Amorti FF BLAST PLUS dans la semelle intermédiaire La chaussure GEL-QUANTUM 360 I AMP reconnaît le dixième anniversaire du lancement de la franchise GEL-QUANTUM. La première version de la série était la première chaussure ASICS à être dotée de la technologie GEL à 360 degrés dans la semelle intermédiaire. Sa structure supérieure est modifiée avec des panneaux en maille fermés et un marquage minimal, donnant à la chaussure un aspect plus dimensionnel avec une plus grande profondeur. La semelle intermédiaire est conservée avec sa technologie GEL à 360 degrés, mais elle est dotée d'un amorti FF BLAST PLUS pour un meilleur confort sous le pied.",
     "price": 126.0,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 10.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/baskets-asics-gel-quantum-360-amp-tailles-du-36-au-465-3432235",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/quZgl/3432235_1/re/1200x1200/qt/90/3432235_1.jpg",
@@ -14479,7 +14501,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0DHSFB2SQ?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 63.99,
