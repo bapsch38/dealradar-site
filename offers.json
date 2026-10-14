@@ -1,5 +1,26 @@
 [
   {
+    "title": "BLANCO LINUS-S – Robinet de Cu...sse Pression – Chrome – 512200",
+    "price": 259.99,
+    "reference_price": 301.41,
+    "discount_percent": 13.74,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B002J914QO",
+    "image_url": "https://m.media-amazon.com/images/P/B002J914QO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:40:09",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 259.99,
+        "observed_at": "2026-10-14T11:41:04.541738+00:00"
+      }
+    ]
+  },
+  {
     "title": "Haier Air Fryer XXL I-Master S...r, Avec Ensemble d’Accessoires",
     "price": 149.9,
     "reference_price": 179.5,
@@ -7873,7 +7894,7 @@
     "description": "20€ - Amazon coupon de réduction de 50 % 【Blanc neutre 4000 K et IRC > 80 – Une lumière naturelle et apaisante】 Une lumière blanche neutre de 4000 K avec un indice de rendu des couleurs (IRC) élevé > 80 offre un éclairage agréable et naturel – idéal pour le salon, la chambre à coucher, la salle à manger et la chambre d'enfant. Parfait pour une ambiance détendue et un confort au quotidien 【4 800 lumens, ultra-lumineux 】 Une puissance de 48 W et un flux lumineux de 4 800 lumens offrent un éclairage clair et homogène pour des pièces de 12 à 20 m² – pas de coins sombres, une luminosité maximale immédiate sans scintillement ni délai 【Design ultraplat, Ø 40 cm – Moderne et élégant】 Seulement 2,5 cm d’épaisseur, diamètre de 40 cm – plafonnier élégant et moderne en noir mat, parfait pour les plafonds bas et les intérieurs contemporains 【Sans scintillement ni éblouissement – Doux pour les yeux et confortable】 Un diffuseur en acrylique de haute qualité assure une lumière douce et homogène, sans scintillement, éblouissement ni ombre – idéal pour les yeux et une utilisation quotidienne 【Indice de protection IP44 contre les projections d’eau – Sûr et durable】 Indice de protection IP44 contre l’humidité – convient pour la salle de bains, la cuisine, le couloir et la cave. Montage simple, technologie LED durable, économe en énergie et sans entretien",
     "price": 20.0,
     "reference_price": null,
-    "discount_percent": 50.0,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/plafonnier-led-rond-salle-de-bain-lumiere-plafond-ip44-4000k-lumiere-panneau-taille-40cm-3432319",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/CIRRt/3432319_1/re/1200x1200/qt/90/3432319_1.jpg",
@@ -8004,8 +8025,8 @@
     "title": "Faitout Inox Tefal Comfort Max - 24 cm, Couvercle en Verre, Tous feux dont induction",
     "description": "22,79€ - Amazon Pour les soupes et sauces de saison (cheeky) > Livraison gratuite Description ACIER INOXYDABLE GARANTI 10 ANS : assurant des performances et une fiabilité durables, découvrez un produit de qualité supérieure au design robuste, conçu pour durer CUISSON RAPIDE ET HOMOGENE : casserole avec base épaisse Thermo-Fusion, pour une cuisson rapide et régulière et une compatibilité totale avec toutes les plaques de cuisson (gaz, électrique, vitrocéramique et induction) POIGNEES THERMO-ISOLEES : un design ergonomique et des poignées froides au toucher, pour une sécurité et un confort total pendant la cuisson GRADUATIONS INTERIEURES : la conception intelligente avec des marques de mesure intégrées garantit des résultats parfaits à chaque fois COUVERCLE EN VERRE AVEC ORIFICE D'EVACUATION DE LA VAPEUR : pour une cuisson sûre et facile qui préserve toute la saveur et l'humidité de vos ingrédients DES POSSIBILITÉS INFINIES : des résultats délicieux qui ne manquent jamais d'impressionner, du poulet provençal et du tajine d'agneau aux mijotés de poisson et au riz pilaf infusé au safran COMPATIBLE LAVE-VAISSELLE : facile à nettoyer, elle offre une commodité inégalée, idéale pour un usage fréquent",
     "price": 22.79,
-    "reference_price": 32.99,
-    "discount_percent": 30.9,
+    "reference_price": null,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/faitout-inox-tefal-comfort-max-24-cm-couvercle-en-verre-tous-feux-dont-induction-3432312",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/dD2U8/3432312_1/re/1200x1200/qt/90/3432312_1.jpg",
@@ -15133,28 +15154,6 @@
     "price_history": [
       {
         "price": 59.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Metro Exodus à 2.99€ - Gold à 3.99€ sur PC (Dématérialisé)",
-    "description": "2,99€ - GOG Metro Exodus sur Gog sans DRM en promo. Version gold a 3.99€ Nous sommes en 2036. Vingt-cinq ans après qu'une guerre nucléaire a dévasté la Terre, quelques milliers de survivants s'accrochent à la vie sous les ruines de Moscou, dans les tunnels du métro. Ces âmes en peine ont affronté les radiations, combattu créatures mutantes et horreurs d'un autre monde, et même souffert des affres de la guerre civile. Vous incarnez Artyom. Échappez-vous du métro et menez un groupe de rangers tout au long d'une aventure s'étendant sur tout un continent dans une Russie post-apocalyptique en quête d'une nouvelle vie à l'est. Créé par 4A Games, Metro Exodus est un jeu de tir à la 1re personne axé sur la narration, qui mélange affrontements brutaux et infiltration avec exploration et survival horror dans un univers ultra-immersif. Explorez les terres sauvages de la Russie dans des niveaux non linéaires et suivez une histoire captivante qui s'étend sur une année entière, allant du printemps jusqu'au plus profond de l'hiver nucléaire. Inspiré des romans de Dmitry Glukhovsky, Metro Exodus poursuit l'histoire d'Artyom dans le meilleur titre de la saga à ce jour. Caractéristiques Embarquez pour une incroyable aventure - montez à bord de l'Aurora, une locomotive largement modifiée, et joignez-vous à une poignée de survivants en quête d'une nouvelle vie à l'est Survie en monde ouvert - un scénario poignant associe la jouabilité de la série Metro classique à de nouveaux environnements non linéaires Monde magnifique et hostile - découvrez les terres sauvages de la Russie post-apocalyptique, sublimées par un cycle jour/nuit et un climat dynamique Combat brutal et infiltration - récupérez ce que vous pouvez sur le terrain, fabriquez votre propre arsenal artisanal et affrontez vos adversaires, humains comme mutants, lors de combats à couper le souffle Les décisions sont lourdes de conséquences - tous vos compagnons ne vont pas s'en sortir ; avec vos choix qui influent sur le sort de vos camarades, l'histoire offre de nombreuses heures de rejouabilité Atmosphère et immersion sans précédent - la flamme vacillante d'une bougie dans le noir, le râle irrégulier de votre souffle à travers votre masque à gaz pris par le givre, le cri d'un mutant au cœur de la nuit ; Metro revient plus immersif et terrifiant que jamais.",
-    "price": 2.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/metro-exodus-gog-sans-drm-gold-a-399eur-3431905",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZM1P0/3431905_1/re/1200x1200/qt/90/3431905_1.jpg",
-    "detected_at": "2026-10-13T18:27:28+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2.99,
         "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
