@@ -1,5 +1,68 @@
 [
   {
+    "title": "WELLA Color Fresh Masque, Fun Mint, 150 ml",
+    "price": 14.0,
+    "reference_price": 16.54,
+    "discount_percent": 15.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08HV5DRXC",
+    "image_url": "https://m.media-amazon.com/images/P/B08HV5DRXC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 21:41:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.0,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montibello Dénuée sans ammoniaque 6.44, Unique, Standard",
+    "price": 13.8,
+    "reference_price": 21.44,
+    "discount_percent": 35.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08TRL2MK6",
+    "image_url": "https://m.media-amazon.com/images/P/B08TRL2MK6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 21:41:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.8,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Echosline Seliàr Synergy Color...ue pour Blond Clair doré (8.3)",
+    "price": 8.88,
+    "reference_price": 10.64,
+    "discount_percent": 16.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01LF7QEK6",
+    "image_url": "https://m.media-amazon.com/images/P/B01LF7QEK6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 21:41:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.88,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
+  },
+  {
     "title": "I Provenzali Shampooing Graines De Lin 250 Ml",
     "price": 6.63,
     "reference_price": 12.9,
@@ -6884,6 +6947,10 @@
       {
         "price": 59.8,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 59.8,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -11113,14 +11180,15 @@
     ]
   },
   {
-    "title": "Power Players, Véhicule T-Forc... pour enfants dès 4 ans, PWW03",
-    "price": 31.49,
-    "reference_price": 37.41,
-    "discount_percent": 15.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B088MS7PR8",
-    "image_url": "https://m.media-amazon.com/images/P/B088MS7PR8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 09:24:05",
+    "title": "Couette Nila - 220 × 240 cm",
+    "description": "14,88€ - Conforama [Conforama] Couette NILA 220 × 240 cm à 14,88 € au lieu de 35,99 € (-49 %) Profitez de cette couette NILA de Conforama à petit prix pour équiper votre lit deux personnes. ️ Caractéristiques : Dimensions : 220 × 240 cm Coloris : beige/marron Enveloppe : 100 % polyester Garnissage : 100 % polyester Grammage du garnissage : 200 g/m² Couette légère, adaptée à ceux qui préfèrent une couverture peu épaisse Prix : 14,88 € au lieu de 35,99 , soit environ 49 % de réduction. Lien de l’offre : https://www.conforama.fr/chambre-literie/textile-literie/couette/couette-220x240cm-nila/p/124210",
+    "price": 14.88,
+    "reference_price": 35.99,
+    "discount_percent": 58.7,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/conforama-couette-nila-220-240-cm-a-1488-eur-au-lieu-de-3599-eur-49-3432686",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jEfOl/3432686_1/re/1200x1200/qt/90/3432686_1.jpg",
+    "detected_at": "2026-10-14T21:29:10+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -11128,49 +11196,109 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 31.49,
-        "observed_at": "2026-10-13T09:25:22.873114+00:00"
-      },
-      {
-        "price": 31.49,
-        "observed_at": "2026-10-14T09:32:31.449655+00:00"
+        "price": 14.88,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
   {
-    "title": "Ravensburger -PLAY + - Peluche...ce - version française - 34016",
-    "price": 10.27,
-    "reference_price": 19.99,
-    "discount_percent": 48.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0D5BRCD9C",
-    "image_url": "https://m.media-amazon.com/images/P/B0D5BRCD9C.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 09:03:53",
-    "category": "Jouets & jeux",
+    "title": "Cuiseur à riz Moulinex Multicook & Fry",
+    "description": "79,95€ - Electro Dépôt TOUT-EN-UN : un multicuiseur et un air fryer combinés pour une infinité de délicieux repas faits maison, cuits sans surveillance grâce à 12 programmes de cuisson TECHNOLOGIE AIR FRYER INTEGREE : pour des repas sains et des résultats tendres, juteux et croustillants à la fois, avec peu ou pas de matières grasses UN REPAS COMPLET EN UNE CUISSON : préparez un repas complet en une seule fois grâce à une grille de cuisson (amovible) qui permet de cuire différents aliments sur 2 étages en même temps (saumon grillé et quinoa, poulet rôti et légumes vapeur...) GRANDE CAPACITÉ : la cuve de cuisson de 6 L est idéale pour 6 personnes, offrant la capacité parfaite pour toutes les occasions, des repas simples les soirs de semaine aux repas plus élaborés lorsque vous recevez RÉPARABILITÉ 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6 200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets FONCTION DEPART DIFFÉRÉ : programmez vos repas à l'avance pour les déguster dès que vous êtes prêt ! Multicook & Fry gère la cuisson pour vous et maintient même vos plats au chaud une fois qu'ils sont cuits PRATIQUE ET FACILE D'UTILISATION : cuve de cuisson avec deux poignées pour une manipulation simple et revêtement antiadhésif en céramique, cuve et accessoires compatibles lave-vaisselle EXPÉRIENCE PERSONNALISÉE : profitez d'une expérience utilisateur unique avec votre Multicook & Fry grâce à l'application My Moulinex qui vous propose de nombreuses idées recettes et des services personnalisés INCLUS : multicuiseur Multicook & Fry, cuve de cuisson, 1 grille de cuisson multifonctions, verre doseur, spatule, louche, mini livret de recettes",
+    "price": 79.99,
+    "reference_price": 149.0,
+    "discount_percent": 46.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/moulinex-multicook-fry-3432685",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0uBDQ/3432685_1/re/1200x1200/qt/90/3432685_1.jpg",
+    "detected_at": "2026-10-14T21:26:08+00:00",
+    "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 10.27,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      },
-      {
-        "price": 10.27,
-        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+        "price": 79.99,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
   {
-    "title": "Emuca - Kit charnière coudée p...e 105°, Nickelé, Acier, 20 ut.",
-    "price": 33.28,
-    "reference_price": 39.69,
-    "discount_percent": 16.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0BVR25K8N",
-    "image_url": "https://m.media-amazon.com/images/P/B0BVR25K8N.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 09:03:43",
+    "title": "Chaussures running Nike Pegasus 42 Wide - plusieurs tailles disponibles",
+    "description": "100€ - I-Run La chaussure Nike Pegasus 42 pour homme dynamise vos entraînements de running grâce à une foulée plus réactive, idéale pour enchaîner les kilomètres avec efficacité sur routes et chemins tracés. Pegasus 42 de Nike, pour quel type de sportif, quel usage, quelle distance et quelle surface ? Elle est conçue pour les coureurs débutants à confirmés à la recherche d'une paire pour leurs entraînements quotidiens. Idéale pour la course sur route et sur les chemins tracés, elle vous accompagne aussi bien sur des distances courtes que longues grâce à son équilibre entre confort et dynamisme. La Nike Pegasus 42, quelle utilisation ? + Elle répond aux besoins des sportifs à la recherche d'un bon équilibre entre amorti et réactivité pour enchaîner les kilomètres avec fluidité et confort. - Si vous recherchez un modèle avec un amorti maximal, nous vous conseillons la Nike Pegasus Premium. Pourquoi choisir la Nike Pegasus 42 ? Ce modèle vous offre de nombreux avantages : Une unité d'air incurvée sur toute la longueur qui assure une foulée dynamique et fluide. Une mousse légère qui offre un amorti réactif et confortable. Une empeigne tissée résistante et enveloppante qui garantit un excellent maintien du pied. Une languette et un col rembourrés qui promettent un confort durable. Une semelle extérieure en caoutchouc gaufré qui améliore la flexibilité et garantit une adhérence fiable. Un système de laçage fiable qui assure une tenue précise et pérenne.",
+    "price": 100.0,
+    "reference_price": 140.0,
+    "discount_percent": 28.6,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-running-nike-pegasus-42-wide-plusieurs-tailles-disponibles-3432684",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1RoKr/3432684_1/re/1200x1200/qt/90/3432684_1.jpg",
+    "detected_at": "2026-10-14T21:24:32+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 100.0,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jusqu'à 100€ remboursés sur une sélection d'outils Stanley (via ODR)",
+    "description": "Master Outillage OFFRE DE REMBOURSEMENT STANLEY JUSQU'À 100 € REMBOURSÉS DU 1ER OCTOBRE 2026 AU 15 JANVIER 2027 Équipez-vous en STANLEY sur Master Outillage et profitez de l'offre de remboursement sur une sélection de produits éligibles.",
+    "price": 100.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/odr-stanley-2026-jusqua-100-eur-rembourses-sur-master-outillagecom-3432683",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OKBqA/3432683_1/re/1200x1200/qt/90/3432683_1.jpg",
+    "detected_at": "2026-10-14T21:20:26+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 100.0,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets Skechers Burns Agoura pour homme - Semelle Memory Foam, mesh respirant, bleu marine, tailles 41 à 46",
+    "description": "34,12€ - JoyBuy Baskets Skechers Burns Agoura en promotion dans le coloris bleu marine (Navy), proposées sur Joybuy. Un modèle pensé pour un usage quotidien, avec une tige en mesh respirant qui favorise la circulation de l'air et des renforts synthétiques pour maintenir le pied. La semelle intérieure en mousse à mémoire de forme Memory Foam apporte un amorti agréable pour la marche et les déplacements de tous les jours. La semelle extérieure en caoutchouc assure une bonne adhérence sur différentes surfaces. La fermeture à lacets permet d'ajuster le maintien selon ses préférences. La chaussure reste légère et souple. Tailles proposées : 41, 41,5, 42, 42,5, 43, 44, 45 et 46. Plusieurs coloris sont également disponibles, notamment noir, gris anthracite et noir/gris, avec des tarifs pouvant varier. Le modèle affiche une note de 4,7/5 sur 28 avis. Vendu sur Joybuy, avec livraison à domicile ou retrait selon la localisation. Retours gratuits sous 30 jours.",
+    "price": 34.12,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baskets-skechers-burns-agoura-pour-homme-semelle-memory-foam-mesh-respirant-bleu-marine-tailles-41-a-46-3432682",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8w5b6/3432682_1/re/1200x1200/qt/90/3432682_1.jpg",
+    "detected_at": "2026-10-14T21:18:56+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 34.12,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ballon de basketball Wilson Gamebreaker OR - Taille 7",
+    "description": "6,99€ - Intersport Le Wilson Gamebreaker OR est un ballon de basketball de taille 7, format couramment utilisé pour le jeu adulte masculin. Il est conçu pour la pratique de loisir sur toutes surfaces. Sa construction associe une matière principale en caoutchouc, une carcasse en nylon et une vessie destinée à maintenir la pression. La surface externe est issue du moulage de la carcasse et composée de trois couches, ce qui lui confère une texture structurée favorisant la prise en main et le contrôle du ballon. Le ballon convient aux entraînements, aux séances de tir et aux matchs informels. Le gonflage s'effectue selon les indications inscrites sur le produit. Caractéristiques : marque Wilson, modèle Gamebreaker, taille 7, matière principale en caoutchouc, usage loisir, toutes surfaces.",
+    "price": 6.99,
+    "reference_price": 13.99,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ballon-de-basketball-wilson-gamebreaker-or-taille-7-3432681",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/uaryD/3432681_1/re/1200x1200/qt/90/3432681_1.jpg",
+    "detected_at": "2026-10-14T21:13:59+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -11178,18 +11306,36 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 33.28,
-        "observed_at": "2026-10-13T09:04:58.803843+00:00"
-      },
+        "price": 6.99,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coque Spigen Ultra Hybrid T MagFit pour iPhone 17 Pro Max et 18 Pro Max - Compatible MagSafe, Air Cushion (vendeur tiers)",
+    "description": "13,99€ - Amazon Coque Spigen Ultra Hybrid T MagFit en promotion pour iPhone 17 Pro Max et iPhone 18 Pro Max, dans le coloris noir mat. Elle intègre des aimants MagFit compatibles MagSafe, ce qui permet d'utiliser les chargeurs sans fil et les accessoires magnétiques sans retirer la coque. On retrouve également la technologie Air Cushion pour absorber les chocs au niveau des coins, ainsi qu'une protection du module photo et un bouton dédié au contrôle de l'appareil photo. Ce dernier reste entièrement protégé, avec un retour tactile pour faciliter son utilisation. La technologie DuraClear vise à ralentir le jaunissement des parties transparentes de la coque. Vendue par Spigen EU et expédiée par Amazon. Livraison gratuite annoncée sur la fiche produit, avec retours gratuits. Le modèle affiche une note de 4/5 sur plus de 8 800 évaluations. À propos de ce produit [DURACLEAR] Formule anti-jaunissement prolonge la clarté jusqu’à 1,7 fois plus longtemps pour une transparence durable. [AIR CUSHION & PROTECTION DE GRADE MILITAIRE] La technologie Air Cushion absorbe les chocs. [CONTRÔLE CAMERA] Bouton entièrement protégé pour une meilleure sensation au toucher et un contrôle précis, avec une touche surélevée pour un retour tactile amélioré. [COMPATIBLE MAGFIT] Aimants intégrés pour une fixation sûre avec les chargeurs MagSafe et accessoires compatibles. [THE ORIGINAL STANDARD] Depuis des décennies, Spigen allie ingénierie de précision, design soigné et qualité éprouvée par des millions d’utilisateurs. Commentaires client",
+    "price": 13.99,
+    "reference_price": 18.96,
+    "discount_percent": 26.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coque-spigen-ultra-hybrid-t-magfit-pour-iphone-17-pro-max-et-18-pro-max-compatible-magsafe-air-cushion-noir-vendeur-tiers-3432680",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dPM2T/3432680_1/re/1200x1200/qt/90/3432680_1.jpg",
+    "detected_at": "2026-10-14T21:12:16+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
-        "price": 33.28,
-        "observed_at": "2026-10-14T09:16:33.724048+00:00"
+        "price": 13.99,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
   {
     "title": "Lampe extérieure H20cm POPPY coloris vert",
-    "description": "3€ - Conforama Les points forts BATTERIE RECHARGEABLE IP44 ET TOUCH INTENSITE LUMINEUSE VARIABLE Description Diamètre : 12 cm Coloris: vert Type de douille : LED intégrée Matériaux : Plastique Garantie+ : 3 ans Standard Réparation et déplacement du technicien ou échange à neuf en cas d’irréparabilité Jusqu’à 20% de remise sur un nouveau produit (en cas de non mise en œuvre de la garantie)",
+    "description": "3,05€ - Conforama Les points forts BATTERIE RECHARGEABLE IP44 ET TOUCH INTENSITE LUMINEUSE VARIABLE Description Diamètre : 12 cm Coloris: vert Type de douille : LED intégrée Matériaux : Plastique Garantie+ : 3 ans Standard Réparation et déplacement du technicien ou échange à neuf en cas d’irréparabilité Jusqu’à 20% de remise sur un nouveau produit (en cas de non mise en œuvre de la garantie)",
     "price": 3.0,
     "reference_price": 6.0,
     "discount_percent": 50.0,
@@ -11233,7 +11379,7 @@
   },
   {
     "title": "Lot de 2 pots de Crème Céramide Protection Mixa Expert Peau Sensible - 400ml",
-    "description": "10,18€ - Amazon Livraison gratuite en Amazon Locker",
+    "description": "10,18€ - Amazon Livraison gratuite en Amazon Locker À propos de ce produit Les informations ci-dessous s'appliquent à chaque unité du pack CRÈME CÉRAMIDE PROTECTION : Anti-sécheresse sévère pour les peaux très sèches et fragilisées. Visage, corps, mains. BÉNÉFICES : Hydrate et renforce la barrière cutanée jour après jour dès la 1ère application. Protège de la sécheresse sévère, variations de température et pollution. Hypoallergénique, non grasse, non collante et pénètre instantanément ACTIFS : Formulé avec de puissants actifs dermo-cosmétiques et adapté aux peaux sensibles, Céramides, pour renforcer la barrière cutanée, Squalane, qui aide la peau à maintenir son hydratation, Glycérine, aux propriétés hydratantes et protectrices GARANTIE MIXA : Testé sous contrôle médical, Résultats cliniquement prouvés, Formule hypoallergénique, Testé sur 7000 peaux sensibles, Produit mixte, aussi efficace sur les femmes que sur les hommes CONTENU : 1x Crème Céramide Protection, 400ml Commentaires client",
     "price": 10.18,
     "reference_price": 12.0,
     "discount_percent": 15.2,
@@ -11241,7 +11387,7 @@
     "url": "https://www.dealabs.com/bons-plans/mixa-expert-peau-sensible-creme-ceramide-protection-anti-secheresse-severe-peaux-tres-seches-et-fragilisees-400ml-lot-de-2-3432677",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/H8VTX/3432677_1/re/1200x1200/qt/90/3432677_1.jpg",
     "detected_at": "2026-10-14T21:04:56+00:00",
-    "category": "Autre",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11277,7 +11423,7 @@
   },
   {
     "title": "PC portable 16\" MSI Crosshair HX AI - RTX 5070, Intel 255HX, QHD+ 240 Hz, 16 Go, 512 Go (Sélection de villes)",
-    "description": "1 260,42€ - Darty -10% en plus jusqu'à demain 9h avec le code \"PC10\", soit retour d'un très bon prix vu le marché actuel pour cette config ! Plus d'infos si besoin dans le précédent deal à 1400€ (étant à presque 1000°c...) ou ici avec l'historique des précédents deals . Attention disponible en Retrait dans certains magasins seulement. ❖ Caractéristiques et description : Ecran 16\" QHD+ (2560x1600), 240Hz, 16:10, 100 % DCI-P3, dalle de niveau IPS Processeur Intel® Core™ Ultra 7 255HX - Nvidia GeForce RTX 5070 RAM 16 Go DDR5 - Stockage 512 Go SSD Microsoft Windows 11 + Wi-Fi 6E AX211 - Bluetooth v5.3 Processeur Intel® Core™ Ultra 7 255HX. Carte graphique GeForce® pour des performances impressionnantes. Le mode GPU discret (MUX) pousse les performances du GPU à leur niveau le plus haut. De son côté, la technologie MSI Overboost exclusive libère toute la puissance du CPU et du GPU. Technologie de refroidissement Cooler Boost 5 exclusive avec deux ventilateurs et cinq caloducs en cuivre. Libérez tout le potentiel de l’ordinateur grâce au support de la mémoire DDR5 dernière génération. Clavier à 24 zones de rétroéclairage LED RGB personnalisables via Mystic Light dans MSI Center. Clavier numérique physique pour une utilisation plus pratique. La technologie audio Nahimic 3 délivre une expérience immersive à 360⁰ et un son surround 3D dans les jeux. Compatibilité à la norme Hi-Res Audio pour une immersion totale dans une musique fidèle et réaliste. Applications exclusives basées sur l’IA avec AI Robot et MSI AI Engine qui améliorent l’expérience utilisateur de manière intelligente.",
+    "description": "1 260,42€ - Darty -10% en plus jusqu'à demain 9h avec le code \"PC10\" = Retour d'un très bon prix vu le marché actuel pour cette config ! (y) Plus d'infos dans le précédent deal à 1400€ (à 1000°c) ou ici avec l'historique des précédents deals . Retrait gratuit dans certains magasins seulement. Et ne pas oublier de vérifier les cashbacks Darty possibles pour optimisation, par ex Widilo 1.5% montant HT soit ~ -16€ :) Et enfin, ne pas tenir compte de ce message mensonger sur Darty quand on ajoute au panier ! ( (confused) ) Cet ordi gaming est bien vendu avec son bloc chargeur (de 240w). ***************************************************************** ❖ Caractéristiques et description : Ecran 16\" QHD+ (2560x1600), 240Hz, 16:10, 100 % DCI-P3, dalle de niveau IPS Processeur Intel® Core™ Ultra 7 255HX Nvidia GeForce RTX 5070 RAM 16 Go DDR5 - Stockage 512 Go SSD Microsoft Windows 11 + Wi-Fi 6E AX211 - Bluetooth v5.3 Processeur Intel® Core™ Ultra 7 255HX. Carte graphique GeForce® pour des performances impressionnantes. Le mode GPU discret (MUX) pousse les performances du GPU à leur niveau le plus haut. De son côté, la technologie MSI Overboost exclusive libère toute la puissance du CPU et du GPU. Technologie de refroidissement Cooler Boost 5 exclusive avec deux ventilateurs et cinq caloducs en cuivre. Libérez tout le potentiel de l’ordinateur grâce au support de la mémoire DDR5 dernière génération. Clavier à 24 zones de rétroéclairage LED RGB personnalisables via Mystic Light dans MSI Center. Clavier numérique physique pour une utilisation plus pratique. La technologie audio Nahimic 3 délivre une expérience immersive à 360⁰ et un son surround 3D dans les jeux. Compatibilité à la norme Hi-Res Audio pour une immersion totale dans une musique fidèle et réaliste. Applications exclusives basées sur l’IA avec AI Robot et MSI AI Engine qui améliorent l’expérience utilisateur de manière intelligente.",
     "price": 1260.42,
     "reference_price": 1815.0,
     "discount_percent": 30.6,
@@ -16386,7 +16532,7 @@
     "description": "1 096,28€ - LG ● Prix sympa pour ce pack Comment obtenir ce prix ? Grâce à un code MACIF AVANTAGES -15% + ODR de 200€ Barre de son vendu 200€ sur AMAZON La TV LG OLED55C66LB.S60T001 est un téléviseur intelligent de 55 pouces conçu pour offrir une expérience visuelle optimale. *caractéristiques du produit:* - Écran OLED de 55 pouces (139 cm) - Résolution 4K - Plateforme webOS avec fonctions smart AI - Modèle 2026",
     "price": 1096.28,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 15.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/macif-avantages-tv-55-lg-oled55c6-2026-oled-4k-uhd165-hz-vrr-hdr10-dolby-vision-barre-de-son-51-s60tr-via-odr-de-200eur-3432378",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Yr9zM/3432378_1/re/1200x1200/qt/90/3432378_1.jpg",
@@ -17216,8 +17362,8 @@
     "title": "[Nouveaux abonnés] Abonnement Mensuel à Canal+ (offre PourquoiPayer+, engagement 24 Mois)",
     "description": "24,99€ L'offre CANAL+ CINÉ SÉRIES comprend tout le cinéma récent et les séries de CANAL+, ainsi que les contenus de grandes plateformes de streaming comme Apple TV, HBO Max, Netflix, Paramount+ et CINÉ+ OCS. Abonnement 24 mois à CANAL+ CINÉ SÉRIES : 24,99 €/mois pendant 12 mois puis 34,99 €/mois. Offre soumise à conditions, en France métropolitaine du 15/10/26 au 09/11/26. Modalités sur boutique.canalplus.com Communiqué de presse : https://www.canalplusgroup.com/uploads/CP_Agregation_039943ce9a.pdf",
     "price": 24.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 34.99,
+    "discount_percent": 28.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/nouveaux-abonnes-abonnement-mensuel-a-canal-offre-pourquoipayer-engagement-24-mois-3432336",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/kC4pN/3432336_1/re/1200x1200/qt/90/3432336_1.jpg",
@@ -17238,8 +17384,8 @@
     "title": "Eau de Parfum Tom Ford Noir Extreme",
     "description": "120,69€ - JoyBuy Prix excellent pour du Tom Ford pour le format 100 mL en version \"Parfum\" (la plus intense de la gamme), disponible à ce prix chez Joybuy. Attention à ne pas confondre : on est bien ici sur la concentration Parfum (le flacon entièrement métallisé doré), qui est plus riche, plus cuirée et normalement bien plus chère que l'Eau de Parfum classique (flacon noir translucide). Notes olfactives majeures : • Tête : Cardamome, Gingembre de Shimoga, Mandarine, Néroli • Cœur : Accord Kulfi (le fameux dessert indien lacté et safrané), Rose de Bulgarie, Fleur d'oranger • Fond : Cuir, Daim, Vanille, Ambre, Fève tonka, Bois de gaïac À titre de comparaison, le prix de référence en parfumerie classique est de 257€ chez Sephora, la remise est donc massive.",
     "price": 120.69,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 125.36,
+    "discount_percent": 3.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/tom-ford-noir-extreme-eau-de-parfum-3432335",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/C0xwI/3432335_1/re/1200x1200/qt/90/3432335_1.jpg",
@@ -17282,8 +17428,8 @@
     "title": "Perplexus Go ! - Harry Potter: Vif d'Or",
     "description": "8,95€ - Philibert Net Le Perplexus Go ! - Harry Potter: Vif d'Or est un jeu de labyrinthe 3D en forme de sphère. *spécifications du produit:* - Labyrinthe 3D - Sphère colorée - Bille à faire progresser - Thème Harry Potter Le Perplexus Go ! - Harry Potter: Vif d'Or est un jeu de labyrinthe 3D en forme de sphère.",
     "price": 8.95,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 17.95,
+    "discount_percent": 50.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/perplexus-go-harry-potter-vif-dor-3432330",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/xeHGW/3432330_1/re/1200x1200/qt/90/3432330_1.jpg",
@@ -17303,9 +17449,9 @@
   {
     "title": "Distribution Gratuite d'Arbres Fruitiers Amandiers, Châtaigniers, Nashi, Kaki du Japon, Néflier + Marrons/Boissons - Gujan-Mestras (33)",
     "description": "Le 14 Novembre 2026, aura lieu la Journée Verte. À cette occasion, une Distribution Gratuite d'Arbres se déroulera de 09h à 17h à la Maison des Associations. Café, Thé et Marrons Chauds Offerts toute la journée. Goûter Offert aux Enfants à 16h. Liste des essences distribuées : Arbres Fruitiers : Abricotier Pommier Poirier Cerisier Amandier Châtaignier Cognassier Figuier Kaki du Japon Nashi Nectarine/Brugnon Néflier Pêcher Prunier Prunier Violet Petits Fruitiers : Raisin de table rouge et blanc Noisetier Mûre Géante Myrtille des Jardins Kiwi Groseillier à maquereaux Groseillier à grappes rouge Framboisier Caseille Aromatiques Lavande Romarin Thym Menthe Marocaine Renseignements au 05 57 52 59 23 / 06 49 52 55 45 ou developpementdurable@ville-gujanmestras.fr Infos",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
+    "price": 17.5,
+    "reference_price": 25.0,
+    "discount_percent": 30.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/distribution-gratuite-darbres-fruitiers-amandiers-chataigniers-nashi-kaki-du-japon-neflier-marronsboissons-offerts-gujan-mestras-3432329",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/YUqjd/3432329_1/re/1200x1200/qt/90/3432329_1.jpg",
@@ -17315,7 +17461,12 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 17.5,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
+      }
+    ]
   },
   {
     "title": "Set de Clés en croix Parkside PRSK 6 B2 - Avec repose-genoux, 6 pièces",
@@ -18079,7 +18230,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0F7M1NJKQ?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 18.14,
@@ -18123,7 +18274,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B00LPHUTNA?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 10.99,
@@ -18167,7 +18318,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.carrefour.fr/p/four-a-pizza-hki-piz-1460eu-h-koenig-7640143169887",
     "price_history": [
       {
         "price": 99.99,
@@ -18211,7 +18362,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FLK83CMY?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 73.62,
@@ -18288,9 +18439,9 @@
   {
     "title": "Senseo PHILIPS CSA225/01 machine à café compacte Senseo Vibe bleu",
     "description": "Boulanger Cafetière à dosettes PHILIPS CSA225/01 Senseo Vibe Bleu : L'Expérience Café Réinventée Une Compacité Inégalée pour Toutes les Cuisines Découvrez la cafetière à dosettes PHILIPS CSA225/01 Senseo Vibe Bleu, une merveille de technologie compacte qui s'intègre parfaitement dans toutes les cuisines, même les plus petites. Avec sa taille réduite de 50% par rapport à la Senseo Original, elle offre une expérience café inégalée sans compromis sur la qualité. Préparez une ou deux tasses de café délicieux en moins d'une minute grâce à sa technologie avancée. Son design élégant et coloré, disponible en quatre teintes mates éclatantes, en fait un véritable atout déco pour votre espace café. Technologie Avancée pour un Café Parfait La Senseo Vibe est équipée de la technologie Crema Plus, garantissant une crema onctueuse et veloutée à chaque tasse. Personnalisez votre café grâce à la fonction mémo qui vous permet d'enregistrer votre longueur de café préférée. Le réservoir d'eau amovible de 0,9 L vous offre la possibilité de préparer plusieurs tasses sans avoir à le remplir constamment. De plus, l'indicateur de détartrage intégré vous signale quand un entretien est nécessaire, assurant ainsi des performances optimales et une longévité accrue. Testée plus de 10 000 fois, cette machine est synonyme de fiabilité et de qualité. Avec son démarrage direct et son arrêt automatique, elle allie praticité et économies d'énergie. Faites de chaque tasse un moment de plaisir avec la Senseo Vibe.",
-    "price": 249.99,
-    "reference_price": 320.0,
-    "discount_percent": 21.9,
+    "price": 891.65,
+    "reference_price": 960.0,
+    "discount_percent": 7.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/senseo-philips-csa22501-machine-a-cafe-compacte-senseo-vibe-bleu-3432277",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pqk6x/3432277_1/re/1200x1200/qt/90/3432277_1.jpg",
@@ -18299,20 +18450,24 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.boulanger.com/ref/1239458",
     "price_history": [
       {
         "price": 249.99,
         "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      },
+      {
+        "price": 891.65,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
   {
     "title": "Sélection d'articles Dr Martens en promotion",
     "description": "Dr. Martens Profitez de jusqu'à -40 % sur des boots, chaussures et accessoires Dr. Martens avec nos promos*. Explorez la sélection sans attendre.",
-    "price": 54.99,
-    "reference_price": 69.99,
-    "discount_percent": 21.4,
+    "price": 13.99,
+    "reference_price": 39.99,
+    "discount_percent": 65.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/jusqua-40-sur-une-selection-darticles-dr-martens-3432276",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/LMYim/3432276_1/re/1200x1200/qt/90/3432276_1.jpg",
@@ -18326,6 +18481,10 @@
       {
         "price": 54.99,
         "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      },
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -18365,7 +18524,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.cdiscount.com/jardin/outillage-de-jardin/tondeuse-thermique-poussee-mp132-40-40cm-131-c/f-1632601-sch5911250903.html",
     "price_history": [
       {
         "price": 112.49,
@@ -23386,6 +23545,10 @@
       {
         "price": 20.1,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 20.1,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -23408,6 +23571,10 @@
       {
         "price": 29.8,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 29.8,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -23430,6 +23597,10 @@
       {
         "price": 179.99,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 179.99,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -23452,6 +23623,10 @@
       {
         "price": 15.37,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 15.37,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -23474,6 +23649,10 @@
       {
         "price": 97.48,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 97.48,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -23496,6 +23675,10 @@
       {
         "price": 739.2,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 739.2,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -23518,6 +23701,10 @@
       {
         "price": 12.95,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 12.95,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -23540,6 +23727,10 @@
       {
         "price": 21.99,
         "observed_at": "2026-10-13T21:37:49.598634+00:00"
+      },
+      {
+        "price": 21.99,
+        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   },
@@ -24800,84 +24991,6 @@
       },
       {
         "price": 3.7,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Friteuse sans Huile KitchenCook Airmed W - 10L , 1700W, 10 programmes, double zone (Via Coupon)",
-    "description": "64,99€ - JoyBuy Friteuse sans huile (Airfryer) d'une grande capacité de 10 litres (modèle KitchenCook AIRMED W). Conçue pour une cuisine saine sans ajout de matières grasses, elle permet de cuire simultanément deux plats grâce à sa double zone de cuisson modulable. Points forts et caractéristiques : • Prix de 64,99 € via coupon : S'obtient en appliquant le coupon de réduction de 25 € disponible dès 50 € d'achats sur la page du produit. • Capacité XXL de 10 Litres : Format idéal pour les familles ou les grands repas, permettant de préparer de grosses portions rapidement. • 10 programmes automatiques : Réglages prédéfinis pour frites, viandes, poissons, légumes, gâteaux et déshydratation. • Panneau de commande tactile LED : Interface claire pour régler la température (80°C à 200°C) et le minuteur de manière indépendante. • Puissance de 1700 W : Permet une montée en température rapide et une circulation d'air homogène pour des aliments croustillants. • Nettoyage simplifié : Panier et grilles amovibles avec revêtement anti-adhésif.",
-    "price": 64.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/via-coupon-friteuse-sans-huile-10l-kitchencook-airmed-w-1700w-10-programmes-double-zone-3431926",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/CXlxe/3431926_1/re/1200x1200/qt/90/3431926_1.jpg",
-    "detected_at": "2026-10-13T19:06:26+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 64.99,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
-      },
-      {
-        "price": 64.99,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Appareil à raclette 6 personnes Techwood TR-602 MULTI - Poêlons avec manches colorés",
-    "description": "19,98€ - Electro Dépôt Appareil à raclette 6 personnes Techwood TR-602 MULTI - Poêlons avec manches colorés Appareil à raclette Techwood pour 6 personnes doté d'une plaque grill supérieure et de 6 poêlons antiadhésifs avec manches de couleurs différentes pour faciliter le repérage de chacun autour de la table. L'appareil dispose d'un interrupteur marche/arrêt avec témoin lumineux et offre une puissance adaptée pour la cuisson du fromage et des grillades simultanées. https://www.electrodepot.fr/raclette-multifonctions-techwood-6-pers-tr-602-multi.html Prix : 19,98€ Frais de port : Offert en retrait magasin Code promo : Aucun",
-    "price": 19.98,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/appareil-a-raclette-6-personnes-techwood-tr-602-multi-poelons-avec-manches-colores-3431916",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/QucJU/3431916_1/re/1200x1200/qt/90/3431916_1.jpg",
-    "detected_at": "2026-10-13T18:55:47+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.98,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 19.98,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Television samsung QLED 65 pouces",
-    "description": "439,99€ - JoyBuy Très bon prix pour cette télévision Samsung QLed 65 pouces. Elle est à 499€ sous une autre référence",
-    "price": 439.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/television-samsung-qled-65-pouces-3431921",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/h5JZs/3431921_1/re/1200x1200/qt/90/3431921_1.jpg",
-    "detected_at": "2026-10-13T18:55:25+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 439.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 439.99,
         "observed_at": "2026-10-14T19:26:16.073333+00:00"
       }
     ]
