@@ -1,5 +1,68 @@
 [
   {
+    "title": "Siemens HZ638000 Accessoire po...ension complète clipsable inox",
+    "price": 49.74,
+    "reference_price": 82.99,
+    "discount_percent": 40.07,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BK5KQMWR",
+    "image_url": "https://m.media-amazon.com/images/P/B0BK5KQMWR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 49.74,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Polisseuse 40V XGT (Produit seul) - MAKITA PV001GZ",
+    "price": 277.89,
+    "reference_price": 337.6,
+    "discount_percent": 17.69,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0B38WT9JH",
+    "image_url": "https://m.media-amazon.com/images/P/B0B38WT9JH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:04",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 277.89,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Villeroy & Boch - Christmas To...kies, Porcelaine Haut de Gamme",
+    "price": 81.04,
+    "reference_price": 99.9,
+    "discount_percent": 18.88,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DBGJWLDW",
+    "image_url": "https://m.media-amazon.com/images/P/B0DBGJWLDW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:59:44",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 81.04,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
     "title": "AEG 900168824 GR201SM Sac d'aspirateur, Bleu, Blanc",
     "price": 21.99,
     "reference_price": 66.99,
@@ -3266,7 +3329,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -3287,7 +3350,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -3392,7 +3455,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -3413,7 +3476,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -3434,7 +3497,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -3455,7 +3518,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -3881,6 +3944,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -3902,6 +3969,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -3923,6 +3994,10 @@
       {
         "price": 14.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -3944,6 +4019,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -3965,6 +4044,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -3986,6 +4069,10 @@
       {
         "price": 10.5,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 10.5,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4007,6 +4094,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4028,6 +4119,10 @@
       {
         "price": 19.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4049,6 +4144,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4070,6 +4169,10 @@
       {
         "price": 26.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4091,6 +4194,10 @@
       {
         "price": 8.36,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 8.36,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4112,6 +4219,10 @@
       {
         "price": 7.29,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 7.29,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4133,6 +4244,10 @@
       {
         "price": 22.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 22.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -4154,6 +4269,10 @@
       {
         "price": 25.05,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 25.05,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -8258,46 +8377,90 @@
     ]
   },
   {
-    "title": "Drone DJI Mini 5 Pro",
-    "description": "522,38€ - AliExpress Conception pliable ultra-légère et compacte Compact et pliable, ce drone se tient dans la paume de votre main, offre 42 Go de stockage interne et une certification C0 pour un vol facile. [ Capteur CMOS 1 pouce avec vidéo HDR 4K/60fps ] Le capteur CMOS de 1 pouce capture une vidéo HDR 4K/60fps avec des détails nettes et des couleurs vives pour des images de haute qualité époustouflantes. [ Prise de vue verticale authentique et flexible 225° Rotation ] Capturez des images créatives avec un pod qui permet une prise de vue verticale authentique et 225°° Rotation de rouleaux sous différents angles et hauteurs. Détection d'obstacles omnidirectionnelle dans le paysage nocturne Les capteurs LiDAR et de vision orientés vers l'avant détectent les obstacles dans toutes les directions, améliorant la sécurité des vols nocturnes et la rétrocaveation vers le point de départ. [ Amélioré 360° ActiveTrack ] Des modes de suivi personnalisables et une stabilité améliorée assurent que les sujets restent en phase, avec une réponse plus rapide et des performances sûres pour le cyclisme et plus encore. [Autonomie de batterie étendue] Profitez d'une autonomie de vol allant jusqu'à 36 minutes avec la batterie de vol intelligente, et la charge rapide vous permet de charger trois batteries en environ 115 minutes.",
-    "price": 522.38,
+    "title": "Robot Aspirateur Laveur Dreame L10S Ultra Gen3 Set - avec Station, Blanc",
+    "description": "379€ - Boulanger Le Robot Aspirateur Laveur DREAME L10S Ultra Gen3 Set est un appareil de nettoyage puissant et efficace. **spécifications du produit :** - Puissance d'aspiration de 25 000 Pa - Moteur TurboForce de 6ème génération - Efficace sur sols durs, tapis et moquettes - Élimine les gros débris comme la litière pour chat - Technologie de nettoyage avancée",
+    "price": 379.0,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/drone-dji-mini-5-pro-3432377",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/dBJYU/3432377_1/re/1200x1200/qt/90/3432377_1.jpg",
-    "detected_at": "2026-10-14T12:45:40+00:00",
-    "category": "Autre",
+    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-dreame-l10s-ultra-gen3-set-3432381",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1mHuP/3432381_1/re/1200x1200/qt/90/3432381_1.jpg",
+    "detected_at": "2026-10-14T12:54:23+00:00",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "https://fr.aliexpress.com/item/1005011654088841.html",
+    "merchant_url": "https://www.boulanger.com/ref/1233543",
     "price_history": [
       {
-        "price": 522.38,
-        "observed_at": "2026-10-14T12:47:20.899971+00:00"
+        "price": 379.0,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
   {
-    "title": "Mini caméra sport bodycam 2,7k + micro SD 32Go (via coupon - vendeur tiers)",
-    "description": "39,98€ - Amazon Cochez la case du coupon pour obtenir une remise de 15€ à la validation du panier et atteindre le prix annoncé. À propos de ce produit Camera corporelle 2,7K Ultra HD grand angle 130° Cette camera portable capture des vues panoramiques immersives en mode camera pov.Cette action cam convient au cyclisme, vlog et moto, elle fait office de camera moto.Sous l’eau, c’est une camera sous marine, montable sur poitrine en camera torse pour tous vos tournages avec la camera vlog.Résolutions modulables, fichiers MP4/JPEG sans transcodage, lecture mobile et partage social en un clic. Plaque arrière magnétique puissante Cette caméra sport possède une plaque magnétique pour fixation antidérapante sur métal, fournie avec plus de 10 supports polyvalents. En tant que camera action, elle s’adapte aux casques, vélos et sacs à dos. Cette action cam convient aux usages variés : camera casque moto, camera ski et camera equitation. Vous pouvez l’utiliser en camera frontale ou camera pieton, la camera waterproof résiste aux intempéries et la camera voyage permet de filmer mains libres. Étanche 10M, adapté à tous les scénarios Cette caméra enregistre audio/vidéo et résiste aux éclaboussures. La caméra portable se porte sur la poitrine ou dans une poche. Avec son étui, elle devient une camera etanche : utilisez-la en caméra sous marine pour le snorkeling. Robuste pour randonnée, camping et plage, elle sert de caméra velo, de caméra moto et se fixe sur casque en caméra casque moto. Batterie 3H et stockage 32Go Caméra corporelle batterie 600mAh pour 3h d’enregistrement continu. La mini caméra et mini camera sport disposent de 32Go intégrés sans carte supplémentaire. Lecteur double port pour transfert rapide sur mobile ou PC. Portée poitrine en camera torse, pour piétons en camera pieton, voyages avec la camera voyage. Polyvalente camera vlog, adaptée à l’équitation en camera equitation, fixée sur la tête en camera frontale ou moto en dashcam moto. Caméra magnétique Cette caméra se connecte au téléphone pour contrôle à distance, aperçu temps réel et lecture immédiate. Petite caméra de poche, c’est une camera portable et camera portative à porter mains libres. Filmez des plans immersifs avec cette camera sport, fixez-la sur moto en camera moto ou camera pour moto. Ses fichiers MP4/JPEG se transfèrent sans transcodage, idéale en camera velo et caméra sous marine pour cyclisme, ski et plongée. Commentaires client",
-    "price": 39.98,
+    "title": "Boîte de rangement empilable à 4 niveaux avec portes magnétiques et roulettes - 180 L - 31 x 55 x 111 cm - Blanc",
+    "description": "34,19€ - Songmics > Ajoutez le code ATOLLSRLB450 > Livraison offerte Les atouts de ces boîtes empilables en bref : Grande capacité : 4 niveaux cumulant 180 L de rangement pour vos vêtements, chaussures, fournitures de bureau ou articles de salle de bain. Montage express : Ces boîtes se montent en quelques gestes et se replient tout aussi facilement quand vous n’en avez plus besoin. Polyvalentes et faciles à déplacer : Idéales pour la chambre, le salon, la salle de bain ou la cuisine, elles se déplacent sans effort grâce aux roulettes silencieuses intégrées. Double porte magnétique : Accès rapide à leur contenu, même lorsque les boîtes sont empilées. Grâce à l’aimant, la porte se ferme toute seule et reste bien fermée. Matériau en plastique PP : Ces boîtes sont conçues en plastique PP épaissi et dotées de nervures de renfort. Caractéristiques : Couleur : Blanc Matériau : Plastique PP (polypropylène) Dimensions totales : 31 x 55 x 111 cm (P x L x H) Dimensions par niveau (sans roulettes) : 25,5 x 42,7 x 23 cm (P x L x H) Capacité par niveau : 45 L Poids : 4,9 kg Capacité de charge statique maximale par boîte : 4 kg Livraison : 1 x Organiseur à 4 niveaux Précautions de SONGMICS : Cette tour de rangement comprend 4 paniers et un couvercle. Ne surchargez pas ces boîtes de rangement. Ne déplacez pas ces boîtes sur de longues distances lorsqu’elles sont entièrement remplies. Avant de les déplacer, assurez-vous que les freins des roulettes sont complètement déverrouillés.",
+    "price": 34.19,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mini-camera-sport-bodycam-27k-micro-sd-32go-via-coupon-3432347",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jN4ba/3432347_1/re/1200x1200/qt/90/3432347_1.jpg",
-    "detected_at": "2026-10-14T12:11:00+00:00",
-    "category": "High-tech",
+    "url": "https://www.dealabs.com/bons-plans/boite-de-rangement-empilable-a-4-niveaux-avec-portes-magnetiques-et-roulettes-180-l-31-x-55-x-111-cm-blanc-3432383",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5CfwW/3432383_1/re/1200x1200/qt/90/3432383_1.jpg",
+    "detected_at": "2026-10-14T12:52:11+00:00",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 39.98,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
+        "price": 34.19,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Macif Avantages] TV 55\" LG OLED55C6 2026 - OLED 4K UHD,165 Hz VRR, HDR10, Dolby Vision + Barre de son 5.1 S60TR (Via ODR de 200€)",
+    "description": "1 096,28€ - LG ● Prix sympa pour ce pack Comment obtenir ce prix ? Grâce à un code MACIF AVANTAGES -15% + ODR de 200€ Barre de son vendu 200€ sur AMAZON La TV LG OLED55C66LB.S60T001 est un téléviseur intelligent de 55 pouces conçu pour offrir une expérience visuelle optimale. *caractéristiques du produit:* - Écran OLED de 55 pouces (139 cm) - Résolution 4K - Plateforme webOS avec fonctions smart AI - Modèle 2026",
+    "price": 1096.28,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/macif-avantages-tv-55-lg-oled55c6-2026-oled-4k-uhd165-hz-vrr-hdr10-dolby-vision-barre-de-son-51-s60tr-via-odr-de-200eur-3432378",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Yr9zM/3432378_1/re/1200x1200/qt/90/3432378_1.jpg",
+    "detected_at": "2026-10-14T12:47:02+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/LG-S60TR-Noir-5-1-canaux/dp/B0CY5P9L11",
+    "price_history": [
+      {
+        "price": 1096.28,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coffret eau de parfum Lancôme Miracle - 30 ml",
+    "description": "36,33€ - Flaconi Coffret comprenant une eau de parfum Miracle 30 ml, un lait pour le corps et une miniature. 36.33 au lieu de 65 € soit près de -50 % Disponible chez Flaconi, en",
+    "price": 36.33,
+    "reference_price": 65.0,
+    "discount_percent": 44.1,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coffret-lancome-miracle-30-ml-3432374",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wXF7n/3432374_1/re/1200x1200/qt/90/3432374_1.jpg",
+    "detected_at": "2026-10-14T12:40:18+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 36.33,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18419,6 +18582,10 @@
       {
         "price": 11.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18441,6 +18608,10 @@
       {
         "price": 19.85,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 19.85,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18463,6 +18634,10 @@
       {
         "price": 279.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 279.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18485,6 +18660,10 @@
       {
         "price": 1.89,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 1.89,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18507,6 +18686,10 @@
       {
         "price": 4.49,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 4.49,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18529,6 +18712,10 @@
       {
         "price": 290.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 290.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18551,6 +18738,10 @@
       {
         "price": 22.49,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 22.49,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18573,6 +18764,10 @@
       {
         "price": 7.59,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 7.59,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18595,6 +18790,10 @@
       {
         "price": 113.04,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 113.04,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18617,6 +18816,10 @@
       {
         "price": 4.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18639,6 +18842,10 @@
       {
         "price": 32.37,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 32.37,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18661,6 +18868,10 @@
       {
         "price": 1259.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 1259.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -18683,6 +18894,10 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-13T12:47:55.385070+00:00"
+      },
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -20937,5 +21152,57 @@
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": []
+  },
+  {
+    "title": "Sac à dos Deuter Trans Alpine Pro 28 - Graphite",
+    "description": "119,36€ - Amazon.es Le système de portage Airstripes à poids réduit, avec soutien lombaire et tissu d'espacement perméable à l'air (Air-Spacer-Mesh), assure une ventilation fiable même lors d'étapes éprouvantes et se maintient de manière compacte contre le corps. Des éléments réfléchissants, des consignes de sécurité à l'intérieur du sac à dos et un sifflet de signalisation contribuent à renforcer la sécurité lors des randonnées à vélo. Dimensions : 55 cm x 29 cm x 21 cm | Poids : 1350 grammes Description Même lors de randonnées à vélo ambitieuses et de traversées alpines, le sac à dos VTT au poids optimisé est extrêmement stable sur le dos. Le système dorsal Airstripes soulage les épaules et offre une ventilation optimale grâce à sa petite surface de contact. L'énorme espace de rangement du sac à dos de vélo est parfaitement organisé : De nombreux compartiments, de grandes poches sur les hanches et des séparateurs permettent d'organiser les outils, les vêtements et tout ce dont vous avez besoin pour des randonnées de plusieurs jours longues et exigeantes.",
+    "price": 119.36,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/deuter-trans-alpine-pro-28-sac-a-dos-de-velo-3431578",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9HwSE/3431578_1/re/1200x1200/qt/90/3431578_1.jpg",
+    "detected_at": "2026-10-13T09:45:54+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 119.36,
+        "observed_at": "2026-10-13T09:59:23.638697+00:00"
+      },
+      {
+        "price": 119.36,
+        "observed_at": "2026-10-14T12:11:18.818002+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Multicuiseur Moulinex Cookeo Connecté YY5571FB 6L + Couvercle Air Fryer Extra Crisp",
+    "description": "199,99€ - Carrefour Belle baisse de prix chez Carrefour sur ce pack très complet Moulinex Cookeo Connecté Rouge + Accessoire Extra Crisp qui passe à 199,99 € . Habituellement, le Cookeo seul ou le pack tourne autour près de 300 € chez la concurrence (Auchan, Leclerc, etc.), et l'accessoire Extra Crisp vaut à lui seul environ 70-80 €. --- ### Pourquoi ce pack est particulièrement intéressant ? 1. Le Cookeo Connecté (6 Litres / 1600W) : - Connectivité Bluetooth : synchronisez l'application MyMoulinex pour télécharger directement des centaines de recettes interactives. - 180 recettes préprogrammées + suivi pas à pas sur l'écran. - Cuisson ultra rapide sous pression, vapeur, mijotage, dorage et réchauffage. - Capacité 6L (idéal pour 2 à 6 personnes). 2. L'Accessoire Extra Crisp (Inclus) : - C'est la fonction \"Air Fryer / Friteuse sans huile\" qui vient se poser directement sur la cuve du Cookeo. - Permet de griller, rôtir, frire et gratiner vos plats (poulet rôti croustillant, frites, gratin dauphinois, gâteaux) sans allumer le grand four. - Pas besoin de préchauffage : 30 % plus rapide qu'un four traditionnel. --- ### En résumé : - Un 2-en-1 complet : Multicuiseur sous pression + Air Fryer dans le même appareil. - Coloris : Édition Rouge. - Garantie : 2 ans (pièces réparables 15 ans par Moulinex). Livraison gratuite en Drive ou retrait magasin.",
+    "price": 199.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/multicuiseur-moulinex-cookeo-connecte-6l-couvercle-air-fryer-extra-crisp-yy5571fb-rouge-19999-eur-au-lieu-de-29999-eur-carrefour-3431582",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/u0WCK/3431582_1/re/1200x1200/qt/90/3431582_1.jpg",
+    "detected_at": "2026-10-13T09:44:03+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 199.99,
+        "observed_at": "2026-10-13T09:59:23.638697+00:00"
+      },
+      {
+        "price": 199.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
   }
 ]
