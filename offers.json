@@ -1,5 +1,1475 @@
 [
   {
+    "title": "Zenitech Rouleau adhésif 15mmx10 m Rouge",
+    "price": 0.9,
+    "reference_price": 1.05,
+    "discount_percent": 14.29,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01AGJHUES",
+    "image_url": "https://m.media-amazon.com/images/P/B01AGJHUES.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:56",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 0.9,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sunware Sigma Home Boite de Ra...tique - Panier rangement blanc",
+    "price": 7.99,
+    "reference_price": 10.54,
+    "discount_percent": 24.19,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01MRSZHDT",
+    "image_url": "https://m.media-amazon.com/images/P/B01MRSZHDT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:54",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ribiland PRB65004X05 Bâche PVC Blanc 4 x 5 m 650 g",
+    "price": 107.42,
+    "reference_price": 116.27,
+    "discount_percent": 7.61,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B018OB6EG0",
+    "image_url": "https://m.media-amazon.com/images/P/B018OB6EG0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:53",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 107.42,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "OtterBox React Folio Coque pou...Air 11 Pouces (M4/M3/M2), Noir",
+    "price": 37.8,
+    "reference_price": 39.98,
+    "discount_percent": 5.45,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DHDDJT2K",
+    "image_url": "https://m.media-amazon.com/images/P/B0DHDDJT2K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:52",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 37.8,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mobil Super 3000 Formula V 5W-30, 1L",
+    "price": 11.99,
+    "reference_price": 12.51,
+    "discount_percent": 4.16,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00BCKUCNW",
+    "image_url": "https://m.media-amazon.com/images/P/B00BCKUCNW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:42",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DEBFLEX - Couvercle de Finitio...aque Carrée 85 x 85 mm - Blanc",
+    "price": 4.5,
+    "reference_price": 6.09,
+    "discount_percent": 26.11,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F67DHY7G",
+    "image_url": "https://m.media-amazon.com/images/P/B0F67DHY7G.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:40",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 4.5,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Gardena Brosse de lavage Cleansystem pour vélo",
+    "price": 15.42,
+    "reference_price": 18.49,
+    "discount_percent": 16.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CNPZ4K5Z",
+    "image_url": "https://m.media-amazon.com/images/P/B0CNPZ4K5Z.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:38",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.42,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Whirlpool; Micro-Ondes MWP337SB",
+    "price": 290.82,
+    "reference_price": 318.91,
+    "discount_percent": 8.81,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B078YYKVN6",
+    "image_url": "https://m.media-amazon.com/images/P/B078YYKVN6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:37",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 290.82,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Spontex Easy Max+ Recharge de serpillère Plate en Microfibre",
+    "price": 6.99,
+    "reference_price": 9.63,
+    "discount_percent": 27.41,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09CQJ14BB",
+    "image_url": "https://m.media-amazon.com/images/P/B09CQJ14BB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:36",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Moulinex Accessoire Cookeo Wi-...e manipulation facile, XA6150E",
+    "price": 42.99,
+    "reference_price": 44.99,
+    "discount_percent": 4.45,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FJYH6NWB",
+    "image_url": "https://m.media-amazon.com/images/P/B0FJYH6NWB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:35",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 42.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Poêle Wok En Aluminium 28cm Noir - 010275041828",
+    "price": 56.31,
+    "reference_price": 59.73,
+    "discount_percent": 5.73,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DG3HBYR3",
+    "image_url": "https://m.media-amazon.com/images/P/B0DG3HBYR3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:23",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 56.31,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO 222115 Exzenter Excentrique, Brillance Soyeuse, L",
+    "price": 67.05,
+    "reference_price": 73.99,
+    "discount_percent": 9.38,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B004YWSIFO",
+    "image_url": "https://m.media-amazon.com/images/P/B004YWSIFO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:21",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 67.05,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bouilloire electriques - Bouil...inox/noir - WKR 3624 Clatronic",
+    "price": 24.01,
+    "reference_price": 28.5,
+    "discount_percent": 15.75,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01E0KS6JC",
+    "image_url": "https://m.media-amazon.com/images/P/B01E0KS6JC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:20",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.01,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca - Glissières pour tiroir...oulisses à sortie totale, Noir",
+    "price": 39.4,
+    "reference_price": 43.81,
+    "discount_percent": 10.07,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0989QBJ6T",
+    "image_url": "https://m.media-amazon.com/images/P/B0989QBJ6T.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:17",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 39.4,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO Robinet d'évier de Cuis...– 526242, Acier PVD, Hochdruck",
+    "price": 330.93,
+    "reference_price": 346.85,
+    "discount_percent": 4.59,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08LDR8CKX",
+    "image_url": "https://m.media-amazon.com/images/P/B08LDR8CKX.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:16",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 330.93,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Princess Grille-viande 112415 ...nt, Surface cuisson 30 x 24 cm",
+    "price": 36.99,
+    "reference_price": 40.99,
+    "discount_percent": 9.76,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07HG8N3GN",
+    "image_url": "https://m.media-amazon.com/images/P/B07HG8N3GN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:03:15",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 36.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca Passe-câble Rond Encastr...mm pour Bureau en Zamac Chromé",
+    "price": 6.69,
+    "reference_price": 9.32,
+    "discount_percent": 28.22,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B079MQVFC3",
+    "image_url": "https://m.media-amazon.com/images/P/B079MQVFC3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:09",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.69,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sophie la Girafe - Set de 2 Pa...Bébé dans la Voiture du Soleil",
+    "price": 12.9,
+    "reference_price": 13.5,
+    "discount_percent": 4.44,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09RMB6WRT",
+    "image_url": "https://m.media-amazon.com/images/P/B09RMB6WRT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:08",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DIGITUS Câble de Connexion Lig...le - Blanc - pour iPad, iPhone",
+    "price": 20.69,
+    "reference_price": 21.9,
+    "discount_percent": 5.53,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DG4ZS3YB",
+    "image_url": "https://m.media-amazon.com/images/P/B0DG4ZS3YB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:07",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.69,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Les Bons Souvenirs",
+    "price": 9.05,
+    "reference_price": 12.2,
+    "discount_percent": 25.82,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08GBHCH3X",
+    "image_url": "https://m.media-amazon.com/images/P/B08GBHCH3X.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.05,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Energy Sistem Earphones Blueto...Secure-Fit, Sweatproof) (Noir)",
+    "price": 19.55,
+    "reference_price": 22.99,
+    "discount_percent": 14.96,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09B14QHTC",
+    "image_url": "https://m.media-amazon.com/images/P/B09B14QHTC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:04",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.55,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Optima Naturals Dr. Organic Mo...ccan Argan Oil Face Wash 150ml",
+    "price": 8.89,
+    "reference_price": 9.53,
+    "discount_percent": 6.72,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B071GL2HR4",
+    "image_url": "https://m.media-amazon.com/images/P/B071GL2HR4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:03",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.89,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Professional 1x Rouleaux...0, Accessoires Ponçage manuel)",
+    "price": 21.26,
+    "reference_price": 24.41,
+    "discount_percent": 12.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09417CHXF",
+    "image_url": "https://m.media-amazon.com/images/P/B09417CHXF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:01",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 21.26,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Babaria 1004-50210 Huile Pure Rose Musquée 50 ml",
+    "price": 10.38,
+    "reference_price": 15.0,
+    "discount_percent": 30.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001L98SNK",
+    "image_url": "https://m.media-amazon.com/images/P/B001L98SNK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:02:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 10.38,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Excelsa EX46943 Porte-Savon Po...tyrol Crème 22,5 x 15,5 x 6 cm",
+    "price": 11.92,
+    "reference_price": 15.6,
+    "discount_percent": 23.59,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00V63FA1E",
+    "image_url": "https://m.media-amazon.com/images/P/B00V63FA1E.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:59",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.92,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "GAR S.ACT.CREMA HYALURONIC ALOE JELLY 50",
+    "price": 7.09,
+    "reference_price": 9.32,
+    "discount_percent": 23.93,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CJ9PNN1V",
+    "image_url": "https://m.media-amazon.com/images/P/B0CJ9PNN1V.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:58",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.09,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HSM SECURIO AF350 Destructeur ...oisée 4,5x30 mm I 350 Feuilles",
+    "price": 617.33,
+    "reference_price": 656.73,
+    "discount_percent": 6.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09Y2ZJ5XB",
+    "image_url": "https://m.media-amazon.com/images/P/B09Y2ZJ5XB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:57",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 617.33,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "AGE PERFECT - Soin Re-Substanceur de Jour",
+    "price": 15.04,
+    "reference_price": 16.24,
+    "discount_percent": 7.39,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00E4L3UR6",
+    "image_url": "https://m.media-amazon.com/images/P/B00E4L3UR6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:56",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.04,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Equilibra Corps, Calendula Len...et caoutchouc Xanthana, 100 ml",
+    "price": 5.0,
+    "reference_price": 6.46,
+    "discount_percent": 22.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08GY4WWW5",
+    "image_url": "https://m.media-amazon.com/images/P/B08GY4WWW5.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.0,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Gooby Gilet rembourré pour Tem...re de sécurité, Taille L, Rose",
+    "price": 11.05,
+    "reference_price": 12.28,
+    "discount_percent": 10.02,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B009757CJG",
+    "image_url": "https://m.media-amazon.com/images/P/B009757CJG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:54",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.05,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "StarTech.com Câble USB-C vers ...ifié Apple Mfi (RUSB2CLTMM1MR)",
+    "price": 16.77,
+    "reference_price": 18.35,
+    "discount_percent": 8.61,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BKTG6BGP",
+    "image_url": "https://m.media-amazon.com/images/P/B0BKTG6BGP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:53",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.77,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TP-Link TL-POE260S Adaptateur ...cteur PoE 2.5 Gigabit Ethernet",
+    "price": 32.26,
+    "reference_price": 33.99,
+    "discount_percent": 5.09,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C4SN1YJG",
+    "image_url": "https://m.media-amazon.com/images/P/B0C4SN1YJG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:52",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 32.26,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lefranc Bourgeois Additif - Médium Fluide Brilliant 250ml",
+    "price": 12.95,
+    "reference_price": 13.57,
+    "discount_percent": 4.57,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07GH4HVC9",
+    "image_url": "https://m.media-amazon.com/images/P/B07GH4HVC9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:51",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.95,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Samsung Smart View Wallet Cove...tions pour Galaxy A35 5G Blanc",
+    "price": 22.59,
+    "reference_price": 25.9,
+    "discount_percent": 12.78,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CW17QP6F",
+    "image_url": "https://m.media-amazon.com/images/P/B0CW17QP6F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:50",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 22.59,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Einhell Original Set de 2 Buses BRILLIANTO",
+    "price": 20.95,
+    "reference_price": 21.99,
+    "discount_percent": 4.73,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C65SB75F",
+    "image_url": "https://m.media-amazon.com/images/P/B0C65SB75F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:49",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.95,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "MIXA - Autobronzant - Lait Cor...bricot - Peaux Claires - 250ml",
+    "price": 6.1,
+    "reference_price": 6.31,
+    "discount_percent": 3.33,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GHPPFBP9",
+    "image_url": "https://m.media-amazon.com/images/P/B0GHPPFBP9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:48",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.1,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CODICO Jouet Canard pour Chien",
+    "price": 4.9,
+    "reference_price": 6.84,
+    "discount_percent": 28.36,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01MQE19C4",
+    "image_url": "https://m.media-amazon.com/images/P/B01MQE19C4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:20",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 4.9,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Move - Aspirateur à main...able, puissance max. 20V, bleu",
+    "price": 79.0,
+    "reference_price": 86.98,
+    "discount_percent": 9.17,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B085FCVSWZ",
+    "image_url": "https://m.media-amazon.com/images/P/B085FCVSWZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:18",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 79.0,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Dreame 2x Un Gant de Toilette ...F9 pro Robot Aspirateur Laveur",
+    "price": 13.99,
+    "reference_price": 16.99,
+    "discount_percent": 17.66,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C78F6KKJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0C78F6KKJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:17",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Villeroy & Boch Manufacture Ro...cm), Porcelaine Premium, Blanc",
+    "price": 18.3,
+    "reference_price": 18.9,
+    "discount_percent": 3.17,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07HRMMG8F",
+    "image_url": "https://m.media-amazon.com/images/P/B07HRMMG8F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:16",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.3,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Villeroy & Boch 12-6529-9330 N...ydable Passe au lave-vaisselle",
+    "price": 37.89,
+    "reference_price": 39.27,
+    "discount_percent": 3.51,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B085QVQ4P6",
+    "image_url": "https://m.media-amazon.com/images/P/B085QVQ4P6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:15",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 37.89,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kärcher CVH 2, Aspirateur à Main sans Fil, Blanc, Noir",
+    "price": 44.5,
+    "reference_price": 48.54,
+    "discount_percent": 8.32,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CN6RQBDY",
+    "image_url": "https://m.media-amazon.com/images/P/B0CN6RQBDY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:14",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 44.5,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch wtz1110 Sèche-linge/Acce...res pour kondensationstrockner",
+    "price": 14.99,
+    "reference_price": 18.7,
+    "discount_percent": 19.84,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000Y9YPIA",
+    "image_url": "https://m.media-amazon.com/images/P/B000Y9YPIA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:13",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LITTLE BALANCE 8943 Raclette 4...PFAS, Antiadhésif, 800W, Sapin",
+    "price": 25.0,
+    "reference_price": 27.9,
+    "discount_percent": 10.39,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FRG2DMDW",
+    "image_url": "https://m.media-amazon.com/images/P/B0FRG2DMDW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:12",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 25.0,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO 226189 Passoire Inox Inox",
+    "price": 64.99,
+    "reference_price": 68.21,
+    "discount_percent": 4.72,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00615KKEE",
+    "image_url": "https://m.media-amazon.com/images/P/B00615KKEE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:01:10",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 64.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO 526012 ZIA 45 S Évier d...sine, Noir, 45 cm Unterschrank",
+    "price": 247.72,
+    "reference_price": 265.99,
+    "discount_percent": 6.87,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08662MRK3",
+    "image_url": "https://m.media-amazon.com/images/P/B08662MRK3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:57",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 247.72,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Siemens vsz7442s Aspirateur traîneau z7.0 Blanc",
+    "price": 204.74,
+    "reference_price": 226.74,
+    "discount_percent": 9.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0749S3S7L",
+    "image_url": "https://m.media-amazon.com/images/P/B0749S3S7L.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:56",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 204.74,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Professional 1600A01TG1 ... en acier et capuchon en acier",
+    "price": 10.8,
+    "reference_price": 11.74,
+    "discount_percent": 8.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B081KDGC3G",
+    "image_url": "https://m.media-amazon.com/images/P/B081KDGC3G.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 10.8,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Siemens ET845FCP1D plaque Noir...placement) Céramique 4 zone(s)",
+    "price": 564.99,
+    "reference_price": 589.2,
+    "discount_percent": 4.11,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01LVWRZGD",
+    "image_url": "https://m.media-amazon.com/images/P/B01LVWRZGD.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:54",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 564.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blanco 522985 ANDANO 400/400-I..., 400/400 mm Largeur du Bassin",
+    "price": 640.86,
+    "reference_price": 669.3,
+    "discount_percent": 4.25,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01N0KE3O3",
+    "image_url": "https://m.media-amazon.com/images/P/B01N0KE3O3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:52",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 640.86,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SEVERIN Blender avec Récipient...5 L, env. 600 W, SM 3707, Noir",
+    "price": 27.99,
+    "reference_price": 29.75,
+    "discount_percent": 5.92,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01N5XJGCF",
+    "image_url": "https://m.media-amazon.com/images/P/B01N5XJGCF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:51",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 27.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Black Cat DG Coating 6/0 Mega Crochets 6 pièces",
+    "price": 12.89,
+    "reference_price": 14.99,
+    "discount_percent": 14.01,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07SSC2VHL",
+    "image_url": "https://m.media-amazon.com/images/P/B07SSC2VHL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:50",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.89,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Facom 985764 Pince A Manchonner",
+    "price": 135.87,
+    "reference_price": 148.97,
+    "discount_percent": 8.79,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00B1C2ONC",
+    "image_url": "https://m.media-amazon.com/images/P/B00B1C2ONC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:48",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 135.87,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Beko fsm571 00gw Cuisinière (é...oin de chaleur résiduelle/Noir",
+    "price": 496.92,
+    "reference_price": 523.59,
+    "discount_percent": 5.09,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B075GS1NP3",
+    "image_url": "https://m.media-amazon.com/images/P/B075GS1NP3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:47",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 496.92,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO VONDA Robinet de cuisin...eau garantie et économie d'eau",
+    "price": 461.21,
+    "reference_price": 484.97,
+    "discount_percent": 4.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0071NMRU0",
+    "image_url": "https://m.media-amazon.com/images/P/B0071NMRU0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:46",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 461.21,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caso Selection T 2 2769 Grille...es de pain en acier inoxydable",
+    "price": 45.08,
+    "reference_price": 46.61,
+    "discount_percent": 3.28,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08QCZ74BK",
+    "image_url": "https://m.media-amazon.com/images/P/B08QCZ74BK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:45",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 45.08,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLACK+DECKER, Sacs filtre en papier, Havane",
+    "price": 20.45,
+    "reference_price": 23.88,
+    "discount_percent": 14.36,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B091V2RYZH",
+    "image_url": "https://m.media-amazon.com/images/P/B091V2RYZH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:21",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.45,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 515.2000 Coffret de t...pper avec embouts - 6 pans - 5",
+    "price": 63.13,
+    "reference_price": 65.83,
+    "discount_percent": 4.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07Y3W8KLW",
+    "image_url": "https://m.media-amazon.com/images/P/B07Y3W8KLW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:20",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 63.13,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca - Tiroir extérieur Verte... mm, Peint en aluminium, Acier",
+    "price": 52.1,
+    "reference_price": 56.9,
+    "discount_percent": 8.44,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CVH1KZ9Y",
+    "image_url": "https://m.media-amazon.com/images/P/B0CVH1KZ9Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:19",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 52.1,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO MIDA-S – Robinet de Cui...aute Pression – Blanc – 521457",
+    "price": 190.62,
+    "reference_price": 196.75,
+    "discount_percent": 3.12,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01CFLCBHG",
+    "image_url": "https://m.media-amazon.com/images/P/B01CFLCBHG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:18",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 190.62,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Severin Seche cheveux avec câb...uissant 2 100 W, Noir, HT 0165",
+    "price": 24.99,
+    "reference_price": 29.26,
+    "discount_percent": 14.59,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DVLNL1PC",
+    "image_url": "https://m.media-amazon.com/images/P/B0DVLNL1PC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:17",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blanco 522957 ANDANO 400-IF Év...Inoxydable, Acier Poli, 400 mm",
+    "price": 292.76,
+    "reference_price": 302.26,
+    "discount_percent": 3.14,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01MYT3UQ7",
+    "image_url": "https://m.media-amazon.com/images/P/B01MYT3UQ7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:16",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 292.76,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca - Goulotte articulée/Org...stique pour Table Bureau, Noir",
+    "price": 33.6,
+    "reference_price": 35.06,
+    "discount_percent": 4.16,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BJ729SXP",
+    "image_url": "https://m.media-amazon.com/images/P/B0BJ729SXP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:15",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 33.6,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO 517537 Savon PIONA Dist...ine en Acier Inoxydable brossé",
+    "price": 193.94,
+    "reference_price": 209.41,
+    "discount_percent": 7.39,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B004YWSLFG",
+    "image_url": "https://m.media-amazon.com/images/P/B004YWSLFG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:14",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 193.94,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Star Wars Droïde astromécano BB-8-75452",
+    "price": 64.9,
+    "reference_price": 68.39,
+    "discount_percent": 5.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FPXFW6PM",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPXFW6PM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:13",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 64.9,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Emuca - Lot de 5 charnières de...arniture, acier, nickel satiné",
+    "price": 35.07,
+    "reference_price": 37.26,
+    "discount_percent": 5.88,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CLYF8PJ7",
+    "image_url": "https://m.media-amazon.com/images/P/B0CLYF8PJ7.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:12",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 35.07,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch PIF645BB5E, Stiftung War...cuisson PowerBoost plus rapide",
+    "price": 682.89,
+    "reference_price": 706.99,
+    "discount_percent": 3.41,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09TPND79C",
+    "image_url": "https://m.media-amazon.com/images/P/B09TPND79C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:10",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 682.89,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Accessories 2608550620 Anneau collecteur d'eau 200 mm",
+    "price": 338.7,
+    "reference_price": 354.46,
+    "discount_percent": 4.45,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0120DICAE",
+    "image_url": "https://m.media-amazon.com/images/P/B0120DICAE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:09",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 338.7,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Technic Monster Jam DIGatron à rétrofriction 42199",
+    "price": 17.99,
+    "reference_price": 18.69,
+    "discount_percent": 3.75,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DHS9F966",
+    "image_url": "https://m.media-amazon.com/images/P/B0DHS9F966.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:08",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.99,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sodapop Lot de 2 bouteilles en...es gazeuses Logan - 2 x 600 ml",
+    "price": 24.59,
+    "reference_price": 26.09,
+    "discount_percent": 5.75,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BZRTVSRZ",
+    "image_url": "https://m.media-amazon.com/images/P/B0BZRTVSRZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:00:07",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.59,
+        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
     "title": "Siemens HZ638000 Accessoire po...ension complète clipsable inox",
     "price": 49.74,
     "reference_price": 82.99,
@@ -2678,7 +4148,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2699,7 +4169,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2720,7 +4190,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2825,7 +4295,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2846,7 +4316,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2867,7 +4337,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2909,7 +4379,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2930,7 +4400,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2951,7 +4421,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2972,7 +4442,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -3077,7 +4547,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:05:10.942815+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -3098,7 +4568,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:05:10.942815+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -8027,6 +9497,81 @@
     ]
   },
   {
+    "title": "Gedore Clé à tube double massi...onale 14 x 15 mm – 626 14 x 15",
+    "price": 19.44,
+    "reference_price": 23.49,
+    "discount_percent": 17.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000UYWUW2",
+    "image_url": "https://m.media-amazon.com/images/P/B000UYWUW2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 12:15:49",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T07:46:20.987760+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.44,
+        "observed_at": "2026-10-12T12:59:39.197267+00:00"
+      },
+      {
+        "price": 19.44,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Splitter HDMI 18G, 2 Ports",
+    "price": 64.9,
+    "reference_price": 67.61,
+    "discount_percent": 4.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0869LWXXZ",
+    "image_url": "https://m.media-amazon.com/images/P/B0869LWXXZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 12:15:40",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 64.9,
+        "observed_at": "2026-10-12T12:59:39.197273+00:00"
+      },
+      {
+        "price": 64.9,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chauvin Arnoux P01120526B AmpF...ue de poche multimètre, 450 mm",
+    "price": 319.61,
+    "reference_price": 345.0,
+    "discount_percent": 7.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00FOQ0H3U",
+    "image_url": "https://m.media-amazon.com/images/P/B00FOQ0H3U.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 12:15:39",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 319.61,
+        "observed_at": "2026-10-12T12:59:39.197280+00:00"
+      },
+      {
+        "price": 319.61,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
     "title": "Oehlbach Speaker Wire SP-15 - ...eur à Bobine - 20m Transparent",
     "price": 50.99,
     "reference_price": 56.8,
@@ -8047,6 +9592,81 @@
       },
       {
         "price": 50.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Alpen 92100700100 Foret hélicoïdal, Gris, 7,0mm",
+    "price": 12.59,
+    "reference_price": 13.19,
+    "discount_percent": 4.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00MDIJ3W8",
+    "image_url": "https://m.media-amazon.com/images/P/B00MDIJ3W8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 11:54:16",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.59,
+        "observed_at": "2026-10-12T12:59:39.197291+00:00"
+      },
+      {
+        "price": 12.59,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "MAUL Lampe de bureau MAULstudy rouge E27 articulée métal",
+    "price": 69.39,
+    "reference_price": 71.9,
+    "discount_percent": 3.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CYQB795Z",
+    "image_url": "https://m.media-amazon.com/images/P/B0CYQB795Z.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 11:54:16",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 69.39,
+        "observed_at": "2026-10-12T12:59:39.197297+00:00"
+      },
+      {
+        "price": 69.39,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Xilence Performance C Série | ...38 | 3Pin | 92 mm | Rouge/Noir",
+    "price": 3.12,
+    "reference_price": 5.99,
+    "discount_percent": 47.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01L6PMFAU",
+    "image_url": "https://m.media-amazon.com/images/P/B01L6PMFAU.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 11:54:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.12,
+        "observed_at": "2026-10-12T12:59:39.197302+00:00"
+      },
+      {
+        "price": 3.12,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
@@ -8077,6 +9697,31 @@
     ]
   },
   {
+    "title": "Schneider 151276 XB 1 pochette...der et 1 stylo bille Rave Noir",
+    "price": 11.1,
+    "reference_price": 11.69,
+    "discount_percent": 5.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00KVNMKWW",
+    "image_url": "https://m.media-amazon.com/images/P/B00KVNMKWW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 11:39:36",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.1,
+        "observed_at": "2026-10-12T12:59:39.197314+00:00"
+      },
+      {
+        "price": 11.1,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
     "title": "Philips Hue White and Colour A...e Homekit, nouvelle génération",
     "price": 287.48,
     "reference_price": 329.99,
@@ -8102,6 +9747,31 @@
     ]
   },
   {
+    "title": "biOrb AIR 60 Blanc 1 Unité",
+    "price": 419.36,
+    "reference_price": 439.9,
+    "discount_percent": 4.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00I9DTXSK",
+    "image_url": "https://m.media-amazon.com/images/P/B00I9DTXSK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 10:04:19",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 419.36,
+        "observed_at": "2026-10-12T12:59:39.197325+00:00"
+      },
+      {
+        "price": 419.36,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
     "title": "TRIXIE 76133 Sable pour Terrarium Rouge foncé 5 kg",
     "price": 10.99,
     "reference_price": 16.97,
@@ -8122,6 +9792,81 @@
       },
       {
         "price": 10.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Exoterra Bois d'Ornement pour Reptiles Pied de Vigne Sablé",
+    "price": 8.42,
+    "reference_price": 10.99,
+    "discount_percent": 23.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0032GAL4Y",
+    "image_url": "https://m.media-amazon.com/images/P/B0032GAL4Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 10:04:18",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.42,
+        "observed_at": "2026-10-12T12:59:39.197336+00:00"
+      },
+      {
+        "price": 8.42,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kerbl Pet Enclos d’extérieur et d‘intéri EUR Noir",
+    "price": 24.57,
+    "reference_price": 28.9,
+    "discount_percent": 15.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CD24SF3F",
+    "image_url": "https://m.media-amazon.com/images/P/B0CD24SF3F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 10:04:17",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.57,
+        "observed_at": "2026-10-12T12:59:39.197341+00:00"
+      },
+      {
+        "price": 24.57,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Francodex - Tortue VIT - 15 g",
+    "price": 9.99,
+    "reference_price": 11.45,
+    "discount_percent": 12.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00HVYHO20",
+    "image_url": "https://m.media-amazon.com/images/P/B00HVYHO20.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 10:04:14",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-12T12:59:39.197346+00:00"
+      },
+      {
+        "price": 9.99,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
@@ -8177,6 +9922,31 @@
     ]
   },
   {
+    "title": "Disque d'exercice pour degus, ...râce à l’aire de course plate,",
+    "price": 15.99,
+    "reference_price": 20.86,
+    "discount_percent": 23.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0089DCAXA",
+    "image_url": "https://m.media-amazon.com/images/P/B0089DCAXA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-12T12:59:39.197362+00:00"
+      },
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
     "title": "Récipient à Eau décoratif pour..., de Trixie - 15 x 3,5 x 12 cm",
     "price": 10.44,
     "reference_price": 16.78,
@@ -8197,6 +9967,56 @@
       },
       {
         "price": 10.44,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "VERSELE-LAGA - Complete Cuni S...les - 1,75kg, Agrumes, 1 unité",
+    "price": 14.99,
+    "reference_price": 19.98,
+    "discount_percent": 25.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00LV2I94A",
+    "image_url": "https://m.media-amazon.com/images/P/B00LV2I94A.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:27",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-12T12:59:39.197373+00:00"
+      },
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Trixie Tunnel Avec Foin Et Pétales De Calendula 250 GR",
+    "price": 7.09,
+    "reference_price": 11.98,
+    "discount_percent": 40.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00815PG5A",
+    "image_url": "https://m.media-amazon.com/images/P/B00815PG5A.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:26",
+    "category": "Animaux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.09,
+        "observed_at": "2026-10-12T12:59:39.197378+00:00"
+      },
+      {
+        "price": 7.09,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
@@ -8227,6 +10047,56 @@
     ]
   },
   {
+    "title": "C.E. Pattberg AMERICA Ruban Pa...ur Présents, en Toute Occasion",
+    "price": 7.36,
+    "reference_price": 9.28,
+    "discount_percent": 20.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0070TX3DU",
+    "image_url": "https://m.media-amazon.com/images/P/B0070TX3DU.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:22",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.36,
+        "observed_at": "2026-10-12T12:59:39.197389+00:00"
+      },
+      {
+        "price": 7.36,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PROXXON 2228774 - Muela corindón plana 2,35 x 2,5 mm (5 u)",
+    "price": 9.78,
+    "reference_price": 11.18,
+    "discount_percent": 12.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0017NOWV2",
+    "image_url": "https://m.media-amazon.com/images/P/B0017NOWV2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:21",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.78,
+        "observed_at": "2026-10-12T12:59:39.197395+00:00"
+      },
+      {
+        "price": 9.78,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
     "title": "Trixie Lapin, Peluche, 15 cm, Beige",
     "price": 8.04,
     "reference_price": 28.41,
@@ -8247,6 +10117,181 @@
       },
       {
         "price": 8.04,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Posca Acrylic Paint Marker Set... Color Medium, PC-5M (PC5M 8)",
+    "price": 33.12,
+    "reference_price": 36.8,
+    "discount_percent": 10.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00DBTE7LA",
+    "image_url": "https://m.media-amazon.com/images/P/B00DBTE7LA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:19",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 33.12,
+        "observed_at": "2026-10-12T12:59:39.197405+00:00"
+      },
+      {
+        "price": 33.12,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lindy Rallonge secteur IEC, 3m",
+    "price": 12.14,
+    "reference_price": 14.51,
+    "discount_percent": 16.33,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01CHDBSOY",
+    "image_url": "https://m.media-amazon.com/images/P/B01CHDBSOY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:19",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.14,
+        "observed_at": "2026-10-12T12:59:39.197410+00:00"
+      },
+      {
+        "price": 12.14,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rexel 06131 Pack de 1000 Agrafes No 56",
+    "price": 2.91,
+    "reference_price": 3.98,
+    "discount_percent": 26.88,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000J66OB4",
+    "image_url": "https://m.media-amazon.com/images/P/B000J66OB4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:15",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 2.91,
+        "observed_at": "2026-10-12T12:59:39.197416+00:00"
+      },
+      {
+        "price": 2.91,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "FEIN Meuleuse d’angle sans fil...IN, sans Batteries ni Chargeur",
+    "price": 427.81,
+    "reference_price": 459.79,
+    "discount_percent": 6.96,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DG9331GY",
+    "image_url": "https://m.media-amazon.com/images/P/B0DG9331GY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:14",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 427.81,
+        "observed_at": "2026-10-12T12:59:39.197421+00:00"
+      },
+      {
+        "price": 427.81,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KMP 75–SA Toner équivalent de Samsung MLT-D111L/ELS noir",
+    "price": 31.96,
+    "reference_price": 34.23,
+    "discount_percent": 6.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0104LJZQO",
+    "image_url": "https://m.media-amazon.com/images/P/B0104LJZQO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-12 09:52:14",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 31.96,
+        "observed_at": "2026-10-12T12:59:39.197427+00:00"
+      },
+      {
+        "price": 31.96,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de Société Vraiment Très Futé Schmidt - Roll & Write, 1 à 4 Joueurs, Dès 10 Ans, 30 Min, Français",
+    "price": 9.9,
+    "reference_price": 13.9,
+    "discount_percent": 28.8,
+    "source": "www.dealabs.com/rss",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-vraiment-tres-fute-schmidt-4001504882273-roll-write-1-a-4-joueurs-des-10-ans-30-min-francais-3429482",
+    "image_url": "",
+    "detected_at": "2026-10-09 13:32:12",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.9,
+        "observed_at": "2026-10-12T12:59:39.197433+00:00"
+      },
+      {
+        "price": 9.9,
+        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de 54 Cartes à Jouer Bicycle Original Rider Back Jumbo Index B0CQ5XF36S - Format Poker, Coloris Aléatoire Rouge ou Bleu",
+    "price": 4.99,
+    "reference_price": 6.78,
+    "discount_percent": 26.4,
+    "source": "www.dealabs.com/rss",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-54-cartes-a-jouer-bicycle-original-rider-back-jumbo-index-b0cq5xf36s-format-poker-coloris-aleatoire-rouge-ou-bleu-3429464",
+    "image_url": "",
+    "detected_at": "2026-10-09 13:32:11",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-12T12:59:39.197440+00:00"
+      },
+      {
+        "price": 4.99,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
@@ -8377,112 +10422,24 @@
     ]
   },
   {
-    "title": "Set de poêles De Buyer - Ø 24 et 28 cm",
-    "description": "36,95€ - iBOOD Revêtement antiadhésif naturel Les poêles peuvent être utilisées au four et conviennent également aux cuisinières électriques et à gaz. Grâce à la poignée Cool-Touch, vous pouvez être sûr de ne pas vous brûler. Plus vous utilisez les poêles, plus elles deviennent foncées. Et plus elles deviennent foncées, plus la protection antiadhésive se développe. Et comme il est bien connu que deux fois valent mieux qu'une, même dans la cuisine, vous recevrez deux poêles avec ce deal: une poêle de 24 cm et une poêle de 28 cm de diamètre. Remarque: ne convient pas à l'induction. Sauf si vous vous en tenez à la poêle, que vous ajoutez toujours de l'huile ou du beurre et que vous n'utilisez pas la fonction Boost. Spécifications Marque: De Buyer Type: Set de poêles (Ø 24 et 28 cm) Garantie: 2 ans Matériau: 99% de fer pur Revêtement antiadhésif naturel Poignée pratique Cool-Touch Caractéristiques Forme: ronde Matériau: 99 % de fer pur Matériau du manche: acier recouvert de résine époxyde Cuisinières compatibles: Electrique | Gaz | Halogène | Vitrocéramique | Four Convient au lave-vaisselle: non Convient au four à micro-ondes: non Résistant au four: oui, jusqu'à 180 °C Forme ergonomique: oui Indicateur de chaleur: non Poignée Cool-Touch: oui Dimensions & poids (poêle 24 cm) Diamètre (au bord supérieur): 24 cm hauteur: 3,5 cm longueur: 43,7 cm Épaisseur du fond: 2 mm Poids: env. 1.000 g Dimensions & poids (poêle 28 cm) Diamètre (au bord supérieur): 28 cm hauteur: 4,2 cm longueur: 50,5 cm Épaisseur du fond: 2 mm Poids: env. 1.500 g Remarque: ne convient pas pour l'induction. Sauf si vous restez sur la poêle, que vous ajoutez toujours de l'huile ou du beurre et que vous n'utilisez pas la fonction Boost.",
-    "price": 36.95,
+    "title": "Gel lavant mains pour enfants à la poire certifié Cosmos Organic",
+    "description": "2,19€ - La Fourche Gel lavant pour les mains à base d’ingrédients naturels et biologiques, associant la POIRE pour nettoyer efficacement tout en adoucissant la peau. Sa formule douce permet un usage fréquent sans irriter les mains et laisse un léger parfum de poire après le lavage. Ingrédients Aqua, Sodium coco-sulfate, Glycerin, Anthemis nobilis flower water*, Lauryl glucoside, Decyl glucoside, Parfum, Fragaria vesca fruit extract*, Gossypium herbaceum extract*, Aloe barbadensis leaf juice powder*, Bisabolol, Coco-glucoside, Glyceryl oleate, Citric acid, Cocamidopropyl betaine, Sodium benzoate, Potassium sorbate, Sodium chloride, Tocopherol, Hydrogenated palm glycerides citrate, Limonene. *Ingrédients issus de l’agriculture biologique. 99 % du total est d’origine naturelle. 21 % du total des ingrédients sont issus de l’agriculture biologique. Conservation À conserver à température ambiante, à l’abri de la chaleur et de la lumière. Bien refermer le flacon après utilisation et tenir hors de portée des enfants. Adhésion gratuite pour les faibles revenus et essai gratuit pendant 1 mois pour tous L'impact carbone et social d'une commande La Fourche La livraison est un important poste de pollution. Mais saviez-vous que se faire livrer à domicile génère moins d’impact carbone qu'acheter en magasin ? D’autant plus à La Fourche, car nous avons mis en place une politique volontariste pour diminuer les déchets générés par la livraison ainsi qu’un programme d’insertion professionnelle pour les employés de notre entrepôt. La livraison à domicile : un impact carbone limité par rapport aux supermarchés traditionnels C'est contre-intuitif mais faire ses courses en ligne pollue en moyenne 2,8 fois moins qu’en magasin, et jusqu’à 5 fois moins selon les cas. Découvrez les résultats de notre étude avec ECO2 Initiative, basée sur les données de l’ADEME et un sondage auprès de 8 000 adhérents. Nous ne proposons pas de livraison express afin de pouvoir optimiser les trajets de livraison et limiter ainsi les émissions, mais aussi pour offrir des conditions de travail plus éthiques aux livreurs. Quant à notre livraison à domicile sur créneau , celle-ci se fait essentiellement en véhicules roulant au biogaz ou électriques et avec un allègement du poids grâce aux sacs en kraft qui remplacent les cartons et emballages. Des colis en matériaux recyclés et recyclables Parce qu’il n’y a pas que la livraison qui compte, nous nous engageons aussi pour vos colis : pas de plastique, uniquement des matériaux majoritairement recyclés et recyclables comme du carton ou du kraft ; les cartons de nos fournisseurs sont broyés et réutilisés pour caler les produits ; tout peut être réutilisé à la maison (pour faire du papier cadeau, dans votre compost, etc.) ou donné autour de vous (aux producteurs sur les marchés, aux centres aérés ou aux écoles, etc.). Avec la livraison à domicile dans des sacs en papier kraft nous allons encore plus loin : 3 kg de déchets sont évités par commande en moyenne par rapport à la livraison en colis. Vous pouvez rendre ses sacs en kraft lors de vos prochaines livraisons pour qu'ils soient réutilisés. Ce service est disponible pour la majorité de nos adhérents . Un système de consigne pour le verre Dans notre démarche visant à limiter notre impact sur l’environnement, nous avons décidé de favoriser le réemploi de certains contenants en verre. C’est pourquoi nous avons lancé un projet de consigne des bouteilles et bocaux en verre . Vous vous faites livrer vos courses à domicile avec notre livraison à domicile sur créneau ? Alors retournez tous vos bocaux et bouteilles en verre en même temps que vos sacs en kraft , afin qu’ils nous soient retournés, lavés, et aient une seconde vie (enfin, plusieurs même). Un geste tout simple, qui vous permet de réduire vos déchets en un rien de temps (et de vous éviter la corvée de sortir le verre). Pour en savoir plus, consultez notre FAQ sur la Consigne . Des créations d'emplois et un programme d'insertion ",
+    "price": 2.19,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/set-de-poeles-de-buyer-o-24-et-28-cm-3432388",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4o2Tc/3432388_1/re/1200x1200/qt/90/3432388_1.jpg",
-    "detected_at": "2026-10-14T13:00:50+00:00",
-    "category": "Électroménager",
+    "url": "https://www.dealabs.com/bons-plans/gel-lavant-mains-pour-enfants-a-la-poire-certifie-cosmos-organic-3432389",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yQRAM/3432389_1/re/1200x1200/qt/90/3432389_1.jpg",
+    "detected_at": "2026-10-14T13:02:24+00:00",
+    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 36.95,
-        "observed_at": "2026-10-14T13:04:06.049057+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 3 Tablettes de 100g de Chocolat au Lait Noisettes Lindt L'Authentique",
-    "description": "5,02€ - Amazon Lait Noisettes : l'alliance gourmande du croquant de savoureux éclats de noisettes et du fondant incomparable du chocolat au lait Lindt FORMAT LOT DE 3x100G : idéal pour une pause gourmande en famille ou entre amis L'EXPERTISE LINDT : Lindt est fier de proposer des chocolats d'une qualité et d'une finesse incomparables depuis 1845, en alliant avec justesse un cacao de haute qualité aux meilleurs ingrédients QUALITÉ SUPÉRIEURE : Chez Lindt, la passion et l'amour pour le chocolat se retranscrivent à chaque étape, de la sélection des fèves de cacao à la conception du chocolat par les Maîtres Chocolatiers Lindt LINDT S'ENGAGE en faveur du développement durable en assurant la traçabilité de 100 % de ses fèves de cacao jusqu'à leur origine et en les soumettant à une vérification externe",
-    "price": 5.02,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-3-tablettes-de-chocolat-au-lait-noisettes-lindt-lauthentique-3x100g-3432386",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cSQI8/3432386_1/re/1200x1200/qt/90/3432386_1.jpg",
-    "detected_at": "2026-10-14T13:00:04+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0BBWMSSVF?smid=A1X6FK5RDHNB96",
-    "price_history": [
-      {
-        "price": 5.02,
-        "observed_at": "2026-10-14T13:04:06.049057+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Lego Animal Crossing 77056 Les collections du musée de Thibou",
-    "description": "41,99€ - Carrefour Un set bientôt retiré à un prix très compétitif. N'oubliez pas de payer par carte cadeau pour gratter 5%'supplémentaires.",
-    "price": 41.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-animal-crossing-77056-les-collections-du-musee-de-thibou-3432387",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/VWIH9/3432387_1/re/1200x1200/qt/90/3432387_1.jpg",
-    "detected_at": "2026-10-14T12:59:42+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.carrefour.fr/p/lego-animal-crossing-les-collections-du-musee-de-thibou-77056-lego-5702017815947",
-    "price_history": [
-      {
-        "price": 41.99,
-        "observed_at": "2026-10-14T13:04:06.049057+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 Poêles Inox Tefal Duetto On - 24 / 28 cm, Tous feux dont induction",
-    "description": "39,99€ - Amazon Bon tarif pour des poêles inox Tefal de ces diamètres. > Livraison gratuite Description RÉSULTATS CROUSTILLANTS: Découvrez une autre expérience de la cuisine grâce à une surface intérieure texturée sans revêtement idéale pour de la viande et des légumes croustillants et dorés CUISSON RAPIDE ET HOMOGÈNE: Une base épaisse qui diffuse la chaleur pour une cuisson rapide et des plats savoureux, vous permettant de passer moins de temps en cuisine et plus de temps à profiter ACIER INOXYDABLE GARANTI 10ANS: Assure des performances et une fiabilité longue durée pour des produits au design robuste, conçus pour résister au fil des années POIGNÉE ERGONOMIQUE: un design ergonomique pour plus de confort et de sécurité FORMATS INDISPENSABLES: pour réaliser des recettes simplissimes qui plairont à coup sûr, telles que des omelettes, des steaks hachés et du poulet grillé",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-poeles-inox-tefal-duetto-on-24-28-cm-tous-feux-dont-induction-3432385",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/p8xzl/3432385_1/re/1200x1200/qt/90/3432385_1.jpg",
-    "detected_at": "2026-10-14T12:58:19+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0FCSDRK89",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-14T13:04:06.049057+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussons d'escalade La Sportiva HyperEZ - Noir / Jaune",
-    "description": "107,95€ - Deporvillage Conçus par La Sportiva, ces chaussons d'escalade allient précision et confort pour les grimpeurs passionnés. Leur construction technique assure une adhérence optimale et un maintien parfait, permettant de performer sur des voies exigeantes. Idéals pour les amateurs comme pour les compétiteurs, ils améliorent la confiance et la précision à chaque mouvement. Les chaussons d'escalade La Sportiva HyperEZ sont spécialement conçus pour les grimpeurs débutants recherchant confort et polyvalence lors de leurs premières expériences d'escalade. Ce modèle offre un ajustement parfait qui facilite l'apprentissage et améliore la performance sans provoquer d'inconfort ni de douleur. Ils intègrent la technologie brevetée SenseGrip™ dans la semelle intermédiaire en EVA, qui procure un amorti supérieur et une adhérence fiable lors des appuis. La semelle est fabriquée en composé FriXion® White antimarques, avec des épaisseurs différenciées pour une durabilité et une traction accrues. De plus, le design comprend un col rembourré et un renfort en caoutchouc au talon pour améliorer la stabilité et le confort pendant l'escalade. Ils sont confectionnés avec des matériaux synthétiques 100 % véganes, combinant microfibre sans doublure et maille structurée respirante, offrant ainsi un confort optimal et un entretien facile, puisqu'ils sont lavables en machine. Leur nouvelle forme propose un volume accru dans les zones clés afin de réduire la pression sans perdre en contrôle, tandis que les doubles sangles croisées permettent un ajustement rapide et sécurisé. La Sportiva HyperEZ est conçue pour être durable et réparable, car elle est entièrement ressemelable avec des pièces d'origine La Sportiva, favorisant une utilisation prolongée et responsable. Caractéristiques : Technologie brevetée SenseGrip™ dans la semelle intermédiaire en EVA pour une meilleure adhérence et amorti Semelle FriXion® White antimarques avec épaisseurs différenciées (2 mm au talon, 4 mm à l’avant-pied) Col rembourré pour un confort accru lors de l’escalade et de la marche Renfort en caoutchouc au talon pour stabilité et accroche lors du talonnage Matériaux 100 % véganes et tissus synthétiques respirants et lavables Nouvelle forme avec plus de volume dans les zones de pression clés Doubles sangles croisées pour un chaussage rapide et sécurisé Entièrement ressemelable avec pièces d’origine La Sportiva Référence: LSP-ZFCS149-LS-K00Y0-U",
-    "price": 107.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussons-descalade-la-sportiva-hyperez-noir-jaune-3432332",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/7F5EE/3432332_1/re/1200x1200/qt/90/3432332_1.jpg",
-    "detected_at": "2026-10-14T11:44:12+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 107.95,
-        "observed_at": "2026-10-14T11:52:56.398481+00:00"
+        "price": 2.19,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
       }
     ]
   },
@@ -21349,6 +23306,214 @@
       {
         "price": 432.0,
         "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO 80118 - Le feu d'artifice porte-bonheur",
+    "description": "47,99€ - Lego Grosse réduction avec laquelle s’ajoute la promotion de points doublés donc -50% techniquement !",
+    "price": 47.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-80118-le-feu-dartifice-porte-bonheur-3431572",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yCiob/3431572_1/re/1200x1200/qt/90/3431572_1.jpg",
+    "detected_at": "2026-10-13T09:33:50+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 47.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 47.99,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini PC Chuwi AuBox Barebone - Ryzen 7 8745HS, IGP 780M, eGPU sur USB4 ou Oculink, sans RAM, ni SSD, Wi-Fi 6 & BT 5.3, Boitier en Alu",
+    "description": "221,12€ - AliExpress Affinités avec le design, noblesse des matériaux, avec un WAF excellent , l'AuBox se fait sauveur des couples. (laughflame) ⚙️ Synthèse Processeur : AMD Ryzen 7 8745HS 8 cores physiques et 16 cores logiques (via SMT ) Fréquence nominale : 3,8 Ghz Fréquence boost maximale : 4,9 Ghz TDP nominal de 45W cTDP de 35 à 54W Tjmax de 100°C Sécurité AMD Enhanced Virus Protection ( NX bit ) C'est un avantage en soi, puisque cette température est la température à partir de laquelle un processeur devient instable. Et shutdown en général. Certains CPU ont une Tjmax de 95°C, ce qui forcément rend le throttling d'autant plus précoce. Même si AMD fait aussi bien, voire pousse plus loin. Je vous renvoie au sujet de cette température à cette page , certes un peu datée, mais qui explique clairement le phénomène je trouve. C'est le meilleur de la catégorie sur Passmark; à égalité \"statistique\" cependant avec ses trois \"frères\" à mon sens, son échantillon statistique étant nettement plus réduit. Mais il reste que, lui, souffre de la perte de la NPU . Et ce n'est pas pour rien que l'on croise bien plus souvent le 8745HS que les autres aux prix les plus bas. Puisque c'est après tout un processeur \"déclassé\" du fait d'une NPU déficiente et désactivée. ☝️ Notebookcheck , avec son comparatif bien plus exhaustif, vient nuancer et mettre un ordre dans la fratrie. Ryzen 7 8745HS → 100% Ryzen 7 8845HS → 109% Ryzen 9 8945HS → 111% On y voit là que les 8845HS et 8945HS sortent plus aisément les muscles. Mais, cela au détriment rappelez-vous du 3ème slot M.2 2280. Et ces écarts expliquent aisément pourquoi nous voyons bien plus d'AuBox ou de K12 avec leur 8745HS à prix promotionnels sur Aliexpress que ses grands frères dotés de NPU. Circuit graphique : Radeon 780M ( lien vers les benchs Notebookcheck ) AMD Freesync ( VRR ) Miracast (envoi d'un signal audio-vidéo par Wifi) supporte l'HBR3*, l'UHBR10, l' HDR Metadata et l' Adaptive-Sync ( VRR ) Voir un récapitulatif là concernant l'HBR3, l'UHBR10 et les Metadata. Variable Refresh Rate, ou taux de rafraichissement variable : G-Sync chez Nvidia, Freesync chez AMD, et Adaptive-Sync sous norme VESA . Synchrone entre les fps calculés et ceux affichés par le moniteur pour éviter le tearing. A noter contrairement à l'Adaptative-Sync, que si le moniteur est certifié Freesync, le VRR peut fonctionner sans pour autant que la norme de la connectique réponde à la hauteur de ce qu'elle devrait, normativement ( HDMI 2.1 pour le VRR ! en théorie ), ceci du fait du freesync-over-HDMI. Voir ici concernant les problématiques spécifiques qui peuvent le concerner J'ai finalement effectuée l'étude des IGP AMD que j'avais promise. Je vous renvoie ici pour plus de détails la concernant car elle est à circonstancier. Donc cette petite lecture ne vous sera pas anodine. ☝️ Bien qu'Intel soit en avance sur l'encodage/transcodage, sur Emby ou Jellyfin, le 780M sera le plus à son aise. Corrigeant donc le tir par rapport aux gammes inférieures. D'ailleurs il vaut quoi en pratique❓ bah voyons ça ! [shortcode id=\"20618594\"/] Les vidéos sont légions , je ne peux toutes les mettre. Mais une recherche Google vous amènera vite aux titres spécifiques qui vous intéressent. Il va sans dire que dès qu'il y aura usage d'eGPU, le Mini PC deviendra une bête de course. Mémoire vive : 2 x slots pour DDR5 5600 MT/s au format SODIMM Rappel : l'IGP prend sa mémoire allouée sur la mémoire vive Stockage : 2 x slot M.2 2280 En PCIe 4.0 Connexions réseaux : 2 x 2,5 Gb Ethernet ( contrôleur Realtek RTL8125* ) Wifi 6 & Bluetooth 5.3 ( contrôleur Realtek RTL8852BE* ) * comme je m'y attendais, et ce, confirmé sur cette réponse . Merci encore à mes chers loulous de répondre présents ! ‍↕️ Ports USB Sur le côté droit 2 x USB 3.2 Gen2x1 ( 10 Gb/s ) Type-A 1 x USB 3.2 Gen2x1 ( 10 Gb/s ) Type‑C \"full featured\" ( Alt DP Mode, Data ) A l'arrière 2 × USB 2.0 ( 480 Mb/s ) Type-A 1 × Thunderbolt 4 (40 Gb/s) supportant DP Alt Mode et PCIe Tunneling (pour eG",
+    "price": 221.12,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mini-pc-chuwi-aubox-barebone-ryzen-7-8745hs-igp-780m-egpu-sur-usb4-ou-oculink-wifi-6-bt-53-boitier-en-alu-3422803",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dTEj6/3422803_1/re/1200x1200/qt/90/3422803_1.jpg",
+    "detected_at": "2026-10-13T09:33:41+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 221.12,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 221.12,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lego Creator 3-en-1 31165 Animaux Sauvages : La Famille de Pandas",
+    "description": "27,90€ - Amazon Une ristourne intéressante si on considère les derniers deals sur ce set en remise cagnottée (pas forcément intéressant pour tout le monde). Je me suis personnellement laissé tenter par celui-ci. Dispo au même prix chez Smyth Toys d'ailleurs.",
+    "price": 27.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-creator-3-en-1-animaux-sauvages-la-famille-de-pandas-31165-3431571",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cEzZY/3431571_1/re/1200x1200/qt/90/3431571_1.jpg",
+    "detected_at": "2026-10-13T09:31:38+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 27.9,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 27.9,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle 2LP Alliance Ethnik Simple & Funky",
+    "description": "19,99€ - Amazon L'album culte INCLUS LES HITS : Respect, Simple et Funky et Honesty et Jalousie (fais un choix dans la vie) FACE A 1 Intro 02:15 2 Respect (feat. Vinia Mojica) 04 :3 4 3 L'union du son 04:15 4 Demi tour vers le futur 03 :3 7 FACE B 1 Non stop 02:56 2 Sincerité et jalousie 03:15 3 Je conjugue 00:43 4 Salsalliancia 03:22 FACE C 1 Qui paye ses pv 03:43 2 L'original 04:55 3 Psycho funk de l'alliance 04:24 4 Ainsi va la vie 01:01 FACE D 1 Simple et funky 03:41 2 Voulez vous rendez vous 04:03 3 Jamais à l'heure 04:00 Détails sur le produit Dimensions du produit (L x l x h) ‏ : ‎ 0,6 x 31,3 x 31,5 cm; 453,59 grammes Fabricant ‏ : ‎ Parlophone Label ‏ : ‎ Parlophone ASIN ‏ : ‎ B09NDZQN4T Pays d'origine ‏ : ‎ France Nombre de disques ‏ : ‎ 2",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-2lp-alliance-ethnik-simple-et-funky-3431570",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/IP7FE/3431570_1/re/1200x1200/qt/90/3431570_1.jpg",
+    "detected_at": "2026-10-13T09:31:34+00:00",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Plaque de Signalisation Toilettes Thirard - Plexiglass Adhésif, Design Élégant, Facile à Poser, 170x45mm, Blanc (Vendeur Tiers)",
+    "description": "2,46€ - Amazon Petit prix sympa pour des toilettes ! Si tes toilettes sont aussi sales que la plupart des toilettes publiques, c’est sûrement le moment d’investir dans cette plaque ! Usage pratique : Idéale pour signaler les toilettes, cette plaque adhésive est parfaite pour une utilisation dans les bureaux, restaurants, magasins et établissements publics, offrant une signalétique claire et élégante Dimensions optimales : avec des dimensions de 170 x 45 mm, elle assure une visibilité adéquate tout en s'intégrant harmonieusement dans divers environnements intérieurs Sécurité et robustesse : Fabriquée en plexiglass avec une finition brillante, cette plaque est résistante aux rayures, garantissant une durabilité et une esthétique durable Utilisation et fonctionnement : Facile à poser grâce à son adhésif puissant, elle se fixe aisément sur toutes les surfaces lisses telles que portes et murs, sans nécessiter d'outils supplémentaires Garantie de 2 ans : Ce produit bénéficie d’une garantie de 2 ans, gage de sa qualité et de sa durabilité pour une tranquillité d’esprit assurée",
+    "price": 2.46,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/thirard-plaque-de-signalisation-toilettes-plexiglass-adhesif-design-elegant-facile-a-poser-170-x-45-mm-blanc-3431569",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ugQJt/3431569_1/re/1200x1200/qt/90/3431569_1.jpg",
+    "detected_at": "2026-10-13T09:30:36+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 2.46,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 2.46,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Séjour Parc Asterix - Billets pour 4 pour un jour de parc + Une nuit à l'hôtel Les Trois Hiboux + Petit déj + Parking - Mai (69€/pers)",
+    "description": "279,50€ - Showroomprivé Hello ! Voilà une offre sympa pour le Parc Astérix, du 2 au 3 mai 2027 pour 4 personnes au Parc Asterix , vous pourrez profiter d'une entrée au parc avec l'accès au parc pendant un jour, et une nuit d'hôtel avec petit déjeuner compris, à l'hôtel Les Trois Hiboux 3* situé dans le parc, pour 279,50€ soit 69€ par personne avec parking inclus et bornes de recharge pour véhicules électriques (sous réserve de disponibilité). (y) > L'hôtel est noté : 4,5/5 sur Tripavisor 9,6/10 sur Booking ✤ Activités et loisirs Le Parc Astérix propose une multitude d'attractions et de spectacles pour tous les âges : Toutatis : la montagne russe la plus rapide de France, atteignant 110 km/h. OzIris : montagne russe inversée avec des loopings spectaculaires. Goudurix : montagne russe avec 7 inversions pour les amateurs de sensations fortes. Pégase Express : montagne russe familiale avec un parcours en avant et en arrière. La Forêt d'Idéfix : zone dédiée aux plus petits avec des attractions adaptées. Spectacles en direct : plongez dans l'univers gaulois avec des spectacles vivants et interactifs. ✤ L’hôtel Une pause nature et authentique, hors du temps. Situé au cœur de la forêt, l’hôtel Les Trois Hiboux offre l’opportunité de séjourner en famille dans une atmosphère authentique. Des chambres à la décoration naturelle et un restaurant-buffet destiné à tous les goûts vous réserveront une pause détente bien méritée. ✤ Les chambres Durant votre séjour, vous séjournerez dans la chambre de votre choix : Les chambres spacieuses de l’Hôtel Les Trois Hiboux avec mobilier en bois vous offrent le grand confort dans un cadre exceptionnel. Elles sont confortables et bien équipées avec un lit double ou deux lits jumeaux, un accès Wi-Fi et une salle de bain avec baignoire ou douche. Chambre familiale 4 personnes (environ 25 m²) : La chambre dispose d'un lit double et d'un lit superposé. Maximum 3 adultes (12 ans et +).",
+    "price": 279.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sejour-parc-asterix-billets-pour-4-pour-un-jour-de-parc-une-nuit-a-lhotel-les-trois-hiboux-petit-dej-parking-mai-69eurpers-3431568",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Sjukh/3431568_1/re/1200x1200/qt/90/3431568_1.jpg",
+    "detected_at": "2026-10-13T09:28:37+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 279.5,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 279.5,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra d'Action XbotGo Chameleon AI - 4K, 60 FPS (Via Coupon)",
+    "description": "249,99€ - JoyBuy Photographe IA en évolution continue : le XbotGo Chameleon transforme votre smartphone en un photographe alimenté par l'IA.Il offre un suivi sportif automatique, un streaming en direct en temps réel et la génération automatique de highlights à venir, le tout via l'application XbotGo, qui se met régulièrement à jour pour améliorer ses performances et son intelligence. Suivi sportif révolutionnaire : avec l'algorithme xbotVision AI 2.0, XbotGo Chameleon offre un suivi précis pour plus de 20 sports, garantissant une précision inégalée pour les sports d'équipe comme le football et le basket-ball, ainsi que pour les sports individuels tels que la gymnastique etarts martiaux. Montage automatique et diffusion en direct assistés par l'IA : exploitez la puissance de l'IA pour améliorer votre expérience de montage vidéo.Capturez et éditez sans effort des moments époustouflants, créez des montages impressionnants et partagez vos meilleurs moments de sport avec le monde entier grâce au streaming en direct intégré sur les plateformes populaires. Améliorations matérielles supérieures : profitez d'une polyvalence exceptionnelle avec un suivi panoramique à 360° et un objectif IA ultra grand-angle à 120°.Le système d'analyse sportive avancé par IA du Chameleon, son autonomie impressionnante et son design portable en font le choix ultime pour capturer des scènes dynamiques avec un impact visuel. Commandes et accessoires intuitifs : profitez d'une commande intuitive avec une télécommande Bluetooth et l'intégration d'Apple Watch pour des réglages d'angle faciles et des prévisualisations en temps réel.Associez-le au trépied XbotGo T4 pour obtenir une perspective professionnelle de 12 pieds, améliorant ainsi votre expérience de tournage comme jamais auparavant.",
+    "price": 249.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coffrets-cadeaux-pour-les-fans-de-football-xbotgo-chameleon-ai-camera-daction-de-sport-dequipe-4k-60-fps-3431566",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ubOGq/3431566_1/re/1200x1200/qt/90/3431566_1.jpg",
+    "detected_at": "2026-10-13T09:26:58+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 249.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 249.99,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fallout: New Vegas Ultimate Edition sur PC (Dématérialisé - Microsoft Store)",
+    "description": "4,99€ - Xbox Store Content de vous revoir à New Vegas ! Avec l'introduction de l'Ultimate Edition, Bethesda Softworks vous offre la chance de doubler la mise et d'obtenir l'ensemble du pack New Vegas. Pour la première fois dans un même pack, vous pouvez bénéficier de tous les éléments de Fallout: New Vegas, avec la totalité des contenus additionnels acclamés par la critique : Dead Money, Honest Hearts, Old World Blues et Lonesome Road. Et cerise sur le gâteau, vous serez armé grâce aux dernières caches uniques d'armes, de munitions et de recettes issues des plus récentes extensions : Courier’s Stash et Gun Runners Arsenal. Que vous soyez un explorateur chevronné du Mojave ou que vous jouiez au jeu pour la première fois, vous vous rendrez compte qu'il y a plus d'amis et d'ennemis à se faire, plus de conséquences à vos actions et plus d'opportunités de vivre dans la gloire ou dans l'infamie dans les Terres désolées. Vos choix seront plus importants que jamais pour votre survie. - Au-delà des Terres désolées : Le monde de New Vegas est plus étendu que jamais. Chaque zone distincte présente un nouvel ensemble de quêtes, de personnalités remarquables et plus de chances de jouer le sauveur ou le paria envers les habitants de New Vegas. - De superbes nouveaux joujoux : Chaque extension enrichit l'arsenal à votre disposition. Que vous soyez un bagarreur adepte du corps à corps ou un tireur à distance, des armes telles que le Two-Step Goodbye (poings balistiques uniques) ou le Sleepytime (une mitraillette 10mm plutôt pratique) vous aideront à faire naître le guerrier qui sommeille en vous. - Repoussez vos limites : Grâce aux quatre extensions, le niveau maximal passe de 45 à 50. - Dead Money : Attiré dans un piège qui ressemble fort au casino de la Sierra Madre, vous participez à une partie aux enjeux élevés où vous devrez faire équipe avec 3 autres desperados pour survivre. - Honest Hearts : Une expédition en Utah, dans le parc national de Zion tourne au cauchemar et vous vous vous retrouvez impliqué dans une guerre tribale et dans un conflit opposant un missionnaire de New Canaan et le mystérieux Homme brûlé. - Old World Blues : Transporté vers le centre de recherche Big MT, vous êtes engagé pour sauver le Think Tank de ses propres expérimentations qui ont mal tourné. - Lonesome Road : Ulysses, le véritable Courrier Six, vous contacte et promet de dire pourquoi il a refusé de remettre le Jeton de platine au début de Fallout: New Vegas, à condition que vous acceptiez de vous rendre une dernière fois dans les canyons semés d'embûches de la Ligne de partage.",
+    "price": 4.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fallout-new-vegas-ultimate-edition-3431561",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Q9MqE/3431561_1/re/1200x1200/qt/90/3431561_1.jpg",
+    "detected_at": "2026-10-13T09:26:04+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-13T14:39:37.144636+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 4.99,
+        "observed_at": "2026-10-14T13:05:30.404427+00:00"
       }
     ]
   }
