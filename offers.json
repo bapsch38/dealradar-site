@@ -1,5 +1,26 @@
 [
   {
+    "title": "SIEMENS Adaptateur HZ9VDSB4",
+    "price": 19.99,
+    "reference_price": 34.74,
+    "discount_percent": 42.46,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09DPTXXMG",
+    "image_url": "https://m.media-amazon.com/images/P/B09DPTXXMG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:43:19",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-14T11:43:59.321409+00:00"
+      }
+    ]
+  },
+  {
     "title": "BLANCO LINUS-S – Robinet de Cu...sse Pression – Chrome – 512200",
     "price": 259.99,
     "reference_price": 301.41,
@@ -3923,6 +3944,10 @@
       {
         "price": 11.56,
         "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      },
+      {
+        "price": 11.56,
+        "observed_at": "2026-10-14T11:43:59.321409+00:00"
       }
     ]
   },
@@ -3944,6 +3969,10 @@
       {
         "price": 6.06,
         "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      },
+      {
+        "price": 6.06,
+        "observed_at": "2026-10-14T11:43:59.321409+00:00"
       }
     ]
   },
@@ -3965,6 +3994,10 @@
       {
         "price": 58.46,
         "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      },
+      {
+        "price": 58.46,
+        "observed_at": "2026-10-14T11:43:59.321409+00:00"
       }
     ]
   },
@@ -3986,6 +4019,10 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      },
+      {
+        "price": 8.99,
+        "observed_at": "2026-10-14T11:43:59.321409+00:00"
       }
     ]
   },
@@ -4007,6 +4044,10 @@
       {
         "price": 7.54,
         "observed_at": "2026-10-13T11:43:20.622838+00:00"
+      },
+      {
+        "price": 7.54,
+        "observed_at": "2026-10-14T11:43:59.321409+00:00"
       }
     ]
   },
@@ -7736,6 +7777,45 @@
     ]
   },
   {
+    "title": "Perplexus Go ! - Harry Potter: Vif d'Or",
+    "description": "8,95€ - Philibert Net Le Perplexus Go ! - Harry Potter: Vif d'Or est un jeu de labyrinthe 3D en forme de sphère. *spécifications du produit:* - Labyrinthe 3D - Sphère colorée - Bille à faire progresser - Thème Harry Potter Le Perplexus Go ! - Harry Potter: Vif d'Or est un jeu de labyrinthe 3D en forme de sphère.",
+    "price": 8.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/perplexus-go-harry-potter-vif-dor-3432330",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/xeHGW/3432330_1/re/1200x1200/qt/90/3432330_1.jpg",
+    "detected_at": "2026-10-14T11:39:50+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.95,
+        "observed_at": "2026-10-14T11:43:59.321409+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Distribution Gratuite d'Arbres Fruitiers Amandiers, Châtaigniers, Nashi, Kaki du Japon, Néflier + Marrons/Boissons - Gujan-Mestras (33)",
+    "description": "Le 14 Novembre 2026, aura lieu la Journée Verte. À cette occasion, une Distribution Gratuite d'Arbres se déroulera de 09h à 17h à la Maison des Associations. Café, Thé et Marrons Chauds Offerts toute la journée. Goûter Offert aux Enfants à 16h. Liste des essences distribuées : Arbres Fruitiers : Abricotier Pommier Poirier Cerisier Amandier Châtaignier Cognassier Figuier Kaki du Japon Nashi Nectarine/Brugnon Néflier Pêcher Prunier Prunier Violet Petits Fruitiers : Raisin de table rouge et blanc Noisetier Mûre Géante Myrtille des Jardins Kiwi Groseillier à maquereaux Groseillier à grappes rouge Framboisier Caseille Aromatiques Lavande Romarin Thym Menthe Marocaine Renseignements au 05 57 52 59 23 / 06 49 52 55 45 ou developpementdurable@ville-gujanmestras.fr Infos",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/distribution-gratuite-darbres-fruitiers-amandiers-chataigniers-nashi-kaki-du-japon-neflier-marronsboissons-offerts-gujan-mestras-3432329",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YUqjd/3432329_1/re/1200x1200/qt/90/3432329_1.jpg",
+    "detected_at": "2026-10-14T11:39:10+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
+  },
+  {
     "title": "Set de Clés en croix Parkside PRSK 6 B2 - Avec repose-genoux, 6 pièces",
     "description": "18,99€ - Lidl Set : 6 pièces Caractéristique : Manomètre de pression des pneus avec échelle en psi et bar PARKSIDE® Set de clés en croix, PRSK 6 B2 avec repose-genoux, 6 pièces Caractéristiques Set d'outils pour voiture avec repose-genoux pratique 2-en-1 : support confortable et rangement peu encombrant Clé en croix avec 4 ouvertures de clé courantes pour les boulons de roue de voiture Le repose-genoux s'adapte au genou et reprend sa forme d'origine Manomètre de pression des pneus avec échelle en psi et bar Jauge de profondeur de profil de pneu avec échelle de vernier par pas de 0,1 mm pour une détermination précise de la profondeur de profil Lampe d'inspection LED avec lumière spot et latérale, aimant pratique et crochet – 3 piles incluses, 1,5 V⎓ (AAA/LR03) Craie de marquage pour identifier les pneus stockés Ouverture de clé de la clé en croix : 17, 19, 21, 23 mm Plage de mesure de la pression des pneus : 10–100 psi/0,7–6,8 bar Plage de mesure de la profondeur de profil : 0–50 mm Puissance de la lumière spot/latérale : 1 W/3 W Couleur de la craie de marquage : Blanc",
     "price": 18.99,
@@ -7894,7 +7974,7 @@
     "description": "20€ - Amazon coupon de réduction de 50 % 【Blanc neutre 4000 K et IRC > 80 – Une lumière naturelle et apaisante】 Une lumière blanche neutre de 4000 K avec un indice de rendu des couleurs (IRC) élevé > 80 offre un éclairage agréable et naturel – idéal pour le salon, la chambre à coucher, la salle à manger et la chambre d'enfant. Parfait pour une ambiance détendue et un confort au quotidien 【4 800 lumens, ultra-lumineux 】 Une puissance de 48 W et un flux lumineux de 4 800 lumens offrent un éclairage clair et homogène pour des pièces de 12 à 20 m² – pas de coins sombres, une luminosité maximale immédiate sans scintillement ni délai 【Design ultraplat, Ø 40 cm – Moderne et élégant】 Seulement 2,5 cm d’épaisseur, diamètre de 40 cm – plafonnier élégant et moderne en noir mat, parfait pour les plafonds bas et les intérieurs contemporains 【Sans scintillement ni éblouissement – Doux pour les yeux et confortable】 Un diffuseur en acrylique de haute qualité assure une lumière douce et homogène, sans scintillement, éblouissement ni ombre – idéal pour les yeux et une utilisation quotidienne 【Indice de protection IP44 contre les projections d’eau – Sûr et durable】 Indice de protection IP44 contre l’humidité – convient pour la salle de bains, la cuisine, le couloir et la cave. Montage simple, technologie LED durable, économe en énergie et sans entretien",
     "price": 20.0,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/plafonnier-led-rond-salle-de-bain-lumiere-plafond-ip44-4000k-lumiere-panneau-taille-40cm-3432319",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/CIRRt/3432319_1/re/1200x1200/qt/90/3432319_1.jpg",
@@ -15067,94 +15147,6 @@
       {
         "price": 24.0,
         "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Resident evil 3 remake - PS4 (+ mise a jour PS5)",
-    "description": "14,49€ - TradeInn Hello, Resident evil 3 sur PS4 à bon prix. Mise à jour gratuite vers version PS5 (Perso je préfère toujours la version PS4 dans ce cas pour pouvoir jouer sur les 2 consoles et la double liste de trophée )",
-    "price": 14.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/resident-evil-3-remake-ps4-mise-a-jour-ps5-3431909",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iXnqX/3431909_1/re/1200x1200/qt/90/3431909_1.jpg",
-    "detected_at": "2026-10-13T18:28:35+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.49,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Robot Aspirateur Laveur Ecovacs Deebot T90 Pro Omni",
-    "description": "392€ - Amazon.it Bonsoir la communauté, voici un bon prix pour ce robot aspirateur Ecovacs Deebot T90 pro Omni ! Voici quelques points de la description: OZMO ROLLER 3.0: Lave à l'eau propre et recueille l'eau sale. Avec 3 800 Pa, 200 tr/min et un rouleau de 27 cm, il élimine saleté et poussière quotidienne. Lavage à 100 °C: La station lave à 75 °C et sèche à 45 °C, dissout les graisses et prévient les contaminations. Le vidage automatique réduit l'entretien. BLAST 40 000 Pa: Aspire poussière, miettes et poils des sols et tapis. ZeroTangle 4.0 réduit l'emmêlement, l'élévation de 15 mm garde les tapis secs. TruEdge 3.0: Le rouleau s'étend de 1,5 cm pour atteindre murs et bords. Le patin en feutre protège meubles et plinthes. Navigation: dToF LiDAR et TrueDetect 3D cartographient et évitent les obstacles. Le corps de 95 mm franchit des seuils de 20 mm et atteint les espaces bas. Entretien automatique: La station OMNI lave, sèche et vide. Il suffit de lancer le nettoyage. Voici le lien vers la page complète du produit sur le site du fabricant: https://www.ecovacs.com/fr/shop/deebot-robotic-vacuum-cleaner/deebot-t90-pro-omni-white 【Auto-nettoyage instantané OZMO ROLLER 3.0 avec TruEdge 3.0】 OZMO ROLLER 3.0 est doté d'un rouleau allongé de 27 cm pour une couverture 50 % plus large. Sa pompe à air haute performance alimente un système d'auto-nettoyage sous pression à 32 jets qui élimine les saletés tenaces. Le patin effectue jusqu'à 200 tr/min pour éviter les traces. Doté de la technologie TruEdge 3.0, incluant un rouleau suspendu à coussin d'air avec une portée étendue de 1,5 cm et une bande en feutre souple, il glisse le long des bords pour un nettoyage parfait d'un mur à l'autre, protégeant ainsi vos meubles en douceur. 【Recharge PowerBoost : Autonomie en continu intelligente】 Équipant exclusivement le T90 PRO OMNI, la technologie révolutionnaire PowerBoost permet des augmentations de puissance ultra-rapides. Son algorithme d'auto-optimisation gère la puissance de manière dynamique, restaurant 10 % de batterie en seulement 3 minutes pendant les intervalles de nettoyage du patin. Cela permet une couverture de nettoyage véritablement ininterrompue jusqu'à 500 m² par tâche, même aux réglages maximum, ce qui en fait la solution idéale pour les grandes maisons et le nettoyage en continu de toute la maison. 【Aspiration BLAST de 30 000 Pa avec optimisation du niveau sonore global】 Le système BLAST optimisé fournit une puissance d'aspiration de 30 000 Pa et un flux d'air de 16 L/s pour un ramassage de 100 % des gros débris. Le T90 PRO OMNI est doté d'une technologie de réduction de bruit globale qui abaisse considérablement le volume sonore de fonctionnement tout en maintenant une puissance de nettoyage maximale, pour un nettoyage plus silencieux qui ne perturbe pas votre vie quotidienne. 【TruePass 4 roues motrices et technologie AIVI 3D 4.0 Omni-Approach 】 Le TruePass avec 4 roues motrices adaptatives utilise un mécanisme purement mécanique pour déployer instantanément des roues d'ascension auxiliaires, franchissant une seule marche de 2,4 cm de hauteur maximum et plusieurs marches jusqu'à 4 cm de hauteur. Renforcé par l'AIVI 3D 4.0 et un modèle sémantique avancé, il identifie intelligemment les bords sûrs pour un nettoyage précis tout en maintenant une distance sûre avec les objets instables tels que les câbles, garantissant ainsi une navigation minutieuse et sans obstacle. 【Triple Lift avec séparation précise sec-humide et AI Instant Re-Mop 2.0】 Le système intelligent Triple Lift s'adapte automatiquement à la situation : il soulève le patin sur les tapis et moquettes, soulève les brosses en cas d'éclaboussures de liquides et rétracte la brosse latérale lorsqu'il rencontre des gros débris. AI Instant Re-Mop 2.0 détecte différents types de taches et effectue deux passages croisés pour un nettoyage en profondeur, puis un rinçage automatique du patin évite toute contamination croisée et des résultats hygiéniques. 【Fresh-Flow Power Washing",
-    "price": 392.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-ecovacs-deebot-t90-pro-omn-3431908",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ije7D/3431908_1/re/1200x1200/qt/90/3431908_1.jpg",
-    "detected_at": "2026-10-13T18:28:23+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 392.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Technic F1 Oracle Red Bull Racing RB20 42206",
-    "description": "143,99€ - Carrefour Imaginez le rugissement des moteurs tandis que vous construisez votre maquette LEGO Technic F1 Oracle Red Bull Racing RB20 (42206). Lancez-vous dans le montage de cette voiture de F1 à l'échelle 1/8 arborant la livrée caractéristique de l'écurie, des pneus imprimés et des détails réalistes. Dirigez la voiture à l'aide du bouton sur le toit ou du volant dans le cockpit, puis testez ses suspensions avant et arrière. Observez la boîte à 2 vitesses et le différentiel et retirez le capot pour voir le moteur V6 à pistons mobiles. Ensuite, réglez l'aileron pour reproduire le système DRS et exposez votre maquette pour rendre hommage à votre passion pour la F1. Détendez-vous en plongeant dans la création de véhicules haute performance avec la collection de sets de véhicules LEGO Technic pour adultes (vendus séparément). Profitez au mieux de vos sets avec l'appli LEGO Builder, où vous pouvez zoomer, faire pivoter vos modèles 3D, suivre votre progression et enregistrer vos sets. Dimensions – Ce set comprend une voiture de F1 LEGO qui mesure plus de 14 cm de haut, 63 cm de long et 24 cm de large",
-    "price": 143.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-technic-f1-oracle-red-bull-racing-rb20-42206-3431907",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HBF8r/3431907_1/re/1200x1200/qt/90/3431907_1.jpg",
-    "detected_at": "2026-10-13T18:28:04+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 143.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Pikmin 4 Switch 2 Edition + Academie Dandori",
-    "description": "59,99€ - Cultura Compatible Switch 2 uniquement. Voici les nouveautés par rapport à la version Switch 1 : Graphismes améliorés : Le jeu tourne désormais jusqu'en résolution 4K sur le téléviseur, offrant des détails bien plus nets sur les Pikmin et les décors. Le mode Académie Dandori : Cette extension incluse propose 72 stages de défis chronométrés inédits , ajoutés au rythme de 6 par mois. Elle intègre des examens hebdomadaires (du vendredi au dimanche) où vous n'avez qu'un seul essai officiel pour décrocher une médaille. Commandes vocales pour Otchin : Vous pouvez utiliser le micro de la console pour dicter 9 ordres vocales différents directement à votre chien sauveteur Otchin, comme lui demander de rassembler les Pikmin ou de rapporter un trésor. Multijoueur étendu : Les duels Dandori intègrent les fonctions GameShare et GameChat . Vous pouvez ainsi affronter un ami en ligne avec le chat vocal, ou jouer en multijoueur local sans fil avec un seul exemplaire du jeu (même si votre ami joue sur une Switch de première génération). Mise à niveau version Switch 1 : Les joueurs possédant déjà la version Switch originale pourront passer à cette nouvelle version pour 9,99 € .",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-pikmin-4-switch-2-edition-academie-dandori-3431906",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/BDapS/3431906_1/re/1200x1200/qt/90/3431906_1.jpg",
-    "detected_at": "2026-10-13T18:27:44+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   }
