@@ -1,5 +1,25 @@
 [
   {
+    "title": "CASO MG 20 Ceramic Menu - Micr...cier inoxydable, façade miroir",
+    "price": 153.44,
+    "reference_price": 185.38,
+    "discount_percent": 17.23,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01CR1EX9I",
+    "image_url": "https://m.media-amazon.com/images/P/B01CR1EX9I.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 05:30:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 153.44,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
     "title": "SAMSUNG Réfrigérateur 3 portes RF50C530ES9",
     "price": 1008.83,
     "reference_price": 1149.37,
@@ -5263,7 +5283,7 @@
     "title": "Max & Molly Laisse Multifoncti...rt pour Votre fidèle Compagnon",
     "price": 16.81,
     "reference_price": 27.42,
-    "discount_percent": 38.69,
+    "discount_percent": 38.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CLLXRX55",
     "image_url": "https://m.media-amazon.com/images/P/B0CLLXRX55.01._AC_SL1500_.jpg",
@@ -5271,7 +5291,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 16.81,
@@ -5287,7 +5307,7 @@
     "title": "Avery Classeur robuste à 3 ann... classeurs bleu marine (79869)",
     "price": 16.08,
     "reference_price": 42.53,
-    "discount_percent": 62.19,
+    "discount_percent": 62.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07C7Y6VDJ",
     "image_url": "https://m.media-amazon.com/images/P/B07C7Y6VDJ.01._AC_SL1500_.jpg",
@@ -5295,7 +5315,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 16.08,
@@ -5311,7 +5331,7 @@
     "title": "Bestron Moulin à café électriq...cier inoxydable, Design cuivré",
     "price": 16.99,
     "reference_price": 31.78,
-    "discount_percent": 46.54,
+    "discount_percent": 46.5,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07ZZ3MRQB",
     "image_url": "https://m.media-amazon.com/images/P/B07ZZ3MRQB.01._AC_SL1500_.jpg",
@@ -5319,7 +5339,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 16.99,
@@ -5335,7 +5355,7 @@
     "title": "Deadpool Doublepack DVD [Import]",
     "price": 5.76,
     "reference_price": 15.53,
-    "discount_percent": 62.91,
+    "discount_percent": 62.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B07FSYRVRG",
     "image_url": "https://m.media-amazon.com/images/P/B07FSYRVRG.01._AC_SL1500_.jpg",
@@ -5343,7 +5363,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 5.76,
@@ -5359,7 +5379,7 @@
     "title": "HUNTER Collier Maldon, Couleur...iculièrement léger, Taille : L",
     "price": 12.31,
     "reference_price": 23.18,
-    "discount_percent": 46.89,
+    "discount_percent": 46.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DNKJ3WF6",
     "image_url": "https://m.media-amazon.com/images/P/B0DNKJ3WF6.01._AC_SL1500_.jpg",
@@ -5367,7 +5387,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 12.31,
@@ -5383,7 +5403,7 @@
     "title": "CHAMPION Filtre à air Champion...F3203 Air Filter (Air Filters)",
     "price": 10.85,
     "reference_price": 18.26,
-    "discount_percent": 40.58,
+    "discount_percent": 40.6,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01C4FWNPI",
     "image_url": "https://m.media-amazon.com/images/P/B01C4FWNPI.01._AC_SL1500_.jpg",
@@ -5391,7 +5411,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 10.85,
@@ -5407,7 +5427,7 @@
     "title": "Selsey Console D'Entrée Suspen... cm Table Console Noire Veldio",
     "price": 56.99,
     "reference_price": 125.99,
-    "discount_percent": 54.77,
+    "discount_percent": 54.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D8QQ2LR9",
     "image_url": "https://m.media-amazon.com/images/P/B0D8QQ2LR9.01._AC_SL1500_.jpg",
@@ -5415,7 +5435,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 56.99,
@@ -5431,7 +5451,7 @@
     "title": "Amig - Lot de 5 grilles de ven...300 x 300 mm | Couleur : Blanc",
     "price": 20.45,
     "reference_price": 37.45,
-    "discount_percent": 45.39,
+    "discount_percent": 45.4,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DTPVY56M",
     "image_url": "https://m.media-amazon.com/images/P/B0DTPVY56M.01._AC_SL1500_.jpg",
@@ -5439,7 +5459,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 20.45,
@@ -5455,7 +5475,7 @@
     "title": "Lamborghini Automobili Casque ...dulte Unisexe, Noir, Un Taille",
     "price": 122.4,
     "reference_price": 179.4,
-    "discount_percent": 31.77,
+    "discount_percent": 31.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0B2F3GHHF",
     "image_url": "https://m.media-amazon.com/images/P/B0B2F3GHHF.01._AC_SL1500_.jpg",
@@ -5463,7 +5483,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 122.4,
@@ -5487,7 +5507,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
     "price_history": [
       {
         "price": 22.49,
@@ -6888,6 +6908,174 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Brosse de Lavage Gardena Cleansystem - pour Vélo",
+    "description": "15,42€ - Amazon Nettoyage humide facile: la brosse de vélo transportant l'eau se fixe facilement à votre tuyau d'arrosage en un seul « clic » La bonne solution pour chaque surface: les poils turquoise robustes nettoient efficacement le cadre, tandis que l'éponge douce est utilisée pour nettoyer les rayons délicats Facile à utiliser: le débit d'eau peut être réglé en continu directement sur le manche de la brosse ou complètement désactivé selon les besoins. Cela vous évite d'avoir à aller au robinet Caractéristiques exceptionnelles: la brosse de nettoyage simple et intuitive est équipée d'une protection contre les UV et le gel et vous permet également de tenir les bâtonnets de savon Gardena Contenu: 1 brosse à vélo Gardena Cleansystem",
+    "price": 15.42,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/gardena-brosse-de-lavage-cleansystem-pour-velo-3432058",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/sclbg/3432058_1/re/1200x1200/qt/90/3432058_1.jpg",
+    "detected_at": "2026-10-14T05:27:50+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 15.42,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chapka bi-matière caramel Devred",
+    "description": "15€ - BAZARCHIC Jolie chapka pour la saison automne/hiver à 15€ au lieu de 39.99€. Tailles disponibles S/M et L/XL 49% laine 49% polyester 1% acrylique",
+    "price": 15.0,
+    "reference_price": 39.99,
+    "discount_percent": 62.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chapka-bi-matiere-caramel-devred-3432069",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/u0uXH/3432069_1/re/1200x1200/qt/90/3432069_1.jpg",
+    "detected_at": "2026-10-14T05:27:05+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 15.0,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nettoyeur de sols Humide Dyson PencilWash - Brosse motorisée, séchage Rapide, 30 min d’Autonomie",
+    "description": "199€ - Amazon 64 000 filaments de microfibres: Un rouleau absorbant nettoie efficacement les taches et liquides renversés, tout en éliminant simultanément la poussière et la saleté. Extraction automatique des débris: L'eau sale et les débris sont éliminés du rouleau à chaque rotation. Huit points d'hydratation: Le rouleau est continuellement humidifié avec de l'eau propre, offrant une couverture uniforme du début à la fin. Réservoir d'eau propre dans la tête de la brosse: 300 ml pour couvrir 100 m². Situé au niveau de la tête de la brosse, et non à la poignée, pour un équilibre et un contrôle optimal. Poignée ultra-fine et légère: D'un diamètre de seulement 38 mm, la poignée ergonomique est légère en main et se dirige naturellement d'une simple rotation. Format discret. S'incline à 170°: Nettoyez sous les meubles bas et dans les espaces restreints, sans perte de performance. Brosse motorisée: Un moteur puissant fait tourner le rouleau pour offrir un mouvement fluide et auto-propulsé, sans effort.",
+    "price": 199.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/dyson-pencilwash-nettoyeur-de-sols-humide-nettoyeur-ultrafin-et-leger-avec-brosse-motorisee-sechage-rapide-30-min-dautonomie-3432057",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5OR6l/3432057_1/re/1200x1200/qt/90/3432057_1.jpg",
+    "detected_at": "2026-10-14T05:26:54+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 199.0,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Escabeau en Aluminium Magnusson 6 Marches - Hauteur de Travail 3,19m, Charge 150 Kg, Plateforme Antidérapante",
+    "description": "49,90€ - Castorama Escabeau en aluminium Magnusson 6 marches à 49,90€ au lieu de 75,90€. Offre valable chez Castorama jusqu'au 1er décembre L'escabeau aluminium 6 marches Magnusson est conçu pour offrir sécurité et commodité lors des travaux. *caractéristiques du produit:* - 6 marches - Marches serties solides - Structure robuste - Porte-outils pratique sur le dessus - Fabriqué en aluminium léger - Fabriqué en France",
+    "price": 49.9,
+    "reference_price": 75.9,
+    "discount_percent": 34.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/escabeau-en-aluminium-magnusson-6-marches-hauteur-de-travail-319-m-charge-150-kg-plateforme-antiderapante-3432051",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/MiCk8/3432051_1/re/1200x1200/qt/90/3432051_1.jpg",
+    "detected_at": "2026-10-14T05:23:14+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 49.9,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
+    "title": "100% de cashback sur le montant HT pour toute première souscription à un abonnement CyberGhost VPN via iGraal",
+    "description": "100% de cashback sur le montant HT de votre abonnement CyberGhost VPN • Valable pour toute première souscription (nouveaux clients CyberGhost) • Cashback crédité sur votre cagnotte iGraal, retirable dès 20€ (virement bancaire, PayPal) • Bonus de bienvenue de 3€ pour toute nouvelle inscription iGraal, je parraine si besoin (y) À noter avant l'achat : • Dans la limite d'une souscription par compte iGraal. • Pas de cashback pour les anciens clients (offres de renouvellement). • Le cashback est calculé sur le montant HT. • Le partenaire enregistre les commandes en dollar USD : la conversion de devises peut entraîner un écart de valeur jusqu'à 5% sur le cashback. Ne commandez que si vous acceptez cette condition, aucune correction ne pourra être effectuée. • Les gains peuvent s'afficher sur votre compte iGraal jusqu'à 7 jours après l'achat ; la validation par le marchand prend ensuite entre 2 semaines et 4 mois.",
+    "price": 20.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/100-de-cashback-sur-le-montant-ht-pour-toute-premiere-souscription-a-un-abonnement-cyberghost-vpn-via-igraal-3432066",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SXRRO/3432066_1/re/1200x1200/qt/90/3432066_1.jpg",
+    "detected_at": "2026-10-14T05:20:00+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Citizen Zenshin Super Titanium Eco-Drive CA4610-85L",
+    "description": "314,30€ - Ocarat Grâce à son boîtier octogonal en titane brossé, il est résistant à la corrosion et vous assurera du confort tout au long de son port. Arborant une sublime couleur grise, il dispose d'un diamètre de 42,50 mm, d'une épaisseur de 11,60 mm et d'un poids de 101 gr. La couronne grise crantée de 6 mm accompagnée de part et d'autre par des boutons poussoirs permettant de régler plus facilement les éléments centraux placés sur le cadran recouvert par un verre saphir plat. Celui-ci assure notamment une protection plus remarquable contre les chocs et les rayures. Par ailleurs, veuillez noter que cette montre présente un fond de boîte vissé qui lui confère une étanchéité de 10 ATM.",
+    "price": 314.3,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/citizen-zenshin-super-titanium-eco-drive-ca4610-85l-3432065",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/V6Tl2/3432065_1/re/1200x1200/qt/90/3432065_1.jpg",
+    "detected_at": "2026-10-14T05:17:37+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 314.3,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures Adidas Response Runner - Gris, Tailles 36, 26 2/3 ou 37 1/3",
+    "description": "19,99€ - MandM Tige et doublure en textile. Fermeture à dentelle. Cheville et languette légèrement rembourrées. Semelle intérieure OrthoLite® pour amorti et maintien. Talonnette renforcée. Semelle intermédiaire EVA - conçue pour le confort et un amorti supplémentaire. Semelle en caoutchouc.",
+    "price": 19.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/adidas-chaussures-de-course-taille-3637-3432031",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9xXF0/3432031_1/re/1200x1200/qt/90/3432031_1.jpg",
+    "detected_at": "2026-10-14T05:10:00+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lave-linge frontal GEDTECH GLL121400DG - 12 Kg",
+    "description": "299,99€ - Cdiscount Points forts Vitesse d’essorage : 1400 Compact - Avec ses dimensions compactes, le lave-linge à chargement frontal peut être installé dans des espaces limités, ce qui en fait une option idéale pour les petites maisons, les appartements, les résidences universitaires, et d'autres endroits où l'espace est restreint. Auto-nettoyage - La fonction auto-nettoyage rafraîchit l'intérieur du tambour, garantissant ainsi un lavage plus hygiénique pour l'ensemble de la famille. Caractéristiques Couleur : Dark Gris Capacité : 12 Kilogrammes Matériau : Plastique Pays d'origine : France Spécificités : Affichage du temps restant Cycles standards : 16 Options incluses : Safety Glasses Type de finition : Peint Type de commandes : Tactile",
+    "price": 299.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lave-linge-frontal-gedtech-gll121400dg-12-kg-3432063",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oA42o/3432063_1/re/1200x1200/qt/90/3432063_1.jpg",
+    "detected_at": "2026-10-14T05:04:24+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 299.99,
+        "observed_at": "2026-10-14T05:31:14.099421+00:00"
       }
     ]
   },
@@ -11562,195 +11750,6 @@
       {
         "price": 784.99,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de chaussures de sécurité Timberland - Ex : Chaussures Splitrock, Taille 39",
-    "description": "19,99€ - Veepee Top prix sur toutes les chaussures de sécu Timberland. Tailles disponibles entre 39 et 42 Celles du deal sont à 160€, prix officiel. La LISTE ici https://www.veepee.fr/gr/catalog/rec409/rec409-men_shoes?brand=timberland&sort=1 Pour le descriptif, j'ai pris sur le site de l'enseigne directement https://timberlandpro.co.uk/products/splitrock-2-0-xt-composite-toe-work-boot-black",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-chaussures-de-securite-timberland-ex-chaussures-splitrock-taille-39-3431776",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3hnXt/3431776_1/re/1200x1200/qt/90/3431776_1.jpg",
-    "detected_at": "2026-10-13T14:14:52+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Fallout 4 sur PC, Series X|S / Xbox One - GOTY Edition à 9.99€ - (Dématérialisé)",
-    "description": "4,99€ - Xbox Store Lien vers Fallout 4 à 4.99€ -> https://www.xbox.com/fr-FR/games/store/fallout-4/c3kldkzbhncz Lien vers Fallout 4 GOTY Editon à 9.99€ -> https://www.xbox.com/fr-FR/games/store/fallout-4-game-of-the-year-edition/c24svx28pnwm La GOTY Edition inclus le jeu de base + Fallout 4: Vault-Tec Workshop Fallout 4: Wasteland Workshop Fallout 4: Automatron Fallout 4: Far Harbor Fallout 4: Contraptions Workshop Fallout 4: Nuka-World Compatible PC, Xbox Series X/S & Xbone One ainsi que Cloud Gaming. Test de Geeksandcom -> https://www.geeksandcom.com/test-fallout-4-pc/ Description du jeu: Vous êtes l'unique survivant de l'Abri 111, qui refait surface dans un monde ravagé par la guerre nucléaire. Chaque instant est une lutte pour la survie, chaque choix influence l'avenir. Reconstruisez, transformez et reprenez possession des Terres désolées à votre manière.",
-    "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/fallout-4-sur-pc-series-xs-xbox-one-goty-edition-a-999eur-dematerialise-3431775",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/F2Gbj/3431775_1/re/1200x1200/qt/90/3431775_1.jpg",
-    "detected_at": "2026-10-13T14:14:50+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Centrale vapeur Calor SV4110C0 - 2200W, 1,5L, 5 bars (Via 26€ en crédit fidélité) - Magasin uniquement",
-    "description": "33,99€ - Carrefour Prix de fou, en promo. à 59,99€ avec 26€ cagnottés : 33,99€ Retrait magasin uniquement selon les stocks Design et Ergonomie Format : Modèle ultra compact. Autonomie : Autonomie illimitée (permettant un remplissage du réservoir à tout moment). Type de semelle : Semelle Xpress Glide. Spécifications Techniques et Performances Puissance : 2200 W. Pression : 5 bars. Débit vapeur continu : 110 g/min. Fonction pressing : 190 g/min (pour les faux plis tenaces). Capacité du réservoir : 1,2 L. Entretien : Technologie Calc Clear pour un entretien facile et des performances vapeur durables.",
-    "price": 33.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/centrale-vapeur-calor-sv4110c0-2200w-15l-5-bars-via-26eur-en-credit-fidelite-magasin-uniquement-3431774",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RF6wP/3431774_1/re/1200x1200/qt/90/3431774_1.jpg",
-    "detected_at": "2026-10-13T14:12:51+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 33.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Monopoly Lilo et Stitch",
-    "description": "9,95€ Monopoly Version Lilo & Stitch - Winning Moves - Version Française - Jeux de société pour Enfant - sous Licence Officielle Disney - De 2 à 6 Joueurs - Dès 8 Ans Images et vidéos des produits (texte alternatif généré par IA)",
-    "price": 9.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/monopoly-lilo-et-stitch-3431773",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tXaMj/3431773_1/re/1200x1200/qt/90/3431773_1.jpg",
-    "detected_at": "2026-10-13T14:11:52+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 9.95,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Casio GW-5000U-1ER Solaire Radio-pilotée Fond de boîtier vissé",
-    "description": "179,99€ - Mondial Montres Full-Auto Illuminator Lorsque cette fonction est activée, il suffit de tourner légèrement le poignet pour que le rétroéclairage de la montre s'allume. Econome en énergie : le Full Auto Illuminator fonctionne uniquement dans un environnement sombre. Résistance aux chocs La structure résistante aux chocs protège la montre contre les impacts et les vibrations. Fonctionnement solaire Des cellules solaires procurent une alimentation en énergie autonome et respectueuse de l'environnement. Le surplus d'énergie solaire est stocké dans un accumulateur. Mise à l'heure automatique via réception de signaux de radio-pilotage (EU, USA, JPN, CHN) Que ce soit en Europe, en Amérique du Nord ou au Japon, dans les vastes territoires du Canada, de l'Amérique centrale ou de la Chine - une fois la montre ajustée au fuseau horaire local, elle reçoit le signal radio correspondant et indique toujours la date et l'heure exactes. Dans de nombreux pays, elle passe automatiquement de l'heure d'été à l'heure d'hiver et inversement. Fonction d'heure universelle La fonction d’heure universelle affiche l’heure dans 29 fuseaux horaires et grandes villes du monde. Chronomètre 1/100 s - 24 heures Mesure le temps écoulé avec une précision au 1/100ème de seconde sur une durée maximale de 24 heures. Le signal sonore confirme le lancement et l'arrêt du chronomètre. Comptes à rebours - 1/1 min - 24 heures Pour tous ceux qui aiment la précision : les comptes à rebours vous rappellent les évènements importants ou récurrents en émettant un signal acoustique à la date et l'heure programmées. Le temps peut être programmé en minutes, 24 heures maximum à l'avance. Un atout particulièrement appréciable pour la prise quotidienne de médicaments ou les entraînements répétés. 5 alarmes quotidiennes Une alarme sonore vous rappelle quotidiennement vos échéances à l'heure programmée. Ce modèle dispose de cinq alarmes indépendantes pour vous rappeler en toute flexibilité vos rendez-vous importants. Fonction Snooze Chaque fois que vous arrêtez l'alarme, elle se déclenche à nouveau quelques minutes plus tard. Marche/Arrêt bip sonore des touches Le bip sonore des touches peut être désactivé avec la touche de mode. Après la désactivation, il n'y a plus de bip sonore au passage d'une fonction à l'autre. Les alarmes ou comptes à rebours programmés restent cependant actifs après la désactivation du bip sonore des touches. Calendrier automatique Une fois programmé, le calendrier automatique affiche toujours la date correcte. Format de l'heure 12/24 heures Vous pouvez afficher l'heure au format 12 heures ou 24 heures. Verre minéral Le verre minéral dur et résistant aux rayures protège la montre des dommages inesthétiques. Fond de boîtier vissé Grâce au vissage du fond du boîtier, l'intérieur de la montre est parfaitement protégé tout en restant facilement accessible, par exemple pour un changement de pile. Bracelet en résine Grâce à son extrême durabilité et sa souplesse, la résine synthétique constitue un matériau idéal pour les bracelets. Boucle La boucle déployante permet de mettre et d'enlever sa montre facilement et rapidement. Indicateur de niveau des batteries Affiche le niveau actuel des batteries. Classe d'étanchéité (20 bars) Parfait pour nager et faire de la plongée sans équipement : la montre est étanche jusqu'à 20 bars (ISO 22810).",
-    "price": 179.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-casio-gw-5000u-1er-solaire-radio-pilotee-fond-de-boitier-visse-3431772",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tfyUN/3431772_1/re/1200x1200/qt/90/3431772_1.jpg",
-    "detected_at": "2026-10-13T14:10:44+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 179.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Caméra d'action Insta360 Go Ultra 4K 60fps",
-    "description": "280,95€ - AliExpress Délai d'expédition] : Si vous passez commande un vendredi, veuillez noter qu'en raison de la fermeture de l'entrepôt pour le week-end, l'expédition ne pourra débuter que le lundi. Nous vous remercions de votre compréhension et de votre patience. Pour toute question, n'hésitez pas à nous contacter ; nous vous répondrons dans les plus brefs délais. [À propos du produit] : Tous les produits vendus par Euro Frame Store sont 100 % neufs et authentiques. [À propos de la livraison] : Tous les articles sont expédiés depuis un entrepôt européen. L'emballage peut subir de légères détériorations durant le transport ; il s'agit d'un phénomène normal. [Retours] : Les retours et remboursements ne sont acceptés qu'en cas de défaut de qualité du produit ; aucun retour ne sera accepté pour d'autres motifs. Merci d'en tenir compte avant de passer commande.",
-    "price": 280.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/camera-daction-insta360-go-ultra-4k-60fps-3431770",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/aOqrP/3431770_1/re/1200x1200/qt/90/3431770_1.jpg",
-    "detected_at": "2026-10-13T14:09:08+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 280.95,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Promotion sur les extras numériques Volkswagen Ex: Commande vocale",
-    "description": "185€ - Volkswagen Pas mal comme promo pour ceux qui utilisent les services numériques VW ! Ça peut être intéressant pour prolonger ou découvrir les fonctionnalités connectées de sa Volkswagen à moindre coût. Exemple de tarif : Commande vocale : 185€ au lieu de 219€ Navigation : 255€ au lieu de 299€ We Connect Plus pour 1 an : 63,50€ au lieu de 79,50€",
-    "price": 185.0,
-    "reference_price": 219.0,
-    "discount_percent": 15.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/promotion-sur-tous-les-extras-numeriques-volkswagen-ex-commande-vocale-3431769",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xUc1n/3431769_1/re/1200x1200/qt/90/3431769_1.jpg",
-    "detected_at": "2026-10-13T14:08:57+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 185.0,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Canapé deux places 165 cm beige Honeyou",
-    "description": "161,99€ - JoyBuy Pour ceux qui recherchent un canapé compact de style moderne qui n'encombrera pas leur salon, le canapé deux places HONEYOU est proposé à un prix avantageux chez JoyBuy. Disponible à 162 € (au lieu de 299,99 € avec la livraison gratuite), le canapé deux places HONEYOU est proposé chez JoyBuy, tandis que des modèles comparables d'autres fabricants, selon idealo, sont disponibles à partir de 291,99 €. Ce canapé mesure 165 cm de large et peut accueillir confortablement deux personnes, voire trois en position détendue. Son rembourrage épais assure un confort optimal.…",
-    "price": 161.99,
-    "reference_price": 299.99,
-    "discount_percent": 46.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/honeyou-canape-deux-places-165-cm-canape-deux-places-3431767",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/me7Jl/3431767_1/re/1200x1200/qt/90/3431767_1.jpg",
-    "detected_at": "2026-10-13T14:08:05+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 161.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Dispatch Nintendo Switch 2 Edition (Dématérialisé)",
-    "description": "23,19€ - Nintendo Dispatch est un jeu à l'humour décapant sur des super-héros en milieu professionnel au cœur du Los Angeles contemporain. Imaginé par les créateurs de Tales from the Borderlands et de The Wolf Among Us, il s'appuie sur un casting prestigieux réunissant Aaron Paul, Laura Bailey et Jeffrey Wright. Remarque : Certains contenus à caractère adulte de la version originale de Dispatch ont été modifiés. Vous incarnez Robert Robertson, alias Méca Man, dont l'exo-armure a été détruite lors d'un affrontement contre son pire ennemi. Privé de ses pouvoirs, il est contraint d'accepter un poste au centre de super-héros... derrière un bureau. Prenez la tête d'un groupe d'anciens super-méchants en quête de rédemption. Faites évoluer vos recrues tout en gérant les relations au bureau, et réparez votre armure pour assouvir votre soif de vengeance ! Façonnez le récit Dans Dispatch, chacune de vos décisions impacte le cours de l'histoire. Que ce soit lors d'échanges autour de la machine à café ou en situation de crise sur le terrain, vos choix influencent vos relations avec les héros, leur loyauté et le destin de votre personnage. Coordonnez les missions Gérez les urgences depuis la carte des interventions et déployez les héros appropriés... ou non. Évaluez les risques par rapport aux récompenses, mais gardez à l'esprit que vos décisions auront des répercussions sur votre équipe et sur toute la ville. Gérez votre équipe Un héros ne se résume pas à ses pouvoirs. Chacun a ses failles, ses caprices et son passé à prendre en compte pour maintenir la cohérence au sein de l'équipe. Améliorez leurs compétences et débloquez des capacités pour renforcer leur efficacité sur le terrain. Entre humour, stratégie et narration interactive, Dispatch redéfinit le sens du mot « héroïsme », qu'on porte une cape ou qu'on soit coincé derrière un écran. Avec une distribution exceptionnelle issue de tous les horizons du divertissement: Aaron Paul (Breaking Bad, Westworld, Black Mirror) Laura Bailey (The Legend of Vox Machina, The Last of Us II, Marvel's Spider-Man) Erin Yvette (Hades II, The Wolf Among Us, Armored Core VI: Fires of Rubicon) MoistCr1TiKaL (Charles White) Jacksepticeye (Sonic Prime, River City Girls 1 & 2, Bendy and the Ink Machine) Travis Willingham (The Legend of Vox Machina, Critical Role, Lego Avengers) Alanah Pearce (V/H/S Beyond, Cyberpunk 2077, Gears 5) Lance Cantstopolis (karaté, danse, acteur) Joel Haver (réalisateur, acteur, YouTuber) THOT SQUAD (Artiste musical : Pound Cake, Hoes Depressed) Yung Gravy (Artiste musical : Betty (Get Money), oops!) Matthew Mercer (Critical Role, Overwatch, Resident Evil 6) et Jeffrey Wright (American Fiction, The Batman, Casino Royale)",
-    "price": 23.19,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/dispatch-nintendo-switch-2-edition-3431763",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xr13P/3431763_1/re/1200x1200/qt/90/3431763_1.jpg",
-    "detected_at": "2026-10-13T14:07:13+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 23.19,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
       }
     ]
   }
