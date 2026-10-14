@@ -1145,7 +1145,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1166,7 +1166,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1187,7 +1187,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1208,7 +1208,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1859,7 +1859,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T00:58:22.647902+00:00",
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6737,6 +6737,50 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Volant de course Mario Kart Racing Wheel Pro Deluxe - HORI - Nintendo Switch, PC - Pédales",
+    "description": "99,99€ - Cdiscount Un peu d'économie pour un des seuls (le seul ?) volants corrects pour Switch 11 et 2. De quoi redécouvrir vos jeux de voitures (au delà de Mario Kart, par exemple Autosport Grid y gagne grandement) [shortcode id=\"20619157\"/][shortcode id=\"20619158\"/] Volant sous licence officielle Nintendo Compatible avec tous les jeux de courses sur Nintendo Switch Design aux couleurs de Mario Design ergonomique et basé sur les volants de courses Pédales incluses et commandes personnalisables sur le volant",
+    "price": 99.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/volant-de-course-mario-kart-racing-wheel-pro-deluxe-hori-nintendo-switch-pc-pedales-3432109",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fEpAL/3432109_1/re/1200x1200/qt/90/3432109_1.jpg",
+    "detected_at": "2026-10-14T06:57:17+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-14T07:00:34.781762+00:00"
+      }
+    ]
+  },
+  {
+    "title": "High on Life 2 sur PS5",
+    "description": "24,99€ - Cdiscount • Précommandez High On Life 2 dès maintenant pour obtenir la visière ( I PRE-ORDERED HIGH ON LIFE 2 ) pour certaines armes • High On Life est DE RETOUR alors que vous et votre équipe bien-aimée d'aliens désaxés vous frayez un chemin à force de tirs, de coups de poignards et de skate à travers toute une galaxie de mondes somptueux et dangereux, pour détruire le DIABOLIQUE conglomérat pharmaceutique qui s'acharne à mettre un prix sur la VIE HUMAINE • DÉGOMMEZ vos ennemis avec un arsenal d'aliens charismatiques dans des combats détonants et hyperactifs • Repoussez les flics aliens à coup de tricks et roulez vers la liberté avec votre nouveau SKATEBOARD d'enfer • Éclatez-vous avec une troupe bizarre et excentrique d'êtres subversifs qui vous trouvent TOTALEMENT COOL",
+    "price": 24.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/high-on-life-2-sur-ps5-3428142",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/RMKt5/3428142_1/re/1200x1200/qt/90/3428142_1.jpg",
+    "detected_at": "2026-10-14T06:56:16+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T07:00:34.781762+00:00"
       }
     ]
   },
@@ -11964,50 +12008,6 @@
     "price_history": [
       {
         "price": 17.98,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Huile d'olive vierge extra Bellasan - 2L (soit 5.58€/L)",
-    "description": "11,15€ - Aldi À partir du mardi 20 octobre chez Aldi, le bidon de 2 Litres d'huile d'olive vierge extra de la marque Bellasan est proposé à 11,15 €, ce qui revient à 5,58 € le litre. Un très bon prix au litre vu l'augmentation globale des prix de l'huile d'olive ces derniers temps.",
-    "price": 11.15,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bellasan-huile-dolive-vierge-extra-b-ref-8272-3431810",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ByQt1/3431810_1/re/1200x1200/qt/90/3431810_1.jpg",
-    "detected_at": "2026-10-13T15:15:38+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 11.15,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Blu-ray 4K Superman (1978) SteelBook édition limitée",
-    "description": "24,29€ - Amazon Film en version cinéma (1978, 143') Boîtier métal SteelBook® limité Contient : - le 4K Ultra HD du film (Dolby Vision et HDR10) - le Blu-ray du film Synopsis Sauvé de justesse avant la destruction de sa planète, le jeune Kal-El atterrit sur notre planète. Elevé par un couple de paysans, il devient Clark Kent, un timide journaliste. Mais derrière ses lunettes et sa gaucherie envers Lois Lane, personne ne se doute qu'il est le défenseur de l'humanité. Doté de pouvoirs extraordinaires, Superman ne craint personne ou presque... éalisateur ‏ : ‎ Richard Donner Durée ‏ : ‎ 2 heures et 23 minutes Date de sortie ‏ : ‎ 19 novembre 2025 Acteurs ‏ : ‎ Christopher Reeve, Gene Hackman, Margot Kidder, Marlon Brando, Terence Stamp Sous-titres : ‏ : ‎ Arabe, Castillan, Chinois, Coréen, Danois, Finnois, Français, Norvégien, Néerlandais, Portugais, Suédois, Tchèque, Thaï Langue ‏ : ‎ Allemand (Dolby Digital 2.0), Anglais (DTS-HD 2.0), Anglais (DTS-HD 5.1), Castillan (Dolby Digital 2.0), Français (Dolby Digital 2.0), Italien (Dolby Digital 2.0), Portugais (Dolby Digital 2.0) Studio ‏ : ‎ Warner Bros. Entertainment France ASIN ‏ : ‎ B0FJT9F8BP Pays d'origine ‏ : ‎ France Nombre de disques ‏ : ‎ 2 Commentaires client",
-    "price": 24.29,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/blu-ray-4k-superman-1978-steelbook-edition-limitee-3431809",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/kkFBT/3431809_1/re/1200x1200/qt/90/3431809_1.jpg",
-    "detected_at": "2026-10-13T15:12:57+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.29,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
