@@ -2531,7 +2531,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -6647,7 +6647,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6668,7 +6668,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6689,7 +6689,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6710,8 +6710,8 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
+    "merchant_url": "https://www.decathlon.fr/p/couteau-chasse-multifonctions-x7-orange/163153/c20m8395979",
     "price_history": [
       {
         "price": 23.99,
@@ -6731,12 +6731,56 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
     "merchant_url": "",
     "price_history": [
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Doudoune Jack & Jones Lupo Homme - Noir, tailles S à XXL",
+    "description": "26,99€ - Private Sport Shop Si vous cherchez une doudoune noire pour les journées fraîches, ce modèle Lupo de Jack & Jones peut être intéressant. On est sur une doudoune pour homme au style assez classique et polyvalent, facile à associer avec un jean, un pantalon chino ou une tenue plus décontractée. Elle convient aussi bien aux déplacements quotidiens qu'aux sorties en ville. La doudoune est conçue en polyester entièrement recyclé, avec une coupe au style contemporain. Le coloris noir permet de l'associer facilement à différentes tenues. Tailles disponibles : du S au XXL. Le produit est indiqué comme prêt à l'envoi, avec une livraison en France estimée entre le 16 et le 20 octobre 2026. Frais de livraison à partir de 2,99 €.",
+    "price": 26.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/doudoune-jack-jones-lupo-homme-noir-tailles-s-a-xxl-3432121",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4WqXa/3432121_1/re/1200x1200/qt/90/3432121_1.jpg",
+    "detected_at": "2026-10-14T07:11:18+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 26.99,
+        "observed_at": "2026-10-14T07:14:05.463956+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Flacon de 500ml de Bain de Bouche The Breath Co. - sans alcool, protection gencives",
+    "description": "4,74€ - Amazon 4,74 via prévoyez et économisez. Une fois la commande expédiée, vous pouvez annuler l’abonnement et aucune frais ne vous sera facturé.",
+    "price": 4.74,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/the-breath-co-bain-de-bouche-sans-alcool-protection-henvive-500ml-3432116",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/d5ZGe/3432116_1/re/1200x1200/qt/90/3432116_1.jpg",
+    "detected_at": "2026-10-14T07:10:06+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
+    "merchant_url": "https://www.amazon.fr/dp/B0DQPYC781?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 4.74,
+        "observed_at": "2026-10-14T07:14:05.463956+00:00"
       }
     ]
   },
@@ -6753,7 +6797,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:13:32.633356+00:00",
     "merchant_url": "",
     "price_history": [
       {
