@@ -1,5 +1,89 @@
 [
   {
+    "title": "CANDY - Plaque Induction - 4 Z...ords Droits - 59 x 52 x 6,2 cm",
+    "price": 186.0,
+    "reference_price": 219.0,
+    "discount_percent": 15.07,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B098JVFHGV",
+    "image_url": "https://m.media-amazon.com/images/P/B098JVFHGV.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:51:19",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 186.0,
+        "observed_at": "2026-10-14T11:52:56.398481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Antivols de vélo Yale",
+    "price": 9.39,
+    "reference_price": 15.3,
+    "discount_percent": 38.63,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07JQFTMV6",
+    "image_url": "https://m.media-amazon.com/images/P/B07JQFTMV6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:51:17",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.39,
+        "observed_at": "2026-10-14T11:52:56.398481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caso MG 25 Comptoir Micro-onde combiné 25 L 900 W Argent",
+    "price": 161.36,
+    "reference_price": 188.44,
+    "discount_percent": 14.37,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01CHZKUZU",
+    "image_url": "https://m.media-amazon.com/images/P/B01CHZKUZU.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:45:57",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 161.36,
+        "observed_at": "2026-10-14T11:52:56.398481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Blanco 523378 DINAS 45 S Évier...ne Inoxydable, Acier brossé, X",
+    "price": 169.51,
+    "reference_price": 202.5,
+    "discount_percent": 16.29,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07HCW86NH",
+    "image_url": "https://m.media-amazon.com/images/P/B07HCW86NH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:45:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 169.51,
+        "observed_at": "2026-10-14T11:52:56.398481+00:00"
+      }
+    ]
+  },
+  {
     "title": "SIEMENS Adaptateur HZ9VDSB4",
     "price": 19.99,
     "reference_price": 34.74,
@@ -1145,7 +1229,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1166,7 +1250,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1187,7 +1271,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T00:17:02.988897+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1439,7 +1523,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1460,7 +1544,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1481,7 +1565,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1502,7 +1586,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1523,7 +1607,7 @@
     "category": "Animaux",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1544,7 +1628,7 @@
     "category": "Animaux",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T01:27:16.794027+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -7777,6 +7861,28 @@
     ]
   },
   {
+    "title": "Chaussons d'escalade La Sportiva HyperEZ - Noir / Jaune",
+    "description": "107,95€ - Deporvillage Conçus par La Sportiva, ces chaussons d'escalade allient précision et confort pour les grimpeurs passionnés. Leur construction technique assure une adhérence optimale et un maintien parfait, permettant de performer sur des voies exigeantes. Idéals pour les amateurs comme pour les compétiteurs, ils améliorent la confiance et la précision à chaque mouvement. Les chaussons d'escalade La Sportiva HyperEZ sont spécialement conçus pour les grimpeurs débutants recherchant confort et polyvalence lors de leurs premières expériences d'escalade. Ce modèle offre un ajustement parfait qui facilite l'apprentissage et améliore la performance sans provoquer d'inconfort ni de douleur. Ils intègrent la technologie brevetée SenseGrip™ dans la semelle intermédiaire en EVA, qui procure un amorti supérieur et une adhérence fiable lors des appuis. La semelle est fabriquée en composé FriXion® White antimarques, avec des épaisseurs différenciées pour une durabilité et une traction accrues. De plus, le design comprend un col rembourré et un renfort en caoutchouc au talon pour améliorer la stabilité et le confort pendant l'escalade. Ils sont confectionnés avec des matériaux synthétiques 100 % véganes, combinant microfibre sans doublure et maille structurée respirante, offrant ainsi un confort optimal et un entretien facile, puisqu'ils sont lavables en machine. Leur nouvelle forme propose un volume accru dans les zones clés afin de réduire la pression sans perdre en contrôle, tandis que les doubles sangles croisées permettent un ajustement rapide et sécurisé. La Sportiva HyperEZ est conçue pour être durable et réparable, car elle est entièrement ressemelable avec des pièces d'origine La Sportiva, favorisant une utilisation prolongée et responsable. Caractéristiques : Technologie brevetée SenseGrip™ dans la semelle intermédiaire en EVA pour une meilleure adhérence et amorti Semelle FriXion® White antimarques avec épaisseurs différenciées (2 mm au talon, 4 mm à l’avant-pied) Col rembourré pour un confort accru lors de l’escalade et de la marche Renfort en caoutchouc au talon pour stabilité et accroche lors du talonnage Matériaux 100 % véganes et tissus synthétiques respirants et lavables Nouvelle forme avec plus de volume dans les zones de pression clés Doubles sangles croisées pour un chaussage rapide et sécurisé Entièrement ressemelable avec pièces d’origine La Sportiva Référence: LSP-ZFCS149-LS-K00Y0-U",
+    "price": 107.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussons-descalade-la-sportiva-hyperez-noir-jaune-3432332",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/7F5EE/3432332_1/re/1200x1200/qt/90/3432332_1.jpg",
+    "detected_at": "2026-10-14T11:44:12+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 107.95,
+        "observed_at": "2026-10-14T11:52:56.398481+00:00"
+      }
+    ]
+  },
+  {
     "title": "Perplexus Go ! - Harry Potter: Vif d'Or",
     "description": "8,95€ - Philibert Net Le Perplexus Go ! - Harry Potter: Vif d'Or est un jeu de labyrinthe 3D en forme de sphère. *spécifications du produit:* - Labyrinthe 3D - Sphère colorée - Bille à faire progresser - Thème Harry Potter Le Perplexus Go ! - Harry Potter: Vif d'Or est un jeu de labyrinthe 3D en forme de sphère.",
     "price": 8.95,
@@ -7900,6 +8006,28 @@
       {
         "price": 78.51,
         "observed_at": "2026-10-14T11:38:50.729410+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre connectée Huawei Watch GT 6 Pro - AMOLED 1,47\", titane, verre saphir, GPS",
+    "description": "220,01€ - AliExpress La Huawei Watch GT 6 Pro est une montre connectée haut de gamme conçue pour le suivi de l'activité physique, de la santé et des notifications au quotidien. Elle dispose d'un écran AMOLED couleur de 1,47 pouce offrant une résolution de 466 × 466 pixels, pour une lecture nette des informations et des cadrans. Son boîtier en alliage de titane et son verre saphir lui confèrent une conception robuste adaptée à une utilisation quotidienne comme aux activités sportives. La montre intègre un système de géolocalisation GNSS prenant en charge plusieurs constellations satellitaires afin d'enregistrer les parcours et les données de distance lors des activités en extérieur. Elle propose de nombreux modes sportifs, notamment la course à pied, le cyclisme, la randonnée, la natation et le golf, avec des données adaptées à chaque discipline. Les capteurs intégrés permettent de suivre la fréquence cardiaque, la saturation en oxygène du sang (SpO₂), le sommeil et différents indicateurs liés au bien-être. La montre propose également un suivi de la variabilité de la fréquence cardiaque et des outils d'analyse de l'entraînement pour mieux comprendre l'évolution de l'activité physique. Son système de mesure de la puissance en cyclisme peut fournir des données utiles aux utilisateurs pratiquant le vélo, notamment lorsqu'ils souhaitent analyser leurs performances. La Watch GT 6 Pro dispose d'une résistance à l'eau adaptée à la natation et bénéficie d'une étanchéité annoncée jusqu'à 50 mètres, avec une certification IP69 selon les conditions définies par le fabricant. La batterie offre une autonomie pouvant atteindre jusqu'à 21 jours en utilisation légère, tandis qu'une utilisation plus intensive réduit cette durée, notamment avec l'écran toujours allumé et le GPS. La montre permet de recevoir les notifications d'un smartphone compatible, de contrôler certaines fonctions du téléphone et de consulter les informations essentielles directement au poignet. Elle est compatible avec les smartphones Android et iOS via l'application Huawei Health, avec des fonctions qui peuvent varier selon le système utilisé. La Huawei Watch GT 6 Pro associe ainsi écran AMOLED, matériaux premium, GPS multi-systèmes, suivi sportif avancé et autonomie prolongée dans une montre destinée aussi bien aux activités quotidiennes qu'à l'entraînement.",
+    "price": 220.01,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/huawei-watch-gt-6-pro-montre-connectee-amoled-titane-gps-autonomie-jusqua-21-jours-3432324",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/P8D3d/3432324_1/re/1200x1200/qt/90/3432324_1.jpg",
+    "detected_at": "2026-10-14T11:33:10+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 220.01,
+        "observed_at": "2026-10-14T11:52:56.398481+00:00"
       }
     ]
   },
@@ -15080,72 +15208,6 @@
     "price_history": [
       {
         "price": 5.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "VTT Enduro Carbone Lapierre Spicy CF 8.9 29\" (FOX Factory Kashima 38 - Float X2, Transfer, Full XT 12s, DT Swiss EX 1700, M et L",
-    "description": "3 499€ - Statera Bikes voici le Spicy CF 8.9 en version full FOX Factory Kashima qui passe à 3 599,00 € au lieu de 7 999,00 € ! Une remise réelle de -55 % (-4 400 €) sur un montage \"Dream Bike\" de grand enduro/bikepark. Ici, aucun composant d'entrée de gamme à faire évoluer : tout le train roulant, la transmission et les suspensions sont directement au sommet de ce qui se fait sur le marché. ⚙️ Spécifications techniques haut de gamme : Cadre : Full Carbone HIGH, débattement 180 mm, géométrie engagée. Suspensions Full FOX Factory Kashima : Fourche FOX 38 Factory Float F-S, cartouche Grip X2 (180 mm) Amortisseur FOX Float X2 Factory Series (205x65 mm Trunnion) Tige de selle télescopique FOX Transfer Factory F-S (revêtement Kashima) Transmission : Full Shimano Deore XT 12s (pédalier XT FC-M8200, cassette XT CS-M8200 10-51t). Freinage : Disques hydrauliques Shimano Deore XT BR-M8220 4 pistons (203 mm av/ar). Roues : Paire de roues ultra-costaudes DT Swiss EX 1700 Spline 30 mm (la référence aluminium enduro). Pneus : Continental Kryptotal F & R (60-622 / 60-584). Pour le coup, c'est un sans-faute absolu sur l'équipement. Rien que l'ensemble suspensions FOX Factory + tige Kashima + roues DT EX 1700 + groupe XT 4 pistons coûte près de 3 200 € au détail. Vous avez le cadre carbone haut de gamme quasiment offert pour la différence. Les + : -4 400 € de remise réelle (-55 %) Trio FOX Factory Kashima complet (38, Float X2, Transfer) Roues DT Swiss EX 1700 solides et groupe complet Shimano XT",
-    "price": 3599.0,
-    "reference_price": 7999.0,
-    "discount_percent": 55.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vtt-enduro-carbone-lapierre-spicy-cf-89-29-fox-factory-kashima-38float-x2transfer-full-xt-12s-dt-swiss-ex-1700-m-et-l-3431912",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/i2BAa/3431912_1/re/1200x1200/qt/90/3431912_1.jpg",
-    "detected_at": "2026-10-13T18:39:58+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 3599.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo Lapierre Xelius DRS 10.0 Shimano Dura-Ace Di2",
-    "description": "4 999€ - Statera Bikes Caractéristiques techniques: Cadre Carbone UNI ( superieur par rapport au 9.0) Fourche rigide en carbone Lapierre Xelius DRS 10.0 Shimano Dura-Ace Di2 RD-R9250 12 vitesses Manivelle Dura-Ace FC-R9200-P avec capteur de puissance, HOLLOWTECH 2 52-36 dents Cassette Shimano Dura-Ace CS-R9200-12, MICRO SPLINE Levier de vitesse Manette de vitesses et de frein Shimano Dura-Ace ST-R9270-R, manette Di2 Dual Control 12 vitesses Roues de course DT Swiss ARC 1100 DICUT, 38 mm, 12x100 mm, CL Taille des roues 28 Zoll Pneus Continental AERO 111 TR 26-622 Freins Frein à disque hydraulique Shimano Dura-Ace BR-R9270, 2 pistons, plaquettes en résine, 160/140 mm Guidon Ensemble cockpit Lapierre Drop Bar Combo Carbon RB167 (cintre drop + potence) Tige de selle Lapierre Xelius DRS Aero Selle Prologo MTB Dimension R2 Nack",
-    "price": 4999.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lapierre-xelius-drs-100-haut-de-gamme-3431911",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vGq9A/3431911_1/re/1200x1200/qt/90/3431911_1.jpg",
-    "detected_at": "2026-10-13T18:37:40+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 4999.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vinyle Tryo - Mamagubida",
-    "description": "24€ - Amazon Mamagubida --Description du produit Liste des titres Disque : 1 1 L'hymne De Nos Campagnes 2 Pour Un Flirt Avec La Crise 3 C'est Du Roots 4 Salut O Disque : 2 1 La Revolution 2 Regardez-Les 3 La Misere D'en Face 4 Un Homme Qui Aime Les Femmes Disque : 3 1 La Main Verte 2 France Telecom 3 Yakamoneye 4 Les Soldats De Plomb Disque : 4 1 Suprematie 2 Babylone 3 J'ai Rien Prevu Pour Demain Informations sur le produit Label ‎Salut Ô Productions Distr Nombre de disques ‎2 ASIN ‎B0948LLKZR À propos de ce produit Mamagubida Commentaires client",
-    "price": 24.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vinyle-tryo-mamagubida-3431910",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pVydE/3431910_1/re/1200x1200/qt/90/3431910_1.jpg",
-    "detected_at": "2026-10-13T18:36:50+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.0,
         "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
