@@ -927,7 +927,7 @@ function renderOffers() {
 
     const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée"};
     const trustClass = trustInfo.score >= 75 ? "high" : trustInfo.score >= 42 ? "medium" : "low";
-    const sourceLabel = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\\./i.test(url) ? "Amazon" : rawSource);
+    const sourceLabel = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource);
     return '<article class="deal-card" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
       '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + escapeAttribute(title) + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
       '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + escapeHtml(category) + '</div><span class="deal-source-badge">' + escapeHtml(sourceLabel) + '</span></div>' +
