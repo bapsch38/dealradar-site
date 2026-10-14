@@ -87,7 +87,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .deal-body{padding:17px;display:flex;flex-direction:column;gap:10px;flex:1}
 .deal-category{font-size:11px;color:var(--green);font-weight:800;text-transform:uppercase;letter-spacing:.7px}
 .deal-title{font-size:16px;line-height:1.4;margin:0}
-.deal-prices{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
+.deal-prices{display:flex;align-items:flex-end;gap:12px;flex-wrap:wrap;padding:11px 12px;background:#0b1927;border:1px solid #31475d;border-radius:11px}.deal-current-wrap,.deal-old-wrap{display:inline-flex;flex-direction:column;align-items:flex-start;gap:3px}.deal-price-label{font-size:10px;line-height:1.2;color:#c0cddd;font-weight:800;letter-spacing:.25px}.deal-prices .deal-price{line-height:1.15}.deal-old-price{text-decoration:line-through!important;text-decoration-thickness:2px!important;color:#d3dce8!important;opacity:1!important}.deal-discount{font-size:13px;font-weight:900;color:#08131d;background:#ffd166;border:1px solid #ffe3a0;padding:7px 10px;border-radius:8px;white-space:nowrap}.deal-savings{font-size:11px;font-weight:800;color:#8df0b8;white-space:nowrap}
 .deal-price{font-size:24px;font-weight:850;color:var(--green)}
 .deal-old-price{font-size:13px;color:var(--muted);text-decoration:line-through}.deal-price-note{font-size:11px;color:var(--muted);font-style:italic}
 .deal-discount{font-size:12px;font-weight:800;color:#ffcf70;background:#49351a;padding:5px 8px;border-radius:7px}
@@ -845,12 +845,22 @@ function renderOffers() {
       : /code[s]? promo|cashback|cagnott|odr|offre de remboursement|remise supplémentaire|points doublés|sélection d['’]articles en promotion|réduction sur une sélection|remise sur une sélection|jusqu['’]?à\s*\d+\s*%|réduction de\s*\d+\s*%|remise de\s*\d+\s*%/.test(offerTextForPrice)
         ? "Offre sans prix unique"
         : "Prix non communiqué par la source";
+    const announcedDiscountValue = Number(offer.discount_percent);
+    const announcedDiscount = Number.isFinite(announcedDiscountValue) && announcedDiscountValue > 0 && announcedDiscountValue < 100
+      ? announcedDiscountValue : null;
+    const displayDiscount = discount !== null ? discount : announcedDiscount;
+    const savings = currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
+      ? referencePrice - currentPrice : null;
     const prices = '<div class="deal-prices">' +
-      (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span>') +
+      '<div class="deal-current-wrap"><span class="deal-price-label">' + (currentPrice !== null ? 'Prix promo' : 'Prix') + '</span>' +
+      (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span>') + '</div>' +
       (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice
-        ? '<span class="deal-old-price">' + oldPrice + '</span>'
+        ? '<div class="deal-old-wrap"><span class="deal-price-label">Au lieu de</span><span class="deal-old-price" aria-label="Ancien prix barré">' + oldPrice + '</span></div>'
         : '') +
-      (discount !== null && discount > 0 ? '<span class="deal-discount">-' + Math.round(discount) + ' %</span>' : '') + '</div>';
+      (displayDiscount !== null && displayDiscount > 0
+        ? '<span class="deal-discount" title="' + (discount !== null ? 'Calculée à partir du prix promo et du prix de référence' : 'Réduction annoncée par la source, non recalculable faute de prix de référence') + '">' +
+          '-' + Math.round(displayDiscount) + ' %' + (discount === null ? ' annoncé' : '') + '</span>' : '') +
+      (savings !== null ? '<span class="deal-savings">Économie ' + formatPrice(savings) + '</span>' : '') + '</div>';
     const title = String(offer.title || "Offre sans titre").replace(/[<>]/g,"");
     const category = inferCategory(offer).replace(/[<>]/g,"");
     const rawSource = String(offer.source || "Source non précisée");
