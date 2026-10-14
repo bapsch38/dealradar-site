@@ -10780,6 +10780,28 @@
     ]
   },
   {
+    "title": "Clavier filaire Royalaxe X68 – QWERTY US, 68 touches, aluminium, switchs magnétiques Outemu, noir/rose (via coupon)",
+    "description": "50,99€ - JoyBuy Le Royalaxe X68 noir/rose revient à 50,99 € TTC livré avec le bon Joybuy de 50 € dès 100 € sur la sélection éligible. Le clavier est affiché à 100,99 € avant ce bon : le prix a été obtenu avec une seule unité au panier. Pour obtenir le prix : 1. Se connecter à son compte Joybuy et récupérer le bon de 50 € proposé sur la fiche, si nécessaire. 2. Choisir la variante « BlackPink | Crystal Pêche Aimant pour Switch », référence marchande 100377547. 3. Ajouter un clavier puis vérifier la ligne « Bon de réduction : -50,00 € » et le total de 50,99 € TTC. Clavier compact de 68 touches, châssis en aluminium, switchs magnétiques Outemu Peach Crystal et connexion filaire. Attention à la disposition QWERTY américaine ANSI : touche Entrée horizontale, sans pavé numérique ni rangée F1-F12 dédiée. Cette offre concerne les switchs Outemu ; les variantes Gateron Magnetic Jade ont un tarif différent. Vendu et expédié par Joybuy. Livraison gratuite confirmée au panier pour le code postal 33670 ; disponibilité et livraison à recontrôler selon l’adresse. Aucun abonnement JoyPlus, utilisation de points ni assurance n’a été nécessaire pour obtenir 50,99 €. Le bon est annoncé valable jusqu’au 31 octobre 2026 à 23:59:59, heure de Paris. Le prix du clavier peut évoluer avant cette date. Vérifié le 14 octobre 2026 vers 15 h 31, Europe/Paris : ajout au panier réussi pour la variante indiquée, total TTC et frais de port contrôlés. La quantité réellement disponible n’est pas connue. Le détail des accessoires fournis n’est pas précisé sur la fiche consultée. Aucun record historique ni prix habituel indépendant n’est revendiqué.",
+    "price": 50.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/clavier-filaire-royalaxe-x68-qwerty-us-68-touches-aluminium-switchs-magnetiques-outemu-noirrose-via-coupon-3432424",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8V2tz/3432424_1/re/1200x1200/qt/90/3432424_1.jpg",
+    "detected_at": "2026-10-14T13:57:37+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 50.99,
+        "observed_at": "2026-10-14T14:01:19.582948+00:00"
+      }
+    ]
+  },
+  {
     "title": "Adaptateur sans fil Apple CarPlay & Android Auto - Plug & Play, Compatible iPhone et Android",
     "description": "19,49€ - AliExpress Bon prix si ça vous dit, 10€ de moins que sur Amazon ! :) Frais d'importation inclus : ► Caractéristiques & Description CONVERSION 2-EN-1 SANS FIL. Transformez facilement votre CarPlay filaire et Android Auto filaire en connexion sans fil. Une solution pratique pour profiter d’un habitacle plus ordonné et réduire l’utilisation quotidienne des câbles. INSTALLATION SIMPLE & RECONNEXION AUTOMATIQUE. Branchez l’adaptateur sur le port USB du véhicule, effectuez l’association initiale une seule fois, puis l’appareil se reconnecte automatiquement lors des utilisations suivantes pour une expérience plus pratique au quotidien. CONNEXION DOUBLE BANDE STABLE. La technologie Wi-Fi 2,4 GHz et 5 GHz contribue à maintenir une transmission rapide et régulière. La connexion optimisée offre une réponse fluide et une utilisation plus confortable de CarPlay sans fil et Android Auto sans fil. FORMAT COMPACT & INTÉGRATION SOIGNÉE. Grâce à son design compact, l’adaptateur prend peu de place autour du port USB et permet de conserver un intérieur propre et organisé. Son format réduit facilite son utilisation sans encombrer la console centrale. COMPATIBILITÉ ÉTENDUE USB-A & USB-C. Compatible avec de nombreux véhicules équipés d’origine de CarPlay filaire ou Android Auto filaire. Fonctionne avec iPhone sous iOS 10 ou version ultérieure et smartphones Android compatibles, avec connexions USB-A et USB-C. Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
     "price": 19.49,
@@ -14745,8 +14767,8 @@
     "title": "Processeur AMD Ryzen 7 7700",
     "description": "155,08€ - AliExpress Système de refroidissement Scénario d'utilisation Horloge de suralimentation maximale VERSION PCle Canaux mémoire pris en charge Type de mémoire pris en charge Modèles de chipset pris en charge TDP/TDP par défaut Nombre de fils Capacité du cache L3 no Jeux 5.3 PCle5.0 4 DDR5 AMD autres 65 16",
     "price": 155.08,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 184.08,
+    "discount_percent": 15.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/processeur-amd-ryzen-7-7700-pour-le-jeu-et-la-productivite-cpu-de-bureau-8-coeurs-12-threads-3432202",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/qvANO/3432202_1/re/1200x1200/qt/90/3432202_1.jpg",
@@ -14755,7 +14777,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://fr.aliexpress.com/item/1005012500873244.html",
     "price_history": [
       {
         "price": 155.08,
@@ -14777,7 +14799,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FSDCMP3L?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 19.99,
@@ -14789,8 +14811,8 @@
     "title": "Marchepied Hailo K15 - 2 marches, aluminium pliant antidérapant, hauteur 0,82",
     "description": "16,90€ - Leroy Merlin Marchepied HAILO K15 2 marches aluminium pliant antidérapant. Retrait gratuit en magasin Hauteur dépliée (en m) : 0.82 Nombre de marches : 2 Matière principale sur la masse totale du produit : Acier Pratique, léger et robuste, le marchepied HAILO K15 à 2 marches est idéal pour atteindre facilement les endroits en hauteur à la maison ou dans un atelier. Sa structure en aluminium assure une bonne maniabilité, tandis que ses marches antidérapantes offrent un appui sécurisé lors de son utilisation. Pliable, il se range facilement après usage et prend peu de place. Fonctionnel et polyvalent, il convient parfaitement aux petits travaux du quotidien, au rangement des placards ou à l'entretien de la maison. tapis antidérapant sur marches Marchepied acier noir mat 2 Marches avec tapis antidérapant Verrouillage automatique Garde-corps Embouts antidérapants bimatière",
     "price": 16.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 19.54,
+    "discount_percent": 13.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/marchepied-hailo-k15-2-marches-aluminium-pliant-antiderapant-3432201",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/C7sJP/3432201_1/re/1200x1200/qt/90/3432201_1.jpg",
@@ -14799,7 +14821,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.leroymerlin.fr/produits/marchepied-hailo-k15-2-marches-aluminium-pliant-antiderapant-97213307.html",
     "price_history": [
       {
         "price": 16.9,
@@ -14865,7 +14887,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.leroymerlin.fr/produits/compresseur-50l-2cv-10-bars-hc70-scheppach-72777171.html",
     "price_history": [
       {
         "price": 99.9,
@@ -14916,8 +14938,8 @@
     "title": "[Clients Box] Forfait mobile 60Go à 5,99 €/mois",
     "description": "5,99€ - RED by SFR Jusqu’au 09/11 inclus. Un peu moins bien que l'ancien offre à 4.99€/mois, mais toujours intéressante ! Notamment une bonne occasion pour les clients box de basculer sur Red et pour pouvoir profiter des ODR sur facture qui sont assez nombreuses. 60 Go d’internet Profitez de 60 Go en 4G, utilisables partout en France métropolitaine. Appels, SMS/MMS illimités Appelez et échangez sans limite vers tous les mobiles et fixes en France métropolitaine et dans les DOM. 23 Go en UE/DOM Voyagez sereinement : 23 Go inclus depuis l’Union Européenne et les DOM, avec appels, SMS et MMS illimités vers ces zones et la France. Sans engagement Comme pour votre offre box, vous êtes libre : aucun engagement, vous changez quand vous voulez.",
     "price": 5.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 9.0,
+    "discount_percent": 33.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/clients-box-forfait-60go-a-599-eurmois-3432191",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Uttcb/3432191_1/re/1200x1200/qt/90/3432191_1.jpg",
@@ -18746,8 +18768,8 @@
     "title": "Radiateur soufflant en céramique Amazon basics - avec thermostat réglable, 1800 W",
     "description": "20,89€ - Amazon Chauffe une pièce en quelques minutes, idéal pour les matins froids Fonctionne discrètement sans déranger, même en mode haute puissance Réglez le thermostat pour maintenir une température constante sans surveillance Résumé à partir des informations sur le produit Radiateur d’intérieur en céramique avec thermostat réglable offrant une chaleur confortable - idéal pour la maison ou le bureau 1800 watts, haute température, 3 réglages : faible, fort ou ventilateur seul. Un témoin d’alimentation indique que le radiateur est branché Utilisation sans danger : interrupteur d’arrêt automatique en cas de bascule et protection anti-surchauffe avec arrêt automatique ; certifié TUV Avec une poignée pour un transport facile ; ne convient pas pour une utilisation dans une salle de bain, une buanderie, ou autres pièces très humides Couleur noire ou argentée au choix Spécifications Marque: Amazon Basics Caractéristique spéciale: Fort Couleur: Argenté Facteur de forme: Piédestal Utilisation intérieure/extérieure: Intérieur Source d'alimentation: Câble électrique Méthode de chauffage: Convection Utilisations recommandées pour le produit: Maison Type de fixation: Montage sur table Type de pièce: bureau Caractéristiques spéciales: Fort Utilisation extérieure ou intérieure: Intérieur Source d’alimentation: Câble électrique Usages recommandés pour le produit: Maison Type de montage: Montage sur table Type de chambre: bureau Type d’élément chauffant: Rayonnant Production de chaleur: 1800 Watts Type d’alimentation: Électrique Nombre de vitesses: 3 Tension: 120 Volts Pays d’origine: Chine Numéro du modèle: DQ075SILVER - EU4 Nombre d’articles dans l'unité vendue au client: 1 Unité de comptage: 1.0 unité UPC: 192233026251 Fabricant: Amazon Référence de pièce: DQ075SILVER - EU4 Classement des meilleures ventes d'Amazon: 113 en Cuisine et Maison (Voir les 100 premiers en Cuisine et Maison) 3 en Radiateurs à soufflerie ASIN: B07D3FNGKJ Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (2 032) 4,4 sur 5 étoiles Poids de l'article: 1,5 Kilogrammes GTIN: 192233026251 Commentaires client",
     "price": 20.89,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 43.98,
+    "discount_percent": 52.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/radiateur-soufflant-en-ceramique-amazon-basics-avec-thermostat-reglable-1800-w-3431976",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/EknDc/3431976_1/re/1200x1200/qt/90/3431976_1.jpg",
@@ -18812,8 +18834,8 @@
     "title": "Souris Sans Fil HP 200 Rouge (2HU82AAABB) - 2,4 GHz, 1000 DPI, Optique, Ambidextre",
     "description": "12€ - Amazon Description : La souris HP 200 se connecte sans fil en 2,4 GHz grâce à un récepteur USB (portée d'environ 10 m). Sa forme galbée est conçue pour être confortable toute la journée, que l'on soit droitier ou gaucher. Le capteur optique à LED rouge de 1 000 DPI assure une bonne précision sur de nombreuses surfaces. Elle se branche et fonctionne tout de suite, sur Windows, Mac et Chromebook. Caractéristiques : Marque : HP Série : 200 Référence : 2HU82AA#ABB EAN : 0191628416394 Couleur : Rouge Connexion : Sans fil 2,4 GHz, récepteur USB Portée : Jusqu'à 10 m Capteur : Optique, LED rouge Résolution : 1 000 DPI Prise en main : Ambidextre (droitier et gaucher) Nombre de boutons : 3 Alimentation : 2 piles AAA Compatibilité : Windows 7 et supérieur, macOS 10.x et supérieur, Chrome OS À propos de ce produit Avec la souris rose impératrice HP 200 oubliez les fils avec la connexion sans fil fiable de 2,4 GHz (connectivité sans fil jusqu’à 10 m). Une forme galbée conçue pour être confortable toute la journée que vous soyez droitier ou gaucher. Avec les 2 piles AAA incluses et sans aucun logiciel à installer, vous êtes prêt à démarrer. La technologie LED rouge et le capteur optique de 1 000 DPI vous offrent une précision et une vitesse exceptionnelles sur un large éventail de surfaces. Les directives et les normes strictes de HP garantissent une qualité durable. Prend en charge Windows 7 et les versions supérieures, ainsi que Mac OS X 10.x et les versions supérieures. Commentaires client",
     "price": 12.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 17.38,
+    "discount_percent": 31.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-hp-200-rouge-2hu82aaabb-24-ghz-1000-dpi-optique-ambidextre-3431973",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Wq7at/3431973_1/re/1200x1200/qt/90/3431973_1.jpg",
@@ -18900,8 +18922,8 @@
     "title": "T-shirt technique pour homme - Manches courtes, tailles S ou M",
     "description": "3,76€ - Amazon Historique des prix : T-Shirt Technique pour Homme, Sport, Manches Courtes, Mesh | Vêtements de Sport d'été Respirants à séchage Rapide | Idéal pour la Salle de Sport, l'entraînement, Les Loisirs et Le Fitness À propos de ce produit Tissu mesh 100 % polyester. Col arrondi. Compatible :Tennis, fitness, running, cyclotourisme, football ou basket. Matériau léger, doux pour la peau et respirant. Produit officiel Asioka. Commentaires client",
     "price": 3.76,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 5.5,
+    "discount_percent": 31.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/t-shirt-technique-pour-homme-manches-courtes-tailles-s-ou-m-3431969",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/6Y1BJ/3431969_1/re/1200x1200/qt/90/3431969_1.jpg",
