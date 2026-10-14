@@ -1,5 +1,47 @@
 [
   {
+    "title": "Bosch Pistolet à peinture sans...l ; syst. 18V ; sans batterie)",
+    "price": 114.73,
+    "reference_price": 121.38,
+    "discount_percent": 5.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CX9GRC45",
+    "image_url": "https://m.media-amazon.com/images/P/B0CX9GRC45.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 20:18:21",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 114.73,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nivea Shampoing sec Fresh & So...our une fraîcheur longue durée",
+    "price": 6.1,
+    "reference_price": 7.68,
+    "discount_percent": 20.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B086NBZJ4R",
+    "image_url": "https://m.media-amazon.com/images/P/B086NBZJ4R.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 20:18:06",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.1,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
     "title": "Madison Park Essentials Parure...ns, Polyester, Bleu, Grand lit",
     "price": 104.74,
     "reference_price": 200.79,
@@ -6968,6 +7010,10 @@
       {
         "price": 29.02,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 29.02,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -6989,6 +7035,10 @@
       {
         "price": 40.88,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 40.88,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -7010,6 +7060,10 @@
       {
         "price": 54.58,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 54.58,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -7031,6 +7085,10 @@
       {
         "price": 41.83,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 41.83,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -7052,6 +7110,10 @@
       {
         "price": 71.36,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 71.36,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -11106,14 +11168,15 @@
     ]
   },
   {
-    "title": "ASUS Prime H610M-A WiFi LGA1700 microATX",
-    "price": 97.72,
-    "reference_price": 109.99,
-    "discount_percent": 11.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07M6J1H17",
-    "image_url": "https://m.media-amazon.com/images/P/B07M6J1H17.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 08:30:02",
+    "title": "Expresso Broyeur Delonghi Primadonna Soul ECAM 610.55.SB",
+    "description": "891,65€ - MaxiCoffee Les points clefs Cette machine à café grain Delonghi ECAM 610.55.SB dispose de la dernière technologie Bean Adapt. Connectée en Wifi elle se jumèle à votre smartphone ou tablette. Depuis l'application, vous pouvez enregistrer les spécificités du café utilisé, la machine vous proposera automatiquement les réglages optimals (finesse mouture, intensité, température de l'eau) pour extraire chaque arômes. Elle dispose d'une jolie finition silver black, vous trouverez également 3 profils d'utilisateurs et 18 boissons en accès direct. Son large écran TFT tactile offre un vrai confort d'utilisation.",
+    "price": 891.65,
+    "reference_price": 960.0,
+    "discount_percent": 7.1,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/delonghi-prima-donna-3432663",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LZCTH/3432663_1/re/1200x1200/qt/90/3432663_1.jpg",
+    "detected_at": "2026-10-14T20:13:46+00:00",
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
@@ -11121,37 +11184,184 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 97.72,
-        "observed_at": "2026-10-13T08:30:12.921267+00:00"
-      },
-      {
-        "price": 97.72,
-        "observed_at": "2026-10-14T08:48:30.564398+00:00"
+        "price": 891.65,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
   {
-    "title": "Philips Hue Bande LED OmniGlow...ication et par commande vocale",
-    "price": 239.0,
-    "reference_price": 349.99,
-    "discount_percent": 31.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FW4FDVLK",
-    "image_url": "https://m.media-amazon.com/images/P/B0FW4FDVLK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 07:55:13",
-    "category": "Maison",
+    "title": "Buffet Vincente - L.160 cm, imitation chêne et noir",
+    "description": "109,99€ - BUT Commandable uniquement sur internet - non disponible en magasin et livraison à domicile pour 39€ et retrait gratuit en magasin ! Descriptif produit Le buffet L.160 cm VINCENTE imitation chêne et noir allie élégance et fonctionnalité avec son design moderne et épuré. Sa structure en panneaux de particules est rehaussée par des pieds en métal noir mat, offrant une robustesse remarquable. Avec ses dimensions généreuses de longueur de 160 cm , largeur de 40 cm et hauteur de 80 cm, il s'intègre parfaitement dans un salon ou une salle à manger. Les deux portes coulissantes, l'une imitation chêne et l'autre noire, dissimulent trois étagères pratiques pour un rangement optimal. Le plateau imitation chêne supporte jusqu'à 50 kg, idéal pour exposer vos objets décoratifs préférés. Facile à monter soi-même, ce buffet est une solution esthétique et pratique pour organiser votre espace de vie. Ce produit bénéficie de la garantie légale minimale de deux ans",
+    "price": 109.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/buffet-l160-cm-vincente-imitation-chene-et-noir-3432662",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gFWt2/3432662_1/re/1200x1200/qt/90/3432662_1.jpg",
+    "detected_at": "2026-10-14T20:12:40+00:00",
+    "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 239.0,
-        "observed_at": "2026-10-13T07:55:18.426884+00:00"
-      },
+        "price": 109.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jouet Lego Technic 42217 Chevrolet Corvette Stingray Bleue - 732 pièces (Sélection de villes)",
+    "description": "49,99€ - Smyths Toys Set retiré en décembre à 59.99 € chez LEGO à 72,9 sur amazon par exemple ! Fin de stock chez smyths et seul revendeur pour ce set outre que LEGO Description : Offrez aux enfants dès 9 ans un projet passionnant et invitez-les à recréer les détails de cette réplique. Les garçons, les filles et les fans de voitures vont adorer construire les fonctions de la Chevrolet Corvette Stingray bleue LEGO® Technic (42217) puis explorer ses détails authentiques. Admirez son incroyable livrée mais aussi le moteur 8 cylindres mobile et le différentiel. Utilisez le bouton pour diriger la voiture, puis ouvrez les portières et le capot pour voir son intérieur. Les voitures LEGO Technic présentent des mouvements réalistes pour initier les jeunes constructeurs LEGO au monde de l’ingénierie. Ce set constitue un excellent cadeau pour les enfants qui aiment les véhicules LEGO. L’application LEGO Builder propose une aventure de construction intuitive : les enfants peuvent zoomer, faire pivoter les modèles en 3D, sauvegarder leurs sets et suivre leur progression. Le set contient 732 pièces. Modèle de voiture pour les enfants de 9 ans et plus – Offrez aux filles et aux garçons un projet de construction passionnant avec cette réplique LEGO® Technic de la Chevrolet Corvette Stingray bleue. Fonctions réalistes – Ce modèle de Corvette inclut des fonctions réalistes telles qu’un moteur 8 cylindres mobile, un différentiel, ainsi que des portières et un capot qui s’ouvrent. Manœuvrer la voiture – Utilisez le bouton au-dessus du véhicule pour le diriger, puis ouvrez les portières et le capot pour admirer l’intérieur. Une voiture pour les enfants fans de véhicules LEGO® – Avec ce set, les jeunes constructeurs créent leur propre Corvette, puis s’amusent avec le véhicule et explorent ses fonctions. Un beau cadeau pour les garçons, les filles et les amateurs de modèles de voitures – Ce set est une belle idée de cadeau pour les enfants qui aiment les petites voitures et qui rêvent de construire leur propre Corvette Stingray LEGO®. Une Corvette à exposer – Présentée avec une livrée de couleur vive, ce véhicule ravira les passionnés de voitures et constituera une décoration spectaculaire dans la chambre d’un enfant. Introduction à l’ingénierie – Les modèles à construire LEGO® Technic (vendus séparément) incluent des mouvements et des mécanismes réalistes qui initient les jeunes constructeurs LEGO à l’univers de l’ingénierie. Dimensions – Le véhicule de ce set, composé de 732 pièces, mesure plus de 8 cm de haut, 27 cm de long et 14 cm de large.",
+    "price": 49.99,
+    "reference_price": 59.99,
+    "discount_percent": 16.7,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-technic-42217-chevrolet-corvette-stingray-bleue-732-pieces-3432661",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/OMwV0/3432661_1/re/1200x1200/qt/90/3432661_1.jpg",
+    "detected_at": "2026-10-14T20:10:46+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
-        "price": 239.0,
-        "observed_at": "2026-10-14T08:16:12.175447+00:00"
+        "price": 49.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Minishoot' Adventures sur Nintendo Switch 2 Edition (Dématérialisé)",
+    "description": "10,49€ - Nintendo De retour à 30%, ce jeu sera parfait pour combler l'attente d'OOT ? Bon jeu. Combattez à travers le monde de la surface et celui des profondeurs, améliorez votre vaisseau pour venir à bout des boss de donjon et secourir vos amis ! LE DÉSÉLU EST DE RETOUR... Ses sbires ont émergé du monde souterrain, votre village a été détruit et vos semblables sont désormais prisonniers du cristal corrompu... Embarquez dans une épopée pour sauver le monde dans cette aventure colorée qui mélange le plaisir de l'exploration libre et l'excitation du jeu de tir. MAÎTRISEZ VOS COMBATS Démontrez votre adresse aux commandes d'un vaisseau ultra maniable dans des affrontements soigneusement conçus pour être lisibles et variés. Venez à bout de combats de boss intenses, type Bullet Hell, avec des options de difficulté adaptées à tous les publics. PARTEZ À L'AVENTURE Plongez dans un monde interconnecté façonné à la main et explorez par vous-même ses cavernes luxuriantes, ses temples abandonnés et autres cités englouties. RETROUVEZ LES POUVOIRS PRIMORDIAUX Récupérez des capacités uniques à utiliser au combat tout comme en exploration, afin de débloquer de nouveaux passages et raccourcis et de vous approprier la carte du monde. AMÉLIOREZ VOTRE VAISSEAU Gagnez en puissance en montant de niveau, en trouvant toutes sortes d'objets ou en achetant de l'équipement. Par ailleurs, chaque ami·e que vous libérez vous aidera à sa façon ! UN JEU FAIT POUR VOUS Avec ses trois modes de difficulté allant de l'exploration tranquille au Bullet Hell exigeant, ses options de contrôle avec assistance de visée et autres options d'accessibilité, Minishoot' a été pensé pour être apprécié par toutes et tous ! Console : Nintendo Switch 2 Date de publication : 03/03/2026 Classe d'âge : PEGI 7 Langues : Japonais, Anglais, Espagnol, Français, Allemand, Italien, Portugais, Russe, Coréen, Chinois, Polonais Taille : 447.0 MB",
+    "price": 10.49,
+    "reference_price": 14.99,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/minishoot-adventures-nintendo-switch-2-edition-3432660",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/8ahON/3432660_1/re/1200x1200/qt/90/3432660_1.jpg",
+    "detected_at": "2026-10-14T20:08:36+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.nintendo.com/fr-fr/Jeux/Nintendo-Switch-2-Edition/Minishoot-Adventures-Nintendo-Switch-2-Edition-3037912.html?nsuid=70010000115825",
+    "price_history": [
+      {
+        "price": 10.49,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lego Speed Champions La Ford Mustang Hoonicorn V1 de 1965 de Ken Block 77262",
+    "description": "18,16€ - Amazon Le set LEGO Speed Champions 77262 La Ford Mustang Hoonicorn V1 de 1965 de Ken Block est un jouet de construction qui reproduit en briques la Ford Mustang Hoonicorn V1 de 1965 préparée par Ken Block et le team HOONIGAN pour le film Gymkhana SEVEN tourné en 2014. Le kit contient 345 pièces et permet d'assembler une réplique du bolide avec des détails inspirés du véhicule original, notamment les cornets d'admission disposés sur le capot et les roues personnalisées. Le set inclut une minifigurine de Ken Block, fournie avec un chapeau, une veste Hoonicorn et un casque, qui peut être installée au volant du modèle. Le modèle s'adresse aux enfants à partir de 9 ans ainsi qu'aux collectionneurs et passionnés de voitures de course. Une fois monté, il peut servir au jeu puis être exposé sur une étagère, un bureau ou une table de chevet. Ce set appartient à la gamme LEGO Speed Champions, consacrée aux répliques de voitures de course, de supercars et de véhicules issus de films, de séries télévisées ou de jeux vidéo. Les autres modèles de la collection sont vendus séparément. Le montage fournit une activité manuelle et technique autour de la construction brique à brique et de l'assemblage d'une maquette de voiture de course. Le produit est référencé sous le numéro 77262 par le fabricant LEGO et relève de la catégorie des jouets de construction.",
+    "price": 18.16,
+    "reference_price": 23.0,
+    "discount_percent": 21.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77262-la-ford-mustang-hoonicorn-v1-de-1965-de-ken-block-lego-345-pieces-3432659",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/t7IRP/3432659_1/re/1200x1200/qt/90/3432659_1.jpg",
+    "detected_at": "2026-10-14T20:07:43+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.16,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sweat à capuche Jack & Jones homme Brandy, noir, du M au XL",
+    "description": "13,99€ - Private Sport Shop Bon plan Jack & Jones sur Private Sport Shop ! Profitez d'une offre intéressante sur un article de la marque Jack & Jones, connue pour ses vêtements tendance et décontractés. Une bonne occasion de renouveler sa garde-robe à prix réduit ! ⚠️ Pensez à vérifier les tailles disponibles et les frais de livraison avant de commander. Offre disponible sur Private Sport Shop, dans la limite des stocks. Description SPÉCIFICITÉS : Sweat-shirt Jack et Jones Matière douce et chaude Coupe classique Style décontracté et confortable COMPOSITION : 60 % coton 40 % polyester MAGASIN DE SPORT PRIVÉ SAS 460, avenue des Bigos 34740 VENDARGUES FRANCE",
+    "price": 13.99,
+    "reference_price": 39.99,
+    "discount_percent": 65.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sweat-a-capuche-jack-jones-homme-brandy-noir-du-m-au-xl-3432658",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vtQnw/3432658_1/re/1200x1200/qt/90/3432658_1.jpg",
+    "detected_at": "2026-10-14T20:06:47+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection de Lego en promotion - Ex : LEGO Star Wars 75442 - Le chasseur N-1 du Mandalorien UCS (frontaliers Belgique)",
+    "description": "199,99€ - Dreamland.be A 249.99 € chez LEGO Une première remise sur ce set qui n'est pas disponible partout pour les frontaliers Belgique tous les sets ici https://www.dreamland.be/fr/m/lego/prix-avantageux?sort=price-desc Action valable du 12/10/2026 au 25/10/2026 . inclus Avec quelques sets intéressants Notamment : 77984 LEGO Jurassic Park Jeep® Wrangler à € 169,99 LEGO 77984 Jurassic World Mai 2026 18+ 1924 pièces 199.99 € chez LEGO 75455 LEGO Star Wars Boba Fett à € 119,99 LEGO 75455 Star Wars Août 2026 18+ 1544 pièces 1 minifigurine 169.99 € chez LEGO 10345 LEGO Botanicals La composition florale à € 89,99 LEGO 10345 Icons Février 2025 18+ 1161 pièces 109.99 € chez LEGO 11513 LEGO Botanicals La composition florale sombre à € 49,99 LEGO 11513 Botanicals Août 2026 18+ 562 pièces 59.99 € chez LEGO 75429 LEGO Star Wars Le casque du pilote de AT-AT à € 59,99 LEGO 75429 Star Wars Mars 2025 18+ 730 pièces 79.99 € chez LEGO 10340 LEGO Botanicals La couronne à € 79,99 LEGO 10340 Icons Octobre 2024 18+ 1194 pièces 99.99 € chez LEGO Attention si vous pouvez vous faire livrer en belgique Le faucon est moins cher chez BOL (à 650 actuellement) est ce n'est pas son meilleur prix loin de là ....",
+    "price": 199.99,
+    "reference_price": 249.99,
+    "discount_percent": 20.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/selection-de-lego-en-promotion-ex-lego-star-wars-75442-le-chasseur-n-1-du-mandalorien-ucs-frontaliers-belgique-3432657",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/axy0Q/3432657_1/re/1200x1200/qt/90/3432657_1.jpg",
+    "detected_at": "2026-10-14T19:58:25+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 199.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini PC Intel I3-6100 - 16 Go DDR4, 256 Go SSD, Windows 11",
+    "description": "155,39€ - AliExpress Envie d'un mini PC compact et capable pour vos usages courants ? Ce mini PC, animé par un processeur Intel I3-6100 , offre une solution discrète et polyvalente pour équiper votre bureau ou votre salon. Il intègre Windows 11 et une configuration équilibrée pour la bureautique, la navigation web et le divertissement léger. Processeur : Intel I3-6100 Mémoire Vive : 16 Go DDR4 SODIMM Stockage : SSD 256 Go (autres capacités comme 512 Go, 1 To et 2 To disponibles) Système d'exploitation : Windows 11 préinstallé Format : Mini PC compact C'est un appareil intéressant pour qui recherche une machine peu encombrante et déjà configurée, idéal pour un usage domestique ou professionnel léger.",
+    "price": 155.39,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mini-pc-intel-n150-16-go-ddr4-512-go-ssd-windows-11-3432656",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4NGhh/3432656_1/re/1200x1200/qt/90/3432656_1.jpg",
+    "detected_at": "2026-10-14T19:58:01+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 155.39,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra sport Gopro Hero Lit",
+    "description": "119,99€ - Boulanger Chez boulanger, fnac, darty il est en ce moment a 139.99 qui est un bon prix déja, mais avec le code promo HERO20 ca enleve 20 euro qui ramene le prix a 119.99 frais de port offert a domicile ou en magasin",
+    "price": 119.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/camera-sport-gopro-hero-lit-3432654",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wy3nY/3432654_1/re/1200x1200/qt/90/3432654_1.jpg",
+    "detected_at": "2026-10-14T19:55:49+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 119.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -11179,7 +11389,7 @@
   },
   {
     "title": "Jouet Piratix King Turtle - Articulée, avec Coffre à Trésors",
-    "description": "19€ - Amazon Le Piratix King Turtle est une tortue articulée conçue pour des aventures de capture de Piratix et le rangement de précieux trésors. Ce géant des mers, avec son goût prononcé pour l'aventure et les trésors, promet de longues heures de jeu pour les jeunes corsaires. Proposé par Amazon, ce playset permet aux jeunes aventuriers de plonger dans l'univers des Piratix, où chaque découverte est une nouvelle étape vers la fortune. Type : Tortue articulée avec fonctions de jeu. Mécanique : Bouche ouvrable pour capturer les ennemis, compartiment secret pour les trésors. Fonctionnalité : Mécanisme de puzzle avec pièce exclusive pour l'ouverture du coffre. Contenu : 1 figurine Piratix exclusive, 1 figurine crocodile, 1 trésor exclusif, 2 trésors dorés supplémentaires. Bon à savoir : Mécanique supplémentaire : Capacité à tirer un projectile. Jouabilité : Permet de construire une équipe avec d'autres Piratix (vendus séparément), incluant la figurine exclusive qui peut la chevaucher. Avec ses multiples secrets et interactions, la King Turtle offre une expérience de jeu riche pour les jeunes flibustiers.",
+    "description": "19€ - Amazon Le Piratix King Turtle est une tortue articulée conçue pour des aventures de capture de Piratix et le rangement de précieux trésors. Ce géant des mers, avec son goût prononcé pour l'aventure et les trésors, promet de longues heures de jeu pour les jeunes corsaires. Proposé par Amazon, ce playset permet aux jeunes aventuriers de plonger dans l'univers des Piratix, où chaque découverte est une nouvelle étape vers la fortune. Type : Tortue articulée avec fonctions de jeu. Mécanique : Bouche ouvrable pour capturer les ennemis, compartiment secret pour les trésors. Fonctionnalité : Mécanisme de puzzle avec pièce exclusive pour l'ouverture du coffre. Contenu : 1 figurine Piratix exclusive, 1 figurine crocodile, 1 trésor exclusif, 2 trésors dorés supplémentaires. Bon à savoir : Mécanique supplémentaire : Capacité à tirer un projectile. Jouabilité : Permet de construire une équipe avec d'autres Piratix (vendus séparément), incluant la figurine exclusive qui peut la chevaucher. Avec ses multiples secrets et interactions, la King Turtle offre une expérience de jeu riche pour les jeunes flibustiers. À propos de ce produit Le Roi Tortue cache des secrets ! Un nouveau roi se dispute la couronne dans la jungle… C'est King Turtle ! Le Roi Tortue cache des secrets… et rien ne l’arrête ! Tirez le projectile pour abattre les obstacles les plus difficiles… Appuyez sur la gâchette pour ouvrir la bouche et dévorer vos ennemis. Ouvrez ses fenêtres secrètes et découvrez ce qu'elle cache à l'intérieur RÉSOLEZ LA COMBINAISON SECRETE - Utilisez le trésor exclusif pour ouvrir la coque et découvrir le compartiment secret à l'intérieur. Rangez vos Piratix et même les pièces de vos bottes FIGURINES ET ACCESSOIRES EXCLUSIFS – Ce King Turtle comprend 1 Piratix exclusif, le Capitaine Bunny Boom, ainsi que son trésor exclusif JOUEZ ET DÉCOUVREZ – Tortue à grande valeur ludique avec plusieurs actions pour développer l'imagination et la résolution de problèmes de chaque garçon ou fille. Étendez l'aventure Piratix avec le nouveau King Turtle VIVEZ DE NOUVELLES AVENTURES AVEC PIRATIX - La légende raconte que le cuirassé King Turtle erre dans les forêts de Jungle Island avec son capitaine Bunny Boom. Ils racontent que la seule façon d'y faire face est de le désarmer d'abord et de découvrir les secrets qu'il contient à l'intérieur. Il y a quelque chose qui est sûr, c'est que King Turtle est la monture de combat la plus impénétrable et la plus puissante jamais connue. Rien ne peut l'arrêter ou résister à son attaque, vous feriez mieux de ne pas vous gêner ! Commentaires client",
     "price": 19.0,
     "reference_price": 30.3,
     "discount_percent": 37.3,
@@ -11201,7 +11411,7 @@
   },
   {
     "title": "Poêle Inox Tefal Duetto On - 24 cm, compatible induction, Non revêtu",
-    "description": "24,99€ - Amazon La poêle Tefal Duetto On de 24 cm est un ustensile en acier inoxydable conçu pour saisir, dorer et faire revenir les aliments sur différents types de plaques, dont l’induction. Son format convient à la préparation de portions individuelles ou de petits repas. La base est pensée pour répartir la chaleur sur le fond et la poignée permet de manipuler la poêle pendant la cuisson ; utilisez un gant si elle a chauffé longtemps ou si elle passe au four, après vérification des limites indiquées par Tefal. L’inox se nettoie après refroidissement et peut être entretenu avec des produits adaptés aux surfaces métalliques. Cette référence n’est pas présentée comme antiadhésive : adaptez la température et la matière grasse à la recette.",
+    "description": "24,99€ - Amazon La poêle Tefal Duetto On de 24 cm est un ustensile en acier inoxydable conçu pour saisir, dorer et faire revenir les aliments sur différents types de plaques, dont l’induction. Son format convient à la préparation de portions individuelles ou de petits repas. La base est pensée pour répartir la chaleur sur le fond et la poignée permet de manipuler la poêle pendant la cuisson ; utilisez un gant si elle a chauffé longtemps ou si elle passe au four, après vérification des limites indiquées par Tefal. L’inox se nettoie après refroidissement et peut être entretenu avec des produits adaptés aux surfaces métalliques. Cette référence n’est pas présentée comme antiadhésive : adaptez la température et la matière grasse à la recette. À propos de ce produit RÉSULTATS CROUSTILLANTS: Découvrez une autre expérience de la cuisine grâce à une surface intérieure texturée sans revêtement idéale pour de la viande et des légumes croustillants et dorés CUISSON RAPIDE ET HOMOGÈNE: Une base épaisse qui diffuse la chaleur pour une cuisson rapide et des plats savoureux, vous permettant de passer moins de temps en cuisine et plus de temps à profiter ACIER INOXYDABLE GARANTI 10ANS: Assure des performances et une fiabilité longue durée pour un produit au design robuste, conçu pour résister au fil des années POIGNÉE ERGONOMIQUE: un design ergonomique pour plus de confort et de sécurité FORMAT IDÉAL: pour réaliser des recettes simplissimes qui plairont à coup sûr, telles que des omelettes, des steaks hachés et du poulet grillé Commentaires client",
     "price": 24.99,
     "reference_price": 34.95,
     "discount_percent": 28.5,
@@ -11223,7 +11433,7 @@
   },
   {
     "title": "Fauteuil Vintage Mi-Siècle Malol - Fauteuil à Oreilles Rembourré avec Capitonnage Boutonné",
-    "description": "99,99€ - Amazon FAUTEUIL À OREILLES STYLE MID-CENTURY MODERN】 Le dossier capitonné avec boutonnage et les accoudoirs galbés mettent en valeur son style intemporel et élégant. Son dossier moelleux, confectionné à la main avec des coutures décoratives et des détails boutonnés, en fait un meuble unique qui se distingue nettement des productions de série. 【DOSSIER HAUT AVEC CAPITONNAGE BOUTONNÉ ET REMBOURRAGE GÉNÉREUX】 Ce fauteuil dispose d'un dossier haut intégrant un support lombaire, offrant une position assise ergonomique et confortable pour le dos. L'assise est garnie d'une épaisse mousse à haute densité, élastique et résistante, vous garantissant un confort maximal que ce soit pour lire, regarder la télévision ou recevoir des invités. 【HABILLAGE TEXTILE DOUX ET DURABLE D'ASPECT LIN POUR FAUTEUIL D'ACCENT】 Ce fauteuil est entièrement recouvert d'un habillage textile haut de gamme d'aspect lin - extrêmement résistant à l'usure et d'une élégance raffinée. La matière spécialement conçue est particulièrement anti-abrasion, prolongeant ainsi la durée de vie du fauteuil. Son apparence chic d'aspect lin confère en outre une texture agréable au toucher. 【CADRE SOLIDE ET ROBUSTE EN BOIS MASSIF (BOIS D'HÉVÉA)】 Pour une stabilité maximale, ce fauteuil est construit avec un cadre en bois d'hévéa massif, garantissant une résistance extrême même lors d'une utilisation intensive. Sa capacité de charge est de 136 kg (300 lbs). Les pieds avant ronds en forme de citrouille et les pieds arrière galbés sont également réalisés en bois d'hévéa massif. La finition de la teinte met parfaitement en valeur le design élégant du fauteuil.",
+    "description": "99,99€ - Amazon FAUTEUIL À OREILLES STYLE MID-CENTURY MODERN】 Le dossier capitonné avec boutonnage et les accoudoirs galbés mettent en valeur son style intemporel et élégant. Son dossier moelleux, confectionné à la main avec des coutures décoratives et des détails boutonnés, en fait un meuble unique qui se distingue nettement des productions de série. 【DOSSIER HAUT AVEC CAPITONNAGE BOUTONNÉ ET REMBOURRAGE GÉNÉREUX】 Ce fauteuil dispose d'un dossier haut intégrant un support lombaire, offrant une position assise ergonomique et confortable pour le dos. L'assise est garnie d'une épaisse mousse à haute densité, élastique et résistante, vous garantissant un confort maximal que ce soit pour lire, regarder la télévision ou recevoir des invités. 【HABILLAGE TEXTILE DOUX ET DURABLE D'ASPECT LIN POUR FAUTEUIL D'ACCENT】 Ce fauteuil est entièrement recouvert d'un habillage textile haut de gamme d'aspect lin - extrêmement résistant à l'usure et d'une élégance raffinée. La matière spécialement conçue est particulièrement anti-abrasion, prolongeant ainsi la durée de vie du fauteuil. Son apparence chic d'aspect lin confère en outre une texture agréable au toucher. 【CADRE SOLIDE ET ROBUSTE EN BOIS MASSIF (BOIS D'HÉVÉA)】 Pour une stabilité maximale, ce fauteuil est construit avec un cadre en bois d'hévéa massif, garantissant une résistance extrême même lors d'une utilisation intensive. Sa capacité de charge est de 136 kg (300 lbs). Les pieds avant ronds en forme de citrouille et les pieds arrière galbés sont également réalisés en bois d'hévéa massif. La finition de la teinte met parfaitement en valeur le design élégant du fauteuil. Spécifications Marque: MALOL Couleur: Bleu Matériau: Bois, chenille Dimensions du produit: 78,2P x 75l x 95H centimètres Taille: Lot de 1 Poids de l'article: 17,3 Kilogrammes Style arrière: Dos tufté Matériau du cadre: Bois d'hévéa Caractéristique spéciale: Dossier orné de boutons, Rembourré, arrière latéral, jambes en bois, milieu du siècle Instructions d'entretien: Lavable, Nettoyage de tache Caractéristiques spéciales: Dossier orné de boutons, Rembourré, arrière latéral, jambes en bois, milieu du siècle Unité de comptage: 1.0 unité Pays d'origine: Chine Composants inclus: Une chaise d'accent, manuel d'utilisation, outils de montage Utilisation extérieure ou intérieure: Intérieur Numéro de modèle: W290 UPC: 607606432596 Fabricant: MALOL Nom du type d'article: Fauteuil Salon Numéro de pièce: W290 Nombre d' articles: 1 Classement des meilleures ventes d'Amazon: 3764 en Cuisine et Maison (Voir les 100 premiers en Cuisine et Maison) 1 en Fauteuils de salon ASIN: B0GG9ZBLD3 Moyenne des commentaires client: 4,8 4,8 sur 5 étoiles (60) 4,8 sur 5 étoiles Charge maximale recommandée: 300 Livres À assembler: Oui Style de dos: Dos tufté Style: Moderne du milieu du siècle Motif: Uni Thème: salon Forme de l’article: Rectangulaire Style du bras: Galbé Facteur de forme: Fauteuil Dimensions de l'article P x L x H: 78,2P x 75l x 95H centimètres Hauteur du bras: 58,5 Centimètres Dimensions de l’article: 78,2 x 75 x 95 centimètres Type de matériau: Bois, chenille Conseils d'entretien: Lavable, Nettoyage de tache Matériau du siège: Mousse Matériau de remplissage: Mousse Type de tissu d'ameublement: Tissu GTIN: 607606432596 Commentaires client",
     "price": 99.99,
     "reference_price": 129.0,
     "discount_percent": 22.5,
@@ -12181,7 +12391,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.veepee.fr/gr/product/912836/102408038",
     "price_history": [
       {
         "price": 47.99,
@@ -12203,7 +12413,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.de/dp/B0FJY32XF6?smid=A3JWKAKR8XB7XF",
     "price_history": [
       {
         "price": 21.46,
@@ -12225,7 +12435,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://fr.aliexpress.com/item/1005009522367246.html",
     "price_history": [
       {
         "price": 53.69,
@@ -12247,7 +12457,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0HJJR37Z5?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 25.02,
@@ -12313,7 +12523,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0GJD7VMPX",
     "price_history": [
       {
         "price": 799.0,
@@ -12335,7 +12545,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://fr.aliexpress.com/item/1005012478122536.html",
     "price_history": [
       {
         "price": 116.0,
@@ -12357,7 +12567,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0GGSM14GC?psc=1",
     "price_history": [
       {
         "price": 24.99,
@@ -12379,7 +12589,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B06Y62BYB1",
     "price_history": [
       {
         "price": 9.08,
@@ -12401,7 +12611,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FCXX9GMK",
     "price_history": [
       {
         "price": 21.99,
@@ -12423,7 +12633,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/gp/aw/d/B0FCSH7775/ref=ox_sc_act_title_1?smid=A1X6FK5RDHNB96&psc=1",
     "price_history": [
       {
         "price": 6.67,
@@ -12445,7 +12655,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0HJRYSXDQ?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 25.02,
@@ -17091,8 +17301,8 @@
     "title": "Casque Bluetooth Nothing Headphone (a) avec ANC – Rose, Jaune, Noir, Blanc",
     "description": "111,99€ - Amazon Un casque Nothing rose au look original, avec des détails transparents qui changent des modèles classiques. Il propose la réduction de bruit pour profiter de ta musique, un son Hi-Res et l’audio spatial. Tu peux aussi le connecter à deux appareils, avec jusqu’à 135 heures d’autonomie annoncées sans réduction de bruit.",
     "price": 111.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 139.54,
+    "discount_percent": 19.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/nothing-headphone-a-casque-bluetooth-avec-anc-rosejaunenoirblanc-3432313",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/oiALZ/3432313_1/re/1200x1200/qt/90/3432313_1.jpg",
@@ -17113,8 +17323,8 @@
     "title": "Faitout Inox Tefal Comfort Max - 24 cm, Couvercle en Verre, Tous feux dont induction",
     "description": "22,79€ - Amazon Pour les soupes et sauces de saison (cheeky) > Livraison gratuite Description ACIER INOXYDABLE GARANTI 10 ANS : assurant des performances et une fiabilité durables, découvrez un produit de qualité supérieure au design robuste, conçu pour durer CUISSON RAPIDE ET HOMOGENE : casserole avec base épaisse Thermo-Fusion, pour une cuisson rapide et régulière et une compatibilité totale avec toutes les plaques de cuisson (gaz, électrique, vitrocéramique et induction) POIGNEES THERMO-ISOLEES : un design ergonomique et des poignées froides au toucher, pour une sécurité et un confort total pendant la cuisson GRADUATIONS INTERIEURES : la conception intelligente avec des marques de mesure intégrées garantit des résultats parfaits à chaque fois COUVERCLE EN VERRE AVEC ORIFICE D'EVACUATION DE LA VAPEUR : pour une cuisson sûre et facile qui préserve toute la saveur et l'humidité de vos ingrédients DES POSSIBILITÉS INFINIES : des résultats délicieux qui ne manquent jamais d'impressionner, du poulet provençal et du tajine d'agneau aux mijotés de poisson et au riz pilaf infusé au safran COMPATIBLE LAVE-VAISSELLE : facile à nettoyer, elle offre une commodité inégalée, idéale pour un usage fréquent",
     "price": 22.79,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 32.99,
+    "discount_percent": 30.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/faitout-inox-tefal-comfort-max-24-cm-couvercle-en-verre-tous-feux-dont-induction-3432312",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/dD2U8/3432312_1/re/1200x1200/qt/90/3432312_1.jpg",
@@ -17179,8 +17389,8 @@
     "title": "Brosse à Dents Électrique Oral-B iO 2 - Noire Avec 1 Brossette de Rechange, 3 Modes et Capteur de Pression",
     "description": "49,99€ - Amazon La brosse à dents électrique Oral-B iO 2 facilite le passage au brossage électrique grâce à ses micro-vibrations douces et sa tête ronde conçue pour nettoyer chaque dent. Son fonctionnement silencieux et son mode Extra-Douceur conviennent particulièrement aux gencives sensibles. Elle dispose d’un capteur de pression qui avertit lorsque le brossage est trop appuyé et réduit la vitesse pour mieux protéger les gencives. La batterie rechargeable et l’étui inclus permettent également de l’emporter facilement en déplacement. * 3 modes de brossage : Extra-Douceur, Douceur et Propreté. * Capteur de pression avec signal lumineux rouge en cas de pression excessive. * Batterie rechargeable et fonctionnement silencieux. * 1 brossette de rechange et étui inclus.",
     "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 57.74,
+    "discount_percent": 13.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/oral-b-io-2-brosse-a-dents-electrique-noire-avec-1-brossette-de-rechange-3-modes-et-capteur-de-pression-3432308",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/IjBPp/3432308_1/re/1200x1200/qt/90/3432308_1.jpg",
@@ -17201,8 +17411,8 @@
     "title": "Imprimante 3D Creality K2 Plus Combo - Impression Multicolore CFS 16 Couleurs, Haute Vitesse 600mm/s, Double Caméras IA, 350×350×350mm",
     "description": "849,15€ - JoyBuy Pour les membres JoyPlus, le prix passe même à 799.20€, mais je ne connais pas les modalités et conditions membres.",
     "price": 849.15,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 1249.0,
+    "discount_percent": 32.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/imprimante-3d-creality-k2-plus-combo-impression-multicolore-cfs-16-couleurs-haute-vitesse-600mms-double-cameras-ia-350350350mm-3432306",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ARynS/3432306_1/re/1200x1200/qt/90/3432306_1.jpg",
@@ -17223,8 +17433,8 @@
     "title": "Enceinte Bluetooth portable Jbl Go 4",
     "description": "24,99€ - Carrefour Enceinte Bluetooth portable Jbl Go 4 En résumé Puissance 4,2 Watts Autonomie 7 h Etanche (IP67) Une enceinte Bluetooth ultra-portable avec un son JBL Pro puissant, des basses percutantes et un style audacieux. L’audacieuse enceinte Bluetooth ultra-portable JBL Go 4 offre un son JBL Pro clair et puissant avec des basses riches et percutantes. De plus, elle résiste à l’eau et à la poussière. Et avec ses 7 heures d’autonomie, vous allez pouvoir profiter de bons moments pendant une journée d’excursion ou une soirée sous les étoiles. Son JBL Pro ultra-portable avec des basses plus percutantes Jusqu’à 7 heures d’autonomie plus 2 heures avec Playtime Boost Résiste à l’eau et à la poussière Son JBL Pro ultra-portable avec des basses plus percutantes Ne vous fiez pas à sa petite taille. La JBL Go 4 offre un son JBL Pro puissant avec des basses percutantes. Vos amis n’en croiront pas leurs oreilles en écoutant le son JBL Pro sortir d’une si petite enceinte. Jusqu’à 7 heures d’autonomie plus 2 heures avec Playtime Boost Recharger la batterie de votre enceinte ? N’y pensez plus ! L’enceinte JBL Go 4 vous offre jusqu’à 7 heures d’autonomie avec une seule charge. Appuyez simplement sur Playtime Boost pour prolonger la durée d’autonomie, en ajoutant jusqu’à 2 heures d’autonomie à votre batterie. Elle ajuste et optimise les performances pour un son plus puissant et plus net. Résiste à l’eau et à la poussière L’indice de résistance à l’eau et à la poussière IP67 de la JBL Go 4 garantit que cette enceinte portable peut s’adapter à presque tous les environnements, lors d’une soirée piscine ou d’un pique-nique en bord de mer.",
     "price": 24.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 34.99,
+    "discount_percent": 28.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/enceinte-bluetooth-portable-jbl-go-4-3432305",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/DzM7Q/3432305_1/re/1200x1200/qt/90/3432305_1.jpg",
@@ -17245,8 +17455,8 @@
     "title": "Routeur 5G Brovi CPE C7",
     "description": "161,34€ - Amazon.de Routeur sorti à l'été 2026, de la marque Brovi de Huawei, meilleur rapport qualité prix en 5G. Les routeurs Huawei sont connus comme ceux gérant le mieux les ondes radio 4G et 5G donc normalement moins de latences ou micro coupure que les concurrents. Prix beaucoup moins cher que sur amazon France. GAMING ET STREAMING SANS RALENTISSEMENT LE SOIR – Branchez votre PS5, Xbox ou PC gaming sur le port Gigabit LAN pour une connexion filaire stable, pendant que jusqu'à 5,8 Gbit/s (théoriques) de bande passante 5G laissent de la marge aux téléchargements, aux streams 4K et au cloud gaming – même quand toute la famille est en ligne EN LIGNE EN 3 MINUTES – SANS LIGNE FIXE, SANS TECHNICIEN – Insérez une SIM 5G/4G, branchez, c'est prêt. Testé sur le terrain avec plus de 50 opérateurs européens, dont Orange et Iliad. Idéal pour un nouvel appartement, une chambre étudiante ou une colocation (Carte SIM non incluse) SIGNAL FORT LÀ OÙ LES AUTRES DÉCROCHENT – 18 antennes cellulaires (dont 8 à gain élevé) avec sélection intelligente captent une 5G stable même en zone de couverture faible ; deux ports TS-9 permettent d'ajouter des antennes externes (non incluses) pour camping-car, résidence secondaire et zones rurales WIFI 6 POUR TOUTE LA MAISON, JUSQU'À 128 APPAREILS – Le WiFi 6 AX3000 double bande (jusqu'à 3 000 Mbit/s théoriques) alimente smartphones, TV, consoles et objets connectés ; EasyMesh étend un roaming fluide pièce par pièce, y compris avec des routeurs compatibles d'autres marques UN VRAI ROUTEUR, LES APPELS EN PLUS – Deux ports Gigabit Ethernet permettent aussi d'utiliser le C7 comme routeur classique derrière un modem fibre, câble ou ADSL ; le port téléphonique VoLTE/VoNR connecte votre téléphone sans fil – appelez sans abonnement fixe INSTALLATION SIMPLE, TRANQUILLITÉ DURABLE – Gérez réseau, consommation de données et WiFi invité dans l'app AI Life ; en plus, garantie étendue de 6 mois exclusive Amazon et support Brovi de l'installation au dépannage",
     "price": 161.34,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 249.99,
+    "discount_percent": 35.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/routeur-5g-brovi-cpe-c7-3432304",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/S9eIy/3432304_1/re/1200x1200/qt/90/3432304_1.jpg",
@@ -17267,8 +17477,8 @@
     "title": "Wc Japonais Suspendu Swiss Aqua Technologies Fusion SATFUS11BFC - Sans Bride, Rinçage Vortex, Abattant Softclose, Sans Électricité",
     "description": "119,95€ - Livea Le Fusion WC japonais suspendu sans bride est un modèle moderne et fonctionnel. *caractéristiques du produit :* - Type de produit : WC japonais - Marque : Swiss Aqua Technologies - Série : Fusion - Coloris : blanc - Finition : brillant - Matière : céramique - Largeur : 36 cm - Hauteur : 35 cm - Profondeur : 50 cm - Type d'abattant : SoftClose (fermeture douce et silencieuse)",
     "price": 119.95,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 299.0,
+    "discount_percent": 59.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/wc-japonais-suspendu-swiss-aqua-technologies-fusion-satfus11bfc-sans-bride-rincage-vortex-abattant-softclose-sans-electricite-3432303",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/49Vvl/3432303_1/re/1200x1200/qt/90/3432303_1.jpg",
@@ -17311,8 +17521,8 @@
     "title": "[Nouveaux clients] Testeur de câbles réseau ANENG M469A - RJ45/RJ11, détection des courts-circuits, diagnostic de câblage",
     "description": "8,82€ - Alibaba Bon prix pour ce testeur de câbles. Compatible avec les connecteurs RJ45 et RJ11 , il peut être utilisé pour contrôler une installation Ethernet, identifier un problème de câblage ou effectuer des vérifications après la pose de connecteurs. Livraison gratuite > Caractéristiques Compatible avec les connecteurs RJ45 et RJ11 Adapté aux câbles réseau Ethernet et téléphoniques Détection des courts-circuits Outil de diagnostic et de vérification du câblage Utilisation pour l'installation et la maintenance de réseaux filaires",
     "price": 8.82,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 60.69,
+    "discount_percent": 85.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-testeur-de-cables-reseau-aneng-m469a-rj45rj11-detection-des-courts-circuits-diagnostic-de-cablage-3432301",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/EwUPD/3432301_1/re/1200x1200/qt/90/3432301_1.jpg",
@@ -17333,8 +17543,8 @@
     "title": "Réchaud à bois Fire-Maple Maverick 3 (Vendeur tiers)",
     "description": "20,48€ - Amazon Matériau sain et durable de haute qualité : Fabriqué en acier inoxydable, il est antirouille, très solide, résistant à la corrosion et ne se déforme pas facilement pour garantir une utilisation à long terme. Pliable et portable : non plié (234*282*140mm/9.2*11.1*5.5in), plié (282*147*8mm/11.1*5.8*0.3in). Il pèse 617 g et est livré avec un sac de transport, pratique pour l'emporter partout. Facile à installer : contient 5 pièces, peut être facilement assemblé et désassemblé en moins d'une minute. Idéal pour le camping, la randonnée, les pique-niques, les barbecues et les activités de plein air. Ce poêle à bois triangulaire est parfait pour les feux de camp, un support de pot supplémentaire vous sera fourni dans votre sac pour diverses utilisations, profitez simplement de votre jardin ou du feu de camp en plein air. Spécifications Marque: Fire-Maple Couleur: 3 Pièces Type de carburant: Wood Utilisations recommandées pour le produit: Extérieur Dimensions de l'article L x l x H: 28,2 x 14,7 x 0,8 centimètres Assemblage requis: Oui Matériau: Acier inoxydable Matériau de la poignée: Acier inoxydable Nom de modèle: Maverick-3 Matériau du cadre: Acier inoxydable Type d’alimentation: Wood Configuration du gril: Portable Méthode de cuisson principale: Grillade Dimensions de l’article: 28,2 x 14,7 x 0,8 centimètres Type de matériau: Acier inoxydable Matériau de la structure: Acier inoxydable À assembler: Oui Type d'installation: Autonome Usages recommandés pour le produit: Extérieur Nom du modèle: Maverick-3 Numéro du modèle: Maverick Nombre de paquets: 3 Utilisation extérieure ou intérieure: Extérieure Nombre d’articles dans l'unité vendue au client: 3 Fabricant: Fire-Maple Point fort de l’article: Pliable et Coupe-vent en Acier Inoxydable, idéal pour Cuisine Camping, Barbecues, Randonnées en Montagne et Pique-Niques 4 Nombre d'unités: 3.0 unité Pays d'origine: Chine Numéro de pièce: Maverick 3 Classement des meilleures ventes d'Amazon: 28097 en Sports et Loisirs (Voir les 100 premiers en Sports et Loisirs) 84 en Réchauds de camping ASIN: B09PFR35LB Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (217) 4,5 sur 5 étoiles Commentaires client",
     "price": 20.48,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 24.26,
+    "discount_percent": 15.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/rechaud-a-bois-3432298",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/P9Wgh/3432298_1/re/1200x1200/qt/90/3432298_1.jpg",
@@ -17377,8 +17587,8 @@
     "title": "Carte graphique MLLSE RX 580 8 Go 2048SP GDDR5",
     "description": "67,40€ - AliExpress La carte graphique MLLSE Radeon RX580 8G GDDR5 est une solution performante pour les joueurs et les utilisateurs exigeants en matière de graphismes. Dotée de 8 Go de mémoire GDDR5, elle offre une vitesse et une fluidité idéales pour les jeux vidéo modernes et les applications de création multimédia. Son interface PCIE 3.0 x16 garantit une connexion rapide et stable avec la carte mère, assurant ainsi des performances optimales. Cette carte est équipée de composants de qualité pour une durabilité accrue et une meilleure dissipation thermique. Compatible avec la technologie AMD RX 580, elle prend en charge les effets visuels avancés, le rendu haute définition, ainsi que les fonctionnalités comme le multi-écrans et la réalité virtuelle. Adaptée aux ordinateurs de bureau, elle est un excellent choix pour améliorer les performances graphiques, que ce soit pour le gaming intensif ou pour des tâches créatives exigeantes.",
     "price": 67.4,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 76.77,
+    "discount_percent": 12.2,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/carte-graphique-mllse-rx-580-8-go-2048sp-gddr5-3432291",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/bBwlO/3432291_1/re/1200x1200/qt/90/3432291_1.jpg",
@@ -17399,8 +17609,8 @@
     "title": "DLCFortnite Minty Legends Pack + 1000 V-Bucks XBOX LIVE Key EUROPE",
     "description": "5,69€ - Eneba Très bon prix pour 1000 v-bucks ! À activer via Xbox live seulement. Possible de lier son compte epic pour avoir les V-bucks sur son compte Epic ensuite !",
     "price": 5.69,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 14.99,
+    "discount_percent": 62.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/dlcfortnite-minty-legends-pack-1000-v-bucks-xbox-live-key-europe-3432296",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Ii14d/3432296_1/re/1200x1200/qt/90/3432296_1.jpg",
@@ -17421,8 +17631,8 @@
     "title": "Veste textile de moto IXS Eton-ST-Plus - Tailles S / M / XXL",
     "description": "49,95€ - FC-Moto Veste textile de moto - IXS Eton-ST-Plus ( S / M / XXL ) IXS Eton-ST-Plus Blouson Textile Moto L’Eton-ST-Plus est une veste de scooter urbain en laminé 2 couches et offre une protection et un confort optimaux ! Fonctionnalités: Imperméable, coupe-vent et respirant grâce au laminé solto-TEX-Plus® Doublure thermique amovible Capuche amovible avec cordon de serrage élastique 2 grandes ouvertures d’aération sous les bras avec fermetures éclair étanches Poignets souples et extensibles sur le poignet pour un confort maximal Réglage de la largeur sur les poignets Réglage de la largeur dans l’ourlet de la veste avec cordon de serrage élastique Fermeture éclair au niveau des hanches pour la meilleure liberté de mouvement possible en position assise 2 poches extérieures avec fermeture éclair 2 poches intérieures et 1 poche Napoléon Protège-coudes réglables en hauteur Spécifications: Protections d’épaule de niveau 1 (EN 1621-1 : 2012) Protège-coudes de niveau 1 (EN 1621-1 : 2012) Poche pour protection dorsale de niveau 2 (vendue séparément) Attention : la veste contient deux fermetures éclair et peut être ouverte et fermée de haut en bas et de bas en haut.",
     "price": 49.95,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 79.99,
+    "discount_percent": 37.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/veste-textile-de-moto-ixs-eton-st-plus-s-m-xxl-3432295",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/O7Sht/3432295_1/re/1200x1200/qt/90/3432295_1.jpg",
@@ -17531,8 +17741,8 @@
     "title": "Sac de moto FC-Moto Hump 2.0 - Sac à dos de moto",
     "description": "22,90€ - FC-Moto Sac de moto - FC-Moto Hump 2.0 Sac à dos de moto SAC À dos de moto FC-Moto Hump 2.0 Vous êtes à la recherche d’un sac à dos pratique qui ne vous dérangera pas lorsque vous conduisez une moto? Alors le sac à dos moto aérodynamique FC-Moto Hump avec sa coque rigide est le bon choix ! Fonctionnalités: construction à coque dure pour un ajustement et un confort sûrs forme aérodynamique - idéal pour les vitesses plus élevées matériau résistant à l’eau impression du logo bretelles réglables sangles horizontales de poitrine et de taille pour plus de soutien et un ajustement sûr grand compartiment principal compartiment séparé pour ordinateur portable 2 compartiments intérieurs en maille Crochet à l’intérieur Spécifications: volume: 24 litres compartiment pour ordinateur portable: 15 pouces taille: 51 x 35 x 13 cm poids: env. 749 grammes Contenu: 1 x sac à dos de moto FC-Moto Hump 2.0 Couleur: noir Taille: Taille unique Type de sacs :S acs à dos Genre: Femmes, Hommes",
     "price": 22.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 22.99,
+    "discount_percent": 0.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/sac-de-moto-fc-moto-hump-20-sac-a-dos-de-moto-3432289",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/x99RJ/3432289_1/re/1200x1200/qt/90/3432289_1.jpg",
@@ -23481,6 +23691,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -23525,6 +23739,10 @@
       {
         "price": 127.99,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 127.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -23547,6 +23765,10 @@
       {
         "price": 889.99,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 889.99,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -23569,6 +23791,10 @@
       {
         "price": 411.0,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 411.0,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -23591,6 +23817,10 @@
       {
         "price": 175.0,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 175.0,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -23613,6 +23843,10 @@
       {
         "price": 36.79,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 36.79,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -23652,6 +23886,10 @@
       {
         "price": 17.9,
         "observed_at": "2026-10-13T20:15:42.890292+00:00"
+      },
+      {
+        "price": 17.9,
+        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   },
@@ -24431,84 +24669,6 @@
       },
       {
         "price": 5.99,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "VTT Enduro Carbone Lapierre Spicy CF 8.9 29\" (FOX Factory Kashima 38 - Float X2, Transfer, Full XT 12s, DT Swiss EX 1700, M et L",
-    "description": "3 499€ - Statera Bikes voici le Spicy CF 8.9 en version full FOX Factory Kashima qui passe à 3 599,00 € au lieu de 7 999,00 € ! Une remise réelle de -55 % (-4 400 €) sur un montage \"Dream Bike\" de grand enduro/bikepark. Ici, aucun composant d'entrée de gamme à faire évoluer : tout le train roulant, la transmission et les suspensions sont directement au sommet de ce qui se fait sur le marché. ⚙️ Spécifications techniques haut de gamme : Cadre : Full Carbone HIGH, débattement 180 mm, géométrie engagée. Suspensions Full FOX Factory Kashima : Fourche FOX 38 Factory Float F-S, cartouche Grip X2 (180 mm) Amortisseur FOX Float X2 Factory Series (205x65 mm Trunnion) Tige de selle télescopique FOX Transfer Factory F-S (revêtement Kashima) Transmission : Full Shimano Deore XT 12s (pédalier XT FC-M8200, cassette XT CS-M8200 10-51t). Freinage : Disques hydrauliques Shimano Deore XT BR-M8220 4 pistons (203 mm av/ar). Roues : Paire de roues ultra-costaudes DT Swiss EX 1700 Spline 30 mm (la référence aluminium enduro). Pneus : Continental Kryptotal F & R (60-622 / 60-584). Pour le coup, c'est un sans-faute absolu sur l'équipement. Rien que l'ensemble suspensions FOX Factory + tige Kashima + roues DT EX 1700 + groupe XT 4 pistons coûte près de 3 200 € au détail. Vous avez le cadre carbone haut de gamme quasiment offert pour la différence. Les + : -4 400 € de remise réelle (-55 %) Trio FOX Factory Kashima complet (38, Float X2, Transfer) Roues DT Swiss EX 1700 solides et groupe complet Shimano XT",
-    "price": 3599.0,
-    "reference_price": 7999.0,
-    "discount_percent": 55.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vtt-enduro-carbone-lapierre-spicy-cf-89-29-fox-factory-kashima-38float-x2transfer-full-xt-12s-dt-swiss-ex-1700-m-et-l-3431912",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/i2BAa/3431912_1/re/1200x1200/qt/90/3431912_1.jpg",
-    "detected_at": "2026-10-13T18:39:58+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 3599.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 3599.0,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo Lapierre Xelius DRS 10.0 Shimano Dura-Ace Di2",
-    "description": "4 999€ - Statera Bikes Caractéristiques techniques: Cadre Carbone UNI ( superieur par rapport au 9.0) Fourche rigide en carbone Lapierre Xelius DRS 10.0 Shimano Dura-Ace Di2 RD-R9250 12 vitesses Manivelle Dura-Ace FC-R9200-P avec capteur de puissance, HOLLOWTECH 2 52-36 dents Cassette Shimano Dura-Ace CS-R9200-12, MICRO SPLINE Levier de vitesse Manette de vitesses et de frein Shimano Dura-Ace ST-R9270-R, manette Di2 Dual Control 12 vitesses Roues de course DT Swiss ARC 1100 DICUT, 38 mm, 12x100 mm, CL Taille des roues 28 Zoll Pneus Continental AERO 111 TR 26-622 Freins Frein à disque hydraulique Shimano Dura-Ace BR-R9270, 2 pistons, plaquettes en résine, 160/140 mm Guidon Ensemble cockpit Lapierre Drop Bar Combo Carbon RB167 (cintre drop + potence) Tige de selle Lapierre Xelius DRS Aero Selle Prologo MTB Dimension R2 Nack",
-    "price": 4999.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lapierre-xelius-drs-100-haut-de-gamme-3431911",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vGq9A/3431911_1/re/1200x1200/qt/90/3431911_1.jpg",
-    "detected_at": "2026-10-13T18:37:40+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 4999.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 4999.0,
-        "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vinyle Tryo - Mamagubida",
-    "description": "24€ - Amazon Mamagubida --Description du produit Liste des titres Disque : 1 1 L'hymne De Nos Campagnes 2 Pour Un Flirt Avec La Crise 3 C'est Du Roots 4 Salut O Disque : 2 1 La Revolution 2 Regardez-Les 3 La Misere D'en Face 4 Un Homme Qui Aime Les Femmes Disque : 3 1 La Main Verte 2 France Telecom 3 Yakamoneye 4 Les Soldats De Plomb Disque : 4 1 Suprematie 2 Babylone 3 J'ai Rien Prevu Pour Demain Informations sur le produit Label ‎Salut Ô Productions Distr Nombre de disques ‎2 ASIN ‎B0948LLKZR À propos de ce produit Mamagubida Commentaires client",
-    "price": 24.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/vinyle-tryo-mamagubida-3431910",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pVydE/3431910_1/re/1200x1200/qt/90/3431910_1.jpg",
-    "detected_at": "2026-10-13T18:36:50+00:00",
-    "category": "Culture & sorties",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.0,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
-      },
-      {
-        "price": 24.0,
         "observed_at": "2026-10-14T19:26:16.073333+00:00"
       }
     ]
