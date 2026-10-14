@@ -3836,6 +3836,10 @@
       {
         "price": 57.6,
         "observed_at": "2026-10-13T05:47:42.063795+00:00"
+      },
+      {
+        "price": 57.6,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
       }
     ]
   },
@@ -6611,7 +6615,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T09:59:22.118897+00:00",
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
     "price_history": [
       {
         "price": 106.78,
@@ -6627,7 +6631,7 @@
     "title": "Philips Hue White and Colour A...e Homekit, nouvelle génération",
     "price": 287.48,
     "reference_price": 329.99,
-    "discount_percent": 12.88,
+    "discount_percent": 12.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0FJY174B3",
     "image_url": "https://m.media-amazon.com/images/P/B0FJY174B3.01._AC_SL1500_.jpg",
@@ -6635,7 +6639,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
     "price_history": [
       {
         "price": 287.48,
@@ -6651,7 +6655,7 @@
     "title": "TRIXIE 76133 Sable pour Terrarium Rouge foncé 5 kg",
     "price": 10.99,
     "reference_price": 16.97,
-    "discount_percent": 35.24,
+    "discount_percent": 35.2,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B00435I66S",
     "image_url": "https://m.media-amazon.com/images/P/B00435I66S.01._AC_SL1500_.jpg",
@@ -6659,7 +6663,7 @@
     "category": "Animaux",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
     "price_history": [
       {
         "price": 10.99,
@@ -6908,6 +6912,300 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jeu de Société Trio (Via 3€ sur la Carte de Fidélité)",
+    "description": "6,49€ - E.Leclerc Jeu de société Asmodée Trio à 6,49€ via 3€ d’avantage fidélité. Offre visible dans le catalogue Noël de Leclerc Jouet, mais probablement valable dans les Leclerc classiques. Offre valable chez Leclerc jusqu'au 5 décembre",
+    "price": 6.49,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-asmodee-trio-3-a-6-joueurs-des-7-ans-via-3eur-sur-carte-fidelite-3432081",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mt84m/3432081_1/re/1200x1200/qt/90/3432081_1.jpg",
+    "detected_at": "2026-10-14T05:56:10+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 6.49,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 6 Brossettes de Rechange Oral-B Ultimate Clean - Noir",
+    "description": "28,87€ - Amazon TECHNOLOGIE ULTIMATE CLEAN : Les brins sont parfaitement inclinés pour atteindre les zones difficiles d'accès et nettoyer efficacement entre les dents EXCLUSIVEMENT POUR ORAL-B iO : Ces brossettes authentiques sont conçues uniquement pour les brosses à dents électriques Oral-B iO, assurant une performance optimale. Seules les brossettes Oral-B iO officielles garantissent une parfaite compatibilité SACHEZ QUAND LA REMPLACER : Pour une efficacité et une douceur maximales, les brins changent de couleur pour vous indiquer qu'il est temps de changer votre brossette (environ tous les 3 mois) RECOMMANDÉ PAR LES DENTISTES : Recommandé officiellement par les chirurgiens-dentistes de l'Union Française pour la Santé Bucco-Dentaire (UFSBD), la plus grande association de chirurgiens-dentistes en France",
+    "price": 28.87,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/oral-b-brossettes-de-rechange-ultimate-clean-lot-de-6-noires-3432080",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YyRGM/3432080_1/re/1200x1200/qt/90/3432080_1.jpg",
+    "detected_at": "2026-10-14T05:48:34+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 28.87,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures Saucony Endorphin Pro 4 - Tailles du 44 au 48",
+    "description": "99€ - Veepee Ca part vite :) L’Endorphin Pro 4 est la quatrième génération de notre première super-chaussure. Une chaussure premium, rapide et légère pour le jour de la course, les courses tempo ou les intervalles. Notre style éprouvé a été conçu pour vous donner l’avantage concurrentiel d’aller loin. - Une couche supérieure de mousse PWWRUN HG de qualité supérieure est moulée selon un processus supercritique pour améliorer l’efficacité énergétique, tandis que la couche inférieure en PWRRUN PB est résistante et offre une sensation de propulsion et de rebond sous le pied. - La technologie Speedroll, combinée avec notre plaque en fibre de carbone pleine longueur éprouvée et plus rigide, a été conçue avec une forme unique pour garantir une rotation plus rapide du début à la fin. - Couche extrêmement fine de caoutchouc au carbone XT-900 pour une excellente traction et une excellente durabilité. - Mesh respirant et aéré à une seule couche avec languette en maille plate pour une sensation de confort semblable à celle d’une chaussette. MEILLEURES POUR LA COURSE AMORTISSEMENT PWRRUN HG/PWRRUN PB OFFSET SRS DE LA CHAUSSURE 8 mm (39,5/31,5 mm) POIDS Homme 212 g (7,5 oz) Femme 185 g (6,5 oz) DURABILITÉ Ce modèle est végan et contient des matériaux recyclés Composition Dessus / tige : tissu et synthétique Semelle intérieure : tissu et polyuréthane expansé Semelle extérieure : caoutchouc, éthylène-acétate de vinyle (EVA) et carbone Doublure : tissu",
+    "price": 99.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-saucony-endorphin-pro-4-du-44-au-48-3432079",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/u6ktM/3432079_1/re/1200x1200/qt/90/3432079_1.jpg",
+    "detected_at": "2026-10-14T05:45:52+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 99.0,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot Tondeuse Segway Navimow i105e",
+    "description": "599,99€ - Darty Découvrez l'avenir de l'entretien des pelouses avec ce robot, contournez les obstacles grâce à la technologie avancée, et obtenez une pelouse parfaitement entretenue grâce à la planification novatrice des trajectoires en U. Prenez le contrôle de manière intuitive avec l'application Navimow i105E pour une expérience de tonte fluide ! Grâce à la navigation précise par GPS et aux capteurs avancés, le Navimow i105E peut tondre la pelouse de manière systématique et efficace, optimisant ainsi le temps et la consommation d'énergie tout en assurant une couverture complète et uniforme ! Précision et facilité d'utilisation : Le robot tondeuse Navimow i105E, offre une configuration des limites sans câbles, facilitant ainsi son installation et son utilisation. Grâce à sa cartographie efficace et précise, il peut couvrir votre pelouse avec une précision jusqu'à 500 m². De plus, son grand angle de vision de 140° permet de détecter les obstacles avec une grande précision, assurant ainsi une reconnaissance précise des objets pour une tonte sans encombre. Son système de localisation EFLS 2.0 amélioré par le capteur Vision, procure un positionnement stable au centimètre près pour diverses dispositions de jardin. Performances : Ce robot tondeuse offre une efficacité maximale pour entretenir votre pelouse. Grâce à ses modes de fonctionnement variés et sa capacité de recharge automatique, il s'adapte parfaitement à vos besoins d'entretien de jardin. Vous pouvez facilement ajuster la hauteur de coupe entre 20 et 60 mm, et contrôler les performances du robot via son application intuitive. Avec une largeur de coupe de 18 cm, Navimow i105E offre une couverture efficace et uniforme de votre pelouse, même dans les zones difficiles d'accès. Profitez d'une tranquillité d'esprit avec ce robot tondeuse qui peut fonctionner sur des pentes allant jusqu'à 30%, assurant ainsi un entretien fiable même sur des terrains accidentés. Autonomie : Doté d'une batterie 2.55 Ah, ce robot tondeuse vous offre une autonomie de tonte par charge* de 60 minutes (*testée avec une batterie à 100 % et utilisée jusqu’à ce que le niveau de batterie atteigne 0 % à une température ambiante de 25 °C (77 °F) sur une pelouse plate avec une coupe d’herbe de 5 mm). Son temps de charge est de 90 minutes. Planification de trajectoires en U pour des résultats optimaux : Navimow i105E fonctionne selon une trajectoire en U novatrice qui couvre parfaitement votre pelouse, pour une uniformité et une qualité de coupe impressionnantes. Cartographie : Utilisez simplement votre smartphone pour guider votre robot et cartographier les limites virtuelles de votre jardin. Le révolutionnaire Assist Mapping réduit la configuration à quelques étapes dans l’application Navimow i105E très faciles à effectuer. Ainsi, choisissez les zones souhaitées en toute simplicité. Détection de pluie avancée : En cas de détection de pluie, le robot retourne automatiquement à la station de recharge et reprend la tâche de tonte lorsque la pluie s'arrête. Antivol : Restez connecté avec le module 4G Navimow Access+. Si la tondeuse sort de ses limites virtuelles, le propriétaire recevra une alerte ainsi que des informations de positionnement en temps réel dans l’application. Vous pouvez donc surveiller votre appareil en temps réel. Connecté : En plus de pouvoir planifié la trajectoire de votre robot, vous avez à votre disposition sur l'application Navimow i105E un chat d’assistance en direct dans l’application. Accessoires inclus : - Station de recharge - Lame de rechange - Kit d'installation - Manuel d'utilisation - Câble d'alimentation",
+    "price": 599.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/robot-tondeuse-segway-navimow-i105e-3432073",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/lqxLW/3432073_1/re/1200x1200/qt/90/3432073_1.jpg",
+    "detected_at": "2026-10-14T05:42:31+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 599.99,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Veste de randonnée à capuche homme Columbia Silver Leaf Stretch Insulated II - Titanium, Omni-Heat, Omni-Shield, Tailles L et XL",
+    "description": "106,11€ - Ekosport Excellente remise sur cette veste technique de randonnée Columbia Silver Leaf Stretch Insulated II (gamme Titanium) qui revient à 106,11 € au lieu de 219,90 € en cumulant la remise sur le site avec le code promo EKO10 . Une veste isolante synthétique idéale pour la mi-saison/hiver, pensée pour l'effort grâce à ses empiècements extensibles et ses manches articulées. ⚙️ Caractéristiques techniques : Isolation : Synthétique extensible Omni-Heat™ 60 g (100 % polyester) pour un bon rapport apport thermique / liberté de mouvement. Protection déperlante : Traitement Omni-Shield™ hautement déperlant pour bloquer l'humidité et les petites pluies. Composition : Extérieur 100 % nylon, doublure stretch 89 % nylon / 11 % élasthanne. Conception & Ajustements : Manches articulées, capuche fixe, protège-menton, ourlet réglable par cordon de serrage. Rangements : Poche poitrine zippée + poches zippées pour les mains. Toucher de la gamme Columbia Titanium isolée et déperlante à peine au-dessus des 100 €, c'est un prix très agressif par rapport à la concurrence (The North Face, Salomon ou Lafuma). Le combo isolation 60 g + tissu stretch en fait une veste très polyvalente, utilisable seule en randonnée active ou comme seconde couche sous un hardshell. Les + : Cumul de la promotion et du code -10 % (EKO10) Tissu stretch + isolation synthétique Omni-Heat 60 g Traitement déperlant Omni-Shield performant",
+    "price": 106.11,
+    "reference_price": 219.9,
+    "discount_percent": 51.7,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/veste-de-randonnee-a-capuche-homme-columbia-silver-leaf-stretch-insulated-ii-titanium-omni-heat-omni-shield-l-et-xl-3432071",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/PkSNJ/3432071_1/re/1200x1200/qt/90/3432071_1.jpg",
+    "detected_at": "2026-10-14T05:41:45+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 106.11,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "VTT Enduro Carbone Lapierre Spicy CF 7.9 29\" - Fox 38 180mm, Fox Float X2, Shimano Deore 12s, Freins 4 pistons, Tailles M, L ou XL",
+    "description": "2 888€ - Statera Bikes Passe sous les 3 000 € pour une vraie machine de gros enduro / bikepark ! Le Lapierre Spicy CF 7.9 (cadre carbone, 180 mm de débattement) s'affiche à 2 888,00 € au lieu de 6 499,00 €, soit -56 % de remise réelle (-3 611 €) . À ce tarif, c'est l'un des meilleurs rapports équipement/prix du moment pour envoyer du gros en station ou en spéciale Enduro. ⚙️ Points forts & Spécifications techniques : Cadre : Full Carbone HIGH, géométrie enduro agressive, cinématique ultra-efficace. Fourche : FOX 38 Float Performance Select Grip X2 en 180 mm de débattement (châssis ultra-rigide pour l'engagement). Amortisseur : FOX Float X2 Performance Elite Series (205x65 mm, montage Trunnion). Transmission : Shimano Deore 12s (10-51t), simple, robuste et pas cher à entretenir. Freinage : Disques hydrauliques Shimano Deore M6120 4 pistons avec disques en 203 mm. Roues & Pneus : Jantes XLC WR-M49/M47 SL Disc 30 mm + montage pneus Continental Kryptotal F & R . Périphériques : Tige de selle télescopique JD YSI60 intégrée, selle Prologo MTB. Sur le marché du gros enduro de marque (Commencal, Santa Cruz, Trek, Specialized), trouver du Fox 38 + Fox Float X2 sur un cadre carbone à moins de 2 900 € est quasiment introuvable hors marché de l'occasion. La transmission Deore fait le job sans chichi et se remplace pour trois fois rien en cas d'impact. Les + : -56 % de remise immédiate (-3 611 €) Duo de suspensions Fox 38 / Float X2 ultra-performant en 180 mm Cadre full carbone Freins 4 pistons 203 mm et pneus Continental Kryptotal d'origine",
+    "price": 2888.0,
+    "reference_price": 6499.0,
+    "discount_percent": 55.6,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vtt-enduro-carbone-lapierre-spicy-cf-79-29-fox-38-180mm-fox-float-x2-shimano-deore-12s-freins-4-pistons-3432072",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/WC0i4/3432072_1/re/1200x1200/qt/90/3432072_1.jpg",
+    "detected_at": "2026-10-14T05:41:22+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2888.0,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 5 Buches de Bois Woodstock - Densifié Ultra Calorifique, 7,5 Kg",
+    "description": "2,99€ - Castorama Buche de bois densifié ultra calorifique 7,5KG Woodstock 5Pcs Informations supplémentaires Les bûches densifiées Woodstock bois ont été spécialement conçues pour les appareils nouvelle génération à haut rendement. Fabriquées en France, l’ensemble de la matière première provient de bois issus de forêts locales gérées durablement. Les sciures et copeaux de bois valorisés de l’industrie du bois sont séchés et compactés à très haute pression, sans aucun liant ni additif. Trois fois moins encombrantes et ultra denses, le pouvoir calorifique d’une bûche équivaut à 3-4 bûches traditionnelles. Leur performance énergétique est optimale, avec un apport de chaleur intense et immédiat. Une seule bûche suffit ainsi pour plus d’une heure de combustion ! Compact et propre, vous profitez du bonheur des feux de bois, sans aucune contrainte ! Leur qualité haute performance est testée et approuvée par le laboratoire CERIC. Ultra calorifique Apport de chaleur immédiat Sans poussières ni résidus Testé en laboratoire Céric",
+    "price": 2.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-5-buches-de-bois-woodstock-densifie-ultra-calorifique-75-kg-3432070",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/sIgOC/3432070_1/re/1200x1200/qt/90/3432070_1.jpg",
+    "detected_at": "2026-10-14T05:40:18+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2.99,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Boule Lumineuse - Ø18cm, 140 LED",
+    "description": "3,99€ - Action Description Avec lumières scintillantes Pour l’intérieur et l’extérieur Avec fonction minuteur : 6 heures de lumière et 18 heures d’arrêt Cette boule lumineuse étincelante crée immédiatement une ambiance chaleureuse à l’intérieur ou à l’extérieur, dans le sapin ou au plafond. Les petites lumières forment ensemble une boule étincelante qui ajoute un petit plus à votre décoration de Noël. Caractéristiques Couleur Noir Couleur de lumière Blanc chaud Matériau Iron, Cuivre, Polystyrene (ps) Catégorie source lumineuse Lampe LED Code batterie AA Forme Rond Méthode de fixation Suspendu Nombre de piles nécessaires 3 Nombre de sources de lumière 140 Piles incluses Non Placement Suspendu Prévu pour Intérieur et extérieur Source de lumière incluse Oui Thème Noël Type d'alimentation Batterie Type de décoration saisonnière Ornement de saison Type de saison Hiver Numéro de l'article 3218318",
+    "price": 3.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/boule-lumineuse-o-18-cm-140-led-3432078",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bQ8H3/3432078_1/re/1200x1200/qt/90/3432078_1.jpg",
+    "detected_at": "2026-10-14T05:40:04+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 3.99,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kit Recharge Green'Up Connecté - pour Voiture Électrique",
+    "description": "232,28€ - Bâtir Moins Cher Retour de l'offre du 1er septembre, à 2 euros près. L'avantage de la prise Green'Up 090471 est qu'elle est IP66, contrairement à la noire. Contenu de ce pack 1 x Montage du tableau ( MOTBMC ) 1 x Disjoncteur Legrand DNX3 Vis/Vis 20A - 406775 ( LEG406775 ) 1 x Prise Green'Up Access Legrand véhicule électrique - 090471 ( LEG090471 ) 1 x Compteur contacteur KETLER 60A WIFI Smart Life et Tuya - KE6010W ( KETKE6010W ) 1 x Peigne d'alimentation Legrand HX3 phase neutre 13 modules - 404926 ( LEG404926 ) 1 x Inter différentiel Legrand vis/vis 40A type A Départ haut - 411617 ( LEG411617 ) 1 x Coffret étanche IP65 8 modules 150204 - Zenitech ( ZEN150204 ) 2 x Presse-étoupe gris en polyamide avec écrou ( BLM-108172-102172 ) Les disjoncteurs composant ce tableau sont munis de bornes de connexion automatique ou à visser. Ce tableau électrique est monté et pré-câblé dans nos locaux. Le montage est gratuit. Caractéristiques de la prise Green'Up Access Prises 16 A VE Socles de prises renforcées 2P+T à éclips pour fiche 2P+T (Mode 2) Monophasées - raccordement à vis – 230 V Pour recharge de 1 véhicule Certifiées NF, conformes aux normes NF C 61-314 et IEC 60-884-1 IP 66 - IK 08 - fixation en saillie - 16 A - 230 V - 16 A VE Convient pour une installation dans les lieux de vie type maison individuelle Livrée complète avec cadre saillie équipé d'un presse-étoupe ISO 20 Dimensions (H x L x P) : 98 x 98 x 70 mm (hors PE) Avantages & Installation Permettent de recharger en toute sécurité les véhicules électriques et hybrides rechargeables utilisant le cordon Mode 2 (ou Mode 1) Conviennent dans les lieux de vie et lieux de travail Raccordement à partir du tableau électrique par 1 ligne dédiée 3 x 2,5 mm² minimum (1 ligne par prise). L'utilisation d'un parafoudre est recommandée Installation préconisée entre 0,80 et 1,20 m du sol",
+    "price": 232.28,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/kit-recharge-greenup-connecte-voiture-electrique-affichage-3432077",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/B0SVI/3432077_1/re/1200x1200/qt/90/3432077_1.jpg",
+    "detected_at": "2026-10-14T05:38:59+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 232.28,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 6 Paires de Chaussettes Nike Everyday Plus - Dri-Fit, Taille 34-38",
+    "description": "10€ - JD Sports Ce lot Nike Everyday Plus réunit six paires de chaussettes sport dans des coloris assortis. Conçues pour le quotidien comme pour l’entraînement, elles associent un mélange de coton doux à la technologie Dri-FIT, qui aide à évacuer la transpiration et à garder les pieds au sec. Le dessus en maille respirante favorise la ventilation. Un rembourrage sous l’avant-pied améliore le confort, tandis qu’une bande au niveau de la voûte plantaire apporte du maintien et aide la chaussette à rester en place dans la chaussure. Le talon et la pointe renforcés sont conçus pour mieux résister aux sollicitations répétées. Ce lot correspond à la taille 42-46. Les paires sont lavables en machine et le logo Swoosh signe le modèle. Une option polyvalente pour le sport, les longues journées debout ou un usage quotidien.",
+    "price": 10.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-6-paires-de-chaussettes-nike-everyday-plus-dri-fit-taille-34-38-3432068",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/huSwg/3432068_1/re/1200x1200/qt/90/3432068_1.jpg",
+    "detected_at": "2026-10-14T05:37:53+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 10.0,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures Saucony Triumph 23 - Plusieurs Coloris, Tailles du 40 au 46,5",
+    "description": "79,99€ - Veepee Tailles disponibles du 37 au 47. Chaussures de running \"Triumph 23\" Collection : 2026 Sport : course Hauteur du talon : 3.7 cm Sur le devant : Fermeture à lacets Nos chaussures de running premium à amorti neutre, dotées de nos mousses les plus innovantes et conçues pour intégrer un confort doux et luxueux dans une structure résistante. • Couche généreuse de PWRRUN PB sous le pied, l'une de nos mousses les plus réactives et efficaces en termes d'énergie, désormais avec un aspect et une sensation plus doux. • La nouvelle semelle intérieure SRS assure un confort immédiat dès le premier pas. • Semelle en caoutchouc XT-900, redessinée pour garantir une plus grande flexibilité, résistance et adhérence. • Mesh technique premium, respirant et agréable au toucher. Idéales pour les sorties quotidiennes. Ce modèle est vegan et contient des matériaux recyclés. Composition Dessus / tige : tissu et synthétique Semelle intérieure : tissu Semelle extérieure : caoutchouc Doublure : tissu Caractéristiques techniques G-foam PWRRUN PB SRS XT-900",
+    "price": 79.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-de-running-saucony-triumph-23-plusieurs-coloris-3432076",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oD4Wv/3432076_1/re/1200x1200/qt/90/3432076_1.jpg",
+    "detected_at": "2026-10-14T05:37:45+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 79.99,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Parapluie pliant Isotoner",
+    "description": "5,99€ - E.Leclerc Parapluie de marque isotoner différentes couleurs disponibles. Apportez une touche de couleur et de gaité aux jours de pluie ! Ce parapluie pliant allie élégance et praticité pour vous protéger des intempéries avec style. Arborant une jolie teinte, il devient un véritable accessoire de mode indispensable lors de vos déplacements.",
+    "price": 5.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/parapluie-pliant-isotoner-divers-coloris-3432074",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/k78zF/3432074_1/re/1200x1200/qt/90/3432074_1.jpg",
+    "detected_at": "2026-10-14T05:33:32+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coffret Bande dessinée Goldorak Silver",
+    "description": "24,90€ - Amazon Coffret de la BD Goldorak en édition Silver avec un fourreau (effet vernis) + 3 ex-libris Spécifications ASIN: B0C8CGD62Q Éditeur: KANA Date de publication: 27 octobre 2023 Édition: 4e Langue: Français Nombre de pages de l'édition imprimée: 167 pages Poids de l'article: 1,2 Kilograms Dimensions: 21.8 x 2.3 x 30.9 cm Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Livres : Commentaires client",
+    "price": 24.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/coffret-bande-dessinee-goldorak-silver-3432064",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/e3o5N/3432064_1/re/1200x1200/qt/90/3432064_1.jpg",
+    "detected_at": "2026-10-14T05:31:46+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 24.9,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Aspirateur balai Laveur Dreame H12 Pro Ultra - Aspiration 16000Pa, Lavage 60 °C séchage 30 min",
+    "description": "179€ - Amazon Version améliorée du H12 Pro Lavage de la brosse haute température à 60 °C et séchage à l'air chaud: Une brosse plus avancée avec nettoyage et stérilisation automatiques avec de l'eau chaude à 60 °C, suivis d'un séchage à l'air chaud, pour éliminer les taches d'huile et les mauvaises odeurs sans avoir à frotter manuellement Trois modes de fonctionnement pour un nettoyage polyvalent: Personnalisez vos besoins de nettoyage avec un mode Auto pour un nettoyage de base, un mode Ultra pour un nettoyage en profondeur et un mode Aspiration qui aspire les liquides pour un nettoyage optimal Nettoyage des deux bords optimisé: La brosse nettoie en profondeur le long des plinthes et dans les coins, ce qui facilite plus que jamais l'entretien des zones difficiles d'accès Aspiration de 16 000 Pa, brosse à 520 tr/min: Le H12 Pro Ultra bénéficie d'une aspiration de 16 000 Pa pour éliminer les saletés humides et sèches; Entraîné par un moteur à plus de 104 000 tr/min, ce puissant aspirateur fonctionne à 520 tr/min, pour un lavage plus rapide et moins de traces Nettoyage automatique à double rotation avec racleur résilient: La brosse démêle et reste propre en tournant dans le sens horaire et dans le sens inverse, comme lors d'un lavage à la main; Avec son racleur résilient à dents de peigne, la brosse extrait facilement les poils emmêlés Comprend une bouteille de 500 ml de solution nettoyante AWH10 Spécifications Marque: dreame Caractéristique spéciale: Aspiration de 16 000 Pa, Détection de Saleté, Lavage de la brosse à 60 °C, Réservoir d'eau 0.9L/0.7L, Séchage à l'air chaud 30 Min Voir plus Type de filtre: Tissu Recommandation de surface: Sol dur Source d'alimentation: Alimenté par batterie Tension: 12 Volts Composants inclus: Adaptateur, Kit d'accessoire, Station de chargement Sans fil ?: Oui Poids de l'article: 5,1 Kilogrammes Capacité: 900 ml Caractéristiques spéciales: Aspiration de 16 000 Pa, Détection de Saleté, Lavage de la brosse à 60 °C, Réservoir d'eau 0.9L/0.7L, Séchage à l'air chaud 30 Min Aspiration maximale: 16000 Millimètres Usages recommandés pour le produit: Wet&Dry Couleur: H12 Pro Ultra Niveau de bruit: 76 Décibels Style: H12 Pro Ultra Nombre de vitesses: 3 Portable: Oui Nombre de niveaux de puissance: 3 Utilisation extérieure ou intérieure: Intérieur Nombre de roues: 2 Source d'energie: Alimenté par batterie Le produit est-il sans fil ?: Oui Électrique: Non Dimensions de l'article L x l x H: 27,5L x 25,2l x 112,1H centimètres Type de dispositif de commande: Commande par pavé tactile Méthode de contrôle: Tactile Nom du modèle: H12 Pro Ultra Numéro de modèle: HHR25B Pays d'origine: Chine Fabricant: Dreame Nombre d' articles: 1 Unité de comptage: 1.0 unité Année de fabrication: 2024 Nom du type du produit: Dreame H12 Pro Ultra Aspirateur eau et Poussière Coordonnées du fabricant: Dreame Trading (Tianjin) Co., Ltd. Address: Room 2112-1-1, South District, Finance and Trade Center, No.6975 Yazhou Road, Dongjiang Bonded Port Area, Tianjin Pilot Free Trade Zone, Tianjin, China Contact: legal@dreame.tech Classement des meilleures ventes d'Amazon: 551 en Cuisine et Maison (Voir les 100 premiers en Cuisine et Maison) 10 en Aspirateurs balais et balais électriques ASIN: B0D793B2WV Moyenne des commentaires client: 4,0 4,0 sur 5 étoiles (1 735) 4,0 sur 5 étoiles Puissance en watts: 300 Watts Temps de charge: 4 heures Type de batterie: Lithium-ion Durée de vie de la batterie: 35 minutes Durée d'exécution: 35 minutes Facteur de forme: Portatif Nombre de poignées: 1 Commentaires client",
+    "price": 179.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/dreame-h12-pro-ultra-aspirateur-laveur-aspiration-16-000pa-lavage-60-c-sechage-30-min-nettoyage-auto-brosse-2-bords-3432061",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wHhVm/3432061_1/re/1200x1200/qt/90/3432061_1.jpg",
+    "detected_at": "2026-10-14T05:30:30+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 179.0,
+        "observed_at": "2026-10-14T06:00:21.362397+00:00"
       }
     ]
   },
@@ -11498,258 +11796,6 @@
       {
         "price": 31.58,
         "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Fallout 4: Game of the Year Edition sur PC (dématérialisé)",
-    "description": "9,99€ - GOG Fallout 4: Game of the Year Edition comprend le jeu de base et tous les add-ons suivants : Far Harbor - Une nouvelle affaire vous attend à l'agence de détectives Valentine, une affaire pour laquelle vous devrez retrouver une jeune femme et une colonie secrète de synthétiques. Partez de la côte du Maine en direction de la mystérieuse île de Far Harbor. Le niveau élevé de radiation sur l'île en a fait une zone bien plus sauvage que ce que vous avez pu voir jusqu'à présent. Automatron - Le mystérieux Mécaniste a lâché une horde de robots destructeurs dans le Commonwealth, dont le très dangereux Cérébrobot. Partez à leur recherche puis récupérez leurs pièces pour construire vos propres compagnons robotisés. Nuka-World - Découvrez Nuka-World, un parc d'attractions devenu terrain de jeu des pillards. Explorez une nouvelle région, avec son vaste désert et ses parcs : l'Aventure Safari, Dry Rock Gulch, le Royaume des Petits et la Zone Galactique. Wasteland Workshop - Avec Wasteland Workshop, vous pouvez fabriquer et placer des pièges pour capturer des êtres vivants, qu'il s'agisse de pillards comme d'écorcheurs ! Dressez-les, organisez des combats ou attaquez les autres colons avec ! Contraptions Workshop - Des machines pour classer ! Des machines pour construire ! Des machines pour combiner ! Avec Fallout 4 Contraptions, utilisez courroies, échafaudages, kits et fonctions logiques pour créer des gadgets aussi complexes que délirants et améliorer vos colonies. Vault-Tec Workshop - Bâtissez un futur radieux, en sous-sol, avec Vault-Tec Workshop. Créez un abri immense, attirez de nouveaux habitants grâces aux kits industriels d'avant-guerre : mobilier rétro, éclairages et art. Bethesda Game Studios, studio de développement maintes fois récompensé à l'origine de Fallout 3 et de The Elder Scrolls V: Skyrim, vous invite à découvrir Fallout 4, leur titre le plus ambitieux à ce jour incarnant la nouvelle génération du jeu en monde ouvert. Dans la peau du seul survivant de l'abri 111, vous émergez dans un monde dévasté par une guerre nucléaire. Votre survie sera un combat de tous les instants et vos choix façonneront votre destin. Vous seul avez le pouvoir de faire entrer les Terres désolées dans une nouvelle ère. Bienvenue chez vous. ÉLEMENTS CLES : Liberté totale ! Jouissez d'une liberté d'action sans précédent dans un monde ouvert offrant des centaines de lieux, de personnages et de quêtes. Rejoignez plusieurs factions dans leur combat pour la suprématie ou forgez votre destinée en loup solitaire, c'est à vous seul de décider. Vous êtes S.P.E.C.I.A.L. ! Incarnez le personnage que vous voulez grâce au système S.P.E.C.I.A.L. Soldat en armure assistée ou baratineur charismatique, choisissez parmi des centaines d'aptitudes et développez votre propre style de jeu. Des pixels de toute beauté ! Un tout nouveau moteur graphique et une gestion des éclairages de nouvelle génération donnent vie au monde de Fallout comme jamais auparavant. Des forêts dévastées du Commonwealth aux ruines de Boston, chaque lieu fourmille de détails dynamiques. Violence et SVAV ! Les combats intenses à la première ou à la troisième personne peuvent aussi être ralentis grâce au nouveau Système de Visée Assistée Vault-Tec (SVAV) dynamique, qui vous permet de choisir vos attaques avant de profiter du carnage comme si vous y étiez. Amassez et fabriquez ! Trouvez, améliorez et créez des milliers d'objets grâce au système de fabrication le plus sophistiqué jamais conçu. Armes, armures, substances chimiques et nourriture ne sont qu'une infime partie des possibilités : vous pourrez même construire et gérer des colonies entières ! Pourquoi acheter sur GOG.com ? SANS DRM . Aucune activation ou connexion en ligne requise pour jouer. Satisfaction et sécurité . Excellent support client et remboursement complet jusqu'à 30 jours.",
-    "price": 9.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/fallout-4-game-of-the-year-edition-sur-pc-dematerialise-3431792",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ymFHQ/3431792_1/re/1200x1200/qt/90/3431792_1.jpg",
-    "detected_at": "2026-10-13T14:39:26+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 3 Thermomètres et hygromètre connecté Wi-Fi Govee",
-    "description": "46,99€ - Govee Offre pour 3 thermo-hygrometres connectés Bon plan supplémentaire : en s'inscrivant à la newsletter Govee, ou avec un code parrainage les nouveaux clients peuvent recevoir un bon de réduction de 5 € sur leur première commande. Soit 41.99 euros fdp inclus Pour ceux qui veulent savoir si leur cave est idéale pour conserver du vin… ou plutôt pour cultiver des champignons Le Govee H5179 permet de surveiller à distance la température et l'humidité de sa cave, de son garage, de sa chambre ou de tout autre espace, directement depuis son smartphone. Caractéristiques : Connexion Wi-Fi 2,4 GHz et Bluetooth, sans passerelle supplémentaire ️ Précision annoncée : ±0,3 °C et ±3 % d'humidité Suivi à distance via l'application Govee Home Alertes personnalisables en cas de dépassement des seuils Historique des mesures et exportation des données jusqu'à 2 ans Fonctionne avec 3 piles AA, autonomie annoncée d'environ 7 mois",
-    "price": 46.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/thermometre-et-hygrometre-connecte-wi-fi-govee-3431791",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Zf3z8/3431791_1/re/1200x1200/qt/90/3431791_1.jpg",
-    "detected_at": "2026-10-13T14:38:03+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "price_history": [
-      {
-        "price": 46.99,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac moto LOBOO Wanderer - 50 litres, support rigide interne, fermeture magnétique, système Molle",
-    "description": "106,99€ - JoyBuy Sac en concurrence directe avec le Overlander de chez LoneRider mais qui vaut le double de ce prix :D Caractéristiques & Spécifications : Découvrez le Wanderer. LOBOO a résolu le problème du « sac mou » en intégrant une plaque de support amovible en forme de U . Ce sac garde sa forme qu’il soit plein ou vide. Associé à une fermeture roulante magnétique brevetée et un séparateur interne humide/sec, c’est le système ultime « prêt-à-partir » pour les motards ADV sérieux. Pourquoi ce sac surpasse les sacs de voyage classiques : Fermeture roulante magnétique brevetée : Oubliez la lutte avec le velcro qui se bouche de boue. L’ouverture intègre une bande magnétique qui se ferme automatiquement, rendant le processus « rouler et clipser » 3 fois plus rapide. Séparation interne humide/sec : Une poche interne dédiée sépare votre serviette mouillée ou votre linge sale de vos vêtements propres. Fini les chaussettes humides au camp[cite : 41, 42]. Il respire (quand vous le souhaitez) : Équipé d’une valve d’air latérale. Ouvrez-la pour expulser l’air en excès et compacter la charge, puis refermez-la pour sceller le vide. Maintient votre chargement serré et stable[cite : 59]. Mode sac à dos : Une fois garé, déployez les bretelles doubles cachées et portez-le comme un sac à dos. Parfait pour randonner jusqu’à ce camp isolé ou entrer dans un hôtel. Compatible MOLLE : Besoin de plus d’équipement ? Le système MOLLE externe découpé au laser vous permet d’attacher facilement trousses de premiers secours, bouteilles de carburant ou outils. [shortcode id=\"20619140\"/]",
-    "price": 106.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-moto-loboo-wanderer-50-litres-support-rigide-interne-fermeture-magnetique-systeme-molle-3431790",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DQ77v/3431790_1/re/1200x1200/qt/90/3431790_1.jpg",
-    "detected_at": "2026-10-13T14:36:58+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "price_history": [
-      {
-        "price": 106.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Transavia Holidays] Offre spéciale famille sur les séjours vol + hôtel",
-    "description": "Transavia Holidays [Transavia Holidays] 100 € de réduction dès 999 € d'achat sur les vacances d'hiver avec le code HIVER100 Envie de prendre le soleil cet hiver en famille ? Transavia Holidays propose 100 € de réduction dès 999 € d'achat sur les séjours éligibles avec le code promo HIVER100 . ✈️ Les détails de l'offre : Réduction : 100 € ️ Code promo : HIVER100 Minimum d'achat : 999 € Dates de séjour : du 7 décembre 2026 au 22 février 2027 inclus Pour préparer des vacances au soleil pendant l'hiver Lien vers l'offre : https://holidays.transavia.fr/fr-FR/merch/PROMOFAMILLE?actionid=ALORI02H-000LKP&partnercode=TOFR&utm_campaign=13102026&utm_content=CTA&utm_medium=email_dem&utm_source=dem&utm_term=2026-10-13-DEM-Lancement-code-promo_NOTIFY Exemple : pour un séjour éligible à 999 €, la réduction de 100 € représente environ 10 % d'économie. À vérifier au moment de la réservation : destinations et dates éligibles, conditions d'application du code et prix final du séjour. Bonnes vacances ! ☀️",
-    "price": 999.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/transavia-holidays-offre-speciale-famille-sur-les-sejours-vol-hotel-3431789",
-    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/4437_1/re/1200x1200/qt/90/4437_1.jpg",
-    "detected_at": "2026-10-13T14:36:56+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 999.0,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Selection de jeux Lego en promotion sur Xbox Series X|S & Xbox One (Dématérialisé) Ex: La Grande Aventure Lego (Dématérialisé)",
-    "description": "3,49€ - Xbox Store Promotion sympathique sur plusieurs jeux LEGO sur Xbox Series XS & Xbox One. La grande aventure LEGO à 3.49€ -> https://www.xbox.com/fr-FR/games/store/grande-aventure-lego/c42ggwf64wh8 Test de unautreblog -> https://www.unautreblog.com/2014/04/18/test-lego-la-grande-aventure-sur-ps4/ LEGO Marvel Super Heroes à 5.49€ -> https://www.xbox.com/fr-FR/games/store/lego-marvel-super-heroes/bzgz3g053nth Test de aquab0n -> https://aquab0n.fr/2013/12/test-lego-marvel-super-heroes.html LEGO Jurassic World à 4.99€ -> https://www.xbox.com/fr-FR/games/store/lego-jurassic-world/bptwsrmjh2jf Test de johncouscous -> https://www.johncouscous.com/2015/08/07/test-lego-jurassic-world-sur-ps4/ LEGO Worlds à 4.49€ -> https://www.xbox.com/fr-FR/games/store/lego-worlds/bwpv4qxw8w2c Test de culturellementvotre -> https://culturellementvotre.fr/2017/03/26/test-playstation-4-lego-worlds-un-charmant-bric-a-brac/ LEGO Le Hobbit à 3.99€ -> https://www.xbox.com/fr-FR/games/store/lego-le-hobbit/bxzsx21x0s7x Test de PSMag -> https://www.psmag.fr/fichejeu-1275-2-lego-le-hobbit.html LEGO CITY Undercover à 5.99€ -> https://www.xbox.com/fr-FR/games/store/lego-city-undercover/bs5rxll3wq2j Test de succesone -> https://www.succesone.fr/tous-les-tests/lego-city-undercover/ LEGO DC Super-Vilains à 5.99€ -> https://www.xbox.com/fr-FR/games/store/lego-dc-super-vilains/bqxvsgcx6k8w Test de culturellementvotre -> https://culturellementvotre.fr/2018/10/31/test-lego-dc-super-vilains-plus-interessant-quespere/ LEGO Star Wars : La Saga Skywalker à 8.99€ -> https://www.xbox.com/fr-FR/games/store/lego-star-wars-la-saga-skywalker/9njn1mc1x5fk Test de M2 Gaming -> https://m2gaming.ca/microsoft/xbox-series-x-s/test-lego-star-wars-the-skywalker-saga-xbs-xb1-ps5-ps4-switch-pc LEGO Harry Potter Collection à 7.99€ (UNIQUEMENT SERIES X/S) -> https://www.xbox.com/fr-FR/games/store/lego-harry-potter-collection/9n8x5m303lb4 Test de legeekparesseux -> https://legeekparesseux.fr/test-gaming/lego-harry-potter-collection/",
-    "price": 3.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-jeux-lego-en-promotion-sur-xbox-series-xs-xbox-one-dematerialise-ex-grande-aventure-lego-3431788",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/p5k8O/3431788_1/re/1200x1200/qt/90/3431788_1.jpg",
-    "detected_at": "2026-10-13T14:36:02+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 3.49,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      }
-    ]
-  },
-  {
-    "title": "30% remboursés sur la carte sur une sélection d'huiles essentielles Puressentiel - Ex : Citronnelle de java bio 10ml (via 0,76€ de fidélité)",
-    "description": "1,80€ - E.Leclerc 30% remboursés sur la carte sur une sélection d'huiles essentielles Puressentiel - Ex : Citronnelle de java bio 10ml ( via 0,76€ fid) lien vers tous les produits en promo Découvrez l’huile essentielle de Citronnelle de Java Bio Puressentiel, une huile essentielle issue de l’agriculture biologique, reconnue pour son parfum frais, citronné et puissant. Pratique grâce à son format de 10 ml, elle s’intègre facilement à votre quotidien pour profiter de ses propriétés aromatiques. Elle est appréciée notamment pour son utilisation en diffusion, dans le respect des précautions d’emploi. Un indispensable pour les amateurs d’huiles essentielles naturelles et de senteurs fraîches. Détails du produit: L'Huile essentielle Citronnelle de java bio 10ml est une huile essentielle extraite de Cymbopogon winterianus. spécifications du produit : Chémotype : Citronellal, Géraniol, Citronellol Famille : Poacées Organe producteur : Parties aériennes HEBBD : Huile Essentielle Botaniquement et Biochimiquement Définie Produit issu de l'agriculture biologique certifié par ECOCERT FR-BIO-01",
-    "price": 1.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/30-rembourses-sur-la-carte-sur-une-selection-dhuiles-essentielles-puressentiel-ex-citronnelle-de-java-bio-10ml-via-076eur-fid-3431787",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oD5Ec/3431787_1/re/1200x1200/qt/90/3431787_1.jpg",
-    "detected_at": "2026-10-13T14:35:45+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 1.8,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Automatique Herbelin Inspiration (2047AP08) - Acier, Cadran Argenté à Index Romains, Bracelet Cuir Noir, 38mm",
-    "description": "595€ 595,00€ au lieu de 850,00€ soit 255,00€ /30% de réduction :) Description : La Herbelin Inspiration automatique reprend les lignes du boîtier original des années 1950 dessiné par Michel Herbelin. Son boîtier rond de 38 mm en acier inoxydable 316L abrite un cadran argenté à index romains, avec date à 6 h, sous un verre saphir. Elle est animée par le mouvement automatique suisse Sellita SW200-1, qui offre 41 heures de réserve de marche. Le bracelet en cuir noir se ferme par une boucle ardillon traditionnelle, pour un style intemporel de montre habillée. Fabrication française. Caractéristiques : Marque : Herbelin Collection : Inspiration Référence : 2047AP08 Genre : Homme Style : Classique Type de mouvement : Automatique, suisse Calibre : Sellita SW200-1 Réserve de marche : 41 heures Fonctions : Heures, minutes, secondes, date à 6 h Matière du boîtier : Acier inoxydable 316L Taille du boîtier : 38 mm Type de verre : Saphir Couleur du cadran : Argenté, index romains Matière du bracelet : Cuir noir Fermoir : Boucle ardillon Étanchéité : 30 m (3 bar) Poids : 55 g Fabrication : France Garantie : 3 ans (36 mois)",
-    "price": 595.0,
-    "reference_price": 850.0,
-    "discount_percent": 30.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-automatique-herbelin-inspiration-2047ap08-acier-cadran-argente-a-index-romains-bracelet-cuir-noir-38mm-3431786",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oyZcg/3431786_1/re/1200x1200/qt/90/3431786_1.jpg",
-    "detected_at": "2026-10-13T14:35:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 595.0,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Tamagotchi Paradise Neon Planets",
-    "description": "59,99€ - Amazon Je viens de précommander mon Tamagotchi Paradise Neon Planets sur Amazon. Le produit est livré le 21 Novembre, pile pour les cadeaux de Noël ! La couleur est introuvable ailleurs pour le moment",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-tamagotchi-paradise-neon-planets-3431784",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XxhHX/3431784_1/re/1200x1200/qt/90/3431784_1.jpg",
-    "detected_at": "2026-10-13T14:25:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures de trail The North Face Summit Vectiv Sky - Tailles du 38 au 41",
-    "description": "66,39€ - Private Sport Shop Issues de la Summit Series, notre gamme d'élite qui repousse sans cesse les limites, les chaussures de trail Summit VECTIV Sky sont notre modèle le plus léger à ce jour. Grâce à notre nouvelle technologie de mousse et à une plaque en fibre de carbone VECTIV 2.0 assurant la stabilité, elles offrent un excellent retour d'énergie sans sacrifier le confort. Leur forme ajustée avec précision et leur plaque en fibre de carbone garantissent des performances élevées sur terrain technique, tandis que le drop de 4 mm procure une sensation plus naturelle à chaque foulée. Caractéristiques : TIGE : Tige protectrice et respirante Chaussant effet chaussette avec un maintien précis Conçue sur une forme offrant un ajustement précis pour des performances élevées sur terrain technique. SEMELLE : La semelle intermédiaire à profil incurvé VECTIV 2.0 intègre une plaque en fibre de carbone ainsi qu'une conception en fourche au niveau du talon et de l'avant-pied pour une stabilité accrue sur les terrains techniques. Semelle intermédiaire haute performance à fort rebond, dotée d'un insert en Pebax de 4 mm à l'avant-pied Présente un relevé d'orteils supérieur de 10 mm par rapport à la Flight VECTIV. Épaisseur de semelle de 21 mm/17 mm et drop de 4 mm Semelle extérieure en caoutchouc Surface CTRL avec crampons de 3,5 mm La technologie VECTIV associe une plaque 3D et une semelle intermédiaire à profil incurvé pour transformer l'énergie en élan et vous propulser vers l'avant. Surface CTRL : Ce composé de caoutchouc biosourcé pour la semelle extérieure offre une adhérence et une durabilité supérieures.",
-    "price": 66.39,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-de-trail-the-north-face-summit-vectiv-sky-tailles-38-au-41-3431783",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gYeWI/3431783_1/re/1200x1200/qt/90/3431783_1.jpg",
-    "detected_at": "2026-10-13T14:22:51+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 66.39,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "SONGMICS Mini Frigo - Réfrigérateur Portable - 4L - 20,5 x 28 x 29,5 cm - Blanc",
-    "description": "39,99€ - Amazon > Sympa pour la skincare (lipstick) Caractéristiques : Couleur : Blanc Matériau : Alliage d'aluminium, plastique ABS Dimensions : 28 x 20,5 x 29,5 cm (L x l x H) Poids du produit : 1,7 kg Contenu de l’emballage : 1 x Mini réfrigérateur 1 x Câble d'alimentation secteur (230V) 1 x Câble d'alimentation pour voiture (12V) Notes de SONGMICS : Veuillez laisser un espace libre à l'arrière et sur les côtés du mini réfrigérateur pour assurer une bonne ventilation et un refroidissement optimal. Assurez-vous de passer du mode froid au mode chaud uniquement lorsque l'appareil est éteint et a atteint la température ambiante pour protéger le moteur.",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/songmics-mini-frigo-refrigerateur-portable-4l-205-x-28-x-295-cm-blanc-3431781",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ukh1D/3431781_1/re/1200x1200/qt/90/3431781_1.jpg",
-    "detected_at": "2026-10-13T14:20:04+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Smartphone 6.78\" Oneplus 16 - 12GB / 256GB, Version CN",
-    "description": "897€ - Trading Shenzen Le OnePlus 16 allie des performances de jeu puissantes à des fonctionnalités haut de gamme polyvalentes. Un processeur Snapdragon gravé en 2 nm et un écran OLED de 6,78 pouces avec un taux de rafraîchissement allant jusqu'à 185 Hz garantissent une expérience utilisateur fluide. Le système photo LUMO, doté d'un capteur principal de 200 mégapixels et d'un téléobjectif périscopique de 50 mégapixels avec zoom optique 3x, capture les moindres détails. Une batterie imposante de 9 000 mAh, compatible avec la charge rapide 100 W et la charge sans fil 50 W, complète l'ensemble.",
-    "price": 897.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/oneplus-16-12gb-256gb-3431780",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pmOIm/3431780_1/re/1200x1200/qt/90/3431780_1.jpg",
-    "detected_at": "2026-10-13T14:18:26+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 897.0,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaise ergonomique LiberNovo Omni Dynamic",
-    "description": "784,99€ - JoyBuy Promo de 15€ avec coupon via le site Le LiberNovo Omni Dynamic est un siège ergonomique de bureau haut de gamme, largement reconnu comme l'un des premiers fauteuils ergonomiques actifs et motorisés au monde . Lancé avec un immense succès sur les plateformes de financement participatif, il se distingue par ses technologies actives destinées à soulager le mal de dos lors de longues sessions de travail ou de gaming. [ 1 , 2 , 3 , 4 ] Caractéristiques majeures Dossier Bionic FlexFit : Composé de plusieurs panneaux flexibles et de dizaines de points de pivot (16 pivots sur le modèle Gen), le dossier épouse fidèlement la courbure naturelle de la colonne et accompagne chaque mouvement en direct. [ 1 , 2 , 3 ] Support lombaire motorisé ErgoPulse : Contrairement aux chaises passives, l'Omni intègre un piston électrique alimenté par une batterie rechargeable (autonomie moyenne de 30 jours). Il permet d'ajuster précisément la pression sur le bas du dos directement depuis des boutons placés sur l'accoudoir. [ 1 , 2 , 3 ] Mode OmniStretch (Massage & Décompression) : Une fonction intégrée active un cycle de mouvement robotisé de 5 minutes qui fait \"respirer\" le dossier. Ce système exerce des pressions subtiles pour décompresser la colonne vertébrale et relâcher le bassin sans avoir à quitter son bureau. [ 1 , 2 ] Mécanisme SyncroLink & Alignement d'écran : Lors de l'inclinaison (ajustable de 105° à 160° sur 4 ou 5 positions selon la version), l'assise, les accoudoirs 4D et l'appui-tête 3D bougent à l'unisson. L'appui-tête s'ajuste automatiquement afin de maintenir le regard horizontal face à l'écran plutôt que vers le plafond. [ 1 , 2 , 3 , 4 , 5 ] Ventilation active (sur versions Pro / Airflow) : Intègre un système de ventilation centrifuge à l'intérieur de l'assise pour réguler la température corporelle. [ 1 , 2 ]",
-    "price": 784.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/libernovo-omni-dynamic-chaise-ergonomique-3431778",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ydba8/3431778_1/re/1200x1200/qt/90/3431778_1.jpg",
-    "detected_at": "2026-10-13T14:15:21+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "price_history": [
-      {
-        "price": 784.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
       }
     ]
   }
