@@ -1,5 +1,131 @@
 [
   {
+    "title": "Madison Park Essentials Parure...ns, Polyester, Bleu, Grand lit",
+    "price": 104.74,
+    "reference_price": 200.79,
+    "discount_percent": 47.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01B4NH248",
+    "image_url": "https://m.media-amazon.com/images/P/B01B4NH248.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 19:55:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 104.74,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "GYS - positionneur MAGNECTIC D30.90",
+    "price": 25.83,
+    "reference_price": 29.95,
+    "discount_percent": 13.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00IB706TY",
+    "image_url": "https://m.media-amazon.com/images/P/B00IB706TY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 19:55:40",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 25.83,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Gooby Chaque Jour en Polaire p... pour Chiens de Petite Taille,",
+    "price": 8.29,
+    "reference_price": 18.61,
+    "discount_percent": 55.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00FJ1E3ZS",
+    "image_url": "https://m.media-amazon.com/images/P/B00FJ1E3ZS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 19:55:39",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.29,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DL SERVICE Filtre à charbon po... F0049 dimensions 275 x 245 mm",
+    "price": 26.18,
+    "reference_price": 27.89,
+    "discount_percent": 6.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F3PKTPQG",
+    "image_url": "https://m.media-amazon.com/images/P/B0F3PKTPQG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 19:55:37",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 26.18,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sigma A00124 Bouchon AV Noir",
+    "price": 12.9,
+    "reference_price": 16.82,
+    "discount_percent": 23.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00B5P66LQ",
+    "image_url": "https://m.media-amazon.com/images/P/B00B5P66LQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 19:55:36",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wera 05005410001 Barre magnéti... douilles, 1/4\", 9 pièces Noir",
+    "price": 70.98,
+    "reference_price": 90.37,
+    "discount_percent": 21.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09TL2GS1H",
+    "image_url": "https://m.media-amazon.com/images/P/B09TL2GS1H.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 19:55:35",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 70.98,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
     "title": "Artemio Plateau de Traçage 34, 5 x 23 cm",
     "price": 18.9,
     "reference_price": 26.04,
@@ -6947,6 +7073,10 @@
       {
         "price": 13.56,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 13.56,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -6968,6 +7098,10 @@
       {
         "price": 20.51,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 20.51,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -6989,6 +7123,10 @@
       {
         "price": 8.44,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 8.44,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -7010,6 +7148,10 @@
       {
         "price": 15.99,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -7031,6 +7173,10 @@
       {
         "price": 22.39,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 22.39,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -7052,6 +7198,10 @@
       {
         "price": 13.42,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 13.42,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -7073,6 +7223,10 @@
       {
         "price": 33.36,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 33.36,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -7094,6 +7248,10 @@
       {
         "price": 104.9,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 104.9,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -7115,6 +7273,10 @@
       {
         "price": 4.92,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 4.92,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -10994,139 +11156,125 @@
     ]
   },
   {
-    "title": "C.K Magma MA2740 Ensemble de 3 Pochettes",
-    "price": 11.44,
-    "reference_price": 24.44,
-    "discount_percent": 53.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07R17VD6Z",
-    "image_url": "https://m.media-amazon.com/images/P/B07R17VD6Z.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 07:12:26",
-    "category": "Autre",
+    "title": "Tete de lit en rotin - 162 x 87 - NOZ Givors (69)",
+    "description": "24,99€ - NOZ Tête de lit en rotin naturel 162 x 87 cm à seulement 24.99€ chez NOZ Givors au lieu de 49,99 € ! Belle trouvaille chez NOZ avec cette tête de lit en rotin de 162 x 87 cm, proposée à 49,99 € sur l'étiquette, avec une réduction supplémentaire de 50 % directement en caisse, soit un prix final d'environ 25 € ! Cette tête de lit au style naturel et bohème est idéale pour apporter une touche chaleureuse et tendance à une chambre. Avec sa structure en rotin et ses fines tiges verticales, elle s'intègre parfaitement dans une décoration scandinave, bohème ou même contemporaine. Dimensions : 162 x 87 cm Matière : rotin Prix affiché : 49,99 € Remise : -50 % en caisse ✅ Prix final : environ 25 € Enseigne : NOZ Givors Les modèles présents en magasin sont encore emballés sous film plastique. À ce tarif, c'est une belle occasion de relooker sa chambre à petit prix, surtout pour une tête de lit de cette dimension ! ⚠️ Attention : comme souvent chez NOZ, les stocks et les arrivages peuvent varier selon les magasins. La réduction de 50 % concerne les produits du bac promotionnel signalé en magasin de Givors, il faut vérifier dans votre NOZ.",
+    "price": 24.99,
+    "reference_price": 49.99,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tete-de-lit-en-rotin-162-x-87-givors-69-3432651",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Huq1B/3432651_1/re/1200x1200/qt/90/3432651_1.jpg",
+    "detected_at": "2026-10-14T19:51:11+00:00",
+    "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 11.44,
-        "observed_at": "2026-10-13T07:12:33.878873+00:00"
-      },
-      {
-        "price": 11.44,
-        "observed_at": "2026-10-14T07:46:23.404145+00:00"
+        "price": 24.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
   {
-    "title": "LACOR - 44424 - Poêle en acier...aisselle, Ø24 cm, hauteur 6 cm",
-    "price": 27.81,
-    "reference_price": 39.95,
-    "discount_percent": 30.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0D6RNMN3M",
-    "image_url": "https://m.media-amazon.com/images/P/B0D6RNMN3M.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 06:27:25",
-    "category": "Autre",
+    "title": "Jouet Piratix King Turtle - Articulée, avec Coffre à Trésors",
+    "description": "19€ - Amazon Le Piratix King Turtle est une tortue articulée conçue pour des aventures de capture de Piratix et le rangement de précieux trésors. Ce géant des mers, avec son goût prononcé pour l'aventure et les trésors, promet de longues heures de jeu pour les jeunes corsaires. Proposé par Amazon, ce playset permet aux jeunes aventuriers de plonger dans l'univers des Piratix, où chaque découverte est une nouvelle étape vers la fortune. Type : Tortue articulée avec fonctions de jeu. Mécanique : Bouche ouvrable pour capturer les ennemis, compartiment secret pour les trésors. Fonctionnalité : Mécanisme de puzzle avec pièce exclusive pour l'ouverture du coffre. Contenu : 1 figurine Piratix exclusive, 1 figurine crocodile, 1 trésor exclusif, 2 trésors dorés supplémentaires. Bon à savoir : Mécanique supplémentaire : Capacité à tirer un projectile. Jouabilité : Permet de construire une équipe avec d'autres Piratix (vendus séparément), incluant la figurine exclusive qui peut la chevaucher. Avec ses multiples secrets et interactions, la King Turtle offre une expérience de jeu riche pour les jeunes flibustiers.",
+    "price": 19.0,
+    "reference_price": 30.3,
+    "discount_percent": 37.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jouet-piratix-king-turtle-articulee-avec-coffre-a-tresors-3432652",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aKJrg/3432652_1/re/1200x1200/qt/90/3432652_1.jpg",
+    "detected_at": "2026-10-14T19:50:15+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0G3QJ8B9F?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 19.0,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Poêle Inox Tefal Duetto On - 24 cm, compatible induction, Non revêtu",
+    "description": "24,99€ - Amazon La poêle Tefal Duetto On de 24 cm est un ustensile en acier inoxydable conçu pour saisir, dorer et faire revenir les aliments sur différents types de plaques, dont l’induction. Son format convient à la préparation de portions individuelles ou de petits repas. La base est pensée pour répartir la chaleur sur le fond et la poignée permet de manipuler la poêle pendant la cuisson ; utilisez un gant si elle a chauffé longtemps ou si elle passe au four, après vérification des limites indiquées par Tefal. L’inox se nettoie après refroidissement et peut être entretenu avec des produits adaptés aux surfaces métalliques. Cette référence n’est pas présentée comme antiadhésive : adaptez la température et la matière grasse à la recette.",
+    "price": 24.99,
+    "reference_price": 34.95,
+    "discount_percent": 28.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/poele-inox-tefal-duetto-on-24-cm-compatible-induction-3432650",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SVYrf/3432650_1/re/1200x1200/qt/90/3432650_1.jpg",
+    "detected_at": "2026-10-14T19:50:05+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0FCSCB9FT?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 24.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fauteuil Vintage Mi-Siècle Malol - Fauteuil à Oreilles Rembourré avec Capitonnage Boutonné",
+    "description": "99,99€ - Amazon FAUTEUIL À OREILLES STYLE MID-CENTURY MODERN】 Le dossier capitonné avec boutonnage et les accoudoirs galbés mettent en valeur son style intemporel et élégant. Son dossier moelleux, confectionné à la main avec des coutures décoratives et des détails boutonnés, en fait un meuble unique qui se distingue nettement des productions de série. 【DOSSIER HAUT AVEC CAPITONNAGE BOUTONNÉ ET REMBOURRAGE GÉNÉREUX】 Ce fauteuil dispose d'un dossier haut intégrant un support lombaire, offrant une position assise ergonomique et confortable pour le dos. L'assise est garnie d'une épaisse mousse à haute densité, élastique et résistante, vous garantissant un confort maximal que ce soit pour lire, regarder la télévision ou recevoir des invités. 【HABILLAGE TEXTILE DOUX ET DURABLE D'ASPECT LIN POUR FAUTEUIL D'ACCENT】 Ce fauteuil est entièrement recouvert d'un habillage textile haut de gamme d'aspect lin - extrêmement résistant à l'usure et d'une élégance raffinée. La matière spécialement conçue est particulièrement anti-abrasion, prolongeant ainsi la durée de vie du fauteuil. Son apparence chic d'aspect lin confère en outre une texture agréable au toucher. 【CADRE SOLIDE ET ROBUSTE EN BOIS MASSIF (BOIS D'HÉVÉA)】 Pour une stabilité maximale, ce fauteuil est construit avec un cadre en bois d'hévéa massif, garantissant une résistance extrême même lors d'une utilisation intensive. Sa capacité de charge est de 136 kg (300 lbs). Les pieds avant ronds en forme de citrouille et les pieds arrière galbés sont également réalisés en bois d'hévéa massif. La finition de la teinte met parfaitement en valeur le design élégant du fauteuil.",
+    "price": 99.99,
+    "reference_price": 129.0,
+    "discount_percent": 22.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fauteuil-vintage-mi-siecle-malol-fauteuil-a-oreilles-rembourre-avec-capitonnage-boutonne-3432648",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/7MtyG/3432648_1/re/1200x1200/qt/90/3432648_1.jpg",
+    "detected_at": "2026-10-14T19:45:16+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0GG9ZBLD3?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "The Outer Worlds 2 sur PS5",
+    "description": "17,99€ - Cdiscount Explorez les confins de la galaxie dans The Outer Worlds 2, un jeu de rôle où vos choix façonnent une nouvelle colonie spatiale. Ce titre, développé par Obsidian Entertainment et édité par Xbox Game Studios, est la suite du célèbre RPG de science-fiction sorti en 2019. Il vous plonge dans le système planétaire d'Arcadia, sous l'emprise d'une mégacorporation, où vous incarnez un agent de la Directive Terrestre. *Développeur** : Obsidian Entertainment *Éditeur** : Xbox Game Studios *Genre** : Action RPG, style western *Format** : 1 joueur, mode solo *Perspective** : Première personne, avec passage à la troisième personne Bon à savoir : Installation : Le disque physique contient seulement 1.32 Go de données, nécessitant un téléchargement important pour l'installation complète du jeu. Progression : La narration est non linéaire, influencée par les choix de dialogue et les factions choisies. Nouveautés : Attendez-vous à un nouvel équipage, de nouvelles armes et des ennemis inédits dans une colonie inexplorée. Idéal pour les amateurs de RPG narratifs qui apprécient l'exploration et les quêtes secondaires, ce second opus promet une aventure riche pour les voyageurs spatiaux. Cashback : 3 % via Widilo sur l'achat en ligne (ou jusqu’à 2,5 % via eBuyClub). Taux variable selon les produits, voir les conditions sur le site de cashback.",
+    "price": 17.99,
+    "reference_price": 19.32,
+    "discount_percent": 6.9,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeu-video-xbox-the-outer-worlds-2-sur-playstation-5-disque-3432647",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/756eJ/3432647_1/re/1200x1200/qt/90/3432647_1.jpg",
+    "detected_at": "2026-10-14T19:41:22+00:00",
+    "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 27.81,
-        "observed_at": "2026-10-13T06:27:32.153576+00:00"
-      },
-      {
-        "price": 27.81,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
+        "price": 17.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
   {
-    "title": "Lindy Fibre Optique Duplex LC/LC OM4, 5m",
-    "price": 23.5,
-    "reference_price": 28.93,
-    "discount_percent": 18.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00WDYFZYC",
-    "image_url": "https://m.media-amazon.com/images/P/B00WDYFZYC.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 06:02:27",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 23.5,
-        "observed_at": "2026-10-13T06:02:31.775317+00:00"
-      },
-      {
-        "price": 23.5,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
-      }
-    ]
-  },
-  {
-    "title": "CHERRY DW 9000 SLIM, ensemble ...ppe silencieuse, Blanc argenté",
-    "price": 57.6,
-    "reference_price": 89.08,
-    "discount_percent": 35.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B001NZWI0Q",
-    "image_url": "https://m.media-amazon.com/images/P/B001NZWI0Q.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 05:47:38",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 57.6,
-        "observed_at": "2026-10-13T05:47:42.063795+00:00"
-      },
-      {
-        "price": 57.6,
-        "observed_at": "2026-10-14T06:00:21.362397+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bosch 1000x Agrafes à dos étroit, résinifiées, type 55",
-    "price": 22.85,
-    "reference_price": 29.99,
-    "discount_percent": 23.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B001419E24",
-    "image_url": "https://m.media-amazon.com/images/P/B001419E24.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 04:00:37",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 22.85,
-        "observed_at": "2026-10-13T04:00:40.824102+00:00"
-      },
-      {
-        "price": 22.85,
-        "observed_at": "2026-10-14T04:05:16.314403+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Facom NKD.500 Coffret De Douilles Impact 12 Pans 3/4",
-    "price": 627.84,
-    "reference_price": 848.17,
-    "discount_percent": 26.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00U78PCOY",
-    "image_url": "https://m.media-amazon.com/images/P/B00U78PCOY.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 02:01:50",
+    "title": "Scie Circulaire Filaire Titan TTB874CSW - 1200W, 165mm, 240V",
+    "description": "34,99€ - Screwfix 1 200W Coupe max. : 38mm Lame TCT 24 dents Base en acier et Frein moteur Aucune protection anti-rebond requise Interrupteur de déverrouillage Bouton de blocage de la broche Guide parallèle Démarrage rapide Contenu TTB874CSW, guide parallèle, clé hexagonale et lame TCT. Description de la lame Lame TCT Angles de butée du biseau 0-45° Diamètre de la lame 165 mm Marque Titan Type de moteur électrique Brushed Longueur du câble 2,5 m Malette incluse Non Dispositif de transport Sans dispositif de portage Poids de l'outil filaire 4,4 kg Profondeur maximale de la coupe 38 mm Taille de l'alésage du disque 16 mm Code EAN / GTIN 5059340252094 Longueur du câble 2,5m Manuel ou motorisé Motorisé Fabriqué en France Non Numéro de modèle TTB874CSW Garantie du fabricant Garantie de 2 ans Plus d'infos Nombre de dents 24 Vitesse à vide 5000 tr/min Nombre de dents 24 Puissance de sortie (Watts/Kw) 1200 W Prise incluse Prise incluse Source de courant Électrique Longueur du produit 240 mm Nombre de pièces en lot/boîte 1 Tension 240 V",
+    "price": 34.99,
+    "reference_price": 49.99,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/scie-circulaire-filaire-titan-ttb874csw-1-200w-165mm-240v-3432646",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/wqKCH/3432646_1/re/1200x1200/qt/90/3432646_1.jpg",
+    "detected_at": "2026-10-14T19:41:10+00:00",
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
@@ -11134,12 +11282,118 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 627.84,
-        "observed_at": "2026-10-13T02:01:55.765931+00:00"
-      },
+        "price": 34.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Radiateur Électrique à Inertie Sèche en céramique mural Carrera - 1000W, blanc",
+    "description": "49,99€ - Screwfix Le radiateur électrique à inertie sèche en céramique mural Carrera 1000W blanc est un appareil de chauffage conçu pour une répartition uniforme de la chaleur. *caractéristiques du produit:* - Puissance de 1 000W - Cœur de chauffe en céramique - Boîtier de commande électronique - Affichage numérique - Cadre en acier robuste et durable 450 x 450 mm Garantie 2 ans Construction en métal brillant Design moderne Programmable sur 7 jours et 24 heures Supports et kit de fixation murale solide fournis Allures de chauffe variables Protection contre la surchauffe Commande de thermostat électronique",
+    "price": 49.99,
+    "reference_price": 79.99,
+    "discount_percent": 37.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/radiateur-electrique-a-inertie-seche-en-ceramique-mural-carrera-1000w-blanc-3432645",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/NF5II/3432645_1/re/1200x1200/qt/90/3432645_1.jpg",
+    "detected_at": "2026-10-14T19:32:58+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
-        "price": 627.84,
-        "observed_at": "2026-10-14T02:14:02.361860+00:00"
+        "price": 49.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Station Énergie Mobile Aferiy 256Wh - générateur électrique portable 400W (Vendeur Tiers)",
+    "description": "188,98€ - Amazon Capacité et Puissance Optimales】La capacité de 256Wh et la sortie AC maximale de 400W en font un allié idéal pour vos appareils électroniques. 【Chargement Rapide et Polyvalent】Que ce soit la charge CA de 300W max (plein charge en environ 1,2H), la charge solaire DC5521 de 120W max (plein charge en environ 2,5H) ou la charge via la prise de charge automobile 12V/8A, vous trouverez toujours une solution pour recharger rapidement votre station d'énergie. 【Sorties USB Puissantes】Dispose de sorties USB-A QC3.0 18W max, Type-C PD 20W max et Type-C PD 100W max, offrant des options de charge rapides et adaptées pour vos smartphones, tablettes et ordinateurs portables. 【Confort et Sécurité d'Usage】Supporte le mode UPS (moins de 10ms), ce qui signifie que vos appareils ne subiront pas d'interruption d'alimentation en cas de panne. Prend également en charge et décharge simultanément, offrant une flexibilité d'utilisation. 【Design Pratique】Mesurant 259x174x201mm et pesant seulement 4kg, elle est facile à transporter. Son emballage contient un câble d'alimentation de 1,5m, un câble MC4 vers DC5521 de 0,6m, un manuel d'utilisation, et une carte de garantie prolongée. Spécifications Marque: AFERIY Puissance en watts: 400 Watts Type de carburant: Solaire Source d'alimentation: Alimenté par l'énergie solaire Poids de l'article: 4 Kilogrammes Puissance de sortie: 400 Watts Type de moteur: autre Type de système d'allumage: Démarrage au démarrage Nombre total de prises de courant: 1 Puissance maximale du moteur: 400 Watt Type d’alimentation: Solaire Source d'energie: Alimenté par l'énergie solaire Prises électriques totales: 1 Pic de puissance au démarrage: 400 Watt Puissance de fonctionnement: 400 Watt Fréquence: 50 Hz Durée d'exécution: 37 minutes Numéro du modèle: AFERIY 400W Nombre d’articles dans l'unité vendue au client: 1 Fabricant: AFERIY Classement des meilleures ventes d'Amazon: 20224 en Jardin (Voir les 100 premiers en Jardin) 61 en Groupes éléctrogènes ASIN: B0FC28HF16 Moyenne des commentaires client: 4,6 4,6 sur 5 étoiles (190) 4,6 sur 5 étoiles Commentaires client",
+    "price": 188.98,
+    "reference_price": 206.0,
+    "discount_percent": 8.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/station-energie-mobile-256whgenerateur-electrique-portable-400w-vendeur-tiers-3432644",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/iPsOm/3432644_1/re/1200x1200/qt/90/3432644_1.jpg",
+    "detected_at": "2026-10-14T19:31:12+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 188.98,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sac à dos randonnée Deuter Speed Lite - 25L",
+    "description": "89,99€ - Decathlon DEUTER Speed Lite 25 L – Sac à dos de randonnée Léger, confortable et fonctionnel, le Deuter Speed Lite 25 L est conçu pour les randonnées à la journée et les sorties en montagne. Avec ses 25 litres de capacité et son poids de seulement 830 g, il permet d’emporter l’essentiel sans s’encombrer. Les points forts : Très léger : seulement 830 g , pour limiter le poids porté pendant les longues marches. Capacité de 25 L : un volume adapté aux sorties à la journée, pour transporter vêtements, ravitaillement, accessoires et matériel indispensable. ️ Dos respirant : le rembourrage ergonomique en 3D Air Mesh favorise la circulation de l’air et améliore le confort de portage. Armature flexible : le cadre en U tendu en Delrin® apporte de la souplesse à la structure tout en contribuant au maintien du sac. Portage ajustable : les sangles permettent d’adapter le sac à votre morphologie et de stabiliser son contenu pendant la marche. ️ Rangement pratique : compartiment principal avec fermeture zippée pour organiser facilement vos affaires. Conception sans PFC : Deuter limite l’utilisation de ces substances chimiques dans la fabrication du sac. ️ Polyvalent : idéal pour la randonnée à la journée, les balades en montagne et les sorties où la légèreté est un véritable avantage. Dimensions : environ 63 × 27 × 22 cm . Un sac de randonnée léger et confortable , parfait pour partir à la journée avec l’essentiel tout en privilégiant la liberté de mouvement.",
+    "price": 89.99,
+    "reference_price": 119.99,
+    "discount_percent": 25.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-randonnee-25l-deuter-speed-lite-3432643",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/druhD/3432643_1/re/1200x1200/qt/90/3432643_1.jpg",
+    "detected_at": "2026-10-14T19:30:44+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Home Trainer Van Rysel RCR connecté avec \"Zwift Cog and Click\"",
+    "description": "539,99€ - Decathlon VAN RYSEL RCR – Home trainer connecté avec Zwift Cog & Click Transformez votre vélo en véritable machine d’entraînement à domicile ! Ce home trainer à transmission directe est conçu pour les cyclistes qui souhaitent travailler leur endurance, leur puissance et leur intensité toute l’année, avec une résistance intelligente et une compatibilité avec les plateformes d’entraînement virtuel. Les points forts : ⚡ Puissance maximale de 2 800 W : de quoi accompagner les séances exigeantes, les accélérations et les efforts intenses. ⛰️ Simulation de pente jusqu’à 27 % : la résistance s’adapte au parcours virtuel pour reproduire les difficultés des ascensions. Zwift Cog & Click inclus : le pignon Zwift Cog de 14 dents et la commande Zwift Click permettent de changer virtuellement de vitesse depuis le cintre, avec 24 niveaux de résistance accessibles. Précision de puissance de ± 1 % : des données fiables pour suivre vos efforts et structurer vos entraînements. Connectivité Bluetooth et ANT+ : compatible avec les smartphones, tablettes et ordinateurs, sous iOS, Android, Windows et macOS, pour utiliser les applications d’entraînement compatibles. Fonctionnement silencieux : niveau sonore annoncé de seulement 56 dB à 25 km/h , mesuré à 1,5 m. Auto-alimenté en pédalant : il génère l’énergie nécessaire à son fonctionnement lorsque vous roulez, sans dépendre systématiquement d’une prise électrique. Connexion Ethernet et USB-C : lorsqu’il est branché, l’Ethernet permet une communication filaire réactive ; le port USB-C peut également recharger des appareils compatibles jusqu’à 36 W. Large compatibilité vélo : conçu pour les vélos équipés de transmissions Shimano, SRAM ou Campagnolo de 8 à 12 vitesses, avec compatibilité des axes rapides et traversants selon les dimensions prévues. ️ Installation simplifiée : aucun étalonnage n’est nécessaire selon le fabricant. Le système à transmission directe évite d’avoir à installer la roue arrière sur un rouleau. Un home trainer puissant, précis et connecté , idéal pour maintenir sa forme, préparer ses objectifs cyclistes et profiter des parcours virtuels sans dépendre de la météo.",
+    "price": 539.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/home-trainer-van-rysel-rcr-connecte-avec-zwift-cog-and-click-3432641",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cep4g/3432641_1/re/1200x1200/qt/90/3432641_1.jpg",
+    "detected_at": "2026-10-14T19:26:08+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 539.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection de Lunettes de Soleil Marc Jacobs en promotion",
+    "description": "Privé by Zalando Grosse vente Marc Jacobs en ce moment sur Privé by Zalando : 188 paires de lunettes de soleil de la marque, de 56,90 €, avec des réductions qui vont jusqu'à environ -67 % par rapport au prix de vente conseillé. Beaucoup de coloris disponibles, dont plusieurs modèles unisex. Quelques exemples relevés dans la vente : ️ Lunettes de soleil - Noir et rose : 56,90 € ️ Lunettes de soleil SUN - Gris : 58,90 € ️ Lunettes de soleil - Blanc : 61,90 € ️ Lunettes de soleil - Écru : 62,90 € ️ Lunettes de soleil - Rouge : 63,90 € ️ Lunettes de soleil JAR SUN - Violet : 73,90 € ️ Lunettes de soleil MJ 1117/S - Beige : 77,90 € ️ Lunettes de soleil - Noir : 90,90 € ️ Lunettes de soleil MARC 753/S - Marron : 115 € ️ Lunettes de soleil MARC 761/S - Noir : 129 € Privé by Zalando est le site de ventes privées de Zalando : l'inscription est gratuite (ou connexion directe avec un compte Zalando) et elle est nécessaire pour voir les prix. Les frais d'emballage et de manutention ne sont pas inclus dans les prix affichés. Les ventes sont limitées dans le temps et les stocks aussi, certains articles sont déjà réservés.",
+    "price": 78.5,
+    "reference_price": 157.0,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/selection-de-lunettes-de-soleil-marc-jacobs-en-promotion-3432640",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/U4jyn/3432640_1/re/1200x1200/qt/90/3432640_1.jpg",
+    "detected_at": "2026-10-14T19:25:47+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 78.5,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -11189,7 +11443,7 @@
   },
   {
     "title": "Stream Controller Deck upHere - 15 Touches, Pavé Visuel Personnalisable pour OBS/Twitch/Youtube/Streamlabs, PC et Mac",
-    "description": "69,99€ - Amazon 【15 Touches Macro LCD Personnalisables】: 15 Touches LCD Haute Définition Prennent En Charge Des Icônes Statiques Ou Animées. Idéales Pour Les Créateurs De Contenu, Les Youtubeurs, Les Joueurs Et Les Employés De Bureau Pour Personnaliser Des Macros, Raccourcis, Textes Ou Applications – Reconnaissez Les Fonctions En Un Coup D'œil, Sans Nécessité De Mémorisation Complexe. 【1000+ Plugins & Icônes Extensibles】: Accédez À Plus De 1000 Plugins Et Icônes Personnalisables Depuis Le Market Space (Marché D'applications Du Produit). La Bibliothèque Est Régulièrement Mise À Jour Pour Répondre À Vos Besoins Évolutifs Et Améliorer La Facilité D'utilisation. 【Workflow En Un Clic & Compatibilité Multi-Logiciels】: Assignez Des Opérations Complexes À Plusieurs Étapes À Une Seule Touche Pour Un Gain De Temps Maximum. Fonctionne En Parfaite Harmonie Avec OBS, Streamlabs, Discord, Spotify Et Bien D'Autres, Sans Configuration Complexe Requise. 【Large Compatibilité Système】: Design Plug And Play, Entièrement Compatible Avec Windows 10+ Et macOS 11.0+. S'adapte Parfaitement À Votre PC Ou Mac, Offrant Une Expérience Utilisateur Fluide Et Sans Contrainte. 【5 Angles Pliables Ajustables】: 5 Angles Pliables Ajustables Intégrés. Ajustez Facilement À La Position D'utilisation La Plus Confortable, Améliorez L'ergonomie Et Réduisez La Fatigue Liée À Une Utilisation Prolongée.",
+    "description": "69,99€ - Amazon 【15 Touches Macro LCD Personnalisables】: 15 Touches LCD Haute Définition Prennent En Charge Des Icônes Statiques Ou Animées. Idéales Pour Les Créateurs De Contenu, Les Youtubeurs, Les Joueurs Et Les Employés De Bureau Pour Personnaliser Des Macros, Raccourcis, Textes Ou Applications – Reconnaissez Les Fonctions En Un Coup D'œil, Sans Nécessité De Mémorisation Complexe. 【1000+ Plugins & Icônes Extensibles】: Accédez À Plus De 1000 Plugins Et Icônes Personnalisables Depuis Le Market Space (Marché D'applications Du Produit). La Bibliothèque Est Régulièrement Mise À Jour Pour Répondre À Vos Besoins Évolutifs Et Améliorer La Facilité D'utilisation. 【Workflow En Un Clic & Compatibilité Multi-Logiciels】: Assignez Des Opérations Complexes À Plusieurs Étapes À Une Seule Touche Pour Un Gain De Temps Maximum. Fonctionne En Parfaite Harmonie Avec OBS, Streamlabs, Discord, Spotify Et Bien D'Autres, Sans Configuration Complexe Requise. 【Large Compatibilité Système】: Design Plug And Play, Entièrement Compatible Avec Windows 10+ Et macOS 11.0+. S'adapte Parfaitement À Votre PC Ou Mac, Offrant Une Expérience Utilisateur Fluide Et Sans Contrainte. 【5 Angles Pliables Ajustables】: 5 Angles Pliables Ajustables Intégrés. Ajustez Facilement À La Position D'utilisation La Plus Confortable, Améliorez L'ergonomie Et Réduisez La Fatigue Liée À Une Utilisation Prolongée. Spécifications Marque: upHere Appareils compatibles: Ordinateurs Portables, PC Description du clavier: Jeu Utilisations recommandées pour le produit: Jeu, Multimédia Caractéristique spéciale: Affichage numérique, Programmable Composants inclus: Cable USB-A/C vers USB-C,1,5 m (4,92 f), Manuel de l'utilisation, Stream Controller Disposition du clavier: AZERTY Orientation des mains: Ambidextre Version minimale requise du système d’exploitation: Windows 10 appareils compatibles: Ordinateurs Portables, PC Fonctionnalités du produit: Affichage numérique, Programmable Orientation de la main: Ambidextre Famille de systèmes d'exploitation compatible: Windows Nombre de touches: 15 Usages recommandés pour le produit: Jeu, Multimédia contenu de la boîte: Cable USB-A/C vers USB-C,1,5 m (4,92 f), Manuel de l'utilisation, Stream Controller Unité de comptage: 1 Clavier fabriquant: upHere Nombre d’emballages: 1 nombre d'articles: 1 pays d'origine: Chine Description de la garantie: 1 Classement des meilleures ventes d'Amazon: 57723 en Instruments de musique et Sono (Voir les 100 premiers en Instruments de musique et Sono) 240 en Contrôleurs MIDI pour home studio ASIN: B0GL7NKSTJ Moyenne des commentaires client: 4,0 4,0 sur 5 étoiles (2) 4,0 sur 5 étoiles Commentaires client",
     "price": 69.99,
     "reference_price": 109.99,
     "discount_percent": 36.4,
@@ -11233,7 +11487,7 @@
   },
   {
     "title": "Coffret d'Accessoires Dewalt DT71522-QZ Toughcase - Embouts de Vissage, PH2 25mm x25, Pour Perceuse-Visseuse",
-    "description": "5€ - Amazon Accessoires indispensables pour votre perceuse visseuse DEWALT Pointe de l'embout optimisée pour plus de précision Tête de l'embout conçue pour éviter les dérapages pendant le vissage Rangement flexible - le système de rangement est compatible avec les petits, moyens et grand coffrets, ainsi qu'avec le boitier TSTAK pour Coffrets TOUGHCASE Compatible avec l'offre de rangement modulable DEWALT TSTAK pour garder tous vos coffrets d'accessoires au même endroit",
+    "description": "5€ - Amazon Accessoires indispensables pour votre perceuse visseuse DEWALT Pointe de l'embout optimisée pour plus de précision Tête de l'embout conçue pour éviter les dérapages pendant le vissage Rangement flexible - le système de rangement est compatible avec les petits, moyens et grand coffrets, ainsi qu'avec le boitier TSTAK pour Coffrets TOUGHCASE Compatible avec l'offre de rangement modulable DEWALT TSTAK pour garder tous vos coffrets d'accessoires au même endroit Spécifications Marque: DEWALT Longueur de l'article: 25 Millimètres Matériau: Plastique Type de finition: Peinte Nombre de pièces: 25 Disponibilité de pièces détachées dans l’UE: 1 Ans Système de transmission: Phillips Configuration de la pointe de tournevis: Pointe standard Application d’embout de tournevis: Construction Nombre d'articles: 25 Numéro de modèle: DT7909QZ Nombre d' articles: 25 Unité de comptage: 1.0 unité Nom de l'ensemble: Lot de 25 PH2 25 mm Code article international: 05035048535219 Nombre de paquets: 1 Fabricant: AmazonFr/XN929 Pays d'origine: Chine Composants inclus: Components included Poids de l'article: 150 Grammes Nom du type du produit: DT71522-QZ - Juego de 25 puntas Ph2 de 25 mm Numéro de pièce: DT71522-QZ Classement des meilleures ventes d'Amazon: 269 en Bricolage (Voir les 100 premiers en Bricolage) 3 en Sets d'embouts pour tournevis ASIN: B000Y8QH5K Moyenne des commentaires client: 4,6 4,6 sur 5 étoiles (2 848) 4,6 sur 5 étoiles Système d'entraînement: Phillips Composition de la pointe de tournevis: Jeu d'embouts Style d’embout de tournevis: Pointe magnétique Style de tige d’embout de tournevis: Plat Compatibilités du tournevis: Phillips Type de matériau: Plastique Apparence après application: Peinte Disponibilité de pièces détachées: 1 Ans Commentaires client",
     "price": 5.0,
     "reference_price": 11.27,
     "discount_percent": 55.6,
@@ -11277,7 +11531,7 @@
   },
   {
     "title": "Boitier PC MSI Mag Pano M110R - noir",
-    "description": "67,39€ - Amazon • COMPATIBILITÉ AVEC LES CARTES MÈRES - Le MAG PANO M110R est un boîtier mini-tours supportant les cartes mères Micro-ATX et Mini-ITX. • SYSTÈME DE REFROIDISSEMENT - Le MAG PANO M110R prend en charge jusqu'à 9 ventilateurs et dispose d'un grand nombre d'évents pour optimiser la dissipation de la chaleur. Il est fourni avec 2 ventilateurs ARGB 140 mm et un 1 ventilateur ARGB 120 mm. • LE STYLE MAG - Conçu autour des codes stylistiques MAG, le boîtier présente des lignes diagonales audacieuses et des angles vifs qui font écho à l'identité visuelle des cartes mères, des watercooling et des blocs d'alimentation de la série MAG. • CARTE DE CONTRÔLE ARGB - La carte de contrôle ARGB préinstallée permet de connecter jusqu'à quatre ventilateurs ARGB et offre un contrôle facile pour basculer entre 18 effets d'éclairage prédéfinis via le bouton LED. • PROTECTION CONTRE LA POUSSIÈRE - Le boîtier dispose de filtres amovibles sur le dessus et le dessous, afin de protéger les composants internes de toute accumulation de poussière.",
+    "description": "67,39€ - Amazon • COMPATIBILITÉ AVEC LES CARTES MÈRES - Le MAG PANO M110R est un boîtier mini-tours supportant les cartes mères Micro-ATX et Mini-ITX. • SYSTÈME DE REFROIDISSEMENT - Le MAG PANO M110R prend en charge jusqu'à 9 ventilateurs et dispose d'un grand nombre d'évents pour optimiser la dissipation de la chaleur. Il est fourni avec 2 ventilateurs ARGB 140 mm et un 1 ventilateur ARGB 120 mm. • LE STYLE MAG - Conçu autour des codes stylistiques MAG, le boîtier présente des lignes diagonales audacieuses et des angles vifs qui font écho à l'identité visuelle des cartes mères, des watercooling et des blocs d'alimentation de la série MAG. • CARTE DE CONTRÔLE ARGB - La carte de contrôle ARGB préinstallée permet de connecter jusqu'à quatre ventilateurs ARGB et offre un contrôle facile pour basculer entre 18 effets d'éclairage prédéfinis via le bouton LED. • PROTECTION CONTRE LA POUSSIÈRE - Le boîtier dispose de filtres amovibles sur le dessus et le dessous, afin de protéger les composants internes de toute accumulation de poussière. Spécifications Marque: MSI Compatibilité de la carte mère: Micro ATX, Mini-ITX Type de cas: Mini-tour Utilisations recommandées pour le produit: Jeu Couleur: Noir Matériau: Verre trempé Type de fixation de l'alimentation: Montage inférieur Méthode de refroidissement: Air Nom de modèle: MAG PANO M110R Dimensions du produit: 43,4P x 22,5l x 44,4H centimètres Carte-mère prise en charge: Micro ATX, Mini-ITX Type de boîtier: Mini-tour Montage de la partie relative à l’alimentation: Montage inférieur Quantité totale d'emplacements d'extension: 5 Nombre total de ports USB 3.0: 2 nombre total de ports usb: 2 Fonctionnalités du produit: Filtre à poussière, Ventilateur intégré, Éclairage RGB Taille du disque dur compatible (en pouces): 3,5 Pouces Quantité de soutes internes: 4 appareils compatibles: Cartes mères Micro-ATX et Mini-ITX matériel interne: Verre trempé Usages recommandés pour le produit: Jeu Nom du modèle: MAG PANO M110R Point fort de l’article: Mini-tour, 2 ventilateurs 140mm ARGB et 1 ventilateur 120mm ARGB, filtres à poussière amovibles, USB Type-C 20 Gb/s nombre d'articles: 1 Unité de comptage: 1.0 unité fabriquant: MSI pays d'origine: Chine Numéro du modèle: 306-7G24L21-809 numéro de pièce: 306-7G24L21-809 Description de la garantie: 2 ans Classement des meilleures ventes d'Amazon: 1372 en Informatique (Voir les 100 premiers en Informatique) 12 en Boîtiers PC ASIN: B0GGT2WZ9B Moyenne des commentaires client: 5,0 5,0 sur 5 étoiles (1) 5,0 sur 5 étoiles Dimensions de l'article P x L x H: 43,4P x 22,5l x 44,4H centimètres Commentaires client",
     "price": 67.39,
     "reference_price": 76.77,
     "discount_percent": 12.2,
@@ -17299,8 +17553,8 @@
     "title": "Jeu PS5 Tales of the Shire: A Lord of The Rings Game",
     "description": "18,14€ - Amazon - La version physique contient une magnifique carte dépliante du pittoresque village de Bywater et un code de téléchargement pour la bande-son officielle du jeu - Vivez une belle existence de Hobbit : incarnez un personnage tout droit sorti des romans légendaires de J.R.R. Tolkien ! - Bienvenue chez vous, Hobbit : décorez votre propre maison de Hobbit et créez un coin douillet en agençant les meubles et décorations selon vos envies, sans système de grilles de placement pour brider votre créativité - La nourriture, c'est la vie : le quotidien d'un Hobbit est rythmé par les repas. Pêchez, cultivez votre jardin et partez à la cueillette pour remplir votre garde-manger des fruits de votre labeur. - Explorez Bywater : promenez-vous dans la nature pour découvrir les clairières secrètes et les trésors perdus de la Comté Spécifications Classé: 3 ans et plus Dimensions du colis: 17 x 13,6 x 1,5 cm; 90 grammes Date de sortie: 8 août 2025 Date de mise en ligne sur Amazon.fr: 5 mai 2025 ASIN: B0F7M1NJKQ Pays d'origine: Autriche Disponibilité des pièces détachées: Information indisponible sur les pièces détachées Mises à jour logicielles garanties jusqu’à: Information non disponible Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Jeux vidéo Commentaires client",
     "price": 18.14,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 19.85,
+    "discount_percent": 8.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/tales-of-the-shire-a-lord-of-the-rings-game-sur-ps5-3432288",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/GUNHr/3432288_1/re/1200x1200/qt/90/3432288_1.jpg",
@@ -17343,8 +17597,8 @@
     "title": "Recharge pour Balai Vileda Refill Steam Mop",
     "description": "10,99€ - Amazon Presque moitié prix (-48%) Amazon! Pack de 2 Recharges en Microfibre Vileda Steam Vous voulez des sols étincelants et désinfectés en profondeur sans perdre en efficacité ? Ne manquez pas cette offre sur le pack de 2 recharges en microfibre pour balai vapeur Vileda Steam : l'accessoire indispensable pour capturer la saleté la plus incrustée sans effort. ⚡ Ce qui rend ce bon plan incontournable : Efficacité maximale grâce à la microfibre Vileda : Conçues pour absorber la graisse, la poussière et éliminer jusqu'à 99 % des bactéries uniquement avec la puissance de la vapeur. Lavables en machine (de 40 °C à 60 °C) : Réutilisables et ultra-durables ; lavez-les après chaque utilisation pour les conserver comme neuves sans perdre en efficacité. Ajustement parfait et dimensions idéales (27,5 x 17 cm) : Taille optimisée pour couvrir une grande surface en un seul passage et atteindre facilement les angles et les rebords. Compatibilité totale : Spécialement conçues pour les balais vapeur Vileda Steam / Vileda 100 °C (212 °F). Pack économique de 2 unités : Gardez toujours une recharge propre sous la main pour ne jamais interrompre vos sessions de ménage. La recharge officielle indispensable pour votre balai vapeur au meilleur prix en promotion. À propos de ce produit Lavable en machine de 40 à 60°C Couleur : Blanc Dimensions : 2,5 x 17 x 27,5 cm Poids du produit: 0,12 kilogrammes Commentaires client",
     "price": 10.99,
-    "reference_price": null,
-    "discount_percent": 48.0,
+    "reference_price": 15.12,
+    "discount_percent": 27.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/vileda-refill-steam-mop-3432203",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/dhXlS/3432203_1/re/1200x1200/qt/90/3432203_1.jpg",
@@ -17365,8 +17619,8 @@
     "title": "[Vente privée] Jeu de société - Tower Up",
     "description": "14,36€ - Philibert Net Très grosse démarque en vente privée sur Tower Up , l'excellent jeu de construction urbaine et d'opportunisme signé Sébastien Pauchon ( Jaipur , Sobek ), Frank Crittin et Grégoire Largey, édité par Monolith. Noté 7,3/10 sur BoardGameGeek , c'est l'un des jeux familiaux/initiés les plus percutants et élégants de 2024. Pourquoi c'est un carton assuré à ce tarif : Vous incarnez un cabinet d'architectes rivalisant pour redessiner le skyline de la ville. Derrière son accessibilité immédiate (façon Aventuriers du Rail ), le jeu cache une redoutable dimension tactique et un blocage digne des meilleurs jeux de Reiner Knizia. Le gameplay brille par son épure : Un choix binaire à chaque tour : Soit vous prenez une carte de ressource pour récupérer de nouveaux étages modulaires, soit vous construisez en posant vos blocs sur le plateau pour agrandir ou surélever des immeubles existants. Prise de contrôle et opportunisme : Construire rapporte des millions selon la hauteur du gratte-ciel et le quartier, mais poser votre toit au sommet vous assure la majorité et bloque les opportunités adverses. Course aux objectifs : Des cartes jalons récompensent les premiers à quadriller certaines zones ou à atteindre des hauteurs cibles. Matériel et présence sur table : 120 étages et 40 toits en 3D qui s'empilent pour former une véritable maquette urbaine en relief, rangée dans un thermoformage pensé au millimètre. Note BGG : 7,3/10 Format : 2 à 4 joueurs Durée : 30 à 45 min Âge : Dès 8 ans Auteurs : Frank Crittin, Grégoire Largey & Sébastien Pauchon Éditeur : Monolith Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat).",
     "price": 14.36,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 35.9,
+    "discount_percent": 60.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/vente-privee-jeu-de-societe-tower-up-3432266",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jQCj0/3432266_1/re/1200x1200/qt/90/3432266_1.jpg",
@@ -17409,8 +17663,8 @@
     "title": "Casque de route Mavic Syncro SL MIPS, Noir",
     "description": "49,99€ - Private Sport Shop Un casque Mavic système Mips pour un prix raisonnable",
     "price": 49.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 57.1,
+    "discount_percent": 12.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/casque-de-route-syncro-sl-mips-noir-3432282",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/zpbPI/3432282_1/re/1200x1200/qt/90/3432282_1.jpg",
@@ -17431,8 +17685,8 @@
     "title": "Casque sans fil CMF headphones pro",
     "description": "73,62€ - Amazon En noir il est à 78 euros. Sur AliExpress il y a une offre à 65 euros mais on dirait bien que c'est une arnaque. CMF Headphone Pro (par Nothing) Un super rapport qualité/prix si vous cherchez un casque sans fil complet sans vous ruiner. Il vient directement chasser sur les terres des références d'entrée/milieu de gamme comme le Sony WH-CH720N ou le Soundcore Q45, avec quelques atouts très solides. Les points forts : Autonomie monstrueuse : jusqu’à 50h avec ANC active (et près de 100h sans), de quoi tenir deux à trois semaines sans approcher une prise en usage quotidien. Audio complet : support du codec LDAC pour la haute résolution sur Android et signature sonore dynamique avec de bons graves (ajustable via l’app Nothing X). Réduction de bruit (ANC) hybride efficace : atténue très bien les bruits sourds et réguliers (transports, open space). Design et construction soignés : finition mate propre, coussinets confortables et commandes physiques intuitives (pas de tactile hasardeux). Il est robuste comparé au CH-CH720N. Connexion multipoint rapide (PC + smartphone en simultané) et charge rapide USB-C. À ce tarif, c’est difficile de faire plus complet pour un usage nomade ou bureautique quotidien. À propos de ce produit BATTERIE: Jusqu’à 100 heures d'écoute, ou 50 heures avec la réduction de bruit activée. Et jusqu'à 50 heures de temps d'appel. Grâce à son chargeur USB-C, la batterie se recharge complètement en moins de 2 heures. COMMANDES INTUITIVES: Pilotez vos écouteurs directement depuis votre casque grâce aux boutons dédiés. Glissez pour régler les basses ou les aigus. Tournez pour régler le volume. Appuyez pour passer d'une fonction à l'autre. Pas d'applications. Pas d'écrans. Rien qu'un son pur, sans entrave. SPATIAL AUDIO:Static Spatial Audio vous enveloppe d'un paysage sonore grâce aux modes Cinéma et Concert. Chaque mode est réglé pour optimiser la largeur, la profondeur et la clarté du paysage sonore. ANC:Isolez-vous des bruits ambiants avec la réduction de bruit hybride. En s'adaptant à votre environnement, et en basculant automatiquement entre les modes haut, moyen et bas. Le Mode Transparence laisse entrer une partie du monde extérieur. HI-RES: Prenant en charge LDAC et les certifications Hi-Res avec ou sans fil, le CMF Headphone Pro fournit un son haute résolution dans chaque mode, pour un rendu musical aussi fidèle que possible. Commentaires client",
     "price": 73.62,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 77.5,
+    "discount_percent": 5.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/cmf-headphones-pro-3432281",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ruS4F/3432281_1/re/1200x1200/qt/90/3432281_1.jpg",
@@ -17453,8 +17707,8 @@
     "title": "Way of the Gun en Blu-ray 4K UHD",
     "description": "15€ - L'Atelier d'Images Dolby Vision, VO Atmos. Première baisse pour ce titre, directement sur le site de l'éditeur, à l'occasion du Festival Lumière. De nombreux titres en promos également sur cette page jusqu'à dimanche. Way of the Gun est un thriller américain réalisé par Christopher McQuarrie , scénariste oscarisé pour Usual Suspects . Ce premier long-métrage en tant que réalisateur met en scène Ryan Phillippe ( Souviens-toi… l’été dernier ), Benicio Del Toro ( Traffic ) et Juliette Lewis ( Tueurs nés ). Le film suit deux criminels impliqués dans un enlèvement aux conséquences inattendues.",
     "price": 15.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 29.99,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/blu-ray-4k-uhd-way-of-the-gun-3432280",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/8rtvZ/3432280_1/re/1200x1200/qt/90/3432280_1.jpg",
@@ -17497,8 +17751,8 @@
     "title": "Casque vélo route Mavic elite noir taille S et M",
     "description": "23,99€ - Private Sport Shop Casque Mavic basic mais prix light",
     "price": 23.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 59.0,
+    "discount_percent": 59.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/casque-velo-route-mavic-elite-noir-taille-s-et-m-3432278",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/KIrg5/3432278_1/re/1200x1200/qt/90/3432278_1.jpg",
@@ -17512,6 +17766,50 @@
       {
         "price": 23.99,
         "observed_at": "2026-10-14T11:31:15.639151+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Senseo PHILIPS CSA225/01 machine à café compacte Senseo Vibe bleu",
+    "description": "Boulanger Cafetière à dosettes PHILIPS CSA225/01 Senseo Vibe Bleu : L'Expérience Café Réinventée Une Compacité Inégalée pour Toutes les Cuisines Découvrez la cafetière à dosettes PHILIPS CSA225/01 Senseo Vibe Bleu, une merveille de technologie compacte qui s'intègre parfaitement dans toutes les cuisines, même les plus petites. Avec sa taille réduite de 50% par rapport à la Senseo Original, elle offre une expérience café inégalée sans compromis sur la qualité. Préparez une ou deux tasses de café délicieux en moins d'une minute grâce à sa technologie avancée. Son design élégant et coloré, disponible en quatre teintes mates éclatantes, en fait un véritable atout déco pour votre espace café. Technologie Avancée pour un Café Parfait La Senseo Vibe est équipée de la technologie Crema Plus, garantissant une crema onctueuse et veloutée à chaque tasse. Personnalisez votre café grâce à la fonction mémo qui vous permet d'enregistrer votre longueur de café préférée. Le réservoir d'eau amovible de 0,9 L vous offre la possibilité de préparer plusieurs tasses sans avoir à le remplir constamment. De plus, l'indicateur de détartrage intégré vous signale quand un entretien est nécessaire, assurant ainsi des performances optimales et une longévité accrue. Testée plus de 10 000 fois, cette machine est synonyme de fiabilité et de qualité. Avec son démarrage direct et son arrêt automatique, elle allie praticité et économies d'énergie. Faites de chaque tasse un moment de plaisir avec la Senseo Vibe.",
+    "price": 249.99,
+    "reference_price": 320.0,
+    "discount_percent": 21.9,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/senseo-philips-csa22501-machine-a-cafe-compacte-senseo-vibe-bleu-3432277",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/pqk6x/3432277_1/re/1200x1200/qt/90/3432277_1.jpg",
+    "detected_at": "2026-10-14T10:12:58+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 249.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection d'articles Dr Martens en promotion",
+    "description": "Dr. Martens Profitez de jusqu'à -40 % sur des boots, chaussures et accessoires Dr. Martens avec nos promos*. Explorez la sélection sans attendre.",
+    "price": 54.99,
+    "reference_price": 69.99,
+    "discount_percent": 21.4,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jusqua-40-sur-une-selection-darticles-dr-martens-3432276",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/LMYim/3432276_1/re/1200x1200/qt/90/3432276_1.jpg",
+    "detected_at": "2026-10-14T10:11:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 54.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -17541,8 +17839,8 @@
     "title": "Tondeuse thermique poussée Scheppach MP132-40 - 40cm, 131 CC",
     "description": "112,49€ - Cdiscount Points forts Composition du lot : tondeuse à gazon thermique MP132-40 Plus produit : Hauteur de tonte ajustable à 3 positions (de 30 à 66mm). Guidon repliable. Type de motorisation : Thermique Largeur de coupe : 40 cm La tondeuse à gazon thermique SCHEPPACH MP132-40 est équipée d'un moteur à essence puissant de 131cm3 développant 3,3CV/2,4kW. Elle dispose d'un bac de ramassage en textile de 35L facile à vider et d'un guidon repliable pour faciliter le rangement et le transport. La hauteur de tonte est ajustable de 30 à 66mm. Convient aux jardins jusqu'à 600m2. Dimensions (L x l x h) : 1310 x 470 x 970 mm Cylindrée 131 cm3 Puissance 2,4 kW / 3,3 CV Largeur de coupe maxi. 40 cm Hauteurs de coupe 30 – 66 mm",
     "price": 112.49,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 259.99,
+    "discount_percent": 56.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/tondeuse-thermique-poussee-scheppach-mp132-40-40cm-131-cc-3432273",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/GFLkk/3432273_1/re/1200x1200/qt/90/3432273_1.jpg",
@@ -17563,7 +17861,7 @@
     "title": "Jeu de Société : Ziggurat",
     "description": "7,59€ - Philibert Net Ziggurat est à -80% via une vente privée sur Philibert : Soyez connecté Soyez abonné à la newsletter générale Cliquez sur le bandeau apparu sur la page d’accueil pour accepter de participer aux ventes privées Rendez-vous sur \"Mon compte\" Un bouton \"Une vente privée est en cours, foncez !\" apparaît, de là vous verrez tous les produits concernés Ziggurat est un jeu Legacy pour toute la famille ! Son histoire se déroule sur 6 chapitres : les décisions que vous prenez au cour de chaque partie affecteront les suivantes. Au fur et à mesure de l'histoire, vous modifierez de manière permanente la campagne en ajoutant de nouvelles règles, de nouveaux éléments de jeu, et même des autocollants sur le plateau !",
     "price": 7.59,
-    "reference_price": null,
+    "reference_price": 37.95,
     "discount_percent": 80.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-ziggurat-3432272",
@@ -17585,7 +17883,7 @@
     "title": "[Ventes privées] Jeu de société Trekking the World",
     "description": "11,39€ - Philibert Net Braderie massive de -70 % en vente privée sur Trekking the World , le superbe jeu de voyage et de collection signé Charlie Bink ( Trekking the National Parks ) et édité en français par Underdog Games. Passer à peine au-dessus de 11 € pour une grande boîte réputée pour la beauté de ses illustrations et son matériel très soigné, c'est l'une des plus belles affaires de cette vague. Pourquoi c'est une excellente pioche : Dans la veine des Aventuriers du Rail ou de Parks , vous incarnez des globe-trotters parcourant les continents pour visiter des merveilles naturelles ou architecturales, participer à des festivals et collectionner des souvenirs locaux. Le gameplay propose une course tactique fluide et accessible : Déplacements et gestion de cartes : Vous utilisez vos cartes Trek pour vous déplacer de ville en ville le long des routes mondiales, en optimisant la valeur numérique pour atteindre les destinations cibles. Visite de sites et cartes Destination : Atteindre un lieu emblématique vous permet de revendiquer sa carte si vous défaussez les bonnes combinaisons d'icônes, déclenchant des points de victoire et des pouvoirs permanents ou immédiats. Collection de souvenirs et valise : Sur votre passage, vous récupérez de petits cubes de souvenirs colorés à ranger sur votre plateau valise personnel pour créer des séries et marquer de gros multiplicateurs en fin de partie. Édition exemplaire : Grand plateau planisphère illustré avec soin, cartes grand format façon cartes postales rétro, valises personnelles épaisses et inserts thermoformés prêts à jouer. Mode solo inclus : La boîte contient un deck d'automa pour jouer en solitaire. Format : 1 à 5 joueurs Durée : 30 à 60 min Âge : Dès 10 ans Auteur : Charlie Bink Éditeur : Underdog Games Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat).",
     "price": 11.39,
-    "reference_price": null,
+    "reference_price": 37.95,
     "discount_percent": 70.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/vente-privee-jeu-de-societe-trekking-the-world-3432271",
@@ -17629,7 +17927,7 @@
     "title": "[Vente privée] Jeu de société - Great Western Trail : El Paso",
     "description": "13,45€ - Philibert Net Grosse démarque de -50 % en vente privée sur Great Western Trail : El Paso , la déclinaison condensée et nerveuse du monument d'Alexander Pfister, éditée par Lookout Games. Passer sous la barre des 14 € pour un stand-alone complet issu de l'une des franchises expertes les plus réputées du jeu de plateau moderne, c'est une affaire en or. Pourquoi c'est une excellente pioche : El Paso conserve l'essence stratégique du classique Great Western Trail (le déplacement en boucle, le deckbuilding de bétail et la livraison ferroviaire) tout en resserrant drastiquement les règles et le temps de partie pour tenir en moins d'une heure. Les points forts du jeu : Deckbuilding et gestion de troupeaux : Vous achetez et faites tourner des cartes de bétail pour optimiser la valeur de votre convoi avant chaque arrivée à la gare. Course sur la piste : Vous déplacez votre pion d'action en action le long du sentier vers El Paso, en choisissant d'avancer vite pour couper l'herbe sous le pied des adversaires ou de prendre le temps d'activer un maximum de bâtiments. Réseau ferroviaire et bâtiments : Développez vos gares le long des rails pour débloquer des bonus immédiats et implantez vos propres bâtiments sur le sentier pour multiplier vos options tactiques. Format fluide et accessible : Toute la saveur du grand frère sans la lourdeur d'installation ni les parties de 2 h 30, avec un matériel soigné et un mode solo dédié. Format : 1 à 4 joueurs Durée : 45 à 75 min Âge : Dès 12 ans Auteur : Alexander Pfister Éditeur : Lookout Games / Plan B Games Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat).",
     "price": 13.45,
-    "reference_price": null,
+    "reference_price": 26.9,
     "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/vente-privee-jeu-de-societe-great-western-trail-el-paso-3432268",
@@ -17651,7 +17949,7 @@
     "title": "Jeu de Société : Star Wars - Bounty Hunters",
     "description": "3,43€ - Philibert Net Star Wars: Bounty Hunters est à -85% via une vente privée sur Philibert : Soyez connecté Soyez abonné à la newsletter générale Cliquez sur le bandeau apparu sur la page d’accueil pour accepter de participer aux ventes privées Rendez-vous sur \"Mon compte\" Un bouton \"Une vente privée est en cours, foncez !\" apparaît, de là vous verrez tous les produits concernés Dans Star Wars : Bounty Hunters, vous êtes à la poursuite de célèbres cibles en fuite : Han Solo, Chewbacca, Grogu... Ne les laissez pas s'échapper ! Recrutez les meilleurs chasseurs de primes et capturez les prestigieux héros rebelles dans ce jeu de draft au rythme effréné. Jouez en simultané, sans temps mort !",
     "price": 3.43,
-    "reference_price": null,
+    "reference_price": 22.9,
     "discount_percent": 85.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-star-wars-bounty-hunters-3432269",
@@ -17673,8 +17971,8 @@
     "title": "Aspirateur Rowenta RO3927EA avec sac Hygiene+, 3 L",
     "description": "84,99€ - Amazon Branché sur secteur, ce traîneau fonctionne sans batterie à recharger. Son moteur affiche une puissance maximale de 900 W. La poussière est recueillie dans un sac Hygiene+ ; sa fermeture automatique limite le contact avec le contenu au moment du remplacement. À propos de ce produit PUISSANCE DE NETTOYAGE OPTIMALE : aspirateur avec sac doté d'un moteur basse consommation de 900 W max (conformément au règlement EU N°666/2013) pour des résultats parfaits sur tous les types de sols ULTRA COMPACT : sac à poussière de grande capacité (3 L) s'adaptant à la compacité de l'appareil et poignée de transport ergonomique pour une utilisation et un rangement très faciles HAUTE FILTRATION : système de filtration à 3 niveaux qui capture 99,98% de la poussière LIBERTÉ DE MOUVEMENT : grand rayon d'action de 8.80 m, permettant de couvrir de larges surfaces sans avoir à débrancher l'appareil, pour un confort total RÉPARABILITÉ 15 ANS AU JUSTE PRIX : engagement de réparabilité 15 ans au juste prix grâce à notre réseau de 6 200 réparateurs dans le monde, pour contribuer à la protection de l’environnement et à la réduction des déchets HYGIÈNE IMPECCABLE : sac Hygiene+ équipé d'un rabat à fermeture automatique pour éviter tout contact avec la poussière et assurer ainsi une meilleure hygiène, et un plus grand confort LIVRÉ AVEC : suceur fente convertible en brossette pour aspirer les recoins ACCESSOIRES COMPATIBLES : Parquet Softcare ZR900401, Mini Turbobrosse ZR900601, Maxi Turbobrosse ZR900701, Suceur fente flexible XXL ZR902901, Bras articulé multifonction ZR903401 Commentaires client",
     "price": 84.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 94.27,
+    "discount_percent": 9.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/aspirateur-rowenta-ro3927ea-avec-sac-hygiene-3-l-3432265",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/WUbWo/3432265_1/re/1200x1200/qt/90/3432265_1.jpg",
@@ -17695,8 +17993,8 @@
     "title": "Jean balloon taille normale 100% Coton - Lie de vin (du 32 au 46)",
     "description": "19,99€ - Mango Outlet Le jean ballon Mango Outlet mise sur une silhouette tendance : coupe ballon, taille mi-haute et denim western en coton, dans un coloris lie de vin facile à porter. Livraison : Attention, pensez à bien lire les infos Livraison & Retours . Points clés Tissu en coton style denim western Forme ballon tendance Taille mi-haute Passants de ceinture et cinq poches Fermeture à bouton et zip Caractéristiques Marque : Mango Outlet Référence : 27014083 Type : jean coupe ballon Genre : femme Composition : 100% coton Taille : mi-haute Poches : cinq poches Détails : passants de ceinture Fermeture : bouton et zip Coloris : lie de vin Tailles : 32 à 46 R essources Historique du deal Comparateur de prix Fiche officielle Mango Outlet ⭐ Avis marchand (Trustpilot) Mango Outlet sur Trustpilot Clique sur le bouton \"Suivre\" si tu souhaites être notifié de mes prochains deals !",
     "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 49.99,
+    "discount_percent": 60.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/jean-balloon-taille-normale-100-coton-lie-de-vin-du-32-au-46-3432263",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/3EcMV/3432263_1/re/1200x1200/qt/90/3432263_1.jpg",
@@ -17761,8 +18059,8 @@
     "title": "Ballon Club Manchester United x Drama Call Adidas - Blanc (taille S)",
     "description": "11,50€ - Adidas Un ballon Manchester United créé en collaboration avec Drama Call, pour une pratique récréative :) Livraison : gratuite pour les membres adiClub (inscription gratuite). Points clés Collab originale Manchester United x Drama Call made in Manchester Design inspiré du maillot du titre européen de 1991 Blason du club et graphisme Drama Call imprimés Construction cousue à la machine , idéale pour une pratique récréative intensive Vessie butyle pour une bonne rétention d'air Caractéristiques Marque : adidas Modèle : Club Manchester United x Drama Call Code produit : JV8603 Enveloppe extérieure : 100% polyuréthane Enveloppe intérieure : 100% polyester (100% recyclé) Construction : cousue à la machine Vessie : butyle Finitions : blason Manchester United imprimé, graphisme Drama Call imprimé Conditionnement : vendu dégonflé Taille : S ⚠️ À noter Ballon vendu dégonflé (pompe non mentionnée). R essources Historique du deal Comparateur de prix Fiche officielle adidas ⭐ Avis marchand (Trustpilot) adidas sur Trustpilot Clique sur le bouton \"Suivre\" si tu souhaites être notifié de mes prochains deals !",
     "price": 11.5,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 23.0,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/ballon-club-manchester-united-x-drama-call-adidas-blanc-taille-s-3432259",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/wojxq/3432259_1/re/1200x1200/qt/90/3432259_1.jpg",
@@ -23376,6 +23674,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23398,6 +23700,10 @@
       {
         "price": 5.99,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23420,6 +23726,10 @@
       {
         "price": 17.5,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 17.5,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23442,6 +23752,10 @@
       {
         "price": 46.55,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 46.55,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23464,6 +23778,10 @@
       {
         "price": 54.9,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 54.9,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23486,6 +23804,10 @@
       {
         "price": 31.99,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 31.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23508,6 +23830,10 @@
       {
         "price": 54.99,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 54.99,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23530,6 +23856,10 @@
       {
         "price": 44.95,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 44.95,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23552,6 +23882,10 @@
       {
         "price": 0.8,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 0.8,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -23574,6 +23908,10 @@
       {
         "price": 18.98,
         "observed_at": "2026-10-13T19:54:14.084736+00:00"
+      },
+      {
+        "price": 18.98,
+        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   },
@@ -24172,188 +24510,6 @@
       {
         "price": 24.0,
         "observed_at": "2026-10-14T19:26:16.073333+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Resident evil 3 remake - PS4 (+ mise a jour PS5)",
-    "description": "14,49€ - TradeInn Hello, Resident evil 3 sur PS4 à bon prix. Mise à jour gratuite vers version PS5 (Perso je préfère toujours la version PS4 dans ce cas pour pouvoir jouer sur les 2 consoles et la double liste de trophée )",
-    "price": 14.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/resident-evil-3-remake-ps4-mise-a-jour-ps5-3431909",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iXnqX/3431909_1/re/1200x1200/qt/90/3431909_1.jpg",
-    "detected_at": "2026-10-13T18:28:35+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.49,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      },
-      {
-        "price": 14.49,
-        "observed_at": "2026-10-14T18:58:36.445903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Robot Aspirateur Laveur Ecovacs Deebot T90 Pro Omni",
-    "description": "392€ - Amazon.it Bonsoir la communauté, voici un bon prix pour ce robot aspirateur Ecovacs Deebot T90 pro Omni ! Voici quelques points de la description: OZMO ROLLER 3.0: Lave à l'eau propre et recueille l'eau sale. Avec 3 800 Pa, 200 tr/min et un rouleau de 27 cm, il élimine saleté et poussière quotidienne. Lavage à 100 °C: La station lave à 75 °C et sèche à 45 °C, dissout les graisses et prévient les contaminations. Le vidage automatique réduit l'entretien. BLAST 40 000 Pa: Aspire poussière, miettes et poils des sols et tapis. ZeroTangle 4.0 réduit l'emmêlement, l'élévation de 15 mm garde les tapis secs. TruEdge 3.0: Le rouleau s'étend de 1,5 cm pour atteindre murs et bords. Le patin en feutre protège meubles et plinthes. Navigation: dToF LiDAR et TrueDetect 3D cartographient et évitent les obstacles. Le corps de 95 mm franchit des seuils de 20 mm et atteint les espaces bas. Entretien automatique: La station OMNI lave, sèche et vide. Il suffit de lancer le nettoyage. Voici le lien vers la page complète du produit sur le site du fabricant: https://www.ecovacs.com/fr/shop/deebot-robotic-vacuum-cleaner/deebot-t90-pro-omni-white 【Auto-nettoyage instantané OZMO ROLLER 3.0 avec TruEdge 3.0】 OZMO ROLLER 3.0 est doté d'un rouleau allongé de 27 cm pour une couverture 50 % plus large. Sa pompe à air haute performance alimente un système d'auto-nettoyage sous pression à 32 jets qui élimine les saletés tenaces. Le patin effectue jusqu'à 200 tr/min pour éviter les traces. Doté de la technologie TruEdge 3.0, incluant un rouleau suspendu à coussin d'air avec une portée étendue de 1,5 cm et une bande en feutre souple, il glisse le long des bords pour un nettoyage parfait d'un mur à l'autre, protégeant ainsi vos meubles en douceur. 【Recharge PowerBoost : Autonomie en continu intelligente】 Équipant exclusivement le T90 PRO OMNI, la technologie révolutionnaire PowerBoost permet des augmentations de puissance ultra-rapides. Son algorithme d'auto-optimisation gère la puissance de manière dynamique, restaurant 10 % de batterie en seulement 3 minutes pendant les intervalles de nettoyage du patin. Cela permet une couverture de nettoyage véritablement ininterrompue jusqu'à 500 m² par tâche, même aux réglages maximum, ce qui en fait la solution idéale pour les grandes maisons et le nettoyage en continu de toute la maison. 【Aspiration BLAST de 30 000 Pa avec optimisation du niveau sonore global】 Le système BLAST optimisé fournit une puissance d'aspiration de 30 000 Pa et un flux d'air de 16 L/s pour un ramassage de 100 % des gros débris. Le T90 PRO OMNI est doté d'une technologie de réduction de bruit globale qui abaisse considérablement le volume sonore de fonctionnement tout en maintenant une puissance de nettoyage maximale, pour un nettoyage plus silencieux qui ne perturbe pas votre vie quotidienne. 【TruePass 4 roues motrices et technologie AIVI 3D 4.0 Omni-Approach 】 Le TruePass avec 4 roues motrices adaptatives utilise un mécanisme purement mécanique pour déployer instantanément des roues d'ascension auxiliaires, franchissant une seule marche de 2,4 cm de hauteur maximum et plusieurs marches jusqu'à 4 cm de hauteur. Renforcé par l'AIVI 3D 4.0 et un modèle sémantique avancé, il identifie intelligemment les bords sûrs pour un nettoyage précis tout en maintenant une distance sûre avec les objets instables tels que les câbles, garantissant ainsi une navigation minutieuse et sans obstacle. 【Triple Lift avec séparation précise sec-humide et AI Instant Re-Mop 2.0】 Le système intelligent Triple Lift s'adapte automatiquement à la situation : il soulève le patin sur les tapis et moquettes, soulève les brosses en cas d'éclaboussures de liquides et rétracte la brosse latérale lorsqu'il rencontre des gros débris. AI Instant Re-Mop 2.0 détecte différents types de taches et effectue deux passages croisés pour un nettoyage en profondeur, puis un rinçage automatique du patin évite toute contamination croisée et des résultats hygiéniques. 【Fresh-Flow Power Washing",
-    "price": 392.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-ecovacs-deebot-t90-pro-omn-3431908",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ije7D/3431908_1/re/1200x1200/qt/90/3431908_1.jpg",
-    "detected_at": "2026-10-13T18:28:23+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 392.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      },
-      {
-        "price": 392.0,
-        "observed_at": "2026-10-14T18:58:36.445903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Technic F1 Oracle Red Bull Racing RB20 42206",
-    "description": "143,99€ - Carrefour Imaginez le rugissement des moteurs tandis que vous construisez votre maquette LEGO Technic F1 Oracle Red Bull Racing RB20 (42206). Lancez-vous dans le montage de cette voiture de F1 à l'échelle 1/8 arborant la livrée caractéristique de l'écurie, des pneus imprimés et des détails réalistes. Dirigez la voiture à l'aide du bouton sur le toit ou du volant dans le cockpit, puis testez ses suspensions avant et arrière. Observez la boîte à 2 vitesses et le différentiel et retirez le capot pour voir le moteur V6 à pistons mobiles. Ensuite, réglez l'aileron pour reproduire le système DRS et exposez votre maquette pour rendre hommage à votre passion pour la F1. Détendez-vous en plongeant dans la création de véhicules haute performance avec la collection de sets de véhicules LEGO Technic pour adultes (vendus séparément). Profitez au mieux de vos sets avec l'appli LEGO Builder, où vous pouvez zoomer, faire pivoter vos modèles 3D, suivre votre progression et enregistrer vos sets. Dimensions – Ce set comprend une voiture de F1 LEGO qui mesure plus de 14 cm de haut, 63 cm de long et 24 cm de large",
-    "price": 143.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-technic-f1-oracle-red-bull-racing-rb20-42206-3431907",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/HBF8r/3431907_1/re/1200x1200/qt/90/3431907_1.jpg",
-    "detected_at": "2026-10-13T18:28:04+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 143.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      },
-      {
-        "price": 143.99,
-        "observed_at": "2026-10-14T18:58:36.445903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Pikmin 4 Switch 2 Edition + Academie Dandori",
-    "description": "59,99€ - Cultura Compatible Switch 2 uniquement. Voici les nouveautés par rapport à la version Switch 1 : Graphismes améliorés : Le jeu tourne désormais jusqu'en résolution 4K sur le téléviseur, offrant des détails bien plus nets sur les Pikmin et les décors. Le mode Académie Dandori : Cette extension incluse propose 72 stages de défis chronométrés inédits , ajoutés au rythme de 6 par mois. Elle intègre des examens hebdomadaires (du vendredi au dimanche) où vous n'avez qu'un seul essai officiel pour décrocher une médaille. Commandes vocales pour Otchin : Vous pouvez utiliser le micro de la console pour dicter 9 ordres vocales différents directement à votre chien sauveteur Otchin, comme lui demander de rassembler les Pikmin ou de rapporter un trésor. Multijoueur étendu : Les duels Dandori intègrent les fonctions GameShare et GameChat . Vous pouvez ainsi affronter un ami en ligne avec le chat vocal, ou jouer en multijoueur local sans fil avec un seul exemplaire du jeu (même si votre ami joue sur une Switch de première génération). Mise à niveau version Switch 1 : Les joueurs possédant déjà la version Switch originale pourront passer à cette nouvelle version pour 9,99 € .",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-pikmin-4-switch-2-edition-academie-dandori-3431906",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/BDapS/3431906_1/re/1200x1200/qt/90/3431906_1.jpg",
-    "detected_at": "2026-10-13T18:27:44+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      },
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-14T18:58:36.445903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Metro Exodus à 2.99€ - Gold à 3.99€ sur PC (Dématérialisé)",
-    "description": "2,99€ - GOG Metro Exodus sur Gog sans DRM en promo. Version gold a 3.99€ Nous sommes en 2036. Vingt-cinq ans après qu'une guerre nucléaire a dévasté la Terre, quelques milliers de survivants s'accrochent à la vie sous les ruines de Moscou, dans les tunnels du métro. Ces âmes en peine ont affronté les radiations, combattu créatures mutantes et horreurs d'un autre monde, et même souffert des affres de la guerre civile. Vous incarnez Artyom. Échappez-vous du métro et menez un groupe de rangers tout au long d'une aventure s'étendant sur tout un continent dans une Russie post-apocalyptique en quête d'une nouvelle vie à l'est. Créé par 4A Games, Metro Exodus est un jeu de tir à la 1re personne axé sur la narration, qui mélange affrontements brutaux et infiltration avec exploration et survival horror dans un univers ultra-immersif. Explorez les terres sauvages de la Russie dans des niveaux non linéaires et suivez une histoire captivante qui s'étend sur une année entière, allant du printemps jusqu'au plus profond de l'hiver nucléaire. Inspiré des romans de Dmitry Glukhovsky, Metro Exodus poursuit l'histoire d'Artyom dans le meilleur titre de la saga à ce jour. Caractéristiques Embarquez pour une incroyable aventure - montez à bord de l'Aurora, une locomotive largement modifiée, et joignez-vous à une poignée de survivants en quête d'une nouvelle vie à l'est Survie en monde ouvert - un scénario poignant associe la jouabilité de la série Metro classique à de nouveaux environnements non linéaires Monde magnifique et hostile - découvrez les terres sauvages de la Russie post-apocalyptique, sublimées par un cycle jour/nuit et un climat dynamique Combat brutal et infiltration - récupérez ce que vous pouvez sur le terrain, fabriquez votre propre arsenal artisanal et affrontez vos adversaires, humains comme mutants, lors de combats à couper le souffle Les décisions sont lourdes de conséquences - tous vos compagnons ne vont pas s'en sortir ; avec vos choix qui influent sur le sort de vos camarades, l'histoire offre de nombreuses heures de rejouabilité Atmosphère et immersion sans précédent - la flamme vacillante d'une bougie dans le noir, le râle irrégulier de votre souffle à travers votre masque à gaz pris par le givre, le cri d'un mutant au cœur de la nuit ; Metro revient plus immersif et terrifiant que jamais.",
-    "price": 2.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/metro-exodus-gog-sans-drm-gold-a-399eur-3431905",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZM1P0/3431905_1/re/1200x1200/qt/90/3431905_1.jpg",
-    "detected_at": "2026-10-13T18:27:28+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      },
-      {
-        "price": 2.99,
-        "observed_at": "2026-10-14T18:58:36.445903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Billet de train Ouigo Grande Vitesse Aix-en-Provence pour Paris dès 16€ - Plusieurs dates Ex : 4 Novembre 2026",
-    "description": "16€ - SNCF Connect Billet de train OUIGO Grand Speed Aix-en-Provence TGV vers l'Île-de-France - Dès 16€ (Plusieurs dates ex : 4/11 et 25/11) Billet de TGV OUIGO Grande Vitesse au départ d'Aix-en-Provence TGV à destination de la région parisienne (Paris Roissy-CDG 2 Airport ou Paris Marne-la-Vallée - Chessy - Disneyland). Disponible pour des trajets en novembre, notamment le mercredi 4 novembre de 16h43 à 19h51 et le mercredi 25 novembre de 18h42 à 22h02. https://www.sncf-connect.com/home/shop/results/outward Prix : 16€ D'autres billets de train disponible à partir de 19€ aussi donc n'hésiter pas à chercher sur le site de la sncf.",
-    "price": 16.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/billet-de-train-ouigo-grande-vitesse-aix-en-provence-pour-paris-des-16eur-plusieurs-dates-ex-4-novembre-2026-3431904",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jCJuX/3431904_1/re/1200x1200/qt/90/3431904_1.jpg",
-    "detected_at": "2026-10-13T18:25:21+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 16.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      },
-      {
-        "price": 16.0,
-        "observed_at": "2026-10-14T18:58:36.445903+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque sans fil Sennheiser Momentum 4 - Noir",
-    "description": "180,50€ - Amazon.de Casque sans fil Sennheiser Momentum 4 Wireless Copper Edition (ANC, 60h d’autonomie, aptX Adaptive) – 184,65 € (livraison incluse) @ Prix : 179 € Frais de port : 5,65 € Prix de référence : 212 € chez Amazon.fr (399,90 € prix catalogue Sennheiser) Description : Le Sennheiser Momentum 4 Wireless en version spéciale Copper (noir avec finitions cuivrées sur les coques et l’arceau) passe à 179 € chez Amazon Allemagne , soit 184,65 € livré en France . Le même modèle est à 212 € sur Amazon.fr, donc environ 27 € d’économie en passant par le .de. Caractéristiques principales : Transducteurs 42 mm, son signature Sennheiser Réduction de bruit active adaptative + mode transparence Jusqu’à 60 h d’autonomie (charge rapide : 10 min ≈ 6 h d’écoute) Bluetooth 5.2, multipoint (2 appareils) Codecs SBC, AAC, aptX Adaptive Écoute filaire via jack ou USB-C Commandes tactiles, détection de port (pause automatique) Égaliseur et réglages via l’app Sennheiser Smart Control Étui de transport fourni Points à savoir : Pliage à plat uniquement (pas repliable) ANC très bon mais un cran en dessous des Bose QC Ultra / Sony XM5-XM6",
-    "price": 180.5,
-    "reference_price": 212.0,
-    "discount_percent": 14.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sennheiser-momentum-4-wireless-copper-edition-3431903",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1AnZw/3431903_1/re/1200x1200/qt/90/3431903_1.jpg",
-    "detected_at": "2026-10-13T18:23:12+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 180.5,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      },
-      {
-        "price": 180.5,
-        "observed_at": "2026-10-14T18:58:36.445903+00:00"
       }
     ]
   }
