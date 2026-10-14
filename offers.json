@@ -1,5 +1,47 @@
 [
   {
+    "title": "Rowenta ZR740003, Filtre à pou... Explorer Série 60, Blanc/Gris",
+    "price": 14.99,
+    "reference_price": 20.39,
+    "discount_percent": 26.48,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B087GJLS9W",
+    "image_url": "https://m.media-amazon.com/images/P/B087GJLS9W.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:20:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.99,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Livoo - Appareil à raclette 6 ..., 29x29 cm, accessoires inclus",
+    "price": 25.99,
+    "reference_price": 32.52,
+    "discount_percent": 20.08,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D2N8F2HJ",
+    "image_url": "https://m.media-amazon.com/images/P/B0D2N8F2HJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:20:51",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
     "title": "Abrasifs festool stf-d225/48 p24 sa - boite de 25 - 205650",
     "price": 112.41,
     "reference_price": 129.93,
@@ -764,7 +806,7 @@
     "url": "https://www.amazon.fr/dp/B09MKSWZ7G",
     "image_url": "https://m.media-amazon.com/images/P/B09MKSWZ7G.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 19:53:18",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -2360,7 +2402,7 @@
     "url": "https://www.amazon.fr/dp/B0GHSX56B1",
     "image_url": "https://m.media-amazon.com/images/P/B0GHSX56B1.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 16:48:02",
-    "category": "Maison",
+    "category": "Jardin & extérieur",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3221,7 +3263,7 @@
     "url": "https://www.amazon.fr/dp/B0FHLX12NR",
     "image_url": "https://m.media-amazon.com/images/P/B0FHLX12NR.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:46:58",
-    "category": "Bébé & enfants",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3284,7 +3326,7 @@
     "url": "https://www.amazon.fr/dp/B0FKC23YLB",
     "image_url": "https://m.media-amazon.com/images/P/B0FKC23YLB.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:46:55",
-    "category": "Bébé & enfants",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3326,7 +3368,7 @@
     "url": "https://www.amazon.fr/dp/B0GVPFW6QQ",
     "image_url": "https://m.media-amazon.com/images/P/B0GVPFW6QQ.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:46:52",
-    "category": "Bébé & enfants",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3473,7 +3515,7 @@
     "url": "https://www.amazon.fr/dp/B0FPXDHCX5",
     "image_url": "https://m.media-amazon.com/images/P/B0FPXDHCX5.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:17:12",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3515,7 +3557,7 @@
     "url": "https://www.amazon.fr/dp/B0GK7RPT8C",
     "image_url": "https://m.media-amazon.com/images/P/B0GK7RPT8C.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:17:08",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3536,7 +3578,7 @@
     "url": "https://www.amazon.fr/dp/B0GGSBQKYV",
     "image_url": "https://m.media-amazon.com/images/P/B0GGSBQKYV.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:17:07",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3557,7 +3599,7 @@
     "url": "https://www.amazon.fr/dp/B0FPXD9B3S",
     "image_url": "https://m.media-amazon.com/images/P/B0FPXD9B3S.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:17:06",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3578,7 +3620,7 @@
     "url": "https://www.amazon.fr/dp/B0DQVPDLMS",
     "image_url": "https://m.media-amazon.com/images/P/B0DQVPDLMS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 12:17:02",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3599,7 +3641,7 @@
     "url": "https://www.amazon.fr/dp/B0GGSRL31C",
     "image_url": "https://m.media-amazon.com/images/P/B0GGSRL31C.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 11:58:50",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -3963,7 +4005,7 @@
     "url": "https://www.amazon.fr/dp/B0D5BRCD9C",
     "image_url": "https://m.media-amazon.com/images/P/B0D5BRCD9C.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 09:03:53",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -4138,7 +4180,7 @@
     "url": "https://www.amazon.fr/dp/B0C7D3V237",
     "image_url": "https://m.media-amazon.com/images/P/B0C7D3V237.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-13 08:30:04",
-    "category": "Autre",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -5088,7 +5130,7 @@
     "url": "https://www.amazon.fr/dp/B0CQN35CYM",
     "image_url": "https://m.media-amazon.com/images/P/B0CQN35CYM.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 18:44:24",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -5888,7 +5930,7 @@
     "url": "https://www.amazon.fr/dp/B07FSYRVRG",
     "image_url": "https://m.media-amazon.com/images/P/B07FSYRVRG.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 17:38:09",
-    "category": "Autre",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
@@ -6313,7 +6355,7 @@
     "url": "https://www.amazon.fr/dp/B0CBCFBRW7",
     "image_url": "https://m.media-amazon.com/images/P/B0CBCFBRW7.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-12 17:02:29",
-    "category": "Autre",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
@@ -7505,6 +7547,182 @@
     ]
   },
   {
+    "title": "Plafonnier LED Rond - Salle de bain Lumière Plafond IP44, 4000K Lumière Panneau Taille: 40 cm (Vendeur Tiers - Via Coupon)",
+    "description": "20€ - Amazon coupon de réduction de 50 % 【Blanc neutre 4000 K et IRC > 80 – Une lumière naturelle et apaisante】 Une lumière blanche neutre de 4000 K avec un indice de rendu des couleurs (IRC) élevé > 80 offre un éclairage agréable et naturel – idéal pour le salon, la chambre à coucher, la salle à manger et la chambre d'enfant. Parfait pour une ambiance détendue et un confort au quotidien 【4 800 lumens, ultra-lumineux 】 Une puissance de 48 W et un flux lumineux de 4 800 lumens offrent un éclairage clair et homogène pour des pièces de 12 à 20 m² – pas de coins sombres, une luminosité maximale immédiate sans scintillement ni délai 【Design ultraplat, Ø 40 cm – Moderne et élégant】 Seulement 2,5 cm d’épaisseur, diamètre de 40 cm – plafonnier élégant et moderne en noir mat, parfait pour les plafonds bas et les intérieurs contemporains 【Sans scintillement ni éblouissement – Doux pour les yeux et confortable】 Un diffuseur en acrylique de haute qualité assure une lumière douce et homogène, sans scintillement, éblouissement ni ombre – idéal pour les yeux et une utilisation quotidienne 【Indice de protection IP44 contre les projections d’eau – Sûr et durable】 Indice de protection IP44 contre l’humidité – convient pour la salle de bains, la cuisine, le couloir et la cave. Montage simple, technologie LED durable, économe en énergie et sans entretien",
+    "price": 20.0,
+    "reference_price": null,
+    "discount_percent": 50.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/plafonnier-led-rond-salle-de-bain-lumiere-plafond-ip44-4000k-lumiere-panneau-taille-40cm-3432319",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CIRRt/3432319_1/re/1200x1200/qt/90/3432319_1.jpg",
+    "detected_at": "2026-10-14T11:20:41+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0DSP6DCR6?smid=A1V1YKQEZMPHF",
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-14T11:24:06.557332+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rayhaan Lion Eau de Parfum (Homme) 100 ml",
+    "description": "19,04€ - Parfums et Moi Lion by Rayhaan est un parfum pour homme lancé sur le marché en 2024, appartenant a la famille des fragrances aromatiques-épicées. Cette composition moderne associe des accords fruités frais à des herbes aromatiques et à un fond boisé chaleureux, créant ainsi une senteur assurée et charismatique. En ouverture, la lavande aromatique, la poire juteuse, la menthe rafraîchissante et le bergamote pétillant se déploient pour offrir au parfum une première impression énergique, fraîche et élégante. Au cœur de la composition s'entremêlent la cannelle chaleureuse, la sauge sclarée aromatique et le cumin expressif. Ces notes épicées et aromatiques créent une composition olfactive harmonieuse, à la fois masculine, moderne et parfaitement équilibrée. L'alliance des épices et des herbes apporte à la fragrance de la profondeur ainsi qu'un caractère reconnaissable entre tous. Le fond du parfum sensuel réunit la vanille crémeuse, l'ambre chaleureux, le cèdre noble et le patchouli terreux, laissant un sillage durable empreint d'élégance, de profondeur boisée et d'une sensualité délicatement orientale. Lion by Rayhaan est un choix idéal pour les hommes qui recherchent un parfum aromatique-épicé affirmé, au caractère moderne, à l'ouverture fraîche et au final chaleureux.",
+    "price": 19.04,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/rayhaan-lion-eau-de-parfum-homme-100-ml-3432320",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/TuPOi/3432320_1/re/1200x1200/qt/90/3432320_1.jpg",
+    "detected_at": "2026-10-14T11:19:52+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.04,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ECOVACS DEEBOT X11S OMNICYCLONE, robot aspirateur laveur 30 000 Pa avec rouleau OZMO ROLLER 3.0",
+    "description": "799€ - Amazon L’ECOVACS DEEBOT X11S OMNICYCLONE combine une puissance d’aspiration de 30 000 Pa avec le rouleau autonettoyant OZMO ROLLER 3.0 de 27 cm pour aspirer et laver efficacement les sols durs, tapis et moquettes. Sa station OMNI avec vidage automatique PureCyclone 2.0 limite l’entretien, tandis que la recharge rapide PowerBoost Plus permet de récupérer jusqu’à 13 % de batterie pendant un cycle de lavage de 3 minutes. Son système TruePass lui permet également de franchir des seuils jusqu’à 4 cm. * Aspiration BLAST de 30 000 Pa et brosse anti-emmêlement ZeroTangle 4.0. * Rouleau OZMO ROLLER 3.0 de 27 cm avec nettoyage continu et technologie TruEdge 3.0 pour les bords. * Station OMNI PureCyclone 2.0 avec vidage automatique sans sac. * Recharge rapide PowerBoost Plus, franchissement d’obstacles jusqu’à 4 cm et navigation intelligente AIVI 3D 4.0.",
+    "price": 799.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecovacs-deebot-x11s-omnicyclone-robot-aspirateur-laveur-30-000-pa-avec-rouleau-ozmo-roller-30-3432318",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/H7AVJ/3432318_1/re/1200x1200/qt/90/3432318_1.jpg",
+    "detected_at": "2026-10-14T11:16:14+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0HCC1911W",
+    "price_history": [
+      {
+        "price": 799.0,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caméra de Sport Insta 360 X5 Blanc",
+    "description": "321,87€ - AliExpress L'Insta360 X5 est une caméra d'action à 360° haut de gamme conçue pour les créateurs et les sportifs. Caractéristiques principales • Capteurs et optique : Double capteur CMOS 1/1,28\" avec une ouverture f/2.0 et des objectifs remplaçables. • Résolutions vidéo : • Jusqu'à 8K à 30 ips en 360° • 5,7K à 60 ips (mode Active HDR) • 4K à 120 ips pour des ralentis fluides • Mode mono-objectif (caméra d'action classique) jusqu'en 4K/60 ips. • Photo : Résolution jusqu'à 72 mégapixels. • Stabilisation et IA : Stabilisation FlowState sur 6 axes, verrouillage de l'horizon à 360°, système à triple puce IA et mode PureVideo pour les prises de vue en faible luminosité. • Autonomie et batterie : Batterie de 2400 mAh offrant jusqu'à 180–185 minutes d'autonomie et une charge rapide (environ 80 % en 20 minutes). • Conception et résistance : Étanche jusqu'à 15 mètres sans caisson (et jusqu'à 60 mètres avec un caisson dédié), résistance au froid jusqu'à -20 °C, et pare-vent intégré pour les 4 microphones. • Fonctionnalités pratiques : Effet perche à selfie invisible, mode InstaFrame pour le partage rapide, et fonction Twist to Shoot.",
+    "price": 321.87,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/camera-de-sport-insta-360-x5-blanc-3432317",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/q85f5/3432317_1/re/1200x1200/qt/90/3432317_1.jpg",
+    "detected_at": "2026-10-14T11:15:39+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://fr.aliexpress.com/item/1005012736769532.html",
+    "price_history": [
+      {
+        "price": 321.87,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tablette 12,1\" Poco PAD M1 - 8/256Go, Écran 2.5K 120Hz, Snapdragon 7s Gen 4",
+    "description": "186€ - AliExpress CPU-----------Plateforme mobile Snapdragon 7s Gen 4 Écran--------Écran cristallin de 12,1 po, résolution 2,5 k : 2560 x 1600, taux de rafraîchissement 120 Hz RAM+ROM ---8GB+256GB Appareil photo-------Caméra arrière 8MP, caméra avant 8MP Batterie et chargeur------Batterie 12000 mAh (typique) avec charge inversée filaire 27 W, USB Type-C >OS------------Xiaomi HyperOS 2 Audio---------Haut-parleurs quad| Augmentation du volume de 300 %, Dolby Atmos®️|Audio haute résolution, prise casque 3,5 mm Connectivité ---- Capacité Wi-Fi 6, Bluetooth 5.4",
+    "price": 186.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tablette-121-poco-pad-m1-8256go-ecran-25k-120hz-snapdragon-7s-gen-4-3432316",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/nv9PV/3432316_1/re/1200x1200/qt/90/3432316_1.jpg",
+    "detected_at": "2026-10-14T11:15:26+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://fr.aliexpress.com/item/1005011941332108.html",
+    "price_history": [
+      {
+        "price": 186.0,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque Bluetooth Nothing Headphone (a) avec ANC – Rose, Jaune, Noir, Blanc",
+    "description": "111,99€ - Amazon Un casque Nothing rose au look original, avec des détails transparents qui changent des modèles classiques. Il propose la réduction de bruit pour profiter de ta musique, un son Hi-Res et l’audio spatial. Tu peux aussi le connecter à deux appareils, avec jusqu’à 135 heures d’autonomie annoncées sans réduction de bruit.",
+    "price": 111.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nothing-headphone-a-casque-bluetooth-avec-anc-rosejaunenoirblanc-3432313",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oiALZ/3432313_1/re/1200x1200/qt/90/3432313_1.jpg",
+    "detected_at": "2026-10-14T11:13:34+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0G6L2ZST1?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 111.99,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Faitout Inox Tefal Comfort Max - 24 cm, Couvercle en Verre, Tous feux dont induction",
+    "description": "22,79€ - Amazon Pour les soupes et sauces de saison (cheeky) > Livraison gratuite Description ACIER INOXYDABLE GARANTI 10 ANS : assurant des performances et une fiabilité durables, découvrez un produit de qualité supérieure au design robuste, conçu pour durer CUISSON RAPIDE ET HOMOGENE : casserole avec base épaisse Thermo-Fusion, pour une cuisson rapide et régulière et une compatibilité totale avec toutes les plaques de cuisson (gaz, électrique, vitrocéramique et induction) POIGNEES THERMO-ISOLEES : un design ergonomique et des poignées froides au toucher, pour une sécurité et un confort total pendant la cuisson GRADUATIONS INTERIEURES : la conception intelligente avec des marques de mesure intégrées garantit des résultats parfaits à chaque fois COUVERCLE EN VERRE AVEC ORIFICE D'EVACUATION DE LA VAPEUR : pour une cuisson sûre et facile qui préserve toute la saveur et l'humidité de vos ingrédients DES POSSIBILITÉS INFINIES : des résultats délicieux qui ne manquent jamais d'impressionner, du poulet provençal et du tajine d'agneau aux mijotés de poisson et au riz pilaf infusé au safran COMPATIBLE LAVE-VAISSELLE : facile à nettoyer, elle offre une commodité inégalée, idéale pour un usage fréquent",
+    "price": 22.79,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/faitout-inox-tefal-comfort-max-24-cm-couvercle-en-verre-tous-feux-dont-induction-3432312",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dD2U8/3432312_1/re/1200x1200/qt/90/3432312_1.jpg",
+    "detected_at": "2026-10-14T11:12:46+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0BP8DTF6W",
+    "price_history": [
+      {
+        "price": 22.79,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montre Seiko 5 SNKP21J1 Automatique",
+    "description": "168€ - Creation Watches Excellent prix ! On la retrouve beaucoup plus cher sur de nombreux autres sites",
+    "price": 168.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-seiko-5-snkp21j1-automatique-3432311",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/hkv0J/3432311_1/re/1200x1200/qt/90/3432311_1.jpg",
+    "detected_at": "2026-10-14T11:12:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 168.0,
+        "observed_at": "2026-10-14T11:22:22.221645+00:00"
+      }
+    ]
+  },
+  {
     "title": "PC Portable 13\" Apple MacBook Neo - 8/256Go, Puce A18 Pro avec CPU 6 cœurs et GPU 5 cœurs, Agrume, AZERTY",
     "description": "749€ - JoyBuy Performances équilibrées : la puce Apple A18 Pro avec CPU 6 cœurs (2 performance, 4 efficacité) et GPU 5 cœurs offre des performances fluides pour les tâches quotidiennes, la navigation et le multitâche léger, avec une bande passante mémoire de 60 Go/s. Conçu pour Apple Intelligence : le Neural Engine 16 cœurs et les technologies d'IA intégrées permettent d'exécuter efficacement les tâches d'intelligence artificielle, avec des protections de confidentialité révolutionnaires. Autonomie généreuse : jusqu'à 16 heures de lecture vidéo et 11 heures de navigation Web, pour une productivité sans interruption toute la journée. Écran Liquid Retina 13 pouces : résolution 2408 x 1506, 500 nits de luminosité, support d'l milliard de couleurs et compatibilité HDR10, HDR10+, Dolby Vision et HLG. Design léger et coloré : poids plume de 1,23 kg, épaisseur de 1,27 cm, boîtier en aluminium recyclé à 60 % de matériaux recyclés, disponible en quatre couleurs tendance dont le jaune agrume. Connectivité moderne : Wi-Fi 6E, Bluetooth 6.0, port USB-C avec DisplayPort, charge USB-C, prise casque 3,5 mm, avec prise en charge d'un écran externe. macOS Tahoe et Apple Intelligence : système d'exploitation avec outils de productivité intuitifs, intégration transparente avec l'écosystème Apple via les fonctionnalités Continuité, et mises à jour logicielles gratuites. Durabilité et réparabilité : indice de réparabilité de 6,8/10, certification EPEAT Gold, empreinte carbone de 103 kg, et plus de 60 % de matériaux recyclés.",
     "price": 749.0,
@@ -7758,7 +7976,7 @@
     "url": "https://www.dealabs.com/bons-plans/vente-privee-jeu-de-societe-tower-up-3432266",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jQCj0/3432266_1/re/1200x1200/qt/90/3432266_1.jpg",
     "detected_at": "2026-10-14T10:20:14+00:00",
-    "category": "Autre",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -7792,7 +8010,7 @@
     "url": "https://www.dealabs.com/bons-plans/vente-privee-jeu-de-societe-trekking-the-world-3432271",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/3sAIN/3432271_1/re/1200x1200/qt/90/3432271_1.jpg",
     "detected_at": "2026-10-14T10:03:37+00:00",
-    "category": "Autre",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -7809,7 +8027,7 @@
     "url": "https://www.dealabs.com/bons-plans/vente-privee-jeu-de-societe-great-western-trail-el-paso-3432268",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/o1fuR/3432268_1/re/1200x1200/qt/90/3432268_1.jpg",
     "detected_at": "2026-10-14T10:02:33+00:00",
-    "category": "Autre",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -7936,7 +8154,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77256-la-machine-a-remonter-le-temps-de-retour-vers-le-futur-3432254",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/voff8/3432254_1/re/1200x1200/qt/90/3432254_1.jpg",
     "detected_at": "2026-10-14T09:42:30+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -7958,7 +8176,7 @@
     "url": "https://www.dealabs.com/bons-plans/precommande-adherent-fnac-lodyssee-2026-edition-collector-speciale-fnac-steelbook-blu-ray-4k-ultra-hd-5eur-sur-votre-compte-fidelite-3432253",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/pN8QU/3432253_1/re/1200x1200/qt/90/3432253_1.jpg",
     "detected_at": "2026-10-14T09:37:51+00:00",
-    "category": "Bébé & enfants",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -7980,7 +8198,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-serre-livres-zigzag-toy-story-43301-lego-3432252",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ih5MH/3432252_1/re/1200x1200/qt/90/3432252_1.jpg",
     "detected_at": "2026-10-14T09:37:36+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -8068,7 +8286,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-43024-casque-dayrton-senna-editions-3432248",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/U7Np9/3432248_1/re/1200x1200/qt/90/3432248_1.jpg",
     "detected_at": "2026-10-14T09:29:47+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -8239,7 +8457,7 @@
     "url": "https://www.dealabs.com/bons-plans/peluche-nintendo-super-mario-mario-xxl-70-cm-3432240",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/zcff5/3432240_1/re/1200x1200/qt/90/3432240_1.jpg",
     "detected_at": "2026-10-14T09:22:48+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -8322,7 +8540,7 @@
     "description": "126€ - Asics N'oubliez pas les 10% de réduction pour une 1ère commande, via inscription à la newsletter (highfive) Technologie GEL à 360 degrés dans la semelle intermédiaire Panneaux en maille fermés Marquage minimal Amorti FF BLAST PLUS dans la semelle intermédiaire La chaussure GEL-QUANTUM 360 I AMP reconnaît le dixième anniversaire du lancement de la franchise GEL-QUANTUM. La première version de la série était la première chaussure ASICS à être dotée de la technologie GEL à 360 degrés dans la semelle intermédiaire. Sa structure supérieure est modifiée avec des panneaux en maille fermés et un marquage minimal, donnant à la chaussure un aspect plus dimensionnel avec une plus grande profondeur. La semelle intermédiaire est conservée avec sa technologie GEL à 360 degrés, mais elle est dotée d'un amorti FF BLAST PLUS pour un meilleur confort sous le pied.",
     "price": 126.0,
     "reference_price": null,
-    "discount_percent": 10.0,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/baskets-asics-gel-quantum-360-amp-tailles-du-36-au-465-3432235",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/quZgl/3432235_1/re/1200x1200/qt/90/3432235_1.jpg",
@@ -8375,7 +8593,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.kiabi.com/sweat-imprime-fantaisie-rose_P2890207C2890208",
     "price_history": [
       {
         "price": 2.4,
@@ -8529,7 +8747,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0GK27BDK5?smid=A1X0M9U5WW1195",
     "price_history": [
       {
         "price": 127.9,
@@ -8573,7 +8791,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.zalando.fr/new-balance-u740-unisex-baskets-basses-raincloudfan-blue-ne215p065-c15.html",
     "price_history": [
       {
         "price": 59.95,
@@ -8701,7 +8919,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-harry-potter-le-chateau-de-poudlard-les-cours-de-vol-76447-3432213",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/EdCNl/3432213_1/re/1200x1200/qt/90/3432213_1.jpg",
     "detected_at": "2026-10-14T08:48:36+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -8921,7 +9139,7 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-dixit-kids-3432198",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/tzd14/3432198_1/re/1200x1200/qt/90/3432198_1.jpg",
     "detected_at": "2026-10-14T08:28:45+00:00",
-    "category": "Autre",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -8965,7 +9183,7 @@
     "url": "https://www.dealabs.com/bons-plans/adherents-fnac-10eur-credites-des-50eur-dachat-sur-les-rayons-jeux-jouets-3432200",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/wBTH1/3432200_1/re/1200x1200/qt/90/3432200_1.jpg",
     "detected_at": "2026-10-14T08:28:01+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -9813,7 +10031,7 @@
     "url": "https://www.dealabs.com/bons-plans/pack-ma-fabrique-a-histoire-boite-a-histoires-lunii-livre-audio-defi-vilain-echappe-a-scar-1-livre-audio-au-choix-3432150",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Xw20x/3432150_1/re/1200x1200/qt/90/3432150_1.jpg",
     "detected_at": "2026-10-14T07:36:41+00:00",
-    "category": "High-tech",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -9835,7 +10053,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-la-toyota-supra-mk4-de-fast-and-furious-77260-3432148",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/W8ZZl/3432148_1/re/1200x1200/qt/90/3432148_1.jpg",
     "detected_at": "2026-10-14T07:28:32+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -9857,7 +10075,7 @@
     "url": "https://www.dealabs.com/bons-plans/abri-de-jardin-resine-lifetime-landmark-60501-gris-surface-totale-454-m2-3432145",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/FimZ4/3432145_1/re/1200x1200/qt/90/3432145_1.jpg",
     "detected_at": "2026-10-14T07:27:07+00:00",
-    "category": "Bricolage",
+    "category": "Jardin & extérieur",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -9879,7 +10097,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-pokemon-smart-play-72162-chasse-au-tresor-devoli-et-lokhlass-623-pieces-3432144",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/8r8Lv/3432144_1/re/1200x1200/qt/90/3432144_1.jpg",
     "detected_at": "2026-10-14T07:26:46+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -10798,7 +11016,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-la-toyota-supra-mk4-de-fast-and-furious-77260-3432096",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/k0Jv8/3432096_1/re/1200x1200/qt/90/3432096_1.jpg",
     "detected_at": "2026-10-14T06:29:52+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11013,7 +11231,7 @@
     "url": "https://www.dealabs.com/bons-plans/times-up-kids-version-panda-jeu-de-societe-3432084",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mFHvK/3432084_1/re/1200x1200/qt/90/3432084_1.jpg",
     "detected_at": "2026-10-14T05:59:03+00:00",
-    "category": "Animaux",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11079,7 +11297,7 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-asmodee-trio-3-a-6-joueurs-des-7-ans-via-3eur-sur-carte-fidelite-3432081",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mt84m/3432081_1/re/1200x1200/qt/90/3432081_1.jpg",
     "detected_at": "2026-10-14T05:56:10+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11717,7 +11935,7 @@
     "url": "https://www.dealabs.com/bons-plans/lodyssee-blu-ray-4k-steelbook-fnac-3432048",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/QsBXQ/3432048_1/re/1200x1200/qt/90/3432048_1.jpg",
     "detected_at": "2026-10-14T04:09:25+00:00",
-    "category": "Autre",
+    "category": "Culture & sorties",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11761,7 +11979,7 @@
     "url": "https://www.dealabs.com/bons-plans/25-de-fidelite-sur-une-selection-de-jeux-de-societe-gigiamic-ex-jeu-de-societe-akropolis-via-500eur-en-tickets-eleclerc-3432046",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/oNT6T/3432046_1/re/1200x1200/qt/90/3432046_1.jpg",
     "detected_at": "2026-10-14T04:08:31+00:00",
-    "category": "Autre",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11783,7 +12001,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77237-dodge-challenger-srt-hellcat-3432045",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/RWVAf/3432045_1/re/1200x1200/qt/90/3432045_1.jpg",
     "detected_at": "2026-10-14T04:06:12+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11915,7 +12133,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-disney-et-pixar-42379-wall-e-et-eve-811-pieces-3432036",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/2QkDi/3432036_1/re/1200x1200/qt/90/3432036_1.jpg",
     "detected_at": "2026-10-14T02:26:17+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -12355,7 +12573,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-creator-31394-les-adorables-animaux-le-panda-roux-3432008",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Y3oNz/3432008_1/re/1200x1200/qt/90/3432008_1.jpg",
     "detected_at": "2026-10-13T22:20:28+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -13142,7 +13360,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-ninjago-la-moto-tempete-du-robot-de-kai-71830-3431962",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/Y1tfU/3431962_1/re/1200x1200/qt/90/3431962_1.jpg",
     "detected_at": "2026-10-13T20:08:32+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -13274,7 +13492,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-disney-stitch-43249-3431952",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/q7FAN/3431952_1/re/1200x1200/qt/90/3431952_1.jpg",
     "detected_at": "2026-10-13T19:56:30+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -13313,7 +13531,7 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-speed-champions-flash-mcqueen-77255-3431949",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/JUA1y/3431949_1/re/1200x1200/qt/90/3431949_1.jpg",
     "detected_at": "2026-10-13T19:52:45+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -13445,7 +13663,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77238-lamborghini-revuelto-huracan-sto-3431942",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/HseQL/3431942_1/re/1200x1200/qt/90/3431942_1.jpg",
     "detected_at": "2026-10-13T19:28:30+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -13907,7 +14125,7 @@
     "url": "https://www.dealabs.com/bons-plans/machine-a-cafe-jouet-3431913",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ZFib3/3431913_1/re/1200x1200/qt/90/3431913_1.jpg",
     "detected_at": "2026-10-13T18:41:47+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
@@ -14083,7 +14301,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-technic-f1-oracle-red-bull-racing-rb20-42206-3431907",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/HBF8r/3431907_1/re/1200x1200/qt/90/3431907_1.jpg",
     "detected_at": "2026-10-13T18:28:04+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T20:15:35.018581+00:00",
@@ -14193,7 +14411,7 @@
     "url": "https://www.dealabs.com/bons-plans/lego-jurassic-world-76968-exclu-cdiscount-les-fossiles-de-dinosaures-le-tyrannosaurus-rex-pour-adulte-3431901",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/5ZGZc/3431901_1/re/1200x1200/qt/90/3431901_1.jpg",
     "detected_at": "2026-10-13T18:20:07+00:00",
-    "category": "Bébé & enfants",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -14215,7 +14433,7 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-exploding-kittens-edition-festive-3431898",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lHbw7/3431898_1/re/1200x1200/qt/90/3431898_1.jpg",
     "detected_at": "2026-10-13T18:15:01+00:00",
-    "category": "Autre",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -14246,160 +14464,6 @@
       {
         "price": 899.99,
         "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Membres] Sweat-shirt Levi's Original homme - Grey Heather, 100 % coton French Terry, du S au XL",
-    "description": "30€ - Levi's Le sweat-shirt Original de Levi's est un basique à col rond qui s'associe facilement avec à peu près tout, du jean au chino. Il est réalisé en jersey French Terry 100 % coton, doux au toucher, avec une coupe standard. On retrouve le col rond orné d'un empiècement façon sifflet, les manches longues et l'emblématique logo Levi's. Le coloris concerné est le Grey Heather (gris chiné), référence 359090002. Les tailles disponibles vont du S au XL, et les clients indiquent qu'il taille normalement. Le modèle affiche une note de 4,5/5 sur plus de 230 avis. La livraison est offerte pour les membres du programme Levi's Red Tab ou à partir de 49,99 € d'achat ; en dessous, des frais de port s'ajoutent au panier.",
-    "price": 30.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/menbres-sweat-shirt-levis-original-homme-grey-heather-100-coton-french-terry-du-s-au-xl-3431899",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5rNde/3431899_1/re/1200x1200/qt/90/3431899_1.jpg",
-    "detected_at": "2026-10-13T18:14:11+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 30.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "6J/5N pour 2 personnes à Tunis à Hôtel Vincci Helya Beach Monastir - Vol inclus depuis Marseille, Ex: du 17 au 22 mars 2027",
-    "description": "552€ - Ôvoyages",
-    "price": 552.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/hotel-vincci-helya-beach-monastir-4-by-ovoyages-tout-compris-ventes-flash-3431873",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/D3HMC/3431873_1/re/1200x1200/qt/90/3431873_1.jpg",
-    "detected_at": "2026-10-13T18:13:13+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 552.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société - Paquet de chips",
-    "description": "7,99€ - Amazon JEU D'AMBIANCE : parfait en début de soirée, rigolades garanties à chaque partie de ce jeu de société léger et fun. PRENEZ LES BONS RISQUES : à chaque manche, vous devez parier sur les tirages en éliminant tour par tour les objectifs que vous pensez ne pas réaliser. UN SUSPENSE CROUSTILLANT : une tension amusante qui monte au fur et à mesure des tirages, dans l'esprit d'une partie de poker. UN LOOK AUSSI FUN QUE SON GAMEPLAY : un emballage original et rigolo, des chips en carton coloré façon trompe-l'œil. ACCESSIBLE À TOUS : des règles expliquées en 2 minutes, un jeu de société idéal pour les familles, amis ou soirées jeux. Spécifications Tranche d'âge (description): Enfants ; Adultes Nombre de joueurs: 2-6 Marque: Asmodee Thème: Paris Matériau: Carton Couleur: Red, Blue, Green, Yellow Composants inclus: 25 chips (5 couleurs), 36 cartes Objectif, 1 sac en tissu, 1 règle du jeu. Informations sur l'emballage: Sac Dimensions du produit: 13,5L x 3l centimètres Quantité d'articles dans le colis: 1 Description de la tranche d’âge: Enfants ; Adultes Pays d'origine: Chine Unité de comptage: 1.0 unité Nom du type du produit: Jeu de société Nom du modèle: Paquet DE Chips Nombre d’emballages: 1 Nom de l'ensemble: Chips Point fort de l’article: Adultes et Enfants dès 8 Ans - 2 à 5 Joueurs - 15 Min - Version Française Fabricant: Asmodee Numéro de modèle: ZYGBOC0102FR Numéro de pièce: ZYGBOC0102FR Description de la garantie du fabricant: Non applicable Classement des meilleures ventes d'Amazon: 44252 en Jeux et Jouets (Voir les 100 premiers en Jeux et Jouets) 1766 en Jeux de plateau ASIN: B0FSD9Y5KB Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (22) 4,7 sur 5 étoiles Âge recommandé par le fabricant: 8 ans et plus Type de contenant: Sac Nombre d' articles: 1 Produit en kit?: Non Temps de jeu estimé: 15 Minutes Utilisation extérieure ou intérieure: Intérieur Mode de fonctionnement: Manuel Genre: Jeu d'Ambiance Dimensions de l’article L x l: 13,5L x 3l centimètres Quantité de lot: 1 Taille: 13.5 cm x 3 cm Type de matériau: Carton Commentaires client",
-    "price": 7.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-paquet-de-chips-3431896",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/H4RYX/3431896_1/re/1200x1200/qt/90/3431896_1.jpg",
-    "detected_at": "2026-10-13T18:08:56+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 7.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Poêle Tefal Hard Titanium - 24cm",
-    "description": "15,12€ - Outlet 46 La poêle Tefal Hard Titanium Essential est une poêle de 24 cm avec un revêtement antiadhésif en titane. *spécifications du produit :* - Diamètre : 24 cm - Revêtement antiadhésif en titane - Produit reconditionné et vérifié - Couleur : Noir",
-    "price": 15.12,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/poele-tefal-hard-titanium-24cm-3431894",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/wVb9o/3431894_1/re/1200x1200/qt/90/3431894_1.jpg",
-    "detected_at": "2026-10-13T18:05:30+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.12,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Via PayPal] Tablette 14,6\" Samsung Galaxy Tab S12 Ultra - 256 Go, avec écouteurs sans fil Galaxy Buds 4 Pro & Book Cover",
-    "description": "1 081,20€ - Samsung Samsung Galaxy Tab S12 Ultra 256 Go : En payant avec PayPal, -150 € et -20 % grâce à un code promo à demander à un conseiller Samsung. Galaxy Buds4 Pro offerts avec les Galaxy Tab S12 Ultra et Galaxy Buds4 offerts avec les Galaxy Tab S12+ Un Book Cover Hybride offert pour toute souscription à Samsung Care+ (sans engagement et gratuit 3 mois).",
-    "price": 1081.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tablette-146-samsung-galaxy-tab-s12-ultra-256-go-avec-ecouteurs-sans-fil-galaxy-buds-4-pro-book-cover-via-paypal-3431893",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/KomYU/3431893_1/re/1200x1200/qt/90/3431893_1.jpg",
-    "detected_at": "2026-10-13T18:05:19+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1081.2,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Cutter pliable Werckmann avec - 8 lames",
-    "description": "2,49€ - Action Ca fait un an que je l'ai et je m'en sers intensivement, tout est nickel. Compact et pliable Avec cran de sécurité 8 lames de rechange incluses",
-    "price": 2.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cutter-pliable-werckmann-avec-8-lames-3431892",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/t0ry3/3431892_1/re/1200x1200/qt/90/3431892_1.jpg",
-    "detected_at": "2026-10-13T18:04:30+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2.49,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur balai sans fil 3 en 1 Taurus Ideal - Autonomie 40 min, 22,2 V, 2 vitesses, brosse électrique",
-    "description": "59,99€ - JoyBuy Le Taurus Ideal Lithium est un aspirateur sans fil léger et polyvalent qui combine trois fonctions en une : un aspirateur balai, un aspirateur à main et un aspirateur d'entretien, s'adaptant parfaitement pour nettoyer les sols, les recoins des meubles et les coins en hauteur.Il bénéficie d'une autonomie impressionnante de 40 minutes et dispose d'une Turbo Brosse motorisée amovible pour un nettoyage en profondeur des tapis et des sols durs. Le système Turbo Cyclone, associé à un filtre HEPA lavable, capture efficacement jusqu'à 99,9 % de la poussière fine.Le système d'accessoires One Touch permet un changement d'accessoires en un seul geste, et la station de chargement murale incluse offre un rangement et un chargement pratiques, rendant votre nettoyage domestique plus efficace et sans tracas. Caractéristiques principales Conception sans fil légère pour un mouvement libre Polyvalence 3-en-1 : modes balai, aspirateur à main et longue portée Brosse Turbo motorisée amovible pour la saleté incrustée Système cyclonique Turbo en acier inoxydable Direction pivotante à 180° pour manœuvrer autour des meubles Deux réglages de vitesse : Eco et Turbo Filtre HEPA lavable capturant 99,9 % de la poussière Accessoire 2-en-1 pour tissus d'ameublement et coins Long manche pour nettoyer les zones en hauteur Fixation et détachement d'accessoires par simple pression d'un bouton Poignée ergonomique au toucher doux Technologie de charge rapide Station de charge murale avec support pour accessoires Couleur : Bleu",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/taurus-ideal-lithium-aspirateur-balai-sans-fil-3-en-1-autonomie-40-min-222-v-2-vitesses-brosse-electrique-ultra-leger-et-silencieux-3431891",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/0KNaY/3431891_1/re/1200x1200/qt/90/3431891_1.jpg",
-    "detected_at": "2026-10-13T18:03:27+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   }
