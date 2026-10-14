@@ -1091,7 +1091,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
     "price_history": [
       {
         "price": 89.99,
@@ -1111,7 +1111,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
     "price_history": [
       {
         "price": 42.97,
@@ -1131,7 +1131,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
     "price_history": [
       {
         "price": 124.9,
@@ -1151,7 +1151,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T06:52:43.812322+00:00",
     "price_history": [
       {
         "price": 26.99,
@@ -3816,10 +3816,6 @@
       {
         "price": 27.81,
         "observed_at": "2026-10-13T06:27:32.153576+00:00"
-      },
-      {
-        "price": 27.81,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
       }
     ]
   },
@@ -3840,10 +3836,6 @@
       {
         "price": 23.5,
         "observed_at": "2026-10-13T06:02:31.775317+00:00"
-      },
-      {
-        "price": 23.5,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
       }
     ]
   },
@@ -3864,10 +3856,6 @@
       {
         "price": 57.6,
         "observed_at": "2026-10-13T05:47:42.063795+00:00"
-      },
-      {
-        "price": 57.6,
-        "observed_at": "2026-10-14T06:00:21.362397+00:00"
       }
     ]
   },
@@ -3888,10 +3876,6 @@
       {
         "price": 22.85,
         "observed_at": "2026-10-13T04:00:40.824102+00:00"
-      },
-      {
-        "price": 22.85,
-        "observed_at": "2026-10-14T04:05:16.314403+00:00"
       }
     ]
   },
@@ -3912,10 +3896,6 @@
       {
         "price": 627.84,
         "observed_at": "2026-10-13T02:01:55.765931+00:00"
-      },
-      {
-        "price": 627.84,
-        "observed_at": "2026-10-14T02:14:02.361860+00:00"
       }
     ]
   },
@@ -3936,10 +3916,6 @@
       {
         "price": 24.95,
         "observed_at": "2026-10-13T01:48:28.839462+00:00"
-      },
-      {
-        "price": 24.95,
-        "observed_at": "2026-10-14T01:54:44.401054+00:00"
       }
     ]
   },
@@ -3960,10 +3936,6 @@
       {
         "price": 89.99,
         "observed_at": "2026-10-13T01:10:48.819149+00:00"
-      },
-      {
-        "price": 89.99,
-        "observed_at": "2026-10-14T01:27:19.324555+00:00"
       }
     ]
   },
@@ -3984,10 +3956,6 @@
       {
         "price": 10.94,
         "observed_at": "2026-10-13T00:52:07.274133+00:00"
-      },
-      {
-        "price": 10.94,
-        "observed_at": "2026-10-14T00:58:24.054406+00:00"
       }
     ]
   },
@@ -4008,10 +3976,6 @@
       {
         "price": 99.9,
         "observed_at": "2026-10-13T00:52:07.274133+00:00"
-      },
-      {
-        "price": 99.9,
-        "observed_at": "2026-10-14T00:58:24.054406+00:00"
       }
     ]
   },
@@ -4032,10 +3996,6 @@
       {
         "price": 235.06,
         "observed_at": "2026-10-12T23:32:40.004771+00:00"
-      },
-      {
-        "price": 235.06,
-        "observed_at": "2026-10-13T23:35:12.715032+00:00"
       }
     ]
   },
@@ -4056,10 +4016,6 @@
       {
         "price": 6.49,
         "observed_at": "2026-10-12T22:33:18.611432+00:00"
-      },
-      {
-        "price": 6.49,
-        "observed_at": "2026-10-13T22:53:52.916842+00:00"
       }
     ]
   },
@@ -4080,10 +4036,6 @@
       {
         "price": 17.36,
         "observed_at": "2026-10-12T22:17:06.696397+00:00"
-      },
-      {
-        "price": 17.36,
-        "observed_at": "2026-10-13T22:28:12.315028+00:00"
       }
     ]
   },
@@ -4104,10 +4056,6 @@
       {
         "price": 31.45,
         "observed_at": "2026-10-12T22:02:00.505050+00:00"
-      },
-      {
-        "price": 31.45,
-        "observed_at": "2026-10-13T22:02:51.987880+00:00"
       }
     ]
   },
@@ -4128,10 +4076,6 @@
       {
         "price": 13.79,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 13.79,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4152,10 +4096,6 @@
       {
         "price": 19.0,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 19.0,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4176,10 +4116,6 @@
       {
         "price": 34.43,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 34.43,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4200,10 +4136,6 @@
       {
         "price": 53.0,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 53.0,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4224,10 +4156,6 @@
       {
         "price": 9.48,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 9.48,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4248,10 +4176,6 @@
       {
         "price": 11.69,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 11.69,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4272,10 +4196,6 @@
       {
         "price": 9.24,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 9.24,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4296,10 +4216,6 @@
       {
         "price": 8.69,
         "observed_at": "2026-10-12T19:35:05.934905+00:00"
-      },
-      {
-        "price": 8.69,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
       }
     ]
   },
@@ -4320,10 +4236,6 @@
       {
         "price": 40.17,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      },
-      {
-        "price": 40.17,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4344,10 +4256,6 @@
       {
         "price": 8.59,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      },
-      {
-        "price": 8.59,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4368,10 +4276,6 @@
       {
         "price": 19.1,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      },
-      {
-        "price": 19.1,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4392,10 +4296,6 @@
       {
         "price": 264.09,
         "observed_at": "2026-10-12T19:17:58.667305+00:00"
-      },
-      {
-        "price": 264.09,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4416,10 +4316,6 @@
       {
         "price": 6.4,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 6.4,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4440,10 +4336,6 @@
       {
         "price": 9.7,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 9.7,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4464,10 +4356,6 @@
       {
         "price": 9.8,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 9.8,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4488,10 +4376,6 @@
       {
         "price": 56.06,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 56.06,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4512,10 +4396,6 @@
       {
         "price": 12.88,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 12.88,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4536,10 +4416,6 @@
       {
         "price": 22.0,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 22.0,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4560,10 +4436,6 @@
       {
         "price": 12.75,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 12.75,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4584,10 +4456,6 @@
       {
         "price": 166.76,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 166.76,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4608,10 +4476,6 @@
       {
         "price": 11.18,
         "observed_at": "2026-10-12T19:02:18.093731+00:00"
-      },
-      {
-        "price": 11.18,
-        "observed_at": "2026-10-13T19:24:37.039169+00:00"
       }
     ]
   },
@@ -4632,10 +4496,6 @@
       {
         "price": 29.94,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 29.94,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4656,10 +4516,6 @@
       {
         "price": 7.97,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 7.97,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4680,10 +4536,6 @@
       {
         "price": 316.92,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 316.92,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4704,10 +4556,6 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4728,10 +4576,6 @@
       {
         "price": 38.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 38.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4752,10 +4596,6 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4776,10 +4616,6 @@
       {
         "price": 8.15,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 8.15,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4800,10 +4636,6 @@
       {
         "price": 5.2,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 5.2,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4824,10 +4656,6 @@
       {
         "price": 14.03,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 14.03,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4848,10 +4676,6 @@
       {
         "price": 5.9,
         "observed_at": "2026-10-12T18:44:36.994114+00:00"
-      },
-      {
-        "price": 5.9,
-        "observed_at": "2026-10-13T18:58:43.393573+00:00"
       }
     ]
   },
@@ -4872,10 +4696,6 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -4896,10 +4716,6 @@
       {
         "price": 13.19,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 13.19,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -4920,10 +4736,6 @@
       {
         "price": 11.0,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 11.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -4944,10 +4756,6 @@
       {
         "price": 15.12,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 15.12,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -4968,10 +4776,6 @@
       {
         "price": 12.37,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 12.37,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -4992,10 +4796,6 @@
       {
         "price": 38.62,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 38.62,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5016,10 +4816,6 @@
       {
         "price": 6.59,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 6.59,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5040,10 +4836,6 @@
       {
         "price": 749.0,
         "observed_at": "2026-10-12T18:21:49.412746+00:00"
-      },
-      {
-        "price": 749.0,
-        "observed_at": "2026-10-13T18:30:56.778676+00:00"
       }
     ]
   },
@@ -5064,10 +4856,6 @@
       {
         "price": 22.45,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      },
-      {
-        "price": 22.45,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5088,10 +4876,6 @@
       {
         "price": 40.8,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      },
-      {
-        "price": 40.8,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5112,10 +4896,6 @@
       {
         "price": 7.9,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      },
-      {
-        "price": 7.9,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5136,10 +4916,6 @@
       {
         "price": 41.97,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      },
-      {
-        "price": 41.97,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5160,10 +4936,6 @@
       {
         "price": 71.23,
         "observed_at": "2026-10-12T18:02:17.905969+00:00"
-      },
-      {
-        "price": 71.23,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
       }
     ]
   },
@@ -5184,10 +4956,6 @@
       {
         "price": 5.15,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      },
-      {
-        "price": 5.15,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5208,10 +4976,6 @@
       {
         "price": 28.9,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      },
-      {
-        "price": 28.9,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5232,10 +4996,6 @@
       {
         "price": 65.02,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      },
-      {
-        "price": 65.02,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5256,10 +5016,6 @@
       {
         "price": 5.4,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      },
-      {
-        "price": 5.4,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5280,10 +5036,6 @@
       {
         "price": 11.95,
         "observed_at": "2026-10-12T17:53:28.690156+00:00"
-      },
-      {
-        "price": 11.95,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   },
@@ -5304,10 +5056,6 @@
       {
         "price": 33.13,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 33.13,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5328,10 +5076,6 @@
       {
         "price": 16.81,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 16.81,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5352,10 +5096,6 @@
       {
         "price": 16.08,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 16.08,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5376,10 +5116,6 @@
       {
         "price": 16.99,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 16.99,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5400,10 +5136,6 @@
       {
         "price": 5.76,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 5.76,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5424,10 +5156,6 @@
       {
         "price": 12.31,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 12.31,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5448,10 +5176,6 @@
       {
         "price": 10.85,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 10.85,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5472,10 +5196,6 @@
       {
         "price": 56.99,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 56.99,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5496,10 +5216,6 @@
       {
         "price": 20.45,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 20.45,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5520,10 +5236,6 @@
       {
         "price": 122.4,
         "observed_at": "2026-10-12T17:38:31.505165+00:00"
-      },
-      {
-        "price": 122.4,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
       }
     ]
   },
@@ -5544,10 +5256,6 @@
       {
         "price": 22.49,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 22.49,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5568,10 +5276,6 @@
       {
         "price": 18.45,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 18.45,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5592,10 +5296,6 @@
       {
         "price": 36.39,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 36.39,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5616,10 +5316,6 @@
       {
         "price": 13.99,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 13.99,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5640,10 +5336,6 @@
       {
         "price": 27.97,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 27.97,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5664,10 +5356,6 @@
       {
         "price": 21.29,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 21.29,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5688,10 +5376,6 @@
       {
         "price": 19.99,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5712,10 +5396,6 @@
       {
         "price": 20.86,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 20.86,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5736,10 +5416,6 @@
       {
         "price": 11.57,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 11.57,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5760,10 +5436,6 @@
       {
         "price": 59.54,
         "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 59.54,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
       }
     ]
   },
@@ -5784,10 +5456,6 @@
       {
         "price": 12.69,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 12.69,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5808,10 +5476,6 @@
       {
         "price": 10.43,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 10.43,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5832,10 +5496,6 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 24.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5856,10 +5516,6 @@
       {
         "price": 10.95,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 10.95,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5880,10 +5536,6 @@
       {
         "price": 14.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5904,10 +5556,6 @@
       {
         "price": 51.38,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 51.38,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5928,10 +5576,6 @@
       {
         "price": 10.49,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 10.49,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5952,10 +5596,6 @@
       {
         "price": 41.0,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 41.0,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -5976,10 +5616,6 @@
       {
         "price": 26.02,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 26.02,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6000,10 +5636,6 @@
       {
         "price": 25.99,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6024,10 +5656,6 @@
       {
         "price": 17.98,
         "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 17.98,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6048,10 +5676,6 @@
       {
         "price": 26.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 26.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6072,10 +5696,6 @@
       {
         "price": 17.65,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 17.65,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6096,10 +5716,6 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 18.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6120,10 +5736,6 @@
       {
         "price": 19.52,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 19.52,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6144,10 +5756,6 @@
       {
         "price": 12.94,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 12.94,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6168,10 +5776,6 @@
       {
         "price": 12.9,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 12.9,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6192,10 +5796,6 @@
       {
         "price": 149.99,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 149.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6216,10 +5816,6 @@
       {
         "price": 12.5,
         "observed_at": "2026-10-12T16:50:34.411032+00:00"
-      },
-      {
-        "price": 12.5,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
       }
     ]
   },
@@ -6240,10 +5836,6 @@
       {
         "price": 5.99,
         "observed_at": "2026-10-12T16:32:35.264056+00:00"
-      },
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
       }
     ]
   },
@@ -6264,10 +5856,6 @@
       {
         "price": 23.74,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      },
-      {
-        "price": 23.74,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -6288,10 +5876,6 @@
       {
         "price": 25.43,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      },
-      {
-        "price": 25.43,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -6312,10 +5896,6 @@
       {
         "price": 24.99,
         "observed_at": "2026-10-12T15:59:37.822247+00:00"
-      },
-      {
-        "price": 24.99,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
       }
     ]
   },
@@ -6336,10 +5916,6 @@
       {
         "price": 58.79,
         "observed_at": "2026-10-12T15:43:27.201935+00:00"
-      },
-      {
-        "price": 58.79,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
       }
     ]
   },
@@ -6360,10 +5936,6 @@
       {
         "price": 209.49,
         "observed_at": "2026-10-12T15:24:49.978930+00:00"
-      },
-      {
-        "price": 209.49,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
   },
@@ -6384,10 +5956,6 @@
       {
         "price": 15.43,
         "observed_at": "2026-10-12T15:05:45.719112+00:00"
-      },
-      {
-        "price": 15.43,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
       }
     ]
   },
@@ -6408,10 +5976,6 @@
       {
         "price": 68.62,
         "observed_at": "2026-10-12T14:45:29.366098+00:00"
-      },
-      {
-        "price": 68.62,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
       }
     ]
   },
@@ -6432,10 +5996,6 @@
       {
         "price": 37.78,
         "observed_at": "2026-10-12T14:21:00.952177+00:00"
-      },
-      {
-        "price": 37.78,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
       }
     ]
   },
@@ -6456,10 +6016,6 @@
       {
         "price": 130.77,
         "observed_at": "2026-10-12T14:21:00.952177+00:00"
-      },
-      {
-        "price": 130.77,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
       }
     ]
   },
@@ -6480,10 +6036,6 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T14:00:29.104092+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
       }
     ]
   },
@@ -6504,10 +6056,6 @@
       {
         "price": 25.94,
         "observed_at": "2026-10-12T14:00:29.104264+00:00"
-      },
-      {
-        "price": 25.94,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
       }
     ]
   },
@@ -6528,10 +6076,6 @@
       {
         "price": 31.1,
         "observed_at": "2026-10-12T12:59:39.197132+00:00"
-      },
-      {
-        "price": 31.1,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6552,10 +6096,6 @@
       {
         "price": 83.8,
         "observed_at": "2026-10-12T12:59:39.197242+00:00"
-      },
-      {
-        "price": 83.8,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6576,10 +6116,6 @@
       {
         "price": 62.88,
         "observed_at": "2026-10-12T12:59:39.197253+00:00"
-      },
-      {
-        "price": 62.88,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6600,10 +6136,6 @@
       {
         "price": 91.8,
         "observed_at": "2026-10-12T12:59:39.197261+00:00"
-      },
-      {
-        "price": 91.8,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6624,10 +6156,6 @@
       {
         "price": 50.99,
         "observed_at": "2026-10-12T12:59:39.197285+00:00"
-      },
-      {
-        "price": 50.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6648,10 +6176,6 @@
       {
         "price": 106.78,
         "observed_at": "2026-10-12T12:59:39.197308+00:00"
-      },
-      {
-        "price": 106.78,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6672,10 +6196,6 @@
       {
         "price": 287.48,
         "observed_at": "2026-10-12T12:59:39.197320+00:00"
-      },
-      {
-        "price": 287.48,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6696,10 +6216,6 @@
       {
         "price": 10.99,
         "observed_at": "2026-10-12T12:59:39.197331+00:00"
-      },
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6720,10 +6236,6 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-12T12:59:39.197352+00:00"
-      },
-      {
-        "price": 18.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6744,10 +6256,6 @@
       {
         "price": 35.49,
         "observed_at": "2026-10-12T12:59:39.197357+00:00"
-      },
-      {
-        "price": 35.49,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6768,10 +6276,6 @@
       {
         "price": 10.44,
         "observed_at": "2026-10-12T12:59:39.197367+00:00"
-      },
-      {
-        "price": 10.44,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6792,10 +6296,6 @@
       {
         "price": 13.9,
         "observed_at": "2026-10-12T12:59:39.197384+00:00"
-      },
-      {
-        "price": 13.9,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6816,10 +6316,6 @@
       {
         "price": 8.04,
         "observed_at": "2026-10-12T12:59:39.197400+00:00"
-      },
-      {
-        "price": 8.04,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6840,10 +6336,6 @@
       {
         "price": 8.99,
         "observed_at": "2026-10-12T12:59:39.197446+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6864,10 +6356,6 @@
       {
         "price": 79.99,
         "observed_at": "2026-10-12T12:59:39.197453+00:00"
-      },
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6888,10 +6376,6 @@
       {
         "price": 3499.0,
         "observed_at": "2026-10-12T12:59:39.197469+00:00"
-      },
-      {
-        "price": 3499.0,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6912,10 +6396,6 @@
       {
         "price": 23.99,
         "observed_at": "2026-10-12T12:59:39.197475+00:00"
-      },
-      {
-        "price": 23.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
       }
     ]
   },
@@ -6936,10 +6416,48 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
-      },
+      }
+    ]
+  },
+  {
+    "title": "Amandes Natural Happiness Raw",
+    "description": "4,99€ Les Amandes Natural Happiness Raw sont des amandes crues, non grillées et non salées, principalement commercialisées dans les magasins Action • Valeurs nutritionnelles (pour 100 g) : • Énergie : 610 kcal • Matières grasses : 51,8 g (dont acides gras saturés : 4,3 g) • Glucides : 6 g (dont sucres : 3,9 g) • Protéines : 25,8 g • Sel : 0,0 g",
+    "price": 4.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/amandes-natural-happiness-raw-3432104",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4iT2z/3432104_1/re/1200x1200/qt/90/3432104_1.jpg",
+    "detected_at": "2026-10-14T06:50:12+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
       {
-        "price": 2269.0,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
+        "price": 4.99,
+        "observed_at": "2026-10-14T06:52:45.240603+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Client Red by SFR] Smartphone 6,1\" Apple iPhone 16e - RAM 8 Go, 128 Go + AirPods 4 (via 100€ d'ODR sur facture)",
+    "description": "599€ - RED by SFR Joli prix pour le Pack iPhone 16e + AirPods 4 Via 149€ de remise immédiate + 100€ d'ODR : https://static.s-sfr.fr/media/catalogue/article/promotions/odr/odr-ODR_RED_100_06102026-0002.pdf?ts=1791796785303 Les caractéristiques clés Écran Super Retina XDR : Un grand écran lumineux et très fluide. Caméra Fusion 48 Mpx, avec téléobjectif 2x 12 Mpx : Pour adopter une nouvelle perspective et saisir chaque moment. CPU 6 cœurs, 2 cœurs de perfor­mance et 4 cœurs à haute effica­cité éner­gétique : Plus de puissance dans la paume de vos mains Batterie lithium‑ion rechargeable intégrée, charge sans fil : Une batterie à autonomie prolongée qui se recharge en un clin d'œil. SOS d’urgence par satellite Détection des accidents : Partez avec la tranquillité d'esprit. Apple Intelligence : L’intelligence artificielle, naturellement. Nécessite iOS 18.4 (ou version ultérieure)",
+    "price": 599.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/client-red-by-sfr-smartphone-61-apple-iphone-16e-ram-8-go-128-go-airpods-4-via-100eur-dodr-sur-facture-3432103",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Tdzio/3432103_1/re/1200x1200/qt/90/3432103_1.jpg",
+    "detected_at": "2026-10-14T06:47:53+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 599.0,
+        "observed_at": "2026-10-14T06:52:45.240603+00:00"
       }
     ]
   },
@@ -11866,48 +11384,6 @@
       {
         "price": 24.29,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Selection de jeux Switch 1/2 et PS5 en Promotion au Auchan de Neuilly sur Marne (93)",
-    "description": "29,99€ Une sélection de jeux Switch 1 et 2 en promotions dont Pokémon Z-A, Kirby Air Rider, Sonic Racing Crossworld et une sélection de jeux PS5",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-jeux-switch-12-et-ps5-en-promotion-au-auchan-de-neuilly-sur-marne-93330-3431808",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AhlKR/3431808_1/re/1200x1200/qt/90/3431808_1.jpg",
-    "detected_at": "2026-10-13T15:09:37+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini hachoir Ninja Express NJ1002EUBK",
-    "description": "33,80€ - Amazon HACHEZ, ÉMINCEZ ET RÉDUISEZ EN PURÉE LES ALIMENTS EN TOUTE FACILITɠ: La technologie Sharp Ninja Blade permet de hacher et d’émincer à la perfection les légumes, pour obtenir des sauces et des purées lisses et onctueuses : le cadeau de naissance idéal. MIXEZ RAPIDEMENT VOS ALIMENTS PAR SIMPLE PRESSION D’UN BOUTON : Hachez, émincez et réduisez les aliments en toute facilité avec ce mini-hachoir électrique. Appuyez brièvement sur PowerPod pour hacher et découper. Ou maintenez appuyé pour une purée. DESIGN PRATIQUE POUR EMPILER ET RANGER L’APPAREIL : Les bols de mixage 500 ml du hachoir s’empilent lorsque les couvercles et les accessoires anti-éclaboussure sont attachés. Vous pourrez donc facilement le ranger au réfrigérateur ou dans un placard. FACILE À NETTOYER : Ce mixeur compact noir est facile à nettoyer grâce aux pièces amovibles lavables au lave-vaisselle, comme les accessoires anti-éclaboussure, les pales et les bols de mixage. COMPREND : PowerPod de 200 W, 2 bols avec couvercles et accessoires anti-éclaboussure, une batterie de lames et un livret de recettes créées par des chefs. Dimensions : H 25 x l 14 x P 14 cm. Poids : 960 g. Couleur : Noir/Clair.",
-    "price": 33.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ninja-mini-hachoir-3431807",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZkBkm/3431807_1/re/1200x1200/qt/90/3431807_1.jpg",
-    "detected_at": "2026-10-13T15:08:58+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T16:48:45.600610+00:00",
-    "price_history": [
-      {
-        "price": 33.8,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
       }
     ]
   }
