@@ -1,5 +1,45 @@
 [
   {
+    "title": "SAMSUNG Réfrigérateur 3 portes RF50C530ES9",
+    "price": 1008.83,
+    "reference_price": 1149.37,
+    "discount_percent": 12.23,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CLPH9VCN",
+    "image_url": "https://m.media-amazon.com/images/P/B0CLPH9VCN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 04:04:32",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 1008.83,
+        "observed_at": "2026-10-14T04:05:16.314403+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Dyson PencilWash, Nettoyeur de...age Rapide, 30 Min d’autonomie",
+    "price": 199.0,
+    "reference_price": 299.0,
+    "discount_percent": 33.44,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GJT26L7Z",
+    "image_url": "https://m.media-amazon.com/images/P/B0GJT26L7Z.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 04:04:31",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 199.0,
+        "observed_at": "2026-10-14T04:05:16.314403+00:00"
+      }
+    ]
+  },
+  {
     "title": "StarTech.com Support Double Éc...r/Inclinaison/Rotation/Tourner",
     "price": 123.34,
     "reference_price": 159.08,
@@ -3796,6 +3836,10 @@
       {
         "price": 22.85,
         "observed_at": "2026-10-13T04:00:40.824102+00:00"
+      },
+      {
+        "price": 22.85,
+        "observed_at": "2026-10-14T04:05:16.314403+00:00"
       }
     ]
   },
@@ -4243,7 +4287,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 8.59,
@@ -4267,7 +4311,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 19.1,
@@ -4291,7 +4335,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 264.09,
@@ -4315,7 +4359,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 6.4,
@@ -4339,7 +4383,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 9.7,
@@ -4363,7 +4407,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T11:43:18.034979+00:00",
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 9.8,
@@ -4379,7 +4423,7 @@
     "title": "Braun MultiQuick 5 Pro - Mixeu...Doseur, 1000W, Noir (MQ55236M)",
     "price": 56.06,
     "reference_price": 71.66,
-    "discount_percent": 21.77,
+    "discount_percent": 21.8,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0D3J3MDZR",
     "image_url": "https://m.media-amazon.com/images/P/B0D3J3MDZR.01._AC_SL1500_.jpg",
@@ -4387,7 +4431,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 56.06,
@@ -4403,7 +4447,7 @@
     "title": "Faller - F170652 - Modélisme - Feuille Pave - Echelle HO",
     "price": 12.88,
     "reference_price": 18.31,
-    "discount_percent": 29.66,
+    "discount_percent": 29.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0000WRPII",
     "image_url": "https://m.media-amazon.com/images/P/B0000WRPII.01._AC_SL1500_.jpg",
@@ -4411,7 +4455,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 12.88,
@@ -4427,7 +4471,7 @@
     "title": "Siemens VZ154HFB Filtre HEPA",
     "price": 22.0,
     "reference_price": 31.4,
-    "discount_percent": 29.94,
+    "discount_percent": 29.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B001TH8M76",
     "image_url": "https://m.media-amazon.com/images/P/B001TH8M76.01._AC_SL1500_.jpg",
@@ -4435,7 +4479,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 22.0,
@@ -4451,7 +4495,7 @@
     "title": "Tweezerman - 1248-LLR - Mini-p...iler Lovely Lavender - Lavande",
     "price": 12.75,
     "reference_price": 25.06,
-    "discount_percent": 49.12,
+    "discount_percent": 49.1,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B000WI1VEE",
     "image_url": "https://m.media-amazon.com/images/P/B000WI1VEE.01._AC_SL1500_.jpg",
@@ -4459,7 +4503,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T04:05:14.074296+00:00",
     "price_history": [
       {
         "price": 12.75,
@@ -6844,6 +6888,48 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte Graphique PowerColor Reaper AMD Radeon RX 9070 GRE 12 Go GDDR6",
+    "description": "609,54€ - Galaxus Prix pas dégueu en ces temps difficiles pour une 9070 GRE triple fans.",
+    "price": 609.54,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/carte-graphique-powercolor-reaper-amd-radeon-rx-9070-gre-12-go-gddr6-3432044",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3hSHL/3432044_1/re/1200x1200/qt/90/3432044_1.jpg",
+    "detected_at": "2026-10-14T03:56:30+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 609.54,
+        "observed_at": "2026-10-14T04:05:16.314403+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Déguisement d'Halloween pour enfant - Tailles 4 à 12 ans",
+    "description": "5,95€ - Action Avec un petit budget Halloween, il y a du choix entre Mercredi Addams ou Dia de los muertos.",
+    "price": 5.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/deguisement-dhalloween-pour-enfant-tailles-4-a-12-ans-3432043",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Nsx40/3432043_1/re/1200x1200/qt/90/3432043_1.jpg",
+    "detected_at": "2026-10-14T03:43:23+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 5.95,
+        "observed_at": "2026-10-14T04:05:16.314403+00:00"
       }
     ]
   },
@@ -11685,48 +11771,6 @@
     "price_history": [
       {
         "price": 470.0,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Billet placement libre Pierre-Antoine Damecour « Jamais trop tard » au Palais des Glaces à Paris (3 novembre) - eventim.fr",
-    "description": "17,99€ Pour se prévoir une petite soirée humour à Paris ! La billetterie Eventim propose des places pour Pierre-Antoine Damecour dans son spectacle « Jamais trop tard » à 17 € au lieu de 24 €. L'offre concerne notamment la représentation du mardi 3 novembre à 20 h 10 au Palais des Glaces, dans le 10ᵉ arrondissement de Paris. Placement libre assis. Frais de transaction de 0,99€ inclus dans le prix du deal. Infos importantes : Artiste : Pierre-Antoine Damecour. Spectacle : Jamais trop tard. Genre : humour / one-man-show. Lieu : Palais des Glaces, salle 2. Adresse : 37 rue du Faubourg-du-Temple, 75010 Paris. Date de la représentation : mardi 3 novembre 2026. Horaire : 20 h 10. Tarif promotionnel : 17 €. Tarif normal : 24 €. Économie : 7 € par billet, soit environ 29 %. Placement libre assis, catégorie unique. Métros à proximité : République et Goncourt. Des frais d'obtention supplémentaires sont appliqués par Eventim. Un avis ou un retour d'expérience sur ce produit ou la marque ? Partage-le en com’ pour aider la commu' Suis moi pour être alerté des prochains deals !",
-    "price": 17.0,
-    "reference_price": 24.0,
-    "discount_percent": 29.2,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/billets-pierre-antoine-damecour-jamais-trop-tard-au-palais-des-glaces-a-paris-3-novembre-ex-billet-placement-libre-a-17-eur-3431747",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/MhLkT/3431747_1/re/1200x1200/qt/90/3431747_1.jpg",
-    "detected_at": "2026-10-13T13:48:16+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 17.0,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Poupée Monster High Skelita Calaveras - Avec Animal de Compagnie et 7 Accessoires",
-    "description": "20,80€ - Amazon La poupée Monster High Skelita Calaveras, disponible chez Amazon, est un squelette effroyablement créatif tout droit venue de Hexico, qui adore la mode et la magie. Cette poupée articulée permet aux enfants de 4 ans et plus de s'inventer des histoires de mode et d'aventures avec son animal de compagnie et ses nombreux accessoires, inspirés de l'univers de Día de Muertos. Contenu : 1 poupée Skelita Calaveras, 1 animal de compagnie Candelita, 7 accessoires (carnet de croquis, ciseaux de couture, iCercueil, concha skullette, boisson à la mangue, besace, lunettes de soleil). Poupée : Entièrement articulée, ne tient pas debout seule. Animal de compagnie : Un chiot xolo nommé Candelita, avec un visage peint comme un crâne en sucre. Apparence : Robe vibrante avec ourlet en papel picado et fleurs de souci, cheveux noirs avec mèches magenta et cuivrées. Âge recommandé : À partir de 4 ans. Dimensions : Environ 29,7 cm de hauteur. Bon à savoir : Note : La poupée ne tient pas seule et n'inclut pas de support. Design : Ses accessoires et son maquillage sont inspirés de l'esthétique des crânes en sucre du Día de Muertos.",
-    "price": 20.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/poupee-monster-high-skelita-calaveras-avec-animal-de-compagnie-et-7-accessoires-3431746",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FZVpu/3431746_1/re/1200x1200/qt/90/3431746_1.jpg",
-    "detected_at": "2026-10-13T13:47:44+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
-    "price_history": [
-      {
-        "price": 20.8,
         "observed_at": "2026-10-13T13:58:47.649283+00:00"
       }
     ]
