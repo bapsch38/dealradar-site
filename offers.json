@@ -1,5 +1,425 @@
 [
   {
+    "title": "Nilfisk Filtre Hepa Power H 12",
+    "price": 12.37,
+    "reference_price": 19.42,
+    "discount_percent": 36.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001OMZL34",
+    "image_url": "https://m.media-amazon.com/images/P/B001OMZL34.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.37,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 140.2248 Poignée de découpe pare-brise + Lame 25 mm",
+    "price": 53.67,
+    "reference_price": 58.9,
+    "discount_percent": 8.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NYZXVS",
+    "image_url": "https://m.media-amazon.com/images/P/B001NYZXVS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:45",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 53.67,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 150.1118 - Douille de... 15 x 10 mm du module 150.1100",
+    "price": 11.59,
+    "reference_price": 13.6,
+    "discount_percent": 14.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B007XUIS7C",
+    "image_url": "https://m.media-amazon.com/images/P/B007XUIS7C.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:44",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.59,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Coque OtterBox React Folio pou...on Les Normes Militaires, Noir",
+    "price": 10.45,
+    "reference_price": 26.44,
+    "discount_percent": 60.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CVNB6C71",
+    "image_url": "https://m.media-amazon.com/images/P/B0CVNB6C71.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:42",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 10.45,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "kwb 355-719 ongles, diamètre d...'acier, de type 055/355, C-tip",
+    "price": 6.49,
+    "reference_price": 17.46,
+    "discount_percent": 62.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00F8IL82I",
+    "image_url": "https://m.media-amazon.com/images/P/B00F8IL82I.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:41",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.49,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vaessen Creative Papier Carton...our Scrapbooking, Cartes & DIY",
+    "price": 6.89,
+    "reference_price": 7.29,
+    "discount_percent": 5.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0GVK1NYRN",
+    "image_url": "https://m.media-amazon.com/images/P/B0GVK1NYRN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:40",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.89,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hanse Home Paillasson en Coco ...et extérieur Couvert - Naturel",
+    "price": 22.13,
+    "reference_price": 26.34,
+    "discount_percent": 16.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BJDSJMDQ",
+    "image_url": "https://m.media-amazon.com/images/P/B0BJDSJMDQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:39",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 22.13,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lisciani - Reine des Neiges 2 ...ble Face 60 Pièces - Dès 4 Ans",
+    "price": 8.06,
+    "reference_price": 9.16,
+    "discount_percent": 12.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B079W2X2XG",
+    "image_url": "https://m.media-amazon.com/images/P/B079W2X2XG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:37",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.06,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bedrich Smetana: Ma Vlast (My Country)",
+    "price": 19.69,
+    "reference_price": 22.6,
+    "discount_percent": 12.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BHC1TT2L",
+    "image_url": "https://m.media-amazon.com/images/P/B0BHC1TT2L.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:36",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.69,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LD Systems U308 IEM - Système ... 863 - 865 MHz + 823 - 832 MHz",
+    "price": 198.0,
+    "reference_price": 215.0,
+    "discount_percent": 7.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07WPWNJ91",
+    "image_url": "https://m.media-amazon.com/images/P/B07WPWNJ91.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:34",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 198.0,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ARDELL 4 Pack Double Up 205 Faux-cils",
+    "price": 14.03,
+    "reference_price": 27.62,
+    "discount_percent": 49.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B074SZGXKQ",
+    "image_url": "https://m.media-amazon.com/images/P/B074SZGXKQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:33",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.03,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEFRANC BOURGEOIS Huile Lefran...40 ml Violet Permanent Série 4",
+    "price": 15.0,
+    "reference_price": 21.99,
+    "discount_percent": 31.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0746SFJGP",
+    "image_url": "https://m.media-amazon.com/images/P/B0746SFJGP.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:31",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.0,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Gooby Gilet rembourré pour Tem...e de sécurité, Taille XS, Vert",
+    "price": 15.17,
+    "reference_price": 16.85,
+    "discount_percent": 10.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B009757BYC",
+    "image_url": "https://m.media-amazon.com/images/P/B009757BYC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:30",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.17,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Birkmann 430600 Grille de refr...ment carrée chromée 32 x 45 cm",
+    "price": 12.5,
+    "reference_price": 19.36,
+    "discount_percent": 35.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B002QVQLF4",
+    "image_url": "https://m.media-amazon.com/images/P/B002QVQLF4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.5,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 99967 Éclairage de me...re plastique, lampe de cuisine",
+    "price": 6.37,
+    "reference_price": 9.2,
+    "discount_percent": 30.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B085XXWBCJ",
+    "image_url": "https://m.media-amazon.com/images/P/B085XXWBCJ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:27",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.37,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ruban adhésif double face en a...m de large, 1 mm d’épaisseur).",
+    "price": 8.12,
+    "reference_price": 9.39,
+    "discount_percent": 13.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B06XJP3TFS",
+    "image_url": "https://m.media-amazon.com/images/P/B06XJP3TFS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:25",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.12,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Otterbox Standard UK 100W USB-...N Chargeur Mural 4 Ports, Noir",
+    "price": 81.59,
+    "reference_price": 99.99,
+    "discount_percent": 18.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CKRJ8NR6",
+    "image_url": "https://m.media-amazon.com/images/P/B0CKRJ8NR6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:24",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 81.59,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SURAZO Premium 100% Echtleder ...e Cover Lederhülle (Nussbraun)",
+    "price": 17.92,
+    "reference_price": 37.78,
+    "discount_percent": 52.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BSGXPS92",
+    "image_url": "https://m.media-amazon.com/images/P/B0BSGXPS92.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:23",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.92,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Dingo Waldemar Rutkowski Ceint...e Violette – Taille XL (16485)",
+    "price": 54.3,
+    "reference_price": 85.11,
+    "discount_percent": 36.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F9KP7K79",
+    "image_url": "https://m.media-amazon.com/images/P/B0F9KP7K79.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:21",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 54.3,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Renkforce Câble USB USB 2.0 US...OTG, Contacts dorés RF-4080777",
+    "price": 8.54,
+    "reference_price": 17.51,
+    "discount_percent": 51.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B016WJ6MFE",
+    "image_url": "https://m.media-amazon.com/images/P/B016WJ6MFE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 17:19:20",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.54,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
     "title": "Littlearth Zip Organizer Walle...e l'équipe, 4” H x 8\" W x 1” D",
     "price": 38.15,
     "reference_price": 45.94,
@@ -6653,6 +7073,10 @@
       {
         "price": 5.11,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 5.11,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -6674,6 +7098,10 @@
       {
         "price": 26.16,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 26.16,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -6695,6 +7123,10 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -6716,6 +7148,10 @@
       {
         "price": 7.42,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 7.42,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -6737,6 +7173,10 @@
       {
         "price": 1173.2,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 1173.2,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -6758,6 +7198,10 @@
       {
         "price": 30.24,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 30.24,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -10712,89 +11156,15 @@
     ]
   },
   {
-    "title": "Bosch Aerotwin eA 012 S Jeu de...ssuie-glaces - 500 mm / 360 mm",
-    "price": 22.49,
-    "reference_price": 33.67,
-    "discount_percent": 33.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FDY29KVJ",
-    "image_url": "https://m.media-amazon.com/images/P/B0FDY29KVJ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:45",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:31:12.236953+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 22.49,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 22.49,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      }
-    ]
-  },
-  {
-    "title": "BRILONER - IP44 lampe de table..., dimmable, 36x10,5 cm, chrome",
-    "price": 18.45,
-    "reference_price": 39.95,
-    "discount_percent": 53.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DLH9SD9C",
-    "image_url": "https://m.media-amazon.com/images/P/B0DLH9SD9C.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:44",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 18.45,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 18.45,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Rotring Tikky Portemine | Mine... Léger avec prise caoutchoutée",
-    "price": 36.39,
-    "reference_price": 81.6,
-    "discount_percent": 55.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DWMGSTXG",
-    "image_url": "https://m.media-amazon.com/images/P/B0DWMGSTXG.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:44",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 36.39,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 36.39,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Moule silicone 20 financiers",
-    "price": 13.99,
-    "reference_price": 19.88,
-    "discount_percent": 29.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00H8XTD78",
-    "image_url": "https://m.media-amazon.com/images/P/B00H8XTD78.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:43",
+    "title": "Vol A/R Bruxelles (BRU) Phuket (Thaïlande) du 17 novembre au 3 décembre (1 escale, Bagage en soute 23kg)",
+    "description": "428,47€ - Trip.com Vol Aller-Retour vers Phuket (HKT), en Thaïlande, depuis l'aéroport de Bruxelles (BRU), par exemple du 17 novembre au 3 décembre. Quelques autres dates sont disponibles au même prix à cette période (novembre/décembre), ainsi qu'à moins de 500 euros en janvier. Par exemple : Du mardi 17 au jeudi 26 novembre Du dimanche 22 novembre au dimanche 13 décembre Du mercredi 25 novembre au samedi 5 décembre Du dimanche 29 novembre au jeudi 15 décembre Les vols sont opérés par la compagnie AirChina, avec une escale. Un bagage en soute de 23kg ainsi qu'un bagage cabine de 5kg et un bagage à main sont inclus dans le prix du billet.",
+    "price": 428.47,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vol-ar-bruxelles-bru-phuket-hkt-thailande-du-17-novembre-au-3-decembre-1-escale-bagage-en-soute-23kg-3432551",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1AvJg/3432551_1/re/1200x1200/qt/90/3432551_1.jpg",
+    "detected_at": "2026-10-14T17:08:39+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -10802,24 +11172,21 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 13.99,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 13.99,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+        "price": 428.47,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
   {
-    "title": "Lucky Reptile Bright Sun UV De... UVB - pour Reptiles du désert",
-    "price": 27.97,
-    "reference_price": 39.36,
-    "discount_percent": 28.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B004NLHO4C",
-    "image_url": "https://m.media-amazon.com/images/P/B004NLHO4C.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:42",
+    "title": "Batterie solaire Zendure SolarFlow 2400 AC avec 2x AB3000 5760wh",
+    "description": "1 139,05€ - Zendure Solution complète de stockage par couplage AC (retrofit) idéale pour optimiser l'autoconsommation solaire et réduire sa facture d'électricité. S'intègre directement à votre installation photovoltaïque existante (compatibilité universelle avec micro-onduleurs Enphase, Hoymiles, APSystems, etc.) ou s'utilise pour l'arbitrage tarifaire (charge en heures creuses / décharge en heures pleines). ️ Composition du pack : 1x Unité principale Zendure SolarFlow 2400 AC (Onduleur bidirectionnel 2400W + stockage intégré 2,4 kWh) 2x Modules d'extension Zendure AB3000 (2,88 kWh par module) Capacité totale : 8,16 kWh (LFP / LiFePO4) ✨ Points forts & Fiche technique : ⚡ Puissance bidirectionnelle de 2400 W : Charge à 2400W sur le réseau/solaire et restitué jusqu'à 2400W pour couvrir les gros appareils de la maison. Chimie LiFePO4 : Longue durée de vie (+6 000 cycles à 80% DoD) et sécurité thermique renforcée. ️ Système auto-chauffant : Autorise la recharge même en extérieur sous des températures négatives (jusqu'à -20°C). ️ Sécurité avancée : BMS Dual-Shield + système d'extinction automatique à aérosol intégré dans chaque module. ️ Protection IP65 : Résiste aux intempéries (installation possible en garage, sous-sol ou extérieur abrité). Domotique & Intégration : Application Zendure (IA d'optimisation énergétique). Port RJ45 / API locale : Intégration parfaite dans Home Assistant (pilotage local direct sans dépendre du cloud). Mode Secours (UPS / Back-up) : Capable d'alimenter vos appareils critiques en cas de coupure de courant du réseau public. Conseil d'utilisation / Remarques : Raccordement simple en couplage AC. Pour exploiter la puissance maximale de 2400W en charge/décharge, il est recommandé de raccorder le système sur une ligne dédiée de votre tableau électrique. Fonctionne de manière autonome avec un Smart Meter (pinces ampèremétriques Zendure ou Shelly).",
+    "price": 1139.05,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/zendure-solarflow-2400-ac-avec-2x-ab3000-5760wh-3432514",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/7f3Zw/3432514_1/re/1200x1200/qt/90/3432514_1.jpg",
+    "detected_at": "2026-10-14T17:06:33+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -10827,24 +11194,43 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 27.97,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 27.97,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+        "price": 1139.05,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
   {
-    "title": "WENKO Tapis d'égouttage Nelia ...ute qualité | 34x3x40cm | Gris",
-    "price": 21.29,
-    "reference_price": 35.41,
-    "discount_percent": 39.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0B211VT8J",
-    "image_url": "https://m.media-amazon.com/images/P/B0B211VT8J.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:39",
+    "title": "Bocal de Conservation SilverCrest - 1L",
+    "description": "3,99€ - Lidl Description Compatible lave-vaisselle : oui (sans couvercle en bois d'acacia) Compatible micro-ondes : non SILVERCREST® Bocal de conservation, 1 L Caractéristiques Bocal à fermeture à étrier Couvercle en verre avec joint d'étanchéité et fermeture à clip Étanche Résistant aux températures de 0 à 70 °C Bocal de conservation Couvercle en bois d'acacia certifié FSC®** Couvercle compatible avec tous les bocaux de conservation Silvercrest d'un diamètre intérieur de 10 cm Pour la conservation d'aliments secs Résistant aux températures de 0 à 50 °C Caractéristiques du produit Dimensions : Bocal à fermeture à étrier : environ Ø 11 x H 17 cm Bocal de conservation : environ Ø 10,5 x H 17,5 cm Compatible lave-vaisselle : Oui (sans couvercle en bois d'acacia) Compatible micro-ondes : Non Contenance : Environ 1 L",
+    "price": 3.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/bocal-de-conservation-silvercrest-1l-verre-a-bouchon-3432549",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fWzEM/3432549_1/re/1200x1200/qt/90/3432549_1.jpg",
+    "detected_at": "2026-10-14T17:03:19+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.99,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tapis de marche Ramypoket - inclinable 9%, 1-8 km/h, 2.5HP, 120kg",
+    "description": "73,96€ - AliExpress",
+    "price": 73.96,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ramypoket-tapis-de-marche-inclinable-9-controle-app-ecran-led-a-3-fenetres-1-8-kmh-pour-tapis-de-course-bureau-maison-25hp-120kg-3432548",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/1p28K/3432548_1/re/1200x1200/qt/90/3432548_1.jpg",
+    "detected_at": "2026-10-14T17:02:56+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -10852,49 +11238,43 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 21.29,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 21.29,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+        "price": 73.96,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
   {
-    "title": "Konix Mythics Casque Gaming Fi...se Jack 3,5 mm - Noir et Rouge",
-    "price": 19.99,
-    "reference_price": 30.49,
-    "discount_percent": 34.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B08CH5L4GK",
-    "image_url": "https://m.media-amazon.com/images/P/B08CH5L4GK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:38",
-    "category": "Gaming",
+    "title": "10% de réduction dès 800€ d’achat sur les PC Portables/Bureau & dès 299€ d'achat sur les Tablettes, Imprimantes, Consommables (hors Apple)",
+    "description": "Darty 2 codes promo Darty à partir de 19h et jusqu'à 9h demain matin ! :) -10% dès 800€ avec le code PC10 : PC Portables PC de bureau Hors Apple -10% dès 299€ avec le code INFO10 : Tablettes Imprimantes Consommables Hors Apple Mentions légales -10% de remise immédiate dès 800€ d’achat au panier sur les PC portables et PC bureau (hors marque Apple) avec le code PC10 ou dès 299€ d'achat au panier sur les tablettes, imprimantes et consommables (hors marque Apple) avec le code INFO10. Offre valable sur le site darty.com du mercredi 14/10/26 à 19h00 au jeudi 15/10/26 à 09h00. Offre cumulable avec les promotions en cours, hors offre utilisant un code avantage. Offre valable uniquement sur les produits vendus et expédiés par Darty (hors Marketplace et hors produits de la 2nde vie). Une utilisation du code promotionnel par client. Le montant de l’achat est calculé hors éco-participation et hors redevance copie privée. Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
+    "price": 800.0,
+    "reference_price": null,
+    "discount_percent": 10.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/10-de-reduction-des-800eur-dachat-sur-les-pc-portablesbureau-des-299eur-dachat-sur-les-tablettes-imprimantes-consommables-hors-apple-3432334",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/2_3/re/1200x1200/qt/90/2_3.jpg",
+    "detected_at": "2026-10-14T17:00:00+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "http://darty.com",
     "price_history": [
       {
-        "price": 19.99,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+        "price": 800.0,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
   {
-    "title": "Schnitzen Komplett-Set: Bastel-Set",
-    "price": 20.86,
-    "reference_price": 35.52,
-    "discount_percent": 41.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B09QCS52MB",
-    "image_url": "https://m.media-amazon.com/images/P/B09QCS52MB.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:35",
+    "title": "Sapie à Long Manche Fiskars - 78 cm",
+    "description": "56,04€ - Amazon Longue sapie pour soulever, transporter ou retourner de grosses bûches et rondins, et placer la bûche à fendre sur le billot ou le chevalet à bois, Pour droitiers et gauchers Crochet avec pointe affûtée pour une pénétration facile dans le bois, Pas de glissement du bois grâce au dents sur le crochet, Retrait facile du bois Hauteur de travail adaptée pour le dos grâce au manche long, Prise en main ferme même avec des gants ou à 2 mains grâce à l'extrémité en crochet antidérapante, Conception légère pour moins de fatigue, Pour droitiers et gauchers Grande longévité grâce à la lame en acier trempé et au manche robuste en plastique renforcé de fibre de verre, Étui inclus pour un transport et un rangement sécurisé, Design finlandais Contenu: 1x Fiskars Sapie WoodXpert, Étui de rangement et de transport inclus, Longueur: 78 cm, Poids: 880 g, Matière: Acier trempé/Plastique renforcé de fibre de verre, Couleur: Noir/Orange, 1003623 Spécifications Marque: Fiskars Dimensions du produit: 80L x 30l centimètres Matériau de la poignée: Plastique renforcé de fibres de verre Couleur: Noir/orange Type de tête: Sappie Style: Résistant Utilisations recommandées pour le produit: Holz hacken Matériau de la lame: Acier trempé Composants inclus: Housse de protection Longueur de la lame: 78 Centimètres Usages recommandés pour le produit: Holz hacken Unité de comptage: 1.0 unité Nombre d’articles dans l'unité vendue au client: 1 Fabricant: Fiskars Code article international: 06411501260079 Pays d'origine: Finlande Nom du type du produit: Sapie grand modèle XA22 Numéro du modèle: 1057787 Numéro de pièce: 1057787 Description de la garantie du fabricant: Deux ans de garantie. Classement des meilleures ventes d'Amazon: 7778 en Jardin (Voir les 100 premiers en Jardin) 5 en Coins éclateurs pour jardinage ASIN: B00H922JW4 Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (1 558) 4,5 sur 5 étoiles Dimensions de l’article L x l: 80L x 30l centimètres Longitud de la hoja: 78 Centimètres Poids de la tête: 816 Grammes Matériau de la Lame: Acier trempé Bordure de lame: acier Point fort de l’article: Étui de rangement et de transport inclus, Noir/Orange, WoodXpert, XA22, 1003623 Commentaires client",
+    "price": 56.04,
+    "reference_price": 75.56,
+    "discount_percent": 25.8,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sapie-a-long-manche-fiskars-78-cm-3432546",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/lETgH/3432546_1/re/1200x1200/qt/90/3432546_1.jpg",
+    "detected_at": "2026-10-14T16:58:24+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -10902,24 +11282,43 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 20.86,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 20.86,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
+        "price": 56.04,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
   {
-    "title": "Voyager Step-in Air – Harnais ...eture Auto-agrippante, Boucle,",
-    "price": 11.57,
-    "reference_price": 32.33,
-    "discount_percent": 64.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B09NWDHJ35",
-    "image_url": "https://m.media-amazon.com/images/P/B09NWDHJ35.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:34",
+    "title": "Boisson à l'avoine My Vay - 1L",
+    "description": "0,99€ - Aldi Prix intéressant pour cette alternative aux boissons à l'avoine Bjorg, qui sont à plus d'1.50€ le litre, ici c'est presque 2 fois moins. Parfait pour l'intolérance au lactose ainsi que pour les régimes végétalien/végétarien, le lait d'avoine est aussi apprécié par les barista pour s'adonner au latte art ! Disponible du 13 au 19 octobre, dans tous les magasins Aldi, dans la limite des stocks disponibles.",
+    "price": 0.99,
+    "reference_price": 4.99,
+    "discount_percent": 80.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/boisson-a-lavoine-my-vay-1l-3432545",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZMNYk/3432545_1/re/1200x1200/qt/90/3432545_1.jpg",
+    "detected_at": "2026-10-14T16:56:39+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 0.99,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Carte mère Soyo AMD B550M, USB3.1 M.2",
+    "description": "52,38€ - AliExpress",
+    "price": 52.38,
+    "reference_price": 122.34,
+    "discount_percent": 57.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/carte-mere-de-jeu-soyo-amd-b550m-usb31-m2-nvme-sata3-ddr4-double-canal-prend-en-charge-les-processeurs-ryzen-r3-r5-r7-3000-4000-5000-3432542",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/fyGBZ/3432542_1/re/1200x1200/qt/90/3432542_1.jpg",
+    "detected_at": "2026-10-14T16:46:54+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -10927,287 +11326,8 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 11.57,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 11.57,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Plaques de Mousse EVA Colorées...uelles m-office (Vert, 40 uds)",
-    "price": 59.54,
-    "reference_price": 76.0,
-    "discount_percent": 21.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0F32DMTYP",
-    "image_url": "https://m.media-amazon.com/images/P/B0F32DMTYP.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:19:33",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 59.54,
-        "observed_at": "2026-10-12T17:20:04.153224+00:00"
-      },
-      {
-        "price": 59.54,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      }
-    ]
-  },
-  {
-    "title": "KS Tools 156.0216 Chasses goup...octogonale 7mm Longueur 150 mm",
-    "price": 12.69,
-    "reference_price": 18.04,
-    "discount_percent": 29.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B007XUI8V8",
-    "image_url": "https://m.media-amazon.com/images/P/B007XUI8V8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:35",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.69,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 12.69,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "The Fist of the Condor [DVD]",
-    "price": 10.43,
-    "reference_price": 19.2,
-    "discount_percent": 45.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CBCFBRW7",
-    "image_url": "https://m.media-amazon.com/images/P/B0CBCFBRW7.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:29",
-    "category": "Culture & sorties",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.43,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 10.43,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ferplast Niche en Plastique po..., 74 x 48 xh 25 CM, Gris Clair",
-    "price": 24.99,
-    "reference_price": 34.7,
-    "discount_percent": 28.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DK3NGTMC",
-    "image_url": "https://m.media-amazon.com/images/P/B0DK3NGTMC.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:28",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.99,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 24.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Arcos Couteau Mondador - Lame ...propylène Fuchsia - Série 2900",
-    "price": 10.95,
-    "reference_price": 21.04,
-    "discount_percent": 48.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B071HVWLMS",
-    "image_url": "https://m.media-amazon.com/images/P/B071HVWLMS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:27",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.95,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 10.95,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hella 9XW 358 164-261 Easy Set...rection à Gauche - avant - Kit",
-    "price": 14.99,
-    "reference_price": 22.06,
-    "discount_percent": 32.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B09S61KJ2X",
-    "image_url": "https://m.media-amazon.com/images/P/B09S61KJ2X.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:24",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bosch 1x Rouleau abrasif EXPERT C470",
-    "price": 51.38,
-    "reference_price": 60.39,
-    "discount_percent": 14.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B094188F1M",
-    "image_url": "https://m.media-amazon.com/images/P/B094188F1M.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:19",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 51.38,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 51.38,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "SONAX E-BIKE Spray pour chaîne...ffet hydrofuge | Réf: 08721000",
-    "price": 10.49,
-    "reference_price": 18.33,
-    "discount_percent": 42.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B01NBYE07K",
-    "image_url": "https://m.media-amazon.com/images/P/B01NBYE07K.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:18",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.49,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 10.49,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pied de micro court avec trépi...che télescopique 2 points Noir",
-    "price": 41.0,
-    "reference_price": 52.79,
-    "discount_percent": 22.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B016MMTNWU",
-    "image_url": "https://m.media-amazon.com/images/P/B016MMTNWU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:17",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 41.0,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 41.0,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hape - Kit de Démarrage pour E...struction - Atelier Jeu Enfant",
-    "price": 26.02,
-    "reference_price": 35.23,
-    "discount_percent": 26.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0837JDX1C",
-    "image_url": "https://m.media-amazon.com/images/P/B0837JDX1C.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:16",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 26.02,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 26.02,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      }
-    ]
-  },
-  {
-    "title": "BRIO World - 33630 - Locomotiv...ur garçons et filles dès 3 ans",
-    "price": 25.99,
-    "reference_price": 31.9,
-    "discount_percent": 18.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B000FUTQN2",
-    "image_url": "https://m.media-amazon.com/images/P/B000FUTQN2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 17:02:15",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-12T17:02:47.112328+00:00"
-      },
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
+        "price": 52.38,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -11237,8 +11357,8 @@
     "title": "Lot de 4 pneus 4 saisons Michelin CrossClimate+ 175/65 R14 86H XL - (Via 20€ ODR)",
     "description": "294,80€ - 1001pneus Michelin CrossClimate+ en 175/65 R14 86H XL, pneu 4 saisons homologué 3PMSF (flocon montagne) avec la mention M+S. Il est noté 4,7/5 sur 477 avis chez 1001Pneus. Le prix affiché est de 314,80 € pour 4 pneus, soit 78,70 € l'unité. L'offre de remboursement Michelin permet ensuite de récupérer 20 € par virement bancaire, ce qui ramène le lot à 294,80 € (73,70 € le pneu). Conditions de l'offre de remboursement Michelin - 20 € remboursés pour 4 pneus en 14\" ou moins (10 € pour 2 pneus). Le \"jusqu'à 120 €\" ne concerne que les pneus de 20\" et plus. - Il faut acheter ET faire monter 2 ou 4 pneus Michelin de même dimension et de même gamme. - Le remboursement se fait par virement bancaire, montants TTC. - Offre valable jusqu'au [date à vérifier dans le règlement Michelin]. La livraison est offerte en 48/72h, prévue entre le 16/10 et le 20/10. La garantie \"Zéro Pression Auto\" (3,49 € par pneu, 12 mois) est en option et n'est pas incluse dans le prix. LIEN DIRECT : https://www.1001pneus.fr/michelin-crossclimate-plus-175-65-r14-86-h-27782678-pn LIEN DE L'ODR : https://dgaddcosprod.blob.core.windows.net/cxf-multisite/clsqc4dyx004r11jxcyy94j65/attachments/lwloxktg1woa4u5x7j70xbut-modalites-de-participation-promotion-michelin-hiver-2026-fr.pdf PRIX 314,80 € le lot de 4 (294,80 € après remboursement Michelin de 20 €) FRAIS DE PORT Offerts CODE PROMO Aucun",
     "price": 294.8,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 314.8,
+    "discount_percent": 6.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lot-de-4-pneus-4-saisons-michelin-crossclimate-17565-r14-86h-xl-via-20eur-odr-3432540",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/D7oix/3432540_1/re/1200x1200/qt/90/3432540_1.jpg",
@@ -11259,8 +11379,8 @@
     "title": "Baskets Crocs Literide Homme - Men's Pacer Sneaker",
     "description": "15,94€ - Amazon Uniquement taille 41/42 a ce prix À propos de ce produit Look sportif pour votre style de vie actif Confort total avec la semelle intérieure en mousse LiteRide douce, légère et exceptionnellement résistante S'adaptent de manière ergonomique au pied pour offrir soutien et respirabilité là où les pieds en ont le plus besoin Le matériau extérieur Matlite Motion dynamique et respirant suit le mouvement naturel du pied Semelle extérieure en caoutchouc pour une meilleure adhérence et une meilleure durabilité Commentaires client",
     "price": 15.94,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 29.79,
+    "discount_percent": 46.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/crocs-homme-mens-literide-pacer-sneaker-3432539",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/LALtL/3432539_1/re/1200x1200/qt/90/3432539_1.jpg",
@@ -11347,8 +11467,8 @@
     "title": "Sac de transport Feandrea pour chat ou petit chien",
     "description": "33,99€ - Amazon Caisse de transport pliable pour chien ou chat – 60 × 42 × 42 cm Caisse de transport légère et pliable, facile à monter sans outils. Équipée de 3 ouvertures en filet pour une bonne ventilation, d’un coussin amovible et de 2 poches de rangement. Sa structure en acier et son tissu Oxford imperméable facilitent son utilisation et son entretien. Idéale pour les déplacements et les voyages en voiture. Convient aux chiens jusqu’à 11 kg. À propos de ce produit Sac Transport Chien Pliable: Ce sac de voyage pour chien se monte en 30 secondes sans outils et se plie à plat pour un rangement facile dans le coffre ou un coin de la maison, idéal pour vos déplacements quotidiens, Cage Chien Spacieuse: Mesurant 60 x 42 x 42 cm, cette cage de transport dispose de 3 portes en filet pour une circulation d'air optimale et une vue dégagée, et d'un tapis en peluche douce, offrant un espace confortable, Panier Transport Chien Voiture: Ne pesant que 2,3 kg pour un transport sans effort, ce modèle intègre deux poches pratiques pour ranger les friandises et la laisse, idéal pour le camping, les trajets en voiture ou l'hôtel, Porte Chien Sécurisé: Supportant jusqu'à 11 kg, cet équipement utilise un cadre en acier épaissi et des fermetures éclair autobloquantes qui empêchent votre compagnon de s'échapper de l'intérieur, garantissant sa sécurité, Caisse Pour Chien Pratique: Fabriquée en tissu Oxford Noir D'Encre imperméable et résistant aux taches, elle se nettoie d'un simple coup d'éponge, tandis que le coussin amovible se lave facilement pour une hygiène parfaite, Commentaires client",
     "price": 33.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 37.68,
+    "discount_percent": 9.8,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/sac-de-transport-pour-chat-ou-petit-chien-3432534",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/oGYo5/3432534_1/re/1200x1200/qt/90/3432534_1.jpg",
@@ -23241,6 +23361,10 @@
       {
         "price": 34.99,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 34.99,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -23263,6 +23387,10 @@
       {
         "price": 1.99,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 1.99,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -23302,6 +23430,10 @@
       {
         "price": 399.99,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 399.99,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -23324,6 +23456,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -23363,6 +23499,10 @@
       {
         "price": 29.35,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 29.35,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -23385,6 +23525,10 @@
       {
         "price": 61.16,
         "observed_at": "2026-10-13T17:04:44.923524+00:00"
+      },
+      {
+        "price": 61.16,
+        "observed_at": "2026-10-14T17:21:07.406232+00:00"
       }
     ]
   },
@@ -23462,370 +23606,6 @@
       },
       {
         "price": 117.62,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Valise Cabine Eastpak Tranverz S - 42L (51 x 32,5 x 24 cm), bagage à main à roulettes, léger et résistant",
-    "description": "88,95€ - Amazon Eastpak Tranverz S Valise Cabine 42L (51 x 32,5 x 24 cm), bagage à main à roulettes, léger et résistant, double compartiment, poignée télescopique & serrure TSA - ULTRA MARINE",
-    "price": 88.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/eastpak-tranverz-s-valise-cabine-42l-51-x-325-x-24-cm-bagage-a-main-a-roulettes-leger-et-resistant-3431851",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5v7MA/3431851_1/re/1200x1200/qt/90/3431851_1.jpg",
-    "detected_at": "2026-10-13T16:36:54+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 88.95,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 88.95,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Projecteur et conteur d’histoire Disney",
-    "description": "23,90€ - Amazon Idée cadeau de Noël pour les petits fans de Disney À propos de ce produit PROJECTEUR ET CONTEUR D’HISTOIRES DISNEY POUR BÉBÉS : projette des images Disney pendant la lecture de contes classiques, stimulant l’éveil sensoriel dès 1 an avec deux modes au choix : musique apaisante ou narration synchronisée à l’image. 2 MODES D’ÉCOUTE POUR RITUEL DU COUCHER : mode musique avec projection d’images apaisantes ou narration complète avec synchronisation image à image, pour créer un moment de détente et de transition au coucher ou pendant les temps calmes. 7 HISTOIRES DISNEY INCLUSES EN CARTES : chaque carte propose un conte comme Le Roi Lion, Bambi ou Pinocchio avec déclenchement automatique du son et des images via le projecteur, encourageant l’imagination et la mémoire des jeunes enfants. CONCEPTION ERGONOMIQUE POUR PETITES MAINS : doté de boutons lumineux faciles à manipuler, d’une poignée intégrée pour le transport et d’un compartiment pour ranger les cartes histoires, ce jouet accompagne l’enfant dans ses découvertes quotidiennes. CADEAU ÉVOLUTIF DE 1 À 6 ANS : Adapté aux tout-petits jusqu’aux enfants d’âge préscolaire, ce projecteur conteur stimule l’écoute, la motricité et l’imaginaire. Convient pour un anniversaire, Noël ou une fête de naissance. Commentaires client",
-    "price": 23.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/projecteur-et-conteur-dhistoire-disney-3431850",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Ea2Ba/3431850_1/re/1200x1200/qt/90/3431850_1.jpg",
-    "detected_at": "2026-10-13T16:33:44+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 23.9,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 23.9,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Kit atelier à bijoux Gemex super atelier - Illkirch (67)",
-    "description": "14,99€ - Auchan Gemex Super Atelier à 14,99 € au lieu de 44,99 € chez Auchan Illkirch (67) Belle réduction sur le Gemex Super Atelier, un coffret créatif qui permet aux enfants de réaliser leurs propres créations colorées et personnalisées grâce au gel Gemex. Prix : 14,99 € au lieu de 44,99 € Soit 30 € d’économie (-67 %). Auchan Illkirch",
-    "price": 14.99,
-    "reference_price": 44.99,
-    "discount_percent": 66.7,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gemex-super-atelier-3431849",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/OsYOv/3431849_1/re/1200x1200/qt/90/3431849_1.jpg",
-    "detected_at": "2026-10-13T16:32:50+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bonbons Chocolat au Lait & Cacahuètes M&M'S Peanut - Sachet 800g (Via Prévoyez Et Économisez)",
-    "description": "6,64€ - Amazon MarqueM&M's Forme de l'articleBoule OccasionFêtes Type de chocolatLait SaveurChocolat Nombre d'unités800.0 gramme De délicieuses cacahuètes grillées enrobées d'un délicieux chocolat au lait, le tout enrobé d'une enveloppe sucrée croustillante et colorée pour plus de plaisir. C'est le snack sucré préféré de tous, tout au long de l'année. Parfaits pour accompagner un film d'horreur avec des bonbons d'halloween, pour les anniversaires et pour les partager avec des amis. Un placard à friandises ou un tiroir à bonbons rempli de M&M's Cacahuète, c'est un placard plein de Bonheur, si vous voulez notre avis. Idéal pour remplir les chaussettes de Noël, comme snack pour les soirées cinéma, pour distribuer avec des bonbons d'Halloween ou pour ajouter aux paniers de Pâques. Contenu : M&M's Chocolat au Lait & Cacahuètes, 800g",
-    "price": 6.64,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mms-peanut-bonbons-chocolat-au-lait-cacahuetes-sachet-800gvia-prevoyez-et-economisez-3431847",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4S18K/3431847_1/re/1200x1200/qt/90/3431847_1.jpg",
-    "detected_at": "2026-10-13T16:32:04+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 6.64,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 6.64,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets homme New Balance 237 – Noir, blanc et semelle gomme, taille 42,5",
-    "description": "35€ - New Balance Prix initial : 70 € – Prix promotionnel : 35 €, soit 50 % de réduction. Offre disponible sur le site officiel New Balance France, dans la limite des stocks. Attention : seule la pointure 42,5 est actuellement disponible dans ce coloris. Les autres tailles affichées sur la fiche produit sont épuisées. Présentation Les New Balance 237 sont des baskets lifestyle pour homme, inspirées des chaussures de running des années 1970. Elles reprennent les codes esthétiques des modèles rétro de la marque, avec une silhouette basse, une semelle intermédiaire épaisse et le célèbre logo « N » sur les côtés. Ce modèle privilégie un style décontracté, adapté à une utilisation quotidienne. Il peut accompagner différentes tenues, notamment un jean, un chino ou un pantalon de sport. La paire proposée ici associe principalement le noir et le blanc, avec plusieurs détails contrastants et une semelle extérieure couleur gomme. Cette combinaison de couleurs permet de conserver une apparence relativement sobre tout en mettant en valeur le design vintage caractéristique de la gamme 237. Design et conception Silhouette inspirée des années 1970 La New Balance 237 reprend les proportions des anciennes chaussures de course, avec une interprétation plus moderne. La forme de la semelle, le profil allongé et les différents empiècements de la tige contribuent à son esthétique rétro. Semelle intermédiaire en EVA La semelle intermédiaire utilise une mousse EVA destinée à apporter un amorti léger pour les déplacements quotidiens. Elle présente une forme légèrement élargie, caractéristique du design de cette collection. Semelle extérieure en caoutchouc La semelle extérieure possède une surface texturée permettant d’améliorer l’adhérence sur les surfaces habituelles. Sa finition couleur gomme apporte également un contraste avec la partie supérieure de la chaussure. Fermeture à lacets Le système de laçage classique permet d’ajuster le maintien en fonction de la morphologie du pied. La chaussure présente une construction basse, laissant la cheville libre de ses mouvements. Utilisation Ces baskets sont principalement destinées à la marche et aux activités quotidiennes. Leur conception lifestyle les rend adaptées aux déplacements urbains, aux sorties et à une utilisation décontractée. Même si leur apparence s’inspire des anciennes chaussures de running, elles ne doivent pas être confondues avec des modèles techniques spécialement conçus pour la course intensive. Leur principal intérêt réside dans l’association d’un design rétro, d’une construction relativement légère et d’une semelle amortissante. Caractéristiques principales Marque : New Balance. Modèle : 237. Catégorie : baskets homme. Style : rétro, lifestyle. Coloris : noir et blanc. Semelle extérieure : finition gomme. Semelle intermédiaire : EVA. Fermeture : lacets. Construction : tige basse. Pointure disponible : 42,5 uniquement . Vendeur : New Balance France, boutique officielle. Disponibilité et livraison La pointure 42,5 apparaît actuellement disponible à la commande. Les autres pointures proposées sur cette fiche sont indiquées comme indisponibles. La livraison est gratuite pour les commandes supérieures à 100 € sur le site New Balance France. Pour une commande d’une seule paire, des frais de livraison supplémentaires peuvent donc s’appliquer. Le montant exact est à vérifier au panier. À retenir Une réduction de 50 % sur une paire de New Balance 237 vendue directement par la marque. L’offre peut intéresser les personnes recherchant des baskets rétro à prix réduit, à condition de chausser du 42,5 . Le stock étant limité à cette seule pointure, la disponibilité peut évoluer rapidement.",
-    "price": 35.0,
-    "reference_price": 70.0,
-    "discount_percent": 50.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-homme-new-balance-237-noir-blanc-et-semelle-gomme-taille-425-3431846",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/sDlmV/3431846_1/re/1200x1200/qt/90/3431846_1.jpg",
-    "detected_at": "2026-10-13T16:29:35+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 35.0,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 35.0,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Maison de poupée interactive Gabby et la Maison Magique 60 cm - Figurine et 16 accessoires (Occasion comme neuf)",
-    "description": "22,15€ - Amazon Maison de poupée interactive Gabby et la Maison Magique (édition inspirée du film) par Spin Master, d'une hauteur de plus de 60 cm, avec figurine de Gabby et 16 accessoires de jeu. Cette maison géante interactive intègre des yeux à écran LCD avec plus de 60 expressions animées, un ascenseur fonctionnel (Cat-a-vator) pour naviguer entre les différents étages thématiques, ainsi que 6 modes de jeu interactifs comprenant des effets sonores, des musiques officielles et des mini-jeux activables via les boutons magiques. Caractéristiques techniques : • Fabricant & licence : Spin Master sous licence officielle DreamWorks Gabby's Dollhouse (Gabby et la Maison Magique). • Dimensions : grande maison de poupée de plus de 60 cm de hauteur avec multiples niveaux et pièces meublées. • Éléments interactifs : yeux animés à technologie LCD réagissant aux actions des enfants, nez interactif déclencheur de mélodies et sons du film. • Ascenseur coulissant : monte-charge central permettant de déplacer les figurines d'étage en étage. • Contenu du coffret : 1 maison interactive, 1 figurine exclusive Gabby, 7 meubles, 5 accessoires décoratifs, boîtes surprises avec QR code à scanner pour l'application officielle et planches d'autocollants. • Connectivité Meow-Tech : compatible avec les figurines interactives de la gamme pour débloquer des interactions sonores supplémentaires. • Âge conseillé : dès 3 ans. Expédié par Amazon avec la livraison gratuite dès 35 € d'achat (ou sans minimum pour les abonnés Prime).",
-    "price": 22.15,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/maison-de-poupee-interactive-gabby-et-la-maison-magique-60-cm-figurine-et-16-accessoires-occasion-comme-neuf-3431845",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/kTmuR/3431845_1/re/1200x1200/qt/90/3431845_1.jpg",
-    "detected_at": "2026-10-13T16:27:25+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 22.15,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 22.15,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Scie pliable Fiskars avec une lame de 21cm et un poids contenu de 130g",
-    "description": "24,22€ - Amazon Fiskars Plus Scie Pliable, pour Troncs et Branches épais 3 positions de Coupe, Lame Power Tooth tranchante, Denture grossière, Longueur de la lame : 21 cm, Noir/Orange, SW69, 1067553 Scie pliable (longueur de lame : 21 cm) pour des coupes rapides et nettes dans les troncs et les branches épaisses 3 positions de coupe : Sous-coupe pour des coupes initiales nettes, coupe droite pour les coupes générales et poignée pistolet pour un effet de levier supplémentaire Lame Power Tooth très tranchante avec triple affûtage des dents (7 TPI), mécanisme de verrouillage sûr de la lame Poignée ergonomique avec points de contact SoftGrip pour une prise en main antidérapante. changement de lame facile grâce à une vis, lame de scie de rechange disponible séparément (art. n° 1067555) Contenu: 1x Fiskars Plus Scie pliable, 3 positions de coupe, lame Power Tooth, denture grossière, longueur de la lame : 21 cm, noir/orange, SW69, 1067553 La livraison gratuite pour les abonnés Prime. Pour les non abonnés Prime : 6,99eu",
-    "price": 24.22,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/scie-pliable-fiskars-avec-une-lame-de-21cm-et-un-poids-contenu-de-130g-3431844",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/FBpRC/3431844_1/re/1200x1200/qt/90/3431844_1.jpg",
-    "detected_at": "2026-10-13T16:23:08+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.22,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 24.22,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coffret de 5 Mini-Figurines Just Play - Minnie Mouse, Disney Junior",
-    "description": "9,99€ - Amazon Les fans de Disney Minnie Mouse de tous âges adoreront ce set de 5 figurines miniatures Disney Junior Minnie Mouse à collection. Ces adorables figurines représentent 5 personnages familiers de la série animée Disney Junior Minnie’s Bow-Toons : Minnie Mouse dans 3 looks différents, Daisy Duck et Figaro. Mesurant entre 1,7 et 2,7 pouces, ces amis joyeux ont la taille parfaite pour les petites mains des enfants d’âge préscolaire et stimuleront l’imagination pour un jeu créatif. Excellent ajout à toute collection ou ensemble de jeux Disney Minnie Mouse, ces mini-figurines font aussi de jolis cadeaux pour la fête. Pour les enfants de 3 ans et plus.",
-    "price": 9.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/just-play-coffret-de-5-mini-figurines-minnie-mouse-disney-junior-3431842",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gY7Bq/3431842_1/re/1200x1200/qt/90/3431842_1.jpg",
-    "detected_at": "2026-10-13T16:22:08+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Escape Academy sur Xbox One, Series X/S & PC (dématérialisé)",
-    "description": "3,99€ - Xbox Store Vous venez d'arriver à l'Escape Academy, une école où des élèves prometteurs apprennent l'art de l'évasion. Découvrez plus de douze salles conçues avec soin par des experts des escape games réels. Escape Academy est entièrement jouable en solo ou à deux grâce au mode coop sur écran séparé, que ce soit en local ou en ligne. Explorez le campus de l'Escape Academy, et faites la connaissance de professeurs plus pittoresques les uns que les autres et tous experts de l'art de l'évasion. Mais attention, certains d'entre eux cachent des secrets... Savourez la musique et le design audio du seul et unique doseone (Gang Beasts, SLUDGE LIFE, Disc Room, Enter the Gungeon). Prenez la route avec l'entraîneur Yoach dans Escape Academy: Tournament of Puzzles ! Affrontez vos amis en duel dans une série de casse-têtes compétitifs qui vous emmèneront tout autour du globe. Cette nouvelle mise à jour majeure comprend trois grandes arènes, trois nouveaux modes de jeu, des bonus, des succès supplémentaires et une flopée de nouveaux casse-têtes. Faites chauffer vos neurones dans d'immenses arènes rejouables, dotées de passages secrets et chemins alternatifs. Tombeau du premier expert en évasion - En plein cœur de l'Égypte, berceau de l'art de l'évasion, déjouez les mystères d'une tombe truffée de passages secrets. Attention à ne pas devenir l'un de ses résidents permanents ! Conserverie des hackers - Une conserverie de poisson métamorphosée en QG de cyberpirates. À cheval entre les thèmes de la technologie et du monde aquatique, cette jetée battue par la pluie regorge d'énigmes improbables. Studio du spectacle - Mesdames, messieurs, il est l'heure de succomber à la folie du casse-tête ! Le plus grand théâtre des environs vous propose une myriade de défis magiques. Course à l'évasion - Résolvez des énigmes avant vos amis dans cette course débridée. Morpion - Un grand classique revisité dans lequel vous devrez débloquer les X et les O avant de pouvoir les placer ! Chasse au trésor - Cherchez des trophées... et la solution à d'épineux casse-têtes. Et ce n'est pas tout : Tournament of Puzzles propose aussi de nouveaux bonus déjantés ! Posez des pièges pour déconcentrer vos adversaires, ou utilisez la fonction d'aide pour prendre l'avantage et remporter la victoire. Vous préférez vous creuser le ciboulot en solo ? Pas de problème ! L'entraîneur Yoach se fera une joie de vous laisser affronter seul les différents défis proposés. L'entraînement est la clé du succès ! Et tout ceci n'est qu'une petite partie des surprises loufoques (et parfois fatales) qui attendent quiconque osera se frotter à Escape Academy: Tournament of Puzzles. Alors, qu'attendez-vous ? Échauffez-vous les méninges pour essayer de résoudre nos énigmes !",
-    "price": 3.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/escape-academy-xbox-play-anywhere-3431840",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JmEN8/3431840_1/re/1200x1200/qt/90/3431840_1.jpg",
-    "detected_at": "2026-10-13T16:19:23+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 3.99,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 3.99,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TV 55\" LG OLED evo AI OLED55C64LA - 4k UHD, Dalle 120Hz • VRR 165Hz, HDR10, Dolby Vision Dolby, Atmos",
-    "description": "1 189€ - PcComponentes TV OLED evo C6 pour une qualité d'image supérieure Découvrez la nouvelle génération de téléviseurs LG OLED evo C6. Grâce à la technologie Brightness Booster, chaque scène gagne en éclat pour des images encore plus lumineuses et immersives. Au cœur de l’expérience, le processeur alpha 11 AI 4K Gen3 optimise chaque détail avec une précision remarquable, offrant un rendu net et naturel. Profitez d’un contraste saisissant porté par le noir absolu propre à la technologie OLED, qui préserve toute la profondeur des images, même dans les environnements les plus lumineux. La certification de couleur parfaite garantit quant à elle un volume colorimétrique et une fidélité des couleurs à 100 %, pour des nuances riches et authentiques. Pensé pour exceller dans toutes les situations, le LG OLED evo C6 assure une qualité d’image constante, aussi bien dans une pièce baignée de lumière que dans l’obscurité, pour une expérience visuelle toujours spectaculaire. Grâce à son design ultra fin avec des bords incroyablement fins, ce téléviseur trouvera incontestablement sa place dans votre salon. Pensé pour durer, ce téléviseur restera à jour avec ses mises à niveau garantis sur 5 ans avec le Re:New Program webOS. Enfin, l'OLED evo C6 vous plonge au coeur d'un spectacle sensationnel alimenté par vos incroyables films et jeux, tous sublimés grâce au Dolby Atmos et Dolby Vision, VRR, G-Sync et FreeSync. des noirs parfaits et des couleurs fidèles Ce téléviseur LG OLED evo C6 est certifié \"Perfect Black\" par UL. Cela signifie que ce téléviseur affiche un noir absolu, faisant ressortir les couleurs qui composent l’image pour des contrastes infinis, et ce de jour comme de nuit. En effet, Les millions de pixels auto-émissifs qui composent ce téléviseur LG OLED sont capables de s’éteindre complètement afin de créer du noir. Développé par LG spécialement pour les téléviseurs LG OLED, le processeur Alpha 11 AI 4K Gen3 avec Double Moteur IA est le cerveau du téléviseur. L’Intelligence Artificielle intégrée au processeur le rend puissant et sublime votre expérience. Il est capable d'optimiser les qualités d’image et de son pour une immersion intense. Grâce à Dynamic Tone Mapping Pro, le HDR est plus éclatant que jamais. Un résultat incroyable et immersif. Les formats Dolby Vision et HDR10 Pro sont compatibles sur ce téléviseur LG pour le meilleur de vos films. un son adapté à vos goûts Côté son, l'immersion est complète. Découvrez la synergie ultime entre les TV et les barres de son LG. Avec WOW Interface contrôlez votre barre de son depuis votre TV. Avec WOW Orchestra, les haut-parleurs du TV et de la barre de son LG fonctionnent en même temps pour renforcer l’immersion. Avec WOWCAST intégré, profitez d’une excellente qualité sonore immersive, sans fil. Le système audio 2.2 de 40 Watts détecte la disposition de votre pièce et l’endroit où vous êtes assis pour créer un dôme sonore autour de vous, parfaitement adapté à l’acoustique unique de votre pièce. Laissez l’action vous envelopper avec une clarté inégalée, des détails complexes et une grande profondeur spatiale grâce au Dolby Atmos. Et enfin découvrez un son surround virtuel 11.1.2 avec Alpha 11 AI Sound Pro et l'ajustement automatique du son. Pour des jeux au rendu parfait Débarrassez-vous des accrocs et des lags dans vos jeux vidéo et vivez des parties inoubliables. La TV LG OLEDC6 à dalle native 120 Hz vous assure un un temps de réponse de 0.1 ms. Compatible Dolby Vision Gaming, il est équipé de 4 connecteurs HDMI 2.1 avec prise en charge 4K/120fps, des fonctions VRR (taux de rafraîchissement variable jusqu'à 165 Hz), ALLM (mode faible latence automatique), de l’AMD FreeSync, de la compatibilité G-Sync et d'un port eARC (canal de retour audio amélioré). En outre, ce modèle dispose d'un mode gaming HDR immersif (HGiG) et du mode Game Optimizer. Ce dernier rassemble les paramètres de jeu dans un menu dédié pour ajuster facilement vos préférences. Enfin, profitez d’une latence ultra-f",
-    "price": 1189.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tv-55-lg-oled-evo-ai-oled55c64la-4k-uhd-dalle-120hz-vrr-165hz-hdr10-dolby-vision-dolby-atmos-3431839",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/e1tfL/3431839_1/re/1200x1200/qt/90/3431839_1.jpg",
-    "detected_at": "2026-10-13T16:17:25+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1189.0,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 1189.0,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures de Running homme Nike Zoom Fly 6 Glam, Bleu/Vert",
-    "description": "88,90€ - Privé by Zalando Détails des Chaussures Running Nike Zoom Fly 6 Glam : Conçue pour : Course sur route Distance de course : Entraînement à la course ou speed runs Poids : environ 265 g (pointure 44 pour homme) Drop : 8 mm Motifs réfléchissants",
-    "price": 88.9,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-running-nike-zoom-fly-6-glam-bleuvert-homme-3431838",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ItB8L/3431838_1/re/1200x1200/qt/90/3431838_1.jpg",
-    "detected_at": "2026-10-13T16:17:22+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 88.9,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 88.9,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 4 sprays nettoyant Salle de bain Cillit Bang 1L",
-    "description": "8,93€ - Amazon Via prévoyez et économisez Les informations ci-dessous s'appliquent à chaque unité du pack ÉLIMINE 100 % DU CALCAIRE : Formule ultra efficace contre le calcaire, les traces d'eau et les dépôts tenaces pour des surfaces propres et visiblement plus brillantes PROPRETÉ QUI DURE JUSQU'À 4 FOIS PLUS LONGTEMPS : Élimine les traces de savon et résidus incrustés, laissant une surface nette, sans traces, avec une brillance longue durée UTILISATION SALLE DE BAIN ET CUISINE : Efficace sur douches, lavabos, baignoires, éviers, robinets, WC, carrelage et murs carrelés – une solution polyvalente pour toute la maison NETTOYAGE HYGIÉNIQUE : Aide à éliminer jusqu'à 99,9 % des bactéries pour un nettoyage efficace et une sensation de propreté durable PISTOLET SPRAY 1L – ACTION RAPIDE : Pulvérisez, laissez agir quelques minutes puis essuyez : un nettoyage puissant et rapide, avec un parfum frais et agréable FORMULE SURPUISSANTE ANTI-ROUILLE : Élimine efficacement la crasse, les traces de savon et la rouille pour redonner éclat et propreté à vos surfaces sanitaires",
-    "price": 8.93,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-4-sprays-nettoyant-salle-de-bain-cillit-bang-1l-3431836",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/UCmJh/3431836_1/re/1200x1200/qt/90/3431836_1.jpg",
-    "detected_at": "2026-10-13T16:10:34+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 8.93,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 8.93,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coffret de construction Mattel Brick Shop Hot Wheels - corvette grand sport, 918 pièces",
-    "description": "29,80€ - Amazon Une baisse de prix pour les intéressés : https://keepa.com/#!product/4-B0DQXGDSFG Construisez la légendaire voiture de course : la Corvette Grand Sport à l’échelle 1/16 aux nombreux détails réalistes à construire entièrement Personnalisez votre véhicule : contient des pièces supplémentaires, des enjoliveurs en métal et des autocollants pour transformer votre véhicule Voiture en métal exclusive et plaque signature en métal : contient une voiture en métal à l’échelle 1/64 assortie et une plaque signature, disponibles en exclusivité dans les coffrets Mattel Brick Shop La Grand Sport arbore des détails authentiques : les ailes authentiques, les pots d’échappement métalliques et le capot qui s’ouvre et se ferme confèrent encore plus d’authenticité au modèle Compatible avec d’autres marques : les pièces sont compatibles avec tous les coffrets de construction Mattel Brick Shop et d’autres grandes marques Fonctionnalités clés : Réplique à construire de la Corvette Grand Sport 918 pièces et de nombreux détails réalistes Capot ouvrant, pots d'échappement en métal, ailes fidèles au modèle d'origine Enjoliveurs métalliques, pièces personnalisables et feuille d'autocollants incluse Véhicule en métal moulé avec plaque signature exclusive Compatible avec les autres coffrets de construction Mattel Brick Shop et de grandes marques Contenu : 1x voiture en métal, 1x voiture à monter de 918x pièces, 1x feuille d'autocollant Échelle de la voiture en métal : 1/64 Échelle de la voiture à construire : 1/16 Description du fabricant Personnalisez votre véhicule : contient des pièces supplémentaires, des enjoliveurs en métal et des autocollants pour transformer votre véhicule. Contient des pièces supplémentaires. Contient des enjoliveurs métalliques American Racing et des pneus \"Wide Oval\" Firestone. Construction aisée. Nos briques sont fabriquées en résine lisse pour un assemblage facile. Nos manuels de jeu comprennent de grandes images et nos briques sont emballées par étape pour une construction facile à suivre. Contient des pièces métalliques. La plaque signature et les enjoliveurs sont en métal pour un rendu encore plus réaliste. Spécifications Marque: Mattel Tranche d'âge (description): Enfant Couleur: blanc - Corvette Thème: Véhicule Dimensions de l'article L x l x H: 27,7 x 12,2 x 7,8 centimètres Matériau: Plastique Saisons: Toutes saisons Composants inclus: 918 pièces, 1 feuille d’autocollants et 1 voiture en métal Poids de l'article: 1,61 livres Taille: Moyen Description de la tranche d’âge: Enfant Nom du modèle: Corvette Grand Sport Type de kit d'artisanat: Construction de modèles UPC: 194735320592 Code article international: 00194735320592 Mot-clé concernant le public ciblé: Enfants unisexes Unité de comptage: 1.0 unité Nombre d’emballages: 1 Nom de l'ensemble: Kit de construction Hot Wheels Elite '63 Corvette Grand Sport Point fort de l’article: 918 pièces, détails réalistes, décalcomanies, voiture métal 1:64, idées cadeaux adultes et enfants dès 10 ans, JGR31 Fabricant: Mattel Pays d'origine: Chine Nom du type d'article: Jeux De Construction Coordonnées du fabricant: Mattel ; service.de@mattel.com Numéro de modèle: JGR31 Numéro de pièce: JGR31 Description de la garantie: 2 ans de garantie Classement des meilleures ventes d'Amazon: 9758 en Jeux et Jouets (Voir les 100 premiers en Jeux et Jouets) 655 en Sets de jeux de construction ASIN: B0DQXGDSFG Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (1 948) 4,7 sur 5 étoiles Style: Réaliste Personnage représenté: Corvette Grand Sport Dimensions de l’article: 27,7 x 12,2 x 7,8 centimètres Nombre de pièces: 918 Type de matériau: Plastique Caractéristiques spéciales: Lightweight GTIN: 194735320592 Commentaires client",
-    "price": 29.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coffret-de-construction-mattel-brick-shop-hot-wheels-corvette-grand-sport-918-pieces-3431837",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/CbarH/3431837_1/re/1200x1200/qt/90/3431837_1.jpg",
-    "detected_at": "2026-10-13T16:10:17+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.8,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 29.8,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque sans fil Logitech G733 Lightspeed - blanc, micro détachable, 278 g, RGB",
-    "description": "75,36€ - PcComponentes Le Logitech G733 blanc (981-000883) est à 75,36 € TTC chez PcComponentes, vendu et expédié directement par le marchand. Aucun code à appliquer, livraison annoncée gratuite. Prix confirmé au panier avec un seul casque, sans assurance ni accessoire ajouté. Il pèse 278 g, avec micro détachable et éclairage RGB. La connexion passe par le récepteur USB-A LIGHTSPEED fourni : ce n'est pas un casque Bluetooth pour téléphone. Logitech annonce 29 h d'autonomie sans éclairage, ou 20 h avec l'éclairage par défaut ; cela dépend de l'utilisation. Compatible PC, Mac et PlayStation 4 ou ultérieure selon Logitech. Les fonctions DTS Headphone:X 2.0, Blue VO!CE et la personnalisation RGB nécessitent G HUB ; les fonctions avancées ne sont pas disponibles sur PlayStation. Le câble USB-C vers USB-A fourni sert à la recharge ; aucun chargeur secteur n'est inclus. Pour situer le prix : un précédent deal G733 à 71,24 € sur Amazon a expiré il y a cinq jours. Ce n'est donc pas un record historique. Vérifié le 13/10/2026 à 17 h 13 (France). L'ajout au panier fonctionne, quantité réellement disponible inconnue. Aucune date/heure de fin propre à ce tarif n'a pu être confirmée. Fiche constructeur : https://www.logitechg.com/fr-fr/shop/p/g733-rgb-wireless-headset.981-000883",
-    "price": 75.36,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casque-gaming-sans-fil-logitech-g733-lightspeed-blanc-micro-detachable-278-g-rgb-3431835",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/07Q0T/3431835_1/re/1200x1200/qt/90/3431835_1.jpg",
-    "detected_at": "2026-10-13T16:06:46+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 75.36,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 75.36,
         "observed_at": "2026-10-14T16:57:28.991143+00:00"
       }
     ]
