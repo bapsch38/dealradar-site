@@ -601,10 +601,10 @@ function inferCategory(offer) {
   // Corrections ciblées avant la catégorie enregistrée : elles règlent les erreurs connues
   // et évitent qu'un mot isolé comme "the" dans "Thermaltake" fasse basculer en alimentation.
   const overrides = [
-    ["Jardin & extérieur", /\\b(tondeuse a gazon|coupe[- ]bordures?|debroussailleuse|taille[- ]haie|motobineuse|scarificateur|arrosage automatique|tuyau d'arrosage|robot tondeuse|piscine|spa gonflable|barbecue|parasol|salon de jardin|mobilier de jardin|serre de jardin|composteur|abri de jardin)\\b/],
-    ["Jouets & jeux", /\\b(lego|playmobil|jouets?|jeu de construction|book nook|puzzle|puzzles|jeu de societe|jeux de societe|jeu de cartes|cartes a jouer|figurines? de collection|peluches?|poupee|poupees|circuit de voitures|maquette)\\b/],
-    ["Culture & sorties", /\\b(livre|livres|roman|romans|manga|bandes dessinees|blu[- ]?ray|dvd|coffret blu[- ]?ray|abonnement cinema|places? de cinema|cinema|theatre|concert|musee|streaming)\\b/],
-    ["High-tech", /\\b(switch usb|commutateur usb|usb switch|kvm switch|multiprise usb)\\b/],
+    ["Jardin & extérieur", /\b(tondeuse a gazon|coupe[- ]bordures?|debroussailleuse|taille[- ]haie|motobineuse|scarificateur|arrosage automatique|tuyau d'arrosage|robot tondeuse|piscine|spa gonflable|barbecue|parasol|salon de jardin|mobilier de jardin|serre de jardin|composteur|abri de jardin)\b/],
+    ["Jouets & jeux", /\b(lego|playmobil|jouets?|jeu de construction|book nook|puzzle|puzzles|jeu de societe|jeux de societe|jeu de cartes|cartes a jouer|figurines? de collection|peluches?|poupee|poupees|circuit de voitures|maquette)\b/],
+    ["Culture & sorties", /\b(livre|livres|roman|romans|manga|bandes dessinees|blu[- ]?ray|dvd|coffret blu[- ]?ray|abonnement cinema|places? de cinema|cinema|theatre|concert|musee|streaming)\b/],
+    ["High-tech", /\b(switch usb|commutateur usb|usb switch|kvm switch|multiprise usb)\b/],
     ["Gaming", /\b(cyberpunk|phantom liberty|the witcher|black border [23]?|jeu(x)? video|video game|jeu pc|steam key|cle steam)\b/],
     ["Bricolage", /\b(testeur de tension|detecteur de tension|multimetre|chaussures? de securite|bottes? de securite|coupe[- ]bordures?|debroussailleuse|tondeuse a gazon)\b/],
     ["Électroménager", /\b(four encastrable|four pyrolyse|four multifonction|lave[- ]vaisselle|lave[- ]linge|seche[- ]linge|refrigerateur|congelateur|plaque de cuisson|hotte aspirante|cuisiniere)\b/],
@@ -908,7 +908,7 @@ function renderOffers() {
       '<div><span class="deal-confidence ' + trustClass + '">Confiance ' + escapeHtml(String(trustInfo.level).toLowerCase()) + ' · ' + trustInfo.score + '/100</span></div>' +
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
       '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>' +
-      (function(){ const merchant = typeof offer.merchant_url === "string" && /^https:\\/\\//i.test(offer.merchant_url) && offer.merchant_url !== url ? offer.merchant_url : (!isDealabs ? url : ""); return '<div class="deal-card-links">' + (isDealabs && url ? '<a href="' + escapeAttribute(url) + '" target="_blank" rel="noopener noreferrer">Dealabs ↗</a>' : '<a href="#" hidden>Dealabs ↗</a>') + (merchant ? '<a class="merchant-link" href="' + escapeAttribute(merchant) + '" target="_blank" rel="noopener noreferrer sponsored">Site marchand ↗</a>' : '<a class="merchant-link" href="#" hidden>Site marchand ↗</a>') + '</div>'; })() +
+      (function(){ const merchant = typeof offer.merchant_url === "string" && offer.merchant_url.startsWith("https://") && offer.merchant_url !== url ? offer.merchant_url : (!isDealabs ? url : ""); return '<div class="deal-card-links">' + (isDealabs && url ? '<a href="' + escapeAttribute(url) + '" target="_blank" rel="noopener noreferrer">Dealabs ↗</a>' : '<a href="#" hidden>Dealabs ↗</a>') + (merchant ? '<a class="merchant-link" href="' + escapeAttribute(merchant) + '" target="_blank" rel="noopener noreferrer sponsored">Site marchand ↗</a>' : '<a class="merchant-link" href="#" hidden>Site marchand ↗</a>') + '</div>'; })() +
       '</div></article>';
   }).join("");
 }
