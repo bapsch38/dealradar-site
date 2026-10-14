@@ -2678,7 +2678,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2699,7 +2699,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2720,7 +2720,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2909,7 +2909,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2930,7 +2930,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2951,7 +2951,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2972,7 +2972,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -8377,90 +8377,90 @@
     ]
   },
   {
-    "title": "Robot Aspirateur Laveur Dreame L10S Ultra Gen3 Set - avec Station, Blanc",
-    "description": "379€ - Boulanger Le Robot Aspirateur Laveur DREAME L10S Ultra Gen3 Set est un appareil de nettoyage puissant et efficace. **spécifications du produit :** - Puissance d'aspiration de 25 000 Pa - Moteur TurboForce de 6ème génération - Efficace sur sols durs, tapis et moquettes - Élimine les gros débris comme la litière pour chat - Technologie de nettoyage avancée",
-    "price": 379.0,
+    "title": "Set de poêles De Buyer - Ø 24 et 28 cm",
+    "description": "36,95€ - iBOOD Revêtement antiadhésif naturel Les poêles peuvent être utilisées au four et conviennent également aux cuisinières électriques et à gaz. Grâce à la poignée Cool-Touch, vous pouvez être sûr de ne pas vous brûler. Plus vous utilisez les poêles, plus elles deviennent foncées. Et plus elles deviennent foncées, plus la protection antiadhésive se développe. Et comme il est bien connu que deux fois valent mieux qu'une, même dans la cuisine, vous recevrez deux poêles avec ce deal: une poêle de 24 cm et une poêle de 28 cm de diamètre. Remarque: ne convient pas à l'induction. Sauf si vous vous en tenez à la poêle, que vous ajoutez toujours de l'huile ou du beurre et que vous n'utilisez pas la fonction Boost. Spécifications Marque: De Buyer Type: Set de poêles (Ø 24 et 28 cm) Garantie: 2 ans Matériau: 99% de fer pur Revêtement antiadhésif naturel Poignée pratique Cool-Touch Caractéristiques Forme: ronde Matériau: 99 % de fer pur Matériau du manche: acier recouvert de résine époxyde Cuisinières compatibles: Electrique | Gaz | Halogène | Vitrocéramique | Four Convient au lave-vaisselle: non Convient au four à micro-ondes: non Résistant au four: oui, jusqu'à 180 °C Forme ergonomique: oui Indicateur de chaleur: non Poignée Cool-Touch: oui Dimensions & poids (poêle 24 cm) Diamètre (au bord supérieur): 24 cm hauteur: 3,5 cm longueur: 43,7 cm Épaisseur du fond: 2 mm Poids: env. 1.000 g Dimensions & poids (poêle 28 cm) Diamètre (au bord supérieur): 28 cm hauteur: 4,2 cm longueur: 50,5 cm Épaisseur du fond: 2 mm Poids: env. 1.500 g Remarque: ne convient pas pour l'induction. Sauf si vous restez sur la poêle, que vous ajoutez toujours de l'huile ou du beurre et que vous n'utilisez pas la fonction Boost.",
+    "price": 36.95,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-laveur-dreame-l10s-ultra-gen3-set-3432381",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1mHuP/3432381_1/re/1200x1200/qt/90/3432381_1.jpg",
-    "detected_at": "2026-10-14T12:54:23+00:00",
+    "url": "https://www.dealabs.com/bons-plans/set-de-poeles-de-buyer-o-24-et-28-cm-3432388",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/4o2Tc/3432388_1/re/1200x1200/qt/90/3432388_1.jpg",
+    "detected_at": "2026-10-14T13:00:50+00:00",
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "https://www.boulanger.com/ref/1233543",
-    "price_history": [
-      {
-        "price": 379.0,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Boîte de rangement empilable à 4 niveaux avec portes magnétiques et roulettes - 180 L - 31 x 55 x 111 cm - Blanc",
-    "description": "34,19€ - Songmics > Ajoutez le code ATOLLSRLB450 > Livraison offerte Les atouts de ces boîtes empilables en bref : Grande capacité : 4 niveaux cumulant 180 L de rangement pour vos vêtements, chaussures, fournitures de bureau ou articles de salle de bain. Montage express : Ces boîtes se montent en quelques gestes et se replient tout aussi facilement quand vous n’en avez plus besoin. Polyvalentes et faciles à déplacer : Idéales pour la chambre, le salon, la salle de bain ou la cuisine, elles se déplacent sans effort grâce aux roulettes silencieuses intégrées. Double porte magnétique : Accès rapide à leur contenu, même lorsque les boîtes sont empilées. Grâce à l’aimant, la porte se ferme toute seule et reste bien fermée. Matériau en plastique PP : Ces boîtes sont conçues en plastique PP épaissi et dotées de nervures de renfort. Caractéristiques : Couleur : Blanc Matériau : Plastique PP (polypropylène) Dimensions totales : 31 x 55 x 111 cm (P x L x H) Dimensions par niveau (sans roulettes) : 25,5 x 42,7 x 23 cm (P x L x H) Capacité par niveau : 45 L Poids : 4,9 kg Capacité de charge statique maximale par boîte : 4 kg Livraison : 1 x Organiseur à 4 niveaux Précautions de SONGMICS : Cette tour de rangement comprend 4 paniers et un couvercle. Ne surchargez pas ces boîtes de rangement. Ne déplacez pas ces boîtes sur de longues distances lorsqu’elles sont entièrement remplies. Avant de les déplacer, assurez-vous que les freins des roulettes sont complètement déverrouillés.",
-    "price": 34.19,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/boite-de-rangement-empilable-a-4-niveaux-avec-portes-magnetiques-et-roulettes-180-l-31-x-55-x-111-cm-blanc-3432383",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5CfwW/3432383_1/re/1200x1200/qt/90/3432383_1.jpg",
-    "detected_at": "2026-10-14T12:52:11+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 34.19,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+        "price": 36.95,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
       }
     ]
   },
   {
-    "title": "[Macif Avantages] TV 55\" LG OLED55C6 2026 - OLED 4K UHD,165 Hz VRR, HDR10, Dolby Vision + Barre de son 5.1 S60TR (Via ODR de 200€)",
-    "description": "1 096,28€ - LG ● Prix sympa pour ce pack Comment obtenir ce prix ? Grâce à un code MACIF AVANTAGES -15% + ODR de 200€ Barre de son vendu 200€ sur AMAZON La TV LG OLED55C66LB.S60T001 est un téléviseur intelligent de 55 pouces conçu pour offrir une expérience visuelle optimale. *caractéristiques du produit:* - Écran OLED de 55 pouces (139 cm) - Résolution 4K - Plateforme webOS avec fonctions smart AI - Modèle 2026",
-    "price": 1096.28,
+    "title": "Lot de 3 Tablettes de 100g de Chocolat au Lait Noisettes Lindt L'Authentique",
+    "description": "5,02€ - Amazon Lait Noisettes : l'alliance gourmande du croquant de savoureux éclats de noisettes et du fondant incomparable du chocolat au lait Lindt FORMAT LOT DE 3x100G : idéal pour une pause gourmande en famille ou entre amis L'EXPERTISE LINDT : Lindt est fier de proposer des chocolats d'une qualité et d'une finesse incomparables depuis 1845, en alliant avec justesse un cacao de haute qualité aux meilleurs ingrédients QUALITÉ SUPÉRIEURE : Chez Lindt, la passion et l'amour pour le chocolat se retranscrivent à chaque étape, de la sélection des fèves de cacao à la conception du chocolat par les Maîtres Chocolatiers Lindt LINDT S'ENGAGE en faveur du développement durable en assurant la traçabilité de 100 % de ses fèves de cacao jusqu'à leur origine et en les soumettant à une vérification externe",
+    "price": 5.02,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/macif-avantages-tv-55-lg-oled55c6-2026-oled-4k-uhd165-hz-vrr-hdr10-dolby-vision-barre-de-son-51-s60tr-via-odr-de-200eur-3432378",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Yr9zM/3432378_1/re/1200x1200/qt/90/3432378_1.jpg",
-    "detected_at": "2026-10-14T12:47:02+00:00",
-    "category": "High-tech",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-3-tablettes-de-chocolat-au-lait-noisettes-lindt-lauthentique-3x100g-3432386",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/cSQI8/3432386_1/re/1200x1200/qt/90/3432386_1.jpg",
+    "detected_at": "2026-10-14T13:00:04+00:00",
+    "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/LG-S60TR-Noir-5-1-canaux/dp/B0CY5P9L11",
+    "merchant_url": "https://www.amazon.fr/dp/B0BBWMSSVF?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
-        "price": 1096.28,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+        "price": 5.02,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
       }
     ]
   },
   {
-    "title": "Coffret eau de parfum Lancôme Miracle - 30 ml",
-    "description": "36,33€ - Flaconi Coffret comprenant une eau de parfum Miracle 30 ml, un lait pour le corps et une miniature. 36.33 au lieu de 65 € soit près de -50 % Disponible chez Flaconi, en",
-    "price": 36.33,
-    "reference_price": 65.0,
-    "discount_percent": 44.1,
+    "title": "Jouet Lego Animal Crossing 77056 Les collections du musée de Thibou",
+    "description": "41,99€ - Carrefour Un set bientôt retiré à un prix très compétitif. N'oubliez pas de payer par carte cadeau pour gratter 5%'supplémentaires.",
+    "price": 41.99,
+    "reference_price": null,
+    "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coffret-lancome-miracle-30-ml-3432374",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/wXF7n/3432374_1/re/1200x1200/qt/90/3432374_1.jpg",
-    "detected_at": "2026-10-14T12:40:18+00:00",
-    "category": "Beauté & santé",
+    "url": "https://www.dealabs.com/bons-plans/lego-animal-crossing-77056-les-collections-du-musee-de-thibou-3432387",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/VWIH9/3432387_1/re/1200x1200/qt/90/3432387_1.jpg",
+    "detected_at": "2026-10-14T12:59:42+00:00",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.carrefour.fr/p/lego-animal-crossing-les-collections-du-musee-de-thibou-77056-lego-5702017815947",
     "price_history": [
       {
-        "price": 36.33,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+        "price": 41.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 Poêles Inox Tefal Duetto On - 24 / 28 cm, Tous feux dont induction",
+    "description": "39,99€ - Amazon Bon tarif pour des poêles inox Tefal de ces diamètres. > Livraison gratuite Description RÉSULTATS CROUSTILLANTS: Découvrez une autre expérience de la cuisine grâce à une surface intérieure texturée sans revêtement idéale pour de la viande et des légumes croustillants et dorés CUISSON RAPIDE ET HOMOGÈNE: Une base épaisse qui diffuse la chaleur pour une cuisson rapide et des plats savoureux, vous permettant de passer moins de temps en cuisine et plus de temps à profiter ACIER INOXYDABLE GARANTI 10ANS: Assure des performances et une fiabilité longue durée pour des produits au design robuste, conçus pour résister au fil des années POIGNÉE ERGONOMIQUE: un design ergonomique pour plus de confort et de sécurité FORMATS INDISPENSABLES: pour réaliser des recettes simplissimes qui plairont à coup sûr, telles que des omelettes, des steaks hachés et du poulet grillé",
+    "price": 39.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-2-poeles-inox-tefal-duetto-on-24-28-cm-tous-feux-dont-induction-3432385",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/p8xzl/3432385_1/re/1200x1200/qt/90/3432385_1.jpg",
+    "detected_at": "2026-10-14T12:58:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0FCSDRK89",
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
       }
     ]
   },
@@ -21202,6 +21202,153 @@
       {
         "price": 199.99,
         "observed_at": "2026-10-14T13:02:32.019774+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Du 17/10 au 01/11] Entrée gratuite pour les enfants de moins de 12 ans déguisés - Parc animalier Zoodyssée (79)",
+    "description": "Pendant les vacances de la Toussaint (du 17 octobre au 1er novembre 2026), le parc Zoodyssée en forêt de Chizé offre l'entrée aux enfants de moins de 12 ans qui viennent déguisés pour Halloween ! (devil) Un jeu de piste thématique est inclus dans la visite (nerd) Les adultes accompagnateurs règlent leur place au tarif habituel. Seule la balade crépusculaire des 21 et 28 octobre demande un supplément de 4,50 € par personne (sur réservation)",
+    "price": 4.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/du-1710-au-0111-entree-gratuite-pour-les-enfants-de-moins-de-12-ans-deguises-parc-animalier-zoodyssee-79-3431576",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Jf4hx/3431576_1/re/1200x1200/qt/90/3431576_1.jpg",
+    "detected_at": "2026-10-13T09:41:21+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 4.5,
+        "observed_at": "2026-10-13T09:59:23.638697+00:00"
+      },
+      {
+        "price": 4.5,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Samsung Carte Mémoire microSDXC Sonic PRO Plus 128 Go avec Adaptateur SD",
+    "description": "36,54€ - Amazon Carte mémoire MicroSDXC haute performance conçue pour étendre l'espace de stockage des consoles de jeux portables, smartphones, tablettes et caméras. Elle offre des débits optimisés pour le transfert rapide de données lourdes, la lecture de jeux vidéo et l'enregistrement vidéo en haute résolution. Points forts et caractéristiques : • Hautes performances de transfert : Offre une vitesse de lecture allant jusqu'à 180 Mo/s grâce à l'interface UHS-I, réduisant les temps de chargement des applications et des fichiers. • Spécifications A2 et V30 : Certifiée A2 pour un chargement plus rapide des applications et classe de vitesse vidéo V30 assurant un enregistrement fluide en vidéo 4K UHD. • Polyvalence et adaptateur inclus : Livrée avec un adaptateur SD plein format pour une compatibilité étendue avec les appareils photo, caméras et ordinateurs portables. • Conception robuste : Protection intégrée contre l'eau, les températures extrêmes, les rayons X, les chutes et les champs magnétiques pour sécuriser les données stockées.",
+    "price": 36.54,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/samsung-carte-memoire-microsdxc-sonic-pro-plus-128-go-avec-adaptateur-sd-3431577",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/grDMm/3431577_1/re/1200x1200/qt/90/3431577_1.jpg",
+    "detected_at": "2026-10-13T09:36:32+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 36.54,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 36.54,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casquette trucker New Balance Core 47 - Vert ou Beige, taille ajustable",
+    "description": "12,99€ - Espace des marques Une casquette trucker New Balance de la ligne Core, simple à porter au quotidien, aussi bien avec une tenue de sport qu'avec un look décontracté. Elle est construite en 6 panneaux avec le logo New Balance brodé sur l'avant. La composition indiquée sur la fiche est 100 % coton, et la taille est ajustable à l'arrière pour s'adapter à la plupart des tours de tête. Deux coloris sont disponibles au même tarif : Vert et Beige (le modèle beige est accessible depuis la fiche du vert, via le choix de la couleur). Référence NBCTK04CNP. Côté livraison, plusieurs options sont proposées : point relais Chronopost, livraison à domicile en Colissimo, ou retrait gratuit dans l'un des magasins physiques Espace des Marques. Les retours sont possibles sous 30 jours.",
+    "price": 12.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casquette-trucker-new-balance-core-47-vert-ou-beige-taille-ajustable-3431575",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jE1AB/3431575_1/re/1200x1200/qt/90/3431575_1.jpg",
+    "detected_at": "2026-10-13T09:35:27+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.99,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 12.99,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Prime] Braun Rasoir Electrique Series 9 Sport 9110si + brosse de nettoyage + etui - Noir",
+    "description": "229,98€ - Amazon Rasage de près à 0,05 mm et confortable : le rasoir premium Series 9 Sport de Braun offre un rasage précis et doux au quotidien Précis dans les zones difficiles : 4+1 éléments de rasage synchronisés dans une tête compacte et flexible à 40°, pour un rasage de près et doux, même sous le nez et le menton Efficacité optimisée à chaque utilisation : la technologie SensoAdapt analyse la densité de votre barbe 160x/sec et ajuste la puissance pour un rasage efficace et doux Fabriqué en Allemagne et conçu pour durer : ce rasoir est conçu avec des matériaux de qualité et dans le souci du détail. Il est 100% étanche pour une utilisation sur une peau mouillée ou sèche. Sa batterie Li-Ion offre jusqu'à 60 minutes d'autonomie Avec jusqu'à 5 ans de garantie (voir les conditions générales applicables sur le site web de Braun)",
+    "price": 229.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/prime-braun-rasoir-electrique-series-9-sport-9110si-brosse-de-nettoyage-etui-noir-3431574",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Ngfi1/3431574_1/re/1200x1200/qt/90/3431574_1.jpg",
+    "detected_at": "2026-10-13T09:35:12+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 229.98,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 229.98,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Entrée gratuite pour les enfants déguisés - Zoo du Bois d'Attilly - Férolles-Attilly (77)",
+    "description": "Bon plan sortie pour Halloween ! Le zoo du Bois d'Attilly offre l'accès aux gosses qui viennent déguisés ! (devil) Ils ont aussi prévu une distribution de bonbons sur place <3 L'opération tourne sur deux jours : samedi 31 octobre et dimanche 1er novembre Attention ! Les accompagnateurs payent le plein tarif classique. À checker sur leur site pour les tranches d'âge exactes avant de faire la route !",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/entree-gratuite-pour-les-enfants-deguises-zoo-du-bois-dattilly-ferolles-attilly-77-3431567",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/0bgdf/3431567_1/re/1200x1200/qt/90/3431567_1.jpg",
+    "detected_at": "2026-10-13T09:34:30+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
+  },
+  {
+    "title": "Vol A/R Lyon (LYS) Bangkok (BKK), du 18 novembre au 1er décembre avec 1 escale (Bagage en soute 23kg)",
+    "description": "432€ - Trip.com Vol Aller-Retour vers Bangkok, en Thaïlande depuis Lyon, avec une escale, du 18 novembre au 8 décembre, pendant la saison sèche. Le vol est opéré par la compagnie Royal Jordanian. Un bagage en soute de 23kg, un bagage cabine et un bagage à main sont inclus dans le prix du billet.",
+    "price": 432.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vol-ar-lyon-lys-bangkok-bkk-du-18-novembre-au-1er-decembre-avec-1-escale-bagage-en-soute-23kg-3431573",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/tbIyb/3431573_1/re/1200x1200/qt/90/3431573_1.jpg",
+    "detected_at": "2026-10-13T09:34:27+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 432.0,
+        "observed_at": "2026-10-13T09:43:28.542856+00:00"
+      },
+      {
+        "price": 432.0,
+        "observed_at": "2026-10-14T13:04:06.049057+00:00"
       }
     ]
   }
