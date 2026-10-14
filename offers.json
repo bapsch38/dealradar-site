@@ -1,5 +1,68 @@
 [
   {
+    "title": "Abrasifs festool stf-d225/48 p24 sa - boite de 25 - 205650",
+    "price": 112.41,
+    "reference_price": 129.93,
+    "discount_percent": 13.48,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08CGSJ5ZS",
+    "image_url": "https://m.media-amazon.com/images/P/B08CGSJ5ZS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:13:12",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 112.41,
+        "observed_at": "2026-10-14T11:14:20.684678+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Neff z7863 Accessoire x 0/Pani...ts pour lave-vaisselle intégré",
+    "price": 20.74,
+    "reference_price": 28.37,
+    "discount_percent": 26.89,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001YOIQKC",
+    "image_url": "https://m.media-amazon.com/images/P/B001YOIQKC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:13:11",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.74,
+        "observed_at": "2026-10-14T11:14:20.684678+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Siemens Machine à café entière...a vapeur, 1500 W, argent, gris",
+    "price": 617.31,
+    "reference_price": 755.52,
+    "discount_percent": 18.29,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B074QGDYVB",
+    "image_url": "https://m.media-amazon.com/images/P/B074QGDYVB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 11:13:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 617.31,
+        "observed_at": "2026-10-14T11:14:20.684678+00:00"
+      }
+    ]
+  },
+  {
     "title": "Hama Multiprise 6 Prises 16A a...lier, Meuble TV, Garage) Blanc",
     "price": 9.99,
     "reference_price": 17.7,
@@ -7442,6 +7505,89 @@
     ]
   },
   {
+    "title": "PC Portable 13\" Apple MacBook Neo - 8/256Go, Puce A18 Pro avec CPU 6 cœurs et GPU 5 cœurs, Agrume, AZERTY",
+    "description": "749€ - JoyBuy Performances équilibrées : la puce Apple A18 Pro avec CPU 6 cœurs (2 performance, 4 efficacité) et GPU 5 cœurs offre des performances fluides pour les tâches quotidiennes, la navigation et le multitâche léger, avec une bande passante mémoire de 60 Go/s. Conçu pour Apple Intelligence : le Neural Engine 16 cœurs et les technologies d'IA intégrées permettent d'exécuter efficacement les tâches d'intelligence artificielle, avec des protections de confidentialité révolutionnaires. Autonomie généreuse : jusqu'à 16 heures de lecture vidéo et 11 heures de navigation Web, pour une productivité sans interruption toute la journée. Écran Liquid Retina 13 pouces : résolution 2408 x 1506, 500 nits de luminosité, support d'l milliard de couleurs et compatibilité HDR10, HDR10+, Dolby Vision et HLG. Design léger et coloré : poids plume de 1,23 kg, épaisseur de 1,27 cm, boîtier en aluminium recyclé à 60 % de matériaux recyclés, disponible en quatre couleurs tendance dont le jaune agrume. Connectivité moderne : Wi-Fi 6E, Bluetooth 6.0, port USB-C avec DisplayPort, charge USB-C, prise casque 3,5 mm, avec prise en charge d'un écran externe. macOS Tahoe et Apple Intelligence : système d'exploitation avec outils de productivité intuitifs, intégration transparente avec l'écosystème Apple via les fonctionnalités Continuité, et mises à jour logicielles gratuites. Durabilité et réparabilité : indice de réparabilité de 6,8/10, certification EPEAT Gold, empreinte carbone de 103 kg, et plus de 60 % de matériaux recyclés.",
+    "price": 749.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/apple-macbook-neo-13-pouces-8-gb-ram-256-gb-ssd-puce-a18-pro-avec-cpu-6-coeurs-et-gpu-5-coeurs-agrume-azerty-3432309",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZZRck/3432309_1/re/1200x1200/qt/90/3432309_1.jpg",
+    "detected_at": "2026-10-14T11:08:38+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 749.0,
+        "observed_at": "2026-10-14T11:14:20.684678+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Brosse à Dents Électrique Oral-B iO 2 - Noire Avec 1 Brossette de Rechange, 3 Modes et Capteur de Pression",
+    "description": "49,99€ - Amazon La brosse à dents électrique Oral-B iO 2 facilite le passage au brossage électrique grâce à ses micro-vibrations douces et sa tête ronde conçue pour nettoyer chaque dent. Son fonctionnement silencieux et son mode Extra-Douceur conviennent particulièrement aux gencives sensibles. Elle dispose d’un capteur de pression qui avertit lorsque le brossage est trop appuyé et réduit la vitesse pour mieux protéger les gencives. La batterie rechargeable et l’étui inclus permettent également de l’emporter facilement en déplacement. * 3 modes de brossage : Extra-Douceur, Douceur et Propreté. * Capteur de pression avec signal lumineux rouge en cas de pression excessive. * Batterie rechargeable et fonctionnement silencieux. * 1 brossette de rechange et étui inclus.",
+    "price": 49.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/oral-b-io-2-brosse-a-dents-electrique-noire-avec-1-brossette-de-rechange-3-modes-et-capteur-de-pression-3432308",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/IjBPp/3432308_1/re/1200x1200/qt/90/3432308_1.jpg",
+    "detected_at": "2026-10-14T11:08:27+00:00",
+    "category": "Beauté & santé",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0DQ17212V?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-14T11:14:20.684678+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Imprimante 3D Creality K2 Plus Combo - Impression Multicolore CFS 16 Couleurs, Haute Vitesse 600mm/s, Double Caméras IA, 350×350×350mm",
+    "description": "849,15€ - JoyBuy Pour les membres JoyPlus, le prix passe même à 799.20€, mais je ne connais pas les modalités et conditions membres.",
+    "price": 849.15,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/imprimante-3d-creality-k2-plus-combo-impression-multicolore-cfs-16-couleurs-haute-vitesse-600mms-double-cameras-ia-350350350mm-3432306",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ARynS/3432306_1/re/1200x1200/qt/90/3432306_1.jpg",
+    "detected_at": "2026-10-14T11:04:58+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 849.15,
+        "observed_at": "2026-10-14T11:14:20.684678+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Nouveaux clients] Testeur de câbles réseau ANENG M469A - RJ45/RJ11, détection des courts-circuits, diagnostic de câblage",
+    "description": "8,82€ - Alibaba Bon prix pour ce testeur de câbles. Compatible avec les connecteurs RJ45 et RJ11 , il peut être utilisé pour contrôler une installation Ethernet, identifier un problème de câblage ou effectuer des vérifications après la pose de connecteurs. Livraison gratuite > Caractéristiques Compatible avec les connecteurs RJ45 et RJ11 Adapté aux câbles réseau Ethernet et téléphoniques Détection des courts-circuits Outil de diagnostic et de vérification du câblage Utilisation pour l'installation et la maintenance de réseaux filaires",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-testeur-de-cables-reseau-aneng-m469a-rj45rj11-detection-des-courts-circuits-diagnostic-de-cablage-3432301",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/EwUPD/3432301_1/re/1200x1200/qt/90/3432301_1.jpg",
+    "detected_at": "2026-10-14T10:53:15+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
+  },
+  {
     "title": "Carte graphique MLLSE RX 580 8 Go 2048SP GDDR5",
     "description": "67,40€ - AliExpress La carte graphique MLLSE Radeon RX580 8G GDDR5 est une solution performante pour les joueurs et les utilisateurs exigeants en matière de graphismes. Dotée de 8 Go de mémoire GDDR5, elle offre une vitesse et une fluidité idéales pour les jeux vidéo modernes et les applications de création multimédia. Son interface PCIE 3.0 x16 garantit une connexion rapide et stable avec la carte mère, assurant ainsi des performances optimales. Cette carte est équipée de composants de qualité pour une durabilité accrue et une meilleure dissipation thermique. Compatible avec la technologie AMD RX 580, elle prend en charge les effets visuels avancés, le rendu haute définition, ainsi que les fonctionnalités comme le multi-écrans et la réalité virtuelle. Adaptée aux ordinateurs de bureau, elle est un excellent choix pour améliorer les performances graphiques, que ce soit pour le gaming intensif ou pour des tâches créatives exigeantes.",
     "price": 67.4,
@@ -12868,7 +13014,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B08P4XX518?tag=neksann770f-21",
     "price_history": [
       {
         "price": 119.0,
@@ -12912,7 +13058,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B079NNND71?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 3.76,
@@ -12934,7 +13080,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.zalando.fr/lacoste-billfold-coin-portefeuille-noir-la252f00n-q11.html",
     "price_history": [
       {
         "price": 64.56,
@@ -12953,10 +13099,10 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jfGE2/3431967_1/re/1200x1200/qt/90/3431967_1.jpg",
     "detected_at": "2026-10-13T20:21:20+00:00",
     "category": "Électroménager",
-    "price_verified": false,
+    "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T11:13:41.486380+00:00",
+    "merchant_url": "https://www.auchan.fr/ninja-crispi-airfryer-fn101eust-en-verre-beige/pr-C1851637",
     "price_history": [
       {
         "price": 79.99,
@@ -13000,7 +13146,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.carrefour.fr/p/lego-ninjago-la-moto-tempete-du-robot-de-kai-71830-lego-5702017815657",
     "price_history": [
       {
         "price": 29.99,
@@ -13022,7 +13168,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://fr.aliexpress.com/item/1005010144643095.html",
     "price_history": [
       {
         "price": 73.39,
@@ -13044,7 +13190,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FRSKBKJV?smid=A38NYA12FPZO64",
     "price_history": [
       {
         "price": 127.99,
@@ -13132,7 +13278,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.carrefour.fr/p/lego-disney-stitch-43249-lego-5702017583624",
     "price_history": [
       {
         "price": 36.79,
@@ -13171,7 +13317,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FPXCYXHM?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 17.9,
@@ -14254,160 +14400,6 @@
       {
         "price": 59.99,
         "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Seau d'Halloween avec lumière - 19 cm",
-    "description": "0,99€ - Action Le retour des seaux citrouilles et chauves-souris à 0.99€. Diamètre : 19 cm Divers modèles Couleur : Orange",
-    "price": 0.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/seau-dhalloween-avec-lumiere-3431890",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YwX0K/3431890_1/re/1200x1200/qt/90/3431890_1.jpg",
-    "detected_at": "2026-10-13T18:00:48+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 0.99,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Nettoyeur 3 en 1 Bissell CrossWave C3 Pro",
-    "description": "100,83€ - Outlet 46 Le Bissell CrossWave C3 Pro est un aspirateur et nettoyeur de sol 3-en-1 conçu pour le nettoyage humide et sec. **caractéristiques du produit :** - Technologie à deux réservoirs - Inclus 236 ml de solution de nettoyage multi-surfaces - Puissance de 560 W - Couleur : gris - Produit reconditionné et testé",
-    "price": 100.83,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bissell-crosswave-c3-pro-3-in-1-3431889",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xbiXF/3431889_1/re/1200x1200/qt/90/3431889_1.jpg",
-    "detected_at": "2026-10-13T18:00:47+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 100.83,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Lego Speed Champions 77254 Ferrari SF90 XX Stradale OU 77240 Bugatti Centodieci OU 77239 Supercar Porsche 911 GT3 RS",
-    "description": "16,99€ - Smyths Toys Petite brochette de Speed champions à 16.99€. Retrait gratuit en magasin. Comme d'habitude, si votre commande est inférieure à 29€, et si vous avez l'occasion, il vaut mieux récupérer les articles en magasin (et vérifier l'intégrité de votre boite). LEGO Speed Champions 77240 Hypercar Bugatti Centodieci | Smyths Toys France LEGO Speed Champions 77239 Supercar Porsche 911 GT3 RS | Smyths Toys France LEGO Speed Champions 77250 Voiture F1 MoneyGram Haas Team VF-24 | Smyths Toys France LEGO Speed Champions 77249 Voiture F1 Williams Racing FW46 | Smyths Toys France LEGO Speed Champions 77245 Voiture F1 Aston Martin Aramco AMR24 | Smyths Toys France",
-    "price": 16.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77254-ferrari-sf90-xx-stradale-ou-77240-bugatti-centodieci-ou-77239-supercar-porsche-911-gt3-rs-3431888",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ruVwJ/3431888_1/re/1200x1200/qt/90/3431888_1.jpg",
-    "detected_at": "2026-10-13T18:00:10+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 16.99,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Deguisement Halloween enfant - Plusieurs modèles",
-    "description": "5,95€ - Action Alors le gars en costume rouge, j'ai pas compris quel personnage c'était (confused) Le joker dernière version ?",
-    "price": 5.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/deguisement-halloween-enfant-plusieurs-modeles-3431887",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y3bNF/3431887_1/re/1200x1200/qt/90/3431887_1.jpg",
-    "detected_at": "2026-10-13T17:58:06+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.95,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Smartphone 6.77\" Nothing Phone (3a) Pro - 256 Go (vendeur tiers)",
-    "description": "399,99€ - Amazon Très belle offre sur le Nothing Phone (3a) Pro dans sa version 256 Go / 12 Go de RAM, proposée à 399 € au lieu de 479 € chez Amazon. Le modèle (3a) Pro se démarque par un rapport qualité/prix exceptionnel, notamment grâce à un équipement photo de haut niveau et son design transparent unique avec l'interface Glyph. Points forts & Fiche technique : Écran : AMOLED LTPS flexible 6,77\" FHD+ (1080 x 2392 pixels), 120 Hz adaptatif, pic de luminosité impressionnant à 3 000 nits, certifié HDR10+. Processeur : Qualcomm Snapdragon 7s Gen 3 (gravé en 4 nm) — fluide, performant et très efficient en énergie. Photographie (le gros point fort du modèle Pro) : Capteur principal : 50 MP (OIS + EIS, Dual Pixel PDAF) Téléobjectif périscopique : 50 MP avec zoom optique x3, zoom sans perte x6 et jusqu'à x60 numérique. Ultra grand-angle : 8 MP (120°) Caméra selfie : 50 MP avec enregistrement vidéo 4K. Batterie & Charge : 5 000 mAh avec charge rapide 50W (50 % en 19 min). OS : Nothing OS 3 / 4 (Android 15) — interface très épurée, réactive et fluide. Autres : 5G, Wi-Fi 6, Bluetooth 5.4, NFC, certification IP64, haut-parleurs stéréo, Dual SIM (Nano + eSIM).",
-    "price": 399.0,
-    "reference_price": 479.0,
-    "discount_percent": 16.7,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nothing-phone-3a-pro-256-gb-3431884",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/qMrCD/3431884_1/re/1200x1200/qt/90/3431884_1.jpg",
-    "detected_at": "2026-10-13T17:54:55+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 399.0,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets Lacoste Storm 96 2K 224 SMA - Blanc cassé, Taille 46 (via coupon)",
-    "description": "63,99€ - JoyBuy Baskets Lacoste Storm 96 2K 224 à prix intéressant sur Joybuy Un bon plan pour ceux qui cherchent une paire de baskets Lacoste sans payer le prix fort.",
-    "price": 63.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lacoste-storm-96-2k-224-sma-blanc-casse-46-3431883",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jCg8A/3431883_1/re/1200x1200/qt/90/3431883_1.jpg",
-    "detected_at": "2026-10-13T17:54:05+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 63.99,
-        "observed_at": "2026-10-13T18:07:15.827551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société Pickomino",
-    "description": "10,49€ - Amazon Un jeu de dés à piquer des vers ! Si vous aimez le Yam alors vous allez adorer Pickomino qui ajoute convivialité et rebondissements en tout genre;Lancez les 8 dés originaux, choisissez une valeur de dés à mettre de côté, puis faites le pari de relancer ou pas. Vous pouvez relancer les dés restant autant de fois que vous le souhaitez, à condition de toujours pouvoir retenir une valeur de dés différente. Si vous êtes dans l’incapacité de le faire alors vous devrez rendre un de vos précieux Pickomino et passer votre tour! Lorsque votre tour est fini faites l’addition pour savoir quel Pickomino prendre au centre de la table ou même dans la main de vos adversaires ! Allez-vous jouer la sécurité et récupérer un Pickomino de faible valeur ou êtes vous un flambeur ? Nombre de joueur : 2 à 7 joueurs Durée d'une partie : 20 à 30 minutes Contenu de la boite : 8 dés et 16 dominos très spéciaux, règle du jeu.",
-    "price": 10.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-pickomino-3431882",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2BiBU/3431882_1/re/1200x1200/qt/90/3431882_1.jpg",
-    "detected_at": "2026-10-13T17:52:59+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.49,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
       }
     ]
   }
