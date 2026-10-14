@@ -969,7 +969,11 @@ function renderOffers() {
     const image = images[0] || "";
     const imageFallbacks = escapeAttribute(JSON.stringify(images.slice(1)));
     const offerTextForPrice = (String(offer.title || "") + " " + String(offer.description || "")).toLocaleLowerCase("fr");
-    const unknownPriceLabel = /\b(gratuit|gratuite|gratuitement|offert|offerte|offerts|offertes)\b/.test(offerTextForPrice)
+    // La livraison gratuite n'indique pas que le produit lui-même est gratuit.
+    const priceTextForFree = offerTextForPrice
+      .replace(/\b(?:livraison|expédition|expedition|envoi|frais de port|frais de livraison|frais d['’]expédition|frais d['’]envoi)\s+(?:est\s+)?(?:gratuite?|gratuits?|offerte?|offerts?|offertes?)\b/g, " ")
+      .replace(/\b(?:livraison|expédition|expedition|envoi)\s+(?:est\s+)?(?:gratuite?|offerte?)\b/g, " ");
+    const unknownPriceLabel = /\b(gratuit|gratuite|gratuitement|offert|offerte|offerts|offertes)\b/.test(priceTextForFree)
       ? "Gratuit"
       : /code[s]? promo|cashback|cagnott|odr|offre de remboursement|remise supplémentaire|points doublés|sélection d['’]articles en promotion|réduction sur une sélection|remise sur une sélection|jusqu['’]?à\s*\d+\s*%|réduction de\s*\d+\s*%|remise de\s*\d+\s*%/.test(offerTextForPrice)
         ? "Offre sans prix unique"
