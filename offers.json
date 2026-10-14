@@ -1,5 +1,68 @@
 [
   {
+    "title": "BLANCO 524813 VIU-S Robinet de...Cuisine, Chrome/Gris Lave, 335",
+    "price": 263.22,
+    "reference_price": 293.74,
+    "discount_percent": 10.39,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07H9HC38L",
+    "image_url": "https://m.media-amazon.com/images/P/B07H9HC38L.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:03:33",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 263.22,
+        "observed_at": "2026-10-14T12:04:53.550049+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bestron hachoir électrique, mi... 500 ml, Coleur: Noir / Argent",
+    "price": 17.99,
+    "reference_price": 24.52,
+    "discount_percent": 26.63,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0851FKFXV",
+    "image_url": "https://m.media-amazon.com/images/P/B0851FKFXV.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:03:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.99,
+        "observed_at": "2026-10-14T12:04:53.550049+00:00"
+      }
+    ]
+  },
+  {
+    "title": "BLANCO ZIA XL 6 S – Évier de C...ge – SILGRANIT – Gris – 517558",
+    "price": 453.02,
+    "reference_price": 554.34,
+    "discount_percent": 18.28,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B005610X50",
+    "image_url": "https://m.media-amazon.com/images/P/B005610X50.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:03:27",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 453.02,
+        "observed_at": "2026-10-14T12:04:53.550049+00:00"
+      }
+    ]
+  },
+  {
     "title": "Siemens LZ11IXC16 Accessoire pour hotte",
     "price": 253.62,
     "reference_price": 292.91,
@@ -1124,7 +1187,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:28:25.742311+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1145,7 +1208,7 @@
     "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:28:25.742311+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1166,7 +1229,7 @@
     "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:28:25.742311+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1439,7 +1502,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:37:45.645567+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1460,7 +1523,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:37:45.645567+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -7961,68 +8024,68 @@
     ]
   },
   {
-    "title": "SSD Interne Cusu CV3500Q - 1 To, NVMe M2, PCIe 3.0",
-    "description": "106,59€ - AliExpress Numéro de Modèle SSD Application Ordinateur de bureau,Ordinateur portable Taille 1.8\" Nom de marque CUSU Origine CN (Origine) Type externe Style disque dur NVMe SSD Size M.2 2280 CV3500/CV3500Q/CV3500M Interface PCIe3.0 x4 CV5000/CV7000/CV7000-P Interface PCIe4.0 x4 QLC/TLC Random shipment",
-    "price": 106.59,
+    "title": "[Clients BoursoBank] 2 mois de cotisation offerts pour toute nouvelle adhésion à l'assurance habitation Alabri",
+    "description": "BoursoBank Alabri, c'est l'assurance habitation de BoursoBank, dès 5,97€/mois. En ce moment, pour les clients BoursoBank, pour toute nouvelle adhésion, bénéficiez de 2 mois de cotisations offerts",
+    "price": 5.97,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ssd-interne-cusu-cv3500q-1-to-nvme-m2-pcie-30-3432338",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/O2Df4/3432338_1/re/1200x1200/qt/90/3432338_1.jpg",
-    "detected_at": "2026-10-14T11:54:52+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://fr.aliexpress.com/item/1005008942339629.html",
-    "price_history": [
-      {
-        "price": 106.59,
-        "observed_at": "2026-10-14T11:58:49.558090+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Écouteurs sans fil à conduction osseuse Shokz Open Run Pro 2 - Orange",
-    "description": "108,33€ - AliExpress 1. Double haut-parleur pour un son supérieur Grâce à la technologie DualPitch exclusive de SHOKZ, ces écouteurs combinent parfaitement la conduction osseuse et la conduction aérienne, redéfinissant ainsi la norme sonore pour l'écoute à oreilles libres. Les deux transducteurs travaillent en synergie pour offrir une expérience d'écoute inégalée : un son net, clair et puissant, qui brise les limitations sonores des appareils à oreilles libres traditionnels. 2. Conception à oreilles libres : Équilibre entre sécurité et expérience Grâce à la conception à oreille ouverte emblématique de SHOKZ, les utilisateurs peuvent profiter de la musique, des podcasts et bien plus encore tout en perçant clairement les sons environnants (tels que les alertes de circulation et les conversations). Cela assure efficacement la sécurité lors d'activités de plein air comme les trajets quotidiens ou le sport. De plus, les écouteurs optimisent intelligemment la plage de volume, rendant le contenu audio plus distinct, même dans des environnements extérieurs bruyants. 3. Optimisation ergonomique pour un ajustement confortable et sécurisé Conçus pour un port prolongé, les écouteurs sont équipés de crochets d'oreille ergonomiques et d'une structure intégrée. Ils restent bien en place sans glisser, éliminant le besoin d'ajustements fréquents. La surface de contact élargie entre les crochets d'oreille et la tête répartit uniformément la pression. Combiné à la conception profilée du bandeau, cela réduit la pression lors d'un port prolongé — garantissant un confort aussi durable que votre liste de lecture, répondant aux besoins d'utilisation toute la journée. 4. Microphones coupe-vent pour des appels clairs Les microphones sont positionnés dans des zones à faible bruit de vent afin de minimiser les interférences dues au vent lors des appels en extérieur. Une structure interne spéciale bloque de manière significative le flux d'air avant qu'il n'atteigne les microphones intégrés. Même par temps venteux, les écouteurs garantissent une qualité d'appel claire et transparente, améliorant ainsi l'efficacité de la communication en extérieur. 5. Longue autonomie et recharge rapide pratique - Une fois complètement chargés, les écouteurs offrent jusqu'à 12 heures de lecture musicale continue, répondant ainsi aux besoins des trajets quotidiens, du sport, des voyages d'affaires et d'autres situations. -Ils prennent en charge la charge rapide via un port USB-C : seulement 5 minutes de charge offrent 2,5 heures d'écoute, ce qui rend les recharges d'urgence plus efficaces. -Compatible avec les câbles USB-C universels, ils peuvent être chargés à l'aide du câble inclus ou de votre propre câble USB-C existant, aucun adaptateur supplémentaire n'est requis.",
-    "price": 108.33,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-a-conduction-osseuse-shokz-open-run-pro-2-orange-3432337",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DaPVn/3432337_1/re/1200x1200/qt/90/3432337_1.jpg",
-    "detected_at": "2026-10-14T11:54:17+00:00",
+    "url": "https://www.dealabs.com/bons-plans/clients-boursobank-2-mois-de-cotisation-offerts-pour-toute-nouvelle-adhesion-a-lassurance-habitation-alabri-3432341",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/2U6Hp/3432341_1/re/1200x1200/qt/90/3432341_1.jpg",
+    "detected_at": "2026-10-14T12:00:58+00:00",
     "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://fr.aliexpress.com/item/1005011567357886.html",
-    "price_history": [
-      {
-        "price": 108.33,
-        "observed_at": "2026-10-14T11:58:49.558090+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Eau de Parfum Tom Ford Noir Extreme",
-    "description": "120,69€ - JoyBuy Prix excellent pour du Tom Ford pour le format 100 mL en version \"Parfum\" (la plus intense de la gamme), disponible à ce prix chez Joybuy. Attention à ne pas confondre : on est bien ici sur la concentration Parfum (le flacon entièrement métallisé doré), qui est plus riche, plus cuirée et normalement bien plus chère que l'Eau de Parfum classique (flacon noir translucide). Notes olfactives majeures : • Tête : Cardamome, Gingembre de Shimoga, Mandarine, Néroli • Cœur : Accord Kulfi (le fameux dessert indien lacté et safrané), Rose de Bulgarie, Fleur d'oranger • Fond : Cuir, Daim, Vanille, Ambre, Fève tonka, Bois de gaïac À titre de comparaison, le prix de référence en parfumerie classique est de 257€ chez Sephora, la remise est donc massive.",
-    "price": 120.69,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tom-ford-noir-extreme-eau-de-parfum-3432335",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/C0xwI/3432335_1/re/1200x1200/qt/90/3432335_1.jpg",
-    "detected_at": "2026-10-14T11:53:42+00:00",
-    "category": "Beauté & santé",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 120.69,
-        "observed_at": "2026-10-14T11:58:49.558090+00:00"
+        "price": 5.97,
+        "observed_at": "2026-10-14T12:04:53.550049+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baignoire Stokke Flexibath X-Large XL blanc",
+    "description": "43,95€ - Amazon Prix intéressant pour une baignoire pliable de bonne marque affichée normalement au prix de 59€. À propos de cet article BAIGNOIRE BÉBÉ PLIABLE XL - La baignoire pliable Stokke Flexi Bath X-Large convient aux bébés et aux enfants jusqu’à 6 ans. Dans votre salle de bain ou en voyage, dépliez la baignoire à l’heure du bain sans faire attendre bébé et en toute simplicité. LÉGÈRE ET PORTATIVE - Grâce à sa conception innovante, la baignoire Flexi Bath est simple et pratique à utiliser à la maison ou en voyage. Partagez un moment de complicité avec bébé à l’heure du bain. Fabriqué avec des matériaux durables de qualité. SPACIEUX ET CONVIVIAL - Ce modèle est 25% plus grand que le modèle original Stokke Flexi Bath, vous profitez des mêmes caractéristiques mais avec plus d'espace. Cette baignoire est parfaite si vos enfants aiment s'amuser ensemble dans le bain. CARACTÉRISTIQUES PRATIQUES - La baignoire Flexi Bath XL est conçue dans un souci de sécurité. Elle possède une base antidérapante et un bouchon de vidange sensible à la chaleur, changeant de couleur selon la température de l'eau. POLYVALENTE - Utilisable en intérieur ou en extérieur, la baignoire pliable est parfaitement adaptée au nourrisson, tout-petit & petit. Solide, robuste, intérieur large et spacieux, ce modèle s’adapte à la plupart des baignoires & douches.",
+    "price": 43.95,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baignoire-stokke-flexibath-x-large-xl-blanc-3432340",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/RGhqt/3432340_1/re/1200x1200/qt/90/3432340_1.jpg",
+    "detected_at": "2026-10-14T12:00:30+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B07PV1PQCP?smid=A2QRW7EBLK47MG",
+    "price_history": [
+      {
+        "price": 43.95,
+        "observed_at": "2026-10-14T12:04:53.550049+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Réduction chez Olight | Exemple : Olight Odin",
+    "description": "113,97€ - OLight Store Réduction avec l'évènement des ventes flashs d'halloween du 14/10 au 17/10 2026 De nombreux produits en réduction https://fr.olight.com/store/olight-odin : ~114€ au lieu de ~190€ https://fr.olight.com/store/warrior-ultra : ~102€ au lieu de ~170€ Cadeau pour les commandes de plus de 99€ via l'application et réduction de 15€ supplémentaires pour les commandes de plus de 99€",
+    "price": 113.97,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/reduction-chez-olight-exemple-olight-odin-3432339",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vi8V1/3432339_1/re/1200x1200/qt/90/3432339_1.jpg",
+    "detected_at": "2026-10-14T11:58:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 113.97,
+        "observed_at": "2026-10-14T12:04:53.550049+00:00"
       }
     ]
   },
@@ -16785,7 +16848,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FVXZQF44",
     "price_history": [
       {
         "price": 3.44,
@@ -16807,7 +16870,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
+    "merchant_url": "https://www.carrefour.fr/offres-du-moment/bons-achat/alcools#bieres-cidres-hyper",
     "price_history": []
   },
   {
@@ -16846,7 +16909,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
+    "merchant_url": "https://offer.alibaba.com/cps/76q831o7?bm=cps&src=saf&productId=1601800972278",
     "price_history": [
       {
         "price": 31.58,
@@ -16975,10 +17038,10 @@
     "image_url": "https://static-pepper.dealabs.com/threads/raw/oD5Ec/3431787_1/re/1200x1200/qt/90/3431787_1.jpg",
     "detected_at": "2026-10-13T14:35:45+00:00",
     "category": "Beauté & santé",
-    "price_verified": false,
+    "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T12:04:10.334142+00:00",
+    "merchant_url": "https://www.e.leclerc/fp/huile-essentielle-citronnelle-de-java-bio-10ml-3401599423305",
     "price_history": [
       {
         "price": 1.8,
@@ -17000,7 +17063,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0HLFWNVSY?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 59.99,
@@ -17044,7 +17107,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/SONGMICS-Frigo-Réfrigérateur-Portable-Chaud/dp/B0H9S18K3Y/ref=sr_1_2?__mk_fr_FR=ÅMÅŽÕÑ&crid=2M4BJX5A6177T&dib=eyJ2IjoiMSJ9.KVl9RE9Qkgzfe5bW98c8Pw.CHLT1v3BRaZdnzSFoWRmI9jCgKmS8jklbC7F2vjo14g&dib_tag=se&keywords=ERF001W101&qid=1791427702&sprefix=erf001w101,aps,435&sr=8-2&th=1",
     "price_history": [
       {
         "price": 39.99,
@@ -20625,5 +20688,22 @@
         "observed_at": "2026-10-14T11:59:57.473107+00:00"
       }
     ]
+  },
+  {
+    "title": "[Du 17/10 au 31/10] Entrée gratuite pour les enfants de moins de 12 ans déguisés - Parc Zoo du Reynou (87)",
+    "description": "Offre Halloween au Zoo du Reynou ! L'entrée est offerte pour les enfants de moins de 12 ans qui viennent déguisés, du 17 au 31 octobre 2026 (devil) Sur place, ils organisent aussi une chasse aux bonbons gratuite pour les 3-12 ans (tous les jours de 10 h à 17 h 30) Plein tarif pour les adultes accompagnateurs ! ;(",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/du-1710-au-3110-entree-gratuite-pour-les-enfants-de-moins-de-12-ans-deguises-parc-zoo-du-reynou-87-3431580",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/seuWz/3431580_1/re/1200x1200/qt/90/3431580_1.jpg",
+    "detected_at": "2026-10-13T09:46:05+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
   }
 ]
