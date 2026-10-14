@@ -22,3 +22,8 @@ Catalogue statique des offres détectées par le dépôt privé `bapsch38/dealra
 ## Développement
 
 Le fichier `features.js` contient les fonctionnalités côté navigateur. Le workflow `.github/workflows/check-site.yml` vérifie sa syntaxe et la présence des composants principaux. Les retours communautaires utilisent le modèle `.github/ISSUE_TEMPLATE/deal-feedback.md`.
+
+
+## Compatibilité AliExpress
+
+Le catalogue accepte les offres AliExpress via le même schéma `offers.json` que les autres sources : `title`, `url`, `price`, `reference_price`, `discount_percent`, `source` et `image_url`. L'interface affiche le nom de source reçu dynamiquement et ne nécessite pas de code spécifique par marchand. Le moteur doit laisser les prix absents lorsqu'ils ne sont pas fournis par une source fiable; aucune valeur ne doit être reconstituée ou inventée côté site.
