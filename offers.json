@@ -1901,7 +1901,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1922,7 +1922,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1943,7 +1943,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1964,7 +1964,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6737,6 +6737,67 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[UGC Illimité] 1 mois + frais d'adhésion offerts - Exemple : UGC Iliimité 7 jours / 7",
+    "description": "Cinémas UGC Retour de l'offre chez UGC ! Bénéficiez d'un mois à 0€ et des frais d'adhésion offerts (au lieu de 30€). L'offre est valable sur tous les abonnements, jusqu'au 3 novembre. Voir tous les abonnements ici. L'abonnement permet : d'avoir les places de cinéma gratuites et en illimité Inviter une personne pour 8€ -20% de réduction sur les confiseries des places offertes pour son anniversaire (pour inviter) des invitations à des avant-premières Il est possible de prendre l'abonnement en ligne (avec le choix d'une carte physique ou dématérialisée, utilisable dès la souscription), ou de le récupérer directement au cinéma.",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ugc-illimite-1-mois-frais-dadhesion-offerts-exemple-ugc-iliimite-7-jours-7-3432113",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zsk6J/3432113_1/re/1200x1200/qt/90/3432113_1.jpg",
+    "detected_at": "2026-10-14T07:00:18+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
+  },
+  {
+    "title": "Montre connectée Xiaomi Redmi Watch 5 - Ecran AMOLED 53mm, jusqu'à 24 Jours d'autonomie, noire",
+    "description": "69€ - Orange Super offre jusqu'au 28/10 ! Découvrez l'élégance à votre poignet Plongez dans l'univers de la Xiaomi Redmi Watch 5, une montre connectée qui allie sophistication et performance. Avec son écran AMOLED de 2,07 pouces et ses bords ultra-fins de 2 mm, profitez d'une clarté visuelle exceptionnelle, même en plein soleil grâce à une luminosité de 1500 nits. Son design moderne et sa couronne rotative en acier inoxydable taillée au diamant ajoutent une touche de luxe à votre quotidien. La Redmi Watch 5 ne se contente pas d'être belle, elle est aussi incroyablement fonctionnelle. Avec une autonomie impressionnante de 24 jours, elle vous accompagne sans faillir dans toutes vos activités. Que vous soyez en pleine séance de sport ou en réunion, ses plus de 150 modes sportifs et son suivi de santé 24 heures sur 24 vous assurent un suivi précis de votre bien-être. De plus, son GNSS intégré et sa résistance à l'eau de 5 ATM en font le partenaire idéal pour vos aventures en plein air. Restez connecté en toute simplicité grâce aux appels Bluetooth et à la musique embarquée. Le système d'attache rapide vous permet de changer de style en un clin d'œil, tandis que les plus de 200 cadrans personnalisables vous offrent une infinité de possibilités pour exprimer votre personnalité. La Xiaomi Redmi Watch 5 est bien plus qu'une montre, c'est une extension de vous-même, prête à relever tous les défis de votre quotidien avec élégance et efficacité.",
+    "price": 69.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-connectee-xiaomi-redmi-watch-5-ecran-amoled-53mm-jusqua-24-jours-dautonomie-noire-3432112",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/gb4nj/3432112_1/re/1200x1200/qt/90/3432112_1.jpg",
+    "detected_at": "2026-10-14T06:59:33+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 69.0,
+        "observed_at": "2026-10-14T07:03:56.900877+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Majorette - Ferme Class 5 Pièces Giftpack - sous Licence - Véhicules à Roues Libres - Reproduction Originale à l'Echelle 1/64ème",
+    "description": "8,68€ - Amazon Très bon prix ! Retrouvez les automobiles les plus célèbres au format mini et en métal grâce à Majorette ! Véritables passionnés ou simples amateurs vous trouverez votre bonheur parmi les nombreuses gammes que présente la marque ! Ce grand coffret se compose de 5 modèles de véhicules agricoles à roues libres sous licence CLASS : tracteurs, chargeuse, camion de dépannage et remorque. Vous serez vite séduit par ces véhicules à l'échelle 1/64ème qui disposent de parties ouvrantes, et de suspensions ! N'hésitez plus à commencer une nouvelle collection ou à amuser vos enfants avec ces petites voitures ! A partir de 3 ans.",
+    "price": 8.68,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/majorette-ferme-class-5-pieces-giftpack-sous-licence-vehicules-a-roues-libres-reproduction-originale-a-lechelle-164eme-3432111",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/l9jO1/3432111_1/re/1200x1200/qt/90/3432111_1.jpg",
+    "detected_at": "2026-10-14T06:59:33+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.68,
+        "observed_at": "2026-10-14T07:03:56.900877+00:00"
       }
     ]
   },
@@ -11986,28 +12047,6 @@
     "price_history": [
       {
         "price": 49.0,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ecran PC 27\" Xiaomi Gaming Monitor G27i - Full HD, Fast IPS, 165Hz",
-    "description": "116,99€ - AliExpress Officiel] Xiaomi Gaming Monitor G27i | Technologie \"Fast IPS\" - Rafraîchissement 165Hz - GTG de 1 ms，FreeSync™ Premium",
-    "price": 116.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/officiel-xiaomi-gaming-monitor-g27i-technologie-fast-ips-rafraichissement-165hz-3431812",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2Vjc1/3431812_1/re/1200x1200/qt/90/3431812_1.jpg",
-    "detected_at": "2026-10-13T15:16:41+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 116.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
