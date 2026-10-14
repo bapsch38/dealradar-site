@@ -295,6 +295,22 @@ body{background:radial-gradient(ellipse at 8% 0%,#12344a 0%,transparent 36%),rad
 @media(min-width:1100px){.deals-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.deal-image-wrap,.deal-image{min-height:165px;height:165px}.deal-body{padding:14px}.deal-title{font-size:14px}}
 @media(max-width:650px){.home-guide{margin-top:20px}.home-shortcuts{margin-top:28px}.deal-image-wrap,.deal-image{min-height:155px;height:155px}.deal-body{padding:13px}.deal-price{font-size:21px}}
 
+
+/* Prix promo : hiérarchie visuelle explicite, ancien prix barré et économies visibles */
+.deal-prices{align-items:flex-end;column-gap:10px;row-gap:7px}
+.deal-current-wrap,.deal-old-wrap{display:inline-flex;flex-direction:column;align-items:flex-start;gap:2px}
+.deal-price-label{font-size:10px;line-height:1.2;color:var(--muted);font-weight:700;letter-spacing:.2px}
+.deal-price{line-height:1.15}
+.deal-old-price{text-decoration:line-through!important;text-decoration-thickness:1.5px!important;color:#c3cedb!important;opacity:1!important}
+.deal-discount{font-size:12px;padding:6px 9px;white-space:nowrap}
+.deal-savings{font-size:11px;font-weight:750;color:#9debc4;white-space:nowrap}
+.offer-detail-current{display:inline-flex;flex-direction:column;gap:2px}
+.offer-detail-current small,.offer-detail-old-wrap small{font-size:11px;color:var(--muted);font-weight:700}
+.offer-detail-old-wrap{display:inline-flex;flex-direction:column;gap:2px}
+.offer-detail-reference{text-decoration:line-through!important;text-decoration-thickness:1.5px!important;color:#c3cedb!important;opacity:1!important}
+.offer-detail-savings{display:inline-block;margin-top:3px;color:#9debc4;font-size:13px;font-weight:800}
+@media(max-width:560px){.deal-prices{column-gap:9px}.deal-price{font-size:22px}.deal-old-price{font-size:12px}.deal-discount{font-size:11px;padding:5px 7px}.deal-savings{flex-basis:100%}}
+
 </style>
 </head>
 <body class="home-page">
@@ -913,6 +929,15 @@ function renderOffers() {
     const discount = currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
       ? (1 - currentPrice / referencePrice) * 100
       : null;
+    const announcedDiscountValue = Number(offer.discount_percent);
+    const announcedDiscount = Number.isFinite(announcedDiscountValue) && announcedDiscountValue > 0 && announcedDiscountValue < 100
+      ? announcedDiscountValue : null;
+    const displayDiscount = discount !== null ? discount : announcedDiscount;
+    const discountText = displayDiscount === null ? "" : (discount !== null
+      ? "-" + Math.round(displayDiscount) + " %"
+      : "-" + Math.round(displayDiscount) + " % annoncé");
+    const savings = referencePrice !== null && currentPrice !== null && referencePrice > currentPrice
+      ? referencePrice - currentPrice : null;
     const isDealabs = /dealabs/.test(String(offer.source || "").toLowerCase()) || /dealabs/i.test(String(offer.url || ""));
     const date = safeDate(offer.detected_at || offer.published_at);
     const url = typeof offer.url === "string" && /^https:\/\//i.test(offer.url) ? offer.url : "";
@@ -926,11 +951,14 @@ function renderOffers() {
         ? "Offre sans prix unique"
         : "Prix non communiqué par la source";
     const prices = '<div class="deal-prices">' +
-      (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span>') +
+      (price
+        ? '<span class="deal-current-wrap"><span class="deal-price-label">Prix promo</span><span class="deal-price">' + price + '</span></span>'
+        : '<span class="deal-current-wrap"><span class="deal-price-label">Prix</span><span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span></span>') +
       (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice
-        ? '<span class="deal-old-price">' + oldPrice + '</span>'
+        ? '<span class="deal-old-wrap"><span class="deal-price-label">Au lieu de</span><span class="deal-old-price" aria-label="Ancien prix barré">' + oldPrice + '</span></span>'
         : '') +
-      (discount !== null && discount > 0 ? '<span class="deal-discount">-' + Math.round(discount) + ' %</span>' : '') + '</div>';
+      (displayDiscount !== null && displayDiscount > 0 ? '<span class="deal-discount" title="' + (discount !== null ? 'Réduction calculée à partir des deux prix' : 'Pourcentage annoncé par la source, prix de référence manquant') + '">' + discountText + '</span>' : '') +
+      (savings !== null ? '<span class="deal-savings">Économie ' + formatPrice(savings) + '</span>' : '') + '</div>';
     const title = String(offer.title || "Offre sans titre").replace(/[<>]/g,"");
     const category = inferCategory(offer).replace(/[<>]/g,"");
     const rawSource = String(offer.source || "Source non précisée");
@@ -968,6 +996,10 @@ function openOfferDetails(url) {
   const price = parsePriceValue(offer.price ?? offer.current_price);
   const reference = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
   const discount = price !== null && reference !== null && reference > price ? (1-price/reference)*100 : null;
+  const announcedDiscountValue = Number(offer.discount_percent);
+  const announcedDiscount = Number.isFinite(announcedDiscountValue) && announcedDiscountValue > 0 && announcedDiscountValue < 100
+    ? announcedDiscountValue : null;
+  const displayDiscount = discount !== null ? discount : announcedDiscount;
   const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée",reasons:[],warnings:[]};
   const source = /dealabs/i.test(String(offer.source || "") + " " + url) ? "Dealabs" : String(offer.source || "Source inconnue");
   const category = inferCategory(offer);
@@ -976,13 +1008,14 @@ function openOfferDetails(url) {
   const description = String(offer.description || "").replace(/<[^>]*>/g," ").replace(/\\s+/g," ").trim();
   const reasons = (trustInfo.reasons || []).slice(0,6).map(x=>"<span>✓ "+escapeHtml(x)+"</span>").join("");
   const warnings = (trustInfo.warnings || []).slice(0,6).map(x=>"<span>! "+escapeHtml(x)+"</span>").join("");
-  const priceMarkup = price !== null ? '<span class="offer-detail-current">'+formatPrice(price)+'</span>' : '<span class="offer-detail-current">Prix non communiqué</span>';
-  const oldMarkup = reference !== null && price !== null && reference > price ? '<span class="offer-detail-reference">'+formatPrice(reference)+'</span>' : "";
-  const discountMarkup = discount !== null ? '<span class="offer-detail-discount">-'+discount.toFixed(1).replace(".",",")+' %</span>' : "";
+  const priceMarkup = price !== null ? '<span class="offer-detail-current"><small>Prix promo</small>'+formatPrice(price)+'</span>' : '<span class="offer-detail-current">Prix non communiqué</span>';
+  const oldMarkup = reference !== null && price !== null && reference > price ? '<span class="offer-detail-old-wrap"><small>Au lieu de</small><span class="offer-detail-reference">'+formatPrice(reference)+'</span></span>' : "";
+  const discountMarkup = displayDiscount !== null ? '<span class="offer-detail-discount" title="'+(discount !== null ? 'Calculé à partir des deux prix' : 'Pourcentage annoncé par la source')+'">-'+Math.round(displayDiscount)+' %'+(discount !== null ? '' : ' annoncé')+'</span>' : "";
+  const savingsMarkup = reference !== null && price !== null && reference > price ? '<span class="offer-detail-savings">Vous économisez '+formatPrice(reference-price)+'</span>' : "";
   const merchantUrl = typeof offer.merchant_url === "string" && /^https:\/\//i.test(offer.merchant_url) ? offer.merchant_url : url;
   root.innerHTML =
     '<div class="offer-detail-top">'+(image?'<img class="offer-detail-image" src="'+escapeAttribute(image)+'" alt="'+escapeAttribute(offer.title||"")+'" loading="lazy" referrerpolicy="no-referrer">':'<div class="offer-detail-image"></div>')+
-    '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=72?"high":trustInfo.score>=40?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div><div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
+    '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=72?"high":trustInfo.score>=40?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div>'+(savingsMarkup?'<div>'+savingsMarkup+'</div>':'')+'<div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
     '<div class="offer-detail-facts"><div class="offer-detail-fact"><span>Source de la publication</span><strong>'+escapeHtml(source)+'</strong></div><div class="offer-detail-fact"><span>Catégorie</span><strong>'+escapeHtml(category)+'</strong></div><div class="offer-detail-fact"><span>'+(offer.reference_price_verified===true?"Prix de référence vérifié":"Prix de référence annoncé")+'</span><strong>'+(reference!==null&&price!==null&&reference>price?formatPrice(reference):"Non communiqué par la source")+'</strong></div><div class="offer-detail-fact"><span>Dernier repère temporel</span><strong>'+(date?date.toLocaleString("fr-FR"):"Date inconnue")+'</strong></div></div>'+
     (description?'<section class="offer-detail-section"><h3>Description et conditions</h3><div class="offer-detail-description">'+escapeHtml(description)+'</div></section>':"")+
     '<section class="offer-detail-section"><h3>Pourquoi cet indice de confiance ?</h3><div class="offer-detail-reasons">'+(reasons||"<span>Peu d’éléments documentés</span>")+'</div>'+(warnings?'<div class="offer-detail-reasons offer-detail-warnings" style="margin-top:8px">'+warnings+'</div>':"")+'<p class="deal-meta">Le score évalue la fiabilité des informations disponibles, pas la qualité du produit.</p></section>'+
