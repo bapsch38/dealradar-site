@@ -1,5 +1,68 @@
 [
   {
+    "title": "Metabo 600973000 HWW 4500/25 S...mestique INOX Plus Multicolore",
+    "price": 274.06,
+    "reference_price": 329.45,
+    "discount_percent": 16.81,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00MX1TZOQ",
+    "image_url": "https://m.media-amazon.com/images/P/B00MX1TZOQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:10:32",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 274.06,
+        "observed_at": "2026-10-14T12:11:18.818002+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 503.4208-E Clé Mixte ...s, 8 mm, 72 Dents, sur Support",
+    "price": 8.75,
+    "reference_price": 14.21,
+    "discount_percent": 38.42,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NYQUWO",
+    "image_url": "https://m.media-amazon.com/images/P/B001NYQUWO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:10:22",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.75,
+        "observed_at": "2026-10-14T12:11:18.818002+00:00"
+      }
+    ]
+  },
+  {
+    "title": "like. by Villeroy and Boch - M...lle et au Micro-ondes, 1 Unité",
+    "price": 16.0,
+    "reference_price": 21.9,
+    "discount_percent": 26.94,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07L6GYPFL",
+    "image_url": "https://m.media-amazon.com/images/P/B07L6GYPFL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 12:10:18",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.0,
+        "observed_at": "2026-10-14T12:11:18.818002+00:00"
+      }
+    ]
+  },
+  {
     "title": "BLANCO 524813 VIU-S Robinet de...Cuisine, Chrome/Gris Lave, 335",
     "price": 263.22,
     "reference_price": 293.74,
@@ -8024,15 +8087,32 @@
     ]
   },
   {
-    "title": "[Clients BoursoBank] 2 mois de cotisation offerts pour toute nouvelle adhésion à l'assurance habitation Alabri",
-    "description": "BoursoBank Alabri, c'est l'assurance habitation de BoursoBank, dès 5,97€/mois. En ce moment, pour les clients BoursoBank, pour toute nouvelle adhésion, bénéficiez de 2 mois de cotisations offerts",
-    "price": 5.97,
+    "title": "[Le 31/10] Entrée gratuite pour les enfants de 3 à 12 ans déguisés - Parc de Courzieu (69)",
+    "description": "Pour la journée spéciale Halloween du samedi 31 octobre 2026, le Parc de Courzieu (à environ 30 km à l'ouest de Lyon) offre l'entrée aux enfants de 3 à 12 ans venant déguisés ! (devil) Attention aux critères d'accès : déguisement complet exigé (« de la tête aux pieds », vrai costume requis) offre réservée exclusivement aux familles (non valable pour les groupes) plein tarif pour les accompagnateurs adultes",
+    "price": null,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/clients-boursobank-2-mois-de-cotisation-offerts-pour-toute-nouvelle-adhesion-a-lassurance-habitation-alabri-3432341",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2U6Hp/3432341_1/re/1200x1200/qt/90/3432341_1.jpg",
-    "detected_at": "2026-10-14T12:00:58+00:00",
+    "url": "https://www.dealabs.com/bons-plans/le-3110-entree-gratuite-pour-les-enfants-de-3-a-12-ans-deguises-parc-de-courzieu-69-3432343",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/RyWXp/3432343_1/re/1200x1200/qt/90/3432343_1.jpg",
+    "detected_at": "2026-10-14T12:05:53+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
+  },
+  {
+    "title": "Montre Orient Classic Bambino automatique RA-AC0038S (Frais d'importation inclus)",
+    "description": "219€ - Creation Watches Information Marque Orient Série Bambino Modèle RA-AC0038 Mouvement Automatique Moteur Calibre: F6724 Réserve de marche Jusqu'à 40 heures Taille du boîtier 40,50 millimètres Epaisseur du boîtier 12,30 millimètres Matériau du boîtier En acier inoxydable Couleur du cadran Blanc Crystal Bombé Cristal minéral Marqueurs de cadran chiffres arabes",
+    "price": 219.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montre-homme-orient-classic-bambino-automatique-ra-ac0038s-frais-de-livraison-et-dimportation-inclus-3432345",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/qoj0A/3432345_1/re/1200x1200/qt/90/3432345_1.jpg",
+    "detected_at": "2026-10-14T12:04:31+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -8040,52 +8120,30 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 5.97,
-        "observed_at": "2026-10-14T12:04:53.550049+00:00"
+        "price": 219.0,
+        "observed_at": "2026-10-14T12:11:18.818002+00:00"
       }
     ]
   },
   {
-    "title": "Baignoire Stokke Flexibath X-Large XL blanc",
-    "description": "43,95€ - Amazon Prix intéressant pour une baignoire pliable de bonne marque affichée normalement au prix de 59€. À propos de cet article BAIGNOIRE BÉBÉ PLIABLE XL - La baignoire pliable Stokke Flexi Bath X-Large convient aux bébés et aux enfants jusqu’à 6 ans. Dans votre salle de bain ou en voyage, dépliez la baignoire à l’heure du bain sans faire attendre bébé et en toute simplicité. LÉGÈRE ET PORTATIVE - Grâce à sa conception innovante, la baignoire Flexi Bath est simple et pratique à utiliser à la maison ou en voyage. Partagez un moment de complicité avec bébé à l’heure du bain. Fabriqué avec des matériaux durables de qualité. SPACIEUX ET CONVIVIAL - Ce modèle est 25% plus grand que le modèle original Stokke Flexi Bath, vous profitez des mêmes caractéristiques mais avec plus d'espace. Cette baignoire est parfaite si vos enfants aiment s'amuser ensemble dans le bain. CARACTÉRISTIQUES PRATIQUES - La baignoire Flexi Bath XL est conçue dans un souci de sécurité. Elle possède une base antidérapante et un bouchon de vidange sensible à la chaleur, changeant de couleur selon la température de l'eau. POLYVALENTE - Utilisable en intérieur ou en extérieur, la baignoire pliable est parfaitement adaptée au nourrisson, tout-petit & petit. Solide, robuste, intérieur large et spacieux, ce modèle s’adapte à la plupart des baignoires & douches.",
-    "price": 43.95,
+    "title": "Mise à Niveau The Elder Scrolls V: Skyrim Anniversary Upgrade",
+    "description": "9,99€ - PlayStation Store Belle réduction",
+    "price": 9.99,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baignoire-stokke-flexibath-x-large-xl-blanc-3432340",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RGhqt/3432340_1/re/1200x1200/qt/90/3432340_1.jpg",
-    "detected_at": "2026-10-14T12:00:30+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
+    "url": "https://www.dealabs.com/bons-plans/the-elder-scrolls-v-skyrim-anniversary-upgrade-a-999-eur-3432344",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KfS6V/3432344_1/re/1200x1200/qt/90/3432344_1.jpg",
+    "detected_at": "2026-10-14T12:04:23+00:00",
+    "category": "Gaming",
+    "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B07PV1PQCP?smid=A2QRW7EBLK47MG",
+    "price_checked_at": "2026-10-14T12:10:29.599894+00:00",
+    "merchant_url": "https://store.playstation.com/fr-fr/product/EP1003-CUSA05486_00-SNOW010000000000",
     "price_history": [
       {
-        "price": 43.95,
-        "observed_at": "2026-10-14T12:04:53.550049+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Réduction chez Olight | Exemple : Olight Odin",
-    "description": "113,97€ - OLight Store Réduction avec l'évènement des ventes flashs d'halloween du 14/10 au 17/10 2026 De nombreux produits en réduction https://fr.olight.com/store/olight-odin : ~114€ au lieu de ~190€ https://fr.olight.com/store/warrior-ultra : ~102€ au lieu de ~170€ Cadeau pour les commandes de plus de 99€ via l'application et réduction de 15€ supplémentaires pour les commandes de plus de 99€",
-    "price": 113.97,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/reduction-chez-olight-exemple-olight-odin-3432339",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vi8V1/3432339_1/re/1200x1200/qt/90/3432339_1.jpg",
-    "detected_at": "2026-10-14T11:58:45+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 113.97,
-        "observed_at": "2026-10-14T12:04:53.550049+00:00"
+        "price": 9.99,
+        "observed_at": "2026-10-14T12:11:18.818002+00:00"
       }
     ]
   },
@@ -20705,5 +20763,31 @@
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": []
+  },
+  {
+    "title": "Sac à dos Deuter Trans Alpine Pro 28 - Graphite",
+    "description": "119,36€ - Amazon.es Le système de portage Airstripes à poids réduit, avec soutien lombaire et tissu d'espacement perméable à l'air (Air-Spacer-Mesh), assure une ventilation fiable même lors d'étapes éprouvantes et se maintient de manière compacte contre le corps. Des éléments réfléchissants, des consignes de sécurité à l'intérieur du sac à dos et un sifflet de signalisation contribuent à renforcer la sécurité lors des randonnées à vélo. Dimensions : 55 cm x 29 cm x 21 cm | Poids : 1350 grammes Description Même lors de randonnées à vélo ambitieuses et de traversées alpines, le sac à dos VTT au poids optimisé est extrêmement stable sur le dos. Le système dorsal Airstripes soulage les épaules et offre une ventilation optimale grâce à sa petite surface de contact. L'énorme espace de rangement du sac à dos de vélo est parfaitement organisé : De nombreux compartiments, de grandes poches sur les hanches et des séparateurs permettent d'organiser les outils, les vêtements et tout ce dont vous avez besoin pour des randonnées de plusieurs jours longues et exigeantes.",
+    "price": 119.36,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/deuter-trans-alpine-pro-28-sac-a-dos-de-velo-3431578",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9HwSE/3431578_1/re/1200x1200/qt/90/3431578_1.jpg",
+    "detected_at": "2026-10-13T09:45:54+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 119.36,
+        "observed_at": "2026-10-13T09:59:23.638697+00:00"
+      },
+      {
+        "price": 119.36,
+        "observed_at": "2026-10-14T12:11:18.818002+00:00"
+      }
+    ]
   }
 ]
