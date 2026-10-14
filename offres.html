@@ -601,7 +601,7 @@ function inferCategory(offer) {
   // Corrections ciblées avant la catégorie enregistrée : elles règlent les erreurs connues
   // et évitent qu'un mot isolé comme "the" dans "Thermaltake" fasse basculer en alimentation.
   const overrides = [
-    ["Jardin & extérieur", /\b(tondeuse a gazon|coupe[- ]bordures?|debroussailleuse|taille[- ]haie|motobineuse|scarificateur|arrosage automatique|tuyau d'arrosage|robot tondeuse|piscine|spa gonflable|barbecue|parasol|salon de jardin|mobilier de jardin|serre de jardin|composteur|abri de jardin)\b/],
+    ["Jardin & extérieur", /\b(arrosage automatique|tuyau d'arrosage|piscine|spa gonflable|barbecue|parasol|salon de jardin|mobilier de jardin|serre de jardin|composteur|abri de jardin|gazon synthetique|terreau|graines de fleurs|pot de fleur|balancelle|mobilier exterieur)\b/],
     ["Jouets & jeux", /\b(lego|playmobil|jouets?|jeu de construction|book nook|puzzle|puzzles|jeu de societe|jeux de societe|jeu de cartes|cartes a jouer|figurines? de collection|peluches?|poupee|poupees|circuit de voitures|maquette)\b/],
     ["Culture & sorties", /\b(livre|livres|roman|romans|manga|bandes dessinees|blu[- ]?ray|dvd|coffret blu[- ]?ray|abonnement cinema|places? de cinema|cinema|theatre|concert|musee|streaming)\b/],
     ["High-tech", /\b(switch usb|commutateur usb|usb switch|kvm switch|multiprise usb)\b/],
