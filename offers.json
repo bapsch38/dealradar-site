@@ -1376,7 +1376,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1397,7 +1397,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1670,7 +1670,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1691,7 +1691,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1712,7 +1712,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1733,7 +1733,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2531,7 +2531,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2552,7 +2552,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6647,7 +6647,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6668,7 +6668,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -6737,6 +6737,28 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Shadow of the Tomb Raider Definitive Edition Xbox séries/pc dématérialisé",
+    "description": "3,99€ - Xbox Store Shadow of the Tomb Raider Definitive Edition dir Xbox séries et pc Description Prenez part au moment décisif où Lara Croft devient pilleuse de tombeaux. Dans Shadow of the Tomb Raider Definitive Edition, vous découvrirez les derniers secrets des origines de Lara. Cette édition contient le jeu de base, les 7 défis tombeaux des DLC, ainsi que toutes les armes, tenues et compétences téléchargeables. Découvrez le passé de la plus célèbre des pilleuses de tombeaux dans cette édition ultime.",
+    "price": 3.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/shadow-of-the-tomb-raider-definitive-edition-xbox-seriespc-dematerialise-3432120",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jwNNC/3432120_1/re/1200x1200/qt/90/3432120_1.jpg",
+    "detected_at": "2026-10-14T07:07:57+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.99,
+        "observed_at": "2026-10-14T07:11:43.175390+00:00"
       }
     ]
   },
