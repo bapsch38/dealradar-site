@@ -1,5 +1,26 @@
 [
   {
+    "title": "XAVAX | Tuyau de mousse de lai... chaleur) couleur transparente",
+    "price": 9.9,
+    "reference_price": 11.91,
+    "discount_percent": 16.88,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CNH2XQ58",
+    "image_url": "https://m.media-amazon.com/images/P/B0CNH2XQ58.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 13:17:45",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.9,
+        "observed_at": "2026-10-14T13:18:25.291274+00:00"
+      }
+    ]
+  },
+  {
     "title": "Hama Horloge Murale Educative ...0 cm, silencieuse) Multicolore",
     "price": 28.14,
     "reference_price": 30.99,
@@ -10336,7 +10357,7 @@
     "title": "Lindy Rallonge secteur IEC, 3m",
     "price": 12.14,
     "reference_price": 14.51,
-    "discount_percent": 16.33,
+    "discount_percent": 16.3,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B01CHDBSOY",
     "image_url": "https://m.media-amazon.com/images/P/B01CHDBSOY.01._AC_SL1500_.jpg",
@@ -10365,7 +10386,7 @@
     "title": "Rexel 06131 Pack de 1000 Agrafes No 56",
     "price": 2.91,
     "reference_price": 3.98,
-    "discount_percent": 26.88,
+    "discount_percent": 26.9,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B000J66OB4",
     "image_url": "https://m.media-amazon.com/images/P/B000J66OB4.01._AC_SL1500_.jpg",
@@ -10394,7 +10415,7 @@
     "title": "FEIN Meuleuse d’angle sans fil...IN, sans Batteries ni Chargeur",
     "price": 427.81,
     "reference_price": 459.79,
-    "discount_percent": 6.96,
+    "discount_percent": 7.0,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0DG9331GY",
     "image_url": "https://m.media-amazon.com/images/P/B0DG9331GY.01._AC_SL1500_.jpg",
@@ -10652,68 +10673,63 @@
     ]
   },
   {
-    "title": "Armani Emporio Armani You Stronger With You Intensely 150 ml",
-    "description": "78,51€ - Parfumdreams Stronger With You Intensely de Giorgio Armani est un parfum qui dégage une aura confiante et chaleureuse, basée sur une signature fougère intense. Cette composition s'ouvre sur une note de tête vive, dans laquelle l'épice piquante du poivre rose rencontre les accents frais du genévrier et de la feuille de violette. Par la suite, le cœur de la fragrance se déploie et révèle une tension fascinante : des notes aromatiques de lavande et de sauge sont enveloppées d'une facette inattendue et gourmande de cannelle et de caramel crémeux. Cette association confère au parfum un centre à la fois moderne et attirant. La note de fond assure une conclusion durable et marquante. Un mélange de vanille chaude, de fève tonka et de bois d'ambre se fond ici dans un doux accord de daim qui confère à l'Eau de Parfum sa profondeur inimitable et son caractère durable. Caractère du parfum : Un parfum de fougère intense avec un rayonnement épicé, chaud et gourmand. Notes clés : Une composition de poivre rose, de lavande, de caramel, de vanille et de daim. Type de parfum : Eau de Parfum longue durée avec une profondeur et une présence marquantes.",
-    "price": 78.51,
+    "title": "30% en ticket e.Leclerc sur une sélection de téléviseurs (Lg, Hisense, Samsung, Tcl)",
+    "description": "E.Leclerc Sélection de TV (TCL, Hisense, Samsung, LG) : 30% en Ticket E.Leclerc (Samedi 17 octobre) Offre intéressante chez E.Leclerc pour les adeptes du \"Ticket E.Leclerc\" : 30% reversés sur la carte sur une sélection de téléviseurs (marques Hisense, LG, TCL, Samsung) ce samedi 17 octobre . C'est l'occasion de faire de belles affaires si vous aviez prévu de changer de TV, surtout que l'opération concerne plusieurs diagonales et technologies (QLED, Mini-LED, UHD 4K). Détails de l'offre : • Enseigne : E.Leclerc • Offre : 30% en Ticket E.Leclerc avec la Carte • Date : Valable le samedi 17 octobre uniquement • Marques concernées : Hisense, LG, TCL, Samsung • Retrait : Gratuit en 2h (Click & Collect selon les magasins participants)",
+    "price": null,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/armani-emporio-armani-you-stronger-with-you-intensely-150-ml-3432325",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/33KhG/3432325_1/re/1200x1200/qt/90/3432325_1.jpg",
-    "detected_at": "2026-10-14T11:33:21+00:00",
-    "category": "Beauté & santé",
+    "url": "https://www.dealabs.com/bons-plans/30-en-ticket-eleclerc-sur-une-selection-de-televiseurs-lg-hisense-samsung-tcl-3432396",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/jnwFt/3432396_1/re/1200x1200/qt/90/3432396_1.jpg",
+    "detected_at": "2026-10-14T13:15:46+00:00",
+    "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
+    "price_history": []
+  },
+  {
+    "title": "3 Boxer Nike Coton - Tailles M & L, Bleu Et Noir",
+    "description": "14,99€ - Veepee Boxer (x3) Coloris Bleu - noir Composition 95% coton et 5% élasthanne Conseils d’entretien Lavage en machine Lavage : 30°C",
+    "price": 14.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nike-boxer-x3-coton-bleu-et-noir-3432394",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/w1ae8/3432394_1/re/1200x1200/qt/90/3432394_1.jpg",
+    "detected_at": "2026-10-14T13:13:16+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.veepee.fr/gr/product/898100/102745777",
     "price_history": [
       {
-        "price": 78.51,
-        "observed_at": "2026-10-14T11:38:50.729410+00:00"
+        "price": 14.99,
+        "observed_at": "2026-10-14T13:18:25.291274+00:00"
       }
     ]
   },
   {
-    "title": "Montre connectée Huawei Watch GT 6 Pro - AMOLED 1,47\", titane, verre saphir, GPS",
-    "description": "220,01€ - AliExpress La Huawei Watch GT 6 Pro est une montre connectée haut de gamme conçue pour le suivi de l'activité physique, de la santé et des notifications au quotidien. Elle dispose d'un écran AMOLED couleur de 1,47 pouce offrant une résolution de 466 × 466 pixels, pour une lecture nette des informations et des cadrans. Son boîtier en alliage de titane et son verre saphir lui confèrent une conception robuste adaptée à une utilisation quotidienne comme aux activités sportives. La montre intègre un système de géolocalisation GNSS prenant en charge plusieurs constellations satellitaires afin d'enregistrer les parcours et les données de distance lors des activités en extérieur. Elle propose de nombreux modes sportifs, notamment la course à pied, le cyclisme, la randonnée, la natation et le golf, avec des données adaptées à chaque discipline. Les capteurs intégrés permettent de suivre la fréquence cardiaque, la saturation en oxygène du sang (SpO₂), le sommeil et différents indicateurs liés au bien-être. La montre propose également un suivi de la variabilité de la fréquence cardiaque et des outils d'analyse de l'entraînement pour mieux comprendre l'évolution de l'activité physique. Son système de mesure de la puissance en cyclisme peut fournir des données utiles aux utilisateurs pratiquant le vélo, notamment lorsqu'ils souhaitent analyser leurs performances. La Watch GT 6 Pro dispose d'une résistance à l'eau adaptée à la natation et bénéficie d'une étanchéité annoncée jusqu'à 50 mètres, avec une certification IP69 selon les conditions définies par le fabricant. La batterie offre une autonomie pouvant atteindre jusqu'à 21 jours en utilisation légère, tandis qu'une utilisation plus intensive réduit cette durée, notamment avec l'écran toujours allumé et le GPS. La montre permet de recevoir les notifications d'un smartphone compatible, de contrôler certaines fonctions du téléphone et de consulter les informations essentielles directement au poignet. Elle est compatible avec les smartphones Android et iOS via l'application Huawei Health, avec des fonctions qui peuvent varier selon le système utilisé. La Huawei Watch GT 6 Pro associe ainsi écran AMOLED, matériaux premium, GPS multi-systèmes, suivi sportif avancé et autonomie prolongée dans une montre destinée aussi bien aux activités quotidiennes qu'à l'entraînement.",
-    "price": 220.01,
+    "title": "Short de running Femme Nike Flow 2-en-1 Dri-FIT - taille haute",
+    "description": "31,49€ - Nike Coloris : Cucumber Calm/Cucumber Calm.",
+    "price": 31.49,
     "reference_price": null,
     "discount_percent": null,
     "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/huawei-watch-gt-6-pro-montre-connectee-amoled-titane-gps-autonomie-jusqua-21-jours-3432324",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/P8D3d/3432324_1/re/1200x1200/qt/90/3432324_1.jpg",
-    "detected_at": "2026-10-14T11:33:10+00:00",
-    "category": "High-tech",
+    "url": "https://www.dealabs.com/bons-plans/nike-flow-short-de-running-2-en-1-dri-fit-taille-haute-pour-femme-3432393",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XP26C/3432393_1/re/1200x1200/qt/90/3432393_1.jpg",
+    "detected_at": "2026-10-14T13:10:37+00:00",
+    "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.nike.com/fr/t/short-de-running-2-en-1-dri-fit-taille-haute-nike-flow-pour-femme-VpkxsATG/IF1497-391",
     "price_history": [
       {
-        "price": 220.01,
-        "observed_at": "2026-10-14T11:52:56.398481+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini PC Soyo M5 - Ryzen 3 4300U, RAM 16 Go LPDDR4, SSD 512 Go, Windows 11 Pro",
-    "description": "179,55€ - AliExpress Capacité mémoire 16 Go Capacité du disque dur 512 GO Numéro de Modèle M5 Marque du processeur AMD Modèle de Processeur 4300U Type d'écriture MINI ORDINATEUR DE BUREAU Type de carte graphique Carte intégrée Nom de marque SOYO Origine CN (Origine) Type MINI-PC",
-    "price": 179.55,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mini-pc-soyo-m5-ryzen-3-4300u-ram-16-go-lpddr4-ssd-512-go-windows-11-pro-3432323",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/b2S38/3432323_1/re/1200x1200/qt/90/3432323_1.jpg",
-    "detected_at": "2026-10-14T11:29:39+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://fr.aliexpress.com/item/1005012743054459.html",
-    "price_history": [
-      {
-        "price": 179.55,
-        "observed_at": "2026-10-14T11:33:03.038410+00:00"
+        "price": 31.49,
+        "observed_at": "2026-10-14T13:18:25.291274+00:00"
       }
     ]
   },
@@ -16232,28 +16248,6 @@
     ]
   },
   {
-    "title": "Montre Casio MTP-1303PD-2AVEG",
-    "description": "29,99€ - Mondial Montres Retour de cette excellente affaire ! Vendue 49€ partout ailleurs, cette montre de qualité, sobre et élégante est en vendue -40% chez MondialMontres, site sérieux. [shortcode id=\"20619152\"/] Revêtement Neobrite Les aiguilles et/ou l'index ont un revêtement fluorescent et continuent à briller dans l'obscurité lorsque la montre a été exposée auparavant à une source lumineuse. Verre minéral Le verre minéral dur et résistant aux rayures protège la montre des dommages inesthétiques. Bracelet en acier inoxydable Solide, durable et élégant : le bracelet en acier inoxydable est un classique horloger incontournable. Boucle déployante La boucle déployante permet de mettre et d'enlever sa montre facilement et rapidement. 3 ans - 1 pile La pile procure à la montre l'énergie nécessaire pendant env. 3 ans. Classe d'étanchéité (5 bars) Il est possible de prendre une douche et un bain avec cette montre - son étanchéité a été testée jusqu'à 5 bars (ISO 22810).",
-    "price": 29.99,
-    "reference_price": 49.0,
-    "discount_percent": 38.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-casio-mtp-1303pd-2aveg-3431982",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/97Nhl/3431982_1/re/1200x1200/qt/90/3431982_1.jpg",
-    "detected_at": "2026-10-13T20:56:16+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T21:12:10.951643+00:00"
-      }
-    ]
-  },
-  {
     "title": "Climatiseur réversible Fujitsu KL ASEH12KLTBL / AOEH12KLTA - 12 000 BTU, Inverter, R32, A++/A+, SCOP 4,10, Wi-Fi intégré",
     "description": "481,48€ - Climavantage Le Climatiseur Fujitsu KL 12000 Btu ASEH12KLTBL R-32 est un climatiseur avec Wi-Fi intégré. *caractéristiques du produit :* - Code catalogue de l'unité intérieure : ASEH12KLTBL - Code commercial pour l'unité intérieure : 3NGF89941 - Code catalogue de l'unité extérieure : AOEH12KLTA - Code commercial de l'unité externe : 3NGF89927 - Code du kit : 3NGF89940 - Puissance : 12 000 BTU - Wi-Fi intégré - SEER : 6,70 - SCOP : 4 Performances en refroidissement Le Fujitsu KL développe une puissance frigorifique nominale de 3,4 kW , adaptée au refroidissement d’une pièce de vie ou d’une chambre de grande superficie, selon les caractéristiques du logement. La surface réellement couverte dépend notamment de l’isolation, de l’exposition au soleil, de la hauteur sous plafond et des apports thermiques. Données techniques : Capacité frigorifique nominale : 3,4 kW. Puissance électrique nominale absorbée : 1,050 kW. SEER : 6,70. Classe énergétique : A++. Consommation annuelle normalisée : 178 kWh/an. Température extérieure de fonctionnement : de -10 °C à +52 °C. Le SEER représente le rendement énergétique saisonnier en refroidissement. Avec un indice de 6,70, ce modèle offre une efficacité supérieure à celle des systèmes de climatisation conventionnels moins performants. La consommation annuelle annoncée correspond à une méthode de calcul normalisée et ne représente pas nécessairement la consommation réelle d’un utilisateur. Celle-ci varie selon la température extérieure, la consigne choisie et la durée quotidienne d’utilisation. Performances en chauffage Le Fujitsu KL fonctionne également comme une pompe à chaleur air-air réversible. En mode chauffage, il récupère l’énergie thermique présente dans l’air extérieur pour la transférer à l’intérieur. Cette technologie permet de produire davantage de chaleur que l’énergie électrique directement consommée. Données techniques : Puissance calorifique nominale : 3,4 kW. Puissance électrique nominale absorbée : 0,915 kW. SCOP : 4,10. Classe énergétique : A+. Consommation annuelle normalisée : 854 kWh/an. Température extérieure de fonctionnement : de -15 °C à +24 °C. Le SCOP de 4,10 indique qu’en conditions saisonnières normalisées, le système peut fournir environ 4,1 kWh de chaleur pour chaque kWh d’électricité consommée. Il s’agit d’un indicateur saisonnier : le rendement réel varie notamment selon la température extérieure et les besoins de chauffage. Le système peut donc constituer une alternative intéressante aux radiateurs électriques traditionnels. La technologie Inverter permet également de moduler le fonctionnement du compresseur afin de limiter les variations de température. Fonctionnement à températures extrêmes Le fabricant annonce une plage de fonctionnement étendue. En climatisation, l’appareil peut fonctionner lorsque la température extérieure atteint 52 °C. En chauffage, il est conçu pour fonctionner jusqu’à une température extérieure de -15 °C. Ces valeurs correspondent aux limites de fonctionnement annoncées et ne signifient pas que la puissance nominale reste disponible à toutes les températures. Les performances peuvent diminuer lorsque les conditions climatiques deviennent particulièrement exigeantes. Niveau sonore Le Fujitsu KL a été conçu pour limiter les nuisances acoustiques, notamment lors d’une utilisation dans une chambre ou un séjour. Unité intérieure : Pression acoustique : de 21 à 43 dB(A). Puissance acoustique : de 55 à 56 dB(A). Unité extérieure : Pression acoustique : 50 dB(A). Puissance acoustique : de 60 à 61 dB(A). Le niveau minimal de pression acoustique de 21 dB(A) permet un fonctionnement relativement discret à faible vitesse. Les valeurs réelles dépendent du mode sélectionné, de la vitesse de ventilation et des conditions d’installation. Technologie Inverter Le compresseur Inverter adapte progressivement sa vitesse aux besoins de chauffage ou de refroidissement. Contrairement à un système classique fonctionnant essentiellement par cycles marc",
     "price": 481.48,
@@ -21755,32 +21749,6 @@
       },
       {
         "price": 112.5,
-        "observed_at": "2026-10-14T11:59:57.473107+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de société Far Cry : Escape from Rook Islands",
-    "description": "17,67€ - Philibert Net Liquidation massive de -70 % en vente flash sur Far Cry : Escape from Rook Islands , l'adaptation officielle en jeu de plateau coopératif du jeu vidéo culte d'Ubisoft, éditée par Funforge. Passer sous les 18 € au lieu de près de 60 € pour une grosse boîte pleine de matériel et de figurines, c'est un prix plancher absolu. Vente flash classique : prix direct, pas d'inscription requise et expédition immédiate sous 24/48 h . Pourquoi c'est une très belle affaire : Vous incarnez Jason Brody et ses compagnons capturés sur l'archipel des îles Rook par le sanguinaire Vaas Montenegro. Votre seul objectif : survivre aux patrouilles de pirates, libérer vos amis et trouver un moyen de fuir l'enfer insulaire. Le jeu propose une aventure coopérative intense mêlant infiltration, action tactique et gestion des risques : Infiltration ou assaut frontal : Vous devez vous coordonner pour nettoyer des avant-postes, désactiver des alarmes et saboter les installations pirates. Rester discret limite les renforts ennemis, mais un assaut mal préparé déclenche rapidement l'alerte générale. Artisanat et équipement : Comme dans le jeu vidéo, vous collectez des ressources sur la faune et la flore locales pour fabriquer des seringues de soins, améliorer vos armes et débloquer des compétences clés pour vos héros asymétriques. Système de scénarios modulables : Une série de missions interconnectées avec des objectifs variés (sauvetages, destructions de dépôts, survie face à des vagues d'ennemis) et une IA ennemie agressive menée par Vaas. Matériel imposant : Figurines détaillées, tuiles de terrain modulaires pour composer l'archipel, plateaux individuels et dizaines de cartes d'équipement et d'événements. Format : 1 à 4 joueurs (entièrement jouable en solo) Durée : 60 à 90 min Âge : Dès 14 ans Éditeur : Funforge / Ubisoft Infos livraison : Frais de port dès 1,95 € (offerts dès 60 € d'achat). Expédition rapide sous 24/48 h.",
-    "price": 17.67,
-    "reference_price": 60.0,
-    "discount_percent": 70.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-far-cry-escape-from-rook-islands-3431651",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tSQRX/3431651_1/re/1200x1200/qt/90/3431651_1.jpg",
-    "detected_at": "2026-10-13T11:08:02+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 17.67,
-        "observed_at": "2026-10-13T11:26:32.922310+00:00"
-      },
-      {
-        "price": 17.67,
         "observed_at": "2026-10-14T11:59:57.473107+00:00"
       }
     ]
