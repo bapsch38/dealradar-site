@@ -305,7 +305,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -326,7 +326,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -347,7 +347,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -368,7 +368,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -389,7 +389,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -410,7 +410,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -431,7 +431,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -452,7 +452,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -473,7 +473,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -494,7 +494,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:07:51.823061+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1355,7 +1355,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1376,7 +1376,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1397,7 +1397,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": "2026-10-14T01:54:42.480101+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1418,7 +1418,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1439,7 +1439,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1460,7 +1460,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1481,7 +1481,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1502,7 +1502,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1523,7 +1523,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1544,7 +1544,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T03:34:53.505682+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1649,7 +1649,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T06:57:10.984798+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1670,7 +1670,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1691,7 +1691,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1712,7 +1712,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1733,7 +1733,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T06:55:56.865033+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1754,7 +1754,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1775,7 +1775,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1796,7 +1796,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1817,7 +1817,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -1838,7 +1838,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:58:40.690827+00:00",
+    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2069,7 +2069,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2090,7 +2090,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2111,7 +2111,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2132,7 +2132,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2195,7 +2195,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2216,7 +2216,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2237,7 +2237,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2258,7 +2258,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2279,7 +2279,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2300,7 +2300,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2321,7 +2321,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2342,7 +2342,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2363,7 +2363,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -2384,7 +2384,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:55:25.159780+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2489,7 +2489,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2531,7 +2531,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2552,7 +2552,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2573,7 +2573,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2594,7 +2594,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -6737,6 +6737,28 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Robot aspirateur lefant M210 Pro",
+    "description": "279,98€ - Amazon Offre amazon à -40%",
+    "price": 279.98,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/robot-aspirateur-lefant-m210-pro-3432114",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/612Mz/3432114_1/re/1200x1200/qt/90/3432114_1.jpg",
+    "detected_at": "2026-10-14T07:03:07+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 279.98,
+        "observed_at": "2026-10-14T07:06:38.686421+00:00"
       }
     ]
   },
