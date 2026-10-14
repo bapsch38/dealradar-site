@@ -5719,7 +5719,7 @@
     "title": "KS Tools 156.0216 Chasses goup...octogonale 7mm Longueur 150 mm",
     "price": 12.69,
     "reference_price": 18.04,
-    "discount_percent": 29.66,
+    "discount_percent": 29.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B007XUI8V8",
     "image_url": "https://m.media-amazon.com/images/P/B007XUI8V8.01._AC_SL1500_.jpg",
@@ -5727,7 +5727,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 12.69,
@@ -5743,7 +5743,7 @@
     "title": "The Fist of the Condor [DVD]",
     "price": 10.43,
     "reference_price": 19.2,
-    "discount_percent": 45.68,
+    "discount_percent": 45.7,
     "source": "Amazon.fr",
     "url": "https://www.amazon.fr/dp/B0CBCFBRW7",
     "image_url": "https://m.media-amazon.com/images/P/B0CBCFBRW7.01._AC_SL1500_.jpg",
@@ -5751,7 +5751,7 @@
     "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 10.43,
@@ -5775,7 +5775,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 24.99,
@@ -5799,7 +5799,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 10.95,
@@ -5823,7 +5823,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 14.99,
@@ -5847,7 +5847,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 51.38,
@@ -5871,7 +5871,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 10.49,
@@ -5895,7 +5895,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 41.0,
@@ -5919,7 +5919,7 @@
     "category": "Bébé & enfants",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 26.02,
@@ -5943,7 +5943,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T18:30:55.050662+00:00",
+    "price_checked_at": "2026-10-14T04:35:34.739466+00:00",
     "price_history": [
       {
         "price": 25.99,
@@ -6888,6 +6888,195 @@
       {
         "price": 2269.0,
         "observed_at": "2026-10-13T13:11:36.907750+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Montage offert sur les pneus Bridgestone",
+    "description": "128,15€ - Roady Parcourant 30 000 kilomètres par an avec mon véhicule, je devais impérativement remplacer mes 2 pneus avant avant mon contrôle technique. Souhaitant privilégier une marque de pneus premium, j'ai opté pour cette offre qui me permet de réaliser une économie non-négligeable sur mon budget auto. J'ai directement pris rendez-vous en ligne depuis le site, auprès du centre auto Roady le plus proche de mon domicile.",
+    "price": 128.15,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/montage-offert-sur-les-pneus-bridgestone-3432054",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/yX9jm/3432054_1/re/1200x1200/qt/90/3432054_1.jpg",
+    "detected_at": "2026-10-14T04:20:22+00:00",
+    "category": "Auto & moto",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 128.15,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Pantalon de randonnée Quechua MH500 Light vert ou gris - Tailles 38 au 46",
+    "description": "18,99€ - Decathlon QUECHUA MH500 Light – Pantalon de randonnée homme vert Un pantalon de randonnée léger et extensible, conçu pour accompagner vos sorties régulières en montagne et sur les sentiers. Sa matière respirante évacue la transpiration, tandis que sa coupe ajustée et ses genoux préformés assurent une bonne liberté de mouvement. Les points forts : Léger et respirant : son tissu synthétique évacue efficacement la transpiration pour rester plus confortable pendant l’effort. Grande liberté de mouvement : matière extensible avec environ 15 % d’élasthanne et genoux préformés pour faciliter les montées, les descentes et les passages plus techniques. Coupe ajustée : une coupe près du corps qui accompagne les mouvements sans gêner la marche. Ceinture élastiquée : s’adapte à la morphologie pour un maintien confortable. 2 poches zippées : pratiques pour garder à portée de main les petits accessoires indispensables pendant la randonnée. Bas de jambes élastiqués : favorisent un ajustement confortable au niveau des chevilles. Coloris vert kaki : une teinte discrète et adaptée aux activités de plein air. ☀️ Idéal au printemps et en été : sa conception légère convient particulièrement aux randonnées par temps doux ou chaud. Entretien facile : lavable en machine à 30 °C et séchage rapide. Pas besoin de repassage. Un pantalon de randonnée léger, souple et confortable , idéal pour profiter pleinement des sentiers tout en conservant une bonne aisance dans les mouvements.",
+    "price": 18.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/pantalon-de-randonnee-quechua-mh500-light-vert-ou-gris-tailles-38-au-46-3432053",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/KtaWI/3432053_1/re/1200x1200/qt/90/3432053_1.jpg",
+    "detected_at": "2026-10-14T04:19:00+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ECOVACS DEEBOT T90 MAX Black, robot aspirateur laveur 30 000 Pa avec rouleau autonettoyant OZMO ROLLER 3.0",
+    "description": "424€ - Amazon L’ECOVACS DEEBOT T90 MAX Black est une version améliorée du T50, avec une puissance d’aspiration de 30 000 Pa et un rouleau laveur OZMO ROLLER 3.0 de 27 cm qui se nettoie en continu à l’eau propre. Sa station OMNI assure la vidange automatique, le nettoyage du rouleau et son séchage à l’air chaud à 45 °C pour limiter l’entretien au quotidien. * Puissance d’aspiration de 30 000 Pa * Rouleau autonettoyant OZMO ROLLER 3.0 avec pression de 3 800 Pa * Technologies ZeroTangle 4.0 et TruEdge 3.0 pour limiter les cheveux emmêlés et améliorer le nettoyage des bords * Navigation intelligente avec détection des obstacles et design ultra-fin de 95 mm À propos de ce produit 【Un patin impeccable pour des sols plus propres】 Les systèmes classiques à double patin rotatif peuvent nettoyer les sols à plusieurs reprises avec la même surface de nettoyage, déjà sale. Le robot DEEBOT T90 MAX utilise la technologie OZMO ROLLER 3.0 pour nettoyer le rouleau en continu avec de l'eau propre tout en collectant l'eau sale tout au long du processus de nettoyage. Avec une pression descendante de 3 800 Pa, une vitesse de rotation de 200 tours par minute et un rouleau de 27 cm, cet appareil élimine efficacement les taches sèches, les traces de pas et la saleté du quotidien, laissant des sols plus propres avec moins d'intervention manuelle. 【Un nettoyage puissant pour la maison au quotidien】 Une aspiration BLAST de 30 000 Pa élimine facilement la poussière, les miettes, les poils d'animaux et les débris volumineux sur les sols durs, les moquettes et les tapis. La technologie ZeroTangle 4.0 réduit l'accumulation de cheveux autour de la brosse principale, ce qui facilite l'entretien dans les foyers avec des animaux de compagnie ou des personnes aux cheveux longs. Lorsque la présence de tapis est détectée, le rouleau se soulève automatiquement pour garder les tapis au sec tout en maintenant une puissance d'aspiration élevée. 【Un nettoyage des bords plus approfondi】 La poussière a tendance à s'accumuler le long des murs, dans les coins et sur le bord des meubles. Avec le nettoyage extrême des bords TruEdge 3.0, le rouleau à coussin d'air se rapproche des bords de 1,5 cm supplémentaire afin d'assurer une meilleure couverture de nettoyage et de réduire les zones oubliées. Le rouleau flottant à variation continue s'adapte en temps réel à toutes les surfaces, tandis que la nouvelle bande de feutre qui épouse les bords permet au robot de glisser en douceur le long des plinthes et des meubles. Cela garantit un nettoyage précis d'un bord à l'autre tout en protégeant votre intérieur des rayures. 【Une navigation intelligente qui vous fait gagner du temps】Le système LiDAR dToF intégré cartographie rapidement votre domicile et programme des itinéraires de nettoyage efficaces. TrueDetect 3D évite intelligemment les câbles, les chaussures et les obstacles du quotidien, garantissant ainsi un nettoyage plus fluide et moins d'interruptions. Son design ultra-fin de 95 mm lui permet d'atteindre les espaces sous les lits, les canapés et les meubles et de franchir aisément des seuils d'une hauteur maximale de 20 mm. 【Moins d'entretien, plus de temps libre】La station OMNI vide automatiquement la poussière, nettoie le rouleau avec de l'eau propre et le sèche à l'air chaud (45 °C) pour réduire l'humidité et les mauvaises odeurs. Le système d'auto-nettoyage en une pression permet de garder la station propre, tandis que le filtre remplaçable réduit la nécessité d'entretien à long terme. Lancez simplement la tâche de nettoyage et laissez le robot DEEBOT s'occuper du reste. Commentaires client",
+    "price": 424.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecovacs-deebot-t90-max-black-robot-aspirateur-laveur-30-000-pa-avec-rouleau-autonettoyant-ozmo-roller-30-3432052",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/eRDN2/3432052_1/re/1200x1200/qt/90/3432052_1.jpg",
+    "detected_at": "2026-10-14T04:18:43+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 424.0,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussures de running carbone Kiprun Kipstorm Challenger blanc et noir ou vert et jaune - Pointures 40 au 47",
+    "description": "99,99€ - Decathlon KIPRUN Kipstorm Challenger – Chaussures de running carbone homme blanc et noir Gagnez en dynamisme et profitez d’un amorti performant avec les KIPRUN Kipstorm Challenger , des chaussures de running sur route équipées d’une plaque carbone. Conçues pour les coureurs confirmés, elles accompagnent aussi bien les séances rapides que les compétitions, du 5 km au marathon. Les points forts : ⚡ Plaque carbone propulsive : favorise le retour d’énergie et apporte du dynamisme à chaque foulée pour vous accompagner lorsque vous accélérez. ️ Mousse FASTECH+ : un amorti conçu pour associer confort et dynamisme sur différentes distances. Légèreté : seulement 195 g en pointure 42 , pour limiter le poids aux pieds pendant vos entraînements et compétitions. Drop de 8 mm : une différence de hauteur de 8 mm entre le talon et l’avant-pied, adaptée à une foulée dynamique sur route. Polyvalence des distances : adaptées aux courses du 5 km au marathon, elles peuvent accompagner les séances tempo et les objectifs de performance. Foulée neutre : conçues pour les coureurs à foulée neutre, sans système correcteur spécifique. Largeur standard : une forme adaptée aux pieds de largeur classique, avec un chaussant annoncé à la taille habituelle. Laçage classique : permet d’ajuster le maintien du pied selon vos préférences. ⚪ Coloris blanc et noir : un design sportif et moderne, facile à associer à vos tenues de running. Des chaussures légères, dynamiques et dotées d’une plaque carbone , idéales pour les coureurs qui recherchent un modèle performant pour leurs séances rapides et leurs compétitions sur route.",
+    "price": 99.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/chaussures-de-running-carbone-kiprun-kipstorm-challenger-blanc-et-noir-ou-vert-et-jaune-pointures-40-au-47-3432050",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/MaT9b/3432050_1/re/1200x1200/qt/90/3432050_1.jpg",
+    "detected_at": "2026-10-14T04:15:45+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tour de cou de randonnée Quechua 7-15 ans , MH500",
+    "description": "2,99€ - Decathlon QUECHUA MH500 – Tour de cou multifonction enfant 7-15 ans ️ À la base, il est conçu pour la randonnée… mais il peut aussi accompagner les aventuriers du bitume ! Les points forts : 10 façons de le porter : autour du cou, sur les oreilles ou sur la tête… à chacun son style, du randonneur du dimanche au manifestant qui soigne son look. Ultra-léger : seulement 50 g . On ne va pas se mentir, c’est toujours ça de moins à transporter quand on part marcher longtemps. Séchage rapide : son tissu en polyester évacue la transpiration et sèche rapidement après l’effort. Sans couture : conçu d’une seule pièce, pour davantage de confort au quotidien. ️ Polyvalent : utile par temps frais pour couvrir le cou ou les oreilles, et par temps chaud pour absorber la transpiration. ✊ Option manif : pour compléter une tenue de contestataire, afficher un petit style mystérieux ou éviter d’avoir froid en attendant le cortège. Bonus : il peut aussi servir après la manif pour retourner tranquillement faire une randonnée. Attention, pas de super-pouvoirs anti-lacrymo ! Il ne filtre pas les gaz lacrymogènes et ne protège pas les voies respiratoires. Pour ça, mieux vaut ne pas compter sur un simple morceau de polyester : en cas d’exposition, éloignez-vous de la zone contaminée et suivez les consignes de sécurité. Le petit accessoire multi-usage pour la randonnée, le sport et les sorties… avec ou sans slogans. Parce qu’on peut avoir des convictions, et un cou bien au chaud !",
+    "price": 2.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tour-de-cou-de-randonnee-quechua-7-15-ans-mh500-3432049",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zfWDt/3432049_1/re/1200x1200/qt/90/3432049_1.jpg",
+    "detected_at": "2026-10-14T04:13:36+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 2.99,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "L'Odyssée Blu Ray 4K Steelbook fnac",
+    "description": "29,99€ Depuis le lien mettre l article de côté puis ensuite ajouter au panier. Sinon la page est en erreur sur la fnac. [PRÉCOMMANDE] L'ODYSSÉE BLU RAY 4K STEELBOOK FNAC @ Fnac L'Odyssée Blu Ray 4K Steelbook",
+    "price": 29.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lodyssee-blu-ray-4k-steelbook-fnac-3432048",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/QsBXQ/3432048_1/re/1200x1200/qt/90/3432048_1.jpg",
+    "detected_at": "2026-10-14T04:09:25+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Baskets Decathlon Purecourt 60 en toile homme, bleu beige ou vert - Pointures 39 au 47",
+    "description": "9,99€ - Decathlon DECATHLON Purecourt 60 – Baskets homme en toile bleues Adoptez un style décontracté au quotidien avec les Purecourt 60 Toile ! Légères et faciles à porter, ces baskets basses bleues apportent une touche de couleur à vos tenues. Leur conception simple et polyvalente est idéale pour les beaux jours et les déplacements en ville. Les points forts : Légèreté : leur tige en textile polyester permet de profiter de chaussures légères, agréables à porter au quotidien. Style décontracté : leur silhouette basse et leur coloris bleu acier s’associent facilement avec un jean, un short ou une tenue estivale. Semelle en caoutchouc : elle favorise l’adhérence sur les surfaces urbaines et les trottoirs. Conception textile : la tige, la doublure et la semelle intérieure sont composées de polyester. Fermeture à lacets : permet d’ajuster le maintien du pied selon vos préférences. Coupe standard : largeur de pied moyenne, avec une pointure habituelle généralement adaptée. Semelle intérieure amovible : pratique pour faciliter l’entretien ou la remplacer si nécessaire. ♻️ Matériaux recyclés : le modèle contient 21 % de polyester recyclé et 2 % de caoutchouc recyclé. ☀️ Idéales en ville : parfaites pour les sorties, les promenades et les activités quotidiennes par temps sec. Entretien facile : nettoyage à l’éponge légèrement humide. Elles ne sont pas conçues pour être lavées en machine et ne sont pas imperméables. Des baskets légères, simples et polyvalentes , parfaites pour compléter une tenue décontractée avec une touche de bleu.",
+    "price": 9.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/baskets-decathlon-purecourt-60-en-toile-homme-bleu-beige-ou-vert-pointures-39-au-47-3432047",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ylPf0/3432047_1/re/1200x1200/qt/90/3432047_1.jpg",
+    "detected_at": "2026-10-14T04:09:16+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "25 % de fidélité sur une sélection de jeux de société gigiamic - Ex : Jeu de société Akropolis (via 5.00€ en Tickets E.Leclerc )",
+    "description": "14,90€ - E.Leclerc Une offre de fidélité sympa sur des jeux de société gigamic pour petits et grands Tous les jeux ici https://www.e.leclerc/recherche?q=Gigamic (j'espère tout avoir, car il n'y a toujours pas eu de lien sur le site dans la nuit... ici j'ai filtré sur gigamic) Offre valable du 14/10/2026 au 17/10/2026 Exemple : Jeu de société AKROPOLIS https://www.e.leclerc/fp/akropolis-3421271360810 Au cœur de l'antique Méditerranée, des cités rivales cherchent à s'attirer richesse et gloire... Akropolis est un jeu de stratégie et de développement pour 2 à 4 joueurs. (il existe un mode solo également) 2 à 4 joueurs Environ 30 min. À partir de 8 ans Jeu noté 7,4 sur BGG https://boardgamegeek.com/boardgame/357563/akropolis Classement : Overall 445 Family 89 Akropolis : construire vers les cieux Akropolis est un jeu de placement de tuiles où des architectes rivalisent d'ingéniosité pour construire leur cité antique . Démarquez-vous des autres villes en bâtissant des quartiers en hauteur ! Chaque partie dure environ 25 minutes, pour 2 à 4 joueurs dès 8 ans. Habitations, temples, marchés, jardins, casernes ... votre tâche est d'agencer ces différents quartiers afin d'ériger la cité la plus splendide de la Grèce antique. En respectant des règles d'harmonie bien précises (casernes à l'extérieur de la ville, habitations côte à côte...), accumulez les points et formez des étages de quartiers ! Vous sélectionnez l'une des tuiles disponibles puis la positionnez dans votre espace personnel. En exploitant vos carrières, vous pourrez récupérer de la pierre, vous donnant plus de souplesse pour acheter les meilleures tuiles au marché ! En fin de partie, le joueur avec le plus haut score est déclaré vainqueur. Akropolis est un jeu familial en moins de 30 minutes Stratégie et accessibilité sont les deux grandes qualités d'Akropolis. Ce jeu de Jules Messaud illustré avec énergie par Pauline Détraz convient à toute la famille et plait rapidement à tout le monde. Sa simplicité et son ergonomie participent grandement au plaisir de jouer ! Il a reçu le Tric Trac de Bronze 2022 et le TricTrac d'Or Famille 2022, et a reçu l' As d'Or jeu de l'année 2023 , catégorie Tous Publics ! Contenu : 4 tuiles de départ 61 tuiles Cité 4 aides de jeu 40 cubes Pierre 1 pion Architecte en chef 1 bloc de score 1 règle du jeu",
+    "price": 14.9,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/25-de-fidelite-sur-une-selection-de-jeux-de-societe-gigiamic-ex-jeu-de-societe-akropolis-via-500eur-en-tickets-eleclerc-3432046",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/oNT6T/3432046_1/re/1200x1200/qt/90/3432046_1.jpg",
+    "detected_at": "2026-10-14T04:08:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 14.9,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Speed Champions 77237 Dodge Challenger SRT Hellcat",
+    "description": "16,99€ - Amazon Salut, Bon prix direct (avec livraison gratuite en point relais Amazon) pour ce modèle sympathique qu'on n'a pas trop vu sur dealabs ces derniers temps. 390 pièces (plus gros total pour une voiture speed Champions je crois), la voiture mesure 17 cm de long. Tout premier modèle Dodge moderne de la gamme LEGO Speed Champions, ce coupé 2 portes présente un long capot avec prise d'air, une calandre audacieuse et un double échappement. Inclut une mini figurine de pilote en combinaison Dodge.",
+    "price": 16.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-77237-dodge-challenger-srt-hellcat-3432045",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/RWVAf/3432045_1/re/1200x1200/qt/90/3432045_1.jpg",
+    "detected_at": "2026-10-14T04:06:12+00:00",
+    "category": "Bébé & enfants",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "price_history": [
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-14T04:35:37.265820+00:00"
       }
     ]
   },
@@ -11604,174 +11793,6 @@
       {
         "price": 110.0,
         "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini PC Kamrui E3B AMD Ryzen 5 7530U, 16 Go de RAM, 512 Go de ROM LPDDR4X, WIFI6, écran 4K, Bluetooth 5.2",
-    "description": "300,60€ - AliExpress KAMRUI E3B AMD Ryzen 5 7530U Mini PC Gaming 16 Go de RAM 512 Go de ROM LPDDR4X WIFI6 Affichage 4K Bluetooth 5.2 Mini Ordinateur de Bureau Conception compacte Son format compact rend ce Mini PC idéal pour les foyers disposant d'un espace limité. Mémoire généreuse Avec 16 Go de RAM LPDDR4X, ce Mini PC assure un fonctionnement fluide et un traitement rapide des données. Processeur Haute Performance Équipé du processeur AMD Ryzen 5 7530U, ce Mini PC offre une expérience de multitâche et de jeu fluide. Compatibilité avec les écrans 4K Ce mini PC prend en charge les écrans 4K, offrant des images nettes et éclatantes pour vos besoins en matière de jeux et de divertissement. Espace de stockage spacieux Doté d'une mémoire ROM de 512 Go, ce Mini PC offre un espace suffisant pour vos fichiers et jeux.",
-    "price": 300.6,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mini-pc-de-jeu-kamrui-e3b-amd-ryzen-5-7530u-16-go-de-ram-512-go-de-rom-lpddr4x-wifi6-ecran-4k-bluetooth-52-3431760",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xs7vH/3431760_1/re/1200x1200/qt/90/3431760_1.jpg",
-    "detected_at": "2026-10-13T14:01:06+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 300.6,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mortal Kombat 11 sur PC, Series X|S / Xbox One (Dématérialisé)",
-    "description": "4,99€ - Xbox Store Bon deal pour un excellent jeu de combat, un très bon opus de la série Mortal Kombat. Compatible Xbox One, Series X/S et PC ! Test de consolection -> https://www.consollection.com/jeux-video/tests/test-mortal-kombat-11-l-exemple-parfait-d-une-serie-qui-a-su-evoluer-9167.html Avis critique: Les critiques considèrent le système de combat comme l’un des meilleurs de la série, avec des affrontements techniques, beaucoup de possibilités de personnalisation et un contenu très généreux. Le mode Histoire est apprécié pour sa mise en scène spectaculaire, ses cinématiques et son ambiance de film d’action. L’extension Aftermath ajoute aussi une campagne intéressante, même si certains critiques trouvent son écriture moins convaincante que celle du jeu principal.",
-    "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mortal-kombat-11-sur-pc-series-xs-xbox-one-dematerialise-3431756",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/fjbKi/3431756_1/re/1200x1200/qt/90/3431756_1.jpg",
-    "detected_at": "2026-10-13T13:56:54+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Banishers Ghosts Of New Eden PS5",
-    "description": "19,99€ - Micromania Zing Bon tarif pour un jeu très sympa ️",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/banishers-ghosts-of-new-eden-ps5-3431754",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/MpsGW/3431754_1/re/1200x1200/qt/90/3431754_1.jpg",
-    "detected_at": "2026-10-13T13:55:31+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Dead Cells sur Nintendo Swwitch (Dématérialisé)",
-    "description": "12,49€ - Nintendo Explorez une vaste île en constante évolution et remplie de secrets, de chemins tortueux et de redoutables ennemis. Grâce aux commandes fluides, aux combats rythmés et aux sensations de jeu incomparables, chaque partie sera encore plus addictive que la précédente alors que vous débloquerez progressivement des améliorations permanentes. Plusieurs modificateurs de difficulté vous permettront de trouver le degré de difficulté qui vous convient lors de votre découverte des personnages et de l'histoire de l'île. Nous continuons également à ajouter des mises à jour gratuites avec du nouveau contenu au jeu tous les 2 ou 3 mois pour que le jeu reste frais pour vous ! RogueVania - Allez, encore une partie ! Dead Cells est un jeu d'action-aventure dans lequel vous explorez une île et finissez le jeu en terminant une partie sans mourir ! Chaque partie est différente, car l'île change à chaque fois que vous mourrez. Mais ne vous inquiétez pas, car en mourant, vous obtiendrez des ressources et débloquerez des améliorations permanentes qui vous rendront plus fort, vous donneront accès à de nouveaux objets et armes et feront apparaître de nouveaux niveaux et chemins à explorer ! En plus de ça, plus vous explorez, plus vous en apprendrez sur le l'univers du jeu et l'histoire de l'île, et sur les origines de sa contamination par cette peste maudite. Des commandes fluides et des combats incroyables... Dead Cells est devenu le jeu d'action et de plateforme en 2D de référence en termes de sensations de jeu. Dès le moment où vous prenez votre manette en main, le jeu est agréable à jouer. Ajoutez ça au gameplay varié offert par les armes et aux divers ennemis à découvrir, et vous ne vous ennuierez jamais lors des combats et de votre exploration de l'île. Le jeu comprend plus de 130 combinaisons différentes, des plus mortelles (épées, haches, lances et arcs) aux plus déjantées (pelles, tentacules, poêles et portes gonflables), afin que chacun trouve son arme de prédilection. Paramètres de difficulté personnalisables : Nous avons entendu dire que de nombreuses personnes n'ont pas le temps de passer des centaines d'heures à maîtriser un jeu, nous avons donc créé imaginé diverses façons de jouer afin de trouver le degré de difficulté qui vous convient. Le mode Personnalisé vous permet de choisir vos armes, vos ennemis et bien plus, tandis que les nouveaux Aspects vous offrent des bonus intéressants pour complémenter votre style de jeu préféré et vous permettre de terminer le jeu. Bien sûr, ceux qui souhaitent corser leur aventure trouveront aussi des défis à la hauteur. Un monde riche à explorer : Qu'il s'agisse des couloirs crasseux d'une prison médiévale, de remparts baignés d'un magnifique coucher de soleil ou des recoins sombres d'un vieux cimetière, tous les chemins vous feront traverser une succession de niveaux uniques contenant chacun leurs propres ennemis, leur propre design et des secrets à découvrir. Lors de vos premières explorations, traverser le premier niveau vous semblera peut-être difficile, mais au fil de vos parties, vous comprendrez de nouvelles choses et débloquerez de nouveaux éléments qui vous aideront dans votre quête. Il y a tellement de choses à découvrir que vous aurez du mal à vous empêcher de dire la phrase consacrée : \"Allez, encore une partie !\".",
-    "price": 12.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/dead-cells-3431749",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DOidO/3431749_1/re/1200x1200/qt/90/3431749_1.jpg",
-    "detected_at": "2026-10-13T13:55:13+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "price_history": [
-      {
-        "price": 12.49,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tableau électrique HAGER pré-équipé SanVis 3 rangées",
-    "description": "350€ - AKS Distribution tableau est composé: - 1 Coffret 3 rangées GD313A - 1 inter diff 63A 30mA type AC CDC764F - 2 inter diff 63A 30mA type A CDA765F - 1 disjoncteur 32A MFS732 - 5 disjoncteurs 10A MFN710 - 9 disjoncteurs 16A MFS716 - 6 disjoncteurs 20A MFS720 - 1 Sonnerie modulaire SU213 - 1 Porte : GP313P ! OFFERTE ! Tableau monté et câblé par AKS",
-    "price": 350.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tableau-electrique-hager-pre-equipe-sanvis-3-rangees-3431753",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/0fJQL/3431753_1/re/1200x1200/qt/90/3431753_1.jpg",
-    "detected_at": "2026-10-13T13:54:56+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
-    "price_history": [
-      {
-        "price": 350.0,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chargeur voiture électrique TDC ENERGY SNK03 - Type 2, 16 A 3,7 kW avec câble de charge de 5m, connection Wifi",
-    "description": "59,99€ - JoyBuy Livraison gratuite à domicile, la remise s'applique au panier :) Le prix semble plutôt bon sachant qu'il est possible de connecter le chargeur en Wifi et Bluetooth pour paramétrer les charges :) Caractéristiques & Spécifications : Recharge CA portable de 3,5 kW : recharge monophasée 230 V jusqu’à 16 A, avec sélection du courant entre 8, 10, 13 et 16 A pour s’adapter aux circuits électriques compatibles. Compatibilité Type 2 et câble de 5 m : équipé d’un connecteur véhicule Type 2, d’un câble de recharge de 5 m et d’une fiche secteur Type F, compatible avec les véhicules électriques et hybrides rechargeables adaptés. Contrôle intelligent et démarrage flexible : la connectivité Wi-Fi et Bluetooth permet la programmation de la recharge via l’application, la programmation à l’aide du bouton et la fonction Plug & Charge. Les fonctions de l’application nécessitent une connexion réseau compatible. État de recharge clairement visible : l’écran LCD de 1,9 pouce et l’indicateur LED à 3 couleurs fournissent des informations claires sur la recharge en temps réel. Conçu pour une utilisation quotidienne : protection IP66 et plage de température de fonctionnement de -25 °C à +45 °C, avec protection contre les surtensions, sous-tensions, surcharges et surchauffes, contrôle de continuité de terre et protection contre les fuites de courant de type A + 6 mA CC. Compact et portable : dimensions de 298 × 105,8 × 53 mm et poids d’environ 2,1 kg. Utilisable en mode portable ou fixé au mur, idéal pour la maison, les déplacements et la recharge d’urgence.",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chargeur-voiture-electrique-tdc-energy-snk03-type-2-16-a-37-kw-avec-cable-de-charge-de-5m-connection-wifi-3431752",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6eBsk/3431752_1/re/1200x1200/qt/90/3431752_1.jpg",
-    "detected_at": "2026-10-13T13:54:19+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Carte mémoire microSDXC Samsung T7 128 Go 170 Mo/s UHS-I U3, A2, V30 (4K UHD)",
-    "description": "34,20€ - Amazon Carte mémoire microSDXC haute vitesse spécialement conçue pour les jeux mobiles sur smartphones, tablettes et consoles portables. Elle permet d'étendre la mémoire de stockage tout en assurant des débits rapides pour le chargement des jeux et l'enregistrement vidéo en haute résolution. Points forts et caractéristiques : • Hautes vitesses de transfert : Offre une vitesse de lecture allant jusqu'à 170 Mo/s pour accélérer le transfert des données et réduire les temps de chargement. • Normes A2 et V30 : Certifiée A2 pour une exécution plus fluide des applications et classe de vitesse vidéo V30 garantissant la capture de vidéos en Full HD et 4K UHD sans saccades. • Compatibilité étendue : Conçue pour fonctionner de manière optimale sur consoles portables, appareils mobiles et terminaux multimédias. • Résistance et durabilité : Conception conçue pour protéger vos données contre les conditions difficiles (eau, températures extrêmes, rayons X et champs magnétiques).",
-    "price": 34.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/carte-memoire-microsdxc-samsung-t7-128-go-170-mos-uhs-i-u3-a2-v30-4k-uhd-3431751",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Eai4x/3431751_1/re/1200x1200/qt/90/3431751_1.jpg",
-    "detected_at": "2026-10-13T13:54:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
-    "price_history": [
-      {
-        "price": 34.2,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tableau électrique Hager pré-équipé SanVis 4 rangées",
-    "description": "470€ - AKS Distribution Le tableau est composé: - 1 Coffret 4 rangées GD413A - 3 inter diff 63A 30mA type AC CDC764F - 2 inter diff 63A 30mA type A CDA765F - 1 disjoncteur 32A MFS732 - 7 disjoncteurs 10A MFN710 - 12 disjoncteurs 16A MFS716 - 8 disjoncteurs 20A MFS720 - 1 Sonnerie modulaire SU213 - 1 Porte : GP413P ! OFFERTE ! Tableau monté et câblé par AKS",
-    "price": 470.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tableau-electrique-hager-pre-equipe-sanvis-4-rangees-3431750",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/avmQF/3431750_1/re/1200x1200/qt/90/3431750_1.jpg",
-    "detected_at": "2026-10-13T13:53:10+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T21:12:03.426251+00:00",
-    "price_history": [
-      {
-        "price": 470.0,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
       }
     ]
   }
