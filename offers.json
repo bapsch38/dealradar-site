@@ -1,5 +1,509 @@
 [
   {
+    "title": "Système de douche Duravit, sys...uche facile à nettoyer, chromé",
+    "price": 291.87,
+    "reference_price": 334.9,
+    "discount_percent": 12.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0C8NSTRS4",
+    "image_url": "https://m.media-amazon.com/images/P/B0C8NSTRS4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 291.87,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Neff z5101 x 0 Accessoire pour...(Filtre Noir Neff 190 g 320 g)",
+    "price": 40.36,
+    "reference_price": 43.26,
+    "discount_percent": 6.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00ONA7EIE",
+    "image_url": "https://m.media-amazon.com/images/P/B00ONA7EIE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:54",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 40.36,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Neff Z5135X3 Accessoire pour h...irante/Pour mode recirculation",
+    "price": 94.0,
+    "reference_price": 139.99,
+    "discount_percent": 32.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00ONA7F6K",
+    "image_url": "https://m.media-amazon.com/images/P/B00ONA7F6K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:53",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 94.0,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Technic Voiture Porsche 911 GT3 R Rexy AO Racing 42224",
+    "price": 95.19,
+    "reference_price": 108.69,
+    "discount_percent": 12.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FPXFZXC2",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPXFZXC2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:49",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 95.19,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Caso mcg25 Chef Design micro-o...à micro-ondes acier inoxydable",
+    "price": 192.75,
+    "reference_price": 257.99,
+    "discount_percent": 25.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00AW8RKT4",
+    "image_url": "https://m.media-amazon.com/images/P/B00AW8RKT4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:48",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 192.75,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LEGO Technic Hypercar Bugatti Chiron Pur Sport 42222",
+    "price": 39.94,
+    "reference_price": 43.99,
+    "discount_percent": 9.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0FPXDNXZH",
+    "image_url": "https://m.media-amazon.com/images/P/B0FPXDNXZH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:47",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 39.94,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Cherry XTRFY K4V2 TKL, Clavier...eurs Mécaniques MX2A Red, Noir",
+    "price": 76.05,
+    "reference_price": 129.99,
+    "discount_percent": 41.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DHCT6VPG",
+    "image_url": "https://m.media-amazon.com/images/P/B0DHCT6VPG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:20",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 76.05,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Nagi no Asukara-Volume 5: Episode 22-26 [Blu-Ray] [Import]",
+    "price": 32.42,
+    "reference_price": 61.74,
+    "discount_percent": 47.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07GJ397CB",
+    "image_url": "https://m.media-amazon.com/images/P/B07GJ397CB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:18",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 32.42,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "PolarPro - LiteChaser iPhone 1...4 LiteChaser - 3-5 filtres VND",
+    "price": 39.99,
+    "reference_price": 139.27,
+    "discount_percent": 71.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BXB7KWC8",
+    "image_url": "https://m.media-amazon.com/images/P/B0BXB7KWC8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:15",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Neositrín – Spray Poux Peigne Neositrín 60 ml",
+    "price": 9.99,
+    "reference_price": 12.33,
+    "discount_percent": 19.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00TTWTOJI",
+    "image_url": "https://m.media-amazon.com/images/P/B00TTWTOJI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:14",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bopla! Boîtier Universel 02223...s Clair 200 x 150 x 75 1 pc(s)",
+    "price": 77.92,
+    "reference_price": 92.9,
+    "discount_percent": 16.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0077BEFQ0",
+    "image_url": "https://m.media-amazon.com/images/P/B0077BEFQ0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:12",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 77.92,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Küchenprofi 1001461418 Boîte à...n Aluminium Rouge Petit Format",
+    "price": 13.85,
+    "reference_price": 29.56,
+    "discount_percent": 53.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00CWDNF64",
+    "image_url": "https://m.media-amazon.com/images/P/B00CWDNF64.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:11",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.85,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ferplast Giotto Luxor Harnais pour Chien",
+    "price": 22.5,
+    "reference_price": 44.2,
+    "discount_percent": 49.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00DHCZUVM",
+    "image_url": "https://m.media-amazon.com/images/P/B00DHCZUVM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:10",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 22.5,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rubbermaid Commercial Products...e Luxe pour le Transport, Noir",
+    "price": 11.26,
+    "reference_price": 20.48,
+    "discount_percent": 45.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00006ICOT",
+    "image_url": "https://m.media-amazon.com/images/P/B00006ICOT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:09",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.26,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Rapesco 1382 SP64 Agrafeuse Pince - Rose Fuschia/Chrome",
+    "price": 5.82,
+    "reference_price": 6.98,
+    "discount_percent": 16.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01MZBXGPW",
+    "image_url": "https://m.media-amazon.com/images/P/B01MZBXGPW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:08",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.82,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "D'Addario NYXLS1046 Cordes pour Guitare électrique",
+    "price": 39.43,
+    "reference_price": 59.1,
+    "discount_percent": 33.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B077JGLG54",
+    "image_url": "https://m.media-amazon.com/images/P/B077JGLG54.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:05",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 39.43,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Otterbox Protecteur d'écran CP...e les rayures et les éraflures",
+    "price": 19.17,
+    "reference_price": 19.99,
+    "discount_percent": 4.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BN42P1BS",
+    "image_url": "https://m.media-amazon.com/images/P/B0BN42P1BS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:04",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.17,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KNIPEX Mallette à outils « Robust34 » Électro 00 21 36",
+    "price": 786.13,
+    "reference_price": 819.0,
+    "discount_percent": 4.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07BJGJZCC",
+    "image_url": "https://m.media-amazon.com/images/P/B07BJGJZCC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:03",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 786.13,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HUNTER Konstanz Couverture pou...hien Noir Taille L 100 x 70 cm",
+    "price": 39.63,
+    "reference_price": 52.99,
+    "discount_percent": 25.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B074M3C1GC",
+    "image_url": "https://m.media-amazon.com/images/P/B074M3C1GC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:02",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 39.63,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Un Temps pour Elles",
+    "price": 11.71,
+    "reference_price": 16.99,
+    "discount_percent": 31.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DNKMGYYB",
+    "image_url": "https://m.media-amazon.com/images/P/B0DNKMGYYB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:55:01",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.71,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Accessories 2609200208 A...2,3 x 1,25 x 14 mm 1000 pièces",
+    "price": 8.53,
+    "reference_price": 9.74,
+    "discount_percent": 12.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00141BFV2",
+    "image_url": "https://m.media-amazon.com/images/P/B00141BFV2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:54:56",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 8.53,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Filofax Agenda 2026, format A5..., 1 jour par page, en allemand",
+    "price": 14.45,
+    "reference_price": 15.71,
+    "discount_percent": 8.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F7Y8YW58",
+    "image_url": "https://m.media-amazon.com/images/P/B0F7Y8YW58.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:54:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.45,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "EHMANN 0601x00112031 Multipris...errupteur éclairé, câble 1,5 m",
+    "price": 86.42,
+    "reference_price": 151.77,
+    "discount_percent": 43.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B004ZEPH5A",
+    "image_url": "https://m.media-amazon.com/images/P/B004ZEPH5A.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:54:48",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 86.42,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 10x PRO Metal HSS-G Twis...ccessory Rotary Drill/Drivers)",
+    "price": 10.1,
+    "reference_price": 12.36,
+    "discount_percent": 18.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00319X5OA",
+    "image_url": "https://m.media-amazon.com/images/P/B00319X5OA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 15:54:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 10.1,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
     "title": "Cricut Film de Transfert Forte...tible avec toutes les machines",
     "price": 9.09,
     "reference_price": 12.99,
@@ -5645,6 +6149,10 @@
       {
         "price": 15.05,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 15.05,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5666,6 +6174,10 @@
       {
         "price": 17.54,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 17.54,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5687,6 +6199,10 @@
       {
         "price": 12.06,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 12.06,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5708,6 +6224,10 @@
       {
         "price": 69.0,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 69.0,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5729,6 +6249,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5750,6 +6274,10 @@
       {
         "price": 21.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 21.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5771,6 +6299,10 @@
       {
         "price": 29.32,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 29.32,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5792,6 +6324,10 @@
       {
         "price": 283.23,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 283.23,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5813,6 +6349,10 @@
       {
         "price": 366.69,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 366.69,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -5834,6 +6374,10 @@
       {
         "price": 6.72,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 6.72,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -10134,6 +10678,10 @@
       {
         "price": 58.79,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 58.79,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -10159,6 +10707,10 @@
       {
         "price": 209.49,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 209.49,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -10888,507 +11440,164 @@
     ]
   },
   {
-    "title": "Tyrol | Litière Petits Animaux...squ'à 6 Semaines d'Utilisation",
-    "price": 18.99,
-    "reference_price": 29.29,
-    "discount_percent": 35.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CVN4KBXK",
-    "image_url": "https://m.media-amazon.com/images/P/B0CVN4KBXK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:04:13",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 18.99,
-        "observed_at": "2026-10-12T12:59:39.197352+00:00"
-      },
-      {
-        "price": 18.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 18.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TRIXIE Faule Grete Natural Living flammé Bois House-Parent",
-    "price": 35.49,
-    "reference_price": 42.13,
-    "discount_percent": 15.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B01LSLH9EO",
-    "image_url": "https://m.media-amazon.com/images/P/B01LSLH9EO.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 10:04:13",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 35.49,
-        "observed_at": "2026-10-12T12:59:39.197357+00:00"
-      },
-      {
-        "price": 35.49,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 35.49,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Disque d'exercice pour degus, ...râce à l’aire de course plate,",
-    "price": 15.99,
-    "reference_price": 20.86,
-    "discount_percent": 23.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0089DCAXA",
-    "image_url": "https://m.media-amazon.com/images/P/B0089DCAXA.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:28",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-12T12:59:39.197362+00:00"
-      },
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Récipient à Eau décoratif pour..., de Trixie - 15 x 3,5 x 12 cm",
-    "price": 10.44,
-    "reference_price": 16.78,
-    "discount_percent": 37.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B002YK1S1O",
-    "image_url": "https://m.media-amazon.com/images/P/B002YK1S1O.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:27",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.44,
-        "observed_at": "2026-10-12T12:59:39.197367+00:00"
-      },
-      {
-        "price": 10.44,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 10.44,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "VERSELE-LAGA - Complete Cuni S...les - 1,75kg, Agrumes, 1 unité",
-    "price": 14.99,
-    "reference_price": 19.98,
-    "discount_percent": 25.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00LV2I94A",
-    "image_url": "https://m.media-amazon.com/images/P/B00LV2I94A.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:27",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-12T12:59:39.197373+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Trixie Tunnel Avec Foin Et Pétales De Calendula 250 GR",
-    "price": 7.09,
-    "reference_price": 11.98,
-    "discount_percent": 40.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00815PG5A",
-    "image_url": "https://m.media-amazon.com/images/P/B00815PG5A.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:26",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 7.09,
-        "observed_at": "2026-10-12T12:59:39.197378+00:00"
-      },
-      {
-        "price": 7.09,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 7.09,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "JR FARM Nid de Pissenlit 130 g",
-    "price": 13.9,
-    "reference_price": 19.22,
-    "discount_percent": 27.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B01LY9Y41W",
-    "image_url": "https://m.media-amazon.com/images/P/B01LY9Y41W.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:25",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 13.9,
-        "observed_at": "2026-10-12T12:59:39.197384+00:00"
-      },
-      {
-        "price": 13.9,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 13.9,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "C.E. Pattberg AMERICA Ruban Pa...ur Présents, en Toute Occasion",
-    "price": 7.36,
-    "reference_price": 9.28,
-    "discount_percent": 20.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0070TX3DU",
-    "image_url": "https://m.media-amazon.com/images/P/B0070TX3DU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:22",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 7.36,
-        "observed_at": "2026-10-12T12:59:39.197389+00:00"
-      },
-      {
-        "price": 7.36,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 7.36,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "PROXXON 2228774 - Muela corindón plana 2,35 x 2,5 mm (5 u)",
-    "price": 9.78,
-    "reference_price": 11.18,
-    "discount_percent": 12.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0017NOWV2",
-    "image_url": "https://m.media-amazon.com/images/P/B0017NOWV2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:21",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.78,
-        "observed_at": "2026-10-12T12:59:39.197395+00:00"
-      },
-      {
-        "price": 9.78,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 9.78,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Trixie Lapin, Peluche, 15 cm, Beige",
-    "price": 8.04,
-    "reference_price": 28.41,
-    "discount_percent": 71.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B002BB4RJG",
-    "image_url": "https://m.media-amazon.com/images/P/B002BB4RJG.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:20",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T05:04:13.728647+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 8.04,
-        "observed_at": "2026-10-12T12:59:39.197400+00:00"
-      },
-      {
-        "price": 8.04,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 8.04,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Posca Acrylic Paint Marker Set... Color Medium, PC-5M (PC5M 8)",
-    "price": 33.12,
-    "reference_price": 36.8,
-    "discount_percent": 10.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00DBTE7LA",
-    "image_url": "https://m.media-amazon.com/images/P/B00DBTE7LA.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:19",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T06:00:18.976323+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 33.12,
-        "observed_at": "2026-10-12T12:59:39.197405+00:00"
-      },
-      {
-        "price": 33.12,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 33.12,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lindy Rallonge secteur IEC, 3m",
-    "price": 12.14,
-    "reference_price": 14.51,
-    "discount_percent": 16.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B01CHDBSOY",
-    "image_url": "https://m.media-amazon.com/images/P/B01CHDBSOY.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:19",
-    "category": "High-tech",
+    "title": "Rush Rally Origins sur Nintendo Switch (Dématérialisé)",
+    "description": "5,19€ - Nintendo J'ai failli craquer pour art of rally il y a quelques jours, mais vu l'état du portage sur Switch, j'ai vite lâché l'affaire. En cherchant une alternative, je suis tombé sur ce Rush Rally Origins et c'est une excellente surprise. C'est propre, ultra fluide (du vrai 60 fps constant, ça change) et manette en main c'est hyper fun avec une bonne physique. À ce prix sur l'eShop, franchement rien à redire.",
+    "price": 5.19,
+    "reference_price": 12.99,
+    "discount_percent": 60.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nintendo-switch-rush-rally-origins-dematerialise-3432503",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/37vsA/3432503_1/re/1200x1200/qt/90/3432503_1.jpg",
+    "detected_at": "2026-10-14T15:52:05+00:00",
+    "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.nintendo.com/fr-fr/Jeux/Jeux-a-telecharger-sur-Nintendo-Switch/Rush-Rally-Origins-2026728.html",
     "price_history": [
       {
-        "price": 12.14,
-        "observed_at": "2026-10-12T12:59:39.197410+00:00"
-      },
-      {
-        "price": 12.14,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 12.14,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 5.19,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
   {
-    "title": "Rexel 06131 Pack de 1000 Agrafes No 56",
-    "price": 2.91,
-    "reference_price": 3.98,
-    "discount_percent": 26.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B000J66OB4",
-    "image_url": "https://m.media-amazon.com/images/P/B000J66OB4.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:15",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2.91,
-        "observed_at": "2026-10-12T12:59:39.197416+00:00"
-      },
-      {
-        "price": 2.91,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 2.91,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "FEIN Meuleuse d’angle sans fil...IN, sans Batteries ni Chargeur",
-    "price": 427.81,
-    "reference_price": 459.79,
-    "discount_percent": 7.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DG9331GY",
-    "image_url": "https://m.media-amazon.com/images/P/B0DG9331GY.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:14",
+    "title": "Occasion Comme neuf: Interrupteur magnétothermique triphasé Elektronova 4P 32A C32 6kA - 4 modules DIN - 380V",
+    "description": "5,99€ - Amazon Description du produit Interrupteur magnétothermique automatique Elektron 4P C32 32A 6kA 4 modules DIN - conçu pour garantir une continuité maximale de service dans les installations triphasées 380 V. Assure une protection instantanée contre les surcharges et les courts-circuits grâce au mécanisme de déclenchement rapide courbe C32. Le corps en technopolymère auto-extinguible résiste à des températures élevées et aux chocs, tandis que le levier ergonomique est testé pour plus de 20 000 opérations. Produit conforme à la norme IEC/EN 60898-1 et doté d'un marquage CE ; chaque unité est testée en usine pour garantir des performances constantes. Idéal pour les tableaux électriques civils et les petites applications industrielles, s'installe rapidement sur rail DIN 4 sans besoin d'outils spéciaux et s'intègre avec les principaux accessoires de signalisation et de connexion. Couvert par 2 ans de garantie ELEKTRONOVA avec service technique dédié en Italie.",
+    "price": 5.99,
+    "reference_price": 9.98,
+    "discount_percent": 40.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/comme-neuf-interrupteur-magnetothermique-triphase-elektronova-4p-32a-c32-6ka-4-modules-din-380v-3432501",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/PJnn1/3432501_1/re/1200x1200/qt/90/3432501_1.jpg",
+    "detected_at": "2026-10-14T15:49:46+00:00",
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/gp/product/B0FDR9D3CD/ref=ox_sc_act_title_1?smid=A2CVHYRTWLQO9T&psc=1",
     "price_history": [
       {
-        "price": 427.81,
-        "observed_at": "2026-10-12T12:59:39.197421+00:00"
-      },
-      {
-        "price": 427.81,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 427.81,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 5.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
   {
-    "title": "KMP 75–SA Toner équivalent de Samsung MLT-D111L/ELS noir",
-    "price": 31.96,
-    "reference_price": 34.23,
-    "discount_percent": 6.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0104LJZQO",
-    "image_url": "https://m.media-amazon.com/images/P/B0104LJZQO.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-12 09:52:14",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T10:14:57.056510+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 31.96,
-        "observed_at": "2026-10-12T12:59:39.197427+00:00"
-      },
-      {
-        "price": 31.96,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 31.96,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de Société Vraiment Très Futé Schmidt - Roll & Write, 1 à 4 Joueurs, Dès 10 Ans, 30 Min, Français",
-    "price": 9.9,
-    "reference_price": 13.9,
-    "discount_percent": 28.8,
-    "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-societe-vraiment-tres-fute-schmidt-4001504882273-roll-write-1-a-4-joueurs-des-10-ans-30-min-francais-3429482",
-    "image_url": "",
-    "detected_at": "2026-10-09 13:32:12",
-    "category": "Jouets & jeux",
+    "title": "Chaussures de running Saucony Hurricane 25 - course, vert",
+    "description": "79,99€ - Veepee Chaussures de running \"Hurricane 25\" Collection : 2026 Sport : course Hauteur du talon : 3,8 cm Sur le devant : Lacets Plateforme : 3,2 cm Nos chaussures les plus premium et amortissantes de tous les temps. Conçues avec des technologies innovantes, les Hurricane 25 sont pensées pour offrir un confort et un soutien au plus haut niveau. • Confort premium et amortissement maximal grâce à l'épaisse couche de super mousse PWRRUN PB, pour une sensation douce et élastique, associée à la protection réactive de la couche de mousse PWRRUN. • La semelle intérieure SRS offre un confort et des performances exceptionnels. • Géométrie repensée pour mettre en valeur la technologie CenterPath et offrir une protection encore plus grande. • Semelle en caoutchouc XT-900, redessinée pour garantir une plus grande flexibilité, résistance et adhérence. • Tige en mesh technique, douce et premium, pour un confort de luxe à chaque contact. Idéales pour les sorties quotidiennes. Durabilité : modèle vegan contenant des matériaux recyclés. Coloris Vert Composition Dessus / tige : tissu et synthétique Semelle intérieure : tissu et polyuréthane expansé Semelle extérieure : caoutchouc Doublure : tissu Caractéristiques techniques PWRRUN PB PWRRUN SRS CenterPath XT-900",
+    "price": 79.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/saucony-chaussures-de-running-hurricane-25-course-vert-3432500",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/DwYi7/3432500_1/re/1200x1200/qt/90/3432500_1.jpg",
+    "detected_at": "2026-10-14T15:41:52+00:00",
+    "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 9.9,
-        "observed_at": "2026-10-12T12:59:39.197433+00:00"
-      },
-      {
-        "price": 9.9,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 9.9,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 79.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
   {
-    "title": "Jeu de 54 Cartes à Jouer Bicycle Original Rider Back Jumbo Index B0CQ5XF36S - Format Poker, Coloris Aléatoire Rouge ou Bleu",
-    "price": 4.99,
-    "reference_price": 6.78,
-    "discount_percent": 26.4,
-    "source": "www.dealabs.com/rss",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-54-cartes-a-jouer-bicycle-original-rider-back-jumbo-index-b0cq5xf36s-format-poker-coloris-aleatoire-rouge-ou-bleu-3429464",
-    "image_url": "",
-    "detected_at": "2026-10-09 13:32:11",
-    "category": "Jouets & jeux",
+    "title": "36 Sachets M&M'S - 36 x 45g",
+    "description": "17,99€ - Amazon Attends un peu. Quoi ? Quelqu'un a dit 1,6 kilo de M&M's aux cacahuètes ? Tu ne rêves pas. De vraies cacahuètes grillées dans un délicieux chocolat au lait, enrobées d'une coque sucrée et colorée. Donnez à votre réunion d'équipe un petit coup de pouce à la manière d'une cacahuète en distribuant des sachets au lieu de pointer du doigt des diagrammes. Contient 36 sachets de 45g. Passe à 17,99 € avec Prévoyez et Économisez !",
+    "price": 17.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mms-peanut-bonbons-chocolat-au-lait-cacahuetes-36-sachets-de-45g-3432498",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/aH6YI/3432498_1/re/1200x1200/qt/90/3432498_1.jpg",
+    "detected_at": "2026-10-14T15:37:35+00:00",
+    "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 4.99,
-        "observed_at": "2026-10-12T12:59:39.197440+00:00"
-      },
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 17.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
   {
-    "title": "Sélection de pantalons en promotion",
-    "price": 8.99,
-    "reference_price": 59.99,
-    "discount_percent": 85.0,
-    "source": "www.dealabs.com/rss/groupe/mode-accessoires",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-pantalons-homme-en-promotion-chez-mango-outlet-3429447",
-    "image_url": "",
-    "detected_at": "2026-10-09 13:32:07",
+    "title": "Bouteille de vin rouge Château Pavillon Beauregard 2019, Lalande De Pomerol AOC, 75cl (+ 2.62€ en cagnotte)",
+    "description": "17,50€ - Wine and Co Un excellent tarif (14,88€ après cagnottage) pour ce grand millésime 2019 du petit frère du Château Beauregard, célèbre à Pomerol ! Ce Pavillon Beauregard est vinifié dans les mêmes chais mais dans l'appellation voisine de Lalande de Pomerol. C'est un excellent RQP . Prêt à boire ou à attendre jusqu'en 2034. Vivino 4,1/5 Figaro vin 93/100 James Suckling 91/100 Guide Hachette 1*",
+    "price": 17.5,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/bouteille-de-vin-rouge-chateau-pavillon-beauregard-2019-lalande-de-pomerol-aoc-75cl-via-15-cagnottes-3432494",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/VVX6T/3432494_1/re/1200x1200/qt/90/3432494_1.jpg",
+    "detected_at": "2026-10-14T15:28:35+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.5,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sélection de billets de trains en Centre-Val de Loire et vers l’Île-de-France en promotion",
+    "description": "SNCF Avec les Prix Flash Rémi, profitez de 17 000 billets jusqu’à 40 % de réduction pour voyager sur une sélection de trains en Centre-Val de Loire et vers l’Île-de-France du 17 octobre au 1er novembre 2026.",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": 40.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/40voyager-sur-une-selection-de-trains-en-centre-val-de-loire-et-vers-lile-de-france-3432492",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BO3Zh/3432492_1/re/1200x1200/qt/90/3432492_1.jpg",
+    "detected_at": "2026-10-14T15:24:09+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
+  },
+  {
+    "title": "Sweat à capuche Gap V Intx Hood - Flannel Taupe, Tailles S à XL",
+    "description": "27,65€ - Zalando",
+    "price": 27.65,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/gap-v-intx-hood-sweat-a-capuche-flannel-taupe-3432491",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/i2pIb/3432491_1/re/1200x1200/qt/90/3432491_1.jpg",
+    "detected_at": "2026-10-14T15:23:45+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 27.65,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Chaussure de foot basse à crampons Nike Mercurial Superfly 11 Elite Kylian Mbappé pour terrain synthétique",
+    "description": "209,99€ - Nike Coloris : Metallic Gold/Green Glow.",
+    "price": 209.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/nike-mercurial-superfly-11-elite-kylian-mbappe-chaussure-de-foot-basse-a-crampons-pour-terrain-synthetique-3432488",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/D53r2/3432488_1/re/1200x1200/qt/90/3432488_1.jpg",
+    "detected_at": "2026-10-14T15:20:03+00:00",
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
@@ -11396,28 +11605,65 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 8.99,
-        "observed_at": "2026-10-12T12:59:39.197446+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 8.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 209.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
   {
-    "title": "Pack Clavier Corsair Clipper Pro Mini 60 Hall Effect (CH-979101J-FR) + Housse de Protection Offerte - Format 60%, Azerty, Noir ou Blanc",
-    "price": 79.99,
-    "reference_price": 131.1,
-    "discount_percent": 39.0,
-    "source": "www.dealabs.com/rss/groupe/informatique",
-    "url": "https://www.dealabs.com/bons-plans/pack-clavier-gaming-corsair-clipper-pro-mini-60-hall-effect-ch-979101j-fr-housse-de-protection-offerte-format-60-azerty-noir-3429433",
-    "image_url": "",
-    "detected_at": "2026-10-09 13:32:07",
+    "title": "Casque audio sans fil Logitech G G321 Lightspeed",
+    "description": "33,99€ - Amazon • Confort et ajustement dynamiques: casque sans fil avec micro conçu pour un confort léger (210 g) avec un bandeau épais, un tissu maille à haute élasticité et des oreillettes en mousse à mémoire de forme • Technologie sans fil LIGHTSPEED: la technologie sans fil légendaire de Logitech G offre une expérience de gaming sur PC transparente et fiable avec une autonomie de plus de 20 heures pour des sessions de jeu épiques • Microphone 16 kHz: le micro à tige avec fonction de désactivation du son flip-up permet des communications cristallines pour des discussions d’équipe précises et un contrôle facile du micro pendant le jeu • Compatibilité Bluetooth: prêt à l’emploi pour un accès rapide au chat Discord, aux jeux mobiles, à la musique et plus encore, il est pour le gaming en Bluetooth en déplacement • Transducteurs audio: un son riche et détaillé pour un jeu immersif, pour mieux entendre les bruits de pas, ressentir les explosions et détecter les indices du jeu dès la première utilisation • Commandes simplifiées: les boutons d’alimentation, Bluetooth et de volume, facilement accessibles, vous permettent de régler rapidement les paramètres afin de rester concentré sur le jeu • Jouez sans limite: G321 offre un port confortable, une qualité de micro claire, des connexions flexibles et des fonctionnalités avancées, pour améliorer votre configuration et votre expérience de jeu Spécifications Marque: Logitech G Couleur: Blanc Emplacement des oreilles: Extra-auriculaire Facteur de forme: Supra-Auriculaire Impédance: 32 Ohms Insonorisation: Réduction adaptative du bruit, Réduction hybride du bruit Réponse en fréquence: 20 KHz Sensibilité: 78 dB Prise jack pour écouteurs: Pas de jack Nom de modèle: Logitech G321 LIGHTSPEED Numéro du modèle: 981-001569 Nom du modèle: Logitech G321 LIGHTSPEED contenu de la boîte: Casque gaming sans fil G321 LIGHTSPEED, Câble de charge USB-C vers USB-A, Documentation utilisateur, Récepteur sans fil USB-A LIGHTSPEED Description de la tranche d’âge: Adulte pays d'origine: Vietnam Description de la garantie: 2 year manufacturer nombre d'articles: 1 Point fort de l’article: Confort et ajustement dynamiques, micro à tige 16 khz, + de 20 h d’autonomie, PC, PS4, PS5, Nintendo Switch, mobile - Blanc Nombre d’emballages: 1 fabriquant: Logitech numéro de pièce: 981-001569 Classement des meilleures ventes d'Amazon: 34 en Jeux vidéo (Voir les 100 premiers en Jeux vidéo) 2 en Casques gaming pour PC ASIN: B0FL7QLH89 Moyenne des commentaires client: 4,1 4,1 sur 5 étoiles (495) 4,1 sur 5 étoiles Placement des écouteurs auditifs: Extra-auriculaire facteur de forme des écouteurs: Supra-Auriculaire Forme de l'écouteur: Rond Méthode de contrôle: Bouton poussoir unité de mesure de l'impédance: 32 Ohms Contrôle du bruit: Réduction adaptative du bruit, Réduction hybride du bruit Réponse de fréquence: 20 KHz Type de conducteur audio: Dynamique Gamme de fréquence: 20 Hz - 20 KHz appareils compatibles: Ordinateurs portables, ordinateurs de bureau, consoles de jeux, tablettes, téléphones, haut-parleurs intelligents, téléviseurs, téléphones portables Fonctionnalités du produit: Sans fil (2,4 GHz LIGHTSPEED sans fil, Bluetooth), microphone 16 kHz, coussinets en mousse à mémoire de forme, bandeau épais Jack écouteurs: Pas de jack technologie de la connectivité: 2.4 GHz, Bluetooth, USB technologie sans fil: 2,4 GHz, Bluetooth Version Bluetooth: 5.2 Interface matérielle: Bluetooth Interface d'appareil d'entrée: Bluetooth Compatible Bluetooth ?: Oui Type de produit: G321 | +20h Batterie durée de vie moyenne de la batterie: 20 heures Commentaires client",
+    "price": 33.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-audio-sans-fil-logitech-g-g321-lightspeed-3432487",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/66cjr/3432487_1/re/1200x1200/qt/90/3432487_1.jpg",
+    "detected_at": "2026-10-14T15:19:53+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 33.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sweat à capuche Levi's Cozy Up Hoodie - jet black",
+    "description": "52,45€ - Zalando",
+    "price": 52.45,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/levis-cozy-up-hoodie-sweat-a-capuche-jet-black-3432486",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/METQm/3432486_1/re/1200x1200/qt/90/3432486_1.jpg",
+    "detected_at": "2026-10-14T15:19:12+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 52.45,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Casque Conduction Osseuse Bluetooth 6.0, IP7 (Vendeur TIers)",
+    "description": "36,99€ - Amazon - Technologie de conduction osseuse: Ce écouteurs à conduction osseuse utilise une technologie avancée qui transmet le son via des vibrations légères directement à l’oreille interne, sans passer par le conduit auditif. Cette méthode innovante préserve l’intégrité de l’oreille externe, réduisant le gonflement et la fatigue de l’oreille souvent causés par les écouteurs traditionnels. Grâce à un design ouvert et ergonomique, il offre un confort exceptionnel même lors d’une utilisation prolongée. - Sécurité et santé: Conçus pour une utilisation en extérieur et lors d’activités sportives, ces open … À propos de ce produit Technologie de conduction osseuse: Ce écouteurs à conduction osseuse utilise une technologie avancée qui transmet le son via des vibrations légères directement à l’oreille interne, sans passer par le conduit auditif. Cette méthode innovante préserve l’intégrité de l’oreille externe, réduisant le gonflement et la fatigue de l’oreille souvent causés par les écouteurs traditionnels. Grâce à un design ouvert et ergonomique, il offre un confort exceptionnel même lors d’une utilisation prolongée. Sécurité et santé: Conçus pour une utilisation en extérieur et lors d’activités sportives, ces open ear ecouteur favorisent une perception accrue de votre environnement, vous permettant de rester vigilant face à la circulation, aux piétons et aux signaux d’alerte. Leur design ouvert empêche l’accumulation de sueur dans l’oreille, minimisant ainsi les risques d’irritation, d’infections ou d’inconfort liés à une écoute prolongée. Idéal pour un usage quotidien en toute sécurité et confort. IPX7 Étanches et Résistants à la Transpiration: Ces casque conduction osseuse bluetooth à oreille ouverte offrent une protection fiable conforme à la norme IPX7, idéals pour le sport et les activités de plein air sous la pluie ou en cas de forte transpiration. Les écouteurs de sport sont dotés d’un revêtement anticorrosion, facile à nettoyer et durable. Audio Open-Ear pour un Son Amélioré : Grâce à une technologie sonore avancée, ces casque conduction osseuse sans fil offrent un son d'une richesse, d'une profondeur et d'une précision impressionnantes. Le traitement minutieux des fréquences garantit des basses puissantes, des médiums cristallins et des aigus équilibrés. Profitez d'une immersion naturelle avec une grande fidélité des détails et un rendu vocal éclatant, pour un plaisir musical d'exception à chaque écoute. Bluetooth 6.0 Mode et Mode Jeu: Ce casque à conduction osseuse utilise une puce Bluetooth 6.0 avancée pour une connexion rapide, stable et à faible latence. Deux modes d'écoute répondent à différents besoins : le mode Bluetooth 6.0 convient pour la musique quotidienne et les appels, garantissant une qualité sonore claire et stable ; le mode jeu est spécialement conçu pour réduire la latence, assurant une synchronisation parfaite entre le son et l’image, pour une expérience de jeu plus fluide. Autonomie Longue Durée: Ces casque sans fil à oreilles ouvertes offrent jusqu’à 12 heures de lecture musicale continue après seulement 2 heures de charge, idéals pour le sport, les trajets quotidiens, le travail ou les loisirs. Grâce à une batterie fiable, profitez de votre musique et de vos appels en toute tranquillité, où que vous soyez. Les écouteurs sans fil sont équipés d’un écran LED qui affiche le niveau de batterie restant, pour un suivi clair et pratique à tout moment. Commentaires client",
+    "price": 36.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/casque-conduction-osseuse-bluetooth-60-ip7-ecouteurs-a-conduction-osseuse-3432485",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/GaxC6/3432485_1/re/1200x1200/qt/90/3432485_1.jpg",
+    "detected_at": "2026-10-14T15:17:21+00:00",
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
@@ -11425,103 +11671,30 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 79.99,
-        "observed_at": "2026-10-12T12:59:39.197453+00:00"
-      },
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 36.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
   {
-    "title": "Vélo Gravel carbone Scott Addict Gravel 10 2026 - SRAM Force XPLR AXS 1x13v, Roues Fulcrum Rapid Red Carbon, 8.4 kg, XS à XL",
-    "price": 3499.0,
-    "reference_price": 5199.0,
-    "discount_percent": 32.7,
-    "source": "www.dealabs.com/rss/groupe/sports-plein-air",
-    "url": "https://www.dealabs.com/bons-plans/velo-gravel-carbone-scott-addict-gravel-10-2026-sram-force-xplr-axs-1x13v-roues-fulcrum-rapid-red-carbon-84-kg-xs-a-xl-3429290",
-    "image_url": "",
-    "detected_at": "2026-10-09 13:32:06",
-    "category": "Sport & loisirs",
+    "title": "Onimusha: Dawn of Dreams sur PS4/PS5 (Dématérialisé)",
+    "description": "4,99€ - PlayStation Store Plongez au cœur du Japon féodal et incarnez l'Oni des Cendres : Soki, un jeune guerrier puissant, s'allie à ses compagnons pour affronter les redoutables démons connus sous le nom de Genma. À la mort d'Oda Nobunaga, les forces Genma, qui avaient autrefois ravagé le Japon, disparaissent. Toyotomi Hideyoshi prend le pouvoir, laissant croire à beaucoup que la paix est revenue. Ce jour fatidique du 29 juin 1596, une planète étrangement lumineuse apparaît dans le ciel, provoquant une transformation inattendue chez Hideyoshi. Des catastrophes naturelles frappent le pays, plongeant la population dans une angoisse généralisée. Les Genma refont surface et sèment la terreur à travers le pays. Deux ans plus tard, alors que le chaos règne, Hideyoshi entreprend de rassembler des cerisiers venus des confins du Japon pour les faire transporter jusqu'à la capitale. C'est alors qu'apparaît un jeune guerrier doté de pouvoirs obscurs.",
+    "price": 4.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/onimusha-dawn-of-dreams-ps4ps5-dematerialise-3432484",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/rgXLt/3432484_1/re/1200x1200/qt/90/3432484_1.jpg",
+    "detected_at": "2026-10-14T15:17:17+00:00",
+    "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 3499.0,
-        "observed_at": "2026-10-12T12:59:39.197469+00:00"
-      },
-      {
-        "price": 3499.0,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 3499.0,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Couteau multifonctions 7-en-1 Solognac X7 - Lame 8.5 cm Acier 5Cr15, Scie à os, Étui Polyester 1680D X-Access",
-    "price": 23.99,
-    "reference_price": 29.99,
-    "discount_percent": 20.0,
-    "source": "www.dealabs.com/rss/groupe/sports-plein-air",
-    "url": "https://www.dealabs.com/bons-plans/couteau-multifonctions-7-en-1-solognac-x7-lame-85-cm-acier-5cr15-scie-a-os-etui-polyester-1680d-x-access-3429262",
-    "image_url": "",
-    "detected_at": "2026-10-09 13:32:05",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 23.99,
-        "observed_at": "2026-10-12T12:59:39.197475+00:00"
-      },
-      {
-        "price": 23.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 23.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vélo de route carbone Bianchi Sprint 2026 - Shimano 105 Di2 2x12v Électronique, Disques hydrauliques, S/M et M/L",
-    "price": 2269.0,
-    "reference_price": 3590.0,
-    "discount_percent": 36.8,
-    "source": "www.dealabs.com/rss/groupe/sports-plein-air",
-    "url": "https://www.dealabs.com/bons-plans/velo-de-route-carbone-bianchi-sprint-2026-shimano-105-di2-2x12v-electronique-disques-hydrauliques-2-coloris-sm-et-ml-3429280",
-    "image_url": "",
-    "detected_at": "2026-10-09 13:32:05",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2269.0,
-        "observed_at": "2026-10-12T12:59:39.197481+00:00"
-      },
-      {
-        "price": 2269.0,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 2269.0,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
+        "price": 4.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -11593,7 +11766,7 @@
   },
   {
     "title": "Mail Mole gratuit sur PC (Dématérialisé - Steam)",
-    "description": "Lenovo Jeu à récupérer sur Legion Gaming Community le 11 novembre à 18h Pour réclamer votre clé : Assurez-vous d'activer les cookies et d’avoir des comptes Legion Gaming et Twitch valides avant le début de l’événement. À 18h, vous entrerez dans une courte file d’attente avant de réclamer la clé ou pendant le processus de récupération. Effectuez les étapes de confirmation de vos comptes Legion Gaming et Twitch dans Gleam et votre bon de clé à utiliser sur Gamesplanet devrait alors apparaître.",
+    "description": "Lenovo Jeu à récupérer sur Legion Gaming Community le 11 novembre à 18h Pour réclamer votre clé : Assurez-vous d'activer les cookies et d’avoir des comptes Legion Gaming et Twitch valides avant le début de l’événement. À 18h, vous entrerez dans une courte file d’attente avant de réclamer la clé ou pendant le processus de récupération. Effectuez les étapes de confirmation de vos comptes Legion Gaming et Twitch dans Gleam et votre bon de clé à utiliser sur Gamesplanet devrait alors apparaître. Fiche Steam Vous pouvez programmer sur l'application des rappels grâce au bouton \"Sauvegarder\" pour ne pas oublier des deals qui débutent prochainement : 1. Cliquez sur sauvegarder le deal 2. Choisir \"Quand l'offre débute\" Mail Mole est un jeu de plateforme 3D frais et coloré mettant en vedette Molty, le Taupe Facteur le plus rapide du monde qui maintenant doit sauver Carrotland! Explorez des mondes incroyables, faites-vous de nouveaux amis, défiez les MechaTaupes, et laissez-vous emporter dans une aventure palpitante! Par voie aérienne, maritime ou terrestre: aucun endroit est hors de portée pour Molty! À l'aide des Télecanons, Molty devra relever plein de défis pour mener à bien ses livraisons: falaises, des sables mouvants, des quais flottants... Ça va pas être facile, mais les lettres ne se livrent pas par elles-mêmes! Peu importe si c'est sur les plages paradisiaques d'Île Cocotier ou sur les pics glacials de Falaise du Yéti, Molty doit absolument livrer le courrier, faire de nouveaux amis, courir contre des mystérieux taupes robot, résoudre des énigmes et trouver des objets dispersés dans le monde. Laissez-vous emporter dans une aventure qui vous mènera à vous occuper de la livraison la plus importante de votre vie... avant qu'il ne soit trop tard. Sur la Grande Place, en plein centre-ville de Carrotland, vous rencontrerez des voisins très préoccupés par une étrange coupure de courant. Mais plus besoin de s'inquiéter, car Molty est là pour rétablir les centrales d'énergie et sauver le festival de Carrotland ! Tout en recevant des récompenses incroyables! Mail Mole : Xpress Deliveries est une mise à jour de contenu gratuite comprenant : 8 nouveaux niveaux axés sur la vitesse De nouveaux costumes issus de jeux indépendants primés Un nouveau mode photo pour créer des cartes postales estivales Un nouveau mode Boss Rush pour mettre vos compétences à l’épreuve De nouvelles options de speedrun pour les taupes postières les plus rapides Gratuit pour tous les possesseurs de Mail Mole ! [shortcode id=\"20619179\"/][shortcode id=\"20619180\"/]",
     "price": 7.01,
     "reference_price": 7.79,
     "discount_percent": 10.0,
@@ -11705,8 +11878,8 @@
     "title": "Motorisation pour Porte de Garage Somfy Serenia 1100 io (via ODR de 40€)",
     "description": "214,15€ - Leroy Merlin 40€ d'ODR : https://media.adeo.com/media/5990129/media.pdf Motorisation pour porte de garage Serenia 1100 io Ce kit contient 1 moteur Serenia 1100 radio io, 1 commande murale radio, 2 télécommandes Keytis, 1 rail en acier galvanisé en 3 parties, 1 bras de liaison, 2 supports (pour linteau/porte) et 1 sachet de visserie. Compatible avec une porte de garage basculante débordante ou sectionnelle, de dimensions maximales : 11m2. Facile à installer et à utiliser grâce aux réglages du moteur pré-enregistrés en usine, aux télécommandes préprogrammées, à la notice détaillée et aux tutoriels vidéo. Moteur éco-conçu : consommation en mode veille réduite, facilement réparable grâce à la disponibilité des pièces détachées jusqu’à 5 ans après l’arrêt du produit. Produit évolutif : Serenia io est compatible avec la commande intelligente TaHoma switch et le Kit de connectivité (non fournis), pour ouvrir et fermer votre porte de garage à distance, depuis l'application TaHoma sur votre smartphone, ou à la voix avec les assistants vocaux. Technologie radio io-homecontrol : avec l’utilisation de la technologie radio io, vous connaissez le statut de votre porte ouverte/fermée et pouvez modifier sa position à distance avec l’app TaHoma (disponible avec le Kit de connectivité et la commande intelligente TaHoma switch (non fournis)). Dispose d’une ouverture silencieuse grâce à la courroie intégrée. Sécurité : le moteur intègre une détection d’obstacle et stoppe la course de la porte de garage lorsqu’un obstacle est détecté.",
     "price": 214.15,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 299.0,
+    "discount_percent": 28.4,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/motorisation-pour-porte-de-garage-somfy-serenia-1100-io-via-odr-3432470",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/55M3y/3432470_1/re/1200x1200/qt/90/3432470_1.jpg",
@@ -11747,10 +11920,10 @@
   },
   {
     "title": "Hachoir Multifonction Bear - 2 Vitesses, 4 Lames 0,6l + 2L",
-    "description": "17,99€ - Amazon Marque : Bear Caractéristique spéciale : 2 tasses, 2 vitesses Dimensions du produit : 17,4P x 17,4l x 23,7H centimètres Couleur : Bleu Puissance en watts : 300 Watts Capacité du bol : 2 Litres Matériau : Verre sodocalcique Utilisations recommandées pour le produit : Mélange, Déchiquetage, Meulage, Hachage, Broyage Poids de l'article : 2 Kilograms Nombre de vitesses : 2 [deux tailles] : 0.6l + 2L, double tasse / double couteau / double couvercle, couteau tranchant en acier inoxydable de construction à 3 couches pour répondre à tous les besoins de la cuisine. [verre à haute teneur en borosilicium] : résistant aux différences de température entre le froid et la chaleur, peut entrer en contact avec les ingrédients, l'état de fonctionnement en un coup d'œil. [deux vitesses] : Ⅰ \"basse vitesse, convient aux fruits, à l'ail, aux oignons et autres ingrédients mous. \"II\" haute vitesse, adapté aux ingrédients durs tels que les carottes, les noix, la viande, les haricots, etc. [avec tapis antidérapant] : déchiqueteuse électrique avec base antidérapante pour stabiliser le corps et réduire le bruit. [1 an de garantie] : Bear offre une garantie d'un an et un service clientèle disponible 24 heures sur 24. Bear 0,6l + 2L Hachoir Electrique Bol Préparation, Hachoir Multifonction 2 Vitesses, 4 Lames Acier Inoxydable, avec récipient en verre,Base AntidéRapante, Pour Viande, LéGumes, Fruits, Fruit Sec",
+    "description": "17,99€ - Amazon Marque : Bear Caractéristique spéciale : 2 tasses, 2 vitesses Dimensions du produit : 17,4P x 17,4l x 23,7H centimètres Couleur : Bleu Puissance en watts : 300 Watts Capacité du bol : 2 Litres Matériau : Verre sodocalcique Utilisations recommandées pour le produit : Mélange, Déchiquetage, Meulage, Hachage, Broyage Poids de l'article : 2 Kilograms Nombre de vitesses : 2 [deux tailles] : 0.6l + 2L, double tasse / double couteau / double couvercle, couteau tranchant en acier inoxydable de construction à 3 couches pour répondre à tous les besoins de la cuisine. [verre à haute teneur en borosilicium] : résistant aux différences de température entre le froid et la chaleur, peut entrer en contact avec les ingrédients, l'état de fonctionnement en un coup d'œil. [deux vitesses] : Ⅰ \"basse vitesse, convient aux fruits, à l'ail, aux oignons et autres ingrédients mous. \"II\" haute vitesse, adapté aux ingrédients durs tels que les carottes, les noix, la viande, les haricots, etc. [avec tapis antidérapant] : déchiqueteuse électrique avec base antidérapante pour stabiliser le corps et réduire le bruit. [1 an de garantie] : Bear offre une garantie d'un an et un service clientèle disponible 24 heures sur 24. Bear 0,6l + 2L Hachoir Electrique Bol Préparation, Hachoir Multifonction 2 Vitesses, 4 Lames Acier Inoxydable, avec récipient en verre,Base AntidéRapante, Pour Viande, LéGumes, Fruits, Fruit Sec À propos de ce produit ‍[deux tailles] 0.6l + 2L, double tasse / double couteau / double couvercle, couteau tranchant en acier inoxydable de construction à 3 couches pour répondre à tous les besoins de la cuisine. [verre à haute teneur en borosilicium] résistant aux différences de température entre le froid et la chaleur, peut entrer en contact avec les ingrédients, l'état de fonctionnement en un coup d'œil. [deux vitesses] Ⅰ \"basse vitesse, convient aux fruits, à l'ail, aux oignons et autres ingrédients mous. \"II\" haute vitesse, adapté aux ingrédients durs tels que les carottes, les noix, la viande, les haricots, etc. [avec tapis antidérapant] déchiqueteuse électrique avec base antidérapante pour stabiliser le corps et réduire le bruit. [1 an de garantie]:Bear offre une garantie d'un an et un service clientèle disponible 24 heures sur 24. Commentaires client",
     "price": 17.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 30.53,
+    "discount_percent": 41.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/hachoir-multifonction-bear-2-vitesses-4-lames-06l-2l-3432468",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/jDZYU/3432468_1/re/1200x1200/qt/90/3432468_1.jpg",
@@ -11770,9 +11943,9 @@
   {
     "title": "25€ offerts en bon d'achat tous les 50€ d'achat",
     "description": "25 euros offerts en bon d'achats tous les 50 euros d'achat valable dans le magasin émetteur. Idéal pour ceux qui anticipent les achats de Noël. =>hors livres,cartes Pokémon, high tech, sacs réutilisables, coffrets Wonderbox, piles et achats de cartes cadeaux",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
+    "price": 3.56,
+    "reference_price": 4.4,
+    "discount_percent": 19.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/la-grande-recre-25-euros-offerts-en-bon-dachat-tous-les-50-euros-dachat-3432469",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/lGBtO/3432469_1/re/1200x1200/qt/90/3432469_1.jpg",
@@ -11782,14 +11955,19 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 3.56,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
+      }
+    ]
   },
   {
     "title": "TV 55'' LG QNED Evo AI MiniLED 55QNED85 - 4K UHD, 120Hz",
     "description": "509,99€ - Amazon Caractéristiques GENERAL Type TV LED 55'' NORMES EUROPEENNES Taille d'écran (cm) 139 Taille de l'écran (pouces) 55 Classe énergétique E Conso. d'énergie mode SDR pour 1000 h (kWh) 63.9 Classe d'efficacité énergétique en mode HDR G Conso.d'énergie en mode HDR pour 1000 h (kWh) 119 Conso. électrique en mode veille (W) 0.5 Conso. électrique en mode veille avec maintien de la connexion au réseau (W) 2.0 Type Téléviseur Rapport de taille 16:9 Résolution d'écran (pixels) 3840 x 2160 Surface visible de l'écran 82.3 dm² Technologie d'affichage utilisée LED LCD Taux de fréquence de rafraîchissement de l'image (par défaut) 120 Hz IMAGE Gamme Qned Evo Type d'écran Mini LED Type de LED QNED Écran incurvé Non Fréquence (Hz) 120 Hz (Native) / 144 (Optimisée) Type de résolution UHD /4K Smart TV (TV connectée) Oui HDR (High Dynamic Range) Oui Amélioration de l'image Dynamic QNED Color Pro, AI Picture Pro (AI Upscaling, Dynamic Tone Mapping, HDR Expression Enhancing), AI Genre Selection, AI Brightness Control, Mode Filmmaker, Precision Dimming, Motion Pro ... Processeur(s) a8 AI Processor 4K Gen3 Type de pied(s) Pieds latéraux Couleur Bleu FONCTIONS Wi-Fi Oui Bluetooth Oui Internet TV WebOS 26 Fonction(s) spéciale(s) Smart TV LG Content Store (Apps de streaming, Apps de Cloud Gaming), LG Channels, Assistance vocale LG ThinQ, Alexa, Compatibilité Google Assistant Fonction(s) spéciale(s) Gaming Compatibilité AMD FreeSync, Mode HGIG, Optimiseur de jeu, Tableau de bord de jeu, ALLM, VRR, Motion Booster, Dolby Vision Gaming 4K Autre(s) fonction(s) Contrôle des objets connectés (LG ThinQ, Google Home, Compatibilité Matter, Compatibilité Apple Home), Google Cast, Airplay 2, Télécommande via application mobile, Navigateur Web, Fonctionnalités AI (AI Search, AI Chatbot, AI Voice ID, Recommandations via TUNER & RECEPTION Tuner TNT HD Oui Tuner TNT 2 (DVB-T2) Oui Tuner satellite (DVB-S2) Oui Tuner câble HD (DVB-C) Oui Double Tuner Non HbbTV Oui Compatible CI+ Oui EPG (guide électronique des programmes) Oui Autre Télétexte, Sous-titres, Audio description CONNECTIQUE HDMI Oui Nbre entrée(s) HDMI 4 Port(s) USB Oui Nbre de port(s) USB 2 Type de port(s) USB 2.0 Port Ethernet RJ-45 Oui Port CI+ / PCMCIA Oui Autre(s) Prise antenne/Cable x2, Sortie Optique Digital SON Puissance RMS (W) 20 Type de son a8 AI Sound Pro Autre Clear Voice Pro, AI Acoustic Tuning, Mode audio personnalisé via AI, Compatibilité WiSa, Synchronisation du son, Son simultané (TV/Sortie jack, Optique), Bluetooth Surround, WOW Orchestra ACCESSOIRES Accessoire(s) inclus Télécommande + piles AAA, Câble d'alimentation Compatibilité norme VESA (support mural) 300 x 300 DIMENSIONS & POIDS Dimensions sans pied (L x H x P en cm) 123.6 x 71.6 x 2.97 Poids sans pied (kg) 14.5 Dimensions avec pied (L x H x P en cm) 123.6 x 78.3 x 25.7 Poids avec pied (kg) 14.9 PIECES DETACHEES ET REPARABILITES Disponibilité pièces détachées (an) 007 Date d'effet Achat du consommateur. Indice de durabilité (Note /10) 8 À propos de ce produit TV Commentaires client",
     "price": 509.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 786.75,
+    "discount_percent": 35.2,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/tv-55-lg-qned-evo-ai-miniled-55qned85-4k-uhd-120hz-3432467",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/n09HR/3432467_1/re/1200x1200/qt/90/3432467_1.jpg",
@@ -11810,8 +11988,8 @@
     "title": "Montre connectée Garmin Forerunner 255",
     "description": "166,26€ - AliExpress département unisexe-adulte Assistant vocal intégré no Version compatible Bluetooth 5.0 Métriques mesurées Moniteur de fréquence cardiaque, Moniteur d'oxygène sanguin, Moniteur de sommeil, Moniteur de Stress Activité suivie Suivi des pas, Suivi de distance,Suivi des calories, Suivi d'activité Catégorie Montres intelligentes Matériau de l'écran AMOLED Groupe d'âge de candidature ADULTE Forme de l'écran rond Type de fermoir boucle à crochet type d'ordinateur portable montre intelligente",
     "price": 166.26,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 179.26,
+    "discount_percent": 7.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/montre-connectee-garmin-forerunner-255-3432466",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/y67MX/3432466_1/re/1200x1200/qt/90/3432466_1.jpg",
@@ -11832,8 +12010,8 @@
     "title": "Lot de 15 sacs poubelle by Amazon 120 L avec cordon de serrage",
     "description": "2,74€ - Amazon Les sacs poubelle by Amazon de 120 L passent à 2,74€ le rouleau de 15, soit 0,18€ le sac, contre 5,48€ à 7€ ces dernières semaines selon l'historique Amazon. En magasin de bricolage, le 120 L est plutôt à 0,43€ pièce (Castorama, 20 sacs à 8,59€) ou 0,50€ (Brico Dépôt). Sacs noirs avec cordon de serrage, annoncés résistants à la déchirure, pratiques pour les déchets verts ou un déménagement. Vendu et expédié par Amazon",
     "price": 2.74,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 5.48,
+    "discount_percent": 50.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/prime-lot-de-15-sacs-poubelle-by-amazon-120-l-avec-cordon-de-serrage-274eur-3432465",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/OeJVd/3432465_1/re/1200x1200/qt/90/3432465_1.jpg",
@@ -11854,8 +12032,8 @@
     "title": "Machine à Café DeLonghi Lattissima One EN 510.W - Machine à capsule",
     "description": "176,90€ - Alternate La machine à café Nespresso Lattissima One EN 510.W de DeLonghi est un système de lait à une touche qui vous permet de préparer des préparations de café au lait de style barista par simple pression d'un bouton. Il est parfait pour préparer votre espresso ou lungo habituel, ainsi que votre cappuccino ou latte macchiato occasionnel. Un nouveau système innovant de lait frais permet de préparer toutes les recettes de café au lait en appuyant sur un seul bouton. Le nettoyage est également très simple car le récipient à lait passe au lave-vaisselle. La machine est spécialement équipée d'un système permettant de préparer des boissons lactées individuelles: tout le lait contenu dans le récipient à lait est utilisé pour la boisson correspondante, de sorte qu'aucun lait n'est gaspillé. Le design compact et haut de gamme se caractérise par des surfaces et des matériaux de haute qualité, tels que le levier chromé et les motifs de lignes subtiles en finition brillante et mate.",
     "price": 176.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 199.9,
+    "discount_percent": 11.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/delonghi-lattissima-one-en-510w-machine-a-capsule-3432463",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/U4D7d/3432463_1/re/1200x1200/qt/90/3432463_1.jpg",
@@ -11876,8 +12054,8 @@
     "title": "Baskets basses Tommy Hilfiger - white",
     "description": "69,95€ - Zalando",
     "price": 69.95,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 99.95,
+    "discount_percent": 30.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/tommy-hilfiger-baskets-basses-white-3432462",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/3BpUF/3432462_1/re/1200x1200/qt/90/3432462_1.jpg",
@@ -11912,11 +12090,28 @@
     "price_history": []
   },
   {
+    "title": "5% à 30% de réduction sur une sélection d'articles",
+    "description": "Decathlon De 5% à 30 % de réduction sur une sélection de produits sur le site et l'application Décathlon. La commence demain, mais le code fonctionne déjà",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/5-a-30-de-reduction-sur-une-selection-darticles-3432461",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/83_4/re/1200x1200/qt/90/83_4.jpg",
+    "detected_at": "2026-10-14T14:57:37+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": []
+  },
+  {
     "title": "Flacon de 280ml de Gel Exfoliant Medicube Body Peel Shot (Vendeur Tiers - Via Prévoyez et Économisez)",
     "description": "15,81€ - Amazon Informations de sécurité For external use only Ingrédients Aqua, Alcohol Denat., Carbomer, Propylene Glycol, Quaternium-60, 1,2-Hexanediol, Dipropylene Glycol, Cetrimonium Methosulfate, Caprylyl Methicone, Caprylyl Glycol, Polyglyceryl-10 Oleate, Ethylhexylglycerin, Charcoal Powder, Hypochlorous Acid, Chlorella Vulgaris Extract, Glucose, Butylene Glycol, Fructooligosaccharides, Fructose, Tocopherol, Sodium Hyaluronate Crosspolymer, Cynanchum Atratum Extract, Polyglutamic Acid, Xylose, Althaea Rosea Flower Extract, Ceramide NP, Oryza Sativa Bran Water, Sodium Chloride, Panthenol, Allantoin, Melaleuca Alternifolia Leaf Extract, Oryza Sativa Extract, Protease, Centella Asiatica Extract, Hydrolyzed Hyaluronic Acid Conseils d'utilisation Appliquer sur la peau, laisser agir pendant quelques minutes, puis rincer à l'eau claire. Spécifications Dimensions du produit (L x l x h): 7 x 7 x 15 cm; 50 grammes Fabricant: APR ASIN: B0FPCC599C Pays d'origine: Corée (République de) Mises à jour logicielles garanties jusqu’à: Information non disponible Marque: medicube Forme de l'article: Lotion Type de peau: Tous Avantages du produit: Gommage Volume de l'article: 280 Millilitres Nombre d'articles: 1 Poids de l'article: 50 Grammes Utilisations recommandées pour le produit: Exfoliation, Smoothing Rough Patches, Improving Uneven Texture Nombre d'unités: 280.0 millilitre Type d'exfoliant pour la peau: Chimique Conditionnement du produit: Lotion Avantages: Gommage Ingrédients spéciaux: Acide Hypochlorique Type de teint: Plusieurs tons de peau Usages recommandés pour le produit: Exfoliation, Smoothing Rough Patches, Improving Uneven Texture Volume de l’article: 280 Millilitres Nombre d' articles: 1 Unité de comptage: 280.0 millilitre Taille: 280 ml (Lot de 1) Point fort de l’article: Exfoliant corps doux pour cellules mortes & texture irrégulière, avec extrait de riz & Panthénol, Hydratation, 280ml Classement des meilleures ventes d'Amazon: 34 en Beauté et Parfum (Voir les 100 premiers en Beauté et Parfum) 1 en Gommages pour le corps Moyenne des commentaires client: 4,3 4,3 sur 5 étoiles (2 885) 4,3 sur 5 étoiles Commentaires client",
     "price": 15.81,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 18.57,
+    "discount_percent": 14.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/medicube-body-peel-shot-a-lacide-hypochloreux-3432460",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/rwJq8/3432460_1/re/1200x1200/qt/90/3432460_1.jpg",
@@ -11937,8 +12132,8 @@
     "title": "Baskets basses Nike SB Chron 2 - fauna brown/desert dust, Tailles 41, 42, 42.5, 43, 45",
     "description": "55,95€ - Zalando",
     "price": 55.95,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 69.95,
+    "discount_percent": 20.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/nike-sb-chron-2-unisex-baskets-basses-fauna-browndesert-dustbaroque-browngum-brown-41-42-425-43-45-3432458",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/suF4Z/3432458_1/re/1200x1200/qt/90/3432458_1.jpg",
@@ -11959,8 +12154,8 @@
     "title": "Bouilloire numérique en acier inoxydable SilverCrest - 1,7L",
     "description": "29,99€ - Lidl Description Capacité utile : maximale 1,7 L Matériaux : métal, plastique Puissance : maximum 3000 W SILVERCREST® Bouilloire numérique en acier inoxydable, 1,7 L Caractéristiques Avec boîtier et plaque chauffante en acier inoxydable de haute qualité Utilisation sur la base 4 niveaux de température au choix (70 / 80 / 90 / 100 °C) Signal acoustique lorsque la température réglée est atteinte et lors du placement sur la station de base Touches de marche/arrêt et de commande avec rétroéclairage LED Fait bouillir 1 l d'eau en 2 minutes et 38 secondes Indicateur de niveau d'eau et filtre anti-calcaire amovible Protection contre le fonctionnement à sec et la surchauffe Enroulement de câble intégré Station de base pivotante à 360° avec rangement pour le câble Excellente stabilité grâce aux pieds antidérapants Caractéristiques du produit Capacité utile : maximum 1,7 L Matériaux : Acier inoxydable, plastique Puissance : maximum 3000 W Temps d'ébullition : 2 minutes et 38 secondes Couvercle : oui Protection contre le fonctionnement à sec et la surchauffe : oui Bouilloire : sans fil et pivotante à 360° Filtre anti-calcaire : oui, amovible Indicateur de niveau d'eau : oui Longueur du câble : 80 cm Dimensions : Bouilloire (avec poignée) : L 22,3 x Ø 15,4 x H 23,52 cm (hauteur sans la base) Base : Ø 15,4 x H 1,8 cm Poids : Bouilloire : 940 g; Base : 240 g",
     "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 39.99,
+    "discount_percent": 25.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/bouilloire-numerique-en-acier-inoxydable-silvercrest-17l-3432457",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/4Vfbq/3432457_1/re/1200x1200/qt/90/3432457_1.jpg",
@@ -11981,8 +12176,8 @@
     "title": "Écran PC 27\" MSI MAG 274QF X24 - QHD, Rapid IPS, 240 Hz via DisplayPort, FreeSync Premium",
     "description": "169,90€ - Grosbill Le MSI MAG 274QF X24 est à 169,90 € chez Grosbill, vendu et expédié directement par le marchand. Avec les 6,99 € de livraison standard à domicile ou en point relais affichés pour la France métropolitaine, cela fait 176,89 € TTC. Retrait en magasin annoncé gratuit, sous réserve du stock local. Aucun code nécessaire. Un tarif intéressant pour un écran QHD 240 Hz en IPS, avec quelques concessions à connaître : • Dalle Rapid IPS de 27 pouces, 2560 × 1440, FreeSync Premium. • 240 Hz via DisplayPort 1.4a. Les deux ports HDMI 2.0b sont limités à 144 Hz en QHD selon MSI. • Pied inclinable uniquement : pas de réglage en hauteur ni de pivot. VESA 100 × 100. • Luminosité annoncée de 250 cd/m². La mention « HDR Ready » ne correspond pas à des performances HDR haut de gamme. • Câble DisplayPort 1.4a et câble d’alimentation inclus. Pas de haut-parleurs intégrés. • Les 0,5 ms sont une valeur minimale annoncée par le constructeur, pas une mesure indépendante. Attention à la fiche Grosbill : un passage mentionne 180 Hz, mais le titre, la référence 9S6-3CE41H-051 et les spécifications MSI confirment bien 240 Hz via DisplayPort. Fiche constructeur : https://www.msi.com/Monitor/MAG-274QF-X24/Specification Prix, ajout d’un seul écran au panier et total de livraison recontrôlés le 14 octobre vers 16 h 47, heure de Paris. La fiche indique « En stock », sans quantité connue. Les frais sont ceux affichés pour la France métropolitaine avant validation d’une adresse précise. Aucune date de fin spécifique n’est annoncée. Les codes officiels TRUST15 et WISE5 ont été testés et ne s’appliquent pas à cet écran. Ce n’est pas un record historique : la même référence a déjà été proposée à 167,60 € livré dans des offres aujourd’hui expirées. Les deux avis vérifiés sur Grosbill sont partagés (3,5/5), avec un retour positif sur l’image et un autre déçu par la réactivité ; je n’ai pas testé cet écran personnellement.",
     "price": 169.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 185.0,
+    "discount_percent": 8.2,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/ecran-pc-27-msi-mag-274qf-x24-qhd-rapid-ips-240-hz-via-displayport-freesync-premium-3432456",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/elSrA/3432456_1/re/1200x1200/qt/90/3432456_1.jpg",
@@ -12245,8 +12440,8 @@
     "title": "Huile de Massage pour Bébé Biolane - 50 ml",
     "description": "5€ - Amazon HUILE DE MASSAGE L'huile de massage pour bébé Biolane favorise la détente et l'apaisement de bébé, le préparant doucement à une douce nuit. Cette huile de massage offre une expérience de massage douce et apaisante, et crée un vrai moment de complicité entre le parent et le bébé. RITUEL DU SOIR L'huile de massage Biolane offre un moment de détente conçue pour le rituel du soir. L'huile permet de préparer en douceur bébé avant une nuit paisible, massez délicatement la peau avec l'huile relaxante afin d'aider bébé à se détendre. L'arôme subtil et apaisant de l'huile crée une atmosphère relaxante pour le rituel du soir. FAVORISE LA DÉTENTE L'huile massage et relaxation de Biolane aide à apaiser et calmer bébé. Des mouvements doux et réguliers aident les bébés agités à se calmer et permettent d'améliorer leur sommeil. Masser les bras, les jambes, le dos et le ventre pour bénéficier de bienfaits apaisants pour votre bébé. INGRÉDIENTS D'ORIGINE NATURELLE Formulées à 99% d'ingrédients d'origine naturelle, l'huile de massage relaxante Biolane est composées d'huiles nourrissantes de sésame, cameline et amande douce. La formule douce a été élaborée pour prendre soin des peaux sensibles des bébés. Testée cliniquement sous contrôle médical pour la grande sécurité des bébés. L'huile massage relaxante pour bébé laisse une peau douce. FABRIQUÉE EN FRANCE L'huile de massage relaxante de Biolane est fabriquée en France, assurant une grande qualité de produit. Format de 50ml à utiliser tous les soirs, pour un moment de détente, de partage et d'apaisement.",
     "price": 5.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 5.3,
+    "discount_percent": 5.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/biolane-huile-de-massage-bebe-favorise-la-detente-50ml-3432445",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/LwjOe/3432445_1/re/1200x1200/qt/90/3432445_1.jpg",
@@ -12267,8 +12462,8 @@
     "title": "Sac de transport Extensible pour Chats Pecute - L 32 x l 26 x H 42 cm",
     "description": "43,71€ - Amazon 【REMARQUE】Avant d'acheter, veuillez mesurer la hauteur assise du chien (des pattes avant au sommet de la tête) pour vous assurer que la hauteur assise du chien est dans la plage recommandée, sinon elle peut être trop grande ou trop petite ; Taille L : 42*32*26cm, convient aux chats animal de moins de 5kg ; Taille XL : 48*39*28cm, pour les animal moins de 7kg. 【Extensible Et Pliable】 Pecute Sac Transport Chat Chien: Basé sur des sacs à dos de transport chat chien ordinaires, il augmentera l'espace d'expansion. Après l'expansion, l'espace intérieur augmentera de 90 %. Pliable, lorsque vous n'avez pas besoin de l'utiliser, le sac à dos chat petit chien plié prend très peu de place 【Une Circulation d'air Maximale et des Entrées Multiples】Pecute Sac a Dos pour Chien : Comprend des fenêtres à mailles respirâtes sur trois côtés, qui donnent beaucoup d'air aux chiens et aux chats. Il vous permet d'observer facilement les mouvements de votre animal, pendant que vous l'observez, il profite également du paysage extérieur. Grâce aux fermetures éclair sur le dessus et sur le devant, vos adorables animaux peuvent facilement entrer et sortir de notre cage de transport 【La Sécurité et Le Stockage】Pecute Sac a Dos pour animaux de compagnie de Transport：①Il adopte une fermeture éclair de type verrou pour empêcher les animaux de compagnie de l'ouvrir. ②L'intérieur du sac à dos est équipé d'une corde de sécurité qui peut être attachée au collier pour empêcher les animaux de compagnie de tomber accidentellement. ③Les poches des deux côtés peuvent contenir des sacs de nourriture et de déchets ainsi que certains accessoires nécessaires 【Une Conception Qui Absorbe Les Chocs】Pecute Sac aDos Chiens: Respirant, résistant à la décompression et aux chocs, le coussin dorsal en éponge alvéolaire, qui allège la pression et est facilement déplaçable. Spécifications Couleur: Bleu-Respirant Marque: Pecute Dimensions du produit: 32L x 26l x 42H centimètres Matériau: Mailles Caractéristique spéciale: Bandoulière réglable, Coffre-fort extérieur, Expansible Poids de l'article: 3,5 Livres Utilisations recommandées pour le produit: Transport de petits chiens ou chats pendant les voyages, les activités de plein air ou les visites vétérinaires Voir plus Taille: L 32 x l 26 x H 42 cm Style: Moderne Type de fermeture: Fermeture éclair Nom du modèle: Sac à dos Chat Nombre d' articles: 1 Fabricant: pecute Type d’animal de compagnie: Chat Pays d'origine: Chine Composants inclus: sac à dos chat Numéro du modèle: PC-PCB04 Espèces visées: Chien Numéro de pièce: PSM-05M Unité de comptage: 1.0 unité Description de la garantie: 1 ans constructeur Public visé: Chat, Chien Classement des meilleures ventes d'Amazon: 1143 en Animalerie (Voir les 100 premiers en Animalerie) 4 en Sac à dos de transport pour chiens ASIN: B08BZ5SZ65 Moyenne des commentaires client: 4,7 4,7 sur 5 étoiles (1 530) 4,7 sur 5 étoiles Dimensions de l'article L x l x H: 32L x 26l x 42H centimètres Poids de l’article: 3,5 Livres Fonctionnalités spéciales: Bandoulière réglable, Coffre-fort extérieur, Expansible Taille de la race: Petit Compatible avec le type de véhicule: Bicyclette, Voiture Usages recommandés pour le produit: Transport de petits chiens ou chats pendant les voyages, les activités de plein air ou les visites vétérinaires Charge maximale recommandée: 11 livres Point fort de l’article: Sac de Transport pour Chat Solide et Sécurisé avec Matelas en Peluche Amovible, Portable Sac a dos Chien pour Voyage, Achats Commentaires client",
     "price": 43.71,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 48.0,
+    "discount_percent": 8.9,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/pecute-sac-a-dos-chat-extensible-sac-transport-chat-respirant-bleu-3432444",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/eQYQT/3432444_1/re/1200x1200/qt/90/3432444_1.jpg",
@@ -12311,8 +12506,8 @@
     "title": "Baskets basses Calvin Klein Classic Cupsole - black/bright white",
     "description": "54,95€ - Zalando",
     "price": 54.95,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 69.99,
+    "discount_percent": 21.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/calvin-klein-classic-cupsole-laceup-baskets-basses-blackbright-white-3432442",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/f3kB3/3432442_1/re/1200x1200/qt/90/3432442_1.jpg",
@@ -23325,6 +23520,10 @@
       {
         "price": 429.95,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 429.95,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23347,6 +23546,10 @@
       {
         "price": 1349.1,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 1349.1,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23369,6 +23572,10 @@
       {
         "price": 1.47,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 1.47,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23391,6 +23598,10 @@
       {
         "price": 1.0,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 1.0,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23413,6 +23624,10 @@
       {
         "price": 19.79,
         "observed_at": "2026-10-13T15:55:49.257502+00:00"
+      },
+      {
+        "price": 19.79,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23435,6 +23650,10 @@
       {
         "price": 53.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 53.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23457,6 +23676,10 @@
       {
         "price": 19.85,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 19.85,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23479,6 +23702,10 @@
       {
         "price": 11.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 11.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23501,6 +23728,10 @@
       {
         "price": 2.89,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 2.89,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23523,6 +23754,10 @@
       {
         "price": 49.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23545,6 +23780,10 @@
       {
         "price": 69.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23567,6 +23806,10 @@
       {
         "price": 49.0,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 49.0,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23589,6 +23832,10 @@
       {
         "price": 116.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 116.99,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23611,6 +23858,10 @@
       {
         "price": 17.98,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 17.98,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23633,6 +23884,10 @@
       {
         "price": 11.15,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 11.15,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23655,6 +23910,10 @@
       {
         "price": 24.29,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
+      },
+      {
+        "price": 24.29,
+        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23941,777 +24200,6 @@
       {
         "price": 4.47,
         "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Câble Chargeur Nylon Tressé Aioneus - 100W, USB C vers USB C , 2m PD 5A (Via Coupon - Vendeur Tiers)",
-    "description": "3,44€ - Amazon De retour pour 1,40€ de moins ! Marque : Aioneus Type de connecteur : USB Type C Type de câble : USB Appareils compatibles ; Ordinateur portable, Smartphone, Tablette, 【Laptops】MacBook Air 2020, MacBook Air M2 2023, MacBook Pro 13, MacBook Pro 14, MacBook Pro 16; Dell XPS 13 9360/9380, Dell XPS 13 9315; ThinkPad X1 Carbon, ThinkPad X1 Yoga, ThinkPad E490, ThinkPad X390; Lenovo Legion 5; HP Spectre Folio, HP Spectre x360 14, HP Envy 13, HP Elite Dragonfly G3 ; Google Pixelbook, Google Pixelbook Go; Microsoft Surface Book 2, Surface Book 4, Surface Laptop 5, Surface Pro 9【Tablets】iPad Pro 12.9-inch 1 2 3 4 5 6 , iPad Pro 11-inch 1 2 3 , iPad Pro 10.5-inch 1, iPad Air 4 5, iPad mini 6, iPad 10, Samsung Galaxy Tab S9 Ultra, Samsung Galaxy Tab S9+, Samsung Galaxy Tab S9, Samsung Galaxy Tab S8 Ultra, Samsung Galaxy Tab S8+, Samsung Galaxy Tab S8, Surface Pro 9, Surface Pro 9 5G, Surface Pro 8, Surface Pro 7+, Surface Pro 7, Lenovo Yoga Tab 13, Lenovo Yoga Tab 11, 【iPhone】iPhone 17, iPhone 17 Air, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max【Samsung】Samsung Galaxy S25 Ultra , S25, Samsung Galaxy S24 Ultra, S24, Samsung Galaxy S23 Ultra, S23+, S23, Samsung Galaxy S22, S22 Ultra, S22+, S21 Ultra, S21, S21 Plus, S20 Ultra, S10, S10 Plus, S10e, S9, S9 Plus, S8, S8 Plus, Galaxy Note 20, Note 10, Note 9, Note 8 【Google】 Google Pixel 9 Pro, Google Pixel 9, Google Pixel 8 Pro, Google Pixel 8, Google Pixel 7 Pro, Google Pixel 7, Google Pixel 6, Google Pixel 6 Pro, Google Pixel 5, Google Pixel 4A, Google Pixel 3a, Google Pixel 3 XL, Google Pixel 3, Google Pixel 2 XL, Google Pixel 2 【Xiaomi】 Xiaomi 15 Ultra, Redmi 14C, Redmi Note 14 Pro +, Redmi Note 11, Redmi Note 10, Redmi Note 9, Redmi Note 8, Poco F3, Poco X3, Poco M3, Mi 9, Mi 9T, Mi 8, Mi 6, Mi Mix, Mi Mix 2, Mi Mix 2S, Mi Mix 3, Mi A3, Mi A2【AirPods】 AirPods Max, AirPods Pro 2【Others】 DJI Mini 3 Pro, Nintendo Switch, Switch OLED, Switch Lite, Switch 2, Steam Deck LCD und OLED, ASUS ROG Ally, ROG Ally X, AYANEO 2S, GPD Win 4, Logitech G CloudOrdinateur portable, Smartphone, Tablette, 【Laptops】MacBook Air 2020, MacBook Air M2 2… Caractéristique spéciale : Charge rapide, Haute vitesse, Légère, Transfert de donnée, Tressée Modèles de téléphone compatibles : 【Laptops】MacBook Air 2020, MacBook Air M2 2023, MacBook Pro 13, MacBook Pro 14, MacBook Pro 16; Dell XPS 13 9360/9380, Dell XPS 13 9315; ThinkPad X1 Carbon, ThinkPad X1 Yoga, ThinkPad E490, ThinkPad X390; Lenovo Legion 5; HP Spectre Folio, HP Spectre x360 14, HP Envy 13, HP Elite Dragonfly G3 ; Google Pixelbook, Google Pixelbook Go; Microsoft Surface Book 2, Surface Book 4, Surface Laptop 5, Surface Pro 9【Tablets】iPad Pro 12.9-inch 1 2 3 4 5 6 , iPad Pro 11-inch 1 2 3 , iPad Pro 10.5-inch 1, iPad Air 4 5, iPad mini 6, iPad 10, Samsung Galaxy Tab S9 Ultra, Samsung Galaxy Tab S9+, Samsung Galaxy Tab S9, Samsung Galaxy Tab S8 Ultra, Samsung Galaxy Tab S8+, Samsung Galaxy Tab S8, Surface Pro 9, Surface Pro 9 5G, Surface Pro 8, Surface Pro 7+, Surface Pro 7, Lenovo Yoga Tab 13, Lenovo Yoga Tab 11, 【iPhone】iPhone 17, iPhone 17 Air, iPhone 17 Pro, iPhone 17 Pro Max, iPhone 16, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max【Samsung】Samsung Galaxy S25 Ultra , S25, Samsung Galaxy S24 Ultra, S24, Samsung Galaxy S23 Ultra, S23+, S23, Samsung Galaxy S22, S22 Ultra, S22+, S21 Ultra, S21, S21 Plus, S20 Ultra, S10, S10 Plus, S10e, S9, S9 Plus, S8, S8 Plus, Galaxy Note 20, Note 10, Note 9, Note 8 【Google】 Google Pixel 9 Pro, Google Pixel 9, Google Pixel 8 Pro, Google Pixel 8, Google Pixel 7 Pro, Google Pixel 7, Google Pixel 6, Google Pixel 6 Pro, Google Pixel 5, Google Pixel 4A, Google Pixel 3a, Google Pixel 3 XL, Google Pixel 3, Google Pixel 2 XL, Google Pixel 2 【Xiaomi】 Xiaomi 15 Ultra, Redmi 14C, Redmi Note 14 Pro +, Redmi Note 11, Redmi Note 10, Redmi Note 9, Redmi N",
-    "price": 3.44,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cable-chargeur-nylon-tresse-aioneus-100w-usb-c-vers-usb-c-2m-pd-5a-via-coupon-vendeur-tiers-3431796",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ID0fk/3431796_1/re/1200x1200/qt/90/3431796_1.jpg",
-    "detected_at": "2026-10-13T14:49:28+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "https://www.amazon.fr/dp/B0FVXZQF44",
-    "price_history": [
-      {
-        "price": 3.44,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 3.44,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Club Carrefour] Bon d'achat de 5€ offerts tous les 15€ d’achat sur les bières et cidres",
-    "description": "Carrefour Bon(s) d’achat sur les bières et cidres Du mardi 13 au jeudi 15 octobre 2026 Carrefour vous offre 5€ (cinq euros) en bon d’achat tous les 15€ (quinze euros) d’achat sur les bières et les cidres disponibles dans l’un de nos hypermarchés à enseigne Carrefour et Drive participants (hors Marketplace) situés en France métropolitaine et participants à l’opération. En drive : le bon d’achat vous sera envoyé sous la forme d’un code promotionnel par email le lundi 19 octobre 2026. En magasin : Le(s) bon(s) d’achat sera(ont) remis en caisse sous forme imprimée et sera(ont) également disponible(s) sur votre application Carrefour. Quelques optimisations possible sur le drive : https://www.carrefour.fr/r/boissons/bieres-cidres?filters%5Bfacet_promotions%5D%5B0%5D=Avantage%20Fid%C3%A9lit%C3%A9",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/bon-dachat-sur-les-bieres-et-cidres-5-euros-par-tranche-de-15-euros-3431795",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/BiD9j/3431795_1/re/1200x1200/qt/90/3431795_1.jpg",
-    "detected_at": "2026-10-13T14:48:33+00:00",
-    "category": "Alimentation & boissons",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "https://www.carrefour.fr/offres-du-moment/bons-achat/alcools#bieres-cidres-hyper",
-    "price_history": []
-  },
-  {
-    "title": "The Witcher 2: Assassins of Kings Enhanced Edition sur PC (Sans DRM - Dématérialisé)",
-    "description": "2,99€ - GOG Description Deuxième opus de la série de jeux de rôles sur le tueur de monstres professionnel Geralt de Riv, The Witcher 2: Assassins of Kings propose une histoire adulte, amenant à réfléchir, qui en a fait un des jeux de rôles les plus uniques et sophistiqués jamais sortis sur PC. Une époque d'indescriptible chaos s'ouvre. Dans l'ombre, des forces puissantes se disputent pouvoir et influence. Les royaumes du Nord se mobilisent pour la guerre. Mais les armées en marche ne suffiront pas à arrêter le complot sanglant… CARACTÉRISTIQUES SCÉNARIO ADULTE ET CAPTIVANT NON LINÉAIRE Plongez dans l'immense histoire non linéaire et pleine d'émotions qui se déroule dans un monde fantastique à nul autre pareil. Lancez-vous dans une grande aventure complexe, où chaque décision peut avoir de lourdes conséquences. Laissez-vous embarquer dans plus de 40 heures de jeu scénarisé, proposant 4 introductions et 16 fins différentes. COMBAT TACTIQUE, SPECTACULAIRE ET BRUTAL Combattez grâce à un système de combat mêlant de façon unique une action dynamique et des mécaniques de jeux de rôles habilement développées. Utilisez un éventail d'armes de sorceleur uniques, adaptées pour le combat au corps à corps ou à distance. Préparez-vous au combat grâce aux nombreuses possibilités tactiques : préparez des potions, posez de pièges et des appâts, lancez des sorts et faufilez-vous derrière vos ennemis. VASTE MONDE DE JEU RÉALISTE ET COHÉRENT Découvrez un monde de jeu riche et profond, où des événements horribles façonnent la vie de populations entières tandis que des monstres sanguinaires se déchaînent. Explorez des lieux aussi nombreux que variés, allant des comptoirs commerciaux animés jusqu'aux villes minières agitées, en passant par les imposants châteaux et forteresses, et découvrez leur histoire et leurs sombres secrets. TECHNOLOGIE DE POINTE Immergez-vous dans un monde crédible et plein de vie, offrant de splendides graphismes et utilisant des mécaniques de jeu sophistiquées rendues possibles par le REDengine, le moteur maison de CD PROJEKT RED. À PROPOS DE THE WITCHER 2 ENHANCED EDITION L'Enhanced Edition propose un tas de nouveaux contenus passionnants. Plusieurs heures de jeu additionnelles : de nouvelles aventures prenant place dans des lieux inédits, prolongeant l'histoire et introduisant de nouveaux personnages, mystères et monstres. Nouvelle introduction du jeu et nouvelles cinématiques : nouvelles animations et cinématiques, dont une nouvelle cinématique d'introduction précalculée, réalisée par Tomasz Bagiński, primé par la BAFTA et nominé aux Oscars. Tous les contenus téléchargeables et améliorations apportés par la version 2.0 du jeu, incluant : Mode Arène : un mode arcade qui permet aux joueurs de combattre contre des vagues sans fin d'ennemis pour mettre à l'épreuve leurs talents de combattant. Un nouveau système de didacticiel étendu permettant aux joueurs de s'immerger en douceur dans l'univers du jeu et dans les aventures de Geralt. Mode Ténèbres : un niveau de difficulté conçu pour les joueurs acharnés, avec des objets spécialement dédiés à ce mode. À ce niveau de difficulté, l'accent est porté sur la préparation au combat, les manœuvres défensives et les attaques opportunistes. The Witcher 2 Enhanced Edition contient les articles bonus suivants : Bande originale officielle au format MP3 Carte du monde de jeu Manuel des quêtes pour les fans de jeux de rôles novices ou expérimentés Manuel de jeu Bande dessinée numérique \"Reasons of State\" © 2011 CD Projekt RED Pourquoi acheter sur GOG.com ? SANS DRM . Aucune activation ou connexion en ligne requise pour jouer. Satisfaction et sécurité . Excellent support client et remboursement complet jusqu'à 30 jours.",
-    "price": 2.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/the-witcher-2-assassins-of-kings-enhanced-edition-sur-pc-dematerialise-3431794",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gAvzp/3431794_1/re/1200x1200/qt/90/3431794_1.jpg",
-    "detected_at": "2026-10-13T14:47:44+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 2.99,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 2.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Autoradio BQCC F160W 1 DIN avec écran tactile 5\" - CarPlay & Android Auto sans fil, Bluetooth, caméra de recul compatible",
-    "description": "31,58€ - Alibaba Bon prix pour cet autoradio BQCC F160W Livraison gratuite > Caractéristiques Autoradio BQCC F160W Format d'installation : 1 DIN Écran tactile capacitif de 5 pouces Résolution : 800 × 480 pixels Apple CarPlay sans fil Android Auto sans fil Fonction MirrorLink Bluetooth pour la musique et les appels mains libres Radio FM Connexion USB Prise en charge des commandes au volant ( SWC ) Compatibilité avec une caméra de recul Commande vocale via les fonctions compatibles Éclairage des commandes : 7 couleurs Puissance annoncée : 4 × 60 W Alimentation : 12 à 14,4 V Système : Linux Garantie annoncée : 1 an",
-    "price": 31.58,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nouveaux-clients-autoradio-bqcc-f160w-1-din-avec-ecran-tactile-5-carplay-android-auto-sans-fil-bluetooth-camera-de-recul-compatible-3431793",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/rVIqv/3431793_1/re/1200x1200/qt/90/3431793_1.jpg",
-    "detected_at": "2026-10-13T14:40:56+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "https://offer.alibaba.com/cps/76q831o7?bm=cps&src=saf&productId=1601800972278",
-    "price_history": [
-      {
-        "price": 31.58,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 31.58,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Fallout 4: Game of the Year Edition sur PC (dématérialisé)",
-    "description": "9,99€ - GOG Fallout 4: Game of the Year Edition comprend le jeu de base et tous les add-ons suivants : Far Harbor - Une nouvelle affaire vous attend à l'agence de détectives Valentine, une affaire pour laquelle vous devrez retrouver une jeune femme et une colonie secrète de synthétiques. Partez de la côte du Maine en direction de la mystérieuse île de Far Harbor. Le niveau élevé de radiation sur l'île en a fait une zone bien plus sauvage que ce que vous avez pu voir jusqu'à présent. Automatron - Le mystérieux Mécaniste a lâché une horde de robots destructeurs dans le Commonwealth, dont le très dangereux Cérébrobot. Partez à leur recherche puis récupérez leurs pièces pour construire vos propres compagnons robotisés. Nuka-World - Découvrez Nuka-World, un parc d'attractions devenu terrain de jeu des pillards. Explorez une nouvelle région, avec son vaste désert et ses parcs : l'Aventure Safari, Dry Rock Gulch, le Royaume des Petits et la Zone Galactique. Wasteland Workshop - Avec Wasteland Workshop, vous pouvez fabriquer et placer des pièges pour capturer des êtres vivants, qu'il s'agisse de pillards comme d'écorcheurs ! Dressez-les, organisez des combats ou attaquez les autres colons avec ! Contraptions Workshop - Des machines pour classer ! Des machines pour construire ! Des machines pour combiner ! Avec Fallout 4 Contraptions, utilisez courroies, échafaudages, kits et fonctions logiques pour créer des gadgets aussi complexes que délirants et améliorer vos colonies. Vault-Tec Workshop - Bâtissez un futur radieux, en sous-sol, avec Vault-Tec Workshop. Créez un abri immense, attirez de nouveaux habitants grâces aux kits industriels d'avant-guerre : mobilier rétro, éclairages et art. Bethesda Game Studios, studio de développement maintes fois récompensé à l'origine de Fallout 3 et de The Elder Scrolls V: Skyrim, vous invite à découvrir Fallout 4, leur titre le plus ambitieux à ce jour incarnant la nouvelle génération du jeu en monde ouvert. Dans la peau du seul survivant de l'abri 111, vous émergez dans un monde dévasté par une guerre nucléaire. Votre survie sera un combat de tous les instants et vos choix façonneront votre destin. Vous seul avez le pouvoir de faire entrer les Terres désolées dans une nouvelle ère. Bienvenue chez vous. ÉLEMENTS CLES : Liberté totale ! Jouissez d'une liberté d'action sans précédent dans un monde ouvert offrant des centaines de lieux, de personnages et de quêtes. Rejoignez plusieurs factions dans leur combat pour la suprématie ou forgez votre destinée en loup solitaire, c'est à vous seul de décider. Vous êtes S.P.E.C.I.A.L. ! Incarnez le personnage que vous voulez grâce au système S.P.E.C.I.A.L. Soldat en armure assistée ou baratineur charismatique, choisissez parmi des centaines d'aptitudes et développez votre propre style de jeu. Des pixels de toute beauté ! Un tout nouveau moteur graphique et une gestion des éclairages de nouvelle génération donnent vie au monde de Fallout comme jamais auparavant. Des forêts dévastées du Commonwealth aux ruines de Boston, chaque lieu fourmille de détails dynamiques. Violence et SVAV ! Les combats intenses à la première ou à la troisième personne peuvent aussi être ralentis grâce au nouveau Système de Visée Assistée Vault-Tec (SVAV) dynamique, qui vous permet de choisir vos attaques avant de profiter du carnage comme si vous y étiez. Amassez et fabriquez ! Trouvez, améliorez et créez des milliers d'objets grâce au système de fabrication le plus sophistiqué jamais conçu. Armes, armures, substances chimiques et nourriture ne sont qu'une infime partie des possibilités : vous pourrez même construire et gérer des colonies entières ! Pourquoi acheter sur GOG.com ? SANS DRM . Aucune activation ou connexion en ligne requise pour jouer. Satisfaction et sécurité . Excellent support client et remboursement complet jusqu'à 30 jours.",
-    "price": 9.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/fallout-4-game-of-the-year-edition-sur-pc-dematerialise-3431792",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ymFHQ/3431792_1/re/1200x1200/qt/90/3431792_1.jpg",
-    "detected_at": "2026-10-13T14:39:26+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 3 Thermomètres et hygromètre connecté Wi-Fi Govee",
-    "description": "46,99€ - Govee Offre pour 3 thermo-hygrometres connectés Bon plan supplémentaire : en s'inscrivant à la newsletter Govee, ou avec un code parrainage les nouveaux clients peuvent recevoir un bon de réduction de 5 € sur leur première commande. Soit 41.99 euros fdp inclus Pour ceux qui veulent savoir si leur cave est idéale pour conserver du vin… ou plutôt pour cultiver des champignons Le Govee H5179 permet de surveiller à distance la température et l'humidité de sa cave, de son garage, de sa chambre ou de tout autre espace, directement depuis son smartphone. Caractéristiques : Connexion Wi-Fi 2,4 GHz et Bluetooth, sans passerelle supplémentaire ️ Précision annoncée : ±0,3 °C et ±3 % d'humidité Suivi à distance via l'application Govee Home Alertes personnalisables en cas de dépassement des seuils Historique des mesures et exportation des données jusqu'à 2 ans Fonctionne avec 3 piles AA, autonomie annoncée d'environ 7 mois",
-    "price": 46.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/thermometre-et-hygrometre-connecte-wi-fi-govee-3431791",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Zf3z8/3431791_1/re/1200x1200/qt/90/3431791_1.jpg",
-    "detected_at": "2026-10-13T14:38:03+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 46.99,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 46.99,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac moto LOBOO Wanderer - 50 litres, support rigide interne, fermeture magnétique, système Molle",
-    "description": "106,99€ - JoyBuy Sac en concurrence directe avec le Overlander de chez LoneRider mais qui vaut le double de ce prix :D Caractéristiques & Spécifications : Découvrez le Wanderer. LOBOO a résolu le problème du « sac mou » en intégrant une plaque de support amovible en forme de U . Ce sac garde sa forme qu’il soit plein ou vide. Associé à une fermeture roulante magnétique brevetée et un séparateur interne humide/sec, c’est le système ultime « prêt-à-partir » pour les motards ADV sérieux. Pourquoi ce sac surpasse les sacs de voyage classiques : Fermeture roulante magnétique brevetée : Oubliez la lutte avec le velcro qui se bouche de boue. L’ouverture intègre une bande magnétique qui se ferme automatiquement, rendant le processus « rouler et clipser » 3 fois plus rapide. Séparation interne humide/sec : Une poche interne dédiée sépare votre serviette mouillée ou votre linge sale de vos vêtements propres. Fini les chaussettes humides au camp[cite : 41, 42]. Il respire (quand vous le souhaitez) : Équipé d’une valve d’air latérale. Ouvrez-la pour expulser l’air en excès et compacter la charge, puis refermez-la pour sceller le vide. Maintient votre chargement serré et stable[cite : 59]. Mode sac à dos : Une fois garé, déployez les bretelles doubles cachées et portez-le comme un sac à dos. Parfait pour randonner jusqu’à ce camp isolé ou entrer dans un hôtel. Compatible MOLLE : Besoin de plus d’équipement ? Le système MOLLE externe découpé au laser vous permet d’attacher facilement trousses de premiers secours, bouteilles de carburant ou outils. [shortcode id=\"20619140\"/]",
-    "price": 106.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-moto-loboo-wanderer-50-litres-support-rigide-interne-fermeture-magnetique-systeme-molle-3431790",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/DQ77v/3431790_1/re/1200x1200/qt/90/3431790_1.jpg",
-    "detected_at": "2026-10-13T14:36:58+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T20:47:29.299356+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 106.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 106.99,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Transavia Holidays] Offre spéciale famille sur les séjours vol + hôtel",
-    "description": "Transavia Holidays [Transavia Holidays] 100 € de réduction dès 999 € d'achat sur les vacances d'hiver avec le code HIVER100 Envie de prendre le soleil cet hiver en famille ? Transavia Holidays propose 100 € de réduction dès 999 € d'achat sur les séjours éligibles avec le code promo HIVER100 . ✈️ Les détails de l'offre : Réduction : 100 € ️ Code promo : HIVER100 Minimum d'achat : 999 € Dates de séjour : du 7 décembre 2026 au 22 février 2027 inclus Pour préparer des vacances au soleil pendant l'hiver Lien vers l'offre : https://holidays.transavia.fr/fr-FR/merch/PROMOFAMILLE?actionid=ALORI02H-000LKP&partnercode=TOFR&utm_campaign=13102026&utm_content=CTA&utm_medium=email_dem&utm_source=dem&utm_term=2026-10-13-DEM-Lancement-code-promo_NOTIFY Exemple : pour un séjour éligible à 999 €, la réduction de 100 € représente environ 10 % d'économie. À vérifier au moment de la réservation : destinations et dates éligibles, conditions d'application du code et prix final du séjour. Bonnes vacances ! ☀️",
-    "price": 999.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/transavia-holidays-offre-speciale-famille-sur-les-sejours-vol-hotel-3431789",
-    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/4437_1/re/1200x1200/qt/90/4437_1.jpg",
-    "detected_at": "2026-10-13T14:36:56+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 999.0,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 999.0,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Selection de jeux Lego en promotion sur Xbox Series X|S & Xbox One (Dématérialisé) Ex: La Grande Aventure Lego (Dématérialisé)",
-    "description": "3,49€ - Xbox Store Promotion sympathique sur plusieurs jeux LEGO sur Xbox Series XS & Xbox One. La grande aventure LEGO à 3.49€ -> https://www.xbox.com/fr-FR/games/store/grande-aventure-lego/c42ggwf64wh8 Test de unautreblog -> https://www.unautreblog.com/2014/04/18/test-lego-la-grande-aventure-sur-ps4/ LEGO Marvel Super Heroes à 5.49€ -> https://www.xbox.com/fr-FR/games/store/lego-marvel-super-heroes/bzgz3g053nth Test de aquab0n -> https://aquab0n.fr/2013/12/test-lego-marvel-super-heroes.html LEGO Jurassic World à 4.99€ -> https://www.xbox.com/fr-FR/games/store/lego-jurassic-world/bptwsrmjh2jf Test de johncouscous -> https://www.johncouscous.com/2015/08/07/test-lego-jurassic-world-sur-ps4/ LEGO Worlds à 4.49€ -> https://www.xbox.com/fr-FR/games/store/lego-worlds/bwpv4qxw8w2c Test de culturellementvotre -> https://culturellementvotre.fr/2017/03/26/test-playstation-4-lego-worlds-un-charmant-bric-a-brac/ LEGO Le Hobbit à 3.99€ -> https://www.xbox.com/fr-FR/games/store/lego-le-hobbit/bxzsx21x0s7x Test de PSMag -> https://www.psmag.fr/fichejeu-1275-2-lego-le-hobbit.html LEGO CITY Undercover à 5.99€ -> https://www.xbox.com/fr-FR/games/store/lego-city-undercover/bs5rxll3wq2j Test de succesone -> https://www.succesone.fr/tous-les-tests/lego-city-undercover/ LEGO DC Super-Vilains à 5.99€ -> https://www.xbox.com/fr-FR/games/store/lego-dc-super-vilains/bqxvsgcx6k8w Test de culturellementvotre -> https://culturellementvotre.fr/2018/10/31/test-lego-dc-super-vilains-plus-interessant-quespere/ LEGO Star Wars : La Saga Skywalker à 8.99€ -> https://www.xbox.com/fr-FR/games/store/lego-star-wars-la-saga-skywalker/9njn1mc1x5fk Test de M2 Gaming -> https://m2gaming.ca/microsoft/xbox-series-x-s/test-lego-star-wars-the-skywalker-saga-xbs-xb1-ps5-ps4-switch-pc LEGO Harry Potter Collection à 7.99€ (UNIQUEMENT SERIES X/S) -> https://www.xbox.com/fr-FR/games/store/lego-harry-potter-collection/9n8x5m303lb4 Test de legeekparesseux -> https://legeekparesseux.fr/test-gaming/lego-harry-potter-collection/",
-    "price": 3.49,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-jeux-lego-en-promotion-sur-xbox-series-xs-xbox-one-dematerialise-ex-grande-aventure-lego-3431788",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/p5k8O/3431788_1/re/1200x1200/qt/90/3431788_1.jpg",
-    "detected_at": "2026-10-13T14:36:02+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 3.49,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 3.49,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "30% remboursés sur la carte sur une sélection d'huiles essentielles Puressentiel - Ex : Citronnelle de java bio 10ml (via 0,76€ de fidélité)",
-    "description": "1,80€ - E.Leclerc 30% remboursés sur la carte sur une sélection d'huiles essentielles Puressentiel - Ex : Citronnelle de java bio 10ml ( via 0,76€ fid) lien vers tous les produits en promo Découvrez l’huile essentielle de Citronnelle de Java Bio Puressentiel, une huile essentielle issue de l’agriculture biologique, reconnue pour son parfum frais, citronné et puissant. Pratique grâce à son format de 10 ml, elle s’intègre facilement à votre quotidien pour profiter de ses propriétés aromatiques. Elle est appréciée notamment pour son utilisation en diffusion, dans le respect des précautions d’emploi. Un indispensable pour les amateurs d’huiles essentielles naturelles et de senteurs fraîches. Détails du produit: L'Huile essentielle Citronnelle de java bio 10ml est une huile essentielle extraite de Cymbopogon winterianus. spécifications du produit : Chémotype : Citronellal, Géraniol, Citronellol Famille : Poacées Organe producteur : Parties aériennes HEBBD : Huile Essentielle Botaniquement et Biochimiquement Définie Produit issu de l'agriculture biologique certifié par ECOCERT FR-BIO-01",
-    "price": 1.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/30-rembourses-sur-la-carte-sur-une-selection-dhuiles-essentielles-puressentiel-ex-citronnelle-de-java-bio-10ml-via-076eur-fid-3431787",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oD5Ec/3431787_1/re/1200x1200/qt/90/3431787_1.jpg",
-    "detected_at": "2026-10-13T14:35:45+00:00",
-    "category": "Beauté & santé",
-    "price_verified": true,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T12:04:10.334142+00:00",
-    "merchant_url": "https://www.e.leclerc/fp/huile-essentielle-citronnelle-de-java-bio-10ml-3401599423305",
-    "price_history": [
-      {
-        "price": 1.8,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 1.8,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Automatique Herbelin Inspiration (2047AP08) - Acier, Cadran Argenté à Index Romains, Bracelet Cuir Noir, 38mm",
-    "description": "595€ 595,00€ au lieu de 850,00€ soit 255,00€ /30% de réduction :) Description : La Herbelin Inspiration automatique reprend les lignes du boîtier original des années 1950 dessiné par Michel Herbelin. Son boîtier rond de 38 mm en acier inoxydable 316L abrite un cadran argenté à index romains, avec date à 6 h, sous un verre saphir. Elle est animée par le mouvement automatique suisse Sellita SW200-1, qui offre 41 heures de réserve de marche. Le bracelet en cuir noir se ferme par une boucle ardillon traditionnelle, pour un style intemporel de montre habillée. Fabrication française. Caractéristiques : Marque : Herbelin Collection : Inspiration Référence : 2047AP08 Genre : Homme Style : Classique Type de mouvement : Automatique, suisse Calibre : Sellita SW200-1 Réserve de marche : 41 heures Fonctions : Heures, minutes, secondes, date à 6 h Matière du boîtier : Acier inoxydable 316L Taille du boîtier : 38 mm Type de verre : Saphir Couleur du cadran : Argenté, index romains Matière du bracelet : Cuir noir Fermoir : Boucle ardillon Étanchéité : 30 m (3 bar) Poids : 55 g Fabrication : France Garantie : 3 ans (36 mois)",
-    "price": 595.0,
-    "reference_price": 850.0,
-    "discount_percent": 30.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-automatique-herbelin-inspiration-2047ap08-acier-cadran-argente-a-index-romains-bracelet-cuir-noir-38mm-3431786",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/oyZcg/3431786_1/re/1200x1200/qt/90/3431786_1.jpg",
-    "detected_at": "2026-10-13T14:35:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 595.0,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 595.0,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Précommande] Tamagotchi Paradise Neon Planets",
-    "description": "59,99€ - Amazon Je viens de précommander mon Tamagotchi Paradise Neon Planets sur Amazon. Le produit est livré le 21 Novembre, pile pour les cadeaux de Noël ! La couleur est introuvable ailleurs pour le moment",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/precommande-tamagotchi-paradise-neon-planets-3431784",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/XxhHX/3431784_1/re/1200x1200/qt/90/3431784_1.jpg",
-    "detected_at": "2026-10-13T14:25:49+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "https://www.amazon.fr/dp/B0HLFWNVSY?smid=A1X6FK5RDHNB96",
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaussures de trail The North Face Summit Vectiv Sky - Tailles du 38 au 41",
-    "description": "66,39€ - Private Sport Shop Issues de la Summit Series, notre gamme d'élite qui repousse sans cesse les limites, les chaussures de trail Summit VECTIV Sky sont notre modèle le plus léger à ce jour. Grâce à notre nouvelle technologie de mousse et à une plaque en fibre de carbone VECTIV 2.0 assurant la stabilité, elles offrent un excellent retour d'énergie sans sacrifier le confort. Leur forme ajustée avec précision et leur plaque en fibre de carbone garantissent des performances élevées sur terrain technique, tandis que le drop de 4 mm procure une sensation plus naturelle à chaque foulée. Caractéristiques : TIGE : Tige protectrice et respirante Chaussant effet chaussette avec un maintien précis Conçue sur une forme offrant un ajustement précis pour des performances élevées sur terrain technique. SEMELLE : La semelle intermédiaire à profil incurvé VECTIV 2.0 intègre une plaque en fibre de carbone ainsi qu'une conception en fourche au niveau du talon et de l'avant-pied pour une stabilité accrue sur les terrains techniques. Semelle intermédiaire haute performance à fort rebond, dotée d'un insert en Pebax de 4 mm à l'avant-pied Présente un relevé d'orteils supérieur de 10 mm par rapport à la Flight VECTIV. Épaisseur de semelle de 21 mm/17 mm et drop de 4 mm Semelle extérieure en caoutchouc Surface CTRL avec crampons de 3,5 mm La technologie VECTIV associe une plaque 3D et une semelle intermédiaire à profil incurvé pour transformer l'énergie en élan et vous propulser vers l'avant. Surface CTRL : Ce composé de caoutchouc biosourcé pour la semelle extérieure offre une adhérence et une durabilité supérieures.",
-    "price": 66.39,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chaussures-de-trail-the-north-face-summit-vectiv-sky-tailles-38-au-41-3431783",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/gYeWI/3431783_1/re/1200x1200/qt/90/3431783_1.jpg",
-    "detected_at": "2026-10-13T14:22:51+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 66.39,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 66.39,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "SONGMICS Mini Frigo - Réfrigérateur Portable - 4L - 20,5 x 28 x 29,5 cm - Blanc",
-    "description": "39,99€ - Amazon > Sympa pour la skincare (lipstick) Caractéristiques : Couleur : Blanc Matériau : Alliage d'aluminium, plastique ABS Dimensions : 28 x 20,5 x 29,5 cm (L x l x H) Poids du produit : 1,7 kg Contenu de l’emballage : 1 x Mini réfrigérateur 1 x Câble d'alimentation secteur (230V) 1 x Câble d'alimentation pour voiture (12V) Notes de SONGMICS : Veuillez laisser un espace libre à l'arrière et sur les côtés du mini réfrigérateur pour assurer une bonne ventilation et un refroidissement optimal. Assurez-vous de passer du mode froid au mode chaud uniquement lorsque l'appareil est éteint et a atteint la température ambiante pour protéger le moteur.",
-    "price": 39.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/songmics-mini-frigo-refrigerateur-portable-4l-205-x-28-x-295-cm-blanc-3431781",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ukh1D/3431781_1/re/1200x1200/qt/90/3431781_1.jpg",
-    "detected_at": "2026-10-13T14:20:04+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "https://www.amazon.fr/SONGMICS-Frigo-Réfrigérateur-Portable-Chaud/dp/B0H9S18K3Y/ref=sr_1_2?__mk_fr_FR=ÅMÅŽÕÑ&crid=2M4BJX5A6177T&dib=eyJ2IjoiMSJ9.KVl9RE9Qkgzfe5bW98c8Pw.CHLT1v3BRaZdnzSFoWRmI9jCgKmS8jklbC7F2vjo14g&dib_tag=se&keywords=ERF001W101&qid=1791427702&sprefix=erf001w101,aps,435&sr=8-2&th=1",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Smartphone 6.78\" Oneplus 16 - 12GB / 256GB, Version CN",
-    "description": "897€ - Trading Shenzen Le OnePlus 16 allie des performances de jeu puissantes à des fonctionnalités haut de gamme polyvalentes. Un processeur Snapdragon gravé en 2 nm et un écran OLED de 6,78 pouces avec un taux de rafraîchissement allant jusqu'à 185 Hz garantissent une expérience utilisateur fluide. Le système photo LUMO, doté d'un capteur principal de 200 mégapixels et d'un téléobjectif périscopique de 50 mégapixels avec zoom optique 3x, capture les moindres détails. Une batterie imposante de 9 000 mAh, compatible avec la charge rapide 100 W et la charge sans fil 50 W, complète l'ensemble.",
-    "price": 897.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/oneplus-16-12gb-256gb-3431780",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/pmOIm/3431780_1/re/1200x1200/qt/90/3431780_1.jpg",
-    "detected_at": "2026-10-13T14:18:26+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 897.0,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 897.0,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chaise ergonomique LiberNovo Omni Dynamic",
-    "description": "784,99€ - JoyBuy Promo de 15€ avec coupon via le site Le LiberNovo Omni Dynamic est un siège ergonomique de bureau haut de gamme, largement reconnu comme l'un des premiers fauteuils ergonomiques actifs et motorisés au monde . Lancé avec un immense succès sur les plateformes de financement participatif, il se distingue par ses technologies actives destinées à soulager le mal de dos lors de longues sessions de travail ou de gaming. [ 1 , 2 , 3 , 4 ] Caractéristiques majeures Dossier Bionic FlexFit : Composé de plusieurs panneaux flexibles et de dizaines de points de pivot (16 pivots sur le modèle Gen), le dossier épouse fidèlement la courbure naturelle de la colonne et accompagne chaque mouvement en direct. [ 1 , 2 , 3 ] Support lombaire motorisé ErgoPulse : Contrairement aux chaises passives, l'Omni intègre un piston électrique alimenté par une batterie rechargeable (autonomie moyenne de 30 jours). Il permet d'ajuster précisément la pression sur le bas du dos directement depuis des boutons placés sur l'accoudoir. [ 1 , 2 , 3 ] Mode OmniStretch (Massage & Décompression) : Une fonction intégrée active un cycle de mouvement robotisé de 5 minutes qui fait \"respirer\" le dossier. Ce système exerce des pressions subtiles pour décompresser la colonne vertébrale et relâcher le bassin sans avoir à quitter son bureau. [ 1 , 2 ] Mécanisme SyncroLink & Alignement d'écran : Lors de l'inclinaison (ajustable de 105° à 160° sur 4 ou 5 positions selon la version), l'assise, les accoudoirs 4D et l'appui-tête 3D bougent à l'unisson. L'appui-tête s'ajuste automatiquement afin de maintenir le regard horizontal face à l'écran plutôt que vers le plafond. [ 1 , 2 , 3 , 4 , 5 ] Ventilation active (sur versions Pro / Airflow) : Intègre un système de ventilation centrifuge à l'intérieur de l'assise pour réguler la température corporelle. [ 1 , 2 ]",
-    "price": 784.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/libernovo-omni-dynamic-chaise-ergonomique-3431778",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ydba8/3431778_1/re/1200x1200/qt/90/3431778_1.jpg",
-    "detected_at": "2026-10-13T14:15:21+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 784.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 784.99,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de chaussures de sécurité Timberland - Ex : Chaussures Splitrock, Taille 39",
-    "description": "19,99€ - Veepee Top prix sur toutes les chaussures de sécu Timberland. Tailles disponibles entre 39 et 42 Celles du deal sont à 160€, prix officiel. La LISTE ici https://www.veepee.fr/gr/catalog/rec409/rec409-men_shoes?brand=timberland&sort=1 Pour le descriptif, j'ai pris sur le site de l'enseigne directement https://timberlandpro.co.uk/products/splitrock-2-0-xt-composite-toe-work-boot-black",
-    "price": 19.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/selection-de-chaussures-de-securite-timberland-ex-chaussures-splitrock-taille-39-3431776",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3hnXt/3431776_1/re/1200x1200/qt/90/3431776_1.jpg",
-    "detected_at": "2026-10-13T14:14:52+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Fallout 4 sur PC, Series X|S / Xbox One - GOTY Edition à 9.99€ - (Dématérialisé)",
-    "description": "4,99€ - Xbox Store Lien vers Fallout 4 à 4.99€ -> https://www.xbox.com/fr-FR/games/store/fallout-4/c3kldkzbhncz Lien vers Fallout 4 GOTY Editon à 9.99€ -> https://www.xbox.com/fr-FR/games/store/fallout-4-game-of-the-year-edition/c24svx28pnwm La GOTY Edition inclus le jeu de base + Fallout 4: Vault-Tec Workshop Fallout 4: Wasteland Workshop Fallout 4: Automatron Fallout 4: Far Harbor Fallout 4: Contraptions Workshop Fallout 4: Nuka-World Compatible PC, Xbox Series X/S & Xbone One ainsi que Cloud Gaming. Test de Geeksandcom -> https://www.geeksandcom.com/test-fallout-4-pc/ Description du jeu: Vous êtes l'unique survivant de l'Abri 111, qui refait surface dans un monde ravagé par la guerre nucléaire. Chaque instant est une lutte pour la survie, chaque choix influence l'avenir. Reconstruisez, transformez et reprenez possession des Terres désolées à votre manière.",
-    "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/fallout-4-sur-pc-series-xs-xbox-one-goty-edition-a-999eur-dematerialise-3431775",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/F2Gbj/3431775_1/re/1200x1200/qt/90/3431775_1.jpg",
-    "detected_at": "2026-10-13T14:14:50+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:41:11.906907+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Centrale vapeur Calor SV4110C0 - 2200W, 1,5L, 5 bars (Via 26€ en crédit fidélité) - Magasin uniquement",
-    "description": "33,99€ - Carrefour Prix de fou, en promo. à 59,99€ avec 26€ cagnottés : 33,99€ Retrait magasin uniquement selon les stocks Design et Ergonomie Format : Modèle ultra compact. Autonomie : Autonomie illimitée (permettant un remplissage du réservoir à tout moment). Type de semelle : Semelle Xpress Glide. Spécifications Techniques et Performances Puissance : 2200 W. Pression : 5 bars. Débit vapeur continu : 110 g/min. Fonction pressing : 190 g/min (pour les faux plis tenaces). Capacité du réservoir : 1,2 L. Entretien : Technologie Calc Clear pour un entretien facile et des performances vapeur durables.",
-    "price": 33.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/centrale-vapeur-calor-sv4110c0-2200w-15l-5-bars-via-26eur-en-credit-fidelite-magasin-uniquement-3431774",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RF6wP/3431774_1/re/1200x1200/qt/90/3431774_1.jpg",
-    "detected_at": "2026-10-13T14:12:51+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 33.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 33.99,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Monopoly Lilo et Stitch",
-    "description": "9,95€ Monopoly Version Lilo & Stitch - Winning Moves - Version Française - Jeux de société pour Enfant - sous Licence Officielle Disney - De 2 à 6 Joueurs - Dès 8 Ans Images et vidéos des produits (texte alternatif généré par IA)",
-    "price": 9.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/monopoly-lilo-et-stitch-3431773",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tXaMj/3431773_1/re/1200x1200/qt/90/3431773_1.jpg",
-    "detected_at": "2026-10-13T14:11:52+00:00",
-    "category": "Bébé & enfants",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.95,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 9.95,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre Casio GW-5000U-1ER Solaire Radio-pilotée Fond de boîtier vissé",
-    "description": "179,99€ - Mondial Montres Full-Auto Illuminator Lorsque cette fonction est activée, il suffit de tourner légèrement le poignet pour que le rétroéclairage de la montre s'allume. Econome en énergie : le Full Auto Illuminator fonctionne uniquement dans un environnement sombre. Résistance aux chocs La structure résistante aux chocs protège la montre contre les impacts et les vibrations. Fonctionnement solaire Des cellules solaires procurent une alimentation en énergie autonome et respectueuse de l'environnement. Le surplus d'énergie solaire est stocké dans un accumulateur. Mise à l'heure automatique via réception de signaux de radio-pilotage (EU, USA, JPN, CHN) Que ce soit en Europe, en Amérique du Nord ou au Japon, dans les vastes territoires du Canada, de l'Amérique centrale ou de la Chine - une fois la montre ajustée au fuseau horaire local, elle reçoit le signal radio correspondant et indique toujours la date et l'heure exactes. Dans de nombreux pays, elle passe automatiquement de l'heure d'été à l'heure d'hiver et inversement. Fonction d'heure universelle La fonction d’heure universelle affiche l’heure dans 29 fuseaux horaires et grandes villes du monde. Chronomètre 1/100 s - 24 heures Mesure le temps écoulé avec une précision au 1/100ème de seconde sur une durée maximale de 24 heures. Le signal sonore confirme le lancement et l'arrêt du chronomètre. Comptes à rebours - 1/1 min - 24 heures Pour tous ceux qui aiment la précision : les comptes à rebours vous rappellent les évènements importants ou récurrents en émettant un signal acoustique à la date et l'heure programmées. Le temps peut être programmé en minutes, 24 heures maximum à l'avance. Un atout particulièrement appréciable pour la prise quotidienne de médicaments ou les entraînements répétés. 5 alarmes quotidiennes Une alarme sonore vous rappelle quotidiennement vos échéances à l'heure programmée. Ce modèle dispose de cinq alarmes indépendantes pour vous rappeler en toute flexibilité vos rendez-vous importants. Fonction Snooze Chaque fois que vous arrêtez l'alarme, elle se déclenche à nouveau quelques minutes plus tard. Marche/Arrêt bip sonore des touches Le bip sonore des touches peut être désactivé avec la touche de mode. Après la désactivation, il n'y a plus de bip sonore au passage d'une fonction à l'autre. Les alarmes ou comptes à rebours programmés restent cependant actifs après la désactivation du bip sonore des touches. Calendrier automatique Une fois programmé, le calendrier automatique affiche toujours la date correcte. Format de l'heure 12/24 heures Vous pouvez afficher l'heure au format 12 heures ou 24 heures. Verre minéral Le verre minéral dur et résistant aux rayures protège la montre des dommages inesthétiques. Fond de boîtier vissé Grâce au vissage du fond du boîtier, l'intérieur de la montre est parfaitement protégé tout en restant facilement accessible, par exemple pour un changement de pile. Bracelet en résine Grâce à son extrême durabilité et sa souplesse, la résine synthétique constitue un matériau idéal pour les bracelets. Boucle La boucle déployante permet de mettre et d'enlever sa montre facilement et rapidement. Indicateur de niveau des batteries Affiche le niveau actuel des batteries. Classe d'étanchéité (20 bars) Parfait pour nager et faire de la plongée sans équipement : la montre est étanche jusqu'à 20 bars (ISO 22810).",
-    "price": 179.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-casio-gw-5000u-1er-solaire-radio-pilotee-fond-de-boitier-visse-3431772",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/tfyUN/3431772_1/re/1200x1200/qt/90/3431772_1.jpg",
-    "detected_at": "2026-10-13T14:10:44+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 179.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 179.99,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Caméra d'action Insta360 Go Ultra 4K 60fps",
-    "description": "280,95€ - AliExpress Délai d'expédition] : Si vous passez commande un vendredi, veuillez noter qu'en raison de la fermeture de l'entrepôt pour le week-end, l'expédition ne pourra débuter que le lundi. Nous vous remercions de votre compréhension et de votre patience. Pour toute question, n'hésitez pas à nous contacter ; nous vous répondrons dans les plus brefs délais. [À propos du produit] : Tous les produits vendus par Euro Frame Store sont 100 % neufs et authentiques. [À propos de la livraison] : Tous les articles sont expédiés depuis un entrepôt européen. L'emballage peut subir de légères détériorations durant le transport ; il s'agit d'un phénomène normal. [Retours] : Les retours et remboursements ne sont acceptés qu'en cas de défaut de qualité du produit ; aucun retour ne sera accepté pour d'autres motifs. Merci d'en tenir compte avant de passer commande.",
-    "price": 280.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/camera-daction-insta360-go-ultra-4k-60fps-3431770",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/aOqrP/3431770_1/re/1200x1200/qt/90/3431770_1.jpg",
-    "detected_at": "2026-10-13T14:09:08+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 280.95,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 280.95,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de Promotion sur les extras numériques Volkswagen Ex: Commande vocale",
-    "description": "185€ - Volkswagen Pas mal comme promo pour ceux qui utilisent les services numériques VW ! Ça peut être intéressant pour prolonger ou découvrir les fonctionnalités connectées de sa Volkswagen à moindre coût. Exemple de tarif : Commande vocale : 185€ au lieu de 219€ Navigation : 255€ au lieu de 299€ We Connect Plus pour 1 an : 63,50€ au lieu de 79,50€",
-    "price": 185.0,
-    "reference_price": 219.0,
-    "discount_percent": 15.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/promotion-sur-tous-les-extras-numeriques-volkswagen-ex-commande-vocale-3431769",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xUc1n/3431769_1/re/1200x1200/qt/90/3431769_1.jpg",
-    "detected_at": "2026-10-13T14:08:57+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 185.0,
-        "observed_at": "2026-10-13T14:59:08.321533+00:00"
-      },
-      {
-        "price": 185.0,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Canapé deux places 165 cm beige Honeyou",
-    "description": "161,99€ - JoyBuy Pour ceux qui recherchent un canapé compact de style moderne qui n'encombrera pas leur salon, le canapé deux places HONEYOU est proposé à un prix avantageux chez JoyBuy. Disponible à 162 € (au lieu de 299,99 € avec la livraison gratuite), le canapé deux places HONEYOU est proposé chez JoyBuy, tandis que des modèles comparables d'autres fabricants, selon idealo, sont disponibles à partir de 291,99 €. Ce canapé mesure 165 cm de large et peut accueillir confortablement deux personnes, voire trois en position détendue. Son rembourrage épais assure un confort optimal.…",
-    "price": 161.99,
-    "reference_price": 299.99,
-    "discount_percent": 46.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/honeyou-canape-deux-places-165-cm-canape-deux-places-3431767",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/me7Jl/3431767_1/re/1200x1200/qt/90/3431767_1.jpg",
-    "detected_at": "2026-10-13T14:08:05+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 161.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 161.99,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Dispatch Nintendo Switch 2 Edition (Dématérialisé)",
-    "description": "23,19€ - Nintendo Dispatch est un jeu à l'humour décapant sur des super-héros en milieu professionnel au cœur du Los Angeles contemporain. Imaginé par les créateurs de Tales from the Borderlands et de The Wolf Among Us, il s'appuie sur un casting prestigieux réunissant Aaron Paul, Laura Bailey et Jeffrey Wright. Remarque : Certains contenus à caractère adulte de la version originale de Dispatch ont été modifiés. Vous incarnez Robert Robertson, alias Méca Man, dont l'exo-armure a été détruite lors d'un affrontement contre son pire ennemi. Privé de ses pouvoirs, il est contraint d'accepter un poste au centre de super-héros... derrière un bureau. Prenez la tête d'un groupe d'anciens super-méchants en quête de rédemption. Faites évoluer vos recrues tout en gérant les relations au bureau, et réparez votre armure pour assouvir votre soif de vengeance ! Façonnez le récit Dans Dispatch, chacune de vos décisions impacte le cours de l'histoire. Que ce soit lors d'échanges autour de la machine à café ou en situation de crise sur le terrain, vos choix influencent vos relations avec les héros, leur loyauté et le destin de votre personnage. Coordonnez les missions Gérez les urgences depuis la carte des interventions et déployez les héros appropriés... ou non. Évaluez les risques par rapport aux récompenses, mais gardez à l'esprit que vos décisions auront des répercussions sur votre équipe et sur toute la ville. Gérez votre équipe Un héros ne se résume pas à ses pouvoirs. Chacun a ses failles, ses caprices et son passé à prendre en compte pour maintenir la cohérence au sein de l'équipe. Améliorez leurs compétences et débloquez des capacités pour renforcer leur efficacité sur le terrain. Entre humour, stratégie et narration interactive, Dispatch redéfinit le sens du mot « héroïsme », qu'on porte une cape ou qu'on soit coincé derrière un écran. Avec une distribution exceptionnelle issue de tous les horizons du divertissement: Aaron Paul (Breaking Bad, Westworld, Black Mirror) Laura Bailey (The Legend of Vox Machina, The Last of Us II, Marvel's Spider-Man) Erin Yvette (Hades II, The Wolf Among Us, Armored Core VI: Fires of Rubicon) MoistCr1TiKaL (Charles White) Jacksepticeye (Sonic Prime, River City Girls 1 & 2, Bendy and the Ink Machine) Travis Willingham (The Legend of Vox Machina, Critical Role, Lego Avengers) Alanah Pearce (V/H/S Beyond, Cyberpunk 2077, Gears 5) Lance Cantstopolis (karaté, danse, acteur) Joel Haver (réalisateur, acteur, YouTuber) THOT SQUAD (Artiste musical : Pound Cake, Hoes Depressed) Yung Gravy (Artiste musical : Betty (Get Money), oops!) Matthew Mercer (Critical Role, Overwatch, Resident Evil 6) et Jeffrey Wright (American Fiction, The Batman, Casino Royale)",
-    "price": 23.19,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/dispatch-nintendo-switch-2-edition-3431763",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xr13P/3431763_1/re/1200x1200/qt/90/3431763_1.jpg",
-    "detected_at": "2026-10-13T14:07:13+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 23.19,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 23.19,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Support smartphone moto LOBOO PH06 - Recharge sans fil 15W, Amortisseur magnétique, full Aluminium CNC",
-    "description": "59,99€ - JoyBuy Super prix pour ce support smartphone QI 15W ! Pour celles et ceux qui ne connaissent pas la marque Loboo, ils font des produits avec un rapport qualité / prix excellent ! Vous verrez de plus en plus de personnes avec cette marque. Fiche produit officielle Caractéristiques & Spécifications : Découvrez le PH06. Contrairement aux supports rigides qui transmettent toutes les vibrations du moteur directement à votre téléphone, le LOBOO PH06 intègre la technologie d'amortissement magnétique des vibrations . Il utilise un champ magnétique pour \"flotter\" le module téléphone, absorbant les vibrations à haute fréquence et protégeant les composants internes délicats. De plus, avec la charge sans fil intégrée de 15W, vous arrivez à destination avec une batterie pleine, pas vide. Pourquoi c'est la mise à niveau ultime pour votre cockpit : Suspension \"flottante\" magnétique : Le système d'amortissement magnétique offre une plus grande amplitude pour absorber les vibrations mieux que les simples œillets en caoutchouc. Il protège efficacement les capteurs de votre caméra. Jamais à court d'énergie (double charge) : Dispose d'une charge rapide filaire 36W (Type-C) ET d'une charge sans fil 15W . Que votre téléphone ait une coque ou non, il reste chargé. Utilisation à une main : Pas de bandes élastiques, pas de vis. Il suffit d'enfoncer votre téléphone pour le verrouiller. Pour le libérer, appuyez sur les déclencheurs de déverrouillage à une touche. Cela prend 1 seconde. Construit comme un tank : Usiné en alliage d'aluminium de haute précision. Solide, durable, il ne craquera pas au soleil comme les supports en plastique. Compatibilité universelle : Convient aux téléphones de 125 mm à 169 mm de longueur. (Note : Pour les téléphones pliables volumineux, prenez le kit d'extension PH06). Passage à l'EICMA 2026 : [shortcode id=\"20619137\"/][shortcode id=\"20619136\"/]",
-    "price": 59.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/support-smartphone-moto-loboo-ph06-recharge-sans-fil-15w-amortisseur-magnetique-full-aluminium-cnc-3431766",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/J75II/3431766_1/re/1200x1200/qt/90/3431766_1.jpg",
-    "detected_at": "2026-10-13T14:07:02+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 59.99,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lords Of The Fallen sur PS5",
-    "description": "15,12€ - Amazon Prix sympa pour un bon petit jeu ️ Description : Après une ère de la pire tyrannie qui soit, le dieu démon Adyr était enfin vaincu. Hélas, les dieux ne restent pas déchus éternellement. Les éons ont passé et la résurrection d'Adyr approche. Le seul espoir de l'humanité est l'Église d'Orius, derniers guerriers de la lumière dans un monde qui s'assombrit de jour en jour. Cet ordre divin a déterré une relique au pouvoir contre nature, une lanterne permettant de passer entre le royaume des vivants et celui des morts. Au mépris de sa foi, l'Église confère ce pouvoir sinistre à ses plus féroces et fidèles champions : les Croisés noirs. Détails & caractéristiques Explorez deux vastes mondes parallèles Unissez-vous ou combattez en multijoueur en ligne Maîtrisez des combats tactiques fluides et fulgurants",
-    "price": 15.12,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lords-of-the-fallen-ps5-3431765",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/AQFWf/3431765_1/re/1200x1200/qt/90/3431765_1.jpg",
-    "detected_at": "2026-10-13T14:05:00+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.12,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 15.12,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Smartphone Google Pixel 11 Pro XL 5G 256 Go noir volcanique (via ODR 200€)",
-    "description": "1 099€ - Boulanger Le Google Pixel 11 Pro XL 5G 256Go Noir Volcanique est un smartphone avec un design élégant et des finitions haut de gamme. **spécifications du produit :** - Puce Google Tensor G6 - Intelligence Gemini - Façade arrière en verre dépoli satiné - Cadre en métal poli - Couleur : Noir Volcanique",
-    "price": 1099.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/smartphone-google-pixel-11-pro-xl-5g-256go-noir-volcanique-via-odr-200eur-3431764",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Tb8Dz/3431764_1/re/1200x1200/qt/90/3431764_1.jpg",
-    "detected_at": "2026-10-13T14:02:32+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1099.0,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 1099.0,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "1 nuit pour 2 au Relais & Châteaux Hotel Schwarzmatt avec Petit-déj + Accès à l'espace bien-être Sano e Salvo + Carte Konus",
-    "description": "110€ - Travelcircus Hotel de Luxe Relais & Chateau Charmante station thermale au bord de la Forêt-Noire. Ici, vous attendent des collines douces, des vignobles baignés de soleil et un paysage thermal bienfaisant. Que vous ayez envie de promenades relaxantes dans le parc thermal, de découvrir les ruines des bains romains ou simplement de profiter de l'air frais – Badenweiler vous offre détente et plaisir au cœur d'une nature idyllique. Plusieurs nuits disponible à 55€ par nuit et par personne (d'où le prix de 110€). Avec petit déjeuner inclus ....mais surtout en plus du prix attractif l'accès illimité : Accès à l'espace bien-être Sano e Salvo - avec piscine, sauna finlandais, sauna bio et un bain de vapeur ainsi qu'une petite terrasse avec chaises longues.",
-    "price": 110.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/relais-chateaux-hotel-schwarzmatt-3431762",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/V53b7/3431762_1/re/1200x1200/qt/90/3431762_1.jpg",
-    "detected_at": "2026-10-13T14:02:06+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 110.0,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 110.0,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Mini PC Kamrui E3B AMD Ryzen 5 7530U, 16 Go de RAM, 512 Go de ROM LPDDR4X, WIFI6, écran 4K, Bluetooth 5.2",
-    "description": "300,60€ - AliExpress KAMRUI E3B AMD Ryzen 5 7530U Mini PC Gaming 16 Go de RAM 512 Go de ROM LPDDR4X WIFI6 Affichage 4K Bluetooth 5.2 Mini Ordinateur de Bureau Conception compacte Son format compact rend ce Mini PC idéal pour les foyers disposant d'un espace limité. Mémoire généreuse Avec 16 Go de RAM LPDDR4X, ce Mini PC assure un fonctionnement fluide et un traitement rapide des données. Processeur Haute Performance Équipé du processeur AMD Ryzen 5 7530U, ce Mini PC offre une expérience de multitâche et de jeu fluide. Compatibilité avec les écrans 4K Ce mini PC prend en charge les écrans 4K, offrant des images nettes et éclatantes pour vos besoins en matière de jeux et de divertissement. Espace de stockage spacieux Doté d'une mémoire ROM de 512 Go, ce Mini PC offre un espace suffisant pour vos fichiers et jeux.",
-    "price": 300.6,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/mini-pc-de-jeu-kamrui-e3b-amd-ryzen-5-7530u-16-go-de-ram-512-go-de-rom-lpddr4x-wifi6-ecran-4k-bluetooth-52-3431760",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xs7vH/3431760_1/re/1200x1200/qt/90/3431760_1.jpg",
-    "detected_at": "2026-10-13T14:01:06+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 300.6,
-        "observed_at": "2026-10-13T14:16:08.335598+00:00"
-      },
-      {
-        "price": 300.6,
-        "observed_at": "2026-10-14T14:20:09.164953+00:00"
       }
     ]
   }
