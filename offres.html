@@ -849,7 +849,7 @@ function renderOffers() {
       (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span>') +
       (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice
         ? '<span class="deal-old-price">' + oldPrice + '</span>'
-        : (price ? '<span class="deal-price-note">Prix de référence indisponible</span>' : '')) +
+        : '') +
       (discount !== null && discount > 0 ? '<span class="deal-discount">-' + Math.round(discount) + ' %</span>' : '') + '</div>';
     const title = String(offer.title || "Offre sans titre").replace(/[<>]/g,"");
     const category = inferCategory(offer).replace(/[<>]/g,"");
@@ -901,12 +901,14 @@ function openOfferDetails(url) {
   const merchantUrl = typeof offer.merchant_url === "string" && /^https:\/\//i.test(offer.merchant_url) ? offer.merchant_url : url;
   root.innerHTML =
     '<div class="offer-detail-top">'+(image?'<img class="offer-detail-image" src="'+escapeAttribute(image)+'" alt="'+escapeAttribute(offer.title||"")+'" loading="lazy" referrerpolicy="no-referrer">':'<div class="offer-detail-image"></div>')+
-    '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=75?"high":trustInfo.score>=42?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div><div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
+    '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=75?"high":trustInfo.score>=40?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div><div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
     '<div class="offer-detail-facts"><div class="offer-detail-fact"><span>Source de la publication</span><strong>'+escapeHtml(source)+'</strong></div><div class="offer-detail-fact"><span>Catégorie</span><strong>'+escapeHtml(category)+'</strong></div><div class="offer-detail-fact"><span>Prix de référence</span><strong>'+(reference!==null&&price!==null&&reference>price?formatPrice(reference):"Non communiqué par la source")+'</strong></div><div class="offer-detail-fact"><span>Dernier repère temporel</span><strong>'+(date?date.toLocaleString("fr-FR"):"Date inconnue")+'</strong></div></div>'+
     (description?'<section class="offer-detail-section"><h3>Description et conditions</h3><div class="offer-detail-description">'+escapeHtml(description)+'</div></section>':"")+
     '<section class="offer-detail-section"><h3>Pourquoi cet indice de confiance ?</h3><div class="offer-detail-reasons">'+(reasons||"<span>Peu d’éléments documentés</span>")+'</div>'+(warnings?'<div class="offer-detail-reasons offer-detail-warnings" style="margin-top:8px">'+warnings+'</div>':"")+'<p class="deal-meta">Le score évalue la fiabilité des informations disponibles, pas la qualité du produit.</p></section>'+
     '<section class="offer-detail-section"><h3>Historique DealRadar</h3>'+renderPriceHistory(offer)+'</section>'+
-    '<div class="offer-detail-actions"><a class="primary" href="'+escapeAttribute(merchantUrl)+'" target="_blank" rel="noopener noreferrer sponsored">Voir chez le marchand ↗</a><a href="'+escapeAttribute(reportOfferUrl(offer,"confirm"))+'" target="_blank" rel="noopener noreferrer">Confirmer le prix</a><a href="'+escapeAttribute(reportOfferUrl(offer,"report"))+'" target="_blank" rel="noopener noreferrer">Signaler un problème</a><a href="'+escapeAttribute(reportCategoryUrl(offer))+'" target="_blank" rel="noopener noreferrer">Signaler la catégorie</a></div>';
+    '<div class="offer-detail-actions"><a class="primary" href="'+escapeAttribute(merchantUrl)+'" target="_blank" rel="noopener noreferrer sponsored">Voir chez le marchand ↗</a>' +
+      (/dealabs/i.test(String(offer.source||"")+" "+url) && merchantUrl !== url ? '<a href="'+escapeAttribute(url)+'" target="_blank" rel="noopener noreferrer">Voir le deal Dealabs ↗</a>' : '') +
+      '<a href="'+escapeAttribute(reportOfferUrl(offer,"confirm"))+'" target="_blank" rel="noopener noreferrer">Confirmer le prix</a><a href="'+escapeAttribute(reportOfferUrl(offer,"report"))+'" target="_blank" rel="noopener noreferrer">Signaler un problème</a><a href="'+escapeAttribute(reportCategoryUrl(offer))+'" target="_blank" rel="noopener noreferrer">Signaler la catégorie</a></div>';
   document.getElementById("offer-dialog-title").textContent="Fiche produit";
   if(!dialog.open) dialog.showModal();
 }
