@@ -1,5 +1,26 @@
 [
   {
+    "title": "Pyrex - Cook & Heat - Plat Ron... four, Conservez et Réchauffez",
+    "price": 12.6,
+    "reference_price": 17.99,
+    "discount_percent": 29.96,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07G8J53ZB",
+    "image_url": "https://m.media-amazon.com/images/P/B07G8J53ZB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-14 07:17:19",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.6,
+        "observed_at": "2026-10-14T07:18:54.939978+00:00"
+      }
+    ]
+  },
+  {
     "title": "SEVERIN Cafetière avec broyeur... 10 tasses, Noir/Inox, KA 4810",
     "price": 99.99,
     "reference_price": 114.99,
@@ -1754,7 +1775,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1775,7 +1796,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1796,7 +1817,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1817,7 +1838,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1838,7 +1859,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:00:32.150890+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1901,7 +1922,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1922,7 +1943,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1943,7 +1964,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1964,7 +1985,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:03:53.173756+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -1985,7 +2006,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2006,7 +2027,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2027,7 +2048,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2048,7 +2069,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:02:13.423164+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2069,7 +2090,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2090,7 +2111,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2111,7 +2132,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2132,7 +2153,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2153,7 +2174,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:05:10.942815+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2174,7 +2195,7 @@
     "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:05:10.942815+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2195,7 +2216,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2216,7 +2237,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2237,7 +2258,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T02:13:59.558809+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2258,7 +2279,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2279,7 +2300,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2300,7 +2321,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2321,7 +2342,7 @@
     "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2342,7 +2363,7 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2363,7 +2384,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:06:37.168666+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2384,7 +2405,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:08:00.328790+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2405,7 +2426,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2426,7 +2447,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2447,7 +2468,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2468,7 +2489,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2489,7 +2510,7 @@
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2552,7 +2573,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:11:23.177680+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2573,7 +2594,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -2594,7 +2615,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:09:44.711691+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -6647,7 +6668,7 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:16:18.448667+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -6668,7 +6689,7 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:16:18.448667+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -6689,7 +6710,7 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:16:18.448667+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
@@ -6710,8 +6731,8 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:16:18.448667+00:00",
-    "merchant_url": "https://www.decathlon.fr/p/couteau-chasse-multifonctions-x7-orange/163153/c20m8395979",
+    "price_checked_at": null,
+    "merchant_url": "",
     "price_history": [
       {
         "price": 23.99,
@@ -6731,12 +6752,34 @@
     "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:16:18.448667+00:00",
+    "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
         "price": 2269.0,
         "observed_at": "2026-10-12T12:59:39.197481+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Armoire en tissu Songmics XXL (150 x 175 cm) - 12 Compartiments, Noir",
+    "description": "21,82€ - Amazon À propos de cet article [Grande capacité] D’une taille de 45 x 150 x 175 cm, cette armoire offre de l’espace pour ranger les habits de toute la famille. La zone de suspension a une hauteur de 132 cm pour les vêtements longs tels que les manteaux, les robes et plus encore [Bien compartimentée] Cette penderie est divisée en 12 cases et 1 zone de suspension. Vous pouvez suspendre les chemises sur la tringle, trier les pantalons et les chaussettes sur les étagères et placer les chaussures en bas [Excellente stabilité] Ce placard est constitué de barres métalliques épaisses d'un diamètre de 16 mm, de raccords en plastique de qualité et d'un tissu non-tissé de 120 g/㎡. La tringle supporte jusqu’à 15 kg, chaque étagère supporte jusqu'à 5 kg [Montage facile] Grâce aux instructions illustrées et aux pièces numérotées, il suffit d’emboîter les barres et les raccords, même pas besoin d’outil. En plus, des raccords de rechange sont fournis [Anti-poussière, accès facile] Fermez la fermeture éclair, la housse en tissu protègent vos vêtements. Vous pouvez aussi laisser la porte ouverte pour un accès facile dans votre chambre ou votre dressing",
+    "price": 21.82,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/armoire-en-tissu-songmics-xxl-150x175-cm-12-compartiments-noir-3432122",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/xvUjR/3432122_1/re/1200x1200/qt/90/3432122_1.jpg",
+    "detected_at": "2026-10-14T07:15:00+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B00BHC6O5U?smid=A1X6FK5RDHNB96",
+    "price_history": [
+      {
+        "price": 21.82,
+        "observed_at": "2026-10-14T07:18:54.939978+00:00"
       }
     ]
   },
@@ -9246,8 +9289,8 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
+    "merchant_url": "https://www.darty.com/nav/achat/telephonie/securite/camera/aqara_g100_select_b.html",
     "price_history": [
       {
         "price": 29.99,
@@ -9268,7 +9311,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -9290,7 +9333,7 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -9312,8 +9355,8 @@
     "category": "Maison",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
+    "merchant_url": "https://www.amazon.fr/dp/B0GQFQCSFH?smid=A3SMRW38U0CS5F",
     "price_history": [
       {
         "price": 39.99,
@@ -9334,8 +9377,8 @@
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
+    "merchant_url": "https://www.amazon.fr/gp/product/B0BSLL6KMN/ref=ox_sc_act_title_1?smid=A1X6FK5RDHNB96&th=1",
     "price_history": [
       {
         "price": 288.06,
@@ -9356,8 +9399,8 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
+    "merchant_url": "https://www.showroomprive.com/link/product/41839852",
     "price_history": [
       {
         "price": 22.9,
@@ -9378,8 +9421,8 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
+    "merchant_url": "https://www.amazon.fr/dp/B07D3FNGKJ?psc=1",
     "price_history": [
       {
         "price": 20.89,
@@ -9400,7 +9443,7 @@
     "category": "Gaming",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
     "merchant_url": "",
     "price_history": [
       {
@@ -9422,8 +9465,8 @@
     "category": "Mode",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
+    "merchant_url": "https://www.amazon.fr/dp/B0FX8466MB?th=1&psc=1",
     "price_history": [
       {
         "price": 24.85,
@@ -9444,8 +9487,8 @@
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
+    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
+    "merchant_url": "https://www.amazon.fr/dp/B00HCYTOV8?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 12.0,
@@ -12135,28 +12178,6 @@
     "price_history": [
       {
         "price": 19.85,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Pierres d'équilibre pour Enfants Lupilu - 6 pièces",
-    "description": "11,99€ - Lidl Pierres d'équilibre lupilu pour jeux d'enfants/d'ados",
-    "price": 11.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/pierres-dequilibre-pour-enfants-6-pieces-lupilu-3431817",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/7LQyp/3431817_1/re/1200x1200/qt/90/3431817_1.jpg",
-    "detected_at": "2026-10-13T15:28:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 11.99,
         "observed_at": "2026-10-13T15:36:48.347972+00:00"
       }
     ]
