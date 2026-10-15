@@ -1,5 +1,47 @@
 [
   {
+    "title": "Olympia 6105 pour systèmes Pro...roHome Détecteur d'eau – Blanc",
+    "price": 23.99,
+    "reference_price": 29.31,
+    "discount_percent": 18.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0746QNWMT",
+    "image_url": "https://m.media-amazon.com/images/P/B0746QNWMT.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 05:15:12",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 23.99,
+        "observed_at": "2026-10-15T05:17:20.727187+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DIGITUS SFP+ 10G MM 850nm 300m with DDM",
+    "price": 36.04,
+    "reference_price": 43.75,
+    "discount_percent": 17.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00EB1PMIY",
+    "image_url": "https://m.media-amazon.com/images/P/B00EB1PMIY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 05:15:11",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 36.04,
+        "observed_at": "2026-10-15T05:17:20.727187+00:00"
+      }
+    ]
+  },
+  {
     "title": "Robot lave-vitres Lifenaxx LX-...s de nettoyage et télécommande",
     "price": 144.99,
     "reference_price": 150.49,
@@ -10782,14 +10824,15 @@
     ]
   },
   {
-    "title": "Samsung Galaxy A37 5G Lavande 8 Go 256 Go AMZ",
-    "price": 459.0,
-    "reference_price": 553.64,
-    "discount_percent": 17.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GR629R8N",
-    "image_url": "https://m.media-amazon.com/images/P/B0GR629R8N.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:38:49",
+    "title": "Lot de 3 ventilateurs Thermaltake CT120 EX ARGB Ventilateur de refroidissement inversé pour PC",
+    "description": "22,84€ - Amazon Lames inversées : garantit que l'éclairage RVB est visible dans différentes directions de flux d'air, améliorant l'esthétique sans sacrifier la performance. Technologie MagForce 2.0 : fournit des connexions magnétiques rapides avec des plots de contact plus grands, améliorant l'efficacité et la fiabilité de l'installation. Haute performance : offre un flux d'air de 65,82 CFM et une pression statique de 1,87 mm-H2O, tout en maintenant un faible niveau sonore de 31,2 dBA. Contrôle RVB complet : dispose de 9 LED adressables compatibles avec les principaux logiciels de synchronisation de la carte mère pour une personnalisation complète. Construction robuste : conçu avec un cadre solide et des coussinets en caoutchouc anti-vibrations pour garantir la stabilité et réduire le bruit. Spécifications Marque: Thermaltake Type de connecteur d'alimentation: 4 broche Tension: 12 Volts Puissance en watts: 9 Watts Méthode de refroidissement: Ventilateur Appareils compatibles: Ordinateur Niveau sonore: 31,2 Décibels Matériau: Caoutchouc Vitesse de rotation maximale: 2000 tr/min Capacité de débit d'air: 65,82 Pieds cubes par minute Puissance: 9 Watts Dispositifs compatibles: Ordinateur Niveau de bruit: 31,2 Décibels Débit d'air: 65,82 Pieds cubes par minute Type de matériau: Caoutchouc UPC: 841163094686 Fabricant: Thermatlake Nombre d'articles: 1 Pays d'origine du produit: Chine Poids de l'article: 1,7 Livres Modèle: CT120 EX Reverse Numéro de pièce fabricant: CL-F192-PL12SW-A ASIN: B0D7NQK5VZ Moyenne des commentaires client: 4,8 4,8 sur 5 étoiles (65) 4,8 sur 5 étoiles GTIN: 841163094686 Commentaires client",
+    "price": 22.84,
+    "reference_price": 77.0,
+    "discount_percent": 70.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lot-de-3-ventilateurs-thermaltake-ct120-ex-argb-ventilateur-de-refroidissement-inverse-pour-pc-3432735",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/3ZVvu/3432735_1/re/1200x1200/qt/90/3432735_1.jpg",
+    "detected_at": "2026-10-15T05:00:13+00:00",
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
@@ -10797,24 +10840,21 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 459.0,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
-      },
-      {
-        "price": 459.0,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
+        "price": 22.84,
+        "observed_at": "2026-10-15T05:17:20.727187+00:00"
       }
     ]
   },
   {
-    "title": "Harman Kardon Aura Studio 5 Ha...oré, Halo ambiant à 360°, Noir",
-    "price": 296.6,
-    "reference_price": 329.95,
-    "discount_percent": 10.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FX2VM6CG",
-    "image_url": "https://m.media-amazon.com/images/P/B0FX2VM6CG.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:38:49",
+    "title": "Apple iPhone 17 Pro 16 cm (6.3\") Double SIM iOS 26 5G USB Type-C",
+    "description": "1 184€ - E.Leclerc L'Apple iPhone 17 Pro est un smartphone avancé avec des fonctionnalités modernes. *caractéristiques du produit :* - Écran de 16 cm (6.3\") - Résolution de 2622 x 1206 pixels - Processeur Apple A19 Pro - Stockage interne de 256 Go - Caméra arrière de 48 MP avec trois modules photo - Double SIM - Système d'exploitation iOS 26 - Couleur orange - Poids de 206 g",
+    "price": 1184.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/apple-iphone-17-pro-16-cm-63-double-sim-ios-26-5g-usb-type-c-3432734",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/bJeOV/3432734_1/re/1200x1200/qt/90/3432734_1.jpg",
+    "detected_at": "2026-10-15T04:58:29+00:00",
     "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
@@ -10822,12 +10862,8 @@
     "merchant_url": "",
     "price_history": [
       {
-        "price": 296.6,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
-      },
-      {
-        "price": 296.6,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
+        "price": 1184.0,
+        "observed_at": "2026-10-15T05:17:20.727187+00:00"
       }
     ]
   },
@@ -10877,7 +10913,7 @@
   },
   {
     "title": "SAUMON FUMÉ ÉCOSSE LABEYRIE 5 tranches - 175 g",
-    "description": "6,25€ SAUMON FUMÉ ÉCOSSE LABEYRIE 5 tranches - soit 175 g",
+    "description": "6,25€ - Intermarché SAUMON FUMÉ ÉCOSSE LABEYRIE 5 tranches - soit 175 g",
     "price": 6.25,
     "reference_price": 8.93,
     "discount_percent": 30.0,
@@ -11207,7 +11243,7 @@
   },
   {
     "title": "Max Payne 2: The Fall of Max Payne à 1,77€ / Max Payne à 2,46€ / Max Payne 3 à 5,14€ sur PC (dématérialisé - Steam)",
-    "description": "1,77€ - Gamesplanet Max Payne 2: The Fall of Max Payne est une histoire d'amour violente, digne d'un film noir. Sombre, tragique et intense, cette histoire en profondeur est un véritable voyage palpitant de rebondissements et de révélations choquantes. Sa vie en ruine, Max Payne se retrouve de nouveau au NYPD. Au cours d'une enquête de routine pour meurtre, il rencontre Mona Sax, une femme qu'il croyait morte, une femme fatale suspectée de meurtre. Elle détient les clés des questions qui le hantent. Mais rien n'est simple dans la nuit sombre et tragique de New York. Une armée de voyous du monde souterrain se dresse entre Max et les réponses qu'il cherche. Son voyage au plus profond de son propre enfer personnel continue. Max Payne 2: The Fall of Max Payne offre une expérience de jeu intense. Il propose des séquences d'action féroces mais élégantes et des fusillades au ralenti qui sont devenues synonymes de la série Max Payne. Max Payne à 2,46€ Max Payne est un homme qui n'a rien à perdre dans la nuit violente et froide de la ville. Un policier infiltré en fuite accusé de meurtre, traqué par les flics et la mafia, Max est un homme dos au mur, qui mène une bataille qu'il ne peut espérer gagner. Max Payne est un jeu d'action implacable qui raconte l'histoire d'un homme au bord du gouffre, qui se bat pour laver son nom tout en essayant de découvrir la vérité sur sa famille assassinée parmi une myriade de rebondissements et de voyous tordus dans les entrailles de New York pendant la pire tempête de neige du siècle. Le jeu de tir d'action cinématographique original et révolutionnaire, Max Payne, a introduit le concept de Bullet Time dans les jeux vidéo. Grâce à son gameplay au ralenti élégant combiné à une histoire sombre et tordue, Max Payne a redéfini le genre du jeu de tir d'action. Max Payne 3 à 5,14€ Jouable sur steam deck Pour Max Payne, la descente aux enfers continue : les plaies du passé, la mort de sa femme et de son enfant, ne sont pas refermées. Après avoir quitté la police, à la dérive, accro aux antalgiques, Max part travailler à São Paulo, au Brésil, pour une société de sécurité. Il protège la famille d'un riche magnat de l'immobilier, Rodrigo Branco. C'est sa dernière chance pour fuir son passé. Mais la situation dégénère et Max Payne se retrouve seul dans les rues d'une ville étrangère, à la recherche de la vérité. Il va devoir se battre pour fuir cette situation impossible. Proposant des mécaniques de tir exceptionnelles, ainsi qu'une histoire sombre et riche en rebondissements, Max Payne 3 de Rockstar Games s'impose comme une expérience cinématique intense et profonde. Cette édition intégrale de Max Payne 3 inclut le jeu original complet et tous les contenus téléchargeables précédemment sortis, dont : Pack Match à mort au paradis, Pack Souvenirs douloureux, Pack Prise d'otages, Pack Justice locale, Pack Assassin silencieux, Carte cimetière, Pack de l'Édition spéciale, Coup d'éclat carnage, Objet boîte de pilules, Avatar Max Payne 1.",
+    "description": "1,77€ - Gamesplanet Dispo aussi : Max Payne à 2,46€ et Max Payne 3 à 5,14€ Max Payne 2: The Fall of Max Payne est une histoire d'amour violente, digne d'un film noir. Sombre, tragique et intense, cette histoire en profondeur est un véritable voyage palpitant de rebondissements et de révélations choquantes. Sa vie en ruine, Max Payne se retrouve de nouveau au NYPD. Au cours d'une enquête de routine pour meurtre, il rencontre Mona Sax, une femme qu'il croyait morte, une femme fatale suspectée de meurtre. Elle détient les clés des questions qui le hantent. Mais rien n'est simple dans la nuit sombre et tragique de New York. Une armée de voyous du monde souterrain se dresse entre Max et les réponses qu'il cherche. Son voyage au plus profond de son propre enfer personnel continue. Max Payne 2: The Fall of Max Payne offre une expérience de jeu intense. Il propose des séquences d'action féroces mais élégantes et des fusillades au ralenti qui sont devenues synonymes de la série Max Payne. Max Payne à 2,46€ Max Payne est un homme qui n'a rien à perdre dans la nuit violente et froide de la ville. Un policier infiltré en fuite accusé de meurtre, traqué par les flics et la mafia, Max est un homme dos au mur, qui mène une bataille qu'il ne peut espérer gagner. Max Payne est un jeu d'action implacable qui raconte l'histoire d'un homme au bord du gouffre, qui se bat pour laver son nom tout en essayant de découvrir la vérité sur sa famille assassinée parmi une myriade de rebondissements et de voyous tordus dans les entrailles de New York pendant la pire tempête de neige du siècle. Le jeu de tir d'action cinématographique original et révolutionnaire, Max Payne, a introduit le concept de Bullet Time dans les jeux vidéo. Grâce à son gameplay au ralenti élégant combiné à une histoire sombre et tordue, Max Payne a redéfini le genre du jeu de tir d'action. Max Payne 3 à 5,14€ Jouable sur steam deck Pour Max Payne, la descente aux enfers continue : les plaies du passé, la mort de sa femme et de son enfant, ne sont pas refermées. Après avoir quitté la police, à la dérive, accro aux antalgiques, Max part travailler à São Paulo, au Brésil, pour une société de sécurité. Il protège la famille d'un riche magnat de l'immobilier, Rodrigo Branco. C'est sa dernière chance pour fuir son passé. Mais la situation dégénère et Max Payne se retrouve seul dans les rues d'une ville étrangère, à la recherche de la vérité. Il va devoir se battre pour fuir cette situation impossible. Proposant des mécaniques de tir exceptionnelles, ainsi qu'une histoire sombre et riche en rebondissements, Max Payne 3 de Rockstar Games s'impose comme une expérience cinématique intense et profonde. Cette édition intégrale de Max Payne 3 inclut le jeu original complet et tous les contenus téléchargeables précédemment sortis, dont : Pack Match à mort au paradis, Pack Souvenirs douloureux, Pack Prise d'otages, Pack Justice locale, Pack Assassin silencieux, Carte cimetière, Pack de l'Édition spéciale, Coup d'éclat carnage, Objet boîte de pilules, Avatar Max Payne 1.",
     "price": 1.77,
     "reference_price": 2.0,
     "discount_percent": 11.5,
@@ -14277,7 +14313,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.intermarche.com/catalogues/2756920102026-QVwG8s19?version=V3&page=76",
     "price_history": [
       {
         "price": 79.9,
@@ -14321,7 +14357,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B015FNAQ32?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 33.99,
@@ -14343,7 +14379,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B08XXZW84W?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 16.99,
@@ -14365,7 +14401,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://fr.aliexpress.com/item/1005010132126409.html",
     "price_history": [
       {
         "price": 28.94,
@@ -14387,7 +14423,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://fr.aliexpress.com/item/1005009522278459.html",
     "price_history": [
       {
         "price": 52.69,
@@ -14453,7 +14489,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.cdiscount.com/jeux-pc-video-console/nintendo-switch/legendes-pokemon-z-a-nintendo-switch-2-edition/f-10328-ninns2legendesza.html",
     "price_history": [
       {
         "price": 38.99,
@@ -14464,9 +14500,9 @@
   {
     "title": "[Ikea Family] 10% remboursés en bon d'achat pour l'achat d'une cuisine Metod d'un minimum de 2000€",
     "description": "IKEA Jusqu'au 22 novembre :) Pour l'achat d'une cuisine METOD de 2 000 € minimum dans un magasin IKEA en France métropolitaine et sur IKEA.fr (hors électroménagers et services éventuels), recevez un bon d'achat de 10% de sa valeur (d'un montant maximum de 1000 €). Conditions : https://www.ikea.com/fr/fr/campaigns/offre-electromenager-pub8bef2870/",
-    "price": 16.99,
-    "reference_price": 28.91,
-    "discount_percent": 41.2,
+    "price": 22.84,
+    "reference_price": 77.0,
+    "discount_percent": 70.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/ikea-family-10-rembourses-en-bon-dachat-pour-lachat-dune-cuisine-metod-dun-minimum-de-2000eur-3432525",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/RM50d/3432525_1/re/1200x1200/qt/90/3432525_1.jpg",
@@ -14480,6 +14516,10 @@
       {
         "price": 16.99,
         "observed_at": "2026-10-14T16:57:28.991143+00:00"
+      },
+      {
+        "price": 22.84,
+        "observed_at": "2026-10-15T05:17:20.727187+00:00"
       }
     ]
   },
@@ -14531,8 +14571,8 @@
     "title": "Billet de Train Eurostar de Paris pour Rotterdam dès 35€ (70€ aller/retour) - Plusieurs dates Ex : 13 Janvier 2026",
     "description": "35€ - Eurostar Billet de train Eurostar Paris - Rotterdam dès 35€ (Plusieurs dates Ex : 13/01) Trajets de train entre Paris Nord et Rotterdam Centraal proposes par la compagnie Eurostar. L offre permet d effectuer des trajets directs aller-retour ou aller simple vers les Pays-Bas avec des billets disponibles a partir de 35€ par trajet selon les dates retenues sur le mois de janvier 2027. Lien direct : https://www.eurostar.com/FR-FR/find-lowest-fares Prix : 35,00€ Frais de port : 0€ Code promo : Aucun Eurostar et Thalys unissent leurs forces sous le nom d’Eurostar et font entrer les voyages internationaux en train dans une nouvelle ère. Nos lignes directes et indirectes forment un réseau ferroviaire unique qui relie la France, la Belgique, les Pays-Bas, l'Allemagne et le Royaume-Uni.",
     "price": 35.0,
-    "reference_price": 52.0,
-    "discount_percent": 32.7,
+    "reference_price": 70.42,
+    "discount_percent": 50.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/billet-de-train-eurostar-de-paris-pour-rotterdam-des-35eur-70eur-allerretour-plusieurs-dates-ex-13-janvier-2026-3432518",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/kxglD/3432518_1/re/1200x1200/qt/90/3432518_1.jpg",
@@ -14554,7 +14594,7 @@
     "description": "73,09€ - Amazon /!\\ REDUCTION LORS DE LA VALIDATION DU PANIER /!\\ très bon clavier que j'utilise depuis plus de un an. Réduction de 15% aussi sur le rose Clavier mécanique sans fil à trois modes】Le clavier de jeu mécanique ROYAL KLUDGE R75 prend en charge 3 modes de connexion : Bluetooth, 2.4G et Type-C filaire. Le clavier de jeu sans fil réagit rapidement en peu de temps, Il peut connecter jusqu'à 3 appareils pour une utilisation multitâche efficace et un changement rapide d'appareil. La batterie de 4000mAh garantit une utilisation durable et stable du produit 【Touches PBT durables】Les touches PBT sont fabriquées avec une technologie de moulage par injection bicolore, offrant une texture mate et des propriétés anti-décoloration, ce qui les rend plus durables. Comparées aux touches ABS, les touches PBT ont une durée de vie plus longue, ce qui améliore le confort et la stabilité de la frappe. De plus, les touches PBT sont moins sujettes à l'usure et conservent leur apparence et leur sensation d'origine plus longtemps 【Clavier Mécanique Gasket Mounted】Il adopte une structure de joint et cinq couches de matériaux insonorisants, et il y a du coton amortissant entre la carte PCB et la coque, ce qui peut réduire efficacement le bruit et les vibrations des touches. Cette conception permet de minimiser le bruit et d'offrir un son doux et pur, offrant ainsi une expérience de frappe fluide 【Creamy Switch mécanique à chaud】Le clavier est équipé d’un Creamy Switch soyeux. Il produit un son soyeux et agréable lorsqu’il est frappé, sans aucun bruit sourd et faible. Il offre une expérience de frappe claire et confortable, permettant aux utilisateurs de ressentir le confort et la satisfaction apportés par le clavier.Le circuit imprimé du clavier est remplaçable à chaud et compatible avec les commutateurs à 3 ou 5 broches 【Conception compacte populaire à 75%】Le clavier Mécanique RK ROYAL KLUDGE R75 est un produit qui convient parfaitement aux amateurs de clavier et aux professionnels, il allie innovation et savoir-faire. Ce clavier mécanique au design compact à 75 % peut apporter plus d’espace utilisable à votre environnement de bureau, tout en ayant une apparence élégante. De plus, il est extrêmement portable, ce qui vous permet de profiter d’une excellente expérience de frappe, où que vous soyez 【Clavier éclairé RVB】Le clavier est équipé d'un rétroéclairage RVB personnalisable qui offre différents modes et ajuste la luminosité et la vitesse de flux. Cela permet de personnaliser l'éclairage pour refléter votre personnalité et style. En plus d'ajouter une ambiance au jeu avec des effets lumineux, le clavier offre également un déclenchement sans fantôme pour une expérience de jeu plus fluide Spécifications Marque: RK ROYAL KLUDGE Appareils compatibles: PC, Tablette Technologie de connectivité: USB-C Description du clavier: Clavier mécanique 75 % avec touches PBT dégradées bleues et grises inspirées de l'océan Utilisations recommandées pour le produit: jeux et utilisation générale de l'ordinateur Caractéristique spéciale: Structure gasket montée, Switchs remplaçables à chaud, Molette, Rétroéclairage RVB personnalisable Couleur: Bleu Gestion de la couleur de rétro-éclairage du clavier: RVB Style: Contemporain\" or \"Élégant Dimensions du produit: 13,4L x 4,2l x 32,3H centimètres appareils compatibles: PC, Tablette technologie de la connectivité: USB-C Fonctionnalités du produit: Structure gasket montée, Switchs remplaçables à chaud, Molette, Rétroéclairage RVB personnalisable Prise en charge des couleurs de rétroéclairage du clavier: RVB Langue: Anglais Source énergétique: Alimenté par batterie Type d’interrupteur: Linéaire Disposition du clavier: QWERTY Orientation de la main: Ambidextre Quantité de boutons: 68 niveau de résistance à l'eau: Non étanche Modèle de commutateur de clavier mécanique: Creamy Switch Nombre total de ports USB 2.0: 1 Version minimale requise du système d’exploitation: Mac OS 12 Monterey, Windows 10 Famille de systèmes d'ex",
     "price": 73.09,
     "reference_price": null,
-    "discount_percent": 15.0,
+    "discount_percent": null,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/rk-royal-kludge-r75-azerty-3432517",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/PA8hi/3432517_1/re/1200x1200/qt/90/3432517_1.jpg",
@@ -23031,6 +23071,10 @@
       {
         "price": 60.37,
         "observed_at": "2026-10-14T05:04:15.358444+00:00"
+      },
+      {
+        "price": 60.37,
+        "observed_at": "2026-10-15T05:17:20.727187+00:00"
       }
     ]
   },
@@ -23053,6 +23097,10 @@
       {
         "price": 39.99,
         "observed_at": "2026-10-14T05:04:15.358444+00:00"
+      },
+      {
+        "price": 39.99,
+        "observed_at": "2026-10-15T05:17:20.727187+00:00"
       }
     ]
   },
@@ -23988,110 +24036,6 @@
       },
       {
         "price": 599.99,
-        "observed_at": "2026-10-14T22:35:34.042416+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Seau Kerbl en Acier Inoxydable - 5.7L",
-    "description": "11,49€ - Amazon Le seau en acier inoxydable Kerbl est un ustensile robuste conçu pour une utilisation polyvalente, que ce soit pour le transport de liquides ou l'alimentation animale. Fabriqué en acier inoxydable AISI 201, ce seau se distingue par sa résistance à la corrosion et sa surface polie brillante qui facilite son entretien, le rendant idéal pour les fermes, écuries, ateliers ou les tâches de nettoyage. Matériau : Acier inoxydable AISI 201. Capacité : 5,7 litres. Conception : Fond plat pour une bonne stabilité et anse de transport. Finition : Poli brillant à l'intérieur et à l'extérieur. Hygiène : Facile à nettoyer et désinfecter. Un compagnon de travail fiable pour toutes les tâches exigeantes, qui ne manquera pas de briller, même après une dure journée.",
-    "price": 11.49,
-    "reference_price": 19.14,
-    "discount_percent": 40.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/seau-kerbl-en-acier-inoxydable-57-l-3432005",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/BR5y3/3432005_1/re/1200x1200/qt/90/3432005_1.jpg",
-    "detected_at": "2026-10-13T22:15:22+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 11.49,
-        "observed_at": "2026-10-13T22:28:12.315028+00:00"
-      },
-      {
-        "price": 11.49,
-        "observed_at": "2026-10-14T22:35:34.042416+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Billet Aller Simple Paris - Amsterdam à utiliser entre le 14 décembre 2026 et le 31 mars 2027",
-    "description": "19€ - Groupon GoVolta propose un nouveau train direct entre la France et les Pays-Bas, sans changement. Choisissez un aller simple, un aller-retour, ou un court séjour combinant l'aller-retour en train avec un hôtel 3 étoiles pour 3 à 5 jours. Trajet Direct, sans changement. Destination : Amsterdam. Gares de départ France : Paris, Amiens, Arras. Belgique : Gand, Anvers. Pays-Bas : Roosendaal, Lage Zwaluwe, Rotterdam, La Haye, Haarlem. Période de voyage Du 14 décembre 2026 au 31 mars 2027, avec des liaisons quotidiennes au départ de Paris. Billets dès 19 €, disponibilité limitée. Les horaires exacts sont affichés lors de la réservation. Inclus Une place garantie et deux bagages à main (55x40x25 cm et 30x20x15 cm).",
-    "price": 19.0,
-    "reference_price": 284.0,
-    "discount_percent": 93.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/paris-amsterdam-des-19-eur-train-direct-sans-changement-3432004",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/TncYr/3432004_1/re/1200x1200/qt/90/3432004_1.jpg",
-    "detected_at": "2026-10-13T22:11:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.0,
-        "observed_at": "2026-10-13T22:28:12.315028+00:00"
-      },
-      {
-        "price": 19.0,
-        "observed_at": "2026-10-14T22:35:34.042416+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Eau de Parfum Homme Guy Laroche Drakkar Bleu - Parfum frais, 100ml (Via Prévoyez Et Économisez)",
-    "description": "18,52€ - Amazon MarqueGuy Laroche Forme de l'articleAérosol Volume de l'article100 Millilitres ParfumAquatique, Frais Concentration de parfumEau de parfum Matériau non utiliséSans aluminium Ressentez la puissance de l’océan. Laissez-vous emporter par un parfum masculin aquatique, glacé et aromatique. Fort et résilient, à l’image de la détermination inébranlable de l’homme moderne. Avec un sommet de pomme croquante et de menthe fraîche, un cœur de lavande et un fond de patchouli boisé. Vaporisez à 8-15 cm de votre peau propre et sèche sur les points de pulsation pour une expérience sensorielle. Spécifications Dimensions du produit (L x l x h): 8 x 4 x 8 cm; 272,16 grammes Date de mise en ligne sur Amazon.fr: 31 mars 2025 Fabricant: L'Oreal ASIN: B0F18YYQDK Numéro du modèle de l'article: 200LF2362 Pays d'origine: France Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Beauté et Parfum Conditionnement du produit: Aérosol Parfum: Aquatique, Frais Concentration du parfum: Eau de parfum Mode d’application: Spray Marque: Guy Laroche Description de la tranche d’âge: Adulte Nom du modèle: Guy Laroche Drakkar Bleu Numéro du modèle: 200LF2362 Numéro de pièce: GUY-L4707304 Classement des meilleures ventes d'Amazon: 3796 en Beauté et Parfum (Voir les 100 premiers en Beauté et Parfum) 10 en Eau de parfum homme Moyenne des commentaires client: 4,3 4,3 sur 5 étoiles (1 819) 4,3 sur 5 étoiles Volume de l’article: 100 Millilitres Nombre d' articles: 1 Unité de comptage: 100 millilitre Type de matériau non utilisé: Sans aluminium Commentaires client",
-    "price": 18.52,
-    "reference_price": 26.65,
-    "discount_percent": 30.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/guy-laroche-drakkar-bleu-eau-de-parfum-homme-parfum-frais-100mlvia-prevoyez-et-economisez-3432002",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/7kKbN/3432002_1/re/1200x1200/qt/90/3432002_1.jpg",
-    "detected_at": "2026-10-13T22:08:37+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 18.52,
-        "observed_at": "2026-10-13T22:28:12.315028+00:00"
-      },
-      {
-        "price": 18.52,
-        "observed_at": "2026-10-14T22:35:34.042416+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Occasion : Câble de Recharge de Voiture Electrique Type 2 3,7kW - 6m avec Écran LCD (Vendeur Tiers - Etat Bon)",
-    "description": "79,95€ - Amazon cable de recharge occasionnel 16a reglable, pas de connectivité, mais amperage reglable, 6m de long marque plutot reconnu je me suis arrété à 10 dans le paniers donc pas mal de stock en \"etat bon etat\" donc 79 ald 119e sachant qu'une version plus recente offre l'application . mais j'imagine que les VE ont leur logiciel interne qui peut gerer cela . il y'a aussi l'option joybuy a 59e sinon mais peut etre plus no name. donc pour un achat malin c'est ptet pas mal avec une hager ou legrand À propos de ce produit 【Charge 1,5 fois plus rapide Plug & Play】Le chargeur voiture electrique permet une recharge simple et rapide jusqu’à 3,7 kW (230 V, 16 A), offrant une vitesse de charge jusqu’à 1,5 fois supérieure à celle d’un chargeur standard 10 A. Réglez facilement le courant de charge (6/8/10/13/16 A) et programmez un départ différé de 0,5 à 8 heures grâce aux boutons intégrés afin de profiter des tarifs d’électricité en heures creuses. 【Protection Avancée contre la Surchauffe】Un capteur de température intégré surveille en continu la prise pendant la charge. Si la température atteint 77°C, la charge s’arrête automatiquement et reprend à 67°C après refroidissement, garantissant une utilisation plus sûre et protégeant la connexion au quotidien. 【Charge Extérieure & Sécurité Fiable】Conçu pour la recharge à domicile et en extérieur, ce chargeur EV offre une conception robuste adaptée aux conditions météorologiques variables. Le RCD Type A (30mA) avec protection DC 6mA améliore la sécurité de charge. Évitez toutefois une exposition prolongée aux fortes pluies ou à l’eau stagnante. 【Câble de 6 m & Kit de Charge Complet】Ce chargeur EV est équipé d’un câble de charge d’une longueur totale de 6 m, offrant un excellent équilibre entre flexibilité et facilité de rangement. Le kit complet comprend un cache étanche, un support mural, un support de câble, un sac de transport et un chiffon microfibre, pour un rangement pratique et une utilisation quotidienne à domicile ou en déplacement. 【Large compatibilité】Compatible avec la plupart des véhicules électriques et hybrides rechargeables équipés d’une prise de recharge Type 2, notamment Model Y/3, e-208, E-Tech, R5 E-Tech, ë-C3, 500e, XC40 Recharge, ainsi que de nombreux autres modèles BEV et PHEV. Commentaires client",
-    "price": 79.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/cable-de-recharge-occasionel-de-16a-ideal-prise-renforce-type-green-up-bon-etat-3432001",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/kRJjS/3432001_1/re/1200x1200/qt/90/3432001_1.jpg",
-    "detected_at": "2026-10-13T22:01:00+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 79.95,
-        "observed_at": "2026-10-13T22:28:12.315028+00:00"
-      },
-      {
-        "price": 79.95,
         "observed_at": "2026-10-14T22:35:34.042416+00:00"
       }
     ]
