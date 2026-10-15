@@ -10,7 +10,8 @@
     "High-tech", "Gaming", "Maison", "Électroménager", "Bricolage",
     "Bébé & enfants", "Animaux", "Mode", "Sport & loisirs",
     "Beauté & santé", "Auto & moto", "Bureau & papeterie",
-    "Alimentation & boissons", "Autre"
+    "Alimentation & boissons", "Jouets & jeux", "Jardin & extérieur",
+    "Culture & sorties", "Autre"
   ];
   const filterByCategory = {
     "High-tech":"tech", "Gaming":"gaming", "Maison":"maison",
@@ -18,7 +19,8 @@
     "Bébé & enfants":"famille", "Animaux":"animaux", "Mode":"mode",
     "Sport & loisirs":"sport", "Beauté & santé":"beaute",
     "Auto & moto":"auto", "Bureau & papeterie":"papeterie",
-    "Alimentation & boissons":"alimentation", "Autre":"autre"
+    "Alimentation & boissons":"alimentation", "Jouets & jeux":"jouets",
+    "Jardin & extérieur":"jardin", "Culture & sorties":"culture", "Autre":"autre"
   };
   const read = (key, fallback) => {
     try {
