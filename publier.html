@@ -117,6 +117,8 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
   const status=document.getElementById("status");
   const telegramButton=document.getElementById("submit-telegram");
   const payloadFallback=document.getElementById("telegram-payload");
+  const mainSubmitButton=form.querySelector(".submit-button");
+  if(String(window.DEALRADAR_API_BASE||"").trim()) mainSubmitButton.innerHTML='Envoyer à la modération <span>↗</span>';
   let telegramSubmitUrl="";
   fetch("./bot-info.json",{cache:"no-store"}).then(response=>response.ok?response.json():null).then(info=>{
     if(info&&typeof info.username==="string"&&/^[A-Za-z0-9_]{5,32}$/.test(info.username)){
@@ -215,7 +217,7 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
         status.textContent="L’envoi direct a échoué : "+(error.message||"erreur réseau")+". Réessaie plus tard ou utilise l’envoi GitHub.";
       }finally{
         submitButton.disabled=false;
-        submitButton.innerHTML='Publier avec GitHub <span>↗</span>';
+        submitButton.innerHTML=apiRoot?'Envoyer à la modération <span>↗</span>':'Publier avec GitHub <span>↗</span>';
       }
       return;
     }
