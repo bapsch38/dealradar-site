@@ -1,5 +1,26 @@
 [
   {
+    "title": "Liqui Moly Liquide réfrigérant...risation de Service, SKU: 8916",
+    "price": 12.9,
+    "reference_price": 15.9,
+    "discount_percent": 18.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00295F2R0",
+    "image_url": "https://m.media-amazon.com/images/P/B00295F2R0.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 07:40:12",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.9,
+        "observed_at": "2026-10-15T07:41:25.092101+00:00"
+      }
+    ]
+  },
+  {
     "title": "R-Go Support d'accoudoir, Supp...oulagement de la Douleur, Noir",
     "price": 94.8,
     "reference_price": 97.99,
@@ -3095,7 +3116,7 @@
     "url": "https://www.amazon.fr/dp/B00XJ56F34",
     "image_url": "https://m.media-amazon.com/images/P/B00XJ56F34.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 18:16:43",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -4124,7 +4145,7 @@
     "url": "https://www.amazon.fr/dp/B06XJP3TFS",
     "image_url": "https://m.media-amazon.com/images/P/B06XJP3TFS.01._AC_SL1500_.jpg",
     "detected_at": "2026-10-14 17:19:25",
-    "category": "Autre",
+    "category": "Bricolage",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -10803,27 +10824,90 @@
     ]
   },
   {
-    "title": "Moneta Casserole 20 CM Yes (ZEUS 2.0)",
-    "price": 28.15,
-    "reference_price": 38.08,
-    "discount_percent": 26.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00U2T346G",
-    "image_url": "https://m.media-amazon.com/images/P/B00U2T346G.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:54:18",
-    "category": "Électroménager",
+    "title": "Doudoune de Randonnée sans manches Forclaz MT500 - 660 Cuin, 90/10 Duvet, 355g, Déperlante, Noir ou Vert, Tailles du S au 3XL",
+    "description": "45,49€ - Decathlon Bon plan chez Decathlon sur le gilet doudoune sans manches Forclaz MT500 (duvet naturel) qui passe à 45,49 € au lieu de 64,99 € grâce au code promo FLASH (-30 %). Un indispensable en fond de sac pour le bivouac ou la randonnée en couche intermédiaire pour gagner jusqu'à +6 °C d'apport thermique sous une veste. Prix remisé : 45,49 € avec le code FLASH ⚙️ Spécifications techniques : Garnissage & Chaleur : 90 % duvet de canard gris / 10 % plumes (certifié RDS - bien-être animal). Pouvoir gonflant ≥ 660 CUIN . Poids & Compacité : Seulement 355 g en taille L (130 g de garnissage duvet en L). Se compresse facilement dans sa housse / poche de rangement. Traitement déperlant : Tissu extérieur déperlant sans PFC (résiste à une petite pluie fine). Poches & Ajustements : 3 poches zippées (2 poches mains + 1 poche poitrine), serrage au bas de vêtement. Pour du duvet naturel 660 CUIN à 45 €, la concurrence est quasi-inexistante (souvent du synthétique lourd à ce prix-là). La coupe sans manches offre une grande liberté de mouvement et évite de surchauffer pendant l'effort tout en protégeant le buste du froid. Les + : Très bon rapport poids/chaleur (355g pour 660 CUIN) Certification RDS pour le duvet de canard 3 poches zippées pratiques (dont une poitrine)",
+    "price": 45.49,
+    "reference_price": 64.99,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/doudoune-randonnee-sans-manches-duvet-homme-forclaz-mt500-660-cuin-9010-duvet-355g-deperlante-2-coloris-du-s-au-3xl-3432809",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BlxqV/3432809_1/re/1200x1200/qt/90/3432809_1.jpg",
+    "detected_at": "2026-10-15T07:36:50+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.decathlon.fr/p/doudoune-sans-manches-en-duvet-de-trek-montagne-mt500-homme/12076/c405c382m8858279",
+    "price_history": [
+      {
+        "price": 45.49,
+        "observed_at": "2026-10-15T07:41:25.092101+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lot de 2 Barrières de Parking Bogen Monzana - avec Clés & Socle",
+    "description": "59,99€ - DeubaXXL La barrière de parking rabattable en acier robuste peint par poudrage empêche les automobilistes indésirables de se garer sur votre emplacement privé. Grâce aux bandes réfléchissantes rouges, la borne est bien visible même dans l'obscurité. La serrure intégrée avec deux clés empêche les automobilistes mal garés de rabattre la barrière. Vous avez le contrôle total de qui se gare sur votre parking et de qui ne le fait pas. La structure en acier de 4,6 kg peut être facilement vissée dans le sol à l'aide du matériel de montage fourni, puis installée. Avantages du produit : pliable avec 2 clés serrure intégrée bandes réfléchissantes pour une meilleure perception stable grâce à une plaque de fond matériel de montage inclus Caractéristiques techniques : Dimensions de la plaque de base (Lxl) : 18 x 18 cm Dimensions rabattues (LxlxH) : 70 x 18 x 47 cm Matériau : acier revêtu par poudre Poids : 4,6 kg Couleur : gris / rouge Contenu de la livraison : 1 x jeu de 2 barrières de parking 4 x clés Matériel de montage",
+    "price": 59.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/monzana-barriere-de-parking-bogen-lot-de-2-avec-cle-et-socle-3432808",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mjhkW/3432808_1/re/1200x1200/qt/90/3432808_1.jpg",
+    "detected_at": "2026-10-15T07:34:50+00:00",
+    "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 28.15,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
-      },
+        "price": 59.99,
+        "observed_at": "2026-10-15T07:41:25.092101+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Veste Imperméable Quechua NH500 - 5000mm, Schmerber, 3 Poches, Double Zip, Noir, Vert, Orange ou Violet, Tailles du XS au 3XL",
+    "description": "27,99€ - Decathlon Bon plan chez Decathlon sur la veste imperméable Femme Quechua NH500 (coloris Noir) qui passe à 27,99 € au lieu de 39,99 € grâce au code promo FLASH (-30 %). Modèle très polyvalent, aussi bien adapté pour la randonnée sous pluie modérée que pour un usage urbain quotidien. Prix remisé : 27,99 € avec le code FLASH Tailles : Du XS au 3XL (taille normalement) ⚙️ Spécifications techniques : Imperméabilité : Membranal/Enduction 5 000 mm H2O (Schmerber) — résistance aux averses et pluies modérées (testée à 60 L/m²/h pendant 1h). Coutures étanchées. Ajustements & Ergonomie : Fermeture principale double zip (pratique en position assise). Cordon de serrage à la taille pour cinter la coupe. Capuche réglable par scratch. Bas des manches ajustables / dépliables. Rangements : 3 poches zippées (2 poches mains + 1 poche poitrine). Matériaux : 100 % polyester avec enduction polyuréthane, doublure en mesh respirante. À moins de 28 €, difficile de trouver un meilleur rapport prestation/prix pour une veste de pluie avec une étanchéité éprouvée à 5 000 mm Schmerber et un assemblage à coutures étanchées. Le double zip et le serrage à la taille sont de vrais plus par rapport aux vestes d'entrée de gamme (type Raincut/NH100). Les + : Vraie étanchéité 5 000 mm Schmerber avec coutures soudées Coupe adaptable (double zip + serrage taille) Doublure mesh pour éviter le contact direct avec l'enduction",
+    "price": 27.99,
+    "reference_price": 39.99,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/veste-impermeable-femme-quechua-nh500-noir-5000-mm-schmerber-3-poches-double-zip-plusieurs-coloris-du-xs-au-3xl-3432806",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XBgJq/3432806_1/re/1200x1200/qt/90/3432806_1.jpg",
+    "detected_at": "2026-10-15T07:31:49+00:00",
+    "category": "Mode",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.decathlon.fr/p/veste-de-randonnee-impermeable-femme-nh500-noir/352547/c1m8871469",
+    "price_history": [
       {
-        "price": 28.15,
-        "observed_at": "2026-10-14T18:18:18.461134+00:00"
+        "price": 27.99,
+        "observed_at": "2026-10-15T07:41:25.092101+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Sac de voyage The North Face Base Camp S - 50 L, polyester 1000D, bretelles amovibles",
+    "description": "88,19€ - Alltricks Bretelles alpines amovibles et ajustables Ouverture zippée en D avec rabat zippé résistant aux intempéries Poche zippée en maille Barres d'arrêt supplémentaires Fenêtre imperméable pour pièce d'identité sur le dessus Filet de protection pour garder le sac propre Double couture Poids moyen : 1195 g Volume : 50 litres Dimensions : 33,03 cm x 53.34 cm x 33.02 cm",
+    "price": 88.19,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/sac-de-voyage-the-north-face-base-camp-s-50-l-polyester-1000d-bretelles-amovibles-3432807",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YCKRR/3432807_1/re/1200x1200/qt/90/3432807_1.jpg",
+    "detected_at": "2026-10-15T07:31:14+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 88.19,
+        "observed_at": "2026-10-15T07:41:25.092101+00:00"
       }
     ]
   },
@@ -10851,7 +10935,7 @@
   },
   {
     "title": "Ruban Adhésif Vinyle Marquage De Sécurité 3M - Jaune et Noir, 50 mm x 33 m",
-    "description": "5,97€ - Amazon À propos de cet article Ce produit est conçu, fabriqué, étiqueté et emballé pour être vendu à des clients industriels et professionnels pour une utilisation sur le lieu de travail; Il n'est pas destiné à la vente aux consommateurs ou à l'utilisation par les consommateurs À utiliser pour le collage dans toutes les applications générales Le support adaptable rend le ruban vinyle idéal pour une utilisation sur des surfaces incurvées et irrégulières. L'adhésif caoutchouc offre une bonne adhérence instantanée sur de nombreuses surfaces Conserve une couleur vive dans le temps pour une qualité durable Peut être appliqué à la main ou avec un applicateur au sol Idéal pour des applications de marquage dans les zones de circulation peu fréquentées",
+    "description": "5,97€ - Amazon À propos de cet article Ce produit est conçu, fabriqué, étiqueté et emballé pour être vendu à des clients industriels et professionnels pour une utilisation sur le lieu de travail; Il n'est pas destiné à la vente aux consommateurs ou à l'utilisation par les consommateurs À utiliser pour le collage dans toutes les applications générales Le support adaptable rend le ruban vinyle idéal pour une utilisation sur des surfaces incurvées et irrégulières. L'adhésif caoutchouc offre une bonne adhérence instantanée sur de nombreuses surfaces Conserve une couleur vive dans le temps pour une qualité durable Peut être appliqué à la main ou avec un applicateur au sol Idéal pour des applications de marquage dans les zones de circulation peu fréquentées Spécifications Marque: 3M Couleur: Noir / jaune Matériau: Polychlorure de vinyle Nombre d'articles: 1 Utilisations recommandées pour le produit: Marquage de sécurité, marquage au sol, regroupement, sécurité, maintien Caractéristique spéciale: Forte, Permanente Dimensions du produit: 5l centimètres Recommandation de surface: Multi Surface Niveau de résistance à l'eau: Non étanche Taille: 50 mm Usages recommandés pour le produit: Marquage de sécurité, marquage au sol, regroupement, sécurité, maintien Unité de comptage: 1.0 unité Nombre d’emballages: 1 Code article international: 00021200456817, 50021200456812 Nom de la taille du colis: 1 pièce Composants inclus: no Fabricant: 3M Deutschland GmbH Poids de l'article: 320 Grammes UPC: 021200456817 Point fort de l’article: Auto-adhésif Pays d'origine: Royaume-Uni Nom du type du produit: 3M Numéro de modèle: 766I Numéro de pièce: 766SG50 Classement des meilleures ventes d'Amazon: 1678 en Bricolage (Voir les 100 premiers en Bricolage) 4 en Rubans d'avertissement de sécurité ASIN: B008CNZDRW Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (495) 4,4 sur 5 étoiles Caracteristiques Speciales: Forte, Permanente Niveau d' etancheite: Non étanche Résistance max. à la traction: 40 Livres par pouce Température nominale supérieure: 75 Degrés Celsius Matériau compatible: Plastique, chlorure de polyvinyle, métal, bois, verre Résistance de l’article: Résistant au détachement Format adhésif: Roule Large Nombre de faces adhésives: 1 Emplacement de l'adhésif: Single Sided Matériau adhésif: Caoutchouc Dimensions de l'article L x l x Épaisseur: 5l centimètres Épaisseur de l'article: 10 Centimètres Gamme de largeur: 50 millimètres Type de matériau: Polychlorure de vinyle GTIN: 021200456817 Commentaires client",
     "price": 5.97,
     "reference_price": 9.92,
     "discount_percent": 39.8,
@@ -10859,7 +10943,7 @@
     "url": "https://www.dealabs.com/bons-plans/ruban-adhesif-vinyle-marquage-de-securite-3m-jaunenoir-50-mm-x-33-m-3432804",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/1mHYz/3432804_1/re/1200x1200/qt/90/3432804_1.jpg",
     "detected_at": "2026-10-15T07:19:40+00:00",
-    "category": "Culture & sorties",
+    "category": "Bureau & papeterie",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -10890,6 +10974,28 @@
       {
         "price": 1499.99,
         "observed_at": "2026-10-15T07:28:01.821482+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lave-Linge Hublot Whirlpool W7X89RSILENCEFR - 8 Kg, FreshCare+, Blanc",
+    "description": "399€ - Veepee Le lave-linge le plus silencieux du marché ! Grâce au moteur ZEN, il offre un lavage parfait dans le plus grand silence, ne dépassant pas les 65 dB à l'essorage ! Profitez du moteur ZEN : des performances de lavage exceptionnelles avec un minimum de nuisances sonores et d’une offre complète autour de la Vapeur avec les options FreshCare+, Steam Refresh et Steam Hygiène présentes sur ce lave linge d'une capacité de 8,0 kg. et d'une vitesse d'essorage de 1400 tours/min. - Capacité 8 kg - Classe efficacité énergétique A-30% - Vitesse d'essorage 1400 tr/min - Ajout de vapeur - FreshCare+ - Steam Hygiène - Départ différé 1-24h - Économisez 20% d'énergie par rapport au minimum requis pour une classe A. Technologie 6ème Sens Grâce à des capteurs intelligents, la technologie 6ème Sens adapte la durée du cycle et quantité d'eau en fonction de la charge et du type de fibre. Economisez jusqu'à 50% d'économie, d'eau, d'électricité et de temps.* Testé sur les cycles Pleine Charge 45 mins, Coton, Mixte et Eco 40-60, avec et sans la technologie 6ème sens. Classe Sonore A Une performance silencieuse pour un foyer paisible. Avec sa technologie avancée et ses niveaux sonores de classe A, même en essorage, Whirlpool offre une lessive puissante et discrète. Profitez d’un foyer paisible sans compromis sur la performance. Voir la fiche produit Voir le calcul de l'indice de réparabilité Voir la classe énergétique Voir la documentation RGSP Bénéfices clés Technologie 6ème SENS: l'intelligence pour des résultats de lavage exceptionnels La technologie 6ème SENS définit les meilleurs paramètres de lavage pour fournir des résultats optimaux et vous permet également de réduire votre consommation : une fois que vous avez sélectionné le programme souhaité, grâce à des capteurs intelligents qui déterminent la quantité de linge ainsi que le type de tissus, la technologie permet d'ajuster automatiquement la température et la consommation d'eau nécessaire. Cela vous assure un lavage parfait tout en réalisant des économies d'eau, d'énergie et de temps. Classe Sonore A - Une performance silencieuse pour un foyer paisible La technologie avancée des lave-linge Whirlpool est conçue pour créer un environnement à domicile plus serein. Grâce à un algorithme optimisé cette machine fonctionne à des niveaux de bruit de classe A, même pendant les cycles d'essorage à grande vitesse. Vous pouvez ainsi profiter d'un fonctionnement silencieux sans compromis sur la performance de lavage. Whirlpool offre une lessive puissante et discrète. Profitez d’un foyer paisible sans compromis sur la performance. ZEN Technology™ Silence maximum grâce à Zen motor. Totalement intégré à la cuve, le moteur à transmission directe Zen supprime les vibrations et permet ainsi de réduire significativement le niveau de bruit aussi bien pendant le lavage qu'à l'essorage. De plus, ultra robuste, ce moteur assure de meilleures performances et allonge la durée de vie de votre lave-linge. FreshCare+ - Une nouvelle dimension de fraîcheur grâce à Freshcare+ Grâce à l’action combinée de la vapeur et du brassage en fin de cycle, le système FreshCare+ préserve votre linge et le garde frais et sans odeur jusqu’à 6 heures après la fin du cycle. Vos vêtements auront toujours une bonne odeur de frais comme s'ils venaient d'être lavés et ils pourront attendre sans que vous ne les retrouviez emmêlés et froissés. Tranquillité d'esprit même si vous oubliez votre linge à la fin du cycle - vous pouvez continuer à faire ce que vous aimez le plus Sans pli - La vapeur permet de détendre les fibres et permet ainsi de limiter les plis Steam Hygiene Cette technologie aide à éliminer les bactéries et à protéger les peaux sensibles. Votre linge est purifié grâce à l'injection de vapeur dans le tambour. Purification: désinfecter le linge avec la vapeur chaude. Aucun détergent: Vapeur uniquement, pas d'additifs. Confirmé par Allergy Association UK. Ce traitement élimine jusqu'à 99,9% des bactéries Steam Refresh - Ra",
+    "price": 399.0,
+    "reference_price": null,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/whirlpool-lave-linge-hublot-8kg-freshcare-3432802",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Qi6Nv/3432802_1/re/1200x1200/qt/90/3432802_1.jpg",
+    "detected_at": "2026-10-15T07:18:46+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.veepee.fr/gr/catalog/915412",
+    "price_history": [
+      {
+        "price": 399.0,
+        "observed_at": "2026-10-15T07:41:25.092101+00:00"
       }
     ]
   },
@@ -10947,7 +11053,7 @@
     "url": "https://www.dealabs.com/bons-plans/jeu-de-8-boules-de-petanque-decathlon-loisir-100-3432799",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/ypQIs/3432799_1/re/1200x1200/qt/90/3432799_1.jpg",
     "detected_at": "2026-10-15T07:16:33+00:00",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11049,7 +11155,7 @@
   },
   {
     "title": "Casque Sans Fil Razer BlackShark V2 HyperSpeed - Noir, Microphone, Bluetooth",
-    "description": "61,99€ - Amazon - Design ultra-léger de 280 g pour jouer toute la journée sans fatigue. Son poids optimisé et son système de serrage amélioré en font un casque particulièrement confortable qui vous permet de rester concentré, même pendant les marathons gaming les plus intenses. - Micro à très large bande Razer HyperClear pour un rendu vocal haute définition de niveau professionnel. Grâce à sa large gamme de fréquences, ce micro flexible de nouvelle génération capte tous les détails de votre voix : vos communications en jeu seront toujours claires, puissantes et naturelles. - Haut-parleurs en titane de 50 mm Razer TriForce pour un son clair et puissant. Recouvertes de titane pour plus de clarté, chacune des 3 parties de nos haut-parleurs brevetés est réglée individuellement pour des aigus plus riches, des médiums plus clairs et des graves plus puissants. - Technologie Razer HyperSpeed Wireless pour une réactivité et une fiabilité optimales. Grâce à sa connexion sans fil 2,4 GHz de pointe, profitez de hautes performances et d’une faible latence lors de vos compétitions, mais également d’un son parfaitement synchronisé avec votre jeu. - Oreillettes antibruit et mousse à mémoire de forme ultra-douce pour une concentration ininterrompue et un confort longue durée. Les oreillettes fermées s’adaptent à la forme de votre tête, pour un isolement parfait contre les distractions, tandis que le rembourrage en peluche et le tissu respirant offrent un confort absolu. - 70 heures d’autonomie avec chargement de Type C pour une utilisation de plusieurs jours avec une seule charge. L’autonomie du casque peut atteindre jusqu’à 70 heures avec une seule charge complète, vous permettant ainsi de mener vos compétitions en continu avec un minimum de temps d’arrêt.",
+    "description": "61,99€ - Amazon - Design ultra-léger de 280 g pour jouer toute la journée sans fatigue. Son poids optimisé et son système de serrage amélioré en font un casque particulièrement confortable qui vous permet de rester concentré, même pendant les marathons gaming les plus intenses. - Micro à très large bande Razer HyperClear pour un rendu vocal haute définition de niveau professionnel. Grâce à sa large gamme de fréquences, ce micro flexible de nouvelle génération capte tous les détails de votre voix : vos communications en jeu seront toujours claires, puissantes et naturelles. - Haut-parleurs en titane de 50 mm Razer TriForce pour un son clair et puissant. Recouvertes de titane pour plus de clarté, chacune des 3 parties de nos haut-parleurs brevetés est réglée individuellement pour des aigus plus riches, des médiums plus clairs et des graves plus puissants. - Technologie Razer HyperSpeed Wireless pour une réactivité et une fiabilité optimales. Grâce à sa connexion sans fil 2,4 GHz de pointe, profitez de hautes performances et d’une faible latence lors de vos compétitions, mais également d’un son parfaitement synchronisé avec votre jeu. - Oreillettes antibruit et mousse à mémoire de forme ultra-douce pour une concentration ininterrompue et un confort longue durée. Les oreillettes fermées s’adaptent à la forme de votre tête, pour un isolement parfait contre les distractions, tandis que le rembourrage en peluche et le tissu respirant offrent un confort absolu. - 70 heures d’autonomie avec chargement de Type C pour une utilisation de plusieurs jours avec une seule charge. L’autonomie du casque peut atteindre jusqu’à 70 heures avec une seule charge complète, vous permettant ainsi de mener vos compétitions en continu avec un minimum de temps d’arrêt. Spécifications Marque: Razer Couleur: Noir Emplacement des oreilles: Supra-auriculaire Facteur de forme: Par-dessus les oreilles Impédance: 32 Ohms Insonorisation: Isolation acoustique Réponse en fréquence: 28 KHz Sensibilité: 98 dB Prise jack pour écouteurs: Jack 3,5 mm Nom de modèle: RZ04-04960100-R3M1 Numéro du modèle: RZ04-04960100-R3M1 Nom du modèle: RZ04-04960100-R3M1 contenu de la boîte: [Razer BlackShark V2 HyperSpeed, câble USB sans fil (2,4 GHz ou Bluetooth), manuel d'utilisation (français non garanti), câble de charge USB-C Description de la tranche d’âge: Adulte pays d'origine: Chine Description de la garantie: 2 ans Type d'Emballage: FFP nombre d'articles: 1 Numéro de série: 2 Génération: 2 pièces Code article international: 08886419378235 Nombre d’emballages: 1 fabriquant: Razer Est dédicacé: Non numéro de pièce: 8886419378235 Classement des meilleures ventes d'Amazon: 28 en Jeux vidéo (Voir les 100 premiers en Jeux vidéo) 3 en Casques gaming pour PC ASIN: B0CBRTBSNV Moyenne des commentaires client: 4,0 4,0 sur 5 étoiles (1 228) 4,0 sur 5 étoiles Placement des écouteurs auditifs: Supra-auriculaire facteur de forme des écouteurs: Par-dessus les oreilles Forme de l'écouteur: ronde Type de produit: BlackShark V2 HyperSpeed Couleur de l'étui: Noir Thème: Jeu vidéo Poids de l'article: 740 Grammes Unité de comptage: 1.0 unité unité de mesure de l'impédance: 32 Ohms Contrôle du bruit: Isolation acoustique Réponse de fréquence: 28 KHz Type de conducteur audio: Dynamique Taille du pilote audio: 50 Millimètres Fonctionnalités de contrôle du bruit: noise_cancellation matériel interne: Mousse à mémoire de forme respirante Usages particuliers du produit: Jeu, Professionnel Usages recommandés pour le produit: Jeu vidéo appareils compatibles: consoles de jeu et téléphones portables modernes Caractéristiques du câble: Détachable niveau de résistance à l'eau: Non étanche Matériau de l'étui: Mousse à mémoire de forme respirante Fonctionnalités du produit: Contrôle du volume, Légère Électrique: Non Nombre de niveaux de puissance: 1 Jack écouteurs: Jack 3,5 mm technologie de la connectivité: Filaire, Sans fil technologie sans fil: Radio-fréquence Version Bluetooth: 5.2 Interface matérielle: Bluet",
     "price": 61.99,
     "reference_price": 86.94,
     "discount_percent": 28.7,
@@ -11079,7 +11185,7 @@
     "url": "https://www.dealabs.com/bons-plans/geologic-3-boules-de-petanque-competition-tendre-upsilon-taille-72mm-a-76mm-poids-690gr-3432793",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/GuFPc/3432793_1/re/1200x1200/qt/90/3432793_1.jpg",
     "detected_at": "2026-10-15T07:12:56+00:00",
-    "category": "Autre",
+    "category": "Sport & loisirs",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
@@ -11281,7 +11387,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0DHSFHMJH?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 11.24,
@@ -23497,7 +23603,7 @@
     "description": "L'Oréal Paris Code CATSEYES : -15% sur le site L'Oréal Paris, valable jusqu'au 30/10/2026 pour toute commande d'au moins 25€. Il n'est pas cumulable avec d'autres offres, et la bannière précise qu'il faut bien enregistrer son code (à ajouter dans le panier ou au compte avant de payer). Source du code promo : Lieu de consolation pour les perdants du jeux concours instant gagnant de L'Oréal Paris disponible ici : ecampaign.loreal-paris.fr/quiz/1823809_1221/OAPCatsEyes2026.html?utm_source=agence-reflexemedia Il est possible de gagner quelques lots sympa donc n'hésitez pas à participer au passage ! (y)",
     "price": 25.0,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 15.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/codes-promo/15-des-25-euros-dachat-3432105",
     "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/280_1/re/1200x1200/qt/90/280_1.jpg",
@@ -24291,162 +24397,6 @@
       {
         "price": 79.99,
         "observed_at": "2026-10-15T06:12:47.846629+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Parapluie pliant Isotoner",
-    "description": "5,99€ - E.Leclerc Parapluie de marque isotoner différentes couleurs disponibles. Apportez une touche de couleur et de gaité aux jours de pluie ! Ce parapluie pliant allie élégance et praticité pour vous protéger des intempéries avec style. Arborant une jolie teinte, il devient un véritable accessoire de mode indispensable lors de vos déplacements.",
-    "price": 5.99,
-    "reference_price": 9.99,
-    "discount_percent": 40.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/parapluie-pliant-isotoner-divers-coloris-3432074",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/k78zF/3432074_1/re/1200x1200/qt/90/3432074_1.jpg",
-    "detected_at": "2026-10-14T05:33:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-14T06:00:21.362397+00:00"
-      },
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-15T06:12:47.846629+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Coffret Bande dessinée Goldorak Silver",
-    "description": "24,90€ - Amazon Coffret de la BD Goldorak en édition Silver avec un fourreau (effet vernis) + 3 ex-libris Spécifications ASIN: B0C8CGD62Q Éditeur: KANA Date de publication: 27 octobre 2023 Édition: 4e Langue: Français Nombre de pages de l'édition imprimée: 167 pages Poids de l'article: 1,2 Kilograms Dimensions: 21.8 x 2.3 x 30.9 cm Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Livres : Commentaires client",
-    "price": 24.9,
-    "reference_price": 28.09,
-    "discount_percent": 11.4,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/coffret-bande-dessinee-goldorak-silver-3432064",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/e3o5N/3432064_1/re/1200x1200/qt/90/3432064_1.jpg",
-    "detected_at": "2026-10-14T05:31:46+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.9,
-        "observed_at": "2026-10-14T06:00:21.362397+00:00"
-      },
-      {
-        "price": 24.9,
-        "observed_at": "2026-10-15T06:12:47.846629+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur balai Laveur Dreame H12 Pro Ultra - Aspiration 16000Pa, Lavage 60 °C séchage 30 min",
-    "description": "179€ - Amazon Version améliorée du H12 Pro Lavage de la brosse haute température à 60 °C et séchage à l'air chaud: Une brosse plus avancée avec nettoyage et stérilisation automatiques avec de l'eau chaude à 60 °C, suivis d'un séchage à l'air chaud, pour éliminer les taches d'huile et les mauvaises odeurs sans avoir à frotter manuellement Trois modes de fonctionnement pour un nettoyage polyvalent: Personnalisez vos besoins de nettoyage avec un mode Auto pour un nettoyage de base, un mode Ultra pour un nettoyage en profondeur et un mode Aspiration qui aspire les liquides pour un nettoyage optimal Nettoyage des deux bords optimisé: La brosse nettoie en profondeur le long des plinthes et dans les coins, ce qui facilite plus que jamais l'entretien des zones difficiles d'accès Aspiration de 16 000 Pa, brosse à 520 tr/min: Le H12 Pro Ultra bénéficie d'une aspiration de 16 000 Pa pour éliminer les saletés humides et sèches; Entraîné par un moteur à plus de 104 000 tr/min, ce puissant aspirateur fonctionne à 520 tr/min, pour un lavage plus rapide et moins de traces Nettoyage automatique à double rotation avec racleur résilient: La brosse démêle et reste propre en tournant dans le sens horaire et dans le sens inverse, comme lors d'un lavage à la main; Avec son racleur résilient à dents de peigne, la brosse extrait facilement les poils emmêlés Comprend une bouteille de 500 ml de solution nettoyante AWH10 Spécifications Marque: dreame Caractéristique spéciale: Aspiration de 16 000 Pa, Détection de Saleté, Lavage de la brosse à 60 °C, Réservoir d'eau 0.9L/0.7L, Séchage à l'air chaud 30 Min Voir plus Type de filtre: Tissu Recommandation de surface: Sol dur Source d'alimentation: Alimenté par batterie Tension: 12 Volts Composants inclus: Adaptateur, Kit d'accessoire, Station de chargement Sans fil ?: Oui Poids de l'article: 5,1 Kilogrammes Capacité: 900 ml Caractéristiques spéciales: Aspiration de 16 000 Pa, Détection de Saleté, Lavage de la brosse à 60 °C, Réservoir d'eau 0.9L/0.7L, Séchage à l'air chaud 30 Min Aspiration maximale: 16000 Millimètres Usages recommandés pour le produit: Wet&Dry Couleur: H12 Pro Ultra Niveau de bruit: 76 Décibels Style: H12 Pro Ultra Nombre de vitesses: 3 Portable: Oui Nombre de niveaux de puissance: 3 Utilisation extérieure ou intérieure: Intérieur Nombre de roues: 2 Source d'energie: Alimenté par batterie Le produit est-il sans fil ?: Oui Électrique: Non Dimensions de l'article L x l x H: 27,5L x 25,2l x 112,1H centimètres Type de dispositif de commande: Commande par pavé tactile Méthode de contrôle: Tactile Nom du modèle: H12 Pro Ultra Numéro de modèle: HHR25B Pays d'origine: Chine Fabricant: Dreame Nombre d' articles: 1 Unité de comptage: 1.0 unité Année de fabrication: 2024 Nom du type du produit: Dreame H12 Pro Ultra Aspirateur eau et Poussière Coordonnées du fabricant: Dreame Trading (Tianjin) Co., Ltd. Address: Room 2112-1-1, South District, Finance and Trade Center, No.6975 Yazhou Road, Dongjiang Bonded Port Area, Tianjin Pilot Free Trade Zone, Tianjin, China Contact: legal@dreame.tech Classement des meilleures ventes d'Amazon: 551 en Cuisine et Maison (Voir les 100 premiers en Cuisine et Maison) 10 en Aspirateurs balais et balais électriques ASIN: B0D793B2WV Moyenne des commentaires client: 4,0 4,0 sur 5 étoiles (1 735) 4,0 sur 5 étoiles Puissance en watts: 300 Watts Temps de charge: 4 heures Type de batterie: Lithium-ion Durée de vie de la batterie: 35 minutes Durée d'exécution: 35 minutes Facteur de forme: Portatif Nombre de poignées: 1 Commentaires client",
-    "price": 179.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/dreame-h12-pro-ultra-aspirateur-laveur-aspiration-16-000pa-lavage-60-c-sechage-30-min-nettoyage-auto-brosse-2-bords-3432061",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/wHhVm/3432061_1/re/1200x1200/qt/90/3432061_1.jpg",
-    "detected_at": "2026-10-14T05:30:30+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 179.0,
-        "observed_at": "2026-10-14T06:00:21.362397+00:00"
-      },
-      {
-        "price": 179.0,
-        "observed_at": "2026-10-15T06:12:47.846629+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Brosse de Lavage Gardena Cleansystem - pour Vélo",
-    "description": "15,42€ - Amazon Nettoyage humide facile: la brosse de vélo transportant l'eau se fixe facilement à votre tuyau d'arrosage en un seul « clic » La bonne solution pour chaque surface: les poils turquoise robustes nettoient efficacement le cadre, tandis que l'éponge douce est utilisée pour nettoyer les rayons délicats Facile à utiliser: le débit d'eau peut être réglé en continu directement sur le manche de la brosse ou complètement désactivé selon les besoins. Cela vous évite d'avoir à aller au robinet Caractéristiques exceptionnelles: la brosse de nettoyage simple et intuitive est équipée d'une protection contre les UV et le gel et vous permet également de tenir les bâtonnets de savon Gardena Contenu: 1 brosse à vélo Gardena Cleansystem",
-    "price": 15.42,
-    "reference_price": 20.82,
-    "discount_percent": 25.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/gardena-brosse-de-lavage-cleansystem-pour-velo-3432058",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/sclbg/3432058_1/re/1200x1200/qt/90/3432058_1.jpg",
-    "detected_at": "2026-10-14T05:27:50+00:00",
-    "category": "Sport & loisirs",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.42,
-        "observed_at": "2026-10-14T05:31:14.099421+00:00"
-      },
-      {
-        "price": 15.42,
-        "observed_at": "2026-10-15T05:31:44.272651+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chapka bi-matière caramel Devred",
-    "description": "15€ - BAZARCHIC Jolie chapka pour la saison automne/hiver à 15€ au lieu de 39.99€. Tailles disponibles S/M et L/XL 49% laine 49% polyester 1% acrylique",
-    "price": 15.0,
-    "reference_price": 39.99,
-    "discount_percent": 62.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chapka-bi-matiere-caramel-devred-3432069",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/u0uXH/3432069_1/re/1200x1200/qt/90/3432069_1.jpg",
-    "detected_at": "2026-10-14T05:27:05+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.0,
-        "observed_at": "2026-10-14T05:31:14.099421+00:00"
-      },
-      {
-        "price": 15.0,
-        "observed_at": "2026-10-15T05:31:44.272651+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Nettoyeur de sols Humide Dyson PencilWash - Brosse motorisée, séchage Rapide, 30 min d’Autonomie",
-    "description": "199€ - Amazon 64 000 filaments de microfibres: Un rouleau absorbant nettoie efficacement les taches et liquides renversés, tout en éliminant simultanément la poussière et la saleté. Extraction automatique des débris: L'eau sale et les débris sont éliminés du rouleau à chaque rotation. Huit points d'hydratation: Le rouleau est continuellement humidifié avec de l'eau propre, offrant une couverture uniforme du début à la fin. Réservoir d'eau propre dans la tête de la brosse: 300 ml pour couvrir 100 m². Situé au niveau de la tête de la brosse, et non à la poignée, pour un équilibre et un contrôle optimal. Poignée ultra-fine et légère: D'un diamètre de seulement 38 mm, la poignée ergonomique est légère en main et se dirige naturellement d'une simple rotation. Format discret. S'incline à 170°: Nettoyez sous les meubles bas et dans les espaces restreints, sans perte de performance. Brosse motorisée: Un moteur puissant fait tourner le rouleau pour offrir un mouvement fluide et auto-propulsé, sans effort.",
-    "price": 199.0,
-    "reference_price": 269.0,
-    "discount_percent": 26.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/dyson-pencilwash-nettoyeur-de-sols-humide-nettoyeur-ultrafin-et-leger-avec-brosse-motorisee-sechage-rapide-30-min-dautonomie-3432057",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5OR6l/3432057_1/re/1200x1200/qt/90/3432057_1.jpg",
-    "detected_at": "2026-10-14T05:26:54+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 199.0,
-        "observed_at": "2026-10-14T05:31:14.099421+00:00"
-      },
-      {
-        "price": 199.0,
-        "observed_at": "2026-10-15T05:31:44.272651+00:00"
       }
     ]
   }
