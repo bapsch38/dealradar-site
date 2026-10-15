@@ -204,9 +204,13 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
         "Proposition communautaire à vérifier. Aucun prix fourni par l’utilisateur n’est considéré comme confirmé."
       ].join(String.fromCharCode(10));
       try{
+        let accountToken="";
+        try { accountToken=sessionStorage.getItem("dealradar_access_token")||""; } catch (_) {}
+        const requestHeaders={"Content-Type":"application/json"};
+        if(accountToken) requestHeaders.Authorization="Bearer "+accountToken;
         const response=await fetch(apiRoot+"/api/submissions",{
           method:"POST",
-          headers:{"Content-Type":"application/json"},
+          headers:requestHeaders,
           body:JSON.stringify({
             title:title,
             url:url,
