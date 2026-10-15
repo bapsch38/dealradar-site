@@ -25,7 +25,7 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 </style>
 </head>
 <body>
-<header><div class="nav"><a class="logo" href="./index.html">Deal<span>Radar</span></a><nav class="navlinks"><a href="./index.html">🏠 Accueil</a><a href="./offres.html">🔥 Explorer les offres</a><a href="./publier.html">➕ Publier une offre</a><a href="./discussions.html">💬 Discussions</a><a href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">✈️ Telegram</a></nav><a class="secondary" href="./mon-dealradar.html">⭐ Mon espace local</a></div></header>
+<header><div class="nav"><a class="logo" href="./index.html">Deal<span>Radar</span></a><nav class="navlinks"><a href="./index.html">🏠 Accueil</a><a href="./offres.html">🔥 Explorer les offres</a><a href="./publier.html">➕ Publier une offre</a><a href="./discussions.html">💬 Discussions</a><a href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">✈️ Telegram</a></nav><a class="secondary" id="local-space-link" href="./mon-dealradar.html">⭐ Mon espace local</a></div></header>
 <main>
 <section class="intro"><div class="eyebrow">Ton espace personnel</div><h1>Un compte pour suivre <span>tes bons plans.</span></h1><p>Retrouve tes préférences et prépare une sélection personnalisée. Crée ton compte en ligne pour enregistrer tes préférences et les retrouver lors de tes prochaines connexions.</p></section>
 <div id="setup-note" class="setup-note"><strong>Connexion sécurisée</strong>Les comptes sont gérés par l’API DealRadar. Utilise un mot de passe unique d’au moins 8 caractères.</div>
@@ -48,11 +48,17 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <button class="primary" id="save-prefs" type="button">Enregistrer mes préférences</button><div id="profile-status" class="status" role="status" aria-live="polite"></div>
 <p id="admin-access" class="hidden"><a href="./administration.html" style="color:var(--green);font-weight:850">Ouvrir le panneau d’administration ↗</a></p><button class="secondary" id="logout" type="button">Se déconnecter</button>
 </section>
-<aside class="panel"><h2>Ce que ton compte apportera</h2><p class="muted">Les fonctions s’activeront progressivement une fois l’authentification et la base persistante en production.</p><div class="account-grid">
-<div class="account-stat"><strong>Préférences sauvegardées</strong><span>Retrouve tes catégories préférées et ta sélection sur tes appareils.</span></div>
-<div class="account-stat"><strong>Favoris et alertes de prix</strong><span>Synchronisation du suivi des offres, à connecter ensuite à l’espace personnel.</span></div>
-<div class="account-stat"><strong>Premium</strong><span>Les droits d’abonnement seront ajoutés après la mise en place du compte sécurisé et du paiement.</span></div>
-</div><p class="muted">Tu peux déjà utiliser <a href="./mon-dealradar.html" style="color:var(--green);font-weight:800">Mon espace local</a> pour les outils enregistrés dans ce navigateur.</p></aside>
+<aside class="panel" id="account-sections"><h2>Tout mon DealRadar</h2><p class="muted">Les rubriques de ton espace personnel, avec leur état actuel clairement indiqué.</p><div class="account-grid">
+<div class="account-stat"><strong>👤 Profil et sécurité</strong><span>Compte, adresse e-mail et déconnexion : disponibles. Modification du mot de passe et récupération de compte : à ajouter.</span></div>
+<div class="account-stat"><strong>🎯 Mes préférences</strong><span><b style="color:var(--green)">Disponible</b> — choisis tes catégories et enregistre ta sélection personnalisée.</span></div>
+<div class="account-stat"><strong>❤️ Mes offres favorites</strong><span>À connecter — retrouver ici les offres sauvegardées et leur disponibilité.</span></div>
+<div class="account-stat"><strong>🔔 Mes alertes de prix</strong><span>À développer — suivre un produit, fixer un prix cible et recevoir une alerte.</span></div>
+<div class="account-stat"><strong>📉 Suivi des prix</strong><span>À développer — historique de prix, évolution et alertes sur les baisses importantes.</span></div>
+<div class="account-stat"><strong>➕ Mes offres publiées</strong><span>À connecter — consulter les bons plans que tu as proposés et leur statut de modération.</span></div>
+<div class="account-stat"><strong>💬 Mes discussions</strong><span>À connecter — retrouver tes commentaires, réponses et échanges communautaires.</span></div>
+<div class="account-stat"><strong>⭐ DealRadar Premium</strong><span>À développer — abonnement, avantages, statut de paiement et gestion de la formule. Aucun paiement n’est activé ici pour le moment.</span></div>
+<div class="account-stat"><strong>⚙️ Paramètres du compte</strong><span>À ajouter — notifications, confidentialité, export et suppression du compte.</span></div>
+</div></aside>
 </div>
 </main><footer>DealRadar · Protection des données et sécurité avant tout lancement public.</footer>
 <script src="./api-config.js"></script>
@@ -89,6 +95,7 @@ function setMode(next) {
 }
 function renderProfile() {
   byId("auth-panel").classList.add("hidden"); byId("profile-panel").classList.remove("hidden");
+  byId("local-space-link").classList.add("hidden");
   byId("profile-name").textContent=profile.display_name; byId("profile-email").textContent=profile.email;
   byId("admin-access").classList.toggle("hidden",profile.role!=="admin");
   byId("avatar").textContent=(profile.display_name||"D").trim().charAt(0).toUpperCase();
@@ -118,7 +125,7 @@ byId("save-prefs").addEventListener("click",async()=>{
   catch(error){setStatus("profile-status",error.message,true);}
   finally {byId("save-prefs").disabled=false;}
 });
-byId("logout").addEventListener("click",()=>{try{sessionStorage.removeItem(TOKEN_KEY);}catch(_){}profile=null;byId("profile-panel").classList.add("hidden");byId("auth-panel").classList.remove("hidden");setMode("login");});
+byId("logout").addEventListener("click",()=>{try{sessionStorage.removeItem(TOKEN_KEY);}catch(_){}profile=null;byId("profile-panel").classList.add("hidden");byId("auth-panel").classList.remove("hidden");byId("local-space-link").classList.remove("hidden");setMode("login");});
 if(API_BASE && /^https:\/\//i.test(API_BASE)){
   byId("setup-note").classList.add("hidden");byId("auth-submit").disabled=false;byId("auth-submit").textContent="Créer mon compte";
   if(token())loadProfile().catch(error=>{try{sessionStorage.removeItem(TOKEN_KEY);}catch(_){}setStatus("auth-status","Reconnecte-toi : "+error.message,true);});
