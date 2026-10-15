@@ -38,7 +38,7 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <div class="pref-list" id="pref-list"></div>
 <label class="inline-check"><input type="checkbox" id="personalized" checked> Activer ma sélection personnalisée</label>
 <button class="primary" id="save-prefs" type="button">Enregistrer mes préférences</button><div id="profile-status" class="status" role="status" aria-live="polite"></div>
-<button class="secondary" id="logout" type="button">Se déconnecter</button>
+<p id="admin-access" class="hidden"><a href="./administration.html" style="color:var(--green);font-weight:850">Ouvrir le panneau d’administration ↗</a></p><button class="secondary" id="logout" type="button">Se déconnecter</button>
 </section>
 <aside class="panel"><h2>Ce que ton compte apportera</h2><p class="muted">Les fonctions s’activeront progressivement une fois l’authentification et la base persistante en production.</p><div class="account-grid">
 <div class="account-stat"><strong>Préférences sauvegardées</strong><span>Retrouve tes catégories préférées et ta sélection sur tes appareils.</span></div>
@@ -81,6 +81,7 @@ function setMode(next) {
 function renderProfile() {
   byId("auth-panel").classList.add("hidden"); byId("profile-panel").classList.remove("hidden");
   byId("profile-name").textContent=profile.display_name; byId("profile-email").textContent=profile.email;
+  byId("admin-access").classList.toggle("hidden",profile.role!=="admin");
   byId("avatar").textContent=(profile.display_name||"D").trim().charAt(0).toUpperCase();
   const saved=profile.preferences||{};
   byId("pref-list").innerHTML=categories.map(category=>'<label class="pref"><input type="checkbox" value="'+category.replace(/&/g,"&amp;").replace(/"/g,"&quot;")+'" '+((saved.categories||[]).includes(category)?"checked":"")+'> '+category+'</label>').join("");
