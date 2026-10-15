@@ -523,26 +523,33 @@ let activeFilter = "all";
 let offers = [];
 
 function normalizeSearchText(value) {
-  let text = String(value ?? "")
+  return String(value ?? "")
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .toLocaleLowerCase("fr")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
-
-  // Synonymes courants : un même produit peut être décrit comme PC, ordinateur ou laptop.
-  if (/\b(pc|ordinateur|laptop|portable)\b/.test(text)) {
-    text += " pc ordinateur laptop";
-  }
-  return text;
 }
 function searchTerms(value) {
   return [...new Set(normalizeSearchText(value).split(/\s+/).filter(term => term.length > 0))];
 }
+function matchesSearchQuery(searchableText, queryValue) {
+  const text = normalizeSearchText(searchableText);
+  const query = normalizeSearchText(queryValue);
+  if (!query) return true;
+
+  // Une recherche « PC portable » doit trouver des portables, pas tous les produits dont le texte contient « PC ».
+  const wantsLaptop = /\b(pc|ordinateur)\s+portable\b/.test(query);
+  if (wantsLaptop) {
+    return /\b(pc|ordinateur)\b/.test(text) && /\bportable\b/.test(text)
+      || /\b(laptop|notebook|ultrabook|chromebook)\b/.test(text);
+  }
+  const terms = searchTerms(query);
+  return terms.every(term => text.includes(term));
+}
 function updateCategories() {
-  const terms = searchTerms(search.value);
   categories.forEach(card => {
-    const text = normalizeSearchText((card.innerText || "") + " " + (card.dataset.category || ""));
-    card.hidden = !terms.every(term => text.includes(term));
+    const text = (card.innerText || "") + " " + (card.dataset.category || "");
+    card.hidden = !matchesSearchQuery(text, search.value);
   });
 }
 
@@ -825,9 +832,10 @@ function renderFeaturedOffers() {
   }).join("");
 }
 function renderOffers() {
-  renderFeaturedOffers();
-  // Le même terme peut être présent dans les deux champs (recherche d'accueil + catalogue) : déduplique les termes et ignore les accents.
-  const query = [...new Set(searchTerms([dealSearch.value, search.value].filter(Boolean).join(" ")))];
+  const query = normalizeSearchText([dealSearch.value, search.value].filter(Boolean).join(" "));
+  // La sélection vedette reste masquée pendant une recherche pour ne pas mélanger des résultats sans rapport.
+  if (query) featuredGrid.innerHTML = "";
+  else renderFeaturedOffers();
   const minDiscount = Number(minDiscountInput.value || 0);
   const maxPrice = parsePriceValue(maxPriceInput.value);
   const list = offers.filter(offer => {
@@ -837,7 +845,7 @@ function renderOffers() {
     ].filter(Boolean).join(" "));
     const price = parsePriceValue(offer.price ?? offer.current_price);
     const discount = offerDiscount(offer);
-    if (!query.every(term => text.includes(term)) || !matchesFilter(offer)) return false;
+    if (!matchesSearchQuery(text, query) || !matchesFilter(offer)) return false;
     if (minDiscount > 0 && (discount === null || discount < minDiscount)) return false;
     if (maxPrice !== null && (price === null || price > maxPrice)) return false;
     if (hideOldInput.checked && offerIsOld(offer)) return false;
