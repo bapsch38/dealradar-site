@@ -47,9 +47,10 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 </div><p class="muted">Tu peux déjà utiliser <a href="./mon-dealradar.html" style="color:var(--green);font-weight:800">Mon espace local</a> pour les outils enregistrés dans ce navigateur.</p></aside>
 </div>
 </main><footer>DealRadar · Protection des données et sécurité avant tout lancement public.</footer>
+<script src="./api-config.js"></script>
 <script>
 /* Set only after the API is deployed on HTTPS and CORS is configured for this site. */
-const API_BASE = "";
+const API_BASE = window.DEALRADAR_API_BASE || "";
 const TOKEN_KEY = "dealradar_access_token";
 const categories = ["High-tech","Gaming","Bureau & papeterie","Alimentation & boissons","Maison","Électroménager","Bricolage","Bébé & enfants","Animaux","Mode","Sport & loisirs","Beauté & santé","Auto & moto","Jouets & jeux","Jardin & extérieur","Culture & sorties"];
 let mode = "register";
