@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#08111d">
+<title>Signaler une offre — DealRadar</title>
+<style>
+:root{color-scheme:dark;--bg:#08111d;--panel:#101c2b;--line:#2b4158;--text:#f3f7ff;--muted:#9eafc4;--green:#46f58b}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.6 Inter,Arial,sans-serif}a{color:var(--green);text-decoration:none}header{padding:18px 24px;border-bottom:1px solid var(--line)}header strong{font-size:24px}header span{color:var(--green)}main{max-width:760px;margin:42px auto;padding:0 18px 60px}.panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:24px}h1{font-size:clamp(30px,5vw,42px);line-height:1.1;margin:0 0 10px}p{color:var(--muted)}label{display:block;font-size:12px;font-weight:800;margin:15px 0 6px}input,select,textarea{width:100%;background:#091522;color:var(--text);border:1px solid #39516a;border-radius:9px;padding:12px;font:inherit}textarea{min-height:125px;resize:vertical}.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}button{margin-top:18px;border:0;border-radius:10px;padding:13px 18px;background:var(--green);color:#07131c;font-weight:900;cursor:pointer}button:disabled{opacity:.6}.status{min-height:24px;font-size:13px;color:var(--green);margin-top:12px}.back{display:inline-block;margin-top:20px}@media(max-width:560px){.grid{grid-template-columns:1fr}.panel{padding:18px}main{margin-top:24px}}
+</style>
+</head>
+<body>
+<header><a href="./index.html"><strong>Deal<span>Radar</span></strong></a></header>
+<main><section class="panel">
+<div style="color:var(--green);font-size:11px;letter-spacing:2px;font-weight:900">RETOUR COMMUNAUTÉ</div>
+<h1>Signaler ou confirmer une offre</h1>
+<p>Ton retour arrive directement dans la file de modération DealRadar. Il sera examiné avant toute correction du catalogue.</p>
+<form id="report-form">
+<label for="title">Offre concernée *</label><input id="title" maxlength="180" required>
+<div class="grid"><div><label for="type">Type de retour *</label><select id="type"><option value="wrong">Prix douteux / offre expirée</option><option value="ok">Prix confirmé</option><option value="category">Catégorie incorrecte</option><option value="link">Lien ou image incorrect</option></select></div><div><label for="category">Catégorie</label><input id="category" maxlength="80"></div></div>
+<label for="url">Lien de l’offre</label><input id="url" type="url" maxlength="1500" placeholder="https://…">
+<div class="grid"><div><label for="price">Prix constaté (€)</label><input id="price" inputmode="decimal" maxlength="40" placeholder="Ex. 29,99"></div><div><label for="reference">Prix de référence (€)</label><input id="reference" inputmode="decimal" maxlength="40" placeholder="Ex. 49,99"></div></div>
+<label for="message">Détails et preuve *</label><textarea id="message" minlength="5" maxlength="3000" required placeholder="Explique le problème ou indique le prix vérifié, la date et les conditions…"></textarea>
+<label for="contact">Contact (facultatif)</label><input id="contact" type="email" maxlength="254" placeholder="Pour que l’équipe puisse te recontacter">
+<button id="send" type="submit">Envoyer à la modération</button><div id="status" class="status" role="status" aria-live="polite"></div>
+</form><a class="back" href="./offres.html">← Retour aux offres</a>
+</section></main>
+<script src="./api-config.js"></script>
+<script>
+(() => {
+const $=id=>document.getElementById(id);
+const params=new URLSearchParams(location.search);
+const allowed=new Set(["ok","wrong","category","link"]);
+$("title").value=params.get("title")||"";
+$("url").value=params.get("url")||"";
+$("category").value=params.get("category")||"";
+$("price").value=params.get("price")||"";
+$("reference").value=params.get("reference")||"";
+if(allowed.has(params.get("type"))) $("type").value=params.get("type");
+const initial=params.get("details");
+$("message").value=initial?initial.replace(/\s+/g," ").slice(0,2800):"";
+$("report-form").addEventListener("submit",async e=>{
+e.preventDefault();const button=$("send"),status=$("status");button.disabled=true;status.textContent="Envoi à la modération…";
+const base=String(window.DEALRADAR_API_BASE||"").replace(/\/$/,"");
+if(!base){status.textContent="Le service de signalement est temporairement indisponible. Réessaie plus tard.";button.disabled=false;return;}
+const title=$("title").value.trim(),url=$("url").value.trim(),type=$("type").value;
+const categoryMap={ok:"prix",wrong:"expiree",category:"categorie",link:"lien"};
+const details=$("message").value.trim()+"\nType : "+type+"\nPrix constaté : "+($("price").value.trim()||"non précisé")+"\nPrix de référence : "+($("reference").value.trim()||"non précisé");
+try{
+const token=sessionStorage.getItem("dealradar_access_token")||"";
+const headers={"Content-Type":"application/json"};if(token)headers.Authorization="Bearer "+token;
+const response=await fetch(base+"/api/reports",{method:"POST",headers,body:JSON.stringify({title,url:url||null,category:categoryMap[type]||"autre",message:details,reporter_contact:$("contact").value.trim()||null})});
+const data=await response.json().catch(()=>({}));
+if(!response.ok)throw new Error(data.detail||"Envoi impossible (HTTP "+response.status+")");
+status.textContent="Signalement enregistré. Référence de suivi : "+data.reference+". Merci !";$("report-form").reset();
+}catch(err){status.textContent="Le signalement n’a pas été envoyé : "+(err.message||"erreur réseau")+". Réessaie.";}
+finally{button.disabled=false;}
+});
+})();
+</script>
+</body></html>
