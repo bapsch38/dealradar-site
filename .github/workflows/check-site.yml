@@ -77,7 +77,8 @@ jobs:
           grep -q 'id="offer-details-dialog"' index.html
           grep -q 'function openOfferDetails(url)' index.html
           grep -q 'data-offer-details' index.html
-          grep -q 'Prix annoncé par la source, à recontrôler' index.html
+          grep -q 'Repérée le' index.html
+          ! grep -q 'Prix annoncé par la source, à recontrôler' index.html
           grep -q 'price-history-controls' index.html
           grep -q 'price-history-controls' offres.html
           grep -q 'publier.html' index.html
