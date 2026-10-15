@@ -109,6 +109,7 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
   </form>
 </main>
 <footer>DealRadar · Les offres communautaires sont des propositions à vérifier. Vérifie toujours le prix final, le stock et les conditions chez le marchand.</footer>
+<script src="./api-config.js"></script>
 <script>
 (function(){
   const form=document.getElementById("publish-form");
@@ -131,7 +132,7 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
     if(!value.trim()) return required ? null : "";
     try{const parsed=new URL(value);return ["https:","http:"].includes(parsed.protocol)?parsed.href:null;}catch(_){return null;}
   }
-  form.addEventListener("submit",function(event){
+  form.addEventListener("submit",async function(event){
     event.preventDefault();
     status.textContent="";
     const title=document.getElementById("title").value.trim();
@@ -176,7 +177,48 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
     const issueTitle=(error?"[Erreur de prix potentielle] ":"[Promo communautaire] ")+title.slice(0,100);
     const params=new URLSearchParams({template:"publier-promo.md",title:issueTitle,body:body});
     const destination="https://github.com/bapsch38/dealradar-site/issues/new?"+params.toString();
-    status.textContent="Ouverture du formulaire de publication. Vérifie les informations puis clique sur « Submit new issue » pour envoyer ta proposition.";
+    const apiBase=String(window.DEALRADAR_API_BASE||"").trim().replace(/\\/$/,"");
+    if(apiBase){
+      const submitButton=form.querySelector('.submit-button');
+      submitButton.disabled=true;
+      submitButton.textContent="Envoi en modération…";
+      status.textContent="Envoi de ta proposition à DealRadar…";
+      const apiMessage=[
+        "Type : "+type,
+        "Marchand : "+merchant,
+        "Détails et conditions : "+(details||"non fournis"),
+        "Preuve : "+(evidence||"non fournie"),
+        "Réduction calculée à partir des prix fournis : "+discount,
+        "",
+        "Proposition communautaire à vérifier. Aucun prix fourni par l’utilisateur n’est considéré comme confirmé."
+      ].join(String.fromCharCode(10));
+      try{
+        const response=await fetch(apiBase+"/api/submissions",{
+          method:"POST",
+          headers:{"Content-Type":"application/json"},
+          body:JSON.stringify({
+            title:title,
+            url:url,
+            category:category,
+            current_price:price.toFixed(2),
+            original_price:reference===null?null:reference.toFixed(2),
+            message:apiMessage
+          })
+        });
+        const result=await response.json().catch(()=>({}));
+        if(!response.ok) throw new Error(typeof result.detail==="string"?result.detail:"Le serveur a refusé la proposition (HTTP "+response.status+").");
+        status.textContent="Proposition envoyée à la modération DealRadar. Référence : "+result.reference+". Elle n’est pas encore publiée dans les offres.";
+        form.reset();
+        updateKind();
+      }catch(error){
+        status.textContent="L’envoi direct a échoué : "+(error.message||"erreur réseau")+". Réessaie plus tard ou utilise l’envoi GitHub.";
+      }finally{
+        submitButton.disabled=false;
+        submitButton.innerHTML='Publier avec GitHub <span>↗</span>';
+      }
+      return;
+    }
+    status.textContent="Ouverture du formulaire GitHub. Vérifie les informations puis clique sur « Submit new issue » pour envoyer ta proposition.";
     const win=window.open(destination,"_blank","noopener,noreferrer");
     if(!win){status.textContent="Le navigateur a bloqué l’ouverture. Autorise les fenêtres contextuelles ou ouvre ce lien : "+destination;}
   });
