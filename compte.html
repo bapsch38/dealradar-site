@@ -153,7 +153,7 @@ async function loadAccountSummary() {
     const data=await apiCall("/api/account/summary");
     const pro=data.plan==="pro";
     byId("overview-plan").textContent=pro?"DealRadar Pro":"Gratuit";
-    byId("overview-plan-detail").textContent=pro?"Accès aux outils avancés activé.":"20 favoris et 3 alertes manuelles maximum.";
+    byId("overview-plan-detail").textContent=pro?"Le niveau Pro est reconnu ; les automatismes restent en préparation.":"20 favoris et 3 alertes manuelles maximum.";
     byId("overview-favorites").textContent=(data.usage?.favorites||0)+" / "+data.limits.favorites;
     byId("overview-alerts").textContent=(data.usage?.alerts||0)+" / "+data.limits.alerts;
   } catch (_) { /* le profil reste utilisable si le résumé est momentanément indisponible */ }
@@ -182,7 +182,7 @@ async function saveCollections(favorites,alerts,statusId,successMessage) {
   setStatus(statusId,"Enregistrement sur ton compte…");
   try {
     profile=await apiCall("/api/auth/me",{method:"PATCH",body:JSON.stringify({categories:profile.preferences?.categories||[],personalized:profile.preferences?.personalized!==false,favorites,alerts})});
-    renderCollections(); setStatus(statusId,successMessage);
+    renderCollections(); loadAccountSummary(); setStatus(statusId,successMessage);
   } catch(error) { setStatus(statusId,error.message,true); }
 }
 async function loadMyDiscussions() {
