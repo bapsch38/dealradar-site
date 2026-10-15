@@ -20,13 +20,21 @@ main{max-width:1100px;margin:auto;padding:42px 24px 80px}.intro{max-width:760px;
 footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);font-size:11px;text-align:center;line-height:1.7}
 @media(max-width:850px){.layout{grid-template-columns:1fr}.side-panel{position:static}.navlinks{display:none}.type-switch{grid-template-columns:1fr}.side-panel{order:2}}
 @media(max-width:560px){.nav{padding:13px 15px}.logo{font-size:23px}.nav .pill{font-size:10px;padding:10px}.nav .logo small{font-size:10px}main{padding:30px 14px 54px}.intro h1{letter-spacing:-1px}.form-panel,.side-panel{padding:18px}.form-grid,.price-grid{grid-template-columns:1fr}.field.full{grid-column:auto}.type-card{padding:16px}}
+
+/* Navigation DealRadar : onglets en bulles, lisibles sur ordinateur et mobile */
+.navlinks{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.navlinks a{display:inline-flex;align-items:center;justify-content:center;padding:9px 12px;border:1px solid #2b4158;border-radius:999px;background:#101f2e;color:var(--muted);transition:background .16s,border-color .16s,color .16s,transform .16s}
+.navlinks a:hover,.navlinks a[aria-current="page"]{border-color:var(--green);background:#153b2b;color:var(--green);transform:translateY(-1px)}
+@media(max-width:850px){.nav{flex-wrap:wrap;gap:10px}.navlinks{display:flex!important;order:3;width:100%;gap:6px}.navlinks a{font-size:12px;padding:8px 10px}.nav-publish{margin-left:auto}}
+@media(max-width:520px){.navlinks{overflow-x:auto;flex-wrap:nowrap;padding:3px 1px 6px;scrollbar-width:thin}.navlinks a{white-space:nowrap;flex:0 0 auto}.nav .pill{margin-left:auto}}
+
 </style>
 </head>
 <body>
 <header>
   <div class="nav">
     <a class="logo" href="./index.html" aria-label="DealRadar accueil">Deal<span>Radar</span><small>Les bonnes affaires. Au bon moment.</small></a>
-    <nav class="navlinks"><a href="./index.html">Accueil</a><a href="./offres.html">Explorer les offres</a><a href="./mon-dealradar.html">Mon espace</a></nav>
+    <nav class="navlinks"><a href="./index.html">Accueil</a><a href="./offres.html">Explorer les offres</a><a href="./mon-dealradar.html">Mon espace</a><a href="./discussions.html">Discussions</a></nav>
     <a class="pill" href="./offres.html">Voir les offres ↗</a>
   </div>
 </header>
