@@ -28,7 +28,7 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <header><div class="nav"><a class="logo" href="./index.html">Deal<span>Radar</span></a><nav class="navlinks"><a href="./index.html">🏠 Accueil</a><a href="./offres.html">🔥 Explorer les offres</a><a href="./publier.html">➕ Publier une offre</a><a href="./discussions.html">💬 Discussions</a><a href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">✈️ Telegram</a></nav><a class="secondary" href="./mon-dealradar.html">⭐ Mon espace local</a></div></header>
 <main>
 <section class="intro"><div class="eyebrow">Ton espace personnel</div><h1>Un compte pour suivre <span>tes bons plans.</span></h1><p>Retrouve tes préférences et prépare une sélection personnalisée. Crée ton compte en ligne pour enregistrer tes préférences et les retrouver lors de tes prochaines connexions.</p></section>
-<div id="setup-note" class="setup-note"><strong>Connexion sécurisée</strong>Les comptes sont gérés par l’API DealRadar. Utilise un mot de passe unique d’au moins 12 caractères.</div>
+<div id="setup-note" class="setup-note"><strong>Connexion sécurisée</strong>Les comptes sont gérés par l’API DealRadar. Utilise un mot de passe unique d’au moins 8 caractères.</div>
 <div class="layout">
 <section class="panel" id="auth-panel">
 <h2 id="auth-title">Bienvenue sur DealRadar</h2><p class="muted" id="auth-subtitle">Crée un compte pour retrouver tes préférences sur tes différents appareils.</p>
@@ -36,7 +36,7 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <form id="auth-form">
 <div class="field" id="name-field"><label for="display-name">Nom affiché</label><input id="display-name" autocomplete="name" minlength="2" maxlength="60" placeholder="Ton prénom ou pseudo" required></div>
 <div class="field"><label for="email">Adresse e-mail</label><input id="email" type="email" autocomplete="email" maxlength="254" placeholder="toi@exemple.fr" required></div>
-<div class="field"><label for="password">Mot de passe <span id="password-hint" class="muted">(12 caractères minimum)</span></label><input id="password" type="password" autocomplete="new-password" minlength="12" maxlength="128" required></div>
+<div class="field"><label for="password">Mot de passe <span id="password-hint" class="muted">(8 caractères minimum)</span></label><input id="password" type="password" autocomplete="new-password" minlength="8" maxlength="128" required></div>
 <button class="primary" id="auth-submit" type="submit" disabled>API non configurée</button><div id="auth-status" class="status" role="status" aria-live="polite"></div>
 </form>
 </section>
@@ -81,7 +81,7 @@ function setMode(next) {
   byId("name-field").classList.toggle("hidden",mode==="login");
   byId("display-name").required=mode==="register";
   byId("password").autocomplete=mode==="login"?"current-password":"new-password";
-  byId("password").minLength=mode==="login"?1:12;
+  byId("password").minLength=mode==="login"?1:8;
   byId("auth-title").textContent=mode==="login"?"Content de te revoir":"Bienvenue sur DealRadar";
   byId("auth-subtitle").textContent=mode==="login"?"Connecte-toi pour retrouver tes préférences.":"Crée un compte pour retrouver tes préférences sur tes différents appareils.";
   byId("auth-submit").textContent=mode==="login"?"Se connecter":"Créer mon compte";
