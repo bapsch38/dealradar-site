@@ -1,5 +1,236 @@
 [
   {
+    "title": "Mèche à Bois Hélicoïdale Six P...Diamètre, 170mm Longueur Utile",
+    "price": 12.88,
+    "reference_price": 15.9,
+    "discount_percent": 19.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0009W87NQ",
+    "image_url": "https://m.media-amazon.com/images/P/B0009W87NQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:47",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.88,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Pince de charpentier 200...facile ; Softgrip ergonomique)",
+    "price": 9.32,
+    "reference_price": 15.89,
+    "discount_percent": 41.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DC6TF44L",
+    "image_url": "https://m.media-amazon.com/images/P/B0DC6TF44L.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:46",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.32,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "as-Schwabe 70412 Rallonge élec...3G1,5, IP20, fiche et couplage",
+    "price": 15.99,
+    "reference_price": 19.99,
+    "discount_percent": 20.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B003ROV4BU",
+    "image_url": "https://m.media-amazon.com/images/P/B003ROV4BU.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:45",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.99,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HAZET Jeu de Pinces à circlips...mbre d'outils : 8, Multicolore",
+    "price": 160.24,
+    "reference_price": 177.36,
+    "discount_percent": 9.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001CA1A7O",
+    "image_url": "https://m.media-amazon.com/images/P/B001CA1A7O.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:44",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 160.24,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kopp Powerversal Multiprise 10...upteur, Argent/Noir, 227120011",
+    "price": 73.91,
+    "reference_price": 77.27,
+    "discount_percent": 4.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00BIZ87WO",
+    "image_url": "https://m.media-amazon.com/images/P/B00BIZ87WO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:40",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 73.91,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Holzmann Maschinen T5040 Agrafeuse pneumatique",
+    "price": 49.99,
+    "reference_price": 63.99,
+    "discount_percent": 21.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00IXM9M3S",
+    "image_url": "https://m.media-amazon.com/images/P/B00IXM9M3S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:39",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 49.99,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 1x Foret EXPERT SDS max-8X",
+    "price": 85.36,
+    "reference_price": 88.02,
+    "discount_percent": 3.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B094189M5Y",
+    "image_url": "https://m.media-amazon.com/images/P/B094189M5Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:38",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 85.36,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 5x Foret hélicoïdal PRO Metal HSS-G grande longueur",
+    "price": 11.97,
+    "reference_price": 16.54,
+    "discount_percent": 27.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000XJ1MNW",
+    "image_url": "https://m.media-amazon.com/images/P/B000XJ1MNW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:37",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 11.97,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 911.2010 embout de tournevis 24 pièce(s)",
+    "price": 22.52,
+    "reference_price": 23.29,
+    "discount_percent": 3.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B094NB3W4L",
+    "image_url": "https://m.media-amazon.com/images/P/B094NB3W4L.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:37",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 22.52,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Knipex Pince coupante de côté ... en plastique 160 mm 72 11 160",
+    "price": 44.54,
+    "reference_price": 46.5,
+    "discount_percent": 4.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0012IA504",
+    "image_url": "https://m.media-amazon.com/images/P/B0012IA504.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:31",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 44.54,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
+    "title": "C.K T3866 Pince, 270 mm Multicolore",
+    "price": 42.66,
+    "reference_price": 47.4,
+    "discount_percent": 10.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B003IW966Q",
+    "image_url": "https://m.media-amazon.com/images/P/B003IW966Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:04:30",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 42.66,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
+      }
+    ]
+  },
+  {
     "title": "MAUL lampe de bureau LED MAULg...couleur 3000 – 6500K | Argenté",
     "price": 160.56,
     "reference_price": 193.48,
@@ -10669,281 +10900,6 @@
       {
         "price": 36.0,
         "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TRENDnet Adaptateur réseau PCI...r, Linux, NBase-T, TEG-10GECTX",
-    "price": 94.78,
-    "reference_price": 199.94,
-    "discount_percent": 52.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B01N5AOWW6",
-    "image_url": "https://m.media-amazon.com/images/P/B01N5AOWW6.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:28:39",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 94.78,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 94.78,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "DIGITUS Galets de roulement - ...par galet - matériau plastique",
-    "price": 40.99,
-    "reference_price": 45.99,
-    "discount_percent": 10.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0169RZKYS",
-    "image_url": "https://m.media-amazon.com/images/P/B0169RZKYS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:28:37",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 40.99,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 40.99,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "kwb by Einhell Powerbox Lot de...tes pour perceuse à percussion",
-    "price": 21.95,
-    "reference_price": 28.27,
-    "discount_percent": 22.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B08LGZV6VP",
-    "image_url": "https://m.media-amazon.com/images/P/B08LGZV6VP.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:28:35",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 21.95,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 21.95,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "RIPOLIN Peinture pour Fer Exté...ntirouille Gris Anthracite 2 L",
-    "price": 55.99,
-    "reference_price": 64.99,
-    "discount_percent": 13.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07XC5TBV5",
-    "image_url": "https://m.media-amazon.com/images/P/B07XC5TBV5.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:28:31",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 55.99,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 55.99,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ledlenser K6R Lampe porte-clés...mens avec lumière rouge (gris)",
-    "price": 28.57,
-    "reference_price": 34.53,
-    "discount_percent": 17.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B095GW13CT",
-    "image_url": "https://m.media-amazon.com/images/P/B095GW13CT.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:28:27",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 28.57,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 28.57,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TFA Horloge à Date Radio pilotée Time Max",
-    "price": 36.09,
-    "reference_price": 43.26,
-    "discount_percent": 16.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B016BDO5J6",
-    "image_url": "https://m.media-amazon.com/images/P/B016BDO5J6.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:28:24",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 36.09,
-        "observed_at": "2026-10-13T16:29:37.583603+00:00"
-      },
-      {
-        "price": 36.09,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Technaxx Zusatzkamera Easy Security Camera Set TX-28 schwar",
-    "price": 56.99,
-    "reference_price": 73.99,
-    "discount_percent": 23.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00NP5XPR2",
-    "image_url": "https://m.media-amazon.com/images/P/B00NP5XPR2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:08:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 56.99,
-        "observed_at": "2026-10-13T16:08:57.468173+00:00"
-      },
-      {
-        "price": 56.99,
-        "observed_at": "2026-10-14T16:22:55.415232+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Siemens 5TE6800 – Base schuko dIN vDE 0620 – 1 16 a 230 VAC",
-    "price": 15.05,
-    "reference_price": 25.89,
-    "discount_percent": 41.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B000UWCTYS",
-    "image_url": "https://m.media-amazon.com/images/P/B000UWCTYS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:55:04",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.05,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      },
-      {
-        "price": 15.05,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Wera 05005901001 8740 A VDE HF...is à six pans creux, 4 x 45 mm",
-    "price": 17.54,
-    "reference_price": 28.9,
-    "discount_percent": 39.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0F7HX9VFH",
-    "image_url": "https://m.media-amazon.com/images/P/B0F7HX9VFH.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:55:03",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 17.54,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      },
-      {
-        "price": 17.54,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "KS TOOLS Douille de guidage M8 x 1,0 152.1643",
-    "price": 12.06,
-    "reference_price": 27.14,
-    "discount_percent": 55.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07FXWRFV5",
-    "image_url": "https://m.media-amazon.com/images/P/B07FXWRFV5.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:55:02",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.06,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      },
-      {
-        "price": 12.06,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Technisat DigitRadio 51 anthracite",
-    "price": 69.0,
-    "reference_price": 77.68,
-    "discount_percent": 11.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00HRWP2MK",
-    "image_url": "https://m.media-amazon.com/images/P/B00HRWP2MK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:55:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 69.0,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      },
-      {
-        "price": 69.0,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
       }
     ]
   },
@@ -23173,6 +23129,10 @@
       {
         "price": 30.0,
         "observed_at": "2026-10-14T01:54:44.401054+00:00"
+      },
+      {
+        "price": 30.0,
+        "observed_at": "2026-10-15T02:05:56.468277+00:00"
       }
     ]
   },
@@ -24386,84 +24346,6 @@
       },
       {
         "price": 49.49,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Clavier filaire Razer Huntsman V2 Clavier Azerty - Noir (Vendeur tiers)",
-    "description": "119€ - Amazon Super tarif pour ce clavier qu’on ne présente plus ! Switchs optiques analogiques Razer: Définissez un point d’activation en fonction de votre style de jeu, ou utilisez l’entrée analogique pour un contrôle plus fluide et plus nuancé, en éliminant le mouvement WASD rigide à 8 directions pour un mouvement à 360 degrés Touches en PBT à double injection: Plus dures et plus durables que l’ABS, ces touches robustes ne s’useront pas et leurs caractères ne s’effaceront jamais grâce à leur processus de moulage à double injection Alimenté par Razer Chroma RGB: Avec 16,8 millions de couleurs et une suite d’effets, synchronisez ses touches et l’éclairage inférieur avec le reste de votre poste de combat, et profitez d’une plus grande immersion, car il réagit dynamiquement avec plus de 150 jeux intégrés Repose-poignet magnétique en similicuir moelleux: Doté d’un éclairage inférieur Razer Chroma RGB, le support de poignet doux et moelleux s’enclenche magnétiquement sur le clavier pour réduire la pression sur votre poignet. Ainsi, vous ressentez moins de fatigue, même lorsque vous jouez sur de longues périodes Bouton numérique multifonction et 4 touches multimédias: Configurez-les pour mettre en pause, jouer, passer et modifier absolument tout, de la luminosité au volume : profitez d’un confort ultime tout en vous divertissant Spécifications Marque: Razer Appareils compatibles: Console de jeu Technologie de connectivité: USB Description du clavier: Filaire Utilisations recommandées pour le produit: Jeu Caractéristique spéciale: Repose-poignet magnétique Couleur: Switch Optique Analogique Gestion de la couleur de rétro-éclairage du clavier: RVB Style: Huntsman V2 Dimensions du produit: 44,6L x 14,1l x 4,5H centimètres appareils compatibles: Console de jeu technologie de la connectivité: USB Fonctionnalités du produit: Repose-poignet magnétique Prise en charge des couleurs de rétroéclairage du clavier: RVB Source énergétique: Alimentation USB/filaire Type d’interrupteur: Tactile Disposition du clavier: AZERTY Orientation de la main: Ambidextre Quantité de boutons: 104 niveau de résistance à l'eau: Non étanche Modèle de commutateur de clavier mécanique: Switchs optiques analogiques Razer Famille de systèmes d'exploitation compatible: Windows Nombre de touches: 104 Nombre de sections: 3 Type de produit: Huntsman V2 Thème: Arc-en-ciel Dimensions de l'article L x l x H: 44,6L x 14,1l x 4,5H centimètres matériel interne: Polytéréphtalate de butylène Matériau de la plaque de clavier: Polybutylène Terephthalate (PBT) Usages recommandés pour le produit: Jeu contenu de la boîte: Câble USB, Manuel de l'utilisation, Razer Huntsman V2 Numéro du modèle: RZ03-03610500-R3F1 Nom du modèle: Huntsman V2 (Analog Switch) - French Layout Code article international: 08886419346678 Unité de comptage: 1.0 unité fabriquant: Razer nombre d'articles: 1 Génération: 2ème génération Poids de l'article: 2,22 Kilogrammes numéro de pièce: 8886419346678 Description de la garantie: 2 year Classement des meilleures ventes d'Amazon: 3904 en Jeux vidéo (Voir les 100 premiers en Jeux vidéo) 243 en Claviers gaming pour PC ASIN: B08P4XX518 Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (146) 4,4 sur 5 étoiles Commentaires client",
-    "price": 119.0,
-    "reference_price": 217.7,
-    "discount_percent": 45.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/clavier-razer-huntsman-v2-3431971",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/plb2w/3431971_1/re/1200x1200/qt/90/3431971_1.jpg",
-    "detected_at": "2026-10-13T20:27:42+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B08P4XX518?tag=neksann770f-21",
-    "price_history": [
-      {
-        "price": 119.0,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 119.0,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Nettoyeur de sol multifonction sans fil – Aspirateur laveur 2-en-1, Manche ergonomique (Via coupon)",
-    "description": "79,99€ - JoyBuy Aspirateur laveur de sol multifonction 2-en-1 sans fil. Conçu pour aspirer les saletés liquides et solides tout en lavant les sols durs en un seul passage. Points forts et caractéristiques : • Tarif de 79,99 € via coupon : S'obtient en récupérant le coupon de réduction de 50 € dès 100 € d'achats sur la fiche produit (73,49 € pour les membres JoyPlus). • Nettoyage 2-en-1 : Aspire la poussière et nettoie les liquides simultanément pour faire gagner un temps précieux. • Manche ergonomique & Conception sans fil : Grande liberté de mouvement pour nettoyer toute la maison sans contrainte de fil. • Entretien simplifié : Double réservoir séparant l'eau propre de l'eau usée pour un lavage hygiénique. • Polyvalence : Idéal pour tous les sols durs de la maison (carrelage, parquet vitrifié, linoléum, stratifié).",
-    "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nettoyeur-de-sol-multifonction-sans-fil-aspirateur-laveur-2-en-1-manche-ergonomique-via-coupon-de-50eur-3431970",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/zoHAr/3431970_1/re/1200x1200/qt/90/3431970_1.jpg",
-    "detected_at": "2026-10-13T20:27:21+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "T-shirt technique pour homme - Manches courtes, tailles S ou M",
-    "description": "3,76€ - Amazon Historique des prix : T-Shirt Technique pour Homme, Sport, Manches Courtes, Mesh | Vêtements de Sport d'été Respirants à séchage Rapide | Idéal pour la Salle de Sport, l'entraînement, Les Loisirs et Le Fitness À propos de ce produit Tissu mesh 100 % polyester. Col arrondi. Compatible :Tennis, fitness, running, cyclotourisme, football ou basket. Matériau léger, doux pour la peau et respirant. Produit officiel Asioka. Commentaires client",
-    "price": 3.76,
-    "reference_price": 5.5,
-    "discount_percent": 31.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/t-shirt-technique-pour-homme-manches-courtes-tailles-s-ou-m-3431969",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/6Y1BJ/3431969_1/re/1200x1200/qt/90/3431969_1.jpg",
-    "detected_at": "2026-10-13T20:25:57+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B079NNND71?smid=A1X6FK5RDHNB96",
-    "price_history": [
-      {
-        "price": 3.76,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 3.76,
         "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
