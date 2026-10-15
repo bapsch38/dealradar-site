@@ -523,14 +523,20 @@ let activeFilter = "all";
 let offers = [];
 
 function normalizeSearchText(value) {
-  return String(value ?? "")
-    .normalize("NFD").replace(/[\\u0300-\\u036f]/g, "")
+  let text = String(value ?? "")
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .toLocaleLowerCase("fr")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
+
+  // Synonymes courants : un même produit peut être décrit comme PC, ordinateur ou laptop.
+  if (/\b(pc|ordinateur|laptop|portable)\b/.test(text)) {
+    text += " pc ordinateur laptop";
+  }
+  return text;
 }
 function searchTerms(value) {
-  return [...new Set(normalizeSearchText(value).split(/\\s+/).filter(term => term.length > 0))];
+  return [...new Set(normalizeSearchText(value).split(/\s+/).filter(term => term.length > 0))];
 }
 function updateCategories() {
   const terms = searchTerms(search.value);
