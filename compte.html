@@ -27,6 +27,10 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <body>
 <header><div class="nav"><a class="logo" href="./index.html">Deal<span>Radar</span></a><nav class="navlinks"><a href="./index.html">🏠 Accueil</a><a href="./offres.html">🔥 Explorer les offres</a><a href="./publier.html">➕ Publier une offre</a><a href="./discussions.html">💬 Discussions</a><a href="https://t.me/DealRadarBonsPlansFR" target="_blank" rel="noopener noreferrer">✈️ Telegram</a></nav><a class="secondary" id="local-space-link" href="./mon-dealradar.html">⭐ Mon espace local</a></div></header>
 <main>
+<section class="panel account-sections-top" id="account-sections">
+<div class="section-head"><div><h2>Mon espace DealRadar</h2><p class="muted">Un tableau de bord pleine largeur pour gérer ton compte, tes favoris, tes alertes et ton abonnement.</p></div></div>
+<nav class="section-nav"><a href="#profile-panel">👤 Profil</a><a href="#favorites-panel">❤️ Favoris</a><a href="#alerts-panel">🔔 Alertes</a><a href="#price-tracking">📉 Suivi des prix</a><a href="#my-discussions">💬 Discussions</a><a href="#pro-plan">⭐ Offre Pro</a></nav>
+</section>
 <section class="intro"><div class="eyebrow">Ton espace personnel</div><h1>Un compte pour suivre <span>tes bons plans.</span></h1><p>Retrouve tes préférences et prépare une sélection personnalisée. Crée ton compte en ligne pour enregistrer tes préférences et les retrouver lors de tes prochaines connexions.</p></section>
 <div id="setup-note" class="setup-note"><strong>Connexion sécurisée</strong>Les comptes sont gérés par l’API DealRadar. Utilise un mot de passe unique d’au moins 8 caractères.</div>
 <div class="layout">
@@ -40,7 +44,7 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <button class="primary" id="auth-submit" type="submit" disabled>API non configurée</button><div id="auth-status" class="status" role="status" aria-live="polite"></div>
 </form>
 </section>
-<section class="panel hidden" id="profile-panel">
+<section class="panel hidden profile-panel-compact" id="profile-panel">
 <h2>Mon profil</h2><div class="profile-top"><div class="avatar" id="avatar">D</div><div><strong id="profile-name">Compte DealRadar</strong><small id="profile-email"></small></div></div>
 <p class="muted">Choisis les univers qui t’intéressent. Tes préférences seront enregistrées sur ton compte.</p>
 <div class="pref-list" id="pref-list"></div>
@@ -48,10 +52,7 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <button class="primary" id="save-prefs" type="button">Enregistrer mes préférences</button><div id="profile-status" class="status" role="status" aria-live="polite"></div>
 <p id="admin-access" class="hidden"><a href="./administration.html" style="color:var(--green);font-weight:850">Ouvrir le panneau d’administration ↗</a></p><button class="secondary" id="logout" type="button">Se déconnecter</button>
 </section>
-<section class="panel" id="account-sections">
-<div class="section-head"><div><h2>Mon espace DealRadar</h2><p class="muted">Un tableau de bord pleine largeur pour gérer ton compte, tes favoris, tes alertes et ton abonnement.</p></div></div>
-<nav class="section-nav"><a href="#profile-panel">👤 Profil</a><a href="#favorites-panel">❤️ Favoris</a><a href="#alerts-panel">🔔 Alertes</a><a href="#price-tracking">📉 Suivi des prix</a><a href="#my-discussions">💬 Discussions</a><a href="#pro-plan">⭐ Offre Pro</a></nav>
-</section>
+
 <div class="dashboard-grid hidden" id="account-tools">
 <section class="panel feature-panel" id="favorites-panel"><div class="section-head"><div><h2>❤️ Mes offres favorites</h2><p class="muted">Enregistre une offre avec son lien et ses prix. Les favoris sont rattachés à ton compte et te suivent lors de tes prochaines connexions.</p></div></div>
 <form id="favorite-form" class="feature-form">
