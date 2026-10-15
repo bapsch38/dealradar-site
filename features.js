@@ -98,7 +98,6 @@
       reasons.push("prix actuel confirmé sur une fiche marchand");
     } else if (price != null) {
       score += 8;
-      warnings.push("prix annoncé par la source, pas confirmé directement chez le marchand");
     } else {
       warnings.push("prix actuel absent : impossible d'évaluer l'offre");
     }
