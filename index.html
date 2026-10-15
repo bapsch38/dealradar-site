@@ -637,11 +637,21 @@ let currentPage = 1;
 let activeFilter = "all";
 let offers = [];
 
+function normalizeSearchText(value) {
+  return String(value ?? "")
+    .normalize("NFD").replace(/[\\u0300-\\u036f]/g, "")
+    .toLocaleLowerCase("fr")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+function searchTerms(value) {
+  return [...new Set(normalizeSearchText(value).split(/\\s+/).filter(term => term.length > 0))];
+}
 function updateCategories() {
-  const query = search.value.trim().toLocaleLowerCase("fr");
+  const terms = searchTerms(search.value);
   categories.forEach(card => {
-    const text = (card.innerText + " " + card.dataset.category).toLocaleLowerCase("fr");
-    card.hidden = !text.includes(query);
+    const text = normalizeSearchText((card.innerText || "") + " " + (card.dataset.category || ""));
+    card.hidden = !terms.every(term => text.includes(term));
   });
 }
 
@@ -941,14 +951,18 @@ function renderFeaturedOffers() {
 }
 function renderOffers() {
   renderFeaturedOffers();
-  const query = (dealSearch.value + " " + search.value).trim().toLocaleLowerCase("fr");
+  // Le même terme peut être présent dans les deux champs (recherche d'accueil + catalogue) : déduplique les termes et ignore les accents.
+  const query = [...new Set(searchTerms([dealSearch.value, search.value].filter(Boolean).join(" ")))];
   const minDiscount = Number(minDiscountInput.value || 0);
   const maxPrice = parsePriceValue(maxPriceInput.value);
   const list = offers.filter(offer => {
-    const text = [offer.title, offer.category, offer.source, offer.description].filter(Boolean).join(" ").toLocaleLowerCase("fr");
+    const text = normalizeSearchText([
+      offer.title, offer.category, offer.source, offer.description,
+      offer.merchant, offer.brand, offer.product_name, offer.tags
+    ].filter(Boolean).join(" "));
     const price = parsePriceValue(offer.price ?? offer.current_price);
     const discount = offerDiscount(offer);
-    if (!text.includes(query) || !matchesFilter(offer)) return false;
+    if (!query.every(term => text.includes(term)) || !matchesFilter(offer)) return false;
     if (minDiscount > 0 && (discount === null || discount < minDiscount)) return false;
     if (maxPrice !== null && (price === null || price > maxPrice)) return false;
     if (hideOldInput.checked && offerIsOld(offer)) return false;
