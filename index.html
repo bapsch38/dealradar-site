@@ -347,6 +347,14 @@ main>#dernieres-offres .filter{padding:7px 10px}
   main>#dernieres-offres{margin-top:20px}
 }
 
+
+/* Navigation DealRadar : onglets en bulles, lisibles sur ordinateur et mobile */
+.navlinks{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.navlinks a{display:inline-flex;align-items:center;justify-content:center;padding:9px 12px;border:1px solid #2b4158;border-radius:999px;background:#101f2e;color:var(--muted);transition:background .16s,border-color .16s,color .16s,transform .16s}
+.navlinks a:hover,.navlinks a[aria-current="page"]{border-color:var(--green);background:#153b2b;color:var(--green);transform:translateY(-1px)}
+@media(max-width:850px){.nav{flex-wrap:wrap;gap:10px}.navlinks{display:flex!important;order:3;width:100%;gap:6px}.navlinks a{font-size:12px;padding:8px 10px}.nav-publish{margin-left:auto}}
+@media(max-width:520px){.navlinks{overflow-x:auto;flex-wrap:nowrap;padding:3px 1px 6px;scrollbar-width:thin}.navlinks a{white-space:nowrap;flex:0 0 auto}.nav .pill{margin-left:auto}}
+
 </style>
 </head>
 <body class="home-page">
@@ -358,7 +366,7 @@ main>#dernieres-offres .filter{padding:7px 10px}
       <a href="./mon-dealradar.html">Mon espace local</a>
       <a href="./compte.html">Mon compte</a>
       <a href="./publier.html">Publier une offre</a>
-    </nav>
+    <a href="./discussions.html">Discussions</a></nav>
     <a class="pill nav-publish" href="./publier.html">＋ Publier une offre</a>
   </div>
 </header>
