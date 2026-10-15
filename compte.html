@@ -51,6 +51,15 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <div class="field"><label for="password">Mot de passe <span id="password-hint" class="muted">(8 caractères minimum)</span></label><input id="password" type="password" autocomplete="new-password" minlength="8" maxlength="128" required></div>
 <button class="primary" id="auth-submit" type="submit" disabled>API non configurée</button><div id="auth-status" class="status" role="status" aria-live="polite"></div>
 </form>
+<form id="verify-form" class="hidden">
+  <p class="muted">Nous avons envoyé un code à 6 chiffres à ton adresse e-mail. Il expire dans 10 minutes.</p>
+  <div class="field"><label for="verify-email">Adresse e-mail</label><input id="verify-email" type="email" autocomplete="email" readonly required></div>
+  <div class="field"><label for="verify-code">Code reçu par e-mail</label><input id="verify-code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{6}" minlength="6" maxlength="6" placeholder="123456" required></div>
+  <button class="primary" id="verify-submit" type="submit">Vérifier et créer mon compte</button>
+  <button class="secondary" id="resend-code" type="button" style="width:100%;margin-top:10px">Renvoyer un code</button>
+  <button class="secondary" id="back-to-register" type="button" style="width:100%;margin-top:10px">Retour à l’inscription</button>
+  <div id="verify-status" class="status" role="status" aria-live="polite"></div>
+</form>
 </section>
 <section class="panel hidden profile-panel-compact" id="profile-panel">
 <h2>Mon profil</h2><div class="profile-top"><div class="avatar" id="avatar">D</div><div><strong id="profile-name">Compte DealRadar</strong><small id="profile-email"></small><div style="margin-top:7px"><span id="profile-plan-chip" class="plan-chip">◇ PLAN GRATUIT</span></div></div></div>
@@ -200,8 +209,26 @@ async function loadMySubmissions() {
   } catch(error) { byId("submission-list").innerHTML='<p class="muted">Impossible de charger tes propositions : '+escapeHTML(error.message)+'</p>'; }
 }
 async function loadProfile() { profile=await apiCall("/api/auth/me"); renderProfile(); }
-byId("tab-register").addEventListener("click",()=>setMode("register"));
-byId("tab-login").addEventListener("click",()=>setMode("login"));
+byId("tab-register").addEventListener("click",()=>{byId("auth-form").classList.remove("hidden");byId("verify-form").classList.add("hidden");setMode("register");});
+byId("tab-login").addEventListener("click",()=>{byId("auth-form").classList.remove("hidden");byId("verify-form").classList.add("hidden");setMode("login");});
+byId("back-to-register").addEventListener("click",()=>{byId("verify-form").classList.add("hidden");byId("auth-form").classList.remove("hidden");byId("verify-code").value="";setMode("register");});
+byId("verify-form").addEventListener("submit",async event=>{
+  event.preventDefault();
+  const email=byId("verify-email").value.trim(), code=byId("verify-code").value.trim();
+  byId("verify-submit").disabled=true; setStatus("verify-status","Vérification du code…");
+  try {
+    const result=await apiCall("/api/auth/verify-email",{method:"POST",body:JSON.stringify({email,code})});
+    sessionStorage.setItem(TOKEN_KEY,result.access_token); profile=result.user; renderProfile();
+  } catch(error) { setStatus("verify-status",error.message,true); }
+  finally { byId("verify-submit").disabled=false; }
+});
+byId("resend-code").addEventListener("click",async()=>{
+  const email=byId("verify-email").value.trim();
+  byId("resend-code").disabled=true; setStatus("verify-status","Demande d’envoi en cours…");
+  try { const result=await apiCall("/api/auth/resend-verification",{method:"POST",body:JSON.stringify({email})}); setStatus("verify-status",result.message||"Nouveau code envoyé."); }
+  catch(error) { setStatus("verify-status",error.message,true); }
+  finally { byId("resend-code").disabled=false; }
+});
 byId("favorite-form").addEventListener("submit",async event=>{
   event.preventDefault();
   const title=byId("favorite-title").value.trim(), url=byId("favorite-url").value.trim();
@@ -235,7 +262,16 @@ byId("auth-form").addEventListener("submit",async event=>{
   byId("auth-submit").disabled=true; setStatus("auth-status","Connexion sécurisée en cours…");
   try {
     const result=await apiCall(mode==="register"?"/api/auth/register":"/api/auth/login",{method:"POST",body:JSON.stringify(payload)});
-    sessionStorage.setItem(TOKEN_KEY,result.access_token); profile=result.user; renderProfile(); byId("password").value="";
+    if(mode==="register" && result.verification_required) {
+      byId("verify-email").value=result.email||payload.email;
+      byId("verify-code").value="";
+      byId("auth-form").classList.add("hidden");
+      byId("verify-form").classList.remove("hidden");
+      setStatus("verify-status","Code envoyé à "+(result.email||payload.email)+". Vérifie aussi les courriers indésirables.");
+      byId("password").value="";
+    } else {
+      sessionStorage.setItem(TOKEN_KEY,result.access_token); profile=result.user; renderProfile(); byId("password").value="";
+    }
   } catch(error) { setStatus("auth-status",error.message,true); }
   finally { byId("auth-submit").disabled=false; }
 });
