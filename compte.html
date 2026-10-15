@@ -49,6 +49,7 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <div class="field" id="name-field"><label for="display-name">Nom affiché</label><input id="display-name" autocomplete="name" minlength="2" maxlength="60" placeholder="Ton prénom ou pseudo" required></div>
 <div class="field"><label for="email">Adresse e-mail</label><input id="email" type="email" autocomplete="email" maxlength="254" placeholder="toi@exemple.fr" required></div>
 <div class="field"><label for="password">Mot de passe <span id="password-hint" class="muted">(8 caractères minimum)</span></label><input id="password" type="password" autocomplete="new-password" minlength="8" maxlength="128" required></div>
+<div class="field hidden" id="admin-code-field"><label for="admin-code">Code d’activation administrateur</label><input id="admin-code" type="password" autocomplete="off" maxlength="128" placeholder="Code privé fourni par le propriétaire"><small class="muted">Facultatif pour un compte normal. Nécessaire uniquement pour créer le premier compte administrateur autorisé.</small></div>
 <button class="primary" id="auth-submit" type="submit" disabled>API non configurée</button><div id="auth-status" class="status" role="status" aria-live="polite"></div>
 </form>
 </section>
@@ -229,7 +230,11 @@ byId("auth-form").addEventListener("submit",async event=>{
   event.preventDefault();
   if(!API_BASE){setStatus("auth-status","L’API n’est pas encore configurée. Aucun compte n’a été créé.",true);return;}
   const payload={email:byId("email").value.trim(),password:byId("password").value};
-  if(mode==="register")payload.display_name=byId("display-name").value.trim();
+  if(mode==="register") {
+    payload.display_name=byId("display-name").value.trim();
+    const adminCode=byId("admin-code").value;
+    if(adminCode)payload.admin_code=adminCode;
+  }
   byId("auth-submit").disabled=true; setStatus("auth-status","Connexion sécurisée en cours…");
   try {
     const result=await apiCall(mode==="register"?"/api/auth/register":"/api/auth/login",{method:"POST",body:JSON.stringify(payload)});
