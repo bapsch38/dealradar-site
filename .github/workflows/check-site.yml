@@ -8,6 +8,10 @@ on:
       - "offres.html"
       - "mon-dealradar.html"
       - "publier.html"
+      - "discussions.html"
+      - "compte.html"
+      - "administration.html"
+      - "api-config.js"
       - ".github/ISSUE_TEMPLATE/**"
       - ".github/workflows/check-site.yml"
   workflow_dispatch:
@@ -47,7 +51,7 @@ jobs:
                   if tag == "script" and self.current is not None:
                       self.inline.append("".join(self.current))
                       self.current = None
-          for name in ("index.html", "offres.html", "mon-dealradar.html", "publier.html"):
+          for name in ("index.html", "offres.html", "mon-dealradar.html", "publier.html", "discussions.html", "compte.html", "administration.html"):
               parser = Scripts()
               parser.feed(Path(name).read_text(encoding="utf-8"))
               for number, code in enumerate(parser.inline):
@@ -55,7 +59,7 @@ jobs:
                   path.write_text(code, encoding="utf-8")
                   print(path)
           PY
-          for script in /tmp/index-*.js /tmp/offres-*.js /tmp/mon-dealradar-*.js /tmp/publier-*.js; do
+          for script in /tmp/index-*.js /tmp/offres-*.js /tmp/mon-dealradar-*.js /tmp/publier-*.js /tmp/discussions-*.js /tmp/compte-*.js /tmp/administration-*.js; do
             [ -f "$script" ] && node --check "$script"
           done
       - name: Vérifier les composants attendus
@@ -79,4 +83,7 @@ jobs:
           grep -q 'publier.html' index.html
           grep -q 'offres.html' index.html
           grep -q 'mon-dealradar.html' index.html
+          grep -q 'discussions.html' index.html
+          grep -q 'id="topic-form"' discussions.html
+          grep -q '/api/admin/discussions' administration.html
           echo "OK : scripts, publication communautaire et pages séparées présents."
