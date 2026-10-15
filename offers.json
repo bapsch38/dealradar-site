@@ -1,5 +1,26 @@
 [
   {
+    "title": "Wera 05005922001 8767 A VDE HF...tion de retenue, TX 20 x 36 mm",
+    "price": 28.25,
+    "reference_price": 29.3,
+    "discount_percent": 3.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0F7HVB6DY",
+    "image_url": "https://m.media-amazon.com/images/P/B0F7HVB6DY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 08:26:54",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 28.25,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
     "title": "STABILA Niveau à bulle Type 80...apant intégré, Made in Germany",
     "price": 19.63,
     "reference_price": 21.99,
@@ -8774,6 +8795,10 @@
       {
         "price": 27.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 27.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -8795,6 +8820,10 @@
       {
         "price": 26.81,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 26.81,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -10799,27 +10828,200 @@
     ]
   },
   {
-    "title": "SHARPIE Marqueurs créatifs Feu...ure scolaire | Bleu | Lot de 6",
-    "price": 6.93,
-    "reference_price": 27.0,
-    "discount_percent": 74.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DWSDMB97",
-    "image_url": "https://m.media-amazon.com/images/P/B0DWSDMB97.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:54:27",
-    "category": "Bureau & papeterie",
+    "title": "Livraison offerte sur une séelection de jouets pat’patrouille, gabby et yoshi",
+    "description": "King Jouet Livraison offerte site King jouet",
+    "price": 29.99,
+    "reference_price": 34.99,
+    "discount_percent": 14.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/livraison-offerte-sur-les-jouets-patpatrouille-gabby-et-yoshi-3432851",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/5Q9KM/3432851_1/re/1200x1200/qt/90/3432851_1.jpg",
+    "detected_at": "2026-10-15T08:20:48+00:00",
+    "category": "Jouets & jeux",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 6.93,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
-      },
+        "price": 29.99,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vol Aller/Retour Paris BVA > Marrakech Maroc Du 09 Décembre au 16 Décembre (Bagage à main Inclus)",
+    "description": "43€ - Google Flights",
+    "price": 43.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vol-allerretour-paris-bva-marrakech-maroc-du-09-decembre-au-16-decembre-bagage-a-main-inclus-3432847",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/mM1rR/3432847_1/re/1200x1200/qt/90/3432847_1.jpg",
+    "detected_at": "2026-10-15T08:17:17+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
-        "price": 6.93,
-        "observed_at": "2026-10-14T18:18:18.461134+00:00"
+        "price": 43.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle Vessel Twenty one pilot",
+    "description": "20€ Vessel Twenty One Pilots, Vinyle album Twenty One Pilots (stylisé en twenty øne piløts, précédemment twenty | one | pilots) est un groupe américain, originaire de Colombus dans l'Ohio. Formé en 2009, il regroupe depuis 2011 Tyler Joseph, chanteur et pianiste, et Josh Dun, qui est batteur. Le groupe a publié deux albums (Twenty One Pilots en 2009 et Regional at Best en 2011) avant de signer avec le label Fueled By Ramen en 2012. Le premier album créé avec ce nouveau label, Vessel, sort en 2013. Le second, Blurryface, sort en 2015. Le groupe se forme en 2009 à Columbus, dans l'Ohio, par trois camarades lycéens Tyler Joseph, Nick Thomas et Chris Salih. Tyler attribue au groupe son nom en s'inspirant de l'ouvrage All My Sons d'Arthur Millerqui parle d'un homme décidant du destin de sa famille après avoir tué 21 pilotes durant la Seconde Guerre mondiale à cause de la livraison de pièces d'avion défectueuses. Tyler explique que la morale de l'histoire a inspiré le nom du groupe. Le 29 décembre 2009, ils publient leur tout premier album, Twenty One Pilots et se lancent dans une tournée à travers l'Ohio.",
+    "price": 20.0,
+    "reference_price": 32.0,
+    "discount_percent": 37.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vessel-vinyle-twenty-one-pilot-3432849",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/xGeAr/3432849_1/re/1200x1200/qt/90/3432849_1.jpg",
+    "detected_at": "2026-10-15T08:17:06+00:00",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ecouteurs sans fil Xiaomi Redmi Buds 8 Pro",
+    "description": "53,55€ - Amazon.es Prix intéressant pour ces Xiaomi REDMI Buds 8 Pro sur Amazon Espagne. Ces écouteurs semblent présenter un bon rapport qualité/prix avec peut-être comme point faible son autonomie. CARACTÉRISTIQUES TECHNIQUES : • Audio : Triple haut-parleur coaxial (1 driver dynamique 11 mm titane + 2 drivers céramique) • Codecs audio : Hi-Res Audio Wireless, LDAC, SBC, AAC • Audio spatial : Oui, avec suivi des mouvements de la tête • Réduction de bruit active (ANC) : Jusqu'à 55 dB avec ajustement dynamique intelligent • Mode Transparence : Oui (plusieurs modes dont amplification des voix) • Microphones : 3 micros par écouteur avec réduction de bruit IA (anti-vent jusqu'à 12 m/s) • Autonomie (écouteurs) : Jusqu'à 9,5 heures • Autonomie (totale avec boîtier) : Jusqu'à 36 heures • Rechargement : USB-C (Charge rapide : 5 min de charge = 2h d'écoute) • Connectivité : Bluetooth 5.3 / Google Fast Pair • Connexion Multipoint : Oui (2 appareils en simultané) • Application : Xiaomi Earbuds (personnalisation tactile et égaliseur) • Étanchéité : IP54 (résiste à la sueur, la pluie et la poussière) • Poids : ~5,2 g par écouteur / ~46,5 g au total",
+    "price": 53.55,
+    "reference_price": 57.69,
+    "discount_percent": 7.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/ecouteurs-sans-fil-xiaomi-redmi-buds-8-pro-3432846",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/rNDOD/3432846_1/re/1200x1200/qt/90/3432846_1.jpg",
+    "detected_at": "2026-10-15T08:15:31+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.es/dp/B0GCLTMTM3?smid=A1AT7YVPFBWXBL",
+    "price_history": [
+      {
+        "price": 53.55,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "[Adhérents Fnac One] 50€ remboursé tous les 300€ (hors smartphone & accessoires) & 10€ remboursé tous les 100€ sur les Smartphones",
+    "description": "Fnac Journée Adhérents Fnac ONE en magasins Fnac le jeudi 15 octobre : 50 € offerts tous les 300 € d’achat (hors Smartphones et accessoires smartphones) et 10 € offerts tous les 100 € d’achat sur les smartphones et accessoires smartphones Offre réservée aux adhérents One titulaires d’une carte Fnac One en cours de validité, valable dans la limite des stocks disponibles, uniquement dans les magasins Fnac participants (y compris pour les magasins franchisés participants) toute la journée du Jeudi 15 Octobre (pendant les horaires d’ouverture), sur présentation du code-barre reçu par mail. 1- Le compte fidélité de l’adhérent One sera automatiquement crédité de 50 € tous les 300 € d’achat (hors Ecopart) lors d’un même passage en caisse pour tout achat sur les produits affichés comme étant éligibles à cette offre (hors Livres, MarketPlace, produits 2nde vie, tous les produits bénéficiant déjà d’une remise en chèque-cadeau adhérents, marque Jura, tout le rayon smartphones et accessoires smartphones, MacBook Neo, GTA VI, Zelda (Jeu, consoles et accessoires), consoles PS5, produits dématérialisés gaming, téléchargements, cartes cadeaux, coffrets cadeaux, tirages photos, abonnements presse, cartes de téléphonie, services, abonnements téléphoniques et Internet et billetterie). 2- Le compte fidélité de l’adhérent One sera automatiquement crédité de 10 € tous les 100 € d’achat (hors Ecopart) sur les smartphones et accessoires smartphones lors d’un même passage en caisse pour tout achat sur les produits affichés comme étant éligibles à cette offre (hors MarketPlace, iPhone 18 Pro / Pro Max, produits 2nde vie et tous les produits bénéficiant déjà d’une remise en chèque-cadeau adhérents). Le compte fidélité FNAC sera alors crédité automatiquement du montant offert dans un délai de 48h00 après réception du ou des produits. Les Euros cumulés sur le compte fidélité FNAC sont valables jusqu’à la fin du mois suivant le mois de leur obtention, à condition que la Carte FNAC ou FNAC+ de l'adhérent titulaire soit en cours de validité et qu'il ait présenté sa carte lors de son passage en caisse. L'ensemble des achats de l'adhérent titulaire et des autres personnes possédant une carte supplémentaire sont comptabilisés sur le compte de fidélité de l'adhérent titulaire. Dès le cumul de 1€ sur son compte fidélité, l'adhérent a la possibilité d'obtenir un chèque-cadeau virtuel FNAC du montant cumulé (par tranche de 1€) valable en magasins FNAC et en magasins DARTY participants ou sur www.fnac.com . Ce chèque peut être utilisé par l'adhérent titulaire ou par toute personne bénéficiant d'une carte supplémentaire. Ce chèque est valable pour un achat d'un montant supérieur à 1€ (hors livres, coffrets et cartes cadeaux, tirages photos, abonnements presse, cartes de téléphonie, abonnements téléphoniques et internet, prestations de services, téléchargements, billetterie). Cumulable avec les remises ou promotions réservées ou non aux adhérents, sauf avec tout autre code promo et les offres en chèque-cadeau adhérents.",
+    "price": 1.0,
+    "reference_price": 18.96,
+    "discount_percent": 94.7,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/adherent-fnac-one-50eur-offerts-tous-les-300eur-hors-smartphone-et-accessoires-et-10eur-offerts-tous-les-100eur-sur-les-smartphones-3432845",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/YIzLG/3432845_1/re/1200x1200/qt/90/3432845_1.jpg",
+    "detected_at": "2026-10-15T08:15:29+00:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "http://www.fnac.com",
+    "price_history": [
+      {
+        "price": 1.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Tableau Précâblé Schneider Electic - Resi9 XE, Logement du T3 au T4 3 rangées",
+    "description": "319,20€ - Leroy Merlin Tableau précâblé Schneider Electic Resi9 XE, logement du T3 au T4 3 rangées. Retrait gratuit en magasin Tableau électrique embrochable pré-équipé et pré-câblé Schneider Electric de 39 modules répartis sur 3 rangées. Ce tableau de logement qui s'adapte aux installations résidentielles allant du T3 au T4 est composé de : 3 interrupteurs différentiels (1x63A 30mA type AC, 1x40A 30 mA type AC, 1x40A 30 mA type A), 11 disjoncteurs 1P+N courbe C (1x32A, 3x20A, 4x16A, 3x10A), 2 peignes verticaux pour interrupteurs différentiels 63A, 3 répartiteurs 13 modules. 1 bornier phase et 1 bornier neutre : 14 connexions (1x35 mm² + 6x16 mm²), 1 bornier terre : 28 connexions (4x25 mm² à vis + 24x2,5 mm² à enfichage). Possibilité d'ajouter des modulaires UNIQUEMENT XE sur les emplacements laissés libres. Ce coffret Resi9 apporte un confort et une facilité de pose grâce aux rails DIN déclipables et son système de vis quart de tour sans outil. Son système embrochable Resi9 XE, vous permettra de gagner du temps avec le clipsage facilité des disjoncteurs. En plus de sa performance technique, la sécurité est renforcée avec aucune partie sous tension et moins de risque d'échauffement qu'un système à vis. L'installation s'effectue en saillie ou dans une gaine technique de logement. De couleur blanc RAL 9003, il peut être complété d'une porte.",
+    "price": 319.2,
+    "reference_price": 399.0,
+    "discount_percent": 20.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tableau-precable-schneider-electic-resi9-xe-logement-du-t3-au-t4-3-rangees-3432843",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/XEaGM/3432843_1/re/1200x1200/qt/90/3432843_1.jpg",
+    "detected_at": "2026-10-15T08:14:37+00:00",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.leroymerlin.fr/produits/tableau-precable-logement-du-t3-au-t4-3-rangees-resi9-xe-schneider-electric-82726711.html",
+    "price_history": [
+      {
+        "price": 319.2,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle 180g Gorillaz The Now Now",
+    "description": "20€ - Fnac «The Now Now», ce sont 11 nouvelles chansons du plus grand groupe virtuel au monde, produit par Gorillaz, avec James Ford et Remi Kabaka, et entièrement enregistré au Studio 13 à Londres en février dernier. Un an à peine après l'album «Humanz» encensé par la critique, le quatuor créé par Damon Albarn et Jamie Hewlett livre un nouvel opus davantage pop et electro, tour à tour dansant et planant. Ecartant largement les guest, ce nouvel album s’en remet à l'équipe créative de base: le doux rêveur aux cheveux bleus 2D au chant; l’ingénieuse et badass japonaise Noodle à la guitare; sans oublier le philosophe et batteur de Brooklyn Russel Hobbs. Et Murdoc Niccals étant temporairement indisponible, la basse est assurée par Ace, ancienne membre de Gangreen Gang.",
+    "price": 20.0,
+    "reference_price": 31.33,
+    "discount_percent": 36.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/the-now-now-vinyle-180-gr-gorillaz-3432842",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Wo5nZ/3432842_1/re/1200x1200/qt/90/3432842_1.jpg",
+    "detected_at": "2026-10-15T08:14:09+00:00",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.fnac.com/a12443276/Gorillaz-The-Now-Now-Vinyle-180-gr-Vinyle-album",
+    "price_history": [
+      {
+        "price": 20.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini Ballon Kipsta Replica Ligue 1 McDonald's 25/26 - Taille 1",
+    "description": "6,29€ - Decathlon Bon prix pour un mini ballon pour les petits footballeurs ou footballeuses en herbe. ;)",
+    "price": 6.29,
+    "reference_price": 8.99,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/mini-ballon-replica-ligue-1-mcdonalds-2526-taille-1-3432841",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Rodno/3432841_1/re/1200x1200/qt/90/3432841_1.jpg",
+    "detected_at": "2026-10-15T08:11:43+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.decathlon.fr/p/mini-ballon-replica-ligue-1-mcdonald-s-25-26-taille-1/359663/c24m8920319",
+    "price_history": [
+      {
+        "price": 6.29,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Vinyle LP Batman",
+    "description": "19,99€ - Amazon Description du produit L'album original de nouveau disponible en vinyle L'album de 1989 a été un énorme succès et comportait les singles à succès \"Batdance\" et \"Partyman\", ainsi que \"Scandalous\". Liste des titres Disque : 1 1 THE FUTURE - Prince 2 ELECTRIC CHAIR - Prince 3 The Arms of Orion - Prince / Easton, Sheena 4 PARTYMAN - Prince 5 VICKI WAITING - Prince Disque : 2 1 TRUST 2 LEMON CRUSH 3 SCANDALOUS 4 BATDANCE À propos de ce produit New Store Stock Commentaires client",
+    "price": 19.99,
+    "reference_price": 21.52,
+    "discount_percent": 7.1,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/vinyle-lp-batman-3432840",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/SronV/3432840_1/re/1200x1200/qt/90/3432840_1.jpg",
+    "detected_at": "2026-10-15T08:10:54+00:00",
+    "category": "Culture & sorties",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -10869,7 +11071,7 @@
   },
   {
     "title": "Filtre à Eau Ultrafiltration 0,01µm - Acier Inox iSpring CKC1S (Vendeur Tiers, Via Coupon)",
-    "description": "97,57€ - Amazon [Ultrafiltration d'Élite à 0,01 Micron]: Pureté supérieure. Protégez votre foyer avec une technologie d'ultrafiltration (UF) de pointe à 0,01 micron. Ce filtre à eau multi-étapes doté d'une membrane submicronique bloque efficacement les contaminants microscopiques — limon, rouille, sédiments — que les filtres standard de 5 microns laissent passer. Conçu comme filtre à eau pour robinet haute performance pour évier, il garantit chaque goutte d'eau du robinet saine et cristalline. [Durable et Sans Plastique] : Optez pour un filtre à eau de robinet en acier inoxydable SUS304 de qualité alimentaire. Contrairement aux filtres à eau en plastique fragiles, notre boîtier robuste élimine tout risque de BPA et de pollution secondaire. Cette unité sans plastique, résistante à la corrosion et étanche, garantit une durabilité exceptionnelle. Sa finition métallique s’intègre à tout décor moderne, offrant une solution d’eau durable, digne de l’eau en bouteille. [Installation Facile en 3 Minutes] : L'accessoire indispensable pour appartements et camping-cars, un filtre à eau idéal sans perçage. Notre kit sans outils comprend des adaptateurs universels pour la plupart des robinets. Ce système portable à poser, un filtre pour robinet d’eau potable, se raccorde en minutes sans plombier. Sa vanne permet de basculer entre eau filtrée et non filtrée, la solution sans perçage préférée des locataires et voyageurs.",
+    "description": "97,57€ - Amazon [Ultrafiltration d'Élite à 0,01 Micron]: Pureté supérieure. Protégez votre foyer avec une technologie d'ultrafiltration (UF) de pointe à 0,01 micron. Ce filtre à eau multi-étapes doté d'une membrane submicronique bloque efficacement les contaminants microscopiques — limon, rouille, sédiments — que les filtres standard de 5 microns laissent passer. Conçu comme filtre à eau pour robinet haute performance pour évier, il garantit chaque goutte d'eau du robinet saine et cristalline. [Durable et Sans Plastique] : Optez pour un filtre à eau de robinet en acier inoxydable SUS304 de qualité alimentaire. Contrairement aux filtres à eau en plastique fragiles, notre boîtier robuste élimine tout risque de BPA et de pollution secondaire. Cette unité sans plastique, résistante à la corrosion et étanche, garantit une durabilité exceptionnelle. Sa finition métallique s’intègre à tout décor moderne, offrant une solution d’eau durable, digne de l’eau en bouteille. [Installation Facile en 3 Minutes] : L'accessoire indispensable pour appartements et camping-cars, un filtre à eau idéal sans perçage. Notre kit sans outils comprend des adaptateurs universels pour la plupart des robinets. Ce système portable à poser, un filtre pour robinet d’eau potable, se raccorde en minutes sans plombier. Sa vanne permet de basculer entre eau filtrée et non filtrée, la solution sans perçage préférée des locataires et voyageurs. Spécifications Marque: iSpring Dimensions du produit: 13L x 10l x 30H centimètres Capacité: 10000 gallons Composants inclus: Robinets de purification d'eau et accessoires connexes Type d'installation: Comptoir Méthode de purification: Ultrafiltration Nom de modèle: CKC1S UPC: 810004177420 Fabricant: iSpring Cycle de vie du filtre: 6 Mois Dimensions de l'article L x l x H: 13L x 10l x 30H centimètres Charge maximum du hamac: 10000 gallons Nom du modèle: CKC1S Numéro de modèle: 1 ID du produit: 810004177420 Point fort de l’article: Ultrafiltration 0,01µm, Filtre à Charbon, Eau Potable Cuisine, Idéal Locataires, Installation sur Robinet Comptoir Nombre d'articles: 1 Nombre de paquets: 1 Pays d'origine du produit: Chine Numéro de pièce fabricant: CKC1S Classement des meilleures ventes d'Amazon: 190059 en Bricolage (Voir les 100 premiers en Bricolage) 244 en Filtres à eau sous éviers ASIN: B0GFCJ9FSD Moyenne des commentaires client: 4,6 4,6 sur 5 étoiles (18) 4,6 sur 5 étoiles Commentaires client",
     "price": 97.57,
     "reference_price": 116.7,
     "discount_percent": 16.4,
@@ -10957,7 +11159,7 @@
   },
   {
     "title": "Vinyle ZZ Top - Tres Hombres",
-    "description": "19,99€ - Amazon Tres Hombres est le troisième album studio du groupe de rock américain ZZ Top, sorti le 26 juillet 1973. Cet album marque la véritable percée commerciale du trio texan, atteignant notamment la 8e place du classement Billboard 200 aux États-Unis. Porté par le succès planétaire de son titre phare, l'album mêle habilement blues rock, southern rock et hard rock. • Date de sortie : 26 juillet 1973 • Membres du groupe : Billy Gibbons (guitare, chant), Dusty Hill (basse, chant) et Frank Beard (batterie) Face : 1 1 Waitin' for the Bus 2 Jesus Just Left Chicago 3 Beer Drinkers & Hell Raisers 4 Master of Sparks Remastered Version 5 Hot Blue and Righteous Face : 2 1 Move Me on Down the Line 2 Precious and Grace Remastered Version 3 La Grange 2005 Remastered Version 4 Sheik Remastered Version 5 Have You Heard",
+    "description": "19,99€ - Amazon Tres Hombres est le troisième album studio du groupe de rock américain ZZ Top, sorti le 26 juillet 1973. Cet album marque la véritable percée commerciale du trio texan, atteignant notamment la 8e place du classement Billboard 200 aux États-Unis. Porté par le succès planétaire de son titre phare, l'album mêle habilement blues rock, southern rock et hard rock. • Date de sortie : 26 juillet 1973 • Membres du groupe : Billy Gibbons (guitare, chant), Dusty Hill (basse, chant) et Frank Beard (batterie) Face : 1 1 Waitin' for the Bus 2 Jesus Just Left Chicago 3 Beer Drinkers & Hell Raisers 4 Master of Sparks Remastered Version 5 Hot Blue and Righteous Face : 2 1 Move Me on Down the Line 2 Precious and Grace Remastered Version 3 La Grange 2005 Remastered Version 4 Sheik Remastered Version 5 Have You Heard À propos de ce produit Ships in Certified Frustration-Free Packaging Commentaires client",
     "price": 19.99,
     "reference_price": 23.2,
     "discount_percent": 13.8,
@@ -22449,6 +22651,10 @@
       {
         "price": 5.99,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 5.99,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22471,6 +22677,10 @@
       {
         "price": 199.99,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 199.99,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22493,6 +22703,10 @@
       {
         "price": 41.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 41.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22515,6 +22729,10 @@
       {
         "price": 6.62,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 6.62,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22559,6 +22777,10 @@
       {
         "price": 99.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 99.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22581,6 +22803,10 @@
       {
         "price": 11.49,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 11.49,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22603,6 +22829,10 @@
       {
         "price": 784.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 784.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22625,6 +22855,10 @@
       {
         "price": 21.99,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 21.99,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22647,6 +22881,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22669,6 +22907,10 @@
       {
         "price": 5.49,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 5.49,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22691,6 +22933,10 @@
       {
         "price": 359.92,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 359.92,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22713,6 +22959,10 @@
       {
         "price": 32.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 32.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22735,6 +22985,10 @@
       {
         "price": 899.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 899.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22757,6 +23011,10 @@
       {
         "price": 45.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 45.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22779,6 +23037,10 @@
       {
         "price": 55.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 55.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22801,6 +23063,10 @@
       {
         "price": 199.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 199.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22823,6 +23089,10 @@
       {
         "price": 3.5,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 3.5,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22845,6 +23115,10 @@
       {
         "price": 41.31,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 41.31,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -22867,6 +23141,10 @@
       {
         "price": 36.0,
         "observed_at": "2026-10-14T08:16:12.175447+00:00"
+      },
+      {
+        "price": 36.0,
+        "observed_at": "2026-10-15T08:28:02.537561+00:00"
       }
     ]
   },
@@ -24237,240 +24515,6 @@
       {
         "price": 11.99,
         "observed_at": "2026-10-15T07:28:01.821482+00:00"
-      }
-    ]
-  },
-  {
-    "title": "-15% dès 25 euros d'achat chez L'Oréal Paris",
-    "description": "L'Oréal Paris Code CATSEYES : -15% sur le site L'Oréal Paris, valable jusqu'au 30/10/2026 pour toute commande d'au moins 25€. Il n'est pas cumulable avec d'autres offres, et la bannière précise qu'il faut bien enregistrer son code (à ajouter dans le panier ou au compte avant de payer). Source du code promo : Lieu de consolation pour les perdants du jeux concours instant gagnant de L'Oréal Paris disponible ici : ecampaign.loreal-paris.fr/quiz/1823809_1221/OAPCatsEyes2026.html?utm_source=agence-reflexemedia Il est possible de gagner quelques lots sympa donc n'hésitez pas à participer au passage ! (y)",
-    "price": 25.0,
-    "reference_price": null,
-    "discount_percent": 15.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/codes-promo/15-des-25-euros-dachat-3432105",
-    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/280_1/re/1200x1200/qt/90/280_1.jpg",
-    "detected_at": "2026-10-14T06:52:45+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.0,
-        "observed_at": "2026-10-14T06:57:12.503969+00:00"
-      },
-      {
-        "price": 25.0,
-        "observed_at": "2026-10-15T07:28:01.821482+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Amandes Natural Happiness Raw",
-    "description": "4,99€ Les Amandes Natural Happiness Raw sont des amandes crues, non grillées et non salées, principalement commercialisées dans les magasins Action • Valeurs nutritionnelles (pour 100 g) : • Énergie : 610 kcal • Matières grasses : 51,8 g (dont acides gras saturés : 4,3 g) • Glucides : 6 g (dont sucres : 3,9 g) • Protéines : 25,8 g • Sel : 0,0 g",
-    "price": 4.99,
-    "reference_price": 5.99,
-    "discount_percent": 16.7,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/amandes-natural-happiness-raw-3432104",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4iT2z/3432104_1/re/1200x1200/qt/90/3432104_1.jpg",
-    "detected_at": "2026-10-14T06:50:12+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-14T06:52:45.240603+00:00"
-      },
-      {
-        "price": 4.99,
-        "observed_at": "2026-10-15T07:28:01.821482+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Client Red by SFR] Smartphone 6,1\" Apple iPhone 16e - RAM 8 Go, 128 Go + AirPods 4 (via 100€ d'ODR sur facture)",
-    "description": "599€ - RED by SFR Joli prix pour le Pack iPhone 16e + AirPods 4 Via 149€ de remise immédiate + 100€ d'ODR : https://static.s-sfr.fr/media/catalogue/article/promotions/odr/odr-ODR_RED_100_06102026-0002.pdf?ts=1791796785303 Les caractéristiques clés Écran Super Retina XDR : Un grand écran lumineux et très fluide. Caméra Fusion 48 Mpx, avec téléobjectif 2x 12 Mpx : Pour adopter une nouvelle perspective et saisir chaque moment. CPU 6 cœurs, 2 cœurs de perfor­mance et 4 cœurs à haute effica­cité éner­gétique : Plus de puissance dans la paume de vos mains Batterie lithium‑ion rechargeable intégrée, charge sans fil : Une batterie à autonomie prolongée qui se recharge en un clin d'œil. SOS d’urgence par satellite Détection des accidents : Partez avec la tranquillité d'esprit. Apple Intelligence : L’intelligence artificielle, naturellement. Nécessite iOS 18.4 (ou version ultérieure)",
-    "price": 599.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-red-by-sfr-smartphone-61-apple-iphone-16e-ram-8-go-128-go-airpods-4-via-100eur-dodr-sur-facture-3432103",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Tdzio/3432103_1/re/1200x1200/qt/90/3432103_1.jpg",
-    "detected_at": "2026-10-14T06:47:53+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 599.0,
-        "observed_at": "2026-10-14T06:52:45.240603+00:00"
-      },
-      {
-        "price": 599.0,
-        "observed_at": "2026-10-15T07:28:01.821482+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Guitare électrique Sire Larry Carlton J5 - White",
-    "description": "370,45€ - Muziker Comment différencier une Larry Carlton J5 d'un Peugeot J5 ? La ligne : La Larry Carlton présente des courbes gracieuses plus qu'inspirées d'une Fender Jazzmaster, le Peugeot présente l'aérodynamique plus qu'inspirée d'un parpaing. Attention tout de même au coloris : Les deux sont disponibles en blanc et on pourrait les confondre, mais le Peugeot présente en général des traces de salissure avancée voire de corrosion perforante. L'équipement : La Larry Carlton possède une touche en ébène et des mécaniques à blocage, le J5 existe en version benne mais n'a pas d'anti-blocage. L'énergie : La Larry Carlton, tout comme le Peugeot, peut faire beaucoup de bruit, mais elle fonctionne à l'électricité, et au prix actuel du carburant, vous verrez vite la différence. Et pour ceux qui ne seraient toujours pas sûr de pouvoir les distinguer, une illustration pourra peut-être les aider : Une Larry Carlton J5 : Un Peugeot J5 : Maintenant, à vous d'ouvrir les yeux et d'être attentifs pour ne pas vous tromper, une erreur est vite arrivée et peut être lourde de conséquences. Vidéos : [shortcode id=\"20619155\"/][shortcode id=\"20619156\"/] Pour comparer : 549 € chez Bax 549 € chez Woodbrass 587,88 € chez Rome Instruments 599 € chez Sonovente Autres versions : 434 € en Blue 438 € en Sunburst 444 € en Surf Green Metallic Caractéristiques : Corps : Aulne nord-américain) Manche : Vissé, en érable, profil C Diapason : 25,5\" Touche : Ebène, radius 9,5\" edgeless, 22 frettes Medium Jumbo Sillet : Os, largeur 42 mm Chevalet/cordier : Göldo/Sire Vintage JM-Type Bridge + Göldo/Sire DG Tremolo Mécaniques : Sire Premium Locking Tuners Micros : 2x Larry Carlton Standard Jazzmaster Contrôles : 1x Volume, 1x Tone, sélecteur 3 positions",
-    "price": 370.45,
-    "reference_price": 549.0,
-    "discount_percent": 32.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/guitare-electrique-sire-larry-carlton-j5-white-3432102",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/I208K/3432102_1/re/1200x1200/qt/90/3432102_1.jpg",
-    "detected_at": "2026-10-14T06:46:28+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 370.45,
-        "observed_at": "2026-10-14T06:50:25.265982+00:00"
-      },
-      {
-        "price": 370.45,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Reconditionné : PC Portable Hybride 14\" Lenovo ThinkPad X1 Yoga G3 - FHD Tactile, i5-8350U, RAM 8 Go, SSD NVMe 256 Go, W11 (Etat Correct)",
-    "description": "199€ - Kiatoo Prix intéressant pour ce PC hydride 2-en-1 avec écran tactile ! :) ► Caractéristiques & Description Informations Générales Marque : Lenovo Gamme : ThinkPad Modèle : X1 Yoga G3 Système d'exploitation : Windows 11 Processeur Type de processeur : Intel Core i5 Référence du processeur : Intel Core i5 8350U Fréquence du processeur : 1,7 GHz Génération de processeur : Gen 8 Mémoire RAM : 8Go RAM Type de RAM : DDR3 RAM Maximum : 8Go max. RAM soudée ou extensible : RAM soudée Graphisme Type de carte graphique : Carte graphique intégrée Carte graphique : Intel UHD Graphics 620 Marque de carte graphique : Intel HD Graphics Affichage Taille de l'écran : 14\" Type d'écran : Full HD Résolution d'écran : 1920 x 1080 pixels Traitement antireflets : non Écran tactile : oui Stockage Disque dur : 256Go SSD Type de disque dur : SSD (Disque reconditionné avec 3 tests différents) Format du disque dur : M.2 Interface du disque : NVMe Communication Wifi : oui Bluetooth : non Connectique Port(s) vidéo : Sans VGA Port(s) vidéo : Avec HDMI Port(s) vidéo : Sans DisplayPort Port(s) USB : Avec USB Type-C Port(s) USB : 2x USB 3 / 2x USB Type-C Autres prises : Sans port Ethernet Autres prises : 1x Micro/Casque, 1 x Port de sécurité Thunderbolt : 1 x Thunderbolt 3 Clavier Type de clavier : Clavier AZERTY - Français, sans pavé numérique, avec trackpoint Type de clavier : Avec trackpoint Type de clavier : Sans pavé numérique Equipement Webcam intégrée : non Lecteur CD/DVD : non Lecteur de cartes mémoire : oui Etat du produit Etat du produit : Occasion certifiée reconditionnée Caractéristiques physiques Couleur : Noir Dimensions : 33,3 x 22,9 x 17 cm Poids : 1,4 kg Autres Informations Type de produit : PC hydride (2 en 1) reconditionné Accessoires livrés avec l'appareil : 1x chargeur (alimentation) et 1x batterie - Etat : grade sélectionné Garantie : Garantie 1 an Pièces et Main d'œuvre Clique sur le bouton \" SUIVRE \" si tu souhaites être notifié de mes prochains deals !",
-    "price": 199.0,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/reconditionne-pc-portable-hybride-14-lenovo-thinkpad-x1-yoga-g3-fhd-tactile-i5-8350u-ram-8-go-ssd-nvme-256-go-w11-etat-correct-3432101",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3vXI8/3432101_1/re/1200x1200/qt/90/3432101_1.jpg",
-    "detected_at": "2026-10-14T06:43:23+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 199.0,
-        "observed_at": "2026-10-14T06:50:25.265982+00:00"
-      },
-      {
-        "price": 199.0,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tomb Raider I-VI Remastered sur Xbox One/Series X (Dématérialisé)",
-    "description": "10,99€ - Xbox Store Tomb Raider I-VI Remastered sur Xbox Description Lara Croft est de retour ! Partez à la découverte des aventures originales de Lara Croft, remastérisé avec fidélité. Aspects clés Profitez des graphismes classiques et remastérisés : jouez avec les modèles polygonaux originaux ou passez aux graphismes remastérisés à n'importe quel moment Une aventure en mode tour du monde : Suivez Lara Croft autour du globe et affrontez des ennemis létaux ainsi que de dangereuses légendes. Vivez les aventures les plus sombres de Lara : découvrez les secrets du passé de Lara Croft et résolvez le mystère de sa disparition Titres de jeu inclus : Tomb Raider I + The Unfinished Business Expansion Tomb Raider II + The Gold Mask Expansion Tomb Raider III + The Lost Artifact Expansion Tomb Raider IV: The Last Revelation Tomb Raider V: Chronicles Tomb Raider VI: The Angel of Darkness",
-    "price": 10.99,
-    "reference_price": 12.99,
-    "discount_percent": 15.4,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tomb-raider-i-vi-remastered-xbox-dematerialise-3432098",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/BfXB4/3432098_1/re/1200x1200/qt/90/3432098_1.jpg",
-    "detected_at": "2026-10-14T06:39:53+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-14T06:50:25.265982+00:00"
-      },
-      {
-        "price": 10.99,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Xenoblade Chronicles X : Definitive Edition sur Nintendo Switch",
-    "description": "39,99€ - Amazon Détails sur le produit Classé : 12 ans et plus Date de sortie : 20 mars 2025 Date de mise en ligne sur Amazon.fr : 29 octobre 2024 ASIN : B0DLH7JGYQ Numéro du modèle de l'article : NINXENOBLADEX Pays d'origine : Japon",
-    "price": 39.99,
-    "reference_price": 44.19,
-    "discount_percent": 9.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/xenoblade-chronicles-x-definitive-edition-sur-nintendo-switch-3432097",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/T9uNk/3432097_1/re/1200x1200/qt/90/3432097_1.jpg",
-    "detected_at": "2026-10-14T06:35:57+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0DLH7JGYQ?smid=A1X6FK5RDHNB96",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-14T06:50:25.265982+00:00"
-      },
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Speed Champions 77260 - La Toyota Supra MK4 de Fast and Furious",
-    "description": "17,99€ - Carrefour - VOITURE JOUET FAST AND FURIOUS POUR GARÇON OU FILLE DÈS 10 ANS – Construisez et exposez une maquette de La Toyota Supra MK4 de Fast and Furious LEGO Speed Champions pour enfant dès 10 ans, puis recréez des scènes du film culte de 2001 - MINIFIGURINE DE BRIAN O’CONNER – Placez au volant de sa voiture de sport orange la minifigurine du célèbre personnage portant son T-shirt et son jean iconiques - DÉTAILS & ACCESSOIRES AUTHENTIQUES – Ce set collector Fast and Furious inclut les décalques « Nuclear Gladiator » de Troy Lee sur les côtés, un aileron arrière et 4 jantes fantaisie chromées - DÉCORATION INTÉRIEURE – Une fois cette construction amusante terminée, les passionné.e.s d'automobile pourront l'exposer sur une étagère, un bureau ou une table de nuit - CADEAU VOITURE POUR ENFANT DÈS 10 ANS – Cet hommage à la saga est une superbe idée de cadeau d'anniversaire qui fera le bonheur d'un garçon ou d'une fille fan de voitures de course - CONSTRUIRE ENSEMBLE – L’application LEGO Builder offre une expérience collaborative guidée, où chaque ami.e ou membre de la famille peut, depuis son propre appareil, construire une partie du set - VOITURES DE LÉGENDE POUR LE JEU ET LA DÉCORATION – Les sets LEGO Speed Champions invitent les enfants et les fans enthousiastes à construire les répliques d’une large gamme de véhicules légendaires",
-    "price": 17.99,
-    "reference_price": 21.01,
-    "discount_percent": 14.4,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-speed-champions-la-toyota-supra-mk4-de-fast-and-furious-77260-3432096",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/k0Jv8/3432096_1/re/1200x1200/qt/90/3432096_1.jpg",
-    "detected_at": "2026-10-14T06:29:52+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 17.99,
-        "observed_at": "2026-10-14T06:50:25.265982+00:00"
-      },
-      {
-        "price": 17.99,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Aspirateur Eau & Poussière Parkside PWD 12 B1 - 1200W, Cuve Inox 12L, Fonction Soufflerie",
-    "description": "29,99€ - Lidl Description Puissance : env. 1200 W Puissance d'aspiration : env. 33 l/s (env. 180 airwatts) Volume du réservoir : env. 12 l (brut) PARKSIDE® Aspirateur eau et poussière »PWD 12 B1« Caractéristiques Appareil de nettoyage multifonctionnel – élimine sans effort la saleté humide et sèche Peut également être utilisé comme souffleur ou pour aspirer de l'eau Cuve en acier inoxydable de 12 litres facile à vider Supports intégrés pour le tube, le câble et les suceurs 4 roulettes pour une bonne stabilité Avec des filtres pour toutes les applications Accessoires 1x tuyau d'aspiration de 200 cm avec poignée coudée, 3x tubes en plastique, 1x suceur de sol avec embout (pour l'eau et la poussière), 1x suceur plat, 1x sac filtrant en papier, 1x filtre en mousse pour l'aspiration de liquides, 1x filtre sec (sac en tissu, lavable) pour la saleté sèche",
-    "price": 29.99,
-    "reference_price": 39.99,
-    "discount_percent": 25.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/aspirateur-eau-et-poussiere-parkside-pwd-12-b1-3432095",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/PeRwB/3432095_1/re/1200x1200/qt/90/3432095_1.jpg",
-    "detected_at": "2026-10-14T06:27:23+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-14T06:50:25.265982+00:00"
-      },
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
       }
     ]
   }
