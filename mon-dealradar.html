@@ -268,6 +268,14 @@ header{background:rgba(5,15,27,.93)}
 .featured-card{cursor:pointer;text-align:left;color:inherit;font:inherit}.featured-card:focus-visible,.deal-card:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
 @media(max-width:650px){.offer-dialog-content{padding:15px}.offer-dialog-head{padding:16px}.offer-detail-top{grid-template-columns:100px minmax(0,1fr);gap:13px}.offer-detail-title{font-size:16px}.offer-detail-current{font-size:23px}.offer-detail-facts{grid-template-columns:1fr 1fr}}
 
+
+/* Navigation DealRadar : onglets en bulles, lisibles sur ordinateur et mobile */
+.navlinks{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.navlinks a{display:inline-flex;align-items:center;justify-content:center;padding:9px 12px;border:1px solid #2b4158;border-radius:999px;background:#101f2e;color:var(--muted);transition:background .16s,border-color .16s,color .16s,transform .16s}
+.navlinks a:hover,.navlinks a[aria-current="page"]{border-color:var(--green);background:#153b2b;color:var(--green);transform:translateY(-1px)}
+@media(max-width:850px){.nav{flex-wrap:wrap;gap:10px}.navlinks{display:flex!important;order:3;width:100%;gap:6px}.navlinks a{font-size:12px;padding:8px 10px}.nav-publish{margin-left:auto}}
+@media(max-width:520px){.navlinks{overflow-x:auto;flex-wrap:nowrap;padding:3px 1px 6px;scrollbar-width:thin}.navlinks a{white-space:nowrap;flex:0 0 auto}.nav .pill{margin-left:auto}}
+
 </style>
 </head>
 <body class="personal-page">
@@ -279,7 +287,7 @@ header{background:rgba(5,15,27,.93)}
       <a href="./mon-dealradar.html">Mon espace local</a>
       <a href="./compte.html">Mon compte</a>
       <a href="./publier.html">Publier une offre</a>
-    </nav>
+    <a href="./discussions.html">Discussions</a></nav>
     <a class="pill nav-publish" href="./publier.html">＋ Publier une offre</a>
   </div>
 </header>
