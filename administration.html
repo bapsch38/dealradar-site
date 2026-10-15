@@ -16,9 +16,10 @@
 <div id="queue-status" class="status" role="status" aria-live="polite"></div><div id="items"></div>
 </section>
 </main>
+<script src="./api-config.js"></script>
 <script>
 /* Must match the HTTPS API base configured in compte.html after deployment. */
-const API_BASE = "";
+const API_BASE = window.DEALRADAR_API_BASE || "";
 const TOKEN_KEY = "dealradar_access_token";
 const byId=id=>document.getElementById(id);
 const escapeHtml=value=>String(value==null?"":value).replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
