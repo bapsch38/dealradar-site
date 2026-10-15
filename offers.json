@@ -1,5 +1,26 @@
 [
   {
+    "title": "Robot lave-vitres Lifenaxx LX-...s de nettoyage et télécommande",
+    "price": 144.99,
+    "reference_price": 150.49,
+    "discount_percent": 3.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DY1LWK1Y",
+    "image_url": "https://m.media-amazon.com/images/P/B0DY1LWK1Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 04:53:15",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 144.99,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
+      }
+    ]
+  },
+  {
     "title": "KWB Line 100 m, 2 mm, blanc, 9221 30",
     "price": 9.49,
     "reference_price": 30.37,
@@ -10811,33 +10832,118 @@
     ]
   },
   {
-    "title": "RØDE Câble SC22 USB-C vers USB-C (30 cm, Violet)",
-    "price": 11.34,
-    "reference_price": 19.99,
-    "discount_percent": 43.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CSK5TM6F",
-    "image_url": "https://m.media-amazon.com/images/P/B0CSK5TM6F.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:38:48",
-    "category": "High-tech",
+    "title": "RACLETTE NATURE RICHESMONTS - Lot de 2 de 840g",
+    "description": "7,28€ - Intermarché RACLETTE NATURE RICHESMONTS fromage au lait de vache pasteurisé à 26% Mat. Gr sur produit fini 420 g - 12,38 € le kg Par 2 (840 g) : 7,28 € au lieu de 10,40 € 8,67 € le kg au lot",
+    "price": 7.28,
+    "reference_price": 10.4,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/raclette-nature-richesmonts-lot-de-2-de-840g-3432733",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/hMh7w/3432733_1/re/1200x1200/qt/90/3432733_1.jpg",
+    "detected_at": "2026-10-15T04:34:05+00:00",
+    "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 11.34,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
-      },
+        "price": 7.28,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LAIT UHT VITA'VIE 12 VITAMINES 1% MG LACTEL 6 x 1L",
+    "description": "5,40€ - Intermarché LAIT UHT VITA'VIE 12 VITAMINES 1% MG LACTEL 6 x 11 - soit 61 - 0,90 € le litre",
+    "price": 5.4,
+    "reference_price": 7.25,
+    "discount_percent": 25.5,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lait-uht-vitavie-12-vitamines-1-mg-lactel-6-x-1l-3432732",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/hj2ja/3432732_1/re/1200x1200/qt/90/3432732_1.jpg",
+    "detected_at": "2026-10-15T04:30:33+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
-        "price": 11.34,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
+        "price": 5.4,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SAUMON FUMÉ ÉCOSSE LABEYRIE 5 tranches - 175 g",
+    "description": "6,25€ SAUMON FUMÉ ÉCOSSE LABEYRIE 5 tranches - soit 175 g",
+    "price": 6.25,
+    "reference_price": 8.93,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/saumon-fume-ecosse-labeyrie-5-tranches-175-g-3432731",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/E0T1I/3432731_1/re/1200x1200/qt/90/3432731_1.jpg",
+    "detected_at": "2026-10-15T04:24:03+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.25,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
+      }
+    ]
+  },
+  {
+    "title": "The Alters Xbox Series X|S et PC, Play Anywhere (dématérialisé)",
+    "description": "15,74€ - Xbox Store The alters sur Xbox Series X|S et PC, Play Anywhere Description LA SURVIE N'A JAMAIS ÉTÉ SI PERSONNELLE The Alters est un jeu de survie de science-fiction ambitieux avec une touche unique. Vous incarnez Jan Dolski, le seul survivant d'une expédition qui s'est écrasée sur une planète hostile. Pour survivre, vous devez former un nouvel équipage pour votre base mobile. À l'aide d'une substance appelée Rapidium, vous créez des versions alternatives de Jan « LES ALTERS », chacune façonnée par une décision cruciale différente prise dans le passé du protagoniste. Créez vos alters Utilisez l'ordinateur quantique à bord de votre base pour simuler les résultats alternatifs de vos choix passés et découvrir les différents parcours de vie de Jan. Chaque alter qui a pris vie grâce aux remarquables propriétés du Rapidium possède des compétences et une profondeur émotionnelle uniques. Ces variations offrent à la fois des opportunités et des défis, alors que vous naviguez dans des luttes personnelles et gérez les dynamiques fragiles de votre équipage. Mécanique de survie Pour faire fonctionner la base mobile, vous devrez explorer la surface de la planète à la recherche de ressources précieuses, comme les métaux et les matières organiques. Cependant, s'aventurer en dehors du havre de paix comporte le risque de vous exposer, vous et vos alters, à diverses anomalies mortelles ainsi qu'aux radiations solaires omniprésentes. C'est pour cette raison que vous devez faire attention au cycle jour/nuit du jeu et planifier judicieusement vos activités quotidiennes ! Des histoires à ramifications Naviguez dans un récit riche en dilemmes moraux et en ramifications. Vos choix influenceront les relations de Jan avec ses alters, ce qui aura un impact sur leur voyage et vous mènera vers de multiples issues et fins. Développez votre base Les ressources collectées peuvent être utilisées de différentes manières : créez les objets nécessaires ou développez votre base avec des modules supplémentaires comme le laboratoire de recherche ou la salle sociale. Parfois, vous devrez choisir entre créer des objets spécialement pour vos alters et ceux qui pourraient faire avancer la mission, comme les détecteurs d'anomalie ou les filtres à radiations. Le poids de chaque décision repose uniquement sur vos épaules, car vous ne pourrez jamais satisfaire les besoins de tout le monde. Exploration La planète vous réserve des biomes uniques et de nombreux secrets, mais aussi de dangereuses anomalies qui vous barreront la route. Si les rochers en lévitation et les distorsions surnaturelles captent immédiatement l'attention, d'autres singularités demeurent invisibles à l'œil nu et nécessitent des outils spécifiques pour être observées. Dans tous les cas, vous devrez faire preuve d'une extrême prudence sous peine de mourir immédiatement, de vous faire irradier ou même de désintégrer l'espace-temps. Évitez par ailleurs de partir en exploration aux heures où l'intense radioactivité risque de ronger votre combinaison. Bon voyage ! L'histoire de science-fiction pleine d'émotions Jan Dolski est sur le point d'être confronté aux réponses à la question essentielle « et si ? » sous la forme de versions alternatives de lui-même. Cela rend la situation difficile dans laquelle il se trouve encore plus intimidante, car vous découvrez peu à peu l'impact de chaque choix sur la survie de Jan.",
+    "price": 15.74,
+    "reference_price": 34.99,
+    "discount_percent": 55.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/the-alters-xbox-series-xs-et-pc-play-anywhere-dematerialise-3432730",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/qssi9/3432730_1/re/1200x1200/qt/90/3432730_1.jpg",
+    "detected_at": "2026-10-15T04:20:57+00:00",
+    "category": "Gaming",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 15.74,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TABLETTES DE CHOCOLAT CARAMEL MILKA 3 x 100 g x2",
+    "description": "5,92€ - Intermarché TABLETTES DE CHOCOLAT CARAMEL MILKA 3 x 100 g - soit 300 g Par 2 (600 g) : 5,92 € au lieu de 8,98 €",
+    "price": 5.92,
+    "reference_price": 8.98,
+    "discount_percent": 34.1,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tablettes-de-chocolat-caramel-milka-3-x-100-g-x2-3432729",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Zilq0/3432729_1/re/1200x1200/qt/90/3432729_1.jpg",
+    "detected_at": "2026-10-15T04:20:42+00:00",
+    "category": "Alimentation & boissons",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.92,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
   {
     "title": "Leffe BIÈRE D'ABBAYE RUBY LEFFE - Pack de 6 de 25cl",
-    "description": "3,71€ Pack de 6 Bière Leffe Ruby 5,00% d’alcool 34% crédité sur la carte intermarché.",
+    "description": "3,71€ - Intermarché Pack de 6 Bière Leffe Ruby 5,00% d’alcool 34% crédité sur la carte intermarché.",
     "price": 3.71,
     "reference_price": 5.63,
     "discount_percent": 34.1,
@@ -12609,7 +12715,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0FPYB5C2J?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 31.99,
@@ -12675,7 +12781,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0GR1P5DQW?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 4999.0,
@@ -12741,7 +12847,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.nintendo.com/fr-fr/Jeux/Jeux-a-telecharger-sur-Nintendo-Switch/Batman-Arkham-Trilogy-2403114.html?nsuid=70070000018116",
     "price_history": [
       {
         "price": 19.79,
@@ -12763,7 +12869,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0HH9NTPZ4?smid=A2WUCJY3ZYROH",
     "price_history": [
       {
         "price": 54.99,
@@ -12785,7 +12891,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0F9L7TF3V?smid=A2HQDPEY5U351R",
     "price_history": [
       {
         "price": 66.49,
@@ -12807,7 +12913,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/dp/B0DWDW8S6J?smid=A1X6FK5RDHNB96",
     "price_history": [
       {
         "price": 20.99,
@@ -12841,8 +12947,8 @@
     "title": "Lot de 4 Dalles Murales Adhésives Action - 29,5 x 22,5 cm, Résistantes à l'Eau",
     "description": "2,98€ - Action Les Dalles Murales Adhésives Action , vendues par lot de quatre, sont une solution astucieuse et rapide pour donner un coup de neuf à une crédence de cuisine ou un mur de salon sans s'engager dans de gros travaux. Ces dalles autocollantes sont un bon plan pour ceux qui cherchent à masquer un carrelage vieillissant ou simplement à changer l'ambiance d'une pièce avec un budget limité. Contenu : Lot de 4 dalles adhésives. Dimensions : Chaque dalle mesure 29,5 x 22,5 cm. Pose : Adhésives (décoller et fixer), permettant une installation facile sans colle ni outils spécifiques. Usage : Conçues pour les crédences de cuisine et les murs de salon, résistantes aux éclaboussures. Esthétique : Disponibles en divers modèles et coloris. Bon à savoir : Attention : Il est recommandé d'éviter de les placer à proximité directe d'une flamme de plaque de cuisson, la chaleur pouvant altérer la tenue de l'adhésif. Amovible : Pour les locataires, elles peuvent être décollées et les traces de colle nettoyées avec une éponge non abrasive. Un moyen efficace et accessible de renouveler votre décoration intérieure.",
     "price": 2.98,
-    "reference_price": 3.0,
-    "discount_percent": 0.7,
+    "reference_price": 6.0,
+    "discount_percent": 50.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/dalles-murales-adhesives-action-lot-de-4-295-x-225-cm-resistantes-a-leau-3432611",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/oymNB/3432611_1/re/1200x1200/qt/90/3432611_1.jpg",
@@ -12872,7 +12978,7 @@
     "category": "Gaming",
     "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T18:56:33.850477+00:00",
+    "price_checked_at": "2026-10-15T04:54:18.591499+00:00",
     "merchant_url": "https://www.e.leclerc/fp/planet-zoo-2-ps5-5056208828309",
     "price_history": [
       {
@@ -22969,6 +23075,10 @@
       {
         "price": 128.15,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 128.15,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -22991,6 +23101,10 @@
       {
         "price": 18.99,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 18.99,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23013,6 +23127,10 @@
       {
         "price": 424.0,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 424.0,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23035,6 +23153,10 @@
       {
         "price": 99.99,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 99.99,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23057,6 +23179,10 @@
       {
         "price": 2.99,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 2.99,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23079,6 +23205,10 @@
       {
         "price": 29.99,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 29.99,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23101,6 +23231,10 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 9.99,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23123,6 +23257,10 @@
       {
         "price": 14.9,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 14.9,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23145,6 +23283,10 @@
       {
         "price": 16.99,
         "observed_at": "2026-10-14T04:35:37.265820+00:00"
+      },
+      {
+        "price": 16.99,
+        "observed_at": "2026-10-15T04:54:54.489394+00:00"
       }
     ]
   },
@@ -23951,132 +24093,6 @@
       {
         "price": 79.95,
         "observed_at": "2026-10-14T22:35:34.042416+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Client Red By SFR] Smartphone 6.7\" Samsung Galaxy A17 - 5G, 128 Go (via ODR 20€)",
-    "description": "159€ - RED by SFR Smartphone Samsung Galaxy A17 5G disponible chez RED by SFR avec un forfait RED, avec 100 € de remise immédiate et 20 € remboursés sur demande. Caractéristiques : Écran Super AMOLED de 6,7 pouces Définition Full HD+ (2340 × 1080), 90 Hz Processeur Samsung Exynos 1330 RAM : 4 Go Stockage : 128 Go, extensible par microSD Appareil photo principal : 50 MP avec stabilisation optique Ultra grand-angle : 5 MP Macro : 2 MP Caméra frontale : 13 MP Batterie : 5 000 mAh Charge rapide : 25 W Connectivité : 5G, Wi-Fi, Bluetooth 5.3, NFC Double SIM Certification IP54 Protection Gorilla Glass Victus Android avec jusqu’à 6 générations de mises à jour du système et 6 ans de mises à jour de sécurité Poids : 192 g Couleurs : Bleu, Gris, Noir Conditions de l’offre : 279 € sans forfait 159 € avec un forfait RED by SFR 100 € de remise immédiate 20 € remboursés après achat sur demande Livraison gratuite en 24 h Garantie 2 ans Adaptateur secteur non fourni Offre annoncée jusqu’au 19/10, selon les conditions de RED by SFR",
-    "price": 159.0,
-    "reference_price": 279.0,
-    "discount_percent": 43.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/client-red-by-sfr-samsung-galaxy-a17-5g-128-go-a-159-eur-3431998",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/s6w13/3431998_1/re/1200x1200/qt/90/3431998_1.jpg",
-    "detected_at": "2026-10-13T21:56:04+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 159.0,
-        "observed_at": "2026-10-13T22:02:51.987880+00:00"
-      },
-      {
-        "price": 159.0,
-        "observed_at": "2026-10-14T22:09:50.533792+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sélection de vêtements homme en promotion",
-    "description": "Celio La Men's Week débarque chez Celio ! Du 14 au 25 octobre 2026 inclus, profitez de -40 % sur une sélection de vêtements et produits pour homme de marque Celio et licences. Une occasion de renouveler sa garde-robe à prix réduit ! Offre disponible en magasin en France (hors Corse) et sur celio.com , avec une remise appliquée directement au panier.",
-    "price": 257.23,
-    "reference_price": 330.0,
-    "discount_percent": 22.1,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/celio-mens-week-40-sur-une-selection-de-vetements-homme-3432000",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/1AkL8/3432000_1/re/1200x1200/qt/90/3432000_1.jpg",
-    "detected_at": "2026-10-13T21:54:54+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 257.23,
-        "observed_at": "2026-10-14T14:04:13.075629+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 6 Rubans Adhésifs UHU Rollafix Marron - 50 mm x 50 m",
-    "description": "12,90€ - Amazon La facilité avec laquelle ce ruban adhésif UHU Rollafix se déchire à la main est un atout non négligeable pour toutes vos tâches d'emballage. Ce lot de six rubans, proposé par Amazon, est idéal pour l'envoi de colis et les travaux qui demandent une fixation solide à la maison ou au bureau. Usage : Emballage et packaging Adhérence : Élevée Matière : Sans solvants Déchirabilité : Facile à la main Dimensions par rouleau : 50 mm de largeur sur 50 m de longueur Conditionnement : Lot de 6 rubans Ce format économique permet de stocker de quoi faire face à de nombreux paquets, sans craindre de tomber à court de scotch au mauvais moment.",
-    "price": 12.9,
-    "reference_price": 19.54,
-    "discount_percent": 34.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-6-rubans-adhesifs-uhu-rollafix-marron-50-mm-x-50-m-3431999",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vOqiW/3431999_1/re/1200x1200/qt/90/3431999_1.jpg",
-    "detected_at": "2026-10-13T21:52:04+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.9,
-        "observed_at": "2026-10-13T22:02:51.987880+00:00"
-      },
-      {
-        "price": 12.9,
-        "observed_at": "2026-10-14T22:09:50.533792+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Haut homme adidas Squadra 25 - Cotton Polo",
-    "description": "20,10€ - Amazon À propos de cet article Coupe standard. Fermeture par bouton et col polo. Matiere Principale: 65% Polyester(100% Recyclé) / 35% Coton",
-    "price": 20.1,
-    "reference_price": 24.0,
-    "discount_percent": 16.2,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/adidas-homme-squadra25-cotton-polo-3431997",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/xGzt9/3431997_1/re/1200x1200/qt/90/3431997_1.jpg",
-    "detected_at": "2026-10-13T21:30:05+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 20.1,
-        "observed_at": "2026-10-13T21:37:49.598634+00:00"
-      },
-      {
-        "price": 20.1,
-        "observed_at": "2026-10-14T21:43:31.150420+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Metal Gear solid Δ: Snake eater sur Xbox Series XIS et pc (dématérialisé - Store Islande - 34,99€ sur le store Français)",
-    "description": "29,80€ - Xbox Store Vous obtenez le jeu avec votre compte existant sans aucun détour ( VPN, achat à crédit ou adresse n'est pas requis ) et avec paiement par carte de crédit . Il fonctionne sur Pc Windows et Xbox Series X|S. Pour acheter il faut se connecter sur le store islandais avec ses identifiants Microsoft et si on vous le demande au moment du paiement, mettez une adresse en Islande (une ambassade ou autre à trouver sur Google). 34,99€ sur le Store Français Le retour aux sources de l'histoire. Un remake du jeu sorti en 2004, METAL GEAR SOLID 3: SNAKE EATER, avec la même histoire dans le même monde captivant, désormais avec de tout nouveaux graphismes et audio 3D qui rendent l'atmosphère de la jungle plus réaliste. Préparez-vous à l'expérience ultime en matière de survie, d'infiltration et d'action. Tout ce que vous adorez, et plus encore L'histoire, les personnages, les doublages, le gameplay et les musiques qui ont fait sensation font leur retour, dans une nouvelle version conçue pour les consoles modernes. Ce saut évolutif insuffle une nouvelle vie à toutes les cinématiques et reconstruit chaque recoin du monde. Une représentation ultra réaliste Le système de dégâts subis en combat a été amélioré : l'usure et les déchirures des vêtements de Snake, ainsi que les coups et blessures par balles qu'il subit, apparaissent en temps réel. Toutes les blessures laisseront une marque indélébile sur le corps de Snake et raconteront l'histoire unique vécue par chaque joueur au fil du jeu. Une profonde immersion Les joueurs peuvent choisir d'utiliser le nouveau style de jeu plus moderne. Ces commandes intuitives vous permettent de vous concentrer entièrement sur l'immersion dans le jeu et sur les frissons de l'infiltration de survie. Vous pouvez également opter pour la jouabilité classique qui recrée fidèlement les sensations du jeu d'origine. Modes de jeu supplémentaires: ・SNAKE VS BOMBERMAN Incarnez Snake pour affronter Bomberman dans ce mode secondaire spécial. Faites tout exploser ! ・FOX HUNT Un nouveau mode multijoueur en ligne qui prend place dans le même monde que celui de l'histoire principale. Ce nouveau mode tire parti des éléments de furtivité et de survie afin d'offrir un gameplay qui rappelle le jeu du chat et de la souris, avec de nombreux allers-retours. ・Secret Theater Trouvez les boîtes de film 8 mm, transportées secrètement par des soldats ennemis, afin de débloquer ces réinterprétations humoristiques de certaines scènes. Il y a des scènes tirées du Secret Theater original, mais aussi de nouvelles vidéos. * Le Secret Theater sera accessible une fois le jeu terminé. * Les boîtes de film transportées par des soldats peuvent être récupérées au fil de la progression dans le jeu. ・GUY SAVAGE Δ Le jeu cauchemar « Guy Savage » fait son retour en version complètement repensée qui conserve l'essence de l'original tout en proposant le regard neuf de PlatinumGames. Déclenchez la séquence du cauchemar pendant la partie ou terminez le mode histoire pour la débloquer en mode bonus. *GUY SAVAGE Δ sera débloqué après avoir fini le jeu.",
-    "price": 29.8,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/metal-gear-solid-d-snake-eater-sur-xbox-series-xis-et-pc-dematerialise-store-islande-3499eur-sur-le-store-francais-3431996",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/cPUOR/3431996_1/re/1200x1200/qt/90/3431996_1.jpg",
-    "detected_at": "2026-10-13T21:28:37+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.8,
-        "observed_at": "2026-10-13T21:37:49.598634+00:00"
-      },
-      {
-        "price": 29.8,
-        "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
   }
