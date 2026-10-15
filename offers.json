@@ -1,5 +1,50 @@
 [
   {
+    "title": "American Standard 7105190.002 ...neau de serviette, 7105190.002",
+    "price": 15.21,
+    "reference_price": 125.0,
+    "discount_percent": 87.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B075QCH73R",
+    "image_url": "https://m.media-amazon.com/images/P/B075QCH73R.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 22:00:12",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": ""
+  },
+  {
+    "title": "Klein Tools, D86932",
+    "price": 26.71,
+    "reference_price": 54.59,
+    "discount_percent": 51.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0753LJHG1",
+    "image_url": "https://m.media-amazon.com/images/P/B0753LJHG1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 21:59:48",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": ""
+  },
+  {
+    "title": "Ideal Standard B9418AA",
+    "price": 62.43,
+    "reference_price": 82.45,
+    "discount_percent": 24.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00F0JX59Y",
+    "image_url": "https://m.media-amazon.com/images/P/B00F0JX59Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 21:59:43",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": ""
+  },
+  {
     "title": "Car Shades Jeu de Pare-Soleil sur Mesure pour Voiture",
     "price": 72.68,
     "reference_price": 80.76,
@@ -7455,14 +7500,15 @@
     "merchant_url": ""
   },
   {
-    "title": "BLANCO 222115 Exzenter Excentrique, Brillance Soyeuse, L",
-    "price": 67.05,
-    "reference_price": 73.99,
-    "discount_percent": 9.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B004YWSIFO",
-    "image_url": "https://m.media-amazon.com/images/P/B004YWSIFO.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-14 13:03:21",
+    "title": "Contenu numérique : Jeton Ivoire gratuit sur Dofus (Dématérialisé)",
+    "description": "Ankama Tout au long de la saison Ivoire, vos accomplissements de défis vous offrent des jetons Ivoire , qui vous permettent de participer à la loterie sur Ankama Launcher ou l’app Krosmoz. Plus vous collectez de jetons, plus vous tournez la roue et plus vous gagnez de récompenses. Communes, rares, épiques ou légendaires : c’est la chance qui tranchera ! Cela dit, on la force un peu en vous garantissant au moins un tirage exceptionnel (rare, épique ou légendaire) par lot de cinq tirages !",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/jeton-ivoire-gratuit-sur-dofus-dematerialise-3433284",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/492_1/re/1200x1200/qt/90/492_1.jpg",
+    "detected_at": "2026-10-15T21:56:40+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
@@ -7470,14 +7516,15 @@
     "merchant_url": ""
   },
   {
-    "title": "Bouilloire electriques - Bouil...inox/noir - WKR 3624 Clatronic",
-    "price": 24.01,
-    "reference_price": 28.5,
-    "discount_percent": 15.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B01E0KS6JC",
-    "image_url": "https://m.media-amazon.com/images/P/B01E0KS6JC.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-14 13:03:20",
+    "title": "SODASTREAM -25% sur tout le site (hors CO2)",
+    "description": "Sodastream SodaStream nous propose une remise de 25% avec le code AUTOMNE25 sur tout le site sauf le CO2 Envie de changer de machine, commander des concentres, a vous de voir (y)",
+    "price": null,
+    "reference_price": null,
+    "discount_percent": 25.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/codes-promo/sodastream-25-sur-tout-le-site-hors-co2-3433283",
+    "image_url": "https://static-pepper.dealabs.com/merchants/raw/avatar/1553_1/re/1200x1200/qt/90/1553_1.jpg",
+    "detected_at": "2026-10-15T21:54:15+00:00",
     "category": "Électroménager",
     "price_verified": false,
     "reference_price_verified": false,
@@ -7485,23 +7532,104 @@
     "merchant_url": ""
   },
   {
-    "title": "Emuca - Glissières pour tiroir...oulisses à sortie totale, Noir",
-    "price": 39.4,
-    "reference_price": 43.81,
-    "discount_percent": 10.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0989QBJ6T",
-    "image_url": "https://m.media-amazon.com/images/P/B0989QBJ6T.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-14 13:03:17",
+    "title": "Peluche Simba Disney - Stitch , 12 cm, Magnétique",
+    "description": "8€ - Amazon Figurine en peluche magnétique : assise décontractée sur l'épaule, la peluche Stitch accompagne les petits et grands fans de Disney dans leurs aventures quotidiennes - Convient à partir de 0 ans. Et c'est tout à fait : il suffit de placer l'aimant fourni sous les vêtements et de placer la peluche sur le dessus : grâce à l'aimant, la figurine Stitch reste sûre et stable sur l'épaule. Figurine Disney emblématique - Qualité supérieure et détaillée : la peluche douce met parfaitement en scène l'alien coquin mais extrêmement adorable du film Lilo & Stitch - Idéal comme cadeau Licence officielle - Ramenez la magie Disney chez vous : connues des parcs Disney, les figurines « Shoulder Squad » sont disponibles chez nous avec des personnages populaires tels que Mickey, Minnie et Stitch ! Simba Jouets : un grand plaisir de jeu éléphant pour petits et grands. En tant que l'un des plus grands fabricants de jouets d'Allemagne, nous développons des jouets pour enfants passionnants qui raviront les filles et les garçons.",
+    "price": 8.0,
+    "reference_price": 12.94,
+    "discount_percent": 38.2,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/peluche-simba-disney-stitch-12-cm-magnetique-3433281",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/qGfEu/3433281_1/re/1200x1200/qt/90/3433281_1.jpg",
+    "detected_at": "2026-10-15T21:46:44+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/dp/B0D8VT8LX3?smid=A1X6FK5RDHNB96"
+  },
+  {
+    "title": "TV 55\" Philips 55PQS9001 - 4K UHD, Ambilight P5 VRR 144Hz, Pied pivotant, 2026 (Via ODR de 100€)",
+    "description": "579€ - E.Leclerc Une TV Philips 55\" 4K UHD Ambilight P5 VRR 144Hz avec Pied pivotant, dernier modèle 2026, son 40W, nouveauté AmbiScape, Dolby Vision2+Atmos, etc. OK c'est que du QLed, mais toutes ces caractéristiques pour - de 600€, c'est TOP !",
+    "price": 679.0,
+    "reference_price": 749.0,
+    "discount_percent": 9.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/tv-philips-55pqs9001-4k-uhd-ambilight-p5-vrr-144hz-pied-pivotant-2026-odr-100eur-3433279",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZMEZa/3433279_1/re/1200x1200/qt/90/3433279_1.jpg",
+    "detected_at": "2026-10-15T21:44:27+00:00",
+    "category": "Autre",
+    "price_verified": true,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-15T21:59:55.973215+00:00",
+    "merchant_url": "https://www.e.leclerc/fp/tv-qled-philips-55pqs9001-139cm-4k-uhd-ambilight-p5-vrr-144hz-pied-pivotant-the-one-2026-8718863051795"
+  },
+  {
+    "title": "Cuissard de Running homme Strike III Energetics",
+    "description": "14,99€ - Intersport Un cuissard pour le running et le trail chez Intersport. Possède deux poches latérales (le téléphone ne bouge pas) et une poche à l'arrière au niveau de la taille. Taille assez grand, j'hésite toujours entre M et L et là M c'est parfait. Confortable et respirant. Retrait en magasin gratuit.",
+    "price": 14.99,
+    "reference_price": 27.99,
+    "discount_percent": 46.4,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/cuissard-running-trail-energetics-3433280",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/dh0nq/3433280_1/re/1200x1200/qt/90/3433280_1.jpg",
+    "detected_at": "2026-10-15T21:43:20+00:00",
+    "category": "Sport & loisirs",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.intersport.fr/noir-cuissard_de_running_homme_strike_iii-energetics-p-53046701DY/"
+  },
+  {
+    "title": "Fauteuil Suspendu Yitahome - Rotin, 150 Kg, avec Coussin, Porte-Gobelet, Marron ou gris (Vendeur Tiers)",
+    "description": "59,99€ - Amazon Fauteuil œuf en rotin PE résistant à l'eau et aux UV. Tressage serré et durable. Idéal pour jardin, terrasse ou balcon. Ne pourrit pas, facile à nettoyer. Conserve son élégance. Convient pour une utilisation extérieure permanente. Coussins en oléfine ultra-doux : résistants à l'eau, respirants et dotés de housses amovibles faciles à nettoyer. Le tissu en oléfine haut de gamme repousse l'eau et la saleté tout en restant frais par temps chaud. Housses lavables et mousse haute densité conservant sa forme. Idéal pour l'intérieur comme pour l'extérieur, de la lecture près de la fenêtre à la sieste à la belle étoile. Assure un confort durable et un soutien tout en douceur. Capacité de charge robuste d'environ 160 kg (350 lb) : équipé de chaînes et de crochets en acier renforcé. Assure un soutien stable pour les adultes ou les couples. Les chaînes robustes minimisent le balancement et garantissent la stabilité. La structure ergonomique épouse les formes de votre corps. Profitez de moments de travail, de lecture ou de détente à deux, sans vaciller et en toute sérénité. Conception spacieuse et ergonomique : le dossier offrant un bon soutien et le coussin favorisent un alignement naturel de la colonne vertébrale. Équipé d'un porte-gobelet et fabriqué dans un tissu respirant. Idéal pour lire, travailler ou faire la sieste. Peut être suspendu pour créer un coin douillet, à l'intérieur comme à l'extérieur. Polyvalent pour une utilisation en intérieur comme en extérieur : le rotin, dans des tons neutres de beige et de brun, s'harmonise parfaitement avec les styles d'intérieur bohèmes ou modernes. Léger et facile à déplacer au gré des saisons. Idéal pour le balcon, le jardin ou le salon. Un cadeau élégant et attentionné pour tous ceux qui apprécient à la fois le confort et l'esthétique. Disponible marron également : https://www.amazon.fr/YITAHOME-Fauteuil-Suspendu-Coussin-Porte-Gobelet/dp/B0H86Z2JML/ref=asc_df_B0H86ZX2QK?mcid=5f668741773a30f49684fc45cd5381b6&tag=googshopfr-21&linkCode=df0&hvadid=816620346237&hvpos=&hvnetw=g&hvrand=7839763098884445119&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197236&hvtargid=pla-2493086901355&hvocijid=7839763098884445119-B0H86ZX2QK-&hvexpln=0&th=1 Spécifications Couleur: Gris Marque: YITAHOME Dimensions du produit: 82L x 89,5l centimètres Recommandation de poids maximum: 150 Kilogrammes Poids de l'article: 11,65 Kilogrammes Nombre d'articles: 1 UPC: 199449612964 Fabricant: YITAHOME Nombre d’emballages: 1 Nombre d' articles: 1 Nombre de paquets: 1 Pays d'origine: Chine Composants inclus: Accessoires de montage × 1, Manuel d'utilisation × 1, Tapis de protection × 1 Nom du type du produit: Fauteuil Suspendu Numéro de modèle: Silla colgante Numéro de pièce: Silla colgante Classement des meilleures ventes d'Amazon: 16208 en Jardin (Voir les 100 premiers en Jardin) 17 en Chaise hamac ASIN: B0H86ZX2QK Moyenne des commentaires client: 4,2 4,2 sur 5 étoiles (5) 4,2 sur 5 étoiles Dimensions de l’article L x l: 82L x 89,5l centimètres Charge maximale recommandée: 150 Kilogrammes GTIN: 199449612964 Commentaires client",
+    "price": 59.99,
+    "reference_price": 69.99,
+    "discount_percent": 14.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fauteuil-suspendu-yitahome-rotin-150kg-avec-coussin-porte-gobelet-marron-ou-gris-vendeur-tiers-3433277",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/h7yOR/3433277_1/re/1200x1200/qt/90/3433277_1.jpg",
+    "detected_at": "2026-10-15T21:36:47+00:00",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.amazon.fr/YITAHOME-Fauteuil-Suspendu-Coussin-Porte-Gobelet/dp/B0H86Z2JML/ref=asc_df_B0H86ZX2QK?mcid=5f668741773a30f49684fc45cd5381b6&tag=googshopfr-21&linkCode=df0&hvadid=816620346237&hvpos=&hvnetw=g&hvrand=7839763098884445119&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197236&hvtargid=pla-2493086901355&hvocijid=7839763098884445119-B0H86ZX2QK-&hvexpln=0&th=1"
+  },
+  {
+    "title": "Doudoune Superdry Beige - Tailles 40 à 44",
+    "description": "12,99€ - Veepee Grosse baisse de prix sur cette doudoune Composition 100% nylon Doublure : 100% nylon recyclé Revêtement extérieur : 100% polyester recyclé",
+    "price": 12.99,
+    "reference_price": 21.99,
+    "discount_percent": 40.9,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/doudoune-superdry-beige-tailles-40-a-44-3433276",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/MoDY0/3433276_1/re/1200x1200/qt/90/3433276_1.jpg",
+    "detected_at": "2026-10-15T21:36:17+00:00",
     "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.veepee.fr/gr/product/915577/103107813"
+  },
+  {
+    "title": "LEGO Architecture 21066 - New York, la grosse pomme, 1465 pièces",
+    "description": "89,24€ - Amazon A 139.99 € chez LEGO Avec le même prix chez carrefour si vous préférez https://www.carrefour.fr/p/lego-architecture-new-york-la-grosse-pomme-21066-lego-5702018063675? Description : Exprimez votre passion pour New York City et ses sites emblématiques avec le set décoratif New York, la grosse pomme LEGO Architecture (21066) à collectionner. Ce kit de construction constitue une idée de cadeau originale, à s’offrir ou à offrir aux fans de NYC, d’architecture ou de voyages de 18 ans et plus. Commencez par le fond, puis ajoutez l’Empire State Building, le One World Trade Center et le pont de Brooklyn. Créez la silhouette de la ville, la Statue de la Liberté, le musée Guggenheim et le MOMA. Terminez en ajoutant Central Park, des taxis jaunes, une surprise et la tuile imprimée « New York, New York », puis exposez votre set. Découvrez la construction enrichie avec l’application LEGO Builder et ses fonctions de visualisation du modèle en 3D, sauvegarde et suivi de la progression. Ce set d’exception (ainsi que d’autres, vendus séparément) ravira les fans de voyages, de New York City ou de sets LEGO Architecture pour adultes. Contient 1 465 pièces. Contenu du set : - SET DE CONSTRUCTION LEGO POUR ADULTES – Les constructeurs de 18 ans et plus peuvent afficher leur passion pour la Grosse Pomme avec ce kit d’architecture à construire et à exposer à la maison ou au bureau - EXPLOREZ NYC – Le set décoratif New York, la grosse pomme LEGO (21066) inclut 6 icônes architecturales en briques blanches, un fond noir en forme de pomme, un ciel étoilé, la silhouette de la ville et Central Park - DÉCOR MINIMALISTE – Recréez le pont de Brooklyn, l’Empire State Building, le musée Guggenheim, le MOMA, le One World Trade Center et la Statue de la Liberté, et exposez cette décoration minimaliste sur une étagère - CONSTRUIRE ET EXPOSER – Cette activité relaxante pour adultes vous permet de construire un souvenir de l’Amérique. Fixez la tuile imprimée « New York, New York » sur le devant du modèle, et exposez-le sur une étagère - IDÉE DE CADEAU POUR ADULTES – Ce kit de construction pour adultes ravira les amateurs de voyages et de modèles LEGO à collectionner fascinéspar la silhouette de New York City, et constitue un superbe cadeau pour les fêtes ou un anniversaire - REGROUPEZ VOS CONSTRUCTIONS – Avec l’application LEGO® Builder, vous pouvez construire vos modèles avec des instructions en 3D, suivre votre progression et sauvegarder tous vos sets dans l’application - SETS LEGO ARCHITECTURE – Ce set décoratif pour la maison ou le bureau fait partie d’une collection de sets Architecture d’exception (vendus séparément) destinés aux femmes et aux hommes qui, comme vous, aiment se plonger dans des projets créatifs - DIMENSIONS – Cette représentation minimaliste de la silhouette de New York City composée de 1 465 pièces, source d’inspiration créative et de calme, mesure plus de 29 cm de haut, 28 cm de large et 12 cm de profondeur",
+    "price": 89.24,
+    "reference_price": 110.16,
+    "discount_percent": 19.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-architecture-21066-new-york-la-grosse-pomme-1465-pieces-3433275",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/Aj51w/3433275_1/re/1200x1200/qt/90/3433275_1.jpg",
+    "detected_at": "2026-10-15T21:35:21+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.carrefour.fr/p/lego-architecture-new-york-la-grosse-pomme-21066-lego-5702018063675?kwkuniv=P51378756751B100-ccp51378756751b17s1ud4139b50117629v4&kwks2s=ccp51378756751b17s1ud4139b50117629v4&utm_source=Kwanko&utm_medium=Affiliation&utm_campaign=Affiliation_Kwanko_Advertiser-Kwanko_Non-alimentaire_Fil-rouge_423195_specialised-comparison-price_Avenue_de_la_brique_FR"
   },
   {
     "title": "Chariot de Courses Sekey - 3 Roues, Pliable 3 en 1, Caddie Isotherme avec Sac Amovible, Diable et Trolley",
-    "description": "25,44€ - Amazon - Chariot de courses équipé de é -, permet de monter les escaliers facilement sans effort. Idéal pour , . é Structure en é avec tissu Oxford résistant à l’usure. Parfait pour transporter des charges lourdes, adapté à une utilisation durable en extérieur. é Équipé de é, ce chariot assure une bonne stabilité et une mobilité fluide sur routes, trottoirs ou terrains irréguliers. Idéal pour courses et déplacements. ❄️ é Compartiment éé pour garder vos aliments et boissons frais ou chauds plus longtemps. Avec porte-bouteille pratique, parfait pour les courses alimentaires ou sorties. é é Poignée pour un confort optimal. Facile à utiliser pour tous, notamment les personnes âgées, réduit l’effort lors du transport des courses.",
+    "description": "25,44€ - Amazon - Chariot de courses équipé de é -, permet de monter les escaliers facilement sans effort. Idéal pour , . é Structure en é avec tissu Oxford résistant à l’usure. Parfait pour transporter des charges lourdes, adapté à une utilisation durable en extérieur. é Équipé de é, ce chariot assure une bonne stabilité et une mobilité fluide sur routes, trottoirs ou terrains irréguliers. Idéal pour courses et déplacements. ❄️ é Compartiment éé pour garder vos aliments et boissons frais ou chauds plus longtemps. Avec porte-bouteille pratique, parfait pour les courses alimentaires ou sorties. é é Poignée pour un confort optimal. Facile à utiliser pour tous, notamment les personnes âgées, réduit l’effort lors du transport des courses. Spécifications Dimensions du produit: 36P x 42l x 98H centimètres Marque: Sekey Matériau: Aluminium Couleur: Bleu Caractéristique spéciale: Montage facile Nombre d'étagères: 1 Utilisations recommandées pour le produit: Extérieur, Intérieur Matériau de la poignée: Acrylonitrile butadiène styrène (ABS) Poids de l'article: 4,14 Kilogrammes Nombre de roues: 2 Usages recommandés pour le produit: Extérieur, Intérieur Fabricant: Sekey Nombre d' articles: 1 Pays d'origine: Chine Nom du type du produit: SALCAR Numéro de modèle: SC5 Numéro de pièce: SC5 Classement des meilleures ventes d'Amazon: 54101 en Cuisine et Maison (Voir les 100 premiers en Cuisine et Maison) 48 en Chariots de courses ASIN: B0FY2K8RG6 Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (198) 4,5 sur 5 étoiles À assembler: Non Caractéristiques spéciales: Montage facile Nombre de rayonnages: 1 Poids maximal: 35 Kilogrammes Type de roulette: Pivot Dimensions de l'article P x L x H: 36P x 42l x 98H centimètres Type de matériau: Aluminium Matériau de la structure: Aluminium Commentaires client",
     "price": 25.44,
     "reference_price": 38.58,
     "discount_percent": 34.1,
@@ -9184,7 +9312,7 @@
     "description": "Blancheporte Un -40 % hors solde des deux articles achetés, vaut le coup, d'être partagé !",
     "price": 39.0,
     "reference_price": null,
-    "discount_percent": null,
+    "discount_percent": 40.0,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/livraison-gratuite-40-des-2-articles-code-jusquau-28-octobre-3433135",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/mmVW1/3433135_1/re/1200x1200/qt/90/3433135_1.jpg",
@@ -10175,8 +10303,8 @@
     "title": "Lego Pokémon 72160 Arcanin (59,99€ pour les Nouveaux Clients)",
     "description": "69,90€ - Cdiscount Transposez les Pokémon dans le monde réel et revivez votre parcours de Dresseur en construisant le set Arcanin (72160) pour adulte. Cette figurine LEGO collector est une fabuleuse idée de cadeau pour gamers et fans de la première heure qui savoureront un moment de détente en créant cette décoration Pokémon fascinante, à exposer à la maison ou au bureau. Ajustez la queue, les pattes, la tête et la bouche de cette maquette d’Arcanin riche en détails authentiques pour lui faire prendre une infinité de poses dynamiques. Avec sa posture majestueuse et sa luxuriante fourrure, cette figurine Pokémon complète à merveille toute collection d’objets décoratifs inspirés du jeu vidéo. Offrez-vous ou offrez à d’autres fans adultes ou adolescent.e.s ce cadeau spectaculaire, pour un anniversaire ou une autre occasion spéciale. Avec l’application LEGO Builder, vous pouvez visualiser votre set en 3D et suivre votre progression grâce à des instructions numériques pas à pas. DIMENSIONS – La figurine d’Arcanin de ce set de construction mesure plus de 17 cm de haut. Le kit contient 1 190 pièces.",
     "price": 69.9,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 99.99,
+    "discount_percent": 30.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/lego-pokemon-72160-arcanin-5999eur-pour-les-nouveaux-clients-3433058",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/SVx6X/3433058_1/re/1200x1200/qt/90/3433058_1.jpg",
@@ -10248,7 +10376,7 @@
     "category": "Gaming",
     "price_verified": true,
     "reference_price_verified": false,
-    "price_checked_at": "2026-10-15T13:55:29.593143+00:00",
+    "price_checked_at": "2026-10-15T22:01:15.094202+00:00",
     "merchant_url": "https://www.e.leclerc/fp/nintendo-switch-sports-resort-nintendo-switch-2-0045496314910"
   },
   {
@@ -10329,7 +10457,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.amazon.fr/dp/B0CPKJKXP1?smid=A1X6FK5RDHNB96"
   },
   {
     "title": "Couteau à Enduire Edma Lame Souple - 10 cm",
@@ -10345,7 +10473,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.amazon.fr/dp/B00EU7AE78?smid=A1X6FK5RDHNB96"
   },
   {
     "title": "Coffret d'Accessoires Dewalt DT71522-QZ Toughcase - Embouts de Vissage, PH2 25mm x25",
@@ -10361,7 +10489,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.amazon.fr/dp/B000Y8QH5K?th=1"
   },
   {
     "title": "Batterie de cuisine Tefal Ingenio Emotion L8968S04 (Full Inox) - 3 Poêles + 2 Casserole + 1 Poignée amovible + 2 Couvercles",
@@ -10377,7 +10505,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.cdiscount.com/maison/cuisson/tefal-ingenio-emotion-batterie-de-cuisine-8-piece/f-1178901-tefl8968s04.html?sv1=affiliate&sv_campaign_id=169249"
   },
   {
     "title": "Booster Batterie Voiture 10000A 12V - Compatible Essence/Diesel, 12 Protections, Lampe, Chargeur Multi-Véhicules (Vendeur Tiers)",
@@ -10393,7 +10521,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.amazon.fr/dp/B0H492YG2Z?smid=A3NUZANF7UK8BZ"
   },
   {
     "title": "Bidon de 4L d'Huile Moteur Mannol 5W-40 - ACEA A3/B4 API SN API CH-4 Extreme",
@@ -10409,7 +10537,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.amazon.fr/dp/B002K4WFX4?smid=A1X6FK5RDHNB96"
   },
   {
     "title": "Canapé pouf géant 2 places Joséphine (bigberthaoriginal.fr)",
@@ -10441,7 +10569,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.cdiscount.com/auto/accessoires-gps-et-avertisseurs/apple-pack-de-4-airtag-2nd-generation/f-13357-aaclk96496.html?idOffre=4298737051"
   },
   {
     "title": "Coffret Blu-ray John Wick - La Trilogie (Vendeur Tiers)",
@@ -10457,7 +10585,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.amazon.fr/dp/B07TKNGDZ6"
   },
   {
     "title": "Tomb Raider IV-VI Remastered sur Xbox One & Series X|S (Dématérialisé)",
@@ -16938,53 +17066,5 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "https://www.cdiscount.com/jeux-pc-video-console/nintendo-switch/legendes-pokemon-z-a-nintendo-switch-2-edition/f-10328-ninns2legendesza.html"
-  },
-  {
-    "title": "[Ikea Family] 10% remboursés en bon d'achat pour l'achat d'une cuisine Metod d'un minimum de 2000€",
-    "description": "IKEA Jusqu'au 22 novembre :) Pour l'achat d'une cuisine METOD de 2 000 € minimum dans un magasin IKEA en France métropolitaine et sur IKEA.fr (hors électroménagers et services éventuels), recevez un bon d'achat de 10% de sa valeur (d'un montant maximum de 1000 €). Conditions : https://www.ikea.com/fr/fr/campaigns/offre-electromenager-pub8bef2870/",
-    "price": 22.84,
-    "reference_price": 77.0,
-    "discount_percent": 70.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ikea-family-10-rembourses-en-bon-dachat-pour-lachat-dune-cuisine-metod-dun-minimum-de-2000eur-3432525",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/RM50d/3432525_1/re/1200x1200/qt/90/3432525_1.jpg",
-    "detected_at": "2026-10-14T16:24:59+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": ""
-  },
-  {
-    "title": "Ensemble survêtements enfants Adidas Originaux Firebird Tracksuit - Du 104 au 116",
-    "description": "29,99€ - Sport-Outlet",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/adidas-originaux-firebird-tracksuit-enfants-costume-ke5630x-mixte-3432520",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/alZ1r/3432520_1/re/1200x1200/qt/90/3432520_1.jpg",
-    "detected_at": "2026-10-14T16:21:28+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": ""
-  },
-  {
-    "title": "Jogging droit large Uniqlo - Bleu Marine, Du XS au XL",
-    "description": "14,90€ - Uniqlo Baisse de prix chez Uniqlo sur ce jogging droit large unisexe, proposé à 14,90 € au lieu de 34,90 € , soit une réduction de 57 % - Transparence: Opaque - Coupe: Regular - Silhouette: Droit - Poches: Avec poches Un pantalon à la coupe droite et ample, idéal pour une tenue décontractée au quotidien. ✅ Caractéristiques : Modèle : jogging droit large Unisexe Coloris en promotion : bleu marine Tailles proposées : du XS au XL Longueurs : Short, Regular et Tall Composition : 67 % polyester et 33 % coton Coupe regular, silhouette droite Poches latérales Lavage en machine à 40 °C maximum, cycle délicat ⭐ Note : 4,7/5 (144 avis) Prix le plus bas des 30 derniers jours avant réduction : 24,90 € Livraison dès 3,95 €, gratuite dès 60 € d'achat Click & Collect gratuit Composition des matériaux et instructions d'entretien Détails du tissu Corps: 67% Polyester, 33% Coton/ Côte: 82% Coton, 18% Polyester/ Tissu Des Poches: 100% Coton Instructions de lavage Lavage en machine sur cycle délicat à une température maximale de 40 °C, Ne pas nettoyer à sec, Ne convient pas au séchage en machine.",
-    "price": 14.9,
-    "reference_price": 34.9,
-    "discount_percent": 57.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jogging-droit-large-uniqlo-bleu-marine-tailles-xs-a-xl-3432519",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8W3UT/3432519_1/re/1200x1200/qt/90/3432519_1.jpg",
-    "detected_at": "2026-10-14T16:18:51+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": ""
   }
 ]
