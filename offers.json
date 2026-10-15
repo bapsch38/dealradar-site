@@ -1,5 +1,35 @@
 [
   {
+    "title": "Gedore 145 10 C Pince multipri...7 positions (Import Allemagne)",
+    "price": 13.02,
+    "reference_price": 22.53,
+    "discount_percent": 42.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000UZ22RO",
+    "image_url": "https://m.media-amazon.com/images/P/B000UZ22RO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 23:49:52",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": ""
+  },
+  {
+    "title": "Febi bilstein 32211 Filtre à air",
+    "price": 6.29,
+    "reference_price": 12.26,
+    "discount_percent": 48.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B006DHU03Q",
+    "image_url": "https://m.media-amazon.com/images/P/B006DHU03Q.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 23:49:51",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": ""
+  },
+  {
     "title": "KS Tools 503.4645 Assortiment de clés à cliquet à douilles",
     "price": 27.56,
     "reference_price": 51.69,
@@ -7470,36 +7500,6 @@
     "merchant_url": ""
   },
   {
-    "title": "Villeroy & Boch La Classica Lo...9,3 cm, 18/10 Acier inoxydable",
-    "price": 59.9,
-    "reference_price": 69.68,
-    "discount_percent": 14.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00YSFBTYO",
-    "image_url": "https://m.media-amazon.com/images/P/B00YSFBTYO.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-14 14:51:22",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": ""
-  },
-  {
-    "title": "Leonardo Cucina Optic 066336 B...ec des touches rondes, 21,5 cm",
-    "price": 27.28,
-    "reference_price": 30.16,
-    "discount_percent": 9.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07PRN9NKQ",
-    "image_url": "https://m.media-amazon.com/images/P/B07PRN9NKQ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-14 14:51:12",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": ""
-  },
-  {
     "title": "Street Fighter 30th Anniversary Collection sur PS4 (dématérialisé)",
     "description": "4,49€ - PlayStation Store Meilleur tarif Célébrez la franchise emblématique Street Fighter avec Street Fighter 30th Anniversary Collection ! Cette compilation inclut 12 titres au total et couvre les séries Street Fighter I, Street Fighter II, Street Fighter III et Street Fighter Alpha. Aucune console n'a jamais accueilli autant de jeux d'arcade aussi savamment équilibrés ! En ligne, redécouvrez le frisson de ces aventures avec le mode Arcade ou gagnez le salon et défiez vos amis dans quatre des jeux Street Fighter les plus marquants. Les festivités se poursuivent au Musée, où fans et historiens admireront l'évolution des jeux Street Fighter au cours des 30 dernières années. Découvrez les coulisses de la série, avec des informations sur les personnages Street Fighter, des animations de modèle emblématiques, à étudier dans l'outil de visualisation de personnage, et des documents de design permettant de comprendre comment ces jeux ont forgé des générations entières de combattants !",
     "price": 4.49,
@@ -8895,8 +8895,8 @@
     "title": "Montre Mido Multifort M",
     "description": "522€ - Printemps • Montre Mido • Boîtier en acier inoxydable • Couleur argentée",
     "price": 522.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 920.0,
+    "discount_percent": 43.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/montre-mido-multifort-m-3433177",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/L8Eq6/3433177_1/re/1200x1200/qt/90/3433177_1.jpg",
@@ -15529,7 +15529,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.boulanger.com/ref/1228344"
   },
   {
     "title": "Tete de lit en rotin - 162 x 87 - NOZ Givors (69)",
@@ -15657,7 +15657,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.amazon.fr/dp/B0FC28HF16?smid=AHUNYDX8NY088"
   },
   {
     "title": "Sac à dos randonnée Deuter Speed Lite - 25L",
@@ -15673,7 +15673,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.decathlon.fr/p/sac-a-dos-randonnee-25l-deuter-speed-lite/X8747013/m8747013"
   },
   {
     "title": "Home Trainer Van Rysel RCR connecté avec \"Zwift Cog and Click\"",
@@ -15689,7 +15689,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": ""
+    "merchant_url": "https://www.decathlon.fr/p/home-trainer-rcr-connecte-avec-zwift-cog-and-click/347879/c1m8861638"
   },
   {
     "title": "Sélection de Lunettes de Soleil Marc Jacobs en promotion",
@@ -16906,21 +16906,5 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": ""
-  },
-  {
-    "title": "Carte mère Soyo AMD B550M, USB3.1 M.2",
-    "description": "52,38€ - AliExpress",
-    "price": 52.38,
-    "reference_price": 76.77,
-    "discount_percent": 31.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/carte-mere-de-jeu-soyo-amd-b550m-usb31-m2-nvme-sata3-ddr4-double-canal-prend-en-charge-les-processeurs-ryzen-r3-r5-r7-3000-4000-5000-3432542",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/fyGBZ/3432542_1/re/1200x1200/qt/90/3432542_1.jpg",
-    "detected_at": "2026-10-14T16:46:54+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://fr.aliexpress.com/item/1005011680408452.html"
   }
 ]
