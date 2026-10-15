@@ -1,0 +1,24 @@
+name: Security checks
+
+on:
+  push:
+    branches: ["main", "master"]
+  pull_request:
+  schedule:
+    - cron: "37 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  codeql:
+    name: CodeQL JavaScript scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: github/codeql-action/init@v3
+        with:
+          languages: javascript-typescript
+      - uses: github/codeql-action/analyze@v3
