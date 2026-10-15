@@ -105,7 +105,7 @@ async function load(reset=true) {
     if(offset===0)$("thread-list").append(element("div","empty","Aucune discussion dans cette catégorie pour le moment."));
   } catch(error) {
     status("list-status",error.message,"error");
-    if(reset)$("thread-list").append(element("div","empty","Les discussions seront disponibles dès que l’API sera déployée et reliée au site. Tu peux déjà créer ton compte sur la page Mon compte."));
+    if(reset)$("thread-list").append(element("div","empty","Impossible de charger les discussions pour le moment. Vérifie ta connexion et réessaie dans quelques instants."));
   } finally {loading=false;$("refresh").disabled=false;}
 }
 async function openThread(id, article, button) {
