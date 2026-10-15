@@ -177,8 +177,9 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
     const issueTitle=(error?"[Erreur de prix potentielle] ":"[Promo communautaire] ")+title.slice(0,100);
     const params=new URLSearchParams({template:"publier-promo.md",title:issueTitle,body:body});
     const destination="https://github.com/bapsch38/dealradar-site/issues/new?"+params.toString();
-    const apiBase=String(window.DEALRADAR_API_BASE||"").trim().replace(/\\/$/,"");
-    if(apiBase){
+    const apiBase=String(window.DEALRADAR_API_BASE||"").trim();
+    const apiRoot=apiBase.endsWith("/")?apiBase.slice(0,-1):apiBase;
+    if(apiRoot){
       const submitButton=form.querySelector('.submit-button');
       submitButton.disabled=true;
       submitButton.textContent="Envoi en modération…";
@@ -193,7 +194,7 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
         "Proposition communautaire à vérifier. Aucun prix fourni par l’utilisateur n’est considéré comme confirmé."
       ].join(String.fromCharCode(10));
       try{
-        const response=await fetch(apiBase+"/api/submissions",{
+        const response=await fetch(apiRoot+"/api/submissions",{
           method:"POST",
           headers:{"Content-Type":"application/json"},
           body:JSON.stringify({
