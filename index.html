@@ -119,6 +119,15 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .price-history-head{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:11px;color:var(--muted)}
 .price-history svg{display:block;width:100%;height:34px;margin-top:6px;overflow:visible}
 .price-history-controls{display:flex;gap:5px;margin-top:8px}.price-history-controls button{background:#142338;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:4px 8px;font-size:10px;cursor:pointer}.price-history-controls button[aria-pressed="true"]{color:var(--green);border-color:var(--green);background:#173b2a}.price-history-note{font-size:10px;color:var(--muted);margin-top:3px}
+.price-history-locked{border:1px solid #8b6b2e;border-radius:12px;padding:13px;background:linear-gradient(140deg,#2a2316,#111d2b);margin-top:3px}
+.price-history-locked strong{display:block;color:#f8d778;margin-bottom:6px;font-size:12px}
+.price-history-locked p{font-size:11px;line-height:1.5;color:#c7bdab;margin:0 0 8px}
+.price-history-locked a{display:inline-block;padding:7px 10px;border-radius:7px;background:linear-gradient(135deg,#f5d77e,#b9852d);color:#24190b;font-weight:900;font-size:11px}
+.pro-filter-lock{display:flex;gap:8px;flex-wrap:wrap;padding:11px 13px;margin:10px 0 8px;border:1px solid #8b6b2e;border-radius:11px;background:linear-gradient(110deg,#2a2316,#151d28);color:#f8d778;font-size:12px}
+.pro-filter-lock span{flex-basis:100%;color:#c7bdab;line-height:1.5}
+.pro-filter-lock a{color:#f8d778;font-weight:900;text-decoration:underline}
+.advanced-filters.premium-locked{opacity:.78}
+.advanced-filters.premium-locked select:disabled,.advanced-filters.premium-locked input:disabled{cursor:not-allowed;filter:saturate(.45)}
 @media(max-width:520px){.advanced-filters{align-items:stretch}.advanced-filters label{flex:1;min-width:42%}.advanced-filters .check-filter{flex-basis:100%}}
 
 .pagination{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:wrap;margin:24px 0 0}
@@ -518,6 +527,7 @@ main>#dernieres-offres .filter{padding:7px 10px}
         <option value="trust">Fiabilité des informations</option>
       </select>
     </div>
+    <div id="pro-filter-lock" class="pro-filter-lock" role="status">🔒 <strong>Filtres avancés réservés à DealRadar Pro</strong><span>Les catégories et la recherche restent gratuites. Les filtres par réduction, prix et fiabilité sont réservés à Pro. <a href="./compte.html">Découvrir les formules ↗</a></span></div>
     <div class="advanced-filters" aria-label="Filtres avancés">
       <label>Réduction minimale
         <select id="min-discount"><option value="0">Toutes</option><option value="10">10 %</option><option value="20">20 %</option><option value="30">30 %</option><option value="40">40 %</option><option value="50">50 %</option></select>
@@ -633,6 +643,8 @@ const categories = [...document.querySelectorAll(".category-card")];
 const filters = [...document.querySelectorAll(".filter")];
 const dealSearch = document.getElementById("deal-search");
 const dealSort = document.getElementById("deal-sort");
+let accountPlan = "guest";
+const API_BASE = window.DEALRADAR_API_BASE || "https://dealradar-api-vi8j.onrender.com";
 const minDiscountInput = document.getElementById("min-discount");
 const maxPriceInput = document.getElementById("max-price");
 const hideOldInput = document.getElementById("hide-old");
@@ -873,6 +885,7 @@ function updateFilterCounts() {
   });
 }
 function renderPriceHistory(offer) {
+  if (accountPlan !== "pro") return '<div class="price-history-locked"><strong>✦ Historique détaillé — DealRadar Pro</strong><p>Les variations, minima et maxima observés seront réservés aux membres Pro. Les prix actuels des offres restent accessibles gratuitement.</p><a href="./compte.html">Découvrir Pro ↗</a></div>';
   const history = Array.isArray(offer.price_history) ? offer.price_history
     .filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0)
     .slice(-180) : [];
@@ -971,6 +984,32 @@ function renderFeaturedOffers() {
       '<div class="featured-foot">' + escapeHtml(source) + ' · ' + (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le marchand') +
       (typeof window.DealRadarTrust === "function" ? ' · Confiance ' + window.DealRadarTrust(offer).level.toLowerCase() : '') + '</div><div class="featured-foot">Ouvrir la fiche détaillée ↗</div></div></article>';
   }).join("");
+}
+async function loadAccountPlan() {
+  let accessToken = "";
+  try { accessToken = sessionStorage.getItem("dealradar_access_token") || ""; } catch (_) {}
+  accountPlan = "guest";
+  if (!accessToken) { applyPlanGates(); return; }
+  try {
+    const response = await fetch(API_BASE.replace(/\/$/, "") + "/api/auth/me", {headers:{Authorization:"Bearer " + accessToken}});
+    if (!response.ok) throw new Error("Session invalide");
+    const profile = await response.json();
+    accountPlan = profile.plan === "pro" ? "pro" : "free";
+  } catch (_) { accountPlan = "guest"; }
+  applyPlanGates();
+}
+function applyPlanGates() {
+  const pro = accountPlan === "pro";
+  const advanced = document.querySelector("#dernieres-offres .advanced-filters");
+  if (advanced) advanced.classList.toggle("premium-locked", !pro);
+  [minDiscountInput, maxPriceInput, onlyVerifiedInput, onlyHighConfidenceInput].forEach(input => { if (input) input.disabled = !pro; });
+  const notice = document.getElementById("pro-filter-lock");
+  if (notice) {
+    notice.hidden = pro;
+    notice.innerHTML = accountPlan === "guest"
+      ? '🔒 <strong>Filtres avancés réservés à DealRadar Pro</strong><span>Crée un compte gratuit puis passe à Pro pour débloquer les filtres par prix, réduction et fiabilité. <a href="./compte.html">Découvrir les formules ↗</a></span>'
+      : '🔒 <strong>Filtres avancés réservés à DealRadar Pro</strong><span>Ton compte Gratuit conserve la recherche et les catégories. <a href="./compte.html">Découvrir Pro ↗</a></span>';
+  }
 }
 function renderOffers() {
   const query = normalizeSearchText([dealSearch.value, search.value].filter(Boolean).join(" "));
@@ -1262,6 +1301,7 @@ categories.forEach(card => card.addEventListener("click", () => {
 updateCategories();
 loadTelegramBotInfo();
 loadOffers();
+loadAccountPlan().then(() => { if (offers && offers.length) renderOffers(); });
 </script>
 <script>
 /* Le bouton vert de l’accueil sert toujours d’accès au compte, jamais de second bouton de publication. */
