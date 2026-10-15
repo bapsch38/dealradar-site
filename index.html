@@ -970,13 +970,12 @@ function renderOffers() {
   const minDiscount = Number(minDiscountInput.value || 0);
   const maxPrice = parsePriceValue(maxPriceInput.value);
   const list = offers.filter(offer => {
-    const text = normalizeSearchText([
-      offer.title, offer.category, offer.source, offer.description,
-      offer.merchant, offer.brand, offer.product_name, offer.tags
-    ].filter(Boolean).join(" "));
+    // La recherche textuelle porte exclusivement sur le titre du produit.
+    // Les catégories, marchands et descriptions ne doivent jamais créer de faux résultats.
+    const title = normalizeSearchText(offer.title || "");
     const price = parsePriceValue(offer.price ?? offer.current_price);
     const discount = offerDiscount(offer);
-    if (!matchesSearchQuery(text, query) || !matchesFilter(offer)) return false;
+    if (!matchesSearchQuery(title, query) || !matchesFilter(offer)) return false;
     if (minDiscount > 0 && (discount === null || discount < minDiscount)) return false;
     if (maxPrice !== null && (price === null || price > maxPrice)) return false;
     if (hideOldInput.checked && offerIsOld(offer)) return false;
