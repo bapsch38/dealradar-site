@@ -83,7 +83,7 @@
       "Merci : les retours sont publics et pourront être vérifiés avant correction."
     ].join("\n");
     const params = new URLSearchParams({template:"deal-feedback.md", title: "[Communauté] " + labels[kind] + " : " + (offer.title || "offre DealRadar").slice(0, 90), body});
-    return "https://github.com/bapsch38/dealradar-site/issues/new?" + params.toString();
+    return "./signaler.html?type=" + encodeURIComponent(kind) + "&title=" + encodeURIComponent(offer.title || "Offre DealRadar") + "&url=" + encodeURIComponent(offer.url || "") + "&category=" + encodeURIComponent(categoryOf(offer)) + "&price=" + encodeURIComponent(String(priceOf(offer) ?? "")) + "&reference=" + encodeURIComponent(String(referenceOf(offer) ?? "")) + "&details=" + encodeURIComponent(body);
   };
   // Score fondé sur les preuves de prix. Image, catégorie et taille de remise ne prouvent pas la fiabilité.
   const trust = offer => {
