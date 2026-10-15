@@ -356,10 +356,16 @@ main>#dernieres-offres .filter{padding:7px 10px}
 @media(max-width:520px){.navlinks{overflow-x:auto;flex-wrap:nowrap;padding:3px 1px 6px;scrollbar-width:thin}.navlinks a{white-space:nowrap;flex:0 0 auto}.nav .pill{margin-left:auto}}
 
 
-.category-notice{display:flex;align-items:flex-start;gap:13px;margin:20px 0 0;padding:15px 18px;border:1px solid #3a5268;border-radius:13px;background:#101f2d;color:var(--muted)}
-.category-notice-icon{display:grid;place-items:center;flex:0 0 28px;height:28px;border-radius:50%;background:#203248;color:var(--green);font-weight:900}
-.category-notice p{margin:2px 0;font-size:13px;line-height:1.65}
-.category-notice strong{color:var(--text)}
+#category-notice-dialog{width:min(520px,calc(100% - 28px));padding:0;border:1px solid #3a5268;border-radius:20px;background:#101f2d;color:var(--text);box-shadow:0 24px 90px #000a}
+#category-notice-dialog::backdrop{background:#020812c9;backdrop-filter:blur(5px)}
+.category-popup{padding:26px}
+.category-popup-icon{display:grid;place-items:center;width:46px;height:46px;border-radius:14px;background:#173b2a;color:var(--green);font-size:25px;font-weight:900}
+.category-popup h2{font-size:23px;line-height:1.25;margin:17px 0 10px}
+.category-popup p{font-size:14px;line-height:1.7;color:var(--muted);margin:0}
+.category-popup-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}
+.category-popup-actions button,.category-popup-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:43px;padding:11px 15px;border-radius:10px;font:inherit;font-size:13px;font-weight:800;cursor:pointer}
+.category-popup-confirm{border:1px solid var(--green);background:var(--green);color:#07131c}
+.category-popup-explore{border:1px solid #3a5268;background:#142338;color:var(--text)}
 </style>
 </head>
 <body class="home-page">
@@ -400,11 +406,6 @@ main>#dernieres-offres .filter{padding:7px 10px}
       <div class="hero-note">Les prix peuvent changer rapidement. Les indicateurs décrivent les preuves disponibles : vérifie toujours le prix final chez le marchand.</div>
     </div>
   </section>
-
-  <aside class="category-notice" role="note" aria-label="Information sur les catégories">
-    <span class="category-notice-icon" aria-hidden="true">ℹ</span>
-    <p><strong>Une catégorie vous semble incorrecte ?</strong> Le classement automatique peut parfois se tromper. Nous améliorons régulièrement les catégories ; vérifiez la fiche de l’offre et signalez-nous toute erreur.</p>
-  </aside>
 
   <section class="home-guide" aria-labelledby="home-guide-title">
     <div class="home-guide-head">
@@ -1275,5 +1276,39 @@ loadOffers();
 })();
 </script>
 <script src="./features.js"></script>
+
+<dialog id="category-notice-dialog" aria-labelledby="category-notice-title" aria-describedby="category-notice-description">
+  <div class="category-popup">
+    <span class="category-popup-icon" aria-hidden="true">ℹ</span>
+    <h2 id="category-notice-title">Une catégorie vous semble incorrecte ?</h2>
+    <p id="category-notice-description">Le classement automatique peut parfois se tromper. Nous améliorons régulièrement les catégories. Vérifiez la fiche de l’offre et signalez-nous toute erreur : cela nous aide à rendre DealRadar plus fiable.</p>
+    <div class="category-popup-actions">
+      <button type="button" class="category-popup-confirm" id="category-notice-confirm">Compris !</button>
+      <a class="category-popup-explore" href="./offres.html">Explorer les offres ↗</a>
+    </div>
+  </div>
+</dialog>
+<script>
+(() => {
+  const dialog = document.getElementById("category-notice-dialog");
+  const confirm = document.getElementById("category-notice-confirm");
+  if (!dialog || !confirm) return;
+  confirm.addEventListener("click", () => dialog.close());
+  dialog.addEventListener("click", event => {
+    if (event.target === dialog) dialog.close();
+  });
+  try {
+    if (!sessionStorage.getItem("dealradar_category_notice_seen")) {
+      window.setTimeout(() => {
+        if (!dialog.open) dialog.showModal();
+        sessionStorage.setItem("dealradar_category_notice_seen", "1");
+      }, 700);
+    }
+  } catch (_) {
+    window.setTimeout(() => { if (!dialog.open) dialog.showModal(); }, 700);
+  }
+})();
+</script>
+
 </body>
 </html>
