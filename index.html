@@ -885,7 +885,7 @@ function updateFilterCounts() {
   });
 }
 function renderPriceHistory(offer) {
-  if (accountPlan !== "pro") return '<div class="price-history-locked"><strong>✦ Historique détaillé — DealRadar Pro</strong><p>Les variations, minima et maxima observés seront réservés aux membres Pro. Les prix actuels des offres restent accessibles gratuitement.</p><a href="./compte.html">Découvrir Pro ↗</a></div>';
+  return '<div class="price-history-locked"><strong>✦ Historique détaillé — bientôt sur DealRadar Pro</strong><p>Cette fonction est en préparation. Les historiques ne sont plus publiés dans le catalogue public ; ils seront accessibles via un accès sécurisé lorsqu’ils seront branchés.</p><a href="./compte.html">Voir les formules ↗</a></div>';
   const history = Array.isArray(offer.price_history) ? offer.price_history
     .filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0)
     .slice(-180) : [];
