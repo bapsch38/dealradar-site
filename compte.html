@@ -219,7 +219,7 @@ byId("save-prefs").addEventListener("click",async()=>{
   catch(error){setStatus("profile-status",error.message,true);}
   finally {byId("save-prefs").disabled=false;}
 });
-byId("logout").addEventListener("click",()=>{try{sessionStorage.removeItem(TOKEN_KEY);}catch(_){}profile=null;byId("profile-panel").classList.add("hidden");byId("auth-panel").classList.remove("hidden");byId("local-space-link").classList.remove("hidden");setMode("login");});
+byId("logout").addEventListener("click",()=>{try{sessionStorage.removeItem(TOKEN_KEY);}catch(_){}profile=null;byId("profile-panel").classList.add("hidden");byId("account-tools").classList.add("hidden");byId("auth-panel").classList.remove("hidden");byId("local-space-link").classList.remove("hidden");setMode("login");});
 if(API_BASE && /^https:\/\//i.test(API_BASE)){
   byId("setup-note").classList.add("hidden");byId("auth-submit").disabled=false;byId("auth-submit").textContent="Créer mon compte";
   if(token())loadProfile().catch(error=>{try{sessionStorage.removeItem(TOKEN_KEY);}catch(_){}setStatus("auth-status","Reconnecte-toi : "+error.message,true);});
