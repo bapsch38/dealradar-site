@@ -12357,8 +12357,8 @@
     "title": "25€ offerts en bons d'achats pour 50€ dépensés - La Grande Récré",
     "description": "La Grande Récré Du 30 octobre au 1er novembre 2025, La Grande Récré vous gâte ! Recevez un bon d'achat de 25 € par tranche de 50 € d’achat Faites-vous plaisir dès maintenant… et profitez-en à nouveau en novembre ! Comment ça marche ? 1. Je fais mes achats Entre le 30/10 et le 01/11 inclus, je fais 50€ d'achats ou plus sur lagranderecre.fr ou en magasin . 2. Je fais ma demande Je me rends sur le site Coup Double , je saisis mes coordonnées et je télécharge une photo de mon ticket de caisse ou ma facture pour une commande web Je récupère mes bons d'achat 3. Je reçois mon bon d'achat Je reçois par mail un ou plusieurs bons d'achat d'une valeur de 25 €, valable du 17 au 23 novembre 2025",
     "price": 50.0,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 59.99,
+    "discount_percent": 16.7,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/25eur-offerts-en-bons-dachats-pour-50eur-depenses-la-grande-recre-3432637",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/9mC2N/3432637_1/re/1200x1200/qt/90/3432637_1.jpg",
@@ -13193,8 +13193,8 @@
     "title": "RoboCop: Rogue City (ou RC Alex Murphy Edition à 4€05) sur PC (Dématérialisé - Steam)",
     "description": "2,98€ - Playsum La version du jeu version Robocop: Rogue City Alex Murphy Edition : https://store.playsum.live/product/de6eb145-8858-5e4e-b9bd-f2429c60803d/robocop-rogue-city-alex-murphy-edition Description L’édition « Alex Murphy » vous plonge au cœur de l’action pour une expérience encore plus jubilatoire. Elle contient : - Le jeu de base - L'arme secondaire ''OCP Shotgun'' - L'armure endomagée du héros, tirée du premier film RoboCop (cosmétique) - La version ''Prototype'' de l'arme Auto-9 (cosmétique) - L'accès anticipé au jeu, 48 heures avant la sortie officielle - L'Artbook digital contenant 100 pages de visuels, commentés par les développeurs du jeu. Devenez l'emblématique mi-homme, mi-machine, tout héros flic et rendez justice dans les rues dangereuses et entagées par la criminalité du vieux Detroit. Résister la loi par tous les moyens nécessaires : Avec votre puissante Auto-9 ou l'une des 20 autres armes disponibles, éradiquez les criminels tout au long d'une aventure explosive à la première personne. Grâce à votre force robotique et à vos capacités cybernétiques, qui peuvent être améliorées au fur et à mesure que vous progressez, vous êtes l'officier le plus efficace pour faire respecter la loi. C'est à vous de décider comment remplir vos directives principales : Explorez les zones ouvertes et atteignez vos objectifs en fonction de votre propre sens de la justice. Trouver des preuves, interroger et maintenir l'ordre public ne sont que quelques-unes de vos tâches quotidiennes en tant que policier. Mais ne prenez pas les décisions à la légère : vos choix peuvent déterminer le sort des citoyens et le résultat de votre mission. Une histoire originale dans le monde de RoboCop : La ville de Detroit a été frappée par une série de crimes, et un nouvel ennemi menace l'ordre public. Votre enquête vous mène au cœur d'un projet obscur dans une histoire originale qui se déroule entre RoboCop 2 et 3. Explorez des lieux emblématiques et rencontrez des visages familiers du monde de RoboCop. Peter Weller, l'acteur original, est même de retour en service pour exprimer le cybercop. ROBOCOP – ROBOCOP 3 © 1987-1992 Orion Pictures Corporation. ROBOCOP: ROGUE CITY © 2023 Metro-Goldwyn-Mayer Studios Inc. ROBOCOP & ROBOCOP: ROGUE CITY are trademarks of Orion Pictures Corporation. All Rights Reserved. ROBOCOP: ROGUE CITY published by Nacon and developed by Teyon. © 2023 Nacon. All Rights Reserved.",
     "price": 2.98,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 24.99,
+    "discount_percent": 88.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/robocop-rogue-city-ou-rc-alex-murphy-edition-a-4eur05-sur-pc-dematerialise-3432571",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/VWpyk/3432571_1/re/1200x1200/qt/90/3432571_1.jpg",
@@ -23145,6 +23145,10 @@
       {
         "price": 54.95,
         "observed_at": "2026-10-14T03:34:55.888811+00:00"
+      },
+      {
+        "price": 54.95,
+        "observed_at": "2026-10-15T03:58:34.064905+00:00"
       }
     ]
   },
