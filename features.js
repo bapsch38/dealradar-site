@@ -235,7 +235,7 @@
       const image = typeof productImageCandidates === "function" ? productImageCandidates(offer, url)[0] : (offer.image_url || "");
       return '<article class="dr-mini-card">' +
         (image ? '<img src="' + image.replace(/"/g, "&quot;") + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : '') +
-        '<div class="dr-mini-body"><div class="dr-mini-meta">' + safeText(categoryOf(offer)) + ' · confiance ' + confidence.level.toLowerCase() + ' · ' + confidence.score + '/100</div>' +
+        '<div class="dr-mini-body"><div class="dr-mini-meta">' + safeText(categoryOf(offer)) + ' · ' + (offer.price_verified === true ? 'prix confirmé' : 'prix à vérifier') + '</div>' +
         '<a class="dr-mini-title" href="' + url.replace(/"/g, "&quot;") + '" target="_blank" rel="noopener noreferrer sponsored">' + safeText(offer.title || "Offre sans titre") + '</a>' +
         '<div class="dr-mini-price">' + money(priceOf(offer)) + (discount == null ? "" : ' <span>-' + Math.round(discount) + ' %</span>') + '</div>' +
         '<button type="button" class="dr-action dr-fav" data-offer-url="' + url.replace(/"/g, "&quot;") + '">' +
@@ -282,10 +282,10 @@
       action.className = "dr-card-actions";
       const explanation = [...score.reasons, ...score.warnings];
       action.innerHTML = '<div class="dr-trust" title="' + explanation.join(" · ").replace(/"/g, "&quot;") +
-        '"><span>Indice de confiance · ' + score.level + '</span><strong>' + score.score + '/100</strong><small>' +
+        '"><span>Éléments de vérification</span><strong>' + (offer.price_verified === true ? 'Prix actuel confirmé' : 'Prix actuel à vérifier') + '</strong><small>' +
         (score.reasons.length ? 'Points positifs : ' + score.reasons.join(" · ") + '. ' : '') +
         (score.warnings.length ? 'À vérifier : ' + score.warnings.join(" · ") + '. ' : '') +
-        'Estimation indicative, pas une garantie du marchand.</small></div>' +
+        'Le prix final et la disponibilité restent à confirmer chez le marchand.</small></div>' +
         '<div class="dr-button-row"><button type="button" class="dr-action dr-fav" data-offer-url="' + url.replace(/"/g, "&quot;") + '">' +
         (favorites().includes(url) ? "★ Favori" : "☆ Favoris") + '</button><button type="button" class="dr-action dr-target" data-offer-url="' +
         url.replace(/"/g, "&quot;") + '">🔔 Alerte de prix</button></div>' +
