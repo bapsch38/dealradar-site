@@ -392,7 +392,7 @@ main>#dernieres-offres .filter{padding:7px 10px}
         <a class="hero-action hero-action-primary" href="./publier.html">＋ Publier une promo ou une erreur de prix</a>
         <a class="hero-action hero-action-secondary" href="./offres.html">Explorer toutes les offres ↗</a>
       </div>
-      <div class="hero-note">Les prix peuvent changer rapidement. Le score de confiance est une estimation : vérifie toujours le prix final chez le marchand.</div>
+      <div class="hero-note">Les prix peuvent changer rapidement. Les indicateurs décrivent les preuves disponibles : vérifie toujours le prix final chez le marchand.</div>
     </div>
   </section>
 
@@ -405,10 +405,10 @@ main>#dernieres-offres .filter{padding:7px 10px}
     </div>
     <div class="home-guide-grid">
       <article class="home-guide-step"><span class="home-guide-number">01</span><div><h3>Explore les offres</h3><p>Recherche un produit ou filtre par catégorie, budget et réduction annoncée.</p></div></article>
-      <article class="home-guide-step"><span class="home-guide-number">02</span><div><h3>Vérifie les preuves</h3><p>Regarde la date, le prix de référence et l’indice de confiance. Un score faible signifie qu’il manque des éléments de vérification.</p></div></article>
+      <article class="home-guide-step"><span class="home-guide-number">02</span><div><h3>Vérifie les preuves</h3><p>Regarde la date, le prix de référence et les éléments de vérification. Quand il manque des preuves, le site le signale clairement.</p></div></article>
       <article class="home-guide-step"><span class="home-guide-number">03</span><div><h3>Compare chez le marchand</h3><p>Vérifie le prix final, les frais de livraison, les conditions et la disponibilité avant de commander.</p></div></article>
     </div>
-    <div class="home-confidence-note"><strong>Comprendre l’indice de confiance</strong><span><b>Élevé (75–100)</b> : prix actuel confirmé, prix de référence vérifié et/ou historique récent solide.</span><span><b>Moyen (45–74)</b> : une partie des preuves est disponible, mais un contrôle reste nécessaire.</span><span><b>Faible (0–44)</b> : les prix ou leur historique manquent de preuves. Les images et le montant de la remise ne font pas monter le score.</span><span>Le score mesure la fiabilité des informations, pas la qualité du produit ni la garantie d’obtenir le prix.</span></div>
+    <div class="home-confidence-note"><strong>Comment vérifier une offre</strong><span><b>Prix actuel</b> : marqué confirmé uniquement après vérification directe chez le marchand.</span><span><b>Prix de référence</b> : une remise est plus fiable quand l’ancien prix a lui aussi été vérifié.</span><span><b>Historique</b> : plusieurs relevés datés aident à repérer les baisses durables.</span><span>DealRadar privilégie des preuves lisibles plutôt qu’un score chiffré qui pourrait donner une fausse impression de certitude.</span></div>
   </section>
 
   <section class="home-shortcuts">
@@ -505,7 +505,7 @@ main>#dernieres-offres .filter{padding:7px 10px}
         <option value="discount">Réduction la plus forte</option>
         <option value="price-asc">Prix croissant</option>
         <option value="price-desc">Prix décroissant</option>
-        <option value="trust">Indice de confiance</option>
+        <option value="trust">Fiabilité des informations</option>
       </select>
     </div>
     <div class="advanced-filters" aria-label="Filtres avancés">
@@ -515,7 +515,7 @@ main>#dernieres-offres .filter{padding:7px 10px}
       <label>Prix maximum (€)<input id="max-price" type="number" min="0" step="1" placeholder="Sans limite" inputmode="decimal"></label>
       <label class="check-filter"><input id="hide-old" type="checkbox"> Masquer les offres de plus de 7 jours</label>
       <label class="check-filter"><input id="only-verified" type="checkbox"> Prix confirmé</label>
-      <label class="check-filter"><input id="only-high-confidence" type="checkbox"> Confiance moyenne ou élevée</label>
+      <label class="check-filter"><input id="only-high-confidence" type="checkbox"> Informations suffisamment documentées</label>
       <button class="reset-filters" id="reset-filters" type="button">Réinitialiser les filtres</button>
     </div>
     <div class="filters" aria-label="Filtres des offres">
@@ -1051,7 +1051,7 @@ function renderOffers() {
       '<h3 class="deal-title">' + escapeHtml(title) + '</h3>' + prices +
       '<div class="deal-meta">' + (offer.price_verified === true ? 'Prix confirmé sur la fiche marchand' : 'Prix annoncé par la source, à recontrôler') + '</div>' +
       '<div class="deal-meta">' + (date ? 'Repérée le ' + date.toLocaleDateString("fr-FR") : 'Date non disponible') + '</div>' +
-      '<div><span class="deal-confidence ' + trustClass + '">Confiance ' + escapeHtml(String(trustInfo.level).toLowerCase()) + ' · ' + trustInfo.score + '/100</span></div>' +
+      '<div class="deal-meta">' + (offer.price_verified === true ? '✓ Prix actuel confirmé' : '⚠ Prix actuel à vérifier') + ' · ' + (offer.reference_price_verified === true ? 'Prix de référence vérifié' : 'Prix de référence non vérifié') + '</div>' +
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
       '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>' +
       (function(){ const merchant = typeof offer.merchant_url === "string" && offer.merchant_url.startsWith("https://") && offer.merchant_url !== url ? offer.merchant_url : (!isDealabs ? url : ""); return '<div class="deal-card-links">' + (isDealabs && url ? '<a href="' + escapeAttribute(url) + '" target="_blank" rel="noopener noreferrer">Dealabs ↗</a>' : '<a href="#" hidden>Dealabs ↗</a>') + (merchant ? '<a class="merchant-link" href="' + escapeAttribute(merchant) + '" target="_blank" rel="noopener noreferrer sponsored">Site marchand ↗</a>' : '<a class="merchant-link" href="#" hidden>Site marchand ↗</a>') + '</div>'; })() +
@@ -1090,7 +1090,7 @@ function openOfferDetails(url) {
     '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=75?"high":trustInfo.score>=45?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div>'+(savingsMarkup?'<div>'+savingsMarkup+'</div>':'')+'<div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
     '<div class="offer-detail-facts"><div class="offer-detail-fact"><span>Source de la publication</span><strong>'+escapeHtml(source)+'</strong></div><div class="offer-detail-fact"><span>Catégorie</span><strong>'+escapeHtml(category)+'</strong></div><div class="offer-detail-fact"><span>'+(offer.reference_price_verified===true?"Prix de référence vérifié":"Prix de référence annoncé")+'</span><strong>'+(reference!==null&&price!==null&&reference>price?formatPrice(reference):"Non communiqué par la source")+'</strong></div><div class="offer-detail-fact"><span>Dernier repère temporel</span><strong>'+(date?date.toLocaleString("fr-FR"):"Date inconnue")+'</strong></div></div>'+
     (description?'<section class="offer-detail-section"><h3>Description et conditions</h3><div class="offer-detail-description">'+escapeHtml(description)+'</div></section>':"")+
-    '<section class="offer-detail-section"><h3>Pourquoi cet indice de confiance ?</h3><div class="offer-detail-reasons">'+(reasons||"<span>Peu d’éléments documentés</span>")+'</div>'+(warnings?'<div class="offer-detail-reasons offer-detail-warnings" style="margin-top:8px">'+warnings+'</div>':"")+'<p class="deal-meta">Le score évalue la fiabilité des informations disponibles, pas la qualité du produit.</p></section>'+
+    '<section class="offer-detail-section"><h3>Éléments de vérification</h3><div class="offer-detail-reasons">'+(reasons||"<span>Peu d’éléments documentés</span>")+'</div>'+(warnings?'<div class="offer-detail-reasons offer-detail-warnings" style="margin-top:8px">'+warnings+'</div>':"")+'<p class="deal-meta">Le score évalue la fiabilité des informations disponibles, pas la qualité du produit.</p></section>'+
     '<section class="offer-detail-section"><h3>Historique DealRadar</h3>'+renderPriceHistory(offer)+'</section>'+
     '<div class="offer-detail-actions"><a class="primary" href="'+escapeAttribute(merchantUrl)+'" target="_blank" rel="noopener noreferrer sponsored">Voir chez le marchand ↗</a>' +
       (/dealabs/i.test(String(offer.source||"")+" "+url) && merchantUrl !== url ? '<a href="'+escapeAttribute(url)+'" target="_blank" rel="noopener noreferrer">Voir le deal Dealabs ↗</a>' : '') +
