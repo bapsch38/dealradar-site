@@ -365,7 +365,7 @@ body{background:radial-gradient(ellipse at 8% 0%,#12344a 0%,transparent 36%),rad
       <article class="home-guide-step"><span class="home-guide-number">02</span><div><h3>Vérifie les preuves</h3><p>Regarde la date, le prix de référence et l’indice de confiance. Un score faible signifie qu’il manque des éléments de vérification.</p></div></article>
       <article class="home-guide-step"><span class="home-guide-number">03</span><div><h3>Compare chez le marchand</h3><p>Vérifie le prix final, les frais de livraison, les conditions et la disponibilité avant de commander.</p></div></article>
     </div>
-    <div class="home-confidence-note"><strong>Comprendre l’indice de confiance</strong><span><b>Élevé (72–100)</b> : plusieurs éléments concordent.</span><span><b>Moyen (40–71)</b> : certains éléments sont présents, mais il reste des points à contrôler.</span><span><b>Faible (0–39)</b> : peu de preuves disponibles. Ce n’est ni une garantie ni une note de qualité du produit.</span></div>
+    <div class="home-confidence-note"><strong>Comprendre l’indice de confiance</strong><span><b>Élevé (75–100)</b> : prix actuel confirmé, prix de référence vérifié et/ou historique récent solide.</span><span><b>Moyen (45–74)</b> : une partie des preuves est disponible, mais un contrôle reste nécessaire.</span><span><b>Faible (0–44)</b> : les prix ou leur historique manquent de preuves. Les images et le montant de la remise ne font pas monter le score.</span><span>Le score mesure la fiabilité des informations, pas la qualité du produit ni la garantie d’obtenir le prix.</span></div>
   </section>
 
   <section class="home-shortcuts">
@@ -535,7 +535,7 @@ body{background:radial-gradient(ellipse at 8% 0%,#12344a 0%,transparent 36%),rad
       </article>
       <article class="dr-feature-card">
         <h3>🛡️ Fiabilité & transparence</h3>
-        <p>Chaque offre reçoit un indice indicatif à partir des signaux disponibles : prix vérifié par le flux, cohérence du prix de référence, historique, fraîcheur et source identifiable. Ce n’est ni une garantie ni une certification du marchand.</p>
+        <p>L’indice repose sur des preuves concrètes : prix actuel confirmé (+35), prix de référence vérifié (+25), historique daté (jusqu’à +20), fraîcheur d’une vérification directe (jusqu’à +15) et source identifiable (+5). Un prix seulement annoncé rapporte peu de points ; une référence non vérifiée ne prouve pas la réduction. Les images et la taille de la remise ne gonflent pas le score. Ce n’est ni une garantie ni une certification du marchand.</p>
         <p>Les graphiques d’historique affichent uniquement les observations réellement présentes dans le flux ; pas de données historiques inventées.</p>
       </article>
     </div>
@@ -910,7 +910,7 @@ function renderOffers() {
     if (maxPrice !== null && (price === null || price > maxPrice)) return false;
     if (hideOldInput.checked && offerIsOld(offer)) return false;
     if (onlyVerifiedInput.checked && offer.price_verified !== true) return false;
-    if (onlyHighConfidenceInput.checked && !(typeof window.DealRadarTrust === "function" && window.DealRadarTrust(offer).score >= 48)) return false;
+    if (onlyHighConfidenceInput.checked && !(typeof window.DealRadarTrust === "function" && window.DealRadarTrust(offer).score >= 45)) return false;
     return true;
   });
   const sort = dealSort.value;
@@ -1000,7 +1000,7 @@ function renderOffers() {
     const fallbackImage = 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="#eef2f6"/><g fill="none" stroke="#9aa8b8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><rect x="315" y="145" width="170" height="150" rx="18"/><path d="M350 330h100M400 295v35"/></g><text x="400" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#64748b">Image indisponible</text></svg>');
 
     const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée"};
-    const trustClass = trustInfo.score >= 72 ? "high" : trustInfo.score >= 40 ? "medium" : "low";
+    const trustClass = trustInfo.score >= 75 ? "high" : trustInfo.score >= 45 ? "medium" : "low";
     const sourceLabel = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource);
     return '<article class="deal-card" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
       '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + escapeAttribute(title) + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
@@ -1044,7 +1044,7 @@ function openOfferDetails(url) {
   const merchantUrl = typeof offer.merchant_url === "string" && /^https:\/\//i.test(offer.merchant_url) ? offer.merchant_url : url;
   root.innerHTML =
     '<div class="offer-detail-top">'+(image?'<img class="offer-detail-image" src="'+escapeAttribute(image)+'" alt="'+escapeAttribute(offer.title||"")+'" loading="lazy" referrerpolicy="no-referrer">':'<div class="offer-detail-image"></div>')+
-    '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=72?"high":trustInfo.score>=40?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div>'+(savingsMarkup?'<div>'+savingsMarkup+'</div>':'')+'<div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
+    '<div><h3 class="offer-detail-title">'+escapeHtml(offer.title||"Offre sans titre")+'</h3><span class="deal-confidence '+(trustInfo.score>=75?"high":trustInfo.score>=45?"medium":"low")+'">Confiance '+escapeHtml(String(trustInfo.level).toLowerCase())+' · '+trustInfo.score+'/100</span><div class="offer-detail-prices">'+priceMarkup+oldMarkup+discountMarkup+'</div>'+(savingsMarkup?'<div>'+savingsMarkup+'</div>':'')+'<div class="deal-meta">'+(offer.price_verified===true?"Prix lu sur une fiche marchand":"Prix annoncé par la source, sans confirmation directe")+'</div></div></div>'+
     '<div class="offer-detail-facts"><div class="offer-detail-fact"><span>Source de la publication</span><strong>'+escapeHtml(source)+'</strong></div><div class="offer-detail-fact"><span>Catégorie</span><strong>'+escapeHtml(category)+'</strong></div><div class="offer-detail-fact"><span>'+(offer.reference_price_verified===true?"Prix de référence vérifié":"Prix de référence annoncé")+'</span><strong>'+(reference!==null&&price!==null&&reference>price?formatPrice(reference):"Non communiqué par la source")+'</strong></div><div class="offer-detail-fact"><span>Dernier repère temporel</span><strong>'+(date?date.toLocaleString("fr-FR"):"Date inconnue")+'</strong></div></div>'+
     (description?'<section class="offer-detail-section"><h3>Description et conditions</h3><div class="offer-detail-description">'+escapeHtml(description)+'</div></section>':"")+
     '<section class="offer-detail-section"><h3>Pourquoi cet indice de confiance ?</h3><div class="offer-detail-reasons">'+(reasons||"<span>Peu d’éléments documentés</span>")+'</div>'+(warnings?'<div class="offer-detail-reasons offer-detail-warnings" style="margin-top:8px">'+warnings+'</div>':"")+'<p class="deal-meta">Le score évalue la fiabilité des informations disponibles, pas la qualité du produit.</p></section>'+
