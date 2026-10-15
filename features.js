@@ -414,3 +414,40 @@
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init, {once:true});
   else init();
 })();
+
+/* Garde-fou navigation : aucun retour communauté ne doit quitter DealRadar. */
+(function(){
+  function localReportFromLink(link){
+    try{
+      const source=new URL(link.href,location.href);
+      const title=source.searchParams.get("title")||"Retour communauté DealRadar";
+      const body=source.searchParams.get("body")||"";
+      let type="wrong";
+      if(/catégorie incorrecte/i.test(title)) type="category";
+      else if(/prix confirmé|prix vérifié/i.test(title)) type="ok";
+      else if(/lien ou image incorrect/i.test(title)) type="link";
+      const product=(body.match(/(?:Produit|Lien de l'offre|Lien produit)\s*:\s*([^\n]+)/i)||[])[1]||"";
+      const url=(body.match(/(?:Lien de l'offre|Lien produit)\s*:\s*(https?:\/\/[^\s]+)/i)||[])[1]||"";
+      const params=new URLSearchParams({type,title:title.replace(/^\[[^\]]+\]\s*/,""),url,details:body});
+      return "./signaler.html?"+params.toString();
+    }catch(_){return "./signaler.html";}
+  }
+  document.addEventListener("click",function(event){
+    const link=event.target&&event.target.closest?event.target.closest('a[href*="github.com/"][href*="/issues/new"]'):null;
+    if(!link)return;
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    location.href=localReportFromLink(link);
+  },true);
+  const originalOpen=window.open;
+  window.open=function(url,...args){
+    try{
+      const parsed=new URL(String(url),location.href);
+      if(/github\.com$/i.test(parsed.hostname)&&parsed.pathname.includes("/issues/new")){
+        location.href=localReportFromLink({href:parsed.href});
+        return null;
+      }
+    }catch(_){}
+    return originalOpen.call(window,url,...args);
+  };
+})();
