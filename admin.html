@@ -22,8 +22,8 @@
 <div id="queue-list" class="table-wrap"><div class="empty">Chargement…</div></div>
 </section>
 <section id="discussions-panel" class="panel hidden">
-<div class="panel-head"><h2>Modération des discussions</h2><div class="tools"><select id="discussion-status"><option value="active">Actives</option><option value="hidden">Masquées</option><option value="all">Toutes</option></select><button class="button secondary" id="load-discussions">Afficher</button></div></div>
-<div id="discussion-list" class="table-wrap"><div class="empty">Choisis un filtre pour charger les discussions.</div></div>
+<div class="panel-head"><div><h2>Modération des discussions</h2><p class="note">Examine les sujets et leurs réponses. Tu peux masquer une discussion entière ou seulement une réponse problématique.</p></div><div class="tools"><input id="discussion-search" placeholder="Rechercher un titre, texte ou auteur"><select id="discussion-category"><option value="">Toutes les catégories</option><option value="general">Général</option><option value="question">Question</option><option value="marchand">Marchand</option><option value="tech">Technique</option><option value="idee">Idée</option></select><select id="discussion-status"><option value="active">Actives</option><option value="hidden">Masquées</option><option value="all">Toutes</option></select><button class="button secondary" id="load-discussions">Actualiser</button></div></div>
+<div id="discussion-list" class="table-wrap"><div class="empty">Chargement des discussions…</div></div>
 </section>
 <section id="users-panel" class="panel hidden">
 <div class="panel-head"><h2>Comptes et accès</h2><div class="tools"><input id="user-search" placeholder="Rechercher e-mail / pseudo"><button class="button secondary" id="load-users">Actualiser</button></div></div>
@@ -51,7 +51,56 @@ async function refreshAll(){message("global-status","Chargement des données…"
 function makeButton(label,cls,handler){const b=el("button",label,"button "+(cls||"secondary"));b.type="button";b.addEventListener("click",handler);return b}
 function table(headers,rows){const wrap=el("div",undefined,"table-wrap");if(!rows.length){wrap.append(el("div","Aucun élément pour ce filtre.","empty"));return wrap}const t=el("table"),thead=el("thead"),tr=el("tr");headers.forEach(h=>tr.append(el("th",h)));thead.append(tr);t.append(thead);const tb=el("tbody");rows.forEach(row=>tb.append(row));t.append(tb);wrap.append(t);return wrap}
 async function loadQueue(){const qs=new URLSearchParams();if($("queue-kind").value)qs.set("kind",$("queue-kind").value);if($("queue-status").value)qs.set("status",$("queue-status").value);const data=await api("/api/admin/items?"+qs.toString());queueItems=data.items||[];$("stat-new").textContent=queueItems.filter(x=>x.status==="new").length;$("stat-reports").textContent=queueItems.filter(x=>x.kind==="report").length;const rows=queueItems.map(item=>{const tr=el("tr"),title=el("td");title.append(el("strong",item.title));title.append(el("p",(item.message||"Aucun détail")+(item.category?"\nCatégorie : "+item.category:"")));if(item.url){const a=el("a","Ouvrir l’offre");a.href=item.url;a.target="_blank";a.rel="noopener noreferrer";title.append(a)}const price=el("td",(item.current_price||"—")+(item.original_price?" / réf. "+item.original_price:""));const meta=el("td");meta.append(el("span",item.kind==="report"?"Signalement":"Proposition","pill"));meta.append(el("p","Réf. "+item.id+" · "+date(item.created_at)));const action=el("td"),actions=el("div",undefined,"row-actions"),select=el("select");[["new","Nouveau"],["in_progress","En cours"],["resolved","Résolu"],["rejected","Rejeté"],["duplicate","Doublon"]].forEach(([v,l])=>{const o=el("option",l);o.value=v;o.selected=item.status===v;select.append(o)});actions.append(select,makeButton("Enregistrer","",async()=>{try{await api("/api/admin/items/"+item.id,{method:"PATCH",body:JSON.stringify({status:select.value})});message("global-status","Élément #"+item.id+" mis à jour.","success");await loadQueue()}catch(e){message("global-status",e.message,"error")}}));action.append(actions);tr.append(title,price,meta,action);return tr});$("queue-list").replaceChildren(table(["Proposition / détails","Prix","Type / date","Action"],rows))}
-async function loadDiscussions(){const status=$("discussion-status").value;const data=await api("/api/admin/discussions?status="+encodeURIComponent(status)+"&limit=250");discussionItems=data.items||[];$("stat-discussions").textContent=discussionItems.filter(x=>x.status==="active").length;const rows=discussionItems.map(item=>{const tr=el("tr"),detail=el("td");detail.append(el("strong",item.title));detail.append(el("p",item.body));detail.append(el("p","Par "+item.author_name+" · "+date(item.created_at)+" · "+item.reply_count+" réponse(s)"));const state=el("td");state.append(el("span",item.status==="active"?"Visible":"Masquée","pill"));const action=el("td");action.append(makeButton(item.status==="active"?"Masquer":"Réactiver","",async()=>{try{await api("/api/admin/discussions/"+item.id,{method:"PATCH",body:JSON.stringify({status:item.status==="active"?"hidden":"active"})});message("global-status","Discussion #"+item.id+" mise à jour.","success");await loadDiscussions()}catch(e){message("global-status",e.message,"error")}}));tr.append(detail,state,action);return tr});$("discussion-list").replaceChildren(table(["Discussion","État","Modération"],rows))}
+async function loadDiscussions(){
+ const status=$("discussion-status").value;
+ const data=await api("/api/admin/discussions?status="+encodeURIComponent(status)+"&limit=250");
+ discussionItems=data.items||[];
+ $("stat-discussions").textContent=discussionItems.filter(x=>x.status==="active").length;
+ renderDiscussions();
+}
+function renderDiscussions(){
+ const q=($("discussion-search")?.value||"").trim().toLocaleLowerCase("fr");
+ const category=$("discussion-category")?.value||"";
+ const items=discussionItems.filter(item=>(!category||item.category===category)&&(!q||(item.title+" "+item.body+" "+item.author_name).toLocaleLowerCase("fr").includes(q)));
+ const rows=[];
+ const categoryNames={general:"Général",question:"Question",marchand:"Marchand",tech:"Technique",idee:"Idée"};
+ items.forEach(item=>{
+  const tr=el("tr"),detail=el("td"),state=el("td"),action=el("td");
+  detail.append(el("strong",item.title));detail.append(el("p",item.body));
+  detail.append(el("p",(categoryNames[item.category]||item.category||"Sans catégorie")+" · Par "+item.author_name+" · "+date(item.created_at)+" · "+(item.reply_count||0)+" réponse(s) visible(s)"));
+  state.append(el("span",item.status==="active"?"Visible publiquement":"Masquée","pill "+(item.status==="active"?"":"new")));
+  const actions=el("div",undefined,"row-actions");
+  actions.append(makeButton("Voir les réponses","secondary",async()=>{
+   const existing=tr.nextElementSibling;if(existing&&existing.dataset.detailFor===String(item.id)){existing.remove();return}
+   try{
+    const data=await api("/api/admin/discussions/"+item.id), expanded=el("tr"),cell=el("td");
+    expanded.dataset.detailFor=String(item.id);cell.colSpan=3;
+    const box=el("div",undefined,"reply-review");box.style.cssText="padding:12px;border:1px solid var(--line);border-radius:12px;background:#091522;display:grid;gap:10px";
+    box.append(el("strong","Réponses ("+(data.replies||[]).length+")"));
+    if(!(data.replies||[]).length)box.append(el("p","Aucune réponse pour le moment.","muted"));
+    (data.replies||[]).forEach(reply=>{
+     const card=el("div");card.style.cssText="padding:10px;border:1px solid var(--line);border-radius:9px;display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap";
+     const txt=el("div");txt.style.cssText="min-width:220px;flex:1";
+     txt.append(el("strong",reply.author_name+" · "+date(reply.created_at)));txt.append(el("p",reply.body));
+     txt.append(el("span",reply.status==="active"?"Visible":"Masquée","pill "+(reply.status==="active"?"":"new")));
+     const replyAction=makeButton(reply.status==="active"?"Masquer la réponse":"Rétablir la réponse",reply.status==="active"?"danger":"",async()=>{
+      try{await api("/api/admin/discussion-replies/"+reply.id,{method:"PATCH",body:JSON.stringify({status:reply.status==="active"?"hidden":"active"})});message("global-status","Réponse #"+reply.id+" mise à jour.","success");await loadDiscussions()}catch(e){message("global-status",e.message,"error")}
+     });
+     card.append(txt,replyAction);box.append(card);
+    });
+    cell.append(box);expanded.append(cell);tr.after(expanded);
+   }catch(e){message("global-status","Impossible de charger les réponses : "+e.message,"error")}
+  }));
+  actions.append(makeButton(item.status==="active"?"Masquer la discussion":"Réactiver la discussion",item.status==="active"?"danger":"",async()=>{
+   if(!confirm("Confirmer : "+(item.status==="active"?"masquer":"réactiver")+" la discussion « "+item.title+" » ?"))return;
+   try{await api("/api/admin/discussions/"+item.id,{method:"PATCH",body:JSON.stringify({status:item.status==="active"?"hidden":"active"})});message("global-status","Discussion #"+item.id+" mise à jour.","success");await loadDiscussions()}catch(e){message("global-status",e.message,"error")}
+  }));
+  action.append(actions);tr.append(detail,state,action);rows.push(tr);
+ });
+ const node=table(["Sujet / auteur / date","Visibilité","Actions"],rows);
+ if(!items.length)$("discussion-list").replaceChildren(el("div","Aucune discussion ne correspond à ces filtres.","empty"));
+ else $("discussion-list").replaceChildren(node);
+}
 async function loadUsers(){const data=await api("/api/admin/users?limit=500");userItems=data.items||[];$("stat-users").textContent=userItems.length;renderUsers()}
 function renderUsers(){const q=$("user-search").value.trim().toLowerCase();const users=userItems.filter(u=>(u.email+" "+u.display_name).toLowerCase().includes(q));const rows=users.map(user=>{const tr=el("tr"),who=el("td");who.append(el("strong",user.display_name));who.append(el("p",user.email));who.append(el("p","#"+user.id+" · inscrit le "+date(user.created_at)));const activity=el("td","Discussions : "+user.discussion_count+"\nPropositions : "+user.submission_count);const controls=el("td"),form=el("div",undefined,"user-form"),role=el("select"),plan=el("select");[["user","Membre"],["admin","Admin"]].forEach(([v,l])=>{const o=el("option",l);o.value=v;o.selected=user.role===v;role.append(o)});[["free","Free"],["pro","Pro"]].forEach(([v,l])=>{const o=el("option",l);o.value=v;o.selected=(user.plan||"free")===v;plan.append(o)});form.append(role,plan,makeButton("Enregistrer","",async()=>{try{await api("/api/admin/users/"+user.id,{method:"PATCH",body:JSON.stringify({role:role.value,plan:plan.value})});message("global-status","Compte "+user.email+" mis à jour.","success");await loadUsers()}catch(e){message("global-status",e.message,"error")}}),makeButton("Supprimer le compte","danger",async()=>{if(!confirm("Supprimer définitivement le compte de "+user.display_name+" ("+user.email+") ? Ses discussions et réponses seront supprimées. Ses propositions seront anonymisées. Cette action est irréversible."))return;try{await api("/api/admin/users/"+user.id,{method:"DELETE"});message("global-status","Compte "+user.email+" supprimé.","success");await loadUsers()}catch(e){message("global-status",e.message,"error")}}));controls.append(form);tr.append(who,activity,controls);return tr});$("user-list").replaceChildren(table(["Utilisateur","Activité","Rôle / plan / suppression"],rows))}
 $("login-form").addEventListener("submit",async e=>{e.preventDefault();$("login-button").disabled=true;message("login-status","Connexion…");try{await loginWith($("email").value.trim(),$("password").value)}catch(err){message("login-status",err.message,"error")}finally{$("login-button").disabled=false}});
@@ -59,6 +108,9 @@ $("logout").addEventListener("click",()=>{clearToken();location.reload()});
 $("refresh").addEventListener("click",()=>refreshAll().catch(e=>message("global-status",e.message,"error")));
 $("load-queue").addEventListener("click",()=>loadQueue().catch(e=>message("global-status",e.message,"error")));
 $("load-discussions").addEventListener("click",()=>loadDiscussions().catch(e=>message("global-status",e.message,"error")));
+$("discussion-search").addEventListener("input",renderDiscussions);
+$("discussion-category").addEventListener("change",renderDiscussions);
+$("discussion-status").addEventListener("change",()=>loadDiscussions().catch(e=>message("global-status",e.message,"error")));
 $("load-users").addEventListener("click",()=>loadUsers().catch(e=>message("global-status",e.message,"error")));
 $("user-search").addEventListener("input",renderUsers);
 document.querySelectorAll("[data-tab]").forEach(button=>button.addEventListener("click",()=>{document.querySelectorAll("[data-tab]").forEach(b=>b.classList.toggle("active",b===button));["queue","discussions","users"].forEach(k=>$(k+"-panel").classList.toggle("hidden",k!==button.dataset.tab));}));
