@@ -1,5 +1,425 @@
 [
   {
+    "title": "HAZET Vigor V1369 Set de 5 leviers de déblocage",
+    "price": 27.74,
+    "reference_price": 37.69,
+    "discount_percent": 26.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B003A61QAE",
+    "image_url": "https://m.media-amazon.com/images/P/B003A61QAE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:31",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 27.74,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Logitech MK345 Combo Clavier T...US International QWERTY - Noir",
+    "price": 43.46,
+    "reference_price": 77.2,
+    "discount_percent": 43.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00S67M430",
+    "image_url": "https://m.media-amazon.com/images/P/B00S67M430.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:30",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 43.46,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "LINDY 36962 Câble HDMI 1 M",
+    "price": 5.74,
+    "reference_price": 12.84,
+    "discount_percent": 55.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07DFMN4X2",
+    "image_url": "https://m.media-amazon.com/images/P/B07DFMN4X2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:29",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.74,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Thermaltake TOUGHAIR 310 CPU Air Cooler",
+    "price": 46.11,
+    "reference_price": 49.76,
+    "discount_percent": 7.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08YK8MFGL",
+    "image_url": "https://m.media-amazon.com/images/P/B08YK8MFGL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:27",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 46.11,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Festool Systainer³ SYS3 DF M 187",
+    "price": 69.99,
+    "reference_price": 83.74,
+    "discount_percent": 16.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B09T3DM4Y3",
+    "image_url": "https://m.media-amazon.com/images/P/B09T3DM4Y3.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:26",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 69.99,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "MAUL Tableau Blanc 2000 MAULpr...res, Paysage ou Portrait, Gris",
+    "price": 368.2,
+    "reference_price": 446.45,
+    "discount_percent": 17.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001JK7E6S",
+    "image_url": "https://m.media-amazon.com/images/P/B001JK7E6S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:25",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 368.2,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Akyga AK-HD-30A câble HDMI 3 m HDMI Type A (Standard) Noir",
+    "price": 7.01,
+    "reference_price": 14.87,
+    "discount_percent": 52.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B06WRSZZQ8",
+    "image_url": "https://m.media-amazon.com/images/P/B06WRSZZQ8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:24",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.01,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SIGEL CO151 Carnet de notes pr...rture rigide, noir - Conceptum",
+    "price": 30.98,
+    "reference_price": 33.24,
+    "discount_percent": 6.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00JJNZ5Z4",
+    "image_url": "https://m.media-amazon.com/images/P/B00JJNZ5Z4.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:23",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 30.98,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "HDR. 611778. Oscilloscope adap...on 6–8 mm et SUP2 - 100 unités",
+    "price": 13.88,
+    "reference_price": 16.78,
+    "discount_percent": 17.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0017V5WGI",
+    "image_url": "https://m.media-amazon.com/images/P/B0017V5WGI.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:22",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.88,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ACV 1252 Câble de connexion ra...acia/Mercedes/Renault/Vauxhall",
+    "price": 13.89,
+    "reference_price": 16.43,
+    "discount_percent": 15.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00U0WY928",
+    "image_url": "https://m.media-amazon.com/images/P/B00U0WY928.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:20",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 13.89,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 5x Lame de scie sabre PRO Thick Metal precise S937HBF",
+    "price": 32.94,
+    "reference_price": 34.12,
+    "discount_percent": 3.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DDY8NGBR",
+    "image_url": "https://m.media-amazon.com/images/P/B0DDY8NGBR.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:19",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 32.94,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Clé à fourche VDE 17 mm",
+    "price": 28.53,
+    "reference_price": 37.79,
+    "discount_percent": 24.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000UYV898",
+    "image_url": "https://m.media-amazon.com/images/P/B000UYV898.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:18",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 28.53,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DIGITUS DS-55328 Extender KVM ...frarouge - HDMI 2.0 & HDCP 2.2",
+    "price": 231.93,
+    "reference_price": 245.44,
+    "discount_percent": 5.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0CV799Q2J",
+    "image_url": "https://m.media-amazon.com/images/P/B0CV799Q2J.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:17",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 231.93,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "AVERY Zweckform Namens-Etikett... rckstandsfrei abl?sbar fr Ink",
+    "price": 37.89,
+    "reference_price": 39.31,
+    "discount_percent": 3.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00I4UG5FC",
+    "image_url": "https://m.media-amazon.com/images/P/B00I4UG5FC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:16",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 37.89,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Einhell Raboteuse-dégauchisseu..., étrier de sortie extensible)",
+    "price": 299.5,
+    "reference_price": 364.95,
+    "discount_percent": 17.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0D93Y8Y2F",
+    "image_url": "https://m.media-amazon.com/images/P/B0D93Y8Y2F.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:15",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 299.5,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 914.1420 Clé à clique...rsible SlimPower 1/4\" 72 dents",
+    "price": 40.1,
+    "reference_price": 46.45,
+    "discount_percent": 13.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07HS44QDZ",
+    "image_url": "https://m.media-amazon.com/images/P/B07HS44QDZ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:13",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 40.1,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Jung Schutzkontakt Steckdose LS1520SW",
+    "price": 18.61,
+    "reference_price": 22.79,
+    "discount_percent": 18.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00NCLECIU",
+    "image_url": "https://m.media-amazon.com/images/P/B00NCLECIU.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:08",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.61,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Schmidt Spiele HILO 49362",
+    "price": 12.61,
+    "reference_price": 14.01,
+    "discount_percent": 10.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07WZFFHVH",
+    "image_url": "https://m.media-amazon.com/images/P/B07WZFFHVH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:07",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.61,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "magnetoplan Tableau blanc Magn...dre Alu (L)1.500 x (H)1.200 mm",
+    "price": 145.53,
+    "reference_price": 161.28,
+    "discount_percent": 9.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001P3YCZK",
+    "image_url": "https://m.media-amazon.com/images/P/B001P3YCZK.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:06",
+    "category": "Bureau & papeterie",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 145.53,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Mini Barre de Rallye – Graphite – EMEA Rallye Bar Mini EU/AP",
+    "price": 2125.63,
+    "reference_price": 2969.95,
+    "discount_percent": 28.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07W7L82HW",
+    "image_url": "https://m.media-amazon.com/images/P/B07W7L82HW.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:09:05",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 2125.63,
+        "observed_at": "2026-10-15T01:10:32.821027+00:00"
+      }
+    ]
+  },
+  {
     "title": "DIGITUS Câble de Connexion Lig...ble - Noir - pour iPad, iPhone",
     "price": 16.18,
     "reference_price": 21.9,
@@ -10568,506 +10988,6 @@
       {
         "price": 9.99,
         "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "NBA Bounce - PS5",
-    "price": 14.99,
-    "reference_price": 29.99,
-    "discount_percent": 50.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FB474XQN",
-    "image_url": "https://m.media-amazon.com/images/P/B0FB474XQN.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:26",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Confessions II",
-    "price": 26.99,
-    "reference_price": 32.31,
-    "discount_percent": 16.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GXBZYZWQ",
-    "image_url": "https://m.media-amazon.com/images/P/B0GXBZYZWQ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:25",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 26.99,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 26.99,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lampe de table sans fil pied e...immable STANDY MINI Rock H25cm",
-    "price": 23.9,
-    "reference_price": 35.15,
-    "discount_percent": 32.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07MQXR4ZQ",
-    "image_url": "https://m.media-amazon.com/images/P/B07MQXR4ZQ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:24",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 23.9,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 23.9,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Karx 07079 Lot de 6 Forets multifonction en Acier HSS",
-    "price": 12.95,
-    "reference_price": 22.02,
-    "discount_percent": 41.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00SRLM4CG",
-    "image_url": "https://m.media-amazon.com/images/P/B00SRLM4CG.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:23",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.95,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 12.95,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sains et Saufs",
-    "price": 15.99,
-    "reference_price": 24.18,
-    "discount_percent": 33.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FBGZVVNV",
-    "image_url": "https://m.media-amazon.com/images/P/B0FBGZVVNV.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:22",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 15.99,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "8",
-    "price": 14.99,
-    "reference_price": 22.19,
-    "discount_percent": 32.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FTMRQHM1",
-    "image_url": "https://m.media-amazon.com/images/P/B0FTMRQHM1.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:21",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Oehlbach i-Connect Câble Audio...laqués Or 2X fiche Jack 3,5 mm",
-    "price": 26.99,
-    "reference_price": 34.49,
-    "discount_percent": 21.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00HA00PFI",
-    "image_url": "https://m.media-amazon.com/images/P/B00HA00PFI.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:07",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 26.99,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 26.99,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
-      }
-    ]
-  },
-  {
-    "title": "HORI Manette filaire HORIPAD T... Pokémon Company International",
-    "price": 28.03,
-    "reference_price": 37.9,
-    "discount_percent": 26.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FQPHGFYB",
-    "image_url": "https://m.media-amazon.com/images/P/B0FQPHGFYB.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:10:36",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 28.03,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 28.03,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tivoly 10802470002 Ranger T15 ... Pointes et mèches Bois Plates",
-    "price": 46.23,
-    "reference_price": 59.0,
-    "discount_percent": 21.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B08JCWLS1P",
-    "image_url": "https://m.media-amazon.com/images/P/B08JCWLS1P.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:10:34",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 46.23,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 46.23,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Marvel Cosmic Invasion - PS5",
-    "price": 24.99,
-    "reference_price": 39.99,
-    "discount_percent": 37.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0G1Z7XHLJ",
-    "image_url": "https://m.media-amazon.com/images/P/B0G1Z7XHLJ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:10:33",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 24.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 24.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Red Dead Redemption PS5",
-    "price": 29.99,
-    "reference_price": 34.99,
-    "discount_percent": 14.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GXF9G7SS",
-    "image_url": "https://m.media-amazon.com/images/P/B0GXF9G7SS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:10:32",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Wish-Asha et la Bonne étoile",
-    "price": 9.99,
-    "reference_price": 15.99,
-    "discount_percent": 37.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CSSRR5HS",
-    "image_url": "https://m.media-amazon.com/images/P/B0CSSRR5HS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:10:25",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Vaiana 2",
-    "price": 9.99,
-    "reference_price": 16.99,
-    "discount_percent": 41.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DVWDD928",
-    "image_url": "https://m.media-amazon.com/images/P/B0DVWDD928.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:10:23",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T13:11:36.907750+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:12:14.048617+00:00"
-      }
-    ]
-  },
-  {
-    "title": "28 Ans Plus Tard",
-    "price": 9.99,
-    "reference_price": 20.03,
-    "discount_percent": 50.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FDH6H39X",
-    "image_url": "https://m.media-amazon.com/images/P/B0FDH6H39X.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:47:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Marsupilami",
-    "price": 9.99,
-    "reference_price": 15.02,
-    "discount_percent": 33.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GL9C17CM",
-    "image_url": "https://m.media-amazon.com/images/P/B0GL9C17CM.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:59",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Souviens-toi. l'été dernier [Blu-Ray]",
-    "price": 14.99,
-    "reference_price": 25.03,
-    "discount_percent": 40.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FHLX12NR",
-    "image_url": "https://m.media-amazon.com/images/P/B0FHLX12NR.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:58",
-    "category": "Culture & sorties",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 14.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Anaconda",
-    "price": 9.99,
-    "reference_price": 19.99,
-    "discount_percent": 50.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GD8Y5NM8",
-    "image_url": "https://m.media-amazon.com/images/P/B0GD8Y5NM8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:57",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Deadpool & Wolverine",
-    "price": 9.99,
-    "reference_price": 19.99,
-    "discount_percent": 50.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DJ9VHLB8",
-    "image_url": "https://m.media-amazon.com/images/P/B0DJ9VHLB8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:56",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lilo & Stitch [Blu-Ray]",
-    "price": 10.5,
-    "reference_price": 24.99,
-    "discount_percent": 58.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FKC23YLB",
-    "image_url": "https://m.media-amazon.com/images/P/B0FKC23YLB.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:55",
-    "category": "Culture & sorties",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.5,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 10.5,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Marche ou crève",
-    "price": 9.99,
-    "reference_price": 19.99,
-    "discount_percent": 50.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FWMQ3SSN",
-    "image_url": "https://m.media-amazon.com/images/P/B0FWMQ3SSN.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:53",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
       }
     ]
   },
@@ -24766,210 +24686,6 @@
       {
         "price": 889.99,
         "observed_at": "2026-10-14T20:20:31.709865+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Casque Moto BMW Modulable System 7 EVO",
-    "description": "411€ Le Casque Moto BMW Modulable System 7 EVO est conçu pour une utilisation routière polyvalente. *caractéristiques du produit :* - Casque modulable - Coque en carbone - Système de sécurité MIPS - Unisexe Description Le casque Moto BMW System 7 Evo est un casque unisexe destiné au Touring, tout comme à l'Urbain. Il se caractérise par sa mentonnière modulable et son accent sur la sécurité. La composition du casque BMW System 7 Evo : La coque extérieure du casque modulable BMW System 7 Evo existe en deux tailles, elle est composée de carbone donc vous offre un amortissement des chocs excellent pour un poids plume. La coque intérieure est faite de polystyrène expansé à segmentation multiple, afin de garantir votre protection tout en gardant un poids léger. Les mousses intérieures du casque BMW System 7 Evo sont faites de nouveaux matériaux déperlants afin de vous garder au sec en tout temps. Le confort du casque moto BMW System 7 Evo : Le casque System 7 Evo est équipé d'un mécanisme de visière et de joint optimisés pour éviter tout souci. Équipé d'une visière double-écran au nouveau design, l'intérieur est antibuée et les deux faces sont traitées anti-rayures . La visière pare-soleil est intégrée et commandée par coulisseau, elle reste accessible en mode jet. Le système de ventilation du casque est efficace, tout en gardant un excellent aérodynamisme et aéroacoustique. Avec le nouveau design Evo, le casque est équipé d'un spoiler de grande taille. Les mousses intérieures ont été pensées dans un but de grand confort. Un casque modulable avant tout : Le casque modulable repose sur un mécanisme à quatre articulations. L'ouverture de la partie menton se fait grâce à une touche centrale. La sécurité du casque modulable System 7 Evo BMW : Le casque BMW System 7 Evo est doté de la technologie MIPS qui vise à réduire la rotation en cas de chute, et vous protège donc au maximum. Aussi, un bandeau de nuque est intégré pour un maintien parfait. Le système de fermeture est d'une sangle avec boucle clip, afin de garantir sa stabilité en cas de chute. En cas de défaut, le casque est couvert par une garantie constructeur de 5 ans. Le casque moto BMW modulable System 7 Evo est compatible avec le système de communication V3 pour casque System 7. Le casque est livré avec une visière claire équipée d’un écran antibuée PinLock. Les visières colorées ou teintées sont disponibles en option et vendues séparément. Taille du XS au 3XL",
-    "price": 411.0,
-    "reference_price": 822.0,
-    "discount_percent": 50.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/casque-moto-bmw-modulable-system-7-evo-3431958",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/IovH9/3431958_1/re/1200x1200/qt/90/3431958_1.jpg",
-    "detected_at": "2026-10-13T20:03:32+00:00",
-    "category": "Auto & moto",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 411.0,
-        "observed_at": "2026-10-13T20:15:42.890292+00:00"
-      },
-      {
-        "price": 411.0,
-        "observed_at": "2026-10-14T20:20:31.709865+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Table Agerby - Ø119cm, verre/chêne naturel",
-    "description": "175€ - Jysk La table AGERBY Ø119 verre/chêne naturel est une table de salle à manger ronde. **spécifications du produit :** - Plateau en verre trempé - Pieds en chêne massif - Bois traité à l'huile - Dimensions : Ø119 x H76 cm",
-    "price": 175.0,
-    "reference_price": 269.0,
-    "discount_percent": 34.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/table-agerby-o119-verrechene-naturel-3431957",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/iE2vr/3431957_1/re/1200x1200/qt/90/3431957_1.jpg",
-    "detected_at": "2026-10-13T20:02:10+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 175.0,
-        "observed_at": "2026-10-13T20:15:42.890292+00:00"
-      },
-      {
-        "price": 175.0,
-        "observed_at": "2026-10-14T20:20:31.709865+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Disney - Stitch (43249)",
-    "description": "36,79€ - Carrefour LEGO Disney Stitch 43249 36.79€ au lieu de 45.99€ Livraison 1.99€ en magasin, 3.99€ en point relais A optimiser avec le cashback 5% Boursobank, soit 1.84€ crédités sur la carte soit le set lego à 34.95€ Une figurine de Stitch pour les enfants dès 9 ans qui stimule l'imagination pendant la construction Inclus le personnage de Lilo et Stitch à exposer, avec un cornet de glace à construire et une fleur La figurine de Stitch peut bouger les oreilles, tourner la tête et tenir une glace à la main Recréez Stitch dans sa chemise hawaïenne, avec un cornet de glace et une fleur décorative",
-    "price": 36.79,
-    "reference_price": 45.99,
-    "discount_percent": 20.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-disney-stitch-43249-3431952",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/q7FAN/3431952_1/re/1200x1200/qt/90/3431952_1.jpg",
-    "detected_at": "2026-10-13T19:56:30+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.carrefour.fr/p/lego-disney-stitch-43249-lego-5702017583624",
-    "price_history": [
-      {
-        "price": 36.79,
-        "observed_at": "2026-10-13T20:15:42.890292+00:00"
-      },
-      {
-        "price": 36.79,
-        "observed_at": "2026-10-14T20:20:31.709865+00:00"
-      }
-    ]
-  },
-  {
-    "title": "[Habitants] Distribution Gratuite de Pièges à Moustiques Tigres - Ormes (45)",
-    "description": "Lauréat du Budget Participatif 2026, le projet \"Pièges à Moustiques\", sera concrétisé par une Distribution Gratuite de Pièges à Moustiques Tigres prévue début du Printemps 2027 . Pour en bénéficier, inscription Obligatoire dès à présent sur la liste d’attente en envoyant un mail à budgetparticipatif@ville-ormes.fr en indiquant : nom et prénom, adresse postale, et numéro de téléphone. Distribution d'1 Piège/Foyer, dans la limite des stocks disponibles. Signature d’une charte obligatoire. Infos",
-    "price": 188.98,
-    "reference_price": 206.0,
-    "discount_percent": 8.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/habitants-distribution-gratuite-de-pieges-a-moustiques-tigres-ormes-45-3431951",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/5HzCR/3431951_1/re/1200x1200/qt/90/3431951_1.jpg",
-    "detected_at": "2026-10-13T19:56:16+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 188.98,
-        "observed_at": "2026-10-14T22:59:45.786658+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jeu de construction Lego Speed Champions Flash McQueen 77255",
-    "description": "17,90€ - Amazon VOITURE JOUET ROUGE FLASH McQUEEN DU FILM CARS – Les enfants dès 9 ans peuvent célébrer le 20ème anniversaire du film Cars de Disney Pixar avec le jouet de construction LEGO Speed Champions|Flash McQueen DESIGN & ACCESSOIRES AUTHENTIQUES – La réplique reprend des caractéristiques, dont le sourire de Flash, l'éclair jaune & orange, les autocollants de phares, le numéro 95, le logo du sponsor Rust-eze et l’inscription « Lightyear » sur les pneus CHÂSSIS DÉTAILLÉ – Ce modèle de Flash McQueen est la seule voiture LEGO Speed Champions dotée d’un châssis détaillé, pour un jeu encore plus passionnant MAQUETTE CARS À L'ÉCHELLE D'UNE MINIFIGURINE – Après la construction amusante de ce set collector Flash McQueen, les enfants peuvent l'exposer fièrement comme décoration sur une étagère ou un bureau CADEAU POUR FANS DE VOITURES – Ce jouet Flash McQueen offre une expérience de construction en famille et de jeu gratifiante et constitue une superbe idée de cadeau pour un garçon ou une fille dès 9 ans DÉVELOPPEZ LA PASSION DE LA COURSE – Découvrez d'autres sets de construction de voitures LEGO Speed Champions (vendus séparément) regorgeant de détails authentiques VOITURES DE LÉGENDE, POUR JOUER ET EXPOSER – Les kits LEGO Speed Champions invitent les enfants et les fans de voitures à construire des répliques de quelques-unes des plus grandes légendes automobiles",
-    "price": 17.9,
-    "reference_price": 17.99,
-    "discount_percent": 0.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-speed-champions-flash-mcqueen-77255-3431949",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/JUA1y/3431949_1/re/1200x1200/qt/90/3431949_1.jpg",
-    "detected_at": "2026-10-13T19:52:45+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0FPXCYXHM?smid=A1X6FK5RDHNB96",
-    "price_history": [
-      {
-        "price": 17.9,
-        "observed_at": "2026-10-13T20:15:42.890292+00:00"
-      },
-      {
-        "price": 17.9,
-        "observed_at": "2026-10-14T20:20:31.709865+00:00"
-      }
-    ]
-  },
-  {
-    "title": "L'Odyssée (2026) Édition Collector fnac",
-    "description": "29,99€ Je sais ce n’ai pas vraiment un deal, mais je pense que cela va vite partir alors je partageL'Odyssée (2026) Édition Collector Spéciale Fnac SteelBook® Blu-ray 4K Ultra HD Christopher Nolan - L'Odyssée OEn précommande, livraison prévue à partir du 18 novembre 2026",
-    "price": 29.99,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lodyssee-2026-edition-collector-fnac-3431950",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/4e83Q/3431950_1/re/1200x1200/qt/90/3431950_1.jpg",
-    "detected_at": "2026-10-13T19:50:58+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Enregistreur vocal professionnel Rexsun - 64 Go, réduction de bruit, double microphone HD",
-    "description": "5,99€ - JoyBuy [Enregistrement en un clic en 2024] – Nouvelle version optimisée pour un démarrage instantané sans allumer d'avance. capturez l'audio en quelques secondes sans perte de détails. [64 Go de largeur] - prend en charge une carte microSD amovible de 64 Go (jusqu'à 800 heures). échangez facilement pour plus d'espace. livré avec une carte de 64 Go. [Chargeur type-C & 22 h d'enregistrement] - charge rapide en 1,5 h via port type-C (rare sur le marché). enregistrez pendant la charge sans interruption. batterie lithium rechargeable pour 22 h d'enregistrement continu et 20 jours en veille. protection auto-sauvegarde en cas de faible batterie. [Microphones performants & réduction de bruit] - double microphone omnidirectionnel (360°, 18 m) + puce ANC et DSP pour une qualité audio optimale (jusqu'à 3072 kbps). [Compact & robuste] – design léger en métal (9×3,2×1,5 cm, 56 g). parfait pour les étudiants/professionnels/enseignants. [Contenu de l’emballage] – enregistreur, carte 64 Go, câble type-C, écouteurs, manuel.",
-    "price": 5.99,
-    "reference_price": 34.99,
-    "discount_percent": 82.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/enregistreur-vocal-professionnel-rexsun-64-go-reduction-de-bruit-double-microphone-hd-3431948",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/hQJnJ/3431948_1/re/1200x1200/qt/90/3431948_1.jpg",
-    "detected_at": "2026-10-13T19:47:25+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 5.99,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sweat Nike Sportswear CRW - blanc, Tailel XXL à 4XL",
-    "description": "17,50€ - Privé by Zalando",
-    "price": 17.5,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/nike-sportswear-crw-sweat-a-capuche-blanc-3431947",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/YiLhv/3431947_1/re/1200x1200/qt/90/3431947_1.jpg",
-    "detected_at": "2026-10-13T19:46:15+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 17.5,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 17.5,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
   }
