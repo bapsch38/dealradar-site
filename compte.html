@@ -124,10 +124,74 @@ function renderProfile() {
   const saved=profile.preferences||{};
   byId("pref-list").innerHTML=categories.map(category=>'<label class="pref"><input type="checkbox" value="'+category.replace(/&/g,"&amp;").replace(/"/g,"&quot;")+'" '+((saved.categories||[]).includes(category)?"checked":"")+'> '+category+'</label>').join("");
   byId("personalized").checked=saved.personalized!==false;
+  byId("account-tools").classList.remove("hidden");
+  byId("favorite-category").innerHTML='<option value="">Non précisée</option>'+categories.map(category=>'<option value="'+escapeHTML(category)+'">'+escapeHTML(category)+'</option>').join("");
+  renderCollections();
+  loadMyDiscussions();
+}
+function escapeHTML(value) {
+  return String(value ?? "").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
+}
+function safeHttpUrl(value) {
+  try { const parsed=new URL(value); return ["http:","https:"].includes(parsed.protocol)?parsed.href:""; } catch (_) { return ""; }
+}
+function renderCollections() {
+  const saved=profile?.preferences||{}, favorites=Array.isArray(saved.favorites)?saved.favorites:[], alerts=Array.isArray(saved.alerts)?saved.alerts:[];
+  byId("favorite-list").innerHTML=favorites.length?favorites.map((item,index)=>{
+    const link=safeHttpUrl(item.url), price=item.current_price?("Prix noté : "+escapeHTML(item.current_price)+" €"):"Prix actuel non renseigné";
+    return '<article class="saved-item"><div><strong>'+escapeHTML(item.title)+'</strong><small>'+price+(item.original_price?' · Prix d’origine : '+escapeHTML(item.original_price)+' €':'')+(item.category?' · '+escapeHTML(item.category):'')+(link?'<br><a href="'+escapeHTML(link)+'" target="_blank" rel="noopener noreferrer" style="color:var(--green)">Ouvrir l’offre ↗</a>':'')+'</small></div><div class="item-actions"><button type="button" class="secondary danger" data-remove-favorite="'+index+'">Retirer</button></div></article>';
+  }).join(""):'<p class="muted">Aucun favori pour le moment. Ajoute un produit avec le formulaire ci-dessus.</p>';
+  byId("alert-list").innerHTML=alerts.length?alerts.map((item,index)=>{
+    const link=safeHttpUrl(item.url), current=item.current_price?("Prix actuel noté : "+escapeHTML(item.current_price)+" €"):"Prix actuel inconnu";
+    return '<article class="saved-item"><div><strong>'+escapeHTML(item.title)+'</strong><small>Objectif : '+Number(item.target_price).toLocaleString("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2})+' € · '+current+(link?'<br><a href="'+escapeHTML(link)+'" target="_blank" rel="noopener noreferrer" style="color:var(--green)">Voir le produit ↗</a>':'')+'<br>Suivi manuel : aucune notification automatique n’est envoyée pour le moment.</small></div><div class="item-actions"><button type="button" class="secondary danger" data-remove-alert="'+index+'">Supprimer</button></div></article>';
+  }).join(""):'<p class="muted">Aucune alerte enregistrée. Choisis un produit et un prix cible pour commencer.</p>';
+  const tracked=[...favorites.map(x=>({title:x.title,price:x.current_price,kind:"Favori"})),...alerts.map(x=>({title:x.title,price:x.current_price,kind:"Alerte"}))];
+  byId("tracking-summary").innerHTML=tracked.length?tracked.map(item=>'<article class="saved-item"><div><strong>'+escapeHTML(item.title)+'</strong><small>'+item.kind+' · '+(item.price?escapeHTML(item.price)+' € noté':'Aucun prix actuel enregistré')+'</small></div></article>').join(""):'<p class="muted">Ajoute des favoris ou des alertes pour centraliser ici les produits que tu surveilles. L’historique automatique n’est pas encore disponible.</p>';
+  byId("favorite-list").querySelectorAll("[data-remove-favorite]").forEach(button=>button.addEventListener("click",()=>changeCollection("favorites",Number(button.dataset.removeFavorite))));
+  byId("alert-list").querySelectorAll("[data-remove-alert]").forEach(button=>button.addEventListener("click",()=>changeCollection("alerts",Number(button.dataset.removeAlert))));
+}
+async function changeCollection(key,index) {
+  const saved=profile.preferences||{}, favorites=[...(saved.favorites||[])], alerts=[...(saved.alerts||[])];
+  (key==="favorites"?favorites:alerts).splice(index,1);
+  await saveCollections(favorites,alerts,key==="favorites"?"favorite-status":"alert-status","Élément retiré.");
+}
+async function saveCollections(favorites,alerts,statusId,successMessage) {
+  setStatus(statusId,"Enregistrement sur ton compte…");
+  try {
+    profile=await apiCall("/api/auth/me",{method:"PATCH",body:JSON.stringify({categories:profile.preferences?.categories||[],personalized:profile.preferences?.personalized!==false,favorites,alerts})});
+    renderCollections(); setStatus(statusId,successMessage);
+  } catch(error) { setStatus(statusId,error.message,true); }
+}
+async function loadMyDiscussions() {
+  try {
+    const result=await apiCall("/api/discussions/mine"), items=result.items||[];
+    byId("discussion-list").innerHTML=items.length?items.map(item=>'<article class="saved-item"><div><strong>'+escapeHTML(item.title)+'</strong><small>'+escapeHTML(item.category)+' · '+Number(item.reply_count||0)+' réponse(s) · '+new Date(item.updated_at||item.created_at).toLocaleDateString("fr-FR")+'</small></div><a class="secondary" href="./discussions.html">Voir la communauté ↗</a></article>').join(""):'<p class="muted">Tu n’as pas encore créé de discussion. Tu peux lancer un sujet depuis la page Discussions.</p>';
+  } catch(error) { byId("discussion-list").innerHTML='<p class="muted">Impossible de charger tes discussions pour le moment. '+escapeHTML(error.message)+'</p>'; }
 }
 async function loadProfile() { profile=await apiCall("/api/auth/me"); renderProfile(); }
 byId("tab-register").addEventListener("click",()=>setMode("register"));
 byId("tab-login").addEventListener("click",()=>setMode("login"));
+byId("favorite-form").addEventListener("submit",async event=>{
+  event.preventDefault();
+  const title=byId("favorite-title").value.trim(), url=byId("favorite-url").value.trim();
+  if(url&&!safeHttpUrl(url)){setStatus("favorite-status","Le lien doit commencer par http:// ou https://",true);return;}
+  const saved=profile?.preferences||{}, favorites=[...(saved.favorites||[])], alerts=[...(saved.alerts||[])];
+  favorites.unshift({title,url,current_price:byId("favorite-current").value.trim(),original_price:byId("favorite-original").value.trim(),category:byId("favorite-category").value,saved_at:new Date().toISOString()});
+  if(favorites.length>100){setStatus("favorite-status","Limite de 100 favoris atteinte. Retire d’abord un favori.",true);return;}
+  await saveCollections(favorites,alerts,"favorite-status","Favori enregistré sur ton compte.");
+  byId("favorite-form").reset();
+});
+byId("alert-form").addEventListener("submit",async event=>{
+  event.preventDefault();
+  const title=byId("alert-title").value.trim(), url=byId("alert-url").value.trim(), target=Number(byId("alert-target").value);
+  if(url&&!safeHttpUrl(url)){setStatus("alert-status","Le lien doit commencer par http:// ou https://",true);return;}
+  if(!Number.isFinite(target)||target<=0){setStatus("alert-status","Saisis un prix cible supérieur à zéro.",true);return;}
+  const saved=profile?.preferences||{}, favorites=[...(saved.favorites||[])], alerts=[...(saved.alerts||[])];
+  alerts.unshift({title,url,target_price:target,current_price:byId("alert-current").value.trim(),created_at:new Date().toISOString(),active:true});
+  if(alerts.length>50){setStatus("alert-status","Limite de 50 alertes atteinte. Supprime d’abord une alerte.",true);return;}
+  await saveCollections(favorites,alerts,"alert-status","Alerte enregistrée. Le contrôle automatique et les notifications ne sont pas encore activés.");
+  byId("alert-form").reset();
+});
 byId("auth-form").addEventListener("submit",async event=>{
   event.preventDefault();
   if(!API_BASE){setStatus("auth-status","L’API n’est pas encore configurée. Aucun compte n’a été créé.",true);return;}
