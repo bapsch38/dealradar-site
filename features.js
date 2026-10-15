@@ -34,22 +34,22 @@
   const targets = () => read(KEY.targets, {});
   const preferences = () => read(KEY.preferences, { categories: [], personalized: true });
   const cleanUrl = value => typeof value === "string" && /^https:\/\//i.test(value) ? value : "";
-  const priceOf = offer => {
-    const raw = offer.price ?? offer.current_price;
-    if (typeof raw === "number") return raw > 0 ? raw : null;
+  // Interprète les formats français (79,99 € / 1.299 €) et décimaux (79.99)
+  // sans transformer par erreur un prix de référence de 79.99 € en 7 999 €.
+  const parseMoney = raw => {
+    if (typeof raw === "number") return Number.isFinite(raw) && raw > 0 ? raw : null;
     if (typeof raw !== "string" || !raw.trim()) return null;
-    const normalized = raw.trim().replace(/[€\s\u00a0]/g, "").includes(",") ? raw.trim().replace(/[€\s\u00a0]/g, "").replace(/\./g, "").replace(",", ".") : raw.trim().replace(/[€\s\u00a0]/g, "");
+    let normalized = raw.trim().replace(/[€\s\u00a0]/g, "");
+    if (normalized.includes(",")) {
+      normalized = normalized.replace(/\./g, "").replace(",", ".");
+    } else if (/^\d{1,3}(?:\.\d{3})+$/.test(normalized)) {
+      normalized = normalized.replace(/\./g, "");
+    }
     const parsed = Number(normalized);
     return Number.isFinite(parsed) && parsed > 0 ? parsed : null;
   };
-  const referenceOf = offer => {
-    const raw = offer.reference_price ?? offer.original_price ?? offer.list_price;
-    if (typeof raw === "number") return raw > 0 ? raw : null;
-    if (typeof raw !== "string" || !raw.trim()) return null;
-    const normalized = raw.trim().replace(/[€\s\u00a0]/g, "").replace(/\./g, "").replace(",", ".");
-    const parsed = Number(normalized);
-    return Number.isFinite(parsed) && parsed > 0 ? parsed : null;
-  };
+  const priceOf = offer => parseMoney(offer.price ?? offer.current_price);
+  const referenceOf = offer => parseMoney(offer.reference_price ?? offer.original_price ?? offer.list_price);
   const money = value => value == null ? "Prix non disponible" : new Intl.NumberFormat("fr-FR", {style:"currency",currency:"EUR"}).format(value);
   const discountOf = offer => {
     const p = priceOf(offer), r = referenceOf(offer);
