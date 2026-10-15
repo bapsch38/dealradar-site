@@ -1,5 +1,383 @@
 [
   {
+    "title": "Carrera Hybrid 50052001",
+    "price": 53.73,
+    "reference_price": 57.42,
+    "discount_percent": 6.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DFCTDKCF",
+    "image_url": "https://m.media-amazon.com/images/P/B0DFCTDKCF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:14",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 53.73,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Parat Sacoche de ceinture big pour torches - 6911014061",
+    "price": 7.99,
+    "reference_price": 11.99,
+    "discount_percent": 33.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0063D7P1K",
+    "image_url": "https://m.media-amazon.com/images/P/B0063D7P1K.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:13",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.99,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 514.1105 - Jeu de 3 a...'' - Pour visseuse et perceuse",
+    "price": 6.98,
+    "reference_price": 9.1,
+    "discount_percent": 23.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NYT4B8",
+    "image_url": "https://m.media-amazon.com/images/P/B001NYT4B8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:12",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.98,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ravensburger Puzzle Cadre Phot...at'Patrouille 37 pièces, 06155",
+    "price": 7.9,
+    "reference_price": 8.49,
+    "discount_percent": 6.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B079T6Y1PY",
+    "image_url": "https://m.media-amazon.com/images/P/B079T6Y1PY.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:11",
+    "category": "Jouets & jeux",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.9,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Juego de bits, bit TY de 29 mm...M PH1x29 (5); 29er Torsionsbit",
+    "price": 18.18,
+    "reference_price": 21.89,
+    "discount_percent": 16.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0762D4J7D",
+    "image_url": "https://m.media-amazon.com/images/P/B0762D4J7D.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:09",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.18,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 2 608 628 407 Fraise V 8 mm 16 x 16 x 45 mm",
+    "price": 12.99,
+    "reference_price": 13.67,
+    "discount_percent": 5.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000XIXMUE",
+    "image_url": "https://m.media-amazon.com/images/P/B000XIXMUE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:08",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 12.99,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "DIGITUS DN-10-ORG-1U-B Accesso...s Panneau de Gestion de câbles",
+    "price": 17.77,
+    "reference_price": 23.09,
+    "discount_percent": 23.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08T1JJQD2",
+    "image_url": "https://m.media-amazon.com/images/P/B08T1JJQD2.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:07",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.77,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Professional 2607001730 ...Epaisseur, 25mm Longueur, Gris",
+    "price": 3.94,
+    "reference_price": 10.94,
+    "discount_percent": 64.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001418DJE",
+    "image_url": "https://m.media-amazon.com/images/P/B001418DJE.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 3.94,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lindy Câble Audio Premium 2 x ...mâle vers Jack 3,5mm mâle, 10m",
+    "price": 18.53,
+    "reference_price": 20.65,
+    "discount_percent": 10.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01N77K0BQ",
+    "image_url": "https://m.media-amazon.com/images/P/B01N77K0BQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:05",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 18.53,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "kwb compteur d’humidité , parf...nerie, incl. 9 V bloc batterie",
+    "price": 25.99,
+    "reference_price": 33.78,
+    "discount_percent": 23.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B003F0V1JQ",
+    "image_url": "https://m.media-amazon.com/images/P/B003F0V1JQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:04",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 25.99,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools - 503.4213 - Clé mixt...tion satinée - Chrome vanadium",
+    "price": 17.72,
+    "reference_price": 19.58,
+    "discount_percent": 9.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NYXIVA",
+    "image_url": "https://m.media-amazon.com/images/P/B001NYXIVA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:03",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 17.72,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Siemens Bague pour Neozed Tail...e = D02 35 A 50 pièces 5SH5035",
+    "price": 14.03,
+    "reference_price": 15.58,
+    "discount_percent": 9.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B000UW3HZ8",
+    "image_url": "https://m.media-amazon.com/images/P/B000UW3HZ8.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:02",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.03,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ersa Ersadur 0832YD/0832WD Pan...lent Forme burin courbe 2,5 mm",
+    "price": 16.54,
+    "reference_price": 25.13,
+    "discount_percent": 34.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00EIQWMMQ",
+    "image_url": "https://m.media-amazon.com/images/P/B00EIQWMMQ.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:32:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.54,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "TFA Dostmann thermo-hygromètre...de humidité dans maison, blanc",
+    "price": 6.49,
+    "reference_price": 7.99,
+    "discount_percent": 18.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DQVL6D9J",
+    "image_url": "https://m.media-amazon.com/images/P/B0DQVL6D9J.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:31:59",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.49,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Kirschen 1001003 Ciseaux à boi... en Charme, Beige/Argent, 3 mm",
+    "price": 20.99,
+    "reference_price": 24.99,
+    "discount_percent": 16.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B008KK264U",
+    "image_url": "https://m.media-amazon.com/images/P/B008KK264U.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:31:57",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 20.99,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Wera 867/1 Z TX 30 DIY 0507241...mbouts extra-rigides 10 pièces",
+    "price": 14.96,
+    "reference_price": 18.4,
+    "discount_percent": 18.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001552KFC",
+    "image_url": "https://m.media-amazon.com/images/P/B001552KFC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:31:56",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.96,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Equip 605590 Network Cable (1 ...P (S-STP), RJ-45, RJ-45, noir)",
+    "price": 7.95,
+    "reference_price": 8.28,
+    "discount_percent": 4.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B002OIP0YC",
+    "image_url": "https://m.media-amazon.com/images/P/B002OIP0YC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:31:55",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.95,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Axing EOC 2-32 Ethernet Over C...Coaxial WiFi 1800Mbps 5-204MHz",
+    "price": 254.09,
+    "reference_price": 291.73,
+    "discount_percent": 12.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08JQL24NL",
+    "image_url": "https://m.media-amazon.com/images/P/B08JQL24NL.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 02:31:54",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 254.09,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
+      }
+    ]
+  },
+  {
     "title": "Mèche à Bois Hélicoïdale Six P...Diamètre, 170mm Longueur Utile",
     "price": 12.88,
     "reference_price": 15.9,
@@ -8375,6 +8753,10 @@
       {
         "price": 431.82,
         "observed_at": "2026-10-14T02:14:02.361860+00:00"
+      },
+      {
+        "price": 431.82,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
       }
     ]
   },
@@ -10450,456 +10832,6 @@
       {
         "price": 24.74,
         "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Midland - Talkie Walkie Longue...Rechargeable avec Chargeur Usb",
-    "price": 81.5,
-    "reference_price": 107.29,
-    "discount_percent": 24.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B08L6BXDSQ",
-    "image_url": "https://m.media-amazon.com/images/P/B08L6BXDSQ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:38:40",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 81.5,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
-      },
-      {
-        "price": 81.5,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Hazet 198-8 Mesurette",
-    "price": 25.0,
-    "reference_price": 37.78,
-    "discount_percent": 33.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B007IQX2QS",
-    "image_url": "https://m.media-amazon.com/images/P/B007IQX2QS.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:54",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.0,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 25.0,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "TAMS Elektronik 51-04118-01-C ...oire pour module de base Hades",
-    "price": 10.28,
-    "reference_price": 36.34,
-    "discount_percent": 71.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07K7PPC39",
-    "image_url": "https://m.media-amazon.com/images/P/B07K7PPC39.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:52",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.28,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 10.28,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "KS TOOLS 911.1344 Douille tour... KS 1/2 XZN, M12 longueur55 mm",
-    "price": 5.0,
-    "reference_price": 17.08,
-    "discount_percent": 70.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B001NYQWTK",
-    "image_url": "https://m.media-amazon.com/images/P/B001NYQWTK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:51",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.0,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 5.0,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "EPSON KIT Maint WF78/ET58/ET166/L65, Noir",
-    "price": 25.99,
-    "reference_price": 32.52,
-    "discount_percent": 20.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B085LR8Q6N",
-    "image_url": "https://m.media-amazon.com/images/P/B085LR8Q6N.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:46",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 25.99,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Whisker Waters Playstation 5 - Import Europe",
-    "price": 21.79,
-    "reference_price": 30.99,
-    "discount_percent": 29.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CSZ88L91",
-    "image_url": "https://m.media-amazon.com/images/P/B0CSZ88L91.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:43",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 21.79,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 21.79,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "ABUS Cadenas Granit 37/55HB50 ...Haute, Acier Trempé, Niveau 10",
-    "price": 92.89,
-    "reference_price": 124.98,
-    "discount_percent": 25.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B014USEO4U",
-    "image_url": "https://m.media-amazon.com/images/P/B014USEO4U.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:42",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 92.89,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 92.89,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "GLORIOUS The Glorious GMMK Compact Clavier",
-    "price": 79.99,
-    "reference_price": 89.95,
-    "discount_percent": 11.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07L32V19W",
-    "image_url": "https://m.media-amazon.com/images/P/B07L32V19W.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:41",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Canon PP-201 Papier Photo Brillant Format A3+ (20 feuilles)",
-    "price": 40.49,
-    "reference_price": 46.0,
-    "discount_percent": 12.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00126I3M8",
-    "image_url": "https://m.media-amazon.com/images/P/B00126I3M8.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:20:39",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 40.49,
-        "observed_at": "2026-10-13T17:21:46.474796+00:00"
-      },
-      {
-        "price": 40.49,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Equip 606146 Câble patch fin catégorie 6A F/FTP Rouge 3 m",
-    "price": 5.11,
-    "reference_price": 13.11,
-    "discount_percent": 61.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B09DKQ779G",
-    "image_url": "https://m.media-amazon.com/images/P/B09DKQ779G.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:03:42",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.11,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      },
-      {
-        "price": 5.11,
-        "observed_at": "2026-10-14T17:21:07.406232+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sodastream Fizz & Go Easy Mix ...chines Sodastream, blanc sable",
-    "price": 26.16,
-    "reference_price": 32.21,
-    "discount_percent": 18.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GK354F68",
-    "image_url": "https://m.media-amazon.com/images/P/B0GK354F68.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:03:41",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 26.16,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      },
-      {
-        "price": 26.16,
-        "observed_at": "2026-10-14T17:21:07.406232+00:00"
-      }
-    ]
-  },
-  {
-    "title": "rOtring 600 Portemine | Mine H...tidérapante et corps hexagonal",
-    "price": 18.99,
-    "reference_price": 32.34,
-    "discount_percent": 41.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DSJMN338",
-    "image_url": "https://m.media-amazon.com/images/P/B0DSJMN338.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:03:33",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 18.99,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      },
-      {
-        "price": 18.99,
-        "observed_at": "2026-10-14T17:21:07.406232+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Melissa & Doug Blockables à em...ts (16 pièces) - Certifiés FSC",
-    "price": 7.42,
-    "reference_price": 14.99,
-    "discount_percent": 50.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DMQFPBRL",
-    "image_url": "https://m.media-amazon.com/images/P/B0DMQFPBRL.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:03:30",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 7.42,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      },
-      {
-        "price": 7.42,
-        "observed_at": "2026-10-14T17:21:07.406232+00:00"
-      }
-    ]
-  },
-  {
-    "title": "KS Tools 160.0705 Purgeur de l...e frein 20l BS 20 - éléctrique",
-    "price": 1173.2,
-    "reference_price": 1403.04,
-    "discount_percent": 16.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B007XUFPAK",
-    "image_url": "https://m.media-amazon.com/images/P/B007XUFPAK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:03:28",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 1173.2,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      },
-      {
-        "price": 1173.2,
-        "observed_at": "2026-10-14T17:21:07.406232+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Canon LU-101 Papier Photo Lust...A3+ (20 feuilles) - 260g/m², L",
-    "price": 30.24,
-    "reference_price": 60.49,
-    "discount_percent": 50.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B009DKZZ4O",
-    "image_url": "https://m.media-amazon.com/images/P/B009DKZZ4O.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:03:20",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 30.24,
-        "observed_at": "2026-10-13T17:04:44.923524+00:00"
-      },
-      {
-        "price": 30.24,
-        "observed_at": "2026-10-14T17:21:07.406232+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Severin Barbecue Électrique Su...ed, Céramique Sans PFAS, 2000W",
-    "price": 46.2,
-    "reference_price": 57.67,
-    "discount_percent": 19.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GHSX56B1",
-    "image_url": "https://m.media-amazon.com/images/P/B0GHSX56B1.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:48:02",
-    "category": "Jardin & extérieur",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 46.2,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 46.2,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Wera 350 Tournevis Tom Pouce/b...le cruciforme PH, PH 2 x 25 mm",
-    "price": 5.35,
-    "reference_price": 12.66,
-    "discount_percent": 57.7,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B085CS81BK",
-    "image_url": "https://m.media-amazon.com/images/P/B085CS81BK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:48:01",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 5.35,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 5.35,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Gravity SA VESA 1 - Adaptateur...iteur sur pied à tube de 35 mm",
-    "price": 36.0,
-    "reference_price": 50.41,
-    "discount_percent": 28.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07NWXPHCP",
-    "image_url": "https://m.media-amazon.com/images/P/B07NWXPHCP.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 16:47:57",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 36.0,
-        "observed_at": "2026-10-13T16:48:54.697541+00:00"
-      },
-      {
-        "price": 36.0,
-        "observed_at": "2026-10-14T16:57:28.991143+00:00"
       }
     ]
   },
@@ -23107,6 +23039,10 @@
       {
         "price": 549.99,
         "observed_at": "2026-10-14T02:14:02.361860+00:00"
+      },
+      {
+        "price": 549.99,
+        "observed_at": "2026-10-15T02:33:29.408386+00:00"
       }
     ]
   },
@@ -24191,162 +24127,6 @@
       {
         "price": 288.06,
         "observed_at": "2026-10-14T21:15:34.516298+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Baskets enfants Lacoste T-Clip - Blanc et rose poudré du 21,5 au 27,5",
-    "description": "22,90€ - Showroomprivé Bonjour la commu, Un excellent prix pour cette paire de baskets Lacoste enfants modèle T-Clip blanc et rose poudré. Pointures du 21,5 au 27,5 23,90€ pour ce même modèle du 28 au 34. https://www.showroomprive.com/link/product/41839851",
-    "price": 22.9,
-    "reference_price": 27.91,
-    "discount_percent": 18.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/baskets-enfants-lacoste-t-clip-blanc-et-rose-poudre-du-215-au-275-3431975",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/UdEGw/3431975_1/re/1200x1200/qt/90/3431975_1.jpg",
-    "detected_at": "2026-10-13T20:46:12+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
-    "merchant_url": "https://www.showroomprive.com/link/product/41839852",
-    "price_history": [
-      {
-        "price": 22.9,
-        "observed_at": "2026-10-13T21:12:10.951643+00:00"
-      },
-      {
-        "price": 22.9,
-        "observed_at": "2026-10-14T21:15:34.516298+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Radiateur soufflant en céramique Amazon basics - avec thermostat réglable, 1800 W",
-    "description": "20,89€ - Amazon Chauffe une pièce en quelques minutes, idéal pour les matins froids Fonctionne discrètement sans déranger, même en mode haute puissance Réglez le thermostat pour maintenir une température constante sans surveillance Résumé à partir des informations sur le produit Radiateur d’intérieur en céramique avec thermostat réglable offrant une chaleur confortable - idéal pour la maison ou le bureau 1800 watts, haute température, 3 réglages : faible, fort ou ventilateur seul. Un témoin d’alimentation indique que le radiateur est branché Utilisation sans danger : interrupteur d’arrêt automatique en cas de bascule et protection anti-surchauffe avec arrêt automatique ; certifié TUV Avec une poignée pour un transport facile ; ne convient pas pour une utilisation dans une salle de bain, une buanderie, ou autres pièces très humides Couleur noire ou argentée au choix Spécifications Marque: Amazon Basics Caractéristique spéciale: Fort Couleur: Argenté Facteur de forme: Piédestal Utilisation intérieure/extérieure: Intérieur Source d'alimentation: Câble électrique Méthode de chauffage: Convection Utilisations recommandées pour le produit: Maison Type de fixation: Montage sur table Type de pièce: bureau Caractéristiques spéciales: Fort Utilisation extérieure ou intérieure: Intérieur Source d’alimentation: Câble électrique Usages recommandés pour le produit: Maison Type de montage: Montage sur table Type de chambre: bureau Type d’élément chauffant: Rayonnant Production de chaleur: 1800 Watts Type d’alimentation: Électrique Nombre de vitesses: 3 Tension: 120 Volts Pays d’origine: Chine Numéro du modèle: DQ075SILVER - EU4 Nombre d’articles dans l'unité vendue au client: 1 Unité de comptage: 1.0 unité UPC: 192233026251 Fabricant: Amazon Référence de pièce: DQ075SILVER - EU4 Classement des meilleures ventes d'Amazon: 113 en Cuisine et Maison (Voir les 100 premiers en Cuisine et Maison) 3 en Radiateurs à soufflerie ASIN: B07D3FNGKJ Moyenne des commentaires client: 4,4 4,4 sur 5 étoiles (2 032) 4,4 sur 5 étoiles Poids de l'article: 1,5 Kilogrammes GTIN: 192233026251 Commentaires client",
-    "price": 20.89,
-    "reference_price": 43.98,
-    "discount_percent": 52.5,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/radiateur-soufflant-en-ceramique-amazon-basics-avec-thermostat-reglable-1800-w-3431976",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/EknDc/3431976_1/re/1200x1200/qt/90/3431976_1.jpg",
-    "detected_at": "2026-10-13T20:45:41+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
-    "merchant_url": "https://www.amazon.fr/dp/B07D3FNGKJ?psc=1",
-    "price_history": [
-      {
-        "price": 20.89,
-        "observed_at": "2026-10-13T21:12:10.951643+00:00"
-      },
-      {
-        "price": 20.89,
-        "observed_at": "2026-10-14T21:15:34.516298+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Outer Wilds sur PC, Xbox One et Xbox Series XIS (Dématérialisé - Store Islande, 12,49€ sur le Store Français)",
-    "description": "8,62€ - Xbox Store Vous obtenez le jeu avec votre compte existant sans aucun détour ( VPN, achat à crédit ou adresse n'est pas requis ) et avec paiement par carte de crédit . Il fonctionne sur Pc Windows, Xbox One, Xbox Series X | S. Pour acheter il faut se connecter sur le store islandais avec ses identifiants Microsoft et si on vous le demande au moment du paiement, mettez une adresse en Islande (une ambassade ou autre à trouver sur Google). 12,49€ sur le Store Français Outer Wilds est un monde ouvert mystérieux où un système solaire est bloqué dans une boucle temporelle infinie. Bienvenue dans le programme spatial ! Vous êtes la nouvelle recrue de Outer Wilds Ventures, un récent programme spatial qui enquête sur un étrange système solaire en évolution permanente. Les mystères du système solaire... Qu’est-ce qui se cache au cœur du sinistre Dark Bramble ? Qui a bâti les ruines extraterrestres sur la Lune ? Est-il possible de stopper la boucle temporelle infinie ? Des réponses vous attendent dans les étendues spatiales les plus dangereuses. Un monde qui évolue au fil du temps Les planètes de Outer Wilds sont pleines de lieux cachés qui évoluent au fil du temps. Visitez une cité souterraine avant qu’elle ne soit ensevelie sous le sable, ou explorez la surface d’une planète qui s’effrite sous vos pieds. Chaque secret est protégé dans des environnements dangereux et soumis à des catastrophes naturelles. Utilisez du matériel d’exploration intergalactique ! Enfilez vos bottes d’exploration, vérifiez vos réserves d’oxygène et préparez-vous à vous aventurer dans l’espace. Utilisez toute une gamme de gadgets uniques pour sonder l’environnement, suivez des signaux mystérieux, déchiffrez une langue extraterrestre ancienne et faites rôtir vos boules de guimauve à la perfection.",
-    "price": 8.62,
-    "reference_price": 12.99,
-    "discount_percent": 33.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/outer-wilds-sur-pc-xbox-one-et-xbox-series-xis-ou-1249eur-sur-le-store-francais-dematerialise-store-islande-3431977",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Eq6q3/3431977_1/re/1200x1200/qt/90/3431977_1.jpg",
-    "detected_at": "2026-10-13T20:45:16+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 8.62,
-        "observed_at": "2026-10-13T21:12:10.951643+00:00"
-      },
-      {
-        "price": 8.62,
-        "observed_at": "2026-10-14T21:15:34.516298+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Sac à dos cabine Lynxcher - 24 litres, 40x30x20cm (vendeur tiers)",
-    "description": "24,85€ - Amazon Sac à dos Cabine Avion 40x30x20 pour Ryanair EasyJet Bagage Cabine Anti-vol Unisexe Homme Femme avec Compartiment pour Ordinateur 15,6 Pouces Noir pour Voyage et Travail 【Bagage cabine 40x30x20 conforme aux compagnies aériennes】Avec des dimensions de 40x30x20 cm, ce sac à dos respecte les règles de bagage à main des principales compagnies aériennes : Ryanair, EasyJet, Wizz Air, Eurowings, British Airways, Lufthansa, TUI fly, Etihad et bien d’autres. 【Organisation optimisée pour voyage et travail】Conçu avec un compartiment dédié pour ordinateur portable jusqu’à 15,6 pouces, un grand compartiment principal et des poches à deux niveaux. Chaque niveau comporte une poche à accès rapide pour passeport, billets et petits essentiels, ainsi qu’un espace pour écouteurs, chargeurs et power banks. Deux poches latérales pour bouteilles et un passe-câble de recharge permettent de garder tout bien organisé. 【Confort et sécurité renforcées】Doté d’une poche séparée pour objets humides, d’une poignée supérieure résistante et de quatre boucles latérales pour plus de stabilité. Le système d’ouverture à 180° facilite le rangement et l’accès à vos affaires. La poche anti-vol à l’arrière protège efficacement vos objets de valeur. 【Durabilité et protection maximale】Réalisé en polyester léger et haute densité avec coutures renforcées pour une grande résistance. Des doubles fermetures éclair métalliques assurent une protection supplémentaire de vos effets pendant vos déplacements. 【Confort ergonomique toute la journée】Design ergonomique avec bretelles rembourrées et panneau arrière respirant pour un confort optimal même lors d’une utilisation prolongée. Les sangles ajustables répartissent le poids uniformément et réduisent la fatigue sur les épaules.",
-    "price": 24.85,
-    "reference_price": 28.99,
-    "discount_percent": 14.3,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/sac-a-dos-cabine-lynxcher-24-litres-40x30x20cm-vendeur-tiers-3431974",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/3h3hL/3431974_1/re/1200x1200/qt/90/3431974_1.jpg",
-    "detected_at": "2026-10-13T20:36:56+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
-    "merchant_url": "https://www.amazon.fr/dp/B0FX8466MB?th=1&psc=1",
-    "price_history": [
-      {
-        "price": 24.85,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 24.85,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Souris Sans Fil HP 200 Rouge (2HU82AAABB) - 2,4 GHz, 1000 DPI, Optique, Ambidextre",
-    "description": "12€ - Amazon Description : La souris HP 200 se connecte sans fil en 2,4 GHz grâce à un récepteur USB (portée d'environ 10 m). Sa forme galbée est conçue pour être confortable toute la journée, que l'on soit droitier ou gaucher. Le capteur optique à LED rouge de 1 000 DPI assure une bonne précision sur de nombreuses surfaces. Elle se branche et fonctionne tout de suite, sur Windows, Mac et Chromebook. Caractéristiques : Marque : HP Série : 200 Référence : 2HU82AA#ABB EAN : 0191628416394 Couleur : Rouge Connexion : Sans fil 2,4 GHz, récepteur USB Portée : Jusqu'à 10 m Capteur : Optique, LED rouge Résolution : 1 000 DPI Prise en main : Ambidextre (droitier et gaucher) Nombre de boutons : 3 Alimentation : 2 piles AAA Compatibilité : Windows 7 et supérieur, macOS 10.x et supérieur, Chrome OS À propos de ce produit Avec la souris rose impératrice HP 200 oubliez les fils avec la connexion sans fil fiable de 2,4 GHz (connectivité sans fil jusqu’à 10 m). Une forme galbée conçue pour être confortable toute la journée que vous soyez droitier ou gaucher. Avec les 2 piles AAA incluses et sans aucun logiciel à installer, vous êtes prêt à démarrer. La technologie LED rouge et le capteur optique de 1 000 DPI vous offrent une précision et une vitesse exceptionnelles sur un large éventail de surfaces. Les directives et les normes strictes de HP garantissent une qualité durable. Prend en charge Windows 7 et les versions supérieures, ainsi que Mac OS X 10.x et les versions supérieures. Commentaires client",
-    "price": 12.0,
-    "reference_price": 17.38,
-    "discount_percent": 31.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/souris-sans-fil-hp-200-rouge-2hu82aaabb-24-ghz-1000-dpi-optique-ambidextre-3431973",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Wq7at/3431973_1/re/1200x1200/qt/90/3431973_1.jpg",
-    "detected_at": "2026-10-13T20:31:25+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T07:18:26.334588+00:00",
-    "merchant_url": "https://www.amazon.fr/dp/B00HCYTOV8?smid=A1X6FK5RDHNB96",
-    "price_history": [
-      {
-        "price": 12.0,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 12.0,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Maison pour Chat Feandrea, Meuble à litière - 85 x 48,5 x 50 cm",
-    "description": "49,49€ - Amazon Historique des prix : Feandrea Maison pour Chat, Meuble à litière, 85 x 48,5 x 50 cm Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS 【ESPACE LITIÈRE STYLISÉ】 Avec sa finition marron miel et blanc rustique, ce meuble à litière s'intègre facilement à votre mobilier existant et donne un coup de jeune à l'espace litière jadis encombré 【PLUS D'INTIMITÉ ET DE PROPRETÉ】L'espace fermé offre à votre ami à fourrure un lieu d'intimité, l'entrée devant permet de tenir à distance les camarades chiens curieux et de limiter la dispersion de la litière 【CONVIENT AUX GRANDS CHATS, CONÇU POUR DURER】Mesurant 59 x 45 x 47 cm, le compartiment intérieur est adapté aux bacs et convient aux grandes races de chats comme les Maine Coons. Fabriquée en panneaux d'aggloméré, ce placard supporte jusqu’à 75 kg 【POUR LES CHATS ET AUSSI POUR VOUS】Utilisez ce meuble pour cacher le bac à litière, ajoutez un coussin pour chat à l'intérieur pour créer un abri douillet ou garnissez-le de jolies plantes pour égayer votre intérieur : c'est comme vous voulez 【MONTAGE FACILE】Le montage vous préoccupe ? Vous n’avez pas de souci à vous faire. Grâce à des instructions claires et à des pièces numérotées, vous l’installerez en seulement 20 minutes et votre chat pourra profiter immédiatement de sa nouvelle litière Spécifications Marque: FEANDREA Dimensions du produit: 85L x 48,5l x 50H centimètres Matériau: Bois d'ingénierie Usages spécifiques pour le produit: Intérieur Caractéristique spéciale: Montage facile Composants inclus: Bac à litière Recommandation par race: Taille L Couleur: Marron Miel + Blanc Rustique Poids de l'article: 15,4 Kilogrammes Point fort de l’article: Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS PCL012K01 Voir plus Usages spécifiques: Intérieur Recommandé pour la race: Taille L Point fort de l’article: Entrée principale, avec double porte et poignées, comme buffet, marron miel-blanc vintage, Collection HAINS PCL012K01 Fabricant: Feandrea Nombre d' articles: 3 UPC: 194343315324 Type d’animal de compagnie: Chat Nom du modèle: PCL012K01 Pays d'origine: Chine Numéro du modèle: PCL012K01 Numéro de pièce: PCL012K01 Nombre d'unités: 1 unité Classement des meilleures ventes d'Amazon: 1460 en Animalerie (Voir les 100 premiers en Animalerie) 26 en Maisons de toilette pour chats ASIN: B0DN6354FY Moyenne des commentaires client: 4,5 4,5 sur 5 étoiles (414) 4,5 sur 5 étoiles Fonctionnalités spéciales: Montage facile Dimensions de l'article L x l x H: 85L x 48,5l x 50H centimètres Poids de l’article: 15,4 Kilogrammes GTIN: 194343315324 Commentaires client",
-    "price": 49.49,
-    "reference_price": 57.43,
-    "discount_percent": 13.8,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/maison-pour-chat-feandrea-meuble-a-litiere-85-x-485-x-50-cm-3431972",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/wfEhO/3431972_1/re/1200x1200/qt/90/3431972_1.jpg",
-    "detected_at": "2026-10-13T20:29:20+00:00",
-    "category": "Animaux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 49.49,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 49.49,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
       }
     ]
   }
