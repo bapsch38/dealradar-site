@@ -287,7 +287,7 @@ header{background:rgba(5,15,27,.93)}
       <a href="./mon-dealradar.html">⭐ Mon espace</a>
       <a href="./publier.html">➕ Publier une offre</a>
     <a href="./discussions.html">💬 Discussions</a></nav>
-    <a class="pill nav-publish" href="./publier.html">➕ ＋ Publier une offre</a>
+    <a class="pill nav-publish" id="account-cta" href="./compte.html">🔐 Se connecter</a>
   </div>
 </header>
 
@@ -1098,5 +1098,16 @@ loadOffers();
 </script>
 <script src="./features.js"></script>
 <script>document.body.classList.add("offers-page");</script>
+<script>
+(() => {
+  const cta = document.getElementById("account-cta");
+  if (!cta) return;
+  let connected = false;
+  try { connected = Boolean(sessionStorage.getItem("dealradar_access_token")); } catch (_) {}
+  cta.href = "./compte.html";
+  cta.textContent = connected ? "👤 Mon compte" : "🔐 Se connecter";
+  cta.setAttribute("aria-label", connected ? "Ouvrir mon compte DealRadar" : "Se connecter à DealRadar");
+})();
+</script>
 </body>
 </html>
