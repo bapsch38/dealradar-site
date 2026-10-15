@@ -1,5 +1,131 @@
 [
   {
+    "title": "DIGITUS Câble de Connexion Lig...ble - Noir - pour iPad, iPhone",
+    "price": 16.18,
+    "reference_price": 21.9,
+    "discount_percent": 26.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DG54VJSM",
+    "image_url": "https://m.media-amazon.com/images/P/B0DG54VJSM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:31:00",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.18,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ASUS NUC 15 Pro, Mini PC Intel...ws 11 Home, Version Tall, Noir",
+    "price": 455.99,
+    "reference_price": 481.16,
+    "discount_percent": 5.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0DY852CPN",
+    "image_url": "https://m.media-amazon.com/images/P/B0DY852CPN.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:30:56",
+    "category": "High-tech",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 455.99,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 9173803 Douille longu...ent Largeur Clé 7/8, 3/20,3 cm",
+    "price": 9.49,
+    "reference_price": 10.91,
+    "discount_percent": 13.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00QU7V51U",
+    "image_url": "https://m.media-amazon.com/images/P/B00QU7V51U.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:30:55",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.49,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 1x Foret hélicoïdal PRO Metal HSS-G Impact",
+    "price": 7.65,
+    "reference_price": 12.31,
+    "discount_percent": 37.9,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B083DLNMTH",
+    "image_url": "https://m.media-amazon.com/images/P/B083DLNMTH.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:30:54",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.65,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Ks Tools 913.3910 Clé Qfc 3/8'', 10 mm - 12 Pans",
+    "price": 7.1,
+    "reference_price": 16.63,
+    "discount_percent": 57.3,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NYX8HO",
+    "image_url": "https://m.media-amazon.com/images/P/B001NYX8HO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:30:53",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 7.1,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
+      }
+    ]
+  },
+  {
+    "title": "KS Tools 516.2414 - Clé 12 pan...m - 27 mm - En Chrome Vanadium",
+    "price": 19.22,
+    "reference_price": 29.1,
+    "discount_percent": 34.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001NYWZ50",
+    "image_url": "https://m.media-amazon.com/images/P/B001NYWZ50.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:30:52",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.22,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
+      }
+    ]
+  },
+  {
     "title": "CUCKOO CR-0675F | 6 tasses (no... intérieur antiadhésif | blanc",
     "price": 142.84,
     "reference_price": 147.98,
@@ -10946,152 +11072,24 @@
     ]
   },
   {
-    "title": "Super Mario Galaxy, le film [Blu-ray]",
-    "price": 19.99,
-    "reference_price": 24.99,
-    "discount_percent": 20.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GVPFW6QQ",
-    "image_url": "https://m.media-amazon.com/images/P/B0GVPFW6QQ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:52",
-    "category": "Culture & sorties",
+    "title": "Starlink : Kit satellite en location GRATUITE dès 35 €/mois – Routeur Mini offert avec l'offre Max (65 €/mois)",
+    "description": "Starlink Starlink propose actuellement ses kits de connexion Internet par satellite en location à 0 € , sans frais mensuels de location du matériel. Trois formules sont disponibles : Résidentiel 100 Mbps : 35 €/mois – Kit Mini X en location gratuite. Résidentiel 200 Mbps : 45 €/mois – Kit Standard 4 en location gratuite. Résidentiel Max : 65 €/mois – Kit Standard 4 en location gratuite + routeur Mini supplémentaire offert (0 €) . Frais de livraison : 19 € d'après les simulations effectuées. Avant, il fallait acheter son kit Starlink, ce qui représentait un investissement initial important (350€ en général). Le matériel est maintenant en location gratuite. Pour combien de temps? Je ne sais pas, c'est du Musk donc il n'y a pas de règle pour les offres.. L'offre Max est particulièrement intéressante puisqu'elle inclut un routeur Mini supplémentaire pour du WiFi Mesh.. À savoir Abonnements sans engagement, résiliables à tout moment. Matériel en location : il reste la propriété de Starlink et doit être restitué à la fin du contrat. Les débits réels varient selon la couverture, la congestion du réseau et l'installation. L'offre et les équipements proposés peuvent varier selon l'adresse. Premier mois facturé à l'activation ou 7 jours après la livraison, selon la première échéance atteinte. Offre vérifiée jusqu'à l'étape de paiement sur le site officiel Starlink, avec 0 € de matériel et 19 € à régler immédiatement pour la livraison. Perso, cela fait deux ans que j'utilise Starlink et je n'ai absolument jamais eu de soucis avec.",
+    "price": 35.0,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/starlink-kit-satellite-en-location-gratuite-des-35-eurmois-routeur-mini-offert-avec-loffre-max-65-eurmois-3432714",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/vk7AO/3432714_1/re/1200x1200/qt/90/3432714_1.jpg",
+    "detected_at": "2026-10-15T00:15:21+00:00",
+    "category": "High-tech",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 19.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Send Help",
-    "price": 9.99,
-    "reference_price": 19.99,
-    "discount_percent": 50.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GV5763BY",
-    "image_url": "https://m.media-amazon.com/images/P/B0GV5763BY.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:50",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Number Ones",
-    "price": 26.99,
-    "reference_price": 37.69,
-    "discount_percent": 28.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FZL43997",
-    "image_url": "https://m.media-amazon.com/images/P/B0FZL43997.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:49",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 26.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 26.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lilo & Stitch",
-    "price": 8.36,
-    "reference_price": 20.03,
-    "discount_percent": 58.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FKC2WFMM",
-    "image_url": "https://m.media-amazon.com/images/P/B0FKC2WFMM.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:48",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 8.36,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 8.36,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Show Me You'Re Fan Enough ! (1 CD Cristal)",
-    "price": 7.29,
-    "reference_price": 13.99,
-    "discount_percent": 47.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FT94MMT4",
-    "image_url": "https://m.media-amazon.com/images/P/B0FT94MMT4.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:45",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 7.29,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 7.29,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "De Kendji À Vivre… L’essentiel",
-    "price": 22.99,
-    "reference_price": 27.99,
-    "discount_percent": 17.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0G15ZDPNT",
-    "image_url": "https://m.media-amazon.com/images/P/B0G15ZDPNT.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:44",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 22.99,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 22.99,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
+        "price": 35.0,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
       }
     ]
   },
@@ -16135,8 +16133,8 @@
     "title": "Batman: Return to Arkham sur PS4 (Dématérialisé)",
     "description": "4,99€ - PlayStation Store Batman: Return to Arkham sur PS4 (Dématérialisé) Retournez à Arkham et découvrez deux des titres les plus acclamés par la critique de la dernière génération - Batman: Arkham Asylum et Batman: Arkham City, avec des visuels entièrement remasterisés et mis à jour. Batman: Return to Arkham inclut les versions complètes des deux jeux et comprend tout le contenu supplémentaire sorti précédemment. Éditeur : WARNER BROS. INTERACTIVE Genres : Aventure, Action Voix : Allemand, Anglais, Espagnol, Français (France), Italien Langues à l'écran : Allemand, Anglais, Espagnol, Français (France), Italien, Polonais, Russe",
     "price": 4.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 9.99,
+    "discount_percent": 50.1,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/batman-return-to-arkham-sur-ps4-dematerialise-3432420",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/VvsQi/3432420_1/re/1200x1200/qt/90/3432420_1.jpg",
@@ -23316,6 +23314,10 @@
       {
         "price": 8.38,
         "observed_at": "2026-10-14T00:17:06.760686+00:00"
+      },
+      {
+        "price": 8.38,
+        "observed_at": "2026-10-15T00:31:55.434968+00:00"
       }
     ]
   },
