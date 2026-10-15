@@ -49,7 +49,6 @@ main{max-width:1120px;margin:auto;padding:40px 22px 70px}.intro{max-width:760px;
 <div class="field" id="name-field"><label for="display-name">Nom affiché</label><input id="display-name" autocomplete="name" minlength="2" maxlength="60" placeholder="Ton prénom ou pseudo" required></div>
 <div class="field"><label for="email">Adresse e-mail</label><input id="email" type="email" autocomplete="email" maxlength="254" placeholder="toi@exemple.fr" required></div>
 <div class="field"><label for="password">Mot de passe <span id="password-hint" class="muted">(8 caractères minimum)</span></label><input id="password" type="password" autocomplete="new-password" minlength="8" maxlength="128" required></div>
-<div class="field" id="admin-code-field"><label for="admin-code">Clé de sécurité administrateur <span class="muted">(laisser vide pour un compte normal)</span></label><input id="admin-code" type="password" autocomplete="off" maxlength="128" placeholder="Saisis ici ta clé administrateur" aria-describedby="admin-code-help"><small class="muted" id="admin-code-help">Pour créer le compte administrateur autorisé, saisis ici la clé privée configurée sur le serveur. Elle n’est pas affichée à l’écran.</small></div>
 <button class="primary" id="auth-submit" type="submit" disabled>API non configurée</button><div id="auth-status" class="status" role="status" aria-live="polite"></div>
 </form>
 </section>
@@ -116,8 +115,6 @@ function setMode(next) {
   byId("tab-register").classList.toggle("active",mode==="register");
   byId("tab-login").classList.toggle("active",mode==="login");
   byId("name-field").classList.toggle("hidden",mode==="login");
-  byId("admin-code-field").classList.toggle("hidden",mode==="login");
-  if(mode==="login")byId("admin-code").value="";
   byId("display-name").required=mode==="register";
   byId("password").autocomplete=mode==="login"?"current-password":"new-password";
   byId("password").minLength=mode==="login"?1:8;
@@ -234,8 +231,6 @@ byId("auth-form").addEventListener("submit",async event=>{
   const payload={email:byId("email").value.trim(),password:byId("password").value};
   if(mode==="register") {
     payload.display_name=byId("display-name").value.trim();
-    const adminCode=byId("admin-code").value;
-    if(adminCode)payload.admin_code=adminCode;
   }
   byId("auth-submit").disabled=true; setStatus("auth-status","Connexion sécurisée en cours…");
   try {
