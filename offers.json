@@ -1,5 +1,110 @@
 [
   {
+    "title": "CUCKOO CR-0675F | 6 tasses (no... intérieur antiadhésif | blanc",
+    "price": 142.84,
+    "reference_price": 147.98,
+    "discount_percent": 3.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0BZWJ9993",
+    "image_url": "https://m.media-amazon.com/images/P/B0BZWJ9993.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:00:29",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 142.84,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Hager Módulo 10 salidas, 16A cargas capacitivas, Easy",
+    "price": 439.79,
+    "reference_price": 464.88,
+    "discount_percent": 5.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B01EJA8ZZS",
+    "image_url": "https://m.media-amazon.com/images/P/B01EJA8ZZS.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:00:28",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 439.79,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
+      }
+    ]
+  },
+  {
+    "title": "fischer - FIXtainer de 210 che... et 30 UX GREEN 10 x 60 R gris",
+    "price": 25.48,
+    "reference_price": 45.96,
+    "discount_percent": 44.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07669C7C9",
+    "image_url": "https://m.media-amazon.com/images/P/B07669C7C9.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:00:27",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 25.48,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 93697 Outdoor Plug&Sh...000K, 3x2,5W, 24V, 55mm Argent",
+    "price": 127.45,
+    "reference_price": 142.19,
+    "discount_percent": 10.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B075X13CX1",
+    "image_url": "https://m.media-amazon.com/images/P/B075X13CX1.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:00:26",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 127.45,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
+      }
+    ]
+  },
+  {
+    "title": "CTEK Bumper 120, Protection Pour Chargeur MXS 10, Silicone",
+    "price": 9.3,
+    "reference_price": 9.8,
+    "discount_percent": 5.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00TJY0IBO",
+    "image_url": "https://m.media-amazon.com/images/P/B00TJY0IBO.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 00:00:25",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.3,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
+      }
+    ]
+  },
+  {
     "title": "Brother TZe-SL651 Ruban auto-p...une 24 mm de large 8 m de long",
     "price": 25.99,
     "reference_price": 30.32,
@@ -7283,6 +7388,10 @@
       {
         "price": 251.22,
         "observed_at": "2026-10-13T23:57:33.024938+00:00"
+      },
+      {
+        "price": 251.22,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
       }
     ]
   },
@@ -10983,131 +11092,6 @@
       {
         "price": 22.99,
         "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "PNY Elite Carte Mémoire microS...0 UHS-I, U1 pour vidéo Full HD",
-    "price": 25.05,
-    "reference_price": 32.32,
-    "discount_percent": 22.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07RBMXVG2",
-    "image_url": "https://m.media-amazon.com/images/P/B07RBMXVG2.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:46:40",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 25.05,
-        "observed_at": "2026-10-13T12:47:55.385070+00:00"
-      },
-      {
-        "price": 25.05,
-        "observed_at": "2026-10-14T13:02:32.019774+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO City Le Fourgon pénitentiaire 60479",
-    "price": 12.9,
-    "reference_price": 19.99,
-    "discount_percent": 35.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FPXDHCX5",
-    "image_url": "https://m.media-amazon.com/images/P/B0FPXDHCX5.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:17:12",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.9,
-        "observed_at": "2026-10-13T12:17:54.931172+00:00"
-      },
-      {
-        "price": 12.9,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Initiv Patch épaule – Soulage ... – Boite de 3 patchs - Adultes",
-    "price": 10.2,
-    "reference_price": 15.99,
-    "discount_percent": 36.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0CX2NSTYK",
-    "image_url": "https://m.media-amazon.com/images/P/B0CX2NSTYK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:17:10",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 10.2,
-        "observed_at": "2026-10-13T12:17:54.931172+00:00"
-      },
-      {
-        "price": 10.2,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO Pokémon Smart Play : L’Av...çons et Filles dès 7 Ans 72156",
-    "price": 22.99,
-    "reference_price": 29.99,
-    "discount_percent": 23.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GK7RPT8C",
-    "image_url": "https://m.media-amazon.com/images/P/B0GK7RPT8C.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:17:08",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 22.99,
-        "observed_at": "2026-10-13T12:17:54.931172+00:00"
-      },
-      {
-        "price": 22.99,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
-      }
-    ]
-  },
-  {
-    "title": "LEGO ǀ Marvel Buste du Docteur... Cadeau pour Fan du Film 76345",
-    "price": 39.99,
-    "reference_price": 44.99,
-    "discount_percent": 11.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0GGSBQKYV",
-    "image_url": "https://m.media-amazon.com/images/P/B0GGSBQKYV.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 12:17:07",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-13T12:17:54.931172+00:00"
-      },
-      {
-        "price": 39.99,
-        "observed_at": "2026-10-14T12:36:53.892867+00:00"
       }
     ]
   },
@@ -22543,8 +22527,8 @@
     "title": "Boule Lumineuse - Ø18cm, 140 LED",
     "description": "3,99€ - Action Description Avec lumières scintillantes Pour l’intérieur et l’extérieur Avec fonction minuteur : 6 heures de lumière et 18 heures d’arrêt Cette boule lumineuse étincelante crée immédiatement une ambiance chaleureuse à l’intérieur ou à l’extérieur, dans le sapin ou au plafond. Les petites lumières forment ensemble une boule étincelante qui ajoute un petit plus à votre décoration de Noël. Caractéristiques Couleur Noir Couleur de lumière Blanc chaud Matériau Iron, Cuivre, Polystyrene (ps) Catégorie source lumineuse Lampe LED Code batterie AA Forme Rond Méthode de fixation Suspendu Nombre de piles nécessaires 3 Nombre de sources de lumière 140 Piles incluses Non Placement Suspendu Prévu pour Intérieur et extérieur Source de lumière incluse Oui Thème Noël Type d'alimentation Batterie Type de décoration saisonnière Ornement de saison Type de saison Hiver Numéro de l'article 3218318",
     "price": 3.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 6.0,
+    "discount_percent": 33.5,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/boule-lumineuse-o-18-cm-140-led-3432078",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/bQ8H3/3432078_1/re/1200x1200/qt/90/3432078_1.jpg",
@@ -22609,8 +22593,8 @@
     "title": "Chaussures Saucony Triumph 23 - Plusieurs Coloris, Tailles du 40 au 46,5",
     "description": "79,99€ - Veepee Tailles disponibles du 37 au 47. Chaussures de running \"Triumph 23\" Collection : 2026 Sport : course Hauteur du talon : 3.7 cm Sur le devant : Fermeture à lacets Nos chaussures de running premium à amorti neutre, dotées de nos mousses les plus innovantes et conçues pour intégrer un confort doux et luxueux dans une structure résistante. • Couche généreuse de PWRRUN PB sous le pied, l'une de nos mousses les plus réactives et efficaces en termes d'énergie, désormais avec un aspect et une sensation plus doux. • La nouvelle semelle intérieure SRS assure un confort immédiat dès le premier pas. • Semelle en caoutchouc XT-900, redessinée pour garantir une plus grande flexibilité, résistance et adhérence. • Mesh technique premium, respirant et agréable au toucher. Idéales pour les sorties quotidiennes. Ce modèle est vegan et contient des matériaux recyclés. Composition Dessus / tige : tissu et synthétique Semelle intérieure : tissu Semelle extérieure : caoutchouc Doublure : tissu Caractéristiques techniques G-foam PWRRUN PB SRS XT-900",
     "price": 79.99,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 110.0,
+    "discount_percent": 27.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/chaussures-de-running-saucony-triumph-23-plusieurs-coloris-3432076",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/oD4Wv/3432076_1/re/1200x1200/qt/90/3432076_1.jpg",
@@ -23354,6 +23338,10 @@
       {
         "price": 13.99,
         "observed_at": "2026-10-13T23:57:33.024938+00:00"
+      },
+      {
+        "price": 13.99,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
       }
     ]
   },
@@ -23376,6 +23364,10 @@
       {
         "price": 11.24,
         "observed_at": "2026-10-13T23:57:33.024938+00:00"
+      },
+      {
+        "price": 11.24,
+        "observed_at": "2026-10-15T00:01:49.051496+00:00"
       }
     ]
   },
@@ -24975,32 +24967,6 @@
       },
       {
         "price": 17.5,
-        "observed_at": "2026-10-14T19:57:22.647149+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Poêle Antiadhésive De Buyer Choc Resto - 32 cm (Via coupon de 25€)",
-    "description": "46,55€ - JoyBuy Poêle antiadhésive de qualité professionnelle de la marque française De Buyer (gamme Choc Resto, diamètre 32 cm). Conçue en aluminium forgé de forte épaisseur pour assurer une diffusion rapide et uniforme de la chaleur sans risque de déformation. Points forts et caractéristiques : • Tarif de 46,55 € via coupon : S'obtient en appliquant le coupon de réduction de 25 € disponible dès 50 € d'achats sur la page du produit (et même 44,40 € pour les membres JoyPlus). • Qualité professionnelle : Revêtement antiadhésif ultra-résistant composé de plusieurs couches renforcées, garanti sans PFOA. • Format XXL de 32 cm : Diamètre idéal pour cuisiner de grosses portions ou saisir de grands morceaux de viande. • Aluminium épais : Permet une répartition homogène de la chaleur sur toute la surface de cuisson. • Queue feuillard riveté : Poignée en acier riveté offrant une prise en main solide et une grande longévité.",
-    "price": 46.55,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/via-coupon-de-25eur-poele-antiadhesive-de-buyer-choc-resto-32-cm-3431945",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/m7rBh/3431945_1/re/1200x1200/qt/90/3431945_1.jpg",
-    "detected_at": "2026-10-13T19:37:12+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 46.55,
-        "observed_at": "2026-10-13T19:54:14.084736+00:00"
-      },
-      {
-        "price": 46.55,
         "observed_at": "2026-10-14T19:57:22.647149+00:00"
       }
     ]
