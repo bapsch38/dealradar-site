@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#08111d">
+<title>Administration — DealRadar</title>
+<style>
+:root{color-scheme:dark;--bg:#08111d;--panel:#101d2b;--line:#263b50;--text:#f2f7ff;--muted:#9eb0c4;--green:#46f58b;--red:#ff9c9c;--amber:#ffe2a7}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px Inter,Arial,sans-serif}a{color:var(--green);text-decoration:none}header{border-bottom:1px solid var(--line);background:#08111df2}.nav{max-width:1200px;margin:auto;padding:16px 22px;display:flex;justify-content:space-between;align-items:center;gap:14px}.logo{font-size:25px;font-weight:900;color:var(--text)}.logo span{color:var(--green)}main{max-width:1100px;margin:auto;padding:30px 20px 70px}h1{font-size:clamp(28px,4vw,40px);margin:0 0 8px;letter-spacing:-1px}h2{font-size:18px;margin:0 0 8px}.muted{color:var(--muted);line-height:1.65}.panel,.item{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:19px;margin:18px 0}.setup{padding:15px;border:1px solid #6b5124;background:#2a2114;color:var(--amber);border-radius:12px;font-size:12px;line-height:1.65;margin:20px 0}.toolbar,.actions{display:flex;gap:9px;flex-wrap:wrap;align-items:center}input,select,button{font:inherit;border-radius:9px;padding:11px 12px;border:1px solid var(--line);background:#091522;color:var(--text)}button{cursor:pointer}.primary{background:var(--green);color:#07131c;border-color:var(--green);font-weight:850}.item h3{margin:0 0 8px;overflow-wrap:anywhere}.meta{font-size:12px;color:var(--muted)}.status{min-height:1.5em;font-size:12px;color:var(--green);line-height:1.6}.error{color:var(--red)}.hidden{display:none!important}.item p{line-height:1.6;overflow-wrap:anywhere}.item a{overflow-wrap:anywhere}.actions{margin-top:14px}.actions button{font-size:12px}.empty{border:1px dashed var(--line);padding:22px;border-radius:12px;color:var(--muted)}@media(max-width:600px){main{padding:24px 13px 55px}.panel,.item{padding:15px}.toolbar>*{flex:1;min-width:120px}}
+</style></head>
+<body>
+<header><div class="nav"><a class="logo" href="./index.html">Deal<span>Radar</span> · Admin</a><a href="./compte.html">Mon compte ↗</a></div></header>
+<main>
+<h1>Administration DealRadar</h1><p class="muted">Modération des propositions communautaires et des signalements. L’accès est réservé aux comptes autorisés côté serveur.</p>
+<div class="setup" id="setup-note"><strong>Administration en préparation.</strong><br>L’API n’est pas encore déployée. Cette page n’effectuera aucune requête tant que son URL HTTPS ne sera pas configurée. Le lien vers la page est public, mais l’API doit vérifier le rôle administrateur sur chaque requête.</div>
+<section class="panel hidden" id="queue-panel">
+<div class="toolbar"><select id="kind"><option value="">Tous les éléments</option><option value="deal">Bons plans</option><option value="report">Signalements</option></select><select id="status-filter"><option value="">Tous les statuts</option><option value="new">Nouveaux</option><option value="in_progress">En cours</option><option value="resolved">Résolus</option><option value="rejected">Rejetés</option><option value="duplicate">Doublons</option></select><button class="primary" id="refresh">Actualiser</button><button id="logout">Déconnexion</button></div>
+<div id="queue-status" class="status" role="status" aria-live="polite"></div><div id="items"></div>
+</section>
+</main>
+<script>
+/* Must match the HTTPS API base configured in compte.html after deployment. */
+const API_BASE = "";
+const TOKEN_KEY = "dealradar_access_token";
+const byId=id=>document.getElementById(id);
+const escapeHtml=value=>String(value==null?"":value).replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
+function currentToken(){try{return sessionStorage.getItem(TOKEN_KEY)||""}catch(_){return ""}}
+async function apiCall(path,options={}){
+ const headers=Object.assign({"Content-Type":"application/json"},options.headers||{});const token=currentToken();if(token)headers.Authorization="Bearer "+token;
+ const response=await fetch(API_BASE.replace(/\/$/,"")+path,Object.assign({},options,{headers}));let data={};try{data=await response.json()}catch(_){}
+ if(!response.ok)throw Error(data.detail||("Erreur API "+response.status));return data;
+}
+function safeHttpUrl(value){try{const url=new URL(value);return ["https:","http:"].includes(url.protocol)?url.href:""}catch(_){return ""}}
+async function loadItems(){
+ const params=new URLSearchParams();if(byId("kind").value)params.set("kind",byId("kind").value);if(byId("status-filter").value)params.set("status",byId("status-filter").value);
+ byId("queue-status").textContent="Chargement…";byId("queue-status").classList.remove("error");
+ try{const result=await apiCall("/api/admin/items?"+params);const items=result.items||[];
+ byId("items").innerHTML=items.map(item=>{const link=safeHttpUrl(item.url);return '<article class="item"><h3>#'+item.id+' · '+escapeHtml(item.title)+'</h3><p class="meta">'+escapeHtml(item.kind)+' · '+escapeHtml(item.status)+' · '+escapeHtml(item.created_at||"")+'</p>'+(link?'<p><a href="'+escapeHtml(link)+'" target="_blank" rel="noopener noreferrer">Ouvrir le lien marchand ↗</a></p>':"")+(item.category?'<p>Catégorie : '+escapeHtml(item.category)+'</p>':"")+(item.current_price?'<p>Prix proposé : '+escapeHtml(item.current_price)+'</p>':"")+(item.original_price?'<p>Prix d’origine : '+escapeHtml(item.original_price)+'</p>':"")+(item.message?'<p>'+escapeHtml(item.message)+'</p>':"")+(item.reporter_contact?'<p>Contact : '+escapeHtml(item.reporter_contact)+'</p>':"")+'<div class="actions"><button data-id="'+Number(item.id)+'" data-status="in_progress">Prendre en charge</button><button data-id="'+Number(item.id)+'" data-status="resolved">Résolu</button><button data-id="'+Number(item.id)+'" data-status="rejected">Rejeter</button><button data-id="'+Number(item.id)+'" data-status="duplicate">Doublon</button></div></article>'}).join("")||'<div class="empty">Aucun élément dans cette file.</div>';
+ byId("queue-status").textContent=items.length+" élément(s) affiché(s).";
+ }catch(error){byId("queue-status").textContent=error.message;byId("queue-status").classList.add("error")}
+}
+async function start(){
+ if(!API_BASE||!/^https:\/\//i.test(API_BASE)){byId("setup-note").classList.remove("hidden");return}
+ const token=currentToken();if(!token){byId("setup-note").innerHTML='Connecte-toi avec ton compte administrateur depuis <a href="./compte.html">Mon compte</a>, puis ouvre à nouveau cette page.';return}
+ try{const user=await apiCall("/api/auth/me");if(user.role!=="admin"){byId("setup-note").innerHTML="Ce compte ne possède pas le rôle administrateur. <a href=\"./compte.html\">Retour à Mon compte</a>.";return}
+ byId("setup-note").classList.add("hidden");byId("queue-panel").classList.remove("hidden");await loadItems()
+ }catch(error){byId("setup-note").textContent="Connexion invalide ou expirée. Retourne sur Mon compte pour te reconnecter. ("+error.message+")"}
+}
+byId("refresh").addEventListener("click",loadItems);byId("kind").addEventListener("change",loadItems);byId("status-filter").addEventListener("change",loadItems);
+byId("logout").addEventListener("click",()=>{try{sessionStorage.removeItem(TOKEN_KEY)}catch(_){}location.href="./compte.html"});
+byId("items").addEventListener("click",async event=>{const button=event.target.closest("button[data-id]");if(!button)return;button.disabled=true;try{await apiCall("/api/admin/items/"+button.dataset.id,{method:"PATCH",body:JSON.stringify({status:button.dataset.status})});await loadItems()}catch(error){byId("queue-status").textContent=error.message;byId("queue-status").classList.add("error");button.disabled=false}});
+start();
+</script></body></html>
