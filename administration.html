@@ -15,13 +15,17 @@
 
 </style></head>
 <body>
-<header><div class="nav"><a class="logo" href="./index.html">Deal<span>Radar</span> · Admin</a><a href="./compte.html">Mon compte ↗</a></div></header>
+<header><div class="nav"><a class="logo" href="./index.html">Deal<span>Radar</span> · Admin</a><nav class="navlinks" aria-label="Navigation principale"><a href="./index.html">Accueil</a><a href="./offres.html">Offres</a><a href="./discussions.html">Discussions</a><a href="./compte.html">Mon compte</a></nav></div></header>
 <main>
 <h1>Administration DealRadar</h1><p class="muted">Modération des propositions communautaires et des signalements. L’accès est réservé aux comptes autorisés côté serveur.</p>
 <div class="setup" id="setup-note"><strong>Administration en préparation.</strong><br>L’API n’est pas encore déployée. Cette page n’effectuera aucune requête tant que son URL HTTPS ne sera pas configurée. Le lien vers la page est public, mais l’API doit vérifier le rôle administrateur sur chaque requête.</div>
 <section class="panel hidden" id="queue-panel">
 <div class="toolbar"><select id="kind"><option value="">Tous les éléments</option><option value="deal">Bons plans</option><option value="report">Signalements</option></select><select id="status-filter"><option value="">Tous les statuts</option><option value="new">Nouveaux</option><option value="in_progress">En cours</option><option value="resolved">Résolus</option><option value="rejected">Rejetés</option><option value="duplicate">Doublons</option></select><button class="primary" id="refresh">Actualiser</button><button id="logout">Déconnexion</button></div>
 <div id="queue-status" class="status" role="status" aria-live="polite"></div><div id="items"></div>
+<div class="panel" style="margin-top:28px">
+  <div class="toolbar"><h2>Modération des discussions</h2><select id="discussion-status"><option value="active">Visibles</option><option value="hidden">Masquées</option><option value="all">Toutes</option></select><button id="refresh-discussions">Actualiser</button></div>
+  <div id="discussion-status-message" class="status" role="status" aria-live="polite"></div><div id="discussion-items"></div>
+</div>
 </section>
 </main>
 <script src="./api-config.js"></script>
@@ -46,15 +50,27 @@ async function loadItems(){
  byId("queue-status").textContent=items.length+" élément(s) affiché(s).";
  }catch(error){byId("queue-status").textContent=error.message;byId("queue-status").classList.add("error")}
 }
+async function loadDiscussions(){
+ const params=new URLSearchParams({status:byId("discussion-status").value,limit:"150"});
+ byId("discussion-status-message").textContent="Chargement des discussions…";
+ byId("discussion-status-message").classList.remove("error");
+ try{
+  const result=await apiCall("/api/admin/discussions?"+params);
+  const items=result.items||[];
+  byId("discussion-items").innerHTML=items.map(item=>'<article class="item"><h3>#'+Number(item.id)+' · '+escapeHtml(item.title)+'</h3><p class="meta">'+escapeHtml(item.category)+' · '+escapeHtml(item.status)+' · '+escapeHtml(item.author_name)+' · '+escapeHtml(item.created_at||"")+'</p><p>'+escapeHtml(item.body)+'</p><div class="actions"><button data-discussion-id="'+Number(item.id)+'" data-status="'+(item.status==="active"?"hidden":"active")+'">'+(item.status==="active"?"Masquer la discussion":"Rendre visible")+'</button></div></article>').join("")||'<div class="empty">Aucune discussion dans cette vue.</div>';
+  byId("discussion-status-message").textContent=items.length+" discussion(s) affichée(s).";
+ }catch(error){byId("discussion-status-message").textContent=error.message;byId("discussion-status-message").classList.add("error")}
+}
 async function start(){
  if(!API_BASE||!/^https:\/\//i.test(API_BASE)){byId("setup-note").classList.remove("hidden");return}
  const token=currentToken();if(!token){byId("setup-note").innerHTML='Connecte-toi avec ton compte administrateur depuis <a href="./compte.html">Mon compte</a>, puis ouvre à nouveau cette page.';return}
  try{const user=await apiCall("/api/auth/me");if(user.role!=="admin"){byId("setup-note").innerHTML="Ce compte ne possède pas le rôle administrateur. <a href=\"./compte.html\">Retour à Mon compte</a>.";return}
- byId("setup-note").classList.add("hidden");byId("queue-panel").classList.remove("hidden");await loadItems()
+ byId("setup-note").classList.add("hidden");byId("queue-panel").classList.remove("hidden");await loadItems();await loadDiscussions()
  }catch(error){byId("setup-note").textContent="Connexion invalide ou expirée. Retourne sur Mon compte pour te reconnecter. ("+error.message+")"}
 }
-byId("refresh").addEventListener("click",loadItems);byId("kind").addEventListener("change",loadItems);byId("status-filter").addEventListener("change",loadItems);
+byId("refresh").addEventListener("click",loadItems);byId("refresh-discussions").addEventListener("click",loadDiscussions);byId("discussion-status").addEventListener("change",loadDiscussions);byId("kind").addEventListener("change",loadItems);byId("status-filter").addEventListener("change",loadItems);
 byId("logout").addEventListener("click",()=>{try{sessionStorage.removeItem(TOKEN_KEY)}catch(_){}location.href="./compte.html"});
 byId("items").addEventListener("click",async event=>{const button=event.target.closest("button[data-id]");if(!button)return;button.disabled=true;try{await apiCall("/api/admin/items/"+button.dataset.id,{method:"PATCH",body:JSON.stringify({status:button.dataset.status})});await loadItems()}catch(error){byId("queue-status").textContent=error.message;byId("queue-status").classList.add("error");button.disabled=false}});
+byId("discussion-items").addEventListener("click",async event=>{const button=event.target.closest("button[data-discussion-id]");if(!button)return;button.disabled=true;try{await apiCall("/api/admin/discussions/"+button.dataset.discussionId,{method:"PATCH",body:JSON.stringify({status:button.dataset.status})});await loadDiscussions()}catch(error){byId("discussion-status-message").textContent=error.message;byId("discussion-status-message").classList.add("error");button.disabled=false}});
 start();
 </script></body></html>
