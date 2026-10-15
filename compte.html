@@ -116,6 +116,8 @@ function setMode(next) {
   byId("tab-register").classList.toggle("active",mode==="register");
   byId("tab-login").classList.toggle("active",mode==="login");
   byId("name-field").classList.toggle("hidden",mode==="login");
+  byId("admin-code-field").classList.toggle("hidden",mode==="login");
+  if(mode==="login")byId("admin-code").value="";
   byId("display-name").required=mode==="register";
   byId("password").autocomplete=mode==="login"?"current-password":"new-password";
   byId("password").minLength=mode==="login"?1:8;
