@@ -56,7 +56,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .category-card:hover img{transform:scale(1.04)}
 .category-name{padding:12px 13px;font-weight:750;font-size:14px}
 .category-name span{display:block;color:var(--muted);font-size:11px;font-weight:400;margin-top:4px}
-.filters{display:flex;gap:9px;flex-wrap:wrap;margin:18px 0}
+.filters{display:flex;gap:9px;flex-wrap:wrap;margin:18px 0}.pro-filter-lock{display:flex;align-items:flex-start;gap:9px;flex-wrap:wrap;padding:12px 14px;margin:12px 0 8px;border:1px solid #8b6b2e;border-radius:12px;background:linear-gradient(110deg,#2a2316,#151d28);color:#f8d778;font-size:12px}.pro-filter-lock span{flex-basis:100%;color:#c7bdab;line-height:1.5}.pro-filter-lock a{color:#f8d778;font-weight:900;text-decoration:underline}.advanced-filters.premium-locked{opacity:.72}.advanced-filters.premium-locked select:disabled,.advanced-filters.premium-locked input:disabled{cursor:not-allowed;filter:saturate(.45)}.price-history-locked{border:1px solid #8b6b2e;border-radius:12px;padding:18px;background:linear-gradient(140deg,#2a2316,#111d2b)}.price-history-locked strong{display:block;color:#f8d778;margin-bottom:8px}.price-history-locked p{font-size:12px;line-height:1.6;color:#c7bdab}.price-history-locked a{display:inline-block;margin-top:5px;padding:9px 12px;border-radius:8px;background:linear-gradient(135deg,#f5d77e,#b9852d);color:#24190b;font-weight:900;font-size:12px}
 .filter{background:var(--panel);border:1px solid var(--line);border-radius:30px;color:var(--muted);padding:9px 14px;cursor:pointer;font-size:12px}
 .filter.active,.filter:hover{background:#173b2a;border-color:var(--green);color:var(--green)}
 .deals-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
@@ -393,6 +393,7 @@ header{background:rgba(5,15,27,.93)}
         <option value="trust">Fiabilité des informations</option>
       </select>
     </div>
+    <div id="pro-filter-lock" class="pro-filter-lock" role="status">🔒 <strong>Filtres avancés réservés à DealRadar Pro</strong><span>Recherche par seuil de réduction, prix maximum et fiabilité des offres. <a href="./compte.html">Découvrir Pro ↗</a></span></div>
     <div class="advanced-filters" aria-label="Filtres avancés">
       <label>Réduction minimale
         <select id="min-discount"><option value="0">Toutes</option><option value="10">10 %</option><option value="20">20 %</option><option value="30">30 %</option><option value="40">40 %</option><option value="50">50 %</option></select>
@@ -502,6 +503,7 @@ header{background:rgba(5,15,27,.93)}
   </div>
 </footer>
 
+<script src="./api-config.js"></script>
 <script>
 const search = document.getElementById("search");
 const categories = [...document.querySelectorAll(".category-card")];
@@ -521,6 +523,26 @@ const pageSize = 12;
 let currentPage = 1;
 let activeFilter = "all";
 let offers = [];
+let accountPlan = "guest";
+async function loadAccountPlan() {
+  const token = (()=>{try{return sessionStorage.getItem("dealradar_access_token")||"";}catch(_){return "";}})();
+  accountPlan = "guest";
+  if (!token || !window.DEALRADAR_API_BASE) { applyPlanGates(); return; }
+  try {
+    const response = await fetch(window.DEALRADAR_API_BASE.replace(/\\/$/,"")+"/api/auth/me",{headers:{Authorization:"Bearer "+token}});
+    if (!response.ok) throw new Error("Session invalide");
+    const profile = await response.json(); accountPlan = profile.plan === "pro" ? "pro" : "free";
+  } catch (_) { accountPlan = "guest"; }
+  applyPlanGates();
+}
+function applyPlanGates() {
+  const pro = accountPlan === "pro";
+  const advanced = document.querySelector(".advanced-filters");
+  if (advanced) advanced.classList.toggle("premium-locked",!pro);
+  [minDiscountInput,maxPriceInput,onlyVerifiedInput,onlyHighConfidenceInput].forEach(input=>{if(input)input.disabled=!pro;});
+  const notice=document.getElementById("pro-filter-lock");
+  if(notice){notice.hidden=pro;notice.innerHTML=accountPlan==="guest"?"🔒 <strong>Filtres avancés réservés à DealRadar Pro</strong><span>Crée un compte gratuit, puis passe à Pro pour débloquer les filtres par prix, réduction et fiabilité. <a href=\"./compte.html\">Découvrir les formules ↗</a></span>":"🔒 <strong>Filtres avancés réservés à DealRadar Pro</strong><span>Ton compte Gratuit conserve la recherche et les catégories. <a href=\"./compte.html\">Découvrir Pro ↗</a></span>";}
+}
 
 function normalizeSearchText(value) {
   return String(value ?? "")
@@ -748,6 +770,7 @@ function updateFilterCounts() {
   });
 }
 function renderPriceHistory(offer) {
+  if (accountPlan !== "pro") return '<div class="price-history-locked"><strong>✦ Historique détaillé — DealRadar Pro</strong><p>Consulte les observations de prix dans le temps pour mieux choisir ton moment d’achat. Cette fonctionnalité sera activée avec le lancement des outils Pro.</p><a href="./compte.html">Voir les avantages Pro ↗</a></div>';
   const history = Array.isArray(offer.price_history) ? offer.price_history.filter(item => item && Number.isFinite(Number(item.price)) && Number(item.price) > 0).slice(-180) : [];
   if (!history.length) return '<div class="price-history"><div class="price-history-note">Historique de prix en cours de constitution : aucune observation enregistrée pour le moment.</div></div>';
   if (history.length < 2) return '<div class="price-history"><div class="price-history-head"><span>Historique DealRadar</span><strong>1 observation</strong></div><div class="price-history-note">Pas encore de tendance exploitable. Le prix actuel est affiché séparément ; DealRadar doit collecter d’autres valeurs dans le temps. Ce n’est pas l’historique complet du marchand.</div></div>';
@@ -1033,6 +1056,7 @@ async function loadTelegramBotInfo() {
 }
 async function loadOffers() {
   try {
+    await loadAccountPlan();
     const response = await fetch("./offers.json", {cache:"no-store"});
     if (!response.ok) throw new Error("Flux indisponible");
     const data = await response.json();
