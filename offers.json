@@ -1,5 +1,26 @@
 [
   {
+    "title": "STABILA Niveau à bulle Type 80...apant intégré, Made in Germany",
+    "price": 19.63,
+    "reference_price": 21.99,
+    "discount_percent": 10.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B084S9SJLC",
+    "image_url": "https://m.media-amazon.com/images/P/B084S9SJLC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 08:07:48",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.63,
+        "observed_at": "2026-10-15T08:09:25.348057+00:00"
+      }
+    ]
+  },
+  {
     "title": "Liqui Moly Liquide réfrigérant...risation de Service, SKU: 8916",
     "price": 12.9,
     "reference_price": 15.9,
@@ -10803,27 +10824,68 @@
     ]
   },
   {
-    "title": "RICOO F0311 Support Mural Écra...D LCD VESA 50x50 75x75 100x100",
-    "price": 11.71,
-    "reference_price": 22.12,
-    "discount_percent": 47.1,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00PC7G28K",
-    "image_url": "https://m.media-amazon.com/images/P/B00PC7G28K.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:54:24",
-    "category": "Autre",
+    "title": "Béquille Centrale Moto ConStands Power Flex - Pliable, Sans plaque d'adaptation",
+    "description": "227,49€ - Motea [shortcode id=\"20619193\"/] Remarque : SANS plaque d'adaptation spécifique au modèle Support de montage pour un levage simple et rapide Manœuvres faciles grâce à des roulettes doubles stables Dimensions : longueur 78 cm / largeur 54 cm / hauteur 75,5 cm Capacité de charge maximale 300 kg pour un poids propre de 17 kg Idéal pour l'hivernage Avantages du Power-Flex : Système de sécurité automatique Fonction rabattable peu encombrante Emballage compact Force de levier accrue grâce à un système de levier intelligent Boulons inclus Changement moto rapide 1 béquille, + de motos Paiement en x fois Retour sous 30 jours Protection de l’acheteur Livraison: 20.11.2026 - 23.11.2026 SKU: A667963-0",
+    "price": 227.49,
+    "reference_price": 324.99,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/bequille-centrale-moto-constands-power-flex-pliable-sans-plaque-dadaptation-3432837",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/zqqmX/3432837_1/re/1200x1200/qt/90/3432837_1.jpg",
+    "detected_at": "2026-10-15T08:04:33+00:00",
+    "category": "Auto & moto",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 11.71,
-        "observed_at": "2026-10-13T17:55:26.821634+00:00"
-      },
+        "price": 227.49,
+        "observed_at": "2026-10-15T08:09:25.348057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Micro-ondes + Gril Hisense H20MOMBP1HG Noir",
+    "description": "79,99€ - Darty Le micro-ondes combiné Hisense H20MOMBP1HG dispose d'une capacité de 20 litres , il est équipé d'un plateau tournant en verre et d'une puissance de 700 W , d'un gril de 800 W . Il est conçu pour offrir une solution de cuisson simple et efficace pour tous les types de plats. Avec ses commandes mécaniques intuitives et son design compact , ce modèle s'intègre parfaitement dans toutes les cuisines. Design Cet appareil présente une finition noire sobre qui s’intègre facilement dans tous les styles de cuisine. Puissance Avec une puissance de 700 watts, ce micro-ondes assure une cuisson rapide et efficace des aliments. Capacité Sa capacité de 20 litres permet de cuisiner des portions individuelles ou de réchauffer plusieurs petits plats. Plateau tournant Le micro-ondes est équipé d’un plateau tournant en verre, garantissant une distribution homogène de la chaleur pour une cuisson uniforme. Poignée Préhensible L'élégante poignée assure une ouverture facile. Timer 35 min La minuterie mécanique de 35 min vous permet de régler la durée de cuisson à votre guise.",
+    "price": 79.99,
+    "reference_price": 119.99,
+    "discount_percent": 33.3,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/micro-ondes-gril-hisense-h20mombp1hg-noir-3432835",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/9U7AY/3432835_1/re/1200x1200/qt/90/3432835_1.jpg",
+    "detected_at": "2026-10-15T08:01:13+00:00",
+    "category": "Électroménager",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "https://www.darty.com/nav/achat/gros_electromenager/micro_ondes-avec_gril/micro_ondes_gril/hisense_h20mombp1hg.html",
+    "price_history": [
       {
-        "price": 11.71,
-        "observed_at": "2026-10-14T18:18:18.461134+00:00"
+        "price": 79.99,
+        "observed_at": "2026-10-15T08:09:25.348057+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Lego Marvel 76352 Avengers : Doomsday La Nouvelle Tour des Avengers",
+    "description": "89,99€ - Auchan • L’action des super-héros atteint de nouveaux sommets avec le jeu de construction Avengers : Doomsday La nouvelle tour des Avengers (76352) LEGO ǀ Marvel, incluant 4 étages et les minifigurines de Docteur Doom, Yelena, le Gardien rouge, Bucky Barnes, la Torche humaine et Sentry. Recréez et exposez des scènes palpitantes avec une maquette Marvel riche en fonctionnalités et accessoires. Le dernier étage abrite un laboratoire, un héliport et une cellule dérobée. En dessous, une chambre avec le fauteuil poire de Sentry et un milkshake. Puis, la salle de contrôle avec un grand écran, un pupitre de commande et 2 chaises. Au rez-de-chaussée, retrouvez l’accueil, un portique de sécurité, une poubelle et des surprises que les fans reconnaîtront : la griffe de Black Panther, la Stormbreaker et le Mjölnir de Thor. Les fans de Marvel seront ravi.e.s avec ce superbe set LEGO à offrir comme cadeau d'anniversaire à un garçon ou une fille de 12 ans ou plus. Faites équipe entre ami.e.s ou en famille autour de ce set Avengers et partagez une expérience collaborative grâce au mode Construire ensemble de l’appli LEGO Builder.",
+    "price": 89.99,
+    "reference_price": null,
+    "discount_percent": null,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/lego-marvel-76352-avengers-doomsday-la-nouvelle-tour-des-avengers-3432833",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/a6Z9m/3432833_1/re/1200x1200/qt/90/3432833_1.jpg",
+    "detected_at": "2026-10-15T08:00:08+00:00",
+    "category": "Jouets & jeux",
+    "price_verified": true,
+    "reference_price_verified": false,
+    "price_checked_at": "2026-10-15T08:07:58.528500+00:00",
+    "merchant_url": "https://www.auchan.fr/lego-marvel-76352-doomsday-la-nouvelle-tour-des-avengers/pr-C1875145",
+    "price_history": [
+      {
+        "price": 89.99,
+        "observed_at": "2026-10-15T08:09:25.348057+00:00"
       }
     ]
   },
@@ -11049,7 +11111,7 @@
   },
   {
     "title": "Centrale Vapeur Calor Pro Express Protect 7-2 Bars - Bleu",
-    "description": "199,99€ - Amazon Produit qui est en général à 249€. Calor - Centrale Vapeur Pro Express Protect 7,2 bars. Je l'ai et elle fonctionne bien grâce aux 7.2 bars. Et la semelle glisse super bien",
+    "description": "199,99€ - Amazon Produit qui est en général à 249€. Calor - Centrale Vapeur Pro Express Protect 7,2 bars. Je l'ai et elle fonctionne bien grâce aux 7.2 bars. Et la semelle glisse super bien À propos de ce produit EFFICACITÉ PROFESSIONNELLE : Centrale vapeur haute performance dotée d'une technologie haute pression de 7,2 bars GAIN DE TEMPS : Jet de vapeur intense allant jusqu'à 500 g/minute pour les faux plis tenaces et les tissus épais RÉSULTATS PARFAITS : Débit de vapeur continu allant jusqu'à 130 g/minute pour des sessions de repassage ultra-efficaces UTILISATION 100 % SÛRE : Plus aucun risque de brûlure grâce à la technologie sans réglage Réparabilité 15 ans, Garantie 2 ans, Fabriqué en France SYSTÈME DE DOUBLE PROTECTION : Une sérénité totale grâce au système Protect qui transforme les gouttes et les fuites en vapeur pour éviter les taches et notre collecteur de calcaire qui garantit des performances vapeur durables GLISSE PARFAITE : La semelle Durilium AirGlide Autoclean reste toujours propre et offre une glisse supérieure de 33 %*, soit la meilleure glisse de Calor ; *Test externe sur les revêtements 2016 SYSTÈME DE VERROUILLAGE : Transport et rangement faciles et sécurisés RANGEMENT DU CORDON : Centrale vapeur dotée d'un système de rangement du cordon vapeur innovant pour un plus grand confort d'utilisation QUALITÉ SUPÉRIEURE : Produit fabriqué en France Commentaires client",
     "price": 199.99,
     "reference_price": 232.24,
     "discount_percent": 13.9,
@@ -11093,7 +11155,7 @@
   },
   {
     "title": "Vinyle Bleu Linkin Park From Zero",
-    "description": "21,12€ - Amazon 1 LP couleur Translucent Sea Blue Face : 1 1 From Zero (Intro) 2 The Emptiness Machine 3 Cut the Bridge 4 Heavy Is the Crown 5 Over Each Other 6 Casualty Face : 2 1 Overflow 2 Two Faced 3 Stained 4 IGYEIH 5 Good Things Go",
+    "description": "21,12€ - Amazon 1 LP couleur Translucent Sea Blue Face : 1 1 From Zero (Intro) 2 The Emptiness Machine 3 Cut the Bridge 4 Heavy Is the Crown 5 Over Each Other 6 Casualty Face : 2 1 Overflow 2 Two Faced 3 Stained 4 IGYEIH 5 Good Things Go À propos de ce produit Vinyl Commentaires client",
     "price": 21.12,
     "reference_price": 26.11,
     "discount_percent": 19.1,
@@ -11171,7 +11233,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.carrefour.fr/catalogue/carrefour/hypermarche-5659_000_2026-RTIpQks0?page=2",
     "price_history": [
       {
         "price": 87.16,
@@ -16150,8 +16212,8 @@
     "title": "Démarreur de voiture EAFC 1200A et pompe à Air Portable",
     "description": "28,94€ - AliExpress",
     "price": 28.94,
-    "reference_price": null,
-    "discount_percent": null,
+    "reference_price": 35.99,
+    "discount_percent": 19.6,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/eafc-1200a-demarreur-de-saut-de-voiture-pompe-a-air-portable-2-en-1-compresseur-dair-multi-fonction-gonfleur-de-pneu-auto-portable-3432505",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/I1KdX/3432505_1/re/1200x1200/qt/90/3432505_1.jpg",
@@ -24417,110 +24479,6 @@
       {
         "price": 106.11,
         "observed_at": "2026-10-14T14:20:09.164953+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ninja Gaiden 4 - Standard Edition - Jeu Xbox Series X",
-    "description": "19,99€ - Cdiscount Description : La célèbre série de jeux hack 'n' slash revient avec NINJA GAIDEN 4 ! Plongez dans une aventure passionnante où tradition et innovation se mêlent en un cocktail explosif de combats acharnés au style incomparable. Retour d'une série légendaire : retrouvez l'action intense et survoltée qui a fait de NINJA GAIDEN une série de jeux d'action incontournable. Découvrez la renaissance d'un jeu mythique au style captivant qui ravira la nouvelle génération de joueurs. Combats hack 'n' slash épiques et améliorés : NINJA GAIDEN 4, c'est la fusion des combats rythmés de Team NINJA et du gameplay énergique et sophistiqué de PlatinumGames. Prenez part à des combats visuellement époustouflants qui récompensent la précision et la stratégie. Anéantissez vos ennemis en transformant vos armes grâce au ninjutsu du lien sanglant et en usant de techniques mythiques comme le Lâcher d'Izuna et l'Hirondelle en vol. Le légendaire Ryu Hayabusa est également de retour avec une panoplie d'outils familiers remis au goût du jour. Grâce à ses possibilités de personnalisation, NINJA GAIDEN 4 poussera les amateurs de jeux d'action à se dépasser tout en permettant aux nouveaux venus de vivre une aventure palpitante et pleine de rebondissements. Retour d'un vieil ennemi : une pluie de miasmes incessante s'abat sur une Tokyo d'un futur proche à la suite de la résurrection d'un vieil ennemi. Le sort de la ville est entre les mains du jeune Yakumo : enchaînant les combats contre soldats ninjas cybernétiques et créatures d'outre-monde, il doit assumer le destin qu'il partage avec le légendaire Ryu Hayabusa et libérer Tokyo de la malédiction ancestrale qui l'accable. [shortcode id=\"20619153\"/]",
-    "price": 19.99,
-    "reference_price": 34.99,
-    "discount_percent": 42.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ninja-gaiden-4-standard-edition-jeu-xbox-series-x-3432091",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/KxR0H/3432091_1/re/1200x1200/qt/90/3432091_1.jpg",
-    "detected_at": "2026-10-14T06:18:18+00:00",
-    "category": "Gaming",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
-      },
-      {
-        "price": 19.99,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Carte Graphique Powercolor RX 9060 XT Reaper 16 Go",
-    "description": "573,81€ - Reichelt Elektronik Reaper AMD Radeon™ RX 9060 XT 16GB GDDR6 Conception impitoyable : la série Reaper La série PowerColor Reaper est conçue pour les joueurs qui exigent des performances fiables et une endurance inébranlable. Avec son architecture de refroidissement robuste et son ingénierie de précision, le Reaper est conçu pour résister aux rigueurs des sessions de jeu intenses sans compromis. Dans le but de fournir des résultats cohérents, il est un allié fiable pour tous ceux qui sont prêts à relever tous les défis. La série Reaper est un jeu pur - ni plus ni moins. Maîtrisez le jeu avec la série Reaper La série PowerColor Reaper est conçue pour fournir aux joueurs des performances fiables et constantes. Equipé de roulements à billes doubles japonais de haute qualité et de ventilateurs annulaires très efficaces, le design robuste du ventilateur Daul assure une circulation d'air optimale et une durabilité optimale. La prise en cuivre fournit un contact direct avec le GPU et la VRAM, maximisant l'efficacité du refroidissement dans les gameplay exigeants.",
-    "price": 573.81,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/powercolor-rx-9060-xt-reaper-16-go-3432090",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/CLYmd/3432090_1/re/1200x1200/qt/90/3432090_1.jpg",
-    "detected_at": "2026-10-14T06:17:26+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 573.81,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
-      },
-      {
-        "price": 573.81,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Ponceuse mur et plafond sans fil Parkside + Batterie + Chargeur rapide 20V",
-    "description": "134,99€ - Lidl Description 1 x Batterie PAP 204 A1, 4 Ah, 20V 1 x Ponceuse mur et plafond sans fil PWDSA 20-Li A1, 20 V 1 x Chargeur rapide de batterie PLG 20 C3, 4,5 A, 20 V PARKSIDE® Ponceuse mur et plafond sans fil PWDSA 20-Li A1, 20 V Caractéristiques Vitesse réglable pour un ponçage optimal Manche en aluminium télescopique de 110 cm à 150 cm Raccord d’aspiration Tête de poncage articulée pour un ponçage optimal des murs Télescopique – facilite l’accès aux surfaces difficiles à atteindre Plateau de ponçage auto-agrippant de 225 mm Éclairage LED activable Poignées ergonomiques antidérapantes Poignée de soutien en T pour le ponçage au plafond La tête de ponçage inclinable permet de poncer facilement à l’envers Tête rabattable pour un rangement facile Batterie recommandée : 20 V (2 Ah) Appareil compatible avec toutes les batteries de la série PARKSIDE X 20 V Team",
-    "price": 134.99,
-    "reference_price": 149.99,
-    "discount_percent": 10.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ponceuse-mur-et-plafond-sans-fil-parkside-batterie-chargeur-rapide-20-v-3432087",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8FYym/3432087_1/re/1200x1200/qt/90/3432087_1.jpg",
-    "detected_at": "2026-10-14T06:17:00+00:00",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 134.99,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
-      },
-      {
-        "price": 134.99,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 4 Panneaux muraux en bois - 60 x 30cm",
-    "description": "9,95€ - Action Ça à l'air pas mal pour une petite décoration trop de travaux. Les panneaux muraux en bois sont conçus pour décorer les murs intérieurs. *caractéristiques du produit:* - 4 pièces - Dimensions: 60 x 30 cm - Couleur: Brun - Matériau: Bois MDF, Velours - Méthode de fixation: Fixation murale - Prévu pour: Intérieur - Numéro de l'article: 3206937",
-    "price": 9.95,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-4-panneaux-muraux-en-bois-60-x-30cm-3432089",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Iw1DC/3432089_1/re/1200x1200/qt/90/3432089_1.jpg",
-    "detected_at": "2026-10-14T06:15:35+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.95,
-        "observed_at": "2026-10-14T06:28:29.301570+00:00"
-      },
-      {
-        "price": 9.95,
-        "observed_at": "2026-10-15T06:50:29.360415+00:00"
       }
     ]
   }
