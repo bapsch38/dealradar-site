@@ -1,2 +1,2 @@
-/* Configure only after the DealRadar API is deployed and verified over HTTPS. */
-window.DEALRADAR_API_BASE = "";
+/* API publique DealRadar hébergée sur Render. */
+window.DEALRADAR_API_BASE = "https://dealradar-api-vi8j.onrender.com";
