@@ -128,6 +128,7 @@ function renderProfile() {
   byId("favorite-category").innerHTML='<option value="">Non précisée</option>'+categories.map(category=>'<option value="'+escapeHTML(category)+'">'+escapeHTML(category)+'</option>').join("");
   renderCollections();
   loadMyDiscussions();
+  loadMySubmissions();
 }
 function escapeHTML(value) {
   return String(value ?? "").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
@@ -167,6 +168,13 @@ async function loadMyDiscussions() {
     const result=await apiCall("/api/discussions/mine"), items=result.items||[];
     byId("discussion-list").innerHTML=items.length?items.map(item=>'<article class="saved-item"><div><strong>'+escapeHTML(item.title)+'</strong><small>'+escapeHTML(item.category)+' · '+Number(item.reply_count||0)+' réponse(s) · '+new Date(item.updated_at||item.created_at).toLocaleDateString("fr-FR")+'</small></div><a class="secondary" href="./discussions.html">Voir la communauté ↗</a></article>').join(""):'<p class="muted">Tu n’as pas encore créé de discussion. Tu peux lancer un sujet depuis la page Discussions.</p>';
   } catch(error) { byId("discussion-list").innerHTML='<p class="muted">Impossible de charger tes discussions pour le moment. '+escapeHTML(error.message)+'</p>'; }
+}
+async function loadMySubmissions() {
+  try {
+    const result=await apiCall("/api/auth/submissions"), items=result.items||[];
+    const statusLabels={new:"En attente de modération",in_progress:"En cours de vérification",resolved:"Validée",rejected:"Refusée",duplicate:"Doublon"};
+    byId("submission-list").innerHTML=items.length?items.map(item=>'<article class="saved-item"><div><strong>'+escapeHTML(item.title)+'</strong><small>'+escapeHTML(item.current_price||"Prix non renseigné")+' € · '+escapeHTML(statusLabels[item.status]||item.status)+' · '+new Date(item.created_at).toLocaleDateString("fr-FR")+'</small></div>'+(safeHttpUrl(item.url)?'<a class="secondary" href="'+escapeHTML(safeHttpUrl(item.url))+'" target="_blank" rel="noopener noreferrer">Voir le produit ↗</a>':'')+'</article>').join(""):'<p class="muted">Aucune offre envoyée depuis ce compte pour le moment. Connecte-toi avant de publier pour retrouver son suivi ici.</p>';
+  } catch(error) { byId("submission-list").innerHTML='<p class="muted">Impossible de charger tes propositions : '+escapeHTML(error.message)+'</p>'; }
 }
 async function loadProfile() { profile=await apiCall("/api/auth/me"); renderProfile(); }
 byId("tab-register").addEventListener("click",()=>setMode("register"));
