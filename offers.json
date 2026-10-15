@@ -1,5 +1,257 @@
 [
   {
+    "title": "MAUL lampe de bureau LED MAULg...couleur 3000 – 6500K | Argenté",
+    "price": 160.56,
+    "reference_price": 193.48,
+    "discount_percent": 17.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0076IWBQA",
+    "image_url": "https://m.media-amazon.com/images/P/B0076IWBQA.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:16",
+    "category": "Maison",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 160.56,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "kwb 4,5 mm Foret métallique HS... au sol de précision, DIN 338)",
+    "price": 5.79,
+    "reference_price": 11.93,
+    "discount_percent": 51.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B001BAY8JC",
+    "image_url": "https://m.media-amazon.com/images/P/B001BAY8JC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:15",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 5.79,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Gys 043466 Bandeaux Serre Tête...anspiration-Lot DE 2, 0 W, 0 V",
+    "price": 4.35,
+    "reference_price": 6.3,
+    "discount_percent": 31.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00IFCY7HM",
+    "image_url": "https://m.media-amazon.com/images/P/B00IFCY7HM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:14",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 4.35,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "ICY BOX 60498 Adaptateur résea...et 1000 Mbit/s Status LED Noir",
+    "price": 19.99,
+    "reference_price": 29.9,
+    "discount_percent": 33.1,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B07TZWJPSF",
+    "image_url": "https://m.media-amazon.com/images/P/B07TZWJPSF.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:13",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 19.99,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "as - Schwabe PUR Cordon d'Alim...,5 IP44 Fabriqué en EU I 70914",
+    "price": 14.87,
+    "reference_price": 18.59,
+    "discount_percent": 20.0,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00475BKMG",
+    "image_url": "https://m.media-amazon.com/images/P/B00475BKMG.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:11",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.87,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Green Cell Batterie AGM VRLA 1...ycles fréquents (Batterie Gel)",
+    "price": 32.1,
+    "reference_price": 35.06,
+    "discount_percent": 8.4,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B08D6RGB1H",
+    "image_url": "https://m.media-amazon.com/images/P/B08D6RGB1H.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:10",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 32.1,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "SET DE 6 PZS PUNT PL+PZ 22606",
+    "price": 23.87,
+    "reference_price": 26.98,
+    "discount_percent": 11.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B002Z8F4JC",
+    "image_url": "https://m.media-amazon.com/images/P/B002Z8F4JC.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:08",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 23.87,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Grothe 5167044 94535 Détecteur...à 360° Noir IP55 84 mm x 78 mm",
+    "price": 44.99,
+    "reference_price": 61.19,
+    "discount_percent": 26.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00406VY5A",
+    "image_url": "https://m.media-amazon.com/images/P/B00406VY5A.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:07",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 44.99,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Paulmann 28515 LED AR111 8W, G53, 12V, 2700K, 24°",
+    "price": 16.61,
+    "reference_price": 19.95,
+    "discount_percent": 16.7,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B06Y435XBB",
+    "image_url": "https://m.media-amazon.com/images/P/B06Y435XBB.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:06",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 16.61,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch 1x Foret PRO SDS max-7",
+    "price": 201.6,
+    "reference_price": 227.02,
+    "discount_percent": 11.2,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B0035PXYSM",
+    "image_url": "https://m.media-amazon.com/images/P/B0035PXYSM.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:04",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 201.6,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "kwb Mèche à barre Ø 12 mm x 25...frein pour des perçages précis",
+    "price": 14.08,
+    "reference_price": 16.88,
+    "discount_percent": 16.6,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00G96PNP6",
+    "image_url": "https://m.media-amazon.com/images/P/B00G96PNP6.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:03",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 14.08,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Bosch Accessories 2609255907 E...eur pour Plaques de plâtre PZ2",
+    "price": 6.56,
+    "reference_price": 15.08,
+    "discount_percent": 56.5,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B004WO691Y",
+    "image_url": "https://m.media-amazon.com/images/P/B004WO691Y.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 01:36:02",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 6.56,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
+  },
+  {
     "title": "HAZET Vigor V1369 Set de 5 leviers de déblocage",
     "price": 27.74,
     "reference_price": 37.69,
@@ -7913,6 +8165,10 @@
       {
         "price": 29.98,
         "observed_at": "2026-10-14T01:27:19.324555+00:00"
+      },
+      {
+        "price": 29.98,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
       }
     ]
   },
@@ -10688,306 +10944,6 @@
       {
         "price": 69.0,
         "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tefal - Bouilloire Thermo Prot... Froides - 1,5 L - Inox - Noir",
-    "price": 29.99,
-    "reference_price": 34.99,
-    "discount_percent": 14.3,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DXQ9SZBQ",
-    "image_url": "https://m.media-amazon.com/images/P/B0DXQ9SZBQ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:54:59",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T15:55:49.257502+00:00"
-      },
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lenovo Sacoche de transport po...) Sac à dos décontracté, noir.",
-    "price": 21.99,
-    "reference_price": 29.94,
-    "discount_percent": 26.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B075Y72PHZ",
-    "image_url": "https://m.media-amazon.com/images/P/B075Y72PHZ.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:35:59",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 21.99,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 21.99,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "OEHLBACH Shape Magic 40-8K Câb...ement métallique), noir, 1,5 m",
-    "price": 29.32,
-    "reference_price": 34.99,
-    "discount_percent": 16.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0B3XVG3Y6",
-    "image_url": "https://m.media-amazon.com/images/P/B0B3XVG3Y6.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:35:57",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 29.32,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 29.32,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Bosch Professional 18V System ...XX, sans batterie ni chargeur)",
-    "price": 283.23,
-    "reference_price": 377.05,
-    "discount_percent": 24.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0DQV6ZVVK",
-    "image_url": "https://m.media-amazon.com/images/P/B0DQV6ZVVK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:35:53",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 283.23,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 283.23,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "KS TOOLS 400.1050 Malette d'ou...glage moteur - BMW 1,6/1,8/2,0",
-    "price": 366.69,
-    "reference_price": 463.6,
-    "discount_percent": 20.9,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00BOVITAW",
-    "image_url": "https://m.media-amazon.com/images/P/B00BOVITAW.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:35:49",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 366.69,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 366.69,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Akyga AK-HD-05A Câble HDMI Hig...Full HD 4K pour Prise TV 50 cm",
-    "price": 6.72,
-    "reference_price": 15.71,
-    "discount_percent": 57.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07TXJXPBR",
-    "image_url": "https://m.media-amazon.com/images/P/B07TXJXPBR.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:35:48",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 6.72,
-        "observed_at": "2026-10-13T15:36:48.347972+00:00"
-      },
-      {
-        "price": 6.72,
-        "observed_at": "2026-10-14T15:56:51.850855+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Leitz, Pochettes de plastifica...ieuses à chaud A4 et A3, 33818",
-    "price": 11.48,
-    "reference_price": 24.14,
-    "discount_percent": 52.4,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B000OIQB0G",
-    "image_url": "https://m.media-amazon.com/images/P/B000OIQB0G.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 15:14:33",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 11.48,
-        "observed_at": "2026-10-13T15:15:24.437828+00:00"
-      },
-      {
-        "price": 11.48,
-        "observed_at": "2026-10-14T15:19:55.863934+00:00"
-      }
-    ]
-  },
-  {
-    "title": "hünersdorff GmbH Doppelkaniste..., 14,5 x 30,8 x 25,4 cm 804000",
-    "price": 13.99,
-    "reference_price": 20.57,
-    "discount_percent": 32.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00TA33SMU",
-    "image_url": "https://m.media-amazon.com/images/P/B00TA33SMU.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 14:38:46",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 13.99,
-        "observed_at": "2026-10-13T14:39:44.905806+00:00"
-      },
-      {
-        "price": 13.99,
-        "observed_at": "2026-10-14T14:52:54.328043+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Makita E-05658 Genouillères renforcées",
-    "price": 39.54,
-    "reference_price": 49.9,
-    "discount_percent": 20.8,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B08L6V7YRM",
-    "image_url": "https://m.media-amazon.com/images/P/B08L6V7YRM.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:58:10",
-    "category": "Bricolage",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 39.54,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      },
-      {
-        "price": 39.54,
-        "observed_at": "2026-10-14T13:59:32.368160+00:00"
-      }
-    ]
-  },
-  {
-    "title": "BONKOTE 0FMPEN Stylo de flux p... verre non rempli, volume 7 ml",
-    "price": 19.61,
-    "reference_price": 25.02,
-    "discount_percent": 21.6,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B00M1NPAYA",
-    "image_url": "https://m.media-amazon.com/images/P/B00M1NPAYA.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:58:08",
-    "category": "Bureau & papeterie",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T17:21:42.390048+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 19.61,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      },
-      {
-        "price": 19.61,
-        "observed_at": "2026-10-14T13:59:32.368160+00:00"
-      }
-    ]
-  },
-  {
-    "title": "GROHE 23769000 Mitigeur lavabo, Chrome",
-    "price": 59.9,
-    "reference_price": 74.9,
-    "discount_percent": 20.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B07K95QZ95",
-    "image_url": "https://m.media-amazon.com/images/P/B07K95QZ95.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:58:07",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 59.9,
-        "observed_at": "2026-10-13T13:58:47.649283+00:00"
-      },
-      {
-        "price": 59.9,
-        "observed_at": "2026-10-14T13:59:32.368160+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Souviens-toi. l'été dernier",
-    "price": 9.99,
-    "reference_price": 19.99,
-    "discount_percent": 50.0,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0FHKF9RJK",
-    "image_url": "https://m.media-amazon.com/images/P/B0FHKF9RJK.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 13:35:27",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-13T13:36:14.466903+00:00"
-      },
-      {
-        "price": 9.99,
-        "observed_at": "2026-10-14T13:37:21.100208+00:00"
       }
     ]
   },
@@ -14690,9 +14646,9 @@
   {
     "title": "Sélection de billets de trains en Centre-Val de Loire et vers l’Île-de-France en promotion",
     "description": "SNCF Avec les Prix Flash Rémi, profitez de 17 000 billets jusqu’à 40 % de réduction pour voyager sur une sélection de trains en Centre-Val de Loire et vers l’Île-de-France du 17 octobre au 1er novembre 2026.",
-    "price": null,
-    "reference_price": null,
-    "discount_percent": 40.0,
+    "price": 188.98,
+    "reference_price": 206.0,
+    "discount_percent": 8.3,
     "source": "Dealabs",
     "url": "https://www.dealabs.com/bons-plans/40voyager-sur-une-selection-de-trains-en-centre-val-de-loire-et-vers-lile-de-france-3432492",
     "image_url": "https://static-pepper.dealabs.com/threads/raw/BO3Zh/3432492_1/re/1200x1200/qt/90/3432492_1.jpg",
@@ -14702,7 +14658,12 @@
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
-    "price_history": []
+    "price_history": [
+      {
+        "price": 188.98,
+        "observed_at": "2026-10-15T01:37:21.517477+00:00"
+      }
+    ]
   },
   {
     "title": "Sweat à capuche Gap V Intx Hood - Flannel Taupe, Tailles S à XL",
@@ -24504,188 +24465,6 @@
       {
         "price": 3.76,
         "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Portefeuille Lacoste FG M Billfold Coin",
-    "description": "64,56€ - Zalando Ref. NH1112FG Intemporel et élégant, ce portefeuille compact en cuir lisse intègre toutes les caractéristiques d'un grand modèle. Sa double-poche dorsale réservée aux billets s'accompagne d'un rangement trois cartes et d'un porte-monnaie. Pratique, il se glisse facilement dans la poche d'un pantalon. • Dimensions : L 11,5 x H 9,5 x P 2,5 cm • Un compartiment à billets • Un porte-monnaie • Rangement six cartes et deux poches plates •Crocodile en métal brossé Composition : Extérieur : Cuir de vachette (100%) / Interieur: Cuir de vachette (100%) / Doublure: Coton (100%)",
-    "price": 64.56,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lacoste-fg-m-billfold-coin-portefeuille-3431968",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ZqK1W/3431968_1/re/1200x1200/qt/90/3431968_1.jpg",
-    "detected_at": "2026-10-13T20:22:36+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.zalando.fr/lacoste-billfold-coin-portefeuille-noir-la252f00n-q11.html",
-    "price_history": [
-      {
-        "price": 64.56,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 64.56,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Airfryer Ninja Crispi FN101EUST en verre - Beige",
-    "description": "79,99€ - Auchan Le Crispi Airfryer FN101EUST en verre est une friteuse à air puissante et polyvalente. *caractéristiques du produit :* - Puissance de 1700 W - Deux contenants en verre de 3.8 L et 1.4 L - 4 modes de cuisson",
-    "price": 79.99,
-    "reference_price": 99.0,
-    "discount_percent": 19.2,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/ninja-crispi-airfryer-fn101eust-en-verre-beige-3431967",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/jfGE2/3431967_1/re/1200x1200/qt/90/3431967_1.jpg",
-    "detected_at": "2026-10-13T20:21:20+00:00",
-    "category": "Électroménager",
-    "price_verified": true,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-14T11:13:41.486380+00:00",
-    "merchant_url": "https://www.auchan.fr/ninja-crispi-airfryer-fn101eust-en-verre-beige/pr-C1851637",
-    "price_history": [
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 79.99,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Eau de Parfum Emporio Armani Stronger With You Intensely - 100ml",
-    "description": "57,39€ - Primor Emporio Armani Stronger With You Eau de Parfum , une fragrance caractérisée par ses notes boisées et sa vanille épicée. Ce parfum fougère addictif dévoile des notes de poivre rose, de vanille et un accord boisé ambré. Il reflète la personnalité de l’homme moderne en quête d’une fragrance puissante pour illuminer son histoire d’amour intense. Cette fragrance masculine intense révèle des notes de cœur chaleureuses de vanille et des accords boisés ambrés vibrants, contrastés par des touches épicées de poivre rose. Sa teinte cognac vieilli incarne parfaitement l’intensité de cette nouvelle fragrance. FLACON : Les lignes épurées et les formes essentielles, caractéristiques de Giorgio Armani, se retrouvent dans le flacon d’Emporio Armani. Sa simplicité traduit une sensualité profonde, avec des courbes évoquant des épaules masculines, révélant l’élégance d’une véritable œuvre d’art. Issu de la fusion des flacons féminin et masculin, son capot rond et métallique souligne l’élégance discrète du duo. Sous ce capot, les anneaux entrelacés symbolisent une connexion forte et un amour inconditionnel. NOTES : ESSENCE DE POIVRE ROSE : L’essence épicée de poivre rose se mêle à un accord addictif de châtaigne caramélisée pour une touche d’originalité. ESSENCE DE VANILLE : L’intensité de la vanille, associée à un accord de daim légèrement tanné, crée une signature olfactive sensuelle et unique. ACCORDS BOISÉS AMBRÉS : Les accords boisés ambrés, sublimés par de nouvelles notes de vétiver Bourbon, amplifient la facette vibrante du sillage. Emporio Armani Stronger With You est une fragrance masculine pour les hommes audacieux, appartenant à la famille olfactive Fougère Orientale. Parce qu’ensemble, nous sommes plus forts.",
-    "price": 57.39,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/eau-de-parfum-emporio-armani-stronger-with-you-intensely-3431965",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/vAMU8/3431965_1/re/1200x1200/qt/90/3431965_1.jpg",
-    "detected_at": "2026-10-13T20:20:26+00:00",
-    "category": "Beauté & santé",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 57.39,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 57.39,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Jouet Lego Ninjago La Moto Tempête du Robot de Kai 71830",
-    "description": "29,99€ - Carrefour LEGO Ninjago La Moto Tempête du Robot de Kai 71830 29.99€ au lieu de 39.99€ (voir 45.99€ chez king jouet) Bonne affaire avant Noël (y) Cashback de 5% avec Boursobank, soit 1.50 crédités sur la carte, soit 28.49€ le set lego Les enfants peuvent s'amuser avec le modèle combiné, puis le diviser en 2 véhicules plus petits : le robot de Kai doté d'une tête, de bras et de jambes mobiles, d'un cockpit et d'une grande lame tempête, et la moto volante de Nya avec un cockpit, des ailes mobiles et 2 fusils à ressort. Ce set ninja inclut 3 minifigurines NINJAGO : Kai armé de 2 katanas de cristal, Nya équipée de 2 katanas d'or et un horrible Guerrier draconique avec son sabre, pour permettre aux enfants de mettre en scène des combats épiques.",
-    "price": 29.99,
-    "reference_price": 39.99,
-    "discount_percent": 25.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lego-ninjago-la-moto-tempete-du-robot-de-kai-71830-3431962",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Y1tfU/3431962_1/re/1200x1200/qt/90/3431962_1.jpg",
-    "detected_at": "2026-10-13T20:08:32+00:00",
-    "category": "Jouets & jeux",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.carrefour.fr/p/lego-ninjago-la-moto-tempete-du-robot-de-kai-71830-lego-5702017815657",
-    "price_history": [
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-13T20:15:42.890292+00:00"
-      },
-      {
-        "price": 29.99,
-        "observed_at": "2026-10-14T20:20:31.709865+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Chauffage Diesel - 12 volts, 8 Kw",
-    "description": "73,39€ - AliExpress Bon, c'est vraiment un deal de niche mais cela peut être intéressant en espérant que le froid se décide à arriver . Le prix me semble très correct par rapport à d'autres chauffages avec les mêmes caractéristiques.",
-    "price": 73.39,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/chauffage-diesel-12-volts-8kw-3431961",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/qWg59/3431961_1/re/1200x1200/qt/90/3431961_1.jpg",
-    "detected_at": "2026-10-13T20:08:23+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://fr.aliexpress.com/item/1005010144643095.html",
-    "price_history": [
-      {
-        "price": 73.39,
-        "observed_at": "2026-10-13T20:47:38.506338+00:00"
-      },
-      {
-        "price": 73.39,
-        "observed_at": "2026-10-14T20:51:40.419116+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Caméra Thermique Hikmicro D01 - Résolution Natif IR 96x96, 240x240 SuperIR (Vendeur Tiers)",
-    "description": "127,99€ - Amazon 【SuperScene Reconnaissance Intelligente de Scènes】 La caméra IR D01 intègre la technologie exclusive de reconnaissance de scènes SuperScene de HIKMICRO, conçue pour simplifier les inspections thermiques pour les débutants. Alimentée par le deep learning, elle diagnostique automatiquement, en quelques secondes, les problèmes courants à la maison, ce qui permet des inspections plus rapides. 【Facilité d'Utilisation】 La conception conviviale du bouton de la D01 vous permet d'allumer, de naviguer dans les menus, de capturer et d'enregistrer, et de changer les couleurs instantanément. Conçue pour les propriétaires afin de repérer des problèmes tels que les ponts thermiques, les courants d'air, les problèmes électriques, et plus encore — que ce soit pour vérifier les systèmes HVAC, les fours, les voitures ou même retrouver un animal perdu. 【240×240 SuperIR】 Avec l'algorithme d'amélioration d'image SuperIR et un taux de rafraîchissement de 20 Hz, la D01 améliore la clarté de l'image, passant de 96x96 IR natif à 240x240 SuperIR lors de la visualisation en direct, pour des détails nets. Dotée d’un champ de vision de 50°, elle offre une large couverture lors du balayage. Prend en charge la capture programmée pour l’analyse des gradients de chaleur de jour comme de nuit. Cinq palettes de couleurs pour répondre à différents besoins.",
-    "price": 127.99,
-    "reference_price": 140.0,
-    "discount_percent": 8.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/camera-thermique-hikmicro-d01-resolution-natif-ir-96x96-240x240-superir-vendeur-tiers-3431960",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ddHel/3431960_1/re/1200x1200/qt/90/3431960_1.jpg",
-    "detected_at": "2026-10-13T20:05:32+00:00",
-    "category": "Autre",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "https://www.amazon.fr/dp/B0FRSKBKJV?smid=A38NYA12FPZO64",
-    "price_history": [
-      {
-        "price": 127.99,
-        "observed_at": "2026-10-13T20:15:42.890292+00:00"
-      },
-      {
-        "price": 127.99,
-        "observed_at": "2026-10-14T20:20:31.709865+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Carte graphique Sapphire Nitro+ AMD Radeon RX 9070 XT 16 Go",
-    "description": "889,99€ - Grosbill Sapphire Nitro+ Radeon RX 9070 XT 16 Go à 889,99 € au lieu de 1 029,99 €, prix en hausse sur Idealo La Sapphire Nitro+ Radeon RX 9070 XT GAMING OC 16GB est une carte graphique conçue pour les jeux exigeants. Caractéristiques : GPU : AMD Radeon RX 9070 XT, architecture RDNA 4 Mémoire : 16 Go GDDR6, bus 256 bits, 20 Gbps 4096 processeurs de flux, 64 CUs, 64 Mo d'Infinity Cache Fréquences : Game Clock jusqu'à 2520 MHz, Boost jusqu'à 3060 MHz Sorties vidéo : 2x HDMI, 2x DisplayPort 2.1a Interface : PCI-Express 5.0 x16 Refroidissement : Tri-X Cooling (ventilateurs AeroCurve à double roulement à billes, caloducs composites, technologie Free Flow) Format : 3,2 slots, 330,8 x 128,5 x 65,7 mm Consommation typique : 330 W, alimentation de 750 W minimum recommandée FSR 4 (upscaling IA), AFMF 2, Anti-Lag 2, encodage/décodage AV1 Fournis : support en L, câble ARGB 3 broches, backplate magnétique, adaptateur 12V-2x6 vers 3x8 broches Réf. constructeur : 11348-01-20G / EAN : 4895106295872",
-    "price": 889.99,
-    "reference_price": 1029.99,
-    "discount_percent": 13.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/grosbill-carte-graphique-sapphire-nitro-amd-radeon-rx-9070-xt-16-go-3431959",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/KIZ7L/3431959_1/re/1200x1200/qt/90/3431959_1.jpg",
-    "detected_at": "2026-10-13T20:03:42+00:00",
-    "category": "High-tech",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 889.99,
-        "observed_at": "2026-10-13T20:15:42.890292+00:00"
-      },
-      {
-        "price": 889.99,
-        "observed_at": "2026-10-14T20:20:31.709865+00:00"
       }
     ]
   }
