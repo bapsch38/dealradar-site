@@ -1,5 +1,47 @@
 [
   {
+    "title": "KWB Line 100 m, 2 mm, blanc, 9221 30",
+    "price": 9.49,
+    "reference_price": 30.37,
+    "discount_percent": 68.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B00W1HA014",
+    "image_url": "https://m.media-amazon.com/images/P/B00W1HA014.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 04:20:57",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 9.49,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Organisateur d'outils Bahco",
+    "price": 26.68,
+    "reference_price": 40.9,
+    "discount_percent": 34.8,
+    "source": "Amazon.fr",
+    "url": "https://www.amazon.fr/dp/B017CK6T2S",
+    "image_url": "https://m.media-amazon.com/images/P/B017CK6T2S.01._AC_SL1500_.jpg",
+    "detected_at": "2026-10-15 04:20:52",
+    "category": "Bricolage",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
+      {
+        "price": 26.68,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
+      }
+    ]
+  },
+  {
     "title": "Lindy Câble réseau Basic Cat.6 U/UTP Noir, 2m",
     "price": 5.57,
     "reference_price": 10.69,
@@ -8711,6 +8753,10 @@
       {
         "price": 1008.83,
         "observed_at": "2026-10-14T04:05:16.314403+00:00"
+      },
+      {
+        "price": 1008.83,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
       }
     ]
   },
@@ -8732,6 +8778,10 @@
       {
         "price": 199.0,
         "observed_at": "2026-10-14T04:05:16.314403+00:00"
+      },
+      {
+        "price": 199.0,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
       }
     ]
   },
@@ -10786,52 +10836,68 @@
     ]
   },
   {
-    "title": "SHIMANO Pédalier VTT FC-TY301 ...- 42/34/24 Dents - Noir - 2021",
-    "price": 36.35,
-    "reference_price": 43.0,
-    "discount_percent": 15.5,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0863BLR4M",
-    "image_url": "https://m.media-amazon.com/images/P/B0863BLR4M.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:38:46",
-    "category": "Sport & loisirs",
+    "title": "Leffe BIÈRE D'ABBAYE RUBY LEFFE - Pack de 6 de 25cl",
+    "description": "3,71€ Pack de 6 Bière Leffe Ruby 5,00% d’alcool 34% crédité sur la carte intermarché.",
+    "price": 3.71,
+    "reference_price": 5.63,
+    "discount_percent": 34.1,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/leffe-biere-dabbaye-ruby-leffe-pack-de-6-de-25cl-3432728",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/CU32Y/3432728_1/re/1200x1200/qt/90/3432728_1.jpg",
+    "detected_at": "2026-10-15T04:16:04+00:00",
+    "category": "Alimentation & boissons",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 36.35,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
-      },
-      {
-        "price": 36.35,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
+        "price": 3.71,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
       }
     ]
   },
   {
-    "title": "Canon PIXMA TS9551a Imprimante...) à Cartouches séparées, Blanc",
-    "price": 175.6,
-    "reference_price": 209.57,
-    "discount_percent": 16.2,
-    "source": "Amazon.fr",
-    "url": "https://www.amazon.fr/dp/B0D45RVN92",
-    "image_url": "https://m.media-amazon.com/images/P/B0D45RVN92.01._AC_SL1500_.jpg",
-    "detected_at": "2026-10-13 17:38:44",
-    "category": "High-tech",
+    "title": "Jeux Puissance 4",
+    "description": "6,93€ Jeux Puissance 4 à 06,93€ et 02,97€ crédité sur la carte Intermarché.",
+    "price": 6.93,
+    "reference_price": 9.9,
+    "discount_percent": 30.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/jeux-puissance-4-3432727",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/BBFFd/3432727_1/re/1200x1200/qt/90/3432727_1.jpg",
+    "detected_at": "2026-10-15T04:07:33+00:00",
+    "category": "Autre",
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
     "merchant_url": "",
     "price_history": [
       {
-        "price": 175.6,
-        "observed_at": "2026-10-13T17:39:40.262602+00:00"
-      },
+        "price": 6.93,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
+      }
+    ]
+  },
+  {
+    "title": "Fisher Price - Ma loutre calins bonne nuit",
+    "description": "17,28€ Loutre veilleuse Fisher Price avec 40% en avantage carte sur la carte Intermarché",
+    "price": 17.28,
+    "reference_price": 28.8,
+    "discount_percent": 40.0,
+    "source": "Dealabs",
+    "url": "https://www.dealabs.com/bons-plans/fisher-price-ma-loutre-calins-bonne-nuit-3432726",
+    "image_url": "https://static-pepper.dealabs.com/threads/raw/HXyeg/3432726_1/re/1200x1200/qt/90/3432726_1.jpg",
+    "detected_at": "2026-10-15T04:01:19+00:00",
+    "category": "Autre",
+    "price_verified": false,
+    "reference_price_verified": false,
+    "price_checked_at": null,
+    "merchant_url": "",
+    "price_history": [
       {
-        "price": 175.6,
-        "observed_at": "2026-10-14T17:53:36.874551+00:00"
+        "price": 17.28,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
       }
     ]
   },
@@ -11003,7 +11069,7 @@
     "price_verified": false,
     "reference_price_verified": false,
     "price_checked_at": null,
-    "merchant_url": "",
+    "merchant_url": "https://www.amazon.fr/SOXCO-Chaussettes-mi-mollet-Technologie-dévacuation/dp/B0C66GVV7Z?ref=dlx_deals_dg_dcl_B0C66GVV7Z_mw_sl14_fc&pf_rd_r=MP3CR89KDW34HTM4MBCG&pf_rd_p=ff893dfe-5c61-4030-937b-47b39a1c58fc&sbo=RZvfv//HxDF+O5021pAnSA==",
     "price_history": [
       {
         "price": 12.85,
@@ -23101,6 +23167,10 @@
       {
         "price": 609.54,
         "observed_at": "2026-10-14T04:05:16.314403+00:00"
+      },
+      {
+        "price": 609.54,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
       }
     ]
   },
@@ -23123,6 +23193,10 @@
       {
         "price": 5.95,
         "observed_at": "2026-10-14T04:05:16.314403+00:00"
+      },
+      {
+        "price": 5.95,
+        "observed_at": "2026-10-15T04:23:11.846092+00:00"
       }
     ]
   },
@@ -24002,136 +24076,6 @@
       },
       {
         "price": 29.8,
-        "observed_at": "2026-10-14T21:43:31.150420+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Batterie de cuisine Tefal Ingenio Daily Chef On - 20 pièces",
-    "description": "179,99€ - Amazon INGENIO C’EST BIEN PLUS QU’UNE POÊLE : vous pourrez cuire sur la plaque de cuisson, gratiner vos recettes au four et conserver les restes au frigo CONTENU : Poêles 22/24/26/28 cm, Casseroles 16/18/20 cm, Sauteuse 24 cm, Couvercles hermétiques 16/18/20 cm, Couvercles en verre 16/18/20, 4 Spatules (à angle, longue, cuillère, louche) et 2 poignées amovibles Ingenio REVETEMENT ANTIADHESIF : le Titanium 2X dure 2 fois plus longtemps que le revêtement antiadhésif standard de Tefal, pour une cuisson et un nettoyage facile POIGNEE AMOVIBLE ULTRA SECURISEE : la poignée amovible sûre et brevetée bénéficie d’une garantie de 10 ans FABRICATION FRANÇAISE : entièrement conçu et fabriqué en France, sans compromis sur la qualité GAIN DE PLACE : grâce à son empilabilité, Ingenio vous fait gagner de la place dans vos placards NETTOYAGE FACILE : lavable à la main, au lave-vaisselle (sauf poignée), Tefal recommande les produits SUN Tout en 1, leur formule assurant une longévité optimale de vos poêles et casseroles Afficher plus",
-    "price": 179.99,
-    "reference_price": 199.0,
-    "discount_percent": 9.6,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/tefal-ingenio-daily-chef-on-batterie-de-cuisine-20-pieces-3431994",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/Gk8dh/3431994_1/re/1200x1200/qt/90/3431994_1.jpg",
-    "detected_at": "2026-10-13T21:27:27+00:00",
-    "category": "Électroménager",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": null,
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 179.99,
-        "observed_at": "2026-10-13T21:37:49.598634+00:00"
-      },
-      {
-        "price": 179.99,
-        "observed_at": "2026-10-14T21:43:31.150420+00:00"
-      }
-    ]
-  },
-  {
-    "title": "T-shirt homme adidas Squadra 25",
-    "description": "15,37€ - Amazon À propos de cet article Coupe slim Encolure ras-du-cou côtelée Matiere Principale: 100% Polyester(100% Recyclé) AEROREADY",
-    "price": 15.37,
-    "reference_price": 23.0,
-    "discount_percent": 33.2,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/adidas-mens-maillot-squadra-25-3431995",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/2yllt/3431995_1/re/1200x1200/qt/90/3431995_1.jpg",
-    "detected_at": "2026-10-13T21:27:02+00:00",
-    "category": "Mode",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 15.37,
-        "observed_at": "2026-10-13T21:37:49.598634+00:00"
-      },
-      {
-        "price": 15.37,
-        "observed_at": "2026-10-14T21:43:31.150420+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Lot de 2 ponts de connexion Philips Hue Bridge Pro (Frontaliers Suisse, jumbo.ch)",
-    "description": "97,48€ JUMBO propose une réduction de 30 % dès l'achat de 2 Philips Hue Bridge Pro, soit 45.45 CHF par pont. À quoi sert le Philips Hue Bridge Pro ? Le Philips Hue Bridge Pro est le centre de contrôle de votre installation d'éclairage connecté Philips Hue. Il permet de piloter vos lumières intelligentes, de créer des ambiances personnalisées et d'automatiser votre éclairage. Idéal pour ceux qui souhaitent développer leur installation domotique ou profiter pleinement de leur éclairage connecté. Livraison et retrait en Suisse Retrait gratuit en magasin JUMBO, selon les stocks disponibles. Livraison à domicile gratuite en Suisse, selon les conditions de livraison applicables.",
-    "price": 97.48,
-    "reference_price": null,
-    "discount_percent": 30.0,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/lot-de-2-philips-hue-bridge-pro-3431993",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/bRJ8W/3431993_1/re/1200x1200/qt/90/3431993_1.jpg",
-    "detected_at": "2026-10-13T21:21:13+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 97.48,
-        "observed_at": "2026-10-13T21:37:49.598634+00:00"
-      },
-      {
-        "price": 97.48,
-        "observed_at": "2026-10-14T21:43:31.150420+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Montre automatique Ciga Design Blue Planet - Titane, Verre Saphir (Vendeur Tiers)",
-    "description": "739,20€ - Amazon Le retour de cette pépite à prix sympa ! Lauréat du Prix Challenge Watch 2021 du GPHG - Grand Prix d'Horlogerie de Genève. Ce concours annuel, qui réunit plusieurs centaines de montres commercialisées au cours de l'année et qui attribue les récompenses les plus prestigieuses dans ce domaine, contribue à la valorisation des traditions, des compétences et des valeurs de la culture horlogère suisse – et même universelle. Un Chef-d'œuvre de l'Art : La Terre, notre seul sanctuaire bleu, a été rendue fragile par les actions humaines. Inspirée par l'urgence de protéger notre planète, la collection CIGA Design Blue Planet a été créée pour incarner ce message. Elle invite chacun à écouter le pouls de la Terre et à protéger notre maison commune. Calibre automatique développé en interne, intégré avec 30 rubis. Réserve de marche de 40 heures et fréquence de mouvement de 28 800 alternances par heure. Technologie de mouvement à suivi asynchrone CIGA Design : Révolutionnant les rapports d'engrenage traditionnels, ce mécanisme innovant se caractérise par un cadran des heures fixe associé à un cadran des minutes dynamique, tous deux situés sur le même plan. Dans cette configuration unique, l'aiguille des heures parcourt un arc de 30°, tandis que l'aiguille des minutes effectue une rotation complète de 390°, permettant une lecture de l'heure à partir d’un seul point de référence. Garantie gratuite de 2 ans – CIGA Design s’engage à fournir des produits de haute qualité ainsi qu’un service après-vente irréprochable. Chaque montre CIGA Design est soumise à un contrôle de qualité rigoureux avant de quitter l’usine. Si vous rencontrez un problème lors de l’utilisation de votre montre, n’hésitez pas à nous contacter. Nous vous répondrons dans un délai de 24 heures avec une solution satisfaisante. Nous sommes déterminés à vous offrir le meilleur service possible. Une présentation minimaliste – Un emballage sous forme de livret et un design à pages tournantes éveillent la curiosité de chaque explorateur du temps, entièrement réalisés en papier de qualité supérieure et écologique. Le bracelet FKM, sportif mais élégant (souvent appelé caoutchouc fluoré), complète naturellement le cadran et s’adapte aussi bien à un style décontracté qu’habillé. Spécifications Production interrompue par le fabricant: Non Dimensions du produit (L x l x h): 22 x 4,6 x 1,5 cm; 82,21 grammes Date de mise en ligne sur Amazon.fr: 1 juin 2022 Fabricant: CIGA Design ASIN: B0B2D9T5K6 Numéro du modèle de l'article: U031-TU02 Pays d'origine: Chine Service: Homme Disponibilité des pièces détachées: Information indisponible sur les pièces détachées Classement des meilleures ventes d'Amazon: Voir les 100 premiers en Mode Affichage: Analogique Type de mouvement de la montre: Automatique suisse Caractéristiques spéciales: Brille dans le noir, Remontage automatique Source d’alimentation: Mécanisme Type de bretelles: Sangle en deux parties Profondeur d'étanchéité à l’eau: 30 Mètres Type de sport: Golf Type de fermoir: Boucle déployante à double poussoir Niveau d' etancheite: Résistant à l’humidité Fonction de décoration: Cristal Type de fermeture: Boucle Style: Moderne Forme de l’article: Ronde Couleur de la bande: Bleu Couleur du cadran: Bleu Thème: Terre Motif: Uni Style de façade: Squelette Personnage représenté: Mode Marque: CIGA Design Nom du modèle: Blue Planet Ⅱ Composants inclus: Bracelet, Livret d'emballage Numéro de modèle: U031-TU02 Nombre de paquets: 1 Poids de l'article: 2,9 Onces Unité de comptage: 1 unité Série de modèles: U Nombre d' articles: 1 UPC: 797823327741 Description de la tranche d’âge: Adulte Nom du type du produit: Montre automatique Numéro de pièce: U031 Classement des meilleures ventes d'Amazon: 67700 en Mode (Voir les 100 premiers en Mode) 397 en Montres bracelet pour homme Moyenne des commentaires client: 4,1 4,1 sur 5 étoiles (82) 4,1 sur 5 étoiles Type du matériau de la bande: FKM Type de matériau du boîtier: Acier Inoxydable/Titane Type de ",
-    "price": 739.2,
-    "reference_price": null,
-    "discount_percent": null,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/montre-automatique-ciga-design-blue-planet-titane-verre-saphir-vendeur-tiers-3431992",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/ut5YU/3431992_1/re/1200x1200/qt/90/3431992_1.jpg",
-    "detected_at": "2026-10-13T21:18:15+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 739.2,
-        "observed_at": "2026-10-13T21:37:49.598634+00:00"
-      },
-      {
-        "price": 739.2,
-        "observed_at": "2026-10-14T21:43:31.150420+00:00"
-      }
-    ]
-  },
-  {
-    "title": "Couverture chauffante Carmen - 150x80cm, 60watt",
-    "description": "12,95€ - Action Dimensions : 150 x 80 cm (convient pour 1 personne) Puissance : 60 watts Couleur : Blanc Numéro d'article : 3006605 Fonctionnalités et Confort Niveaux de chaleur : Équipée de 3 niveaux de chaleur ajustables pour régler la température idéale selon vos préférences. Sécurité : Munie d'une protection contre la surchauffe et d'une fonction d'arrêt automatique après 180 minutes (3 heures) d'utilisation continue. Maintien optimal : Dispose d'un système de fixation par élastique pour l'attacher solidement au-dessus du matelas afin qu'elle reste bien en place toute la nuit. Entretien facile : L'interrupteur et le cordon d'alimentation sont totalement amovibles, ce qui permet de laver la couverture en toute simplicité. Disponible du 21 au 27 octobre",
-    "price": 12.95,
-    "reference_price": 17.95,
-    "discount_percent": 27.9,
-    "source": "Dealabs",
-    "url": "https://www.dealabs.com/bons-plans/couverture-chauffante-carmen-150x80cm-60watt-3431991",
-    "image_url": "https://static-pepper.dealabs.com/threads/raw/8P514/3431991_1/re/1200x1200/qt/90/3431991_1.jpg",
-    "detected_at": "2026-10-13T21:18:10+00:00",
-    "category": "Maison",
-    "price_verified": false,
-    "reference_price_verified": false,
-    "price_checked_at": "2026-10-13T23:35:06.115430+00:00",
-    "merchant_url": "",
-    "price_history": [
-      {
-        "price": 12.95,
-        "observed_at": "2026-10-13T21:37:49.598634+00:00"
-      },
-      {
-        "price": 12.95,
         "observed_at": "2026-10-14T21:43:31.150420+00:00"
       }
     ]
