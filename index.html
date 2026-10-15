@@ -530,12 +530,12 @@ main>#dernieres-offres .filter{padding:7px 10px}
     <div id="pro-filter-lock" class="pro-filter-lock" role="status">🔒 <strong>Filtres avancés réservés à DealRadar Pro</strong><span>Les catégories et la recherche restent gratuites. Les filtres par réduction, prix et fiabilité sont réservés à Pro. <a href="./compte.html">Découvrir les formules ↗</a></span></div>
     <div class="advanced-filters" aria-label="Filtres avancés">
       <label>Réduction minimale
-        <select id="min-discount"><option value="0">Toutes</option><option value="10">10 %</option><option value="20">20 %</option><option value="30">30 %</option><option value="40">40 %</option><option value="50">50 %</option></select>
+        <select id="min-discount" disabled><option value="0">Toutes</option><option value="10">10 %</option><option value="20">20 %</option><option value="30">30 %</option><option value="40">40 %</option><option value="50">50 %</option></select>
       </label>
-      <label>Prix maximum (€)<input id="max-price" type="number" min="0" step="1" placeholder="Sans limite" inputmode="decimal"></label>
+      <label>Prix maximum (€)<input id="max-price" disabled type="number" min="0" step="1" placeholder="Sans limite" inputmode="decimal"></label>
       <label class="check-filter"><input id="hide-old" type="checkbox"> Masquer les offres de plus de 7 jours</label>
-      <label class="check-filter"><input id="only-verified" type="checkbox"> Prix confirmé</label>
-      <label class="check-filter"><input id="only-high-confidence" type="checkbox"> Informations suffisamment documentées</label>
+      <label class="check-filter"><input id="only-verified" type="checkbox" disabled> Prix confirmé</label>
+      <label class="check-filter"><input id="only-high-confidence" type="checkbox" disabled> Informations suffisamment documentées</label>
       <button class="reset-filters" id="reset-filters" type="button">Réinitialiser les filtres</button>
     </div>
     <div class="filters" aria-label="Filtres des offres">
