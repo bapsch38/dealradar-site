@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#08111d">
+<meta name="description" content="Discussions DealRadar : échangez avec la communauté sur les bons plans, les marchands et les produits.">
+<title>Discussions — DealRadar</title>
+<style>
+:root{color-scheme:dark;--bg:#091421;--panel:#122235;--panel2:#1a3048;--text:#f5f8fc;--muted:#afbed0;--green:#5cf0a0;--line:#2b4158}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif}a{color:inherit;text-decoration:none}button,input,select,textarea{font:inherit}
+header{position:sticky;top:0;z-index:5;background:#08111df2;backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav{max-width:1320px;margin:auto;padding:18px 28px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.logo{font-size:27px;font-weight:850;letter-spacing:-1px}.logo span{color:var(--green)}.logo small{display:block;font-size:11px;font-weight:400;letter-spacing:.2px;color:var(--muted);margin-top:2px}
+.navlinks{display:flex;gap:8px;flex-wrap:wrap;align-items:center;color:var(--muted);font-size:13px}.navlinks a{padding:10px 13px;border:1px solid #2b4158;border-radius:999px;background:#101f2e;transition:background .15s,border-color .15s,color .15s}.navlinks a:hover,.navlinks a[aria-current=page]{border-color:#5cf0a0;background:#153b2b;color:#5cf0a0}
+.pill{display:inline-flex;background:linear-gradient(135deg,#46f58b,#b8ffcc);color:#07131c;padding:12px 16px;border-radius:999px;font-weight:800;font-size:13px}
+main{max-width:1120px;margin:auto;padding:36px 24px 76px}.eyebrow{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--green);font-weight:800}
+.intro{padding:32px;border:1px solid #31513f;border-radius:22px;background:radial-gradient(ellipse at 85% 20%,#17432f 0%,#101f2b 52%,#101c2b 100%)}h1{font-size:clamp(34px,5vw,48px);line-height:1.08;letter-spacing:-1.5px;margin:12px 0}h1 span{color:var(--green)}.intro p{max-width:720px;color:var(--muted);line-height:1.7;margin-bottom:0}
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:26px 0 14px}.toolbar h2{font-size:23px;margin:0}.toolbar-actions{display:flex;gap:8px;flex-wrap:wrap}
+.button{border:1px solid #39516a;background:#142338;color:var(--text);padding:10px 14px;border-radius:10px;cursor:pointer;font-weight:750;font-size:13px}.button:hover{border-color:var(--green);color:var(--green)}.button.primary{background:var(--green);border-color:var(--green);color:#07131c}.button:disabled{opacity:.5;cursor:not-allowed}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 18px}.filters button{border:1px solid var(--line);background:var(--panel);color:var(--muted);padding:8px 12px;border-radius:999px;font-size:12px;cursor:pointer}.filters button.active,.filters button:hover{border-color:var(--green);background:#173b2a;color:var(--green)}
+.form-panel,.thread,.reply{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:18px}.form-panel{margin:16px 0 22px}.form-panel h3{margin:0 0 14px;font-size:18px}.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}.field{display:flex;flex-direction:column;gap:7px}.field.full{grid-column:1/-1}.field label{font-size:12px;color:var(--muted);font-weight:700}.field input,.field select,.field textarea{width:100%;background:#091421;color:var(--text);border:1px solid #39516a;border-radius:9px;padding:12px;outline:none}.field textarea{min-height:130px;resize:vertical;line-height:1.6}.field input:focus,.field select:focus,.field textarea:focus{border-color:var(--green)}.form-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:13px}.status{font-size:12px;color:var(--muted);line-height:1.5}.status.error{color:#ff9d9d}.status.success{color:var(--green)}
+.thread-list{display:grid;gap:12px}.thread{padding:0;overflow:hidden;transition:border-color .15s}.thread:hover{border-color:#42634f}.thread-main{padding:18px 20px}.thread-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:11px;color:var(--muted)}.category{background:#203248;border:1px solid #39516a;padding:4px 8px;border-radius:999px;color:#dce9f7;font-weight:750}.thread h3{font-size:18px;line-height:1.4;margin:11px 0 8px;overflow-wrap:anywhere}.thread p{white-space:pre-wrap;overflow-wrap:anywhere;color:#c4d0df;font-size:13px;line-height:1.7;margin:0}.thread-bottom{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-top:14px}.thread-author{font-size:11px;color:var(--muted)}.reply-count{font-size:11px;color:var(--green);font-weight:750}.thread-detail{border-top:1px solid var(--line);padding:16px 20px;background:#0d1a28}.replies{display:grid;gap:10px}.reply{padding:12px 14px;background:#122235}.reply-head{font-size:11px;color:var(--muted);margin-bottom:7px}.reply-body{font-size:13px;line-height:1.65;white-space:pre-wrap;overflow-wrap:anywhere}.reply-form{margin-top:14px;display:grid;gap:9px}.reply-form textarea{width:100%;min-height:76px;background:#091421;color:var(--text);border:1px solid #39516a;border-radius:9px;padding:11px;resize:vertical}.empty{border:1px dashed var(--line);border-radius:15px;padding:28px;text-align:center;color:var(--muted);line-height:1.7}.empty strong{display:block;color:var(--text);margin-bottom:7px}.hidden{display:none!important}
+@media(max-width:700px){.nav{padding:14px 16px;gap:12px}.logo{font-size:23px}.navlinks{width:100%;order:3;gap:6px}.navlinks a{padding:8px 10px;font-size:12px}.nav>.pill{margin-left:auto}main{padding:22px 14px 48px}.intro{padding:24px 20px}.form-grid{grid-template-columns:1fr}.field.full{grid-column:auto}.thread-main{padding:15px}.thread h3{font-size:16px}}
+</style>
+</head>
+<body>
+<header><div class="nav">
+<a class="logo" href="./index.html" aria-label="DealRadar accueil">Deal<span>Radar</span><small>Les bonnes affaires. Au bon moment.</small></a>
+<nav class="navlinks" aria-label="Navigation principale">
+<a href="./index.html">Accueil</a><a href="./offres.html">Explorer les offres</a><a href="./discussions.html" aria-current="page">Discussions</a><a href="./mon-dealradar.html">Mon espace</a><a href="./compte.html">Mon compte</a>
+</nav><a class="pill" href="./compte.html">Se connecter</a>
+</div></header>
+<main>
+<section class="intro"><div class="eyebrow">La communauté DealRadar</div><h1>Les bonnes affaires se trouvent.<br><span>Les bonnes réponses se partagent.</span></h1><p>Pose une question, partage ton expérience d’un marchand, parle d’un produit ou propose une idée pour DealRadar. La lecture est ouverte à tous ; un compte est nécessaire pour publier ou répondre.</p></section>
+<div class="toolbar"><h2>Discussions de la communauté</h2><div class="toolbar-actions"><button class="button" id="refresh">↻ Actualiser</button><button class="button primary" id="new-topic">＋ Nouvelle discussion</button></div></div>
+<div class="filters" id="filters" aria-label="Filtrer les discussions">
+<button class="active" data-category="">Toutes</button><button data-category="general">Général</button><button data-category="question">Questions</button><button data-category="marchand">Marchands</button><button data-category="tech">High-tech & jeux</button><button data-category="idee">Idées DealRadar</button>
+</div>
+<section class="form-panel hidden" id="topic-panel"><h3>Créer une discussion</h3><form id="topic-form"><div class="form-grid">
+<div class="field"><label for="topic-title">Titre</label><input id="topic-title" minlength="5" maxlength="140" required placeholder="Ex. Quel aspirateur robot choisir ?"></div>
+<div class="field"><label for="topic-category">Catégorie</label><select id="topic-category"><option value="general">Général</option><option value="question">Question</option><option value="marchand">Marchands & livraison</option><option value="tech">High-tech & jeux</option><option value="idee">Idées pour DealRadar</option></select></div>
+<div class="field full"><label for="topic-body">Ton message</label><textarea id="topic-body" minlength="10" maxlength="5000" required placeholder="Donne le contexte, les détails utiles et ce que tu aimerais savoir…"></textarea></div>
+</div><div class="form-actions"><button class="button primary" id="topic-submit" type="submit">Publier la discussion</button><button class="button" id="cancel-topic" type="button">Annuler</button><span class="status" id="topic-status" aria-live="polite"></span></div></form></section>
+<div class="status" id="list-status" aria-live="polite">Chargement des discussions…</div>
+<section class="thread-list" id="thread-list"></section>
+<div class="form-actions" style="justify-content:center;margin-top:18px"><button class="button" id="load-more">Afficher plus</button></div>
+</main>
+<script src="./api-config.js"></script>
+<script>
+(() => {
+"use strict";
+const API = String(window.DEALRADAR_API_BASE || "").replace(/\/$/, "");
+const TOKEN_KEY = "dealradar_access_token";
+const $ = id => document.getElementById(id);
+let category = "";
+let offset = 0;
+const pageSize = 30;
+let loading = false;
+let hasMore = true;
+const token = () => { try { return sessionStorage.getItem(TOKEN_KEY) || ""; } catch (_) { return ""; } };
+const categories = {general:"Général",question:"Question",marchand:"Marchands",tech:"High-tech & jeux",idee:"Idées DealRadar"};
+function status(id, message, type="") { const el=$(id); el.textContent=message; el.className="status"+(type?" "+type:""); }
+async function api(path, options={}) {
+  if(!API || !/^https:\/\//i.test(API)) throw new Error("L’API DealRadar n’est pas encore configurée. Les discussions seront activées après le déploiement du serveur.");
+  const headers={"Content-Type":"application/json",...(options.headers||{})};
+  if(token()) headers.Authorization="Bearer "+token();
+  const response=await fetch(API+path,{...options,headers});
+  let data={}; try{data=await response.json();}catch(_){}
+  if(!response.ok) throw new Error(data.detail || "La requête a échoué ("+response.status+").");
+  return data;
+}
+function element(tag, cls, text) { const node=document.createElement(tag); if(cls)node.className=cls; if(text!==undefined)node.textContent=text; return node; }
+function formatDate(value) { if(!value)return "Date inconnue"; const date=new Date(value); return Number.isNaN(date.getTime())?"Date inconnue":date.toLocaleString("fr-FR",{dateStyle:"medium",timeStyle:"short"}); }
+function updateAuthUI() { $("new-topic").textContent=token()?"＋ Nouvelle discussion":"＋ Se connecter pour publier"; }
+function renderThread(item) {
+  const article=element("article","thread"); article.dataset.id=String(item.id);
+  const main=element("div","thread-main");
+  const top=element("div","thread-top");
+  top.append(element("span","category",categories[item.category]||"Général"));
+  top.append(element("span","",formatDate(item.created_at)));
+  const title=element("h3","",item.title);
+  const body=element("p","",item.body);
+  const bottom=element("div","thread-bottom");
+  bottom.append(element("span","thread-author","Par "+(item.author_name||"Membre DealRadar")));
+  bottom.append(element("span","reply-count","💬 "+(item.reply_count||0)+" réponse(s)"));
+  const toggle=element("button","button","Lire la discussion");
+  toggle.type="button"; toggle.addEventListener("click",()=>openThread(item.id,article,toggle));
+  bottom.append(toggle);
+  main.append(top,title,body,bottom); article.append(main);
+  return article;
+}
+async function load(reset=true) {
+  if(loading)return; loading=true; $("refresh").disabled=true;
+  if(reset){offset=0;hasMore=true;$("thread-list").replaceChildren();}
+  status("list-status",reset?"Chargement des discussions…":"Chargement de la suite…");
+  try {
+    const params=new URLSearchParams({limit:String(pageSize),offset:String(offset)});
+    if(category)params.set("category",category);
+    const data=await api("/api/discussions?"+params.toString());
+    data.items.forEach(item=>$("thread-list").append(renderThread(item)));
+    offset+=data.items.length;hasMore=data.items.length===pageSize;
+    $("load-more").classList.toggle("hidden",!hasMore);
+    status("list-status",offset===0?"Aucune discussion pour le moment. Lance la première conversation !":offset+" discussion(s) affichée(s).","success");
+    if(offset===0)$("thread-list").append(element("div","empty","Aucune discussion dans cette catégorie pour le moment."));
+  } catch(error) {
+    status("list-status",error.message,"error");
+    if(reset)$("thread-list").append(element("div","empty","Les discussions seront disponibles dès que l’API sera déployée et reliée au site. Tu peux déjà créer ton compte sur la page Mon compte."));
+  } finally {loading=false;$("refresh").disabled=false;}
+}
+async function openThread(id, article, button) {
+  let detail=article.querySelector(".thread-detail");
+  if(detail){detail.classList.toggle("hidden");button.textContent=detail.classList.contains("hidden")?"Lire la discussion":"Masquer";return;}
+  button.disabled=true;button.textContent="Chargement…";
+  try {
+    const data=await api("/api/discussions/"+id);
+    detail=element("div","thread-detail");
+    const replies=element("div","replies");
+    if(!data.replies.length)replies.append(element("div","status","Pas encore de réponse. À toi de lancer l’échange !"));
+    data.replies.forEach(reply=>{const box=element("div","reply");box.append(element("div","reply-head",(reply.author_name||"Membre")+" · "+formatDate(reply.created_at)),element("div","reply-body",reply.body));replies.append(box);});
+    detail.append(replies);
+    if(token()){
+      const form=element("form","reply-form");
+      const textarea=element("textarea","");textarea.required=true;textarea.minLength=2;textarea.maxLength=3000;textarea.placeholder="Écris ta réponse…";
+      const row=element("div","form-actions");const submit=element("button","button primary","Répondre");submit.type="submit";const msg=element("span","status","");
+      row.append(submit,msg);form.append(textarea,row);
+      form.addEventListener("submit",async event=>{event.preventDefault();submit.disabled=true;msg.textContent="Envoi…";try{await api("/api/discussions/"+id+"/replies",{method:"POST",body:JSON.stringify({body:textarea.value})});await openThreadRefresh(id,article,button);msg.textContent="Réponse publiée."; }catch(error){msg.textContent=error.message;msg.className="status error";}finally{submit.disabled=false;}});
+      detail.append(form);
+    } else {
+      const note=element("p","status","Connecte-toi pour répondre. ");const link=element("a","","Ouvrir Mon compte ↗");link.href="./compte.html";link.style.color="var(--green)";note.append(link);detail.append(note);
+    }
+    article.append(detail);button.textContent="Masquer";
+  } catch(error){status("list-status",error.message,"error");button.textContent="Réessayer";}
+  finally{button.disabled=false;}
+}
+async function openThreadRefresh(id, article, button) {
+  const old=article.querySelector(".thread-detail");if(old)old.remove();await openThread(id,article,button);
+  const list=await api("/api/discussions?limit=1&offset=0"+(category?"&category="+encodeURIComponent(category):""));
+  const match=list.items.find(item=>item.id===id);if(match){article.querySelector(".reply-count").textContent="💬 "+match.reply_count+" réponse(s)";}
+}
+$("new-topic").addEventListener("click",()=>{if(!token()){location.href="./compte.html";return;}$("topic-panel").classList.toggle("hidden");if(!$("topic-panel").classList.contains("hidden"))$("topic-title").focus();});
+$("cancel-topic").addEventListener("click",()=>$("topic-panel").classList.add("hidden"));
+$("topic-form").addEventListener("submit",async event=>{event.preventDefault();const submit=$("topic-submit");submit.disabled=true;status("topic-status","Publication en cours…");try{await api("/api/discussions",{method:"POST",body:JSON.stringify({title:$("topic-title").value,category:$("topic-category").value,body:$("topic-body").value})});$("topic-form").reset();$("topic-panel").classList.add("hidden");category="";document.querySelectorAll("[data-category]").forEach(button=>button.classList.toggle("active",button.dataset.category===""));await load(true);status("list-status","Ta discussion a été publiée.","success");}catch(error){status("topic-status",error.message,"error");}finally{submit.disabled=false;}});
+$("refresh").addEventListener("click",()=>load(true));$("load-more").addEventListener("click",()=>load(false));
+$("filters").addEventListener("click",event=>{const button=event.target.closest("[data-category]");if(!button)return;category=button.dataset.category;document.querySelectorAll("[data-category]").forEach(item=>item.classList.toggle("active",item===button));load(true);});
+updateAuthUI();load(true);
+})();
+</script>
+</body>
+</html>
