@@ -355,6 +355,11 @@ main>#dernieres-offres .filter{padding:7px 10px}
 @media(max-width:850px){.nav{flex-wrap:wrap;gap:10px}.navlinks{display:flex!important;order:3;width:100%;gap:6px}.navlinks a{font-size:12px;padding:8px 10px}.nav-publish{margin-left:auto}}
 @media(max-width:520px){.navlinks{overflow-x:auto;flex-wrap:nowrap;padding:3px 1px 6px;scrollbar-width:thin}.navlinks a{white-space:nowrap;flex:0 0 auto}.nav .pill{margin-left:auto}}
 
+
+.category-notice{display:flex;align-items:flex-start;gap:13px;margin:20px 0 0;padding:15px 18px;border:1px solid #3a5268;border-radius:13px;background:#101f2d;color:var(--muted)}
+.category-notice-icon{display:grid;place-items:center;flex:0 0 28px;height:28px;border-radius:50%;background:#203248;color:var(--green);font-weight:900}
+.category-notice p{margin:2px 0;font-size:13px;line-height:1.65}
+.category-notice strong{color:var(--text)}
 </style>
 </head>
 <body class="home-page">
@@ -396,6 +401,10 @@ main>#dernieres-offres .filter{padding:7px 10px}
     </div>
   </section>
 
+  <aside class="category-notice" role="note" aria-label="Information sur les catégories">
+    <span class="category-notice-icon" aria-hidden="true">ℹ</span>
+    <p><strong>Une catégorie vous semble incorrecte ?</strong> Le classement automatique peut parfois se tromper. Nous améliorons régulièrement les catégories ; vérifiez la fiche de l’offre et signalez-nous toute erreur.</p>
+  </aside>
 
   <section class="home-guide" aria-labelledby="home-guide-title">
     <div class="home-guide-head">
