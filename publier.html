@@ -95,7 +95,7 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
         </div>
         <div class="submit-zone">
           <label class="consent"><input id="consent" type="checkbox" required><span>J’accepte que cette proposition et les informations saisies soient publiées publiquement pour être examinées par la communauté. Je comprends que je dois vérifier le lien, le prix et les conditions, et qu’une erreur de prix potentielle n’est pas garantie.</span></label>
-          <button class="submit-button" type="submit">Publier avec GitHub <span>↗</span></button>
+          <button class="submit-button" type="submit">Envoyer à la modération <span>↗</span></button>
           <button class="telegram-submit-button" id="submit-telegram" type="button" hidden>Envoyer via Telegram sans compte GitHub <span>↗</span></button>
           <textarea class="payload-fallback" id="telegram-payload" aria-label="Résumé à copier dans Telegram" hidden readonly></textarea>
           <div class="status" id="status" aria-live="polite"></div>
@@ -105,12 +105,12 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
         <h2>Comment ça marche ?</h2>
         <div class="steps">
           <div class="step"><div class="step-number">1</div><div><strong>Remplis la fiche</strong><p>Ajoute le produit, son prix et son lien direct. Le prix de référence est facultatif s’il n’est pas fiable.</p></div></div>
-          <div class="step"><div class="step-number">2</div><div><strong>Choisis comment envoyer</strong><p>Avec GitHub, tu crées directement un signalement. Avec Telegram, copie le résumé puis colle-le au bot DealRadar.</p></div></div>
-          <div class="step"><div class="step-number">3</div><div><strong>Envoi en modération</strong><p>La proposition est publiée dans la file communautaire. L’envoi via Telegram ne nécessite pas de compte GitHub, mais nécessite Telegram.</p></div></div>
+          <div class="step"><div class="step-number">2</div><div><strong>Choisis comment envoyer</strong><p>La proposition est envoyée directement à l’équipe de modération DealRadar, sans service externe.</p></div></div>
+          <div class="step"><div class="step-number">3</div><div><strong>Envoi en modération</strong><p>La proposition est publiée dans la file communautaire. L’envoi est enregistré dans la file de modération DealRadar.</p></div></div>
           <div class="step"><div class="step-number">4</div><div><strong>Vérification avant affichage</strong><p>Une personne doit vérifier l’offre avant qu’elle soit considérée comme fiable ou reprise dans le catalogue.</p></div></div>
         </div>
         <div class="side-divider"></div>
-        <p class="side-note"><strong>Transparence :</strong> GitHub demande un compte pour créer une issue. L’option Telegram envoie la proposition dans la même file publique de modération via le bot, sans compte GitHub. Dans les deux cas, l’offre n’est pas automatiquement validée ni ajoutée au catalogue.</p>
+        <p class="side-note"><strong>Transparence :</strong> La proposition est enregistrée dans la file de modération DealRadar. Elle doit être vérifiée avant d’être ajoutée au catalogue.</p>
         <a class="back-link" href="./offres.html">← Retour au catalogue</a>
       </aside>
     </div>
@@ -184,9 +184,6 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
       "### Modération",
       "Merci de vérifier le prix final, les frais, le stock, les variantes et les conditions du marchand. Ne pas ajouter d'informations personnelles."
     ].join("\n");
-    const issueTitle=(error?"[Erreur de prix potentielle] ":"[Promo communautaire] ")+title.slice(0,100);
-    const params=new URLSearchParams({template:"publier-promo.md",title:issueTitle,body:body});
-    const destination="https://github.com/bapsch38/dealradar-site/issues/new?"+params.toString();
     const apiBase=String(window.DEALRADAR_API_BASE||"").trim();
     const apiRoot=apiBase.endsWith("/")?apiBase.slice(0,-1):apiBase;
     if(apiRoot){
@@ -226,20 +223,18 @@ footer{border-top:1px solid var(--line);padding:26px 24px;color:var(--muted);fon
         form.reset();
         updateKind();
       }catch(error){
-        status.textContent="L’envoi direct a échoué : "+(error.message||"erreur réseau")+". Réessaie plus tard ou utilise l’envoi GitHub.";
+        status.textContent="L’envoi direct a échoué : "+(error.message||"erreur réseau")+". Vérifie ta connexion puis réessaie.";
       }finally{
         submitButton.disabled=false;
-        submitButton.innerHTML=apiRoot?'Envoyer à la modération <span>↗</span>':'Publier avec GitHub <span>↗</span>';
+        submitButton.innerHTML=apiRoot?'Envoyer à la modération <span>↗</span>':'Envoyer à la modération <span>↗</span>';
       }
       return;
     }
-    status.textContent="Ouverture du formulaire GitHub. Vérifie les informations puis clique sur « Submit new issue » pour envoyer ta proposition.";
-    const win=window.open(destination,"_blank","noopener,noreferrer");
-    if(!win){status.textContent="Le navigateur a bloqué l’ouverture. Autorise les fenêtres contextuelles ou ouvre ce lien : "+destination;}
+    status.textContent="L’API DealRadar n’est pas configurée. Réessaie plus tard : ta proposition n’a pas été envoyée.";
   });
   telegramButton.addEventListener("click",async function(){
     if(!form.reportValidity()) return;
-    if(!telegramSubmitUrl){status.textContent="Le lien du bot Telegram n’est pas encore disponible. Tu peux utiliser l’option GitHub.";return;}
+    if(!telegramSubmitUrl){status.textContent="Le lien du bot Telegram n’est pas encore disponible. Réessaie plus tard.";return;}
     const title=document.getElementById("title").value.trim();
     const price=Number(document.getElementById("price").value);
     const reference=document.getElementById("reference-price").value.trim();
