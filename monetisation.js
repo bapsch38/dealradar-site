@@ -79,13 +79,13 @@
     card.querySelectorAll(".deal-title,.deal-prices,.deal-price,.deal-old-price,.deal-discount,.deal-savings,.deal-meta,.deal-source,.deal-source-badge,.deal-category,.deal-cta,.deal-card-links,.deal-card-open,.featured-title,.featured-price,.featured-old-price,.featured-foot,.featured-label").forEach(el=>{el.classList.add("dr-lock-hide");});
     const imageWrap=card.querySelector(".deal-image-wrap")||card.querySelector(".featured-image")?.parentElement||card;
     const overlay=document.createElement("div");overlay.className="dr-lock-overlay";
-    overlay.innerHTML='<div class="dr-lock-icon" aria-hidden="true">🔒</div><strong>Offre Pro · −'+Math.floor(discount(offer))+' %</strong><span>Cette offre exceptionnelle est réservée aux abonnés Pro.</span><a href="./compte.html#pro">Débloquer avec Pro</a>';
+    overlay.innerHTML='<div class="dr-lock-icon" aria-hidden="true">🔒</div><strong>Offre Pro · −'+Math.floor(discount(offer))+' %</strong><span>Cette offre exceptionnelle est réservée aux abonnés Pro.</span><a href="./compte.html#pro-plan">Débloquer avec Pro</a>';
     imageWrap.appendChild(overlay);
     card.addEventListener("click",event=>{
       if(event.target.closest(".dr-lock-overlay a")) return;
-      event.preventDefault();event.stopPropagation();window.location.href="./compte.html#pro";
+      event.preventDefault();event.stopPropagation();window.location.href="./compte.html#pro-plan";
     },true);
-    card.querySelectorAll("a,button").forEach(el=>{el.addEventListener("click",event=>{if(event.target.closest(".dr-lock-overlay a"))return;event.preventDefault();event.stopImmediatePropagation();window.location.href="./compte.html#pro";},true);});
+    card.querySelectorAll("a,button").forEach(el=>{el.addEventListener("click",event=>{if(event.target.closest(".dr-lock-overlay a"))return;event.preventDefault();event.stopImmediatePropagation();window.location.href="./compte.html#pro-plan";},true);});
   };
   const applyLocks = async isPro => {
     if(isPro) return;
@@ -101,7 +101,7 @@
       if(offer&&isLocked(offer))makeLocked(card,offer);
     });
     const note=document.createElement("div");note.className="dr-lock-note";
-    note.innerHTML="🔒 Les offres dont la réduction vérifiée dépasse 40 % sont réservées à DealRadar Pro. <a href='./compte.html#pro'>Découvrir Pro</a>";
+    note.innerHTML="🔒 Les offres dont la réduction vérifiée dépasse 40 % sont réservées à DealRadar Pro. <a href='./compte.html#pro-plan'>Découvrir Pro</a>";
     const main=document.querySelector("main");if(main&&!document.querySelector(".dr-lock-note"))main.insertBefore(note,main.firstElementChild);
   };
   const boot = async () => {
