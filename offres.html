@@ -1057,9 +1057,23 @@ async function loadTelegramBotInfo() {
 async function loadOffers() {
   try {
     await loadAccountPlan();
-    const response = await fetch("./offers.json", {cache:"no-store"});
-    if (!response.ok) throw new Error("Flux indisponible");
-    const data = await response.json();
+    let data = null;
+    const token = (() => { try { return sessionStorage.getItem("dealradar_access_token") || ""; } catch (_) { return ""; } })();
+    try {
+      const headers = token ? {Authorization: "Bearer " + token} : {};
+      const apiResponse = await fetch("https://dealradar-api-vi8j.onrender.com/api/offers", {headers, cache:"no-store"});
+      if (apiResponse.ok) {
+        const payload = await apiResponse.json();
+        if (payload && Array.isArray(payload.offers)) data = payload.offers;
+      }
+    } catch (_) {
+      // Le flux public reste disponible si l'API est temporairement inaccessible.
+    }
+    if (!Array.isArray(data)) {
+      const response = await fetch("./offers.json", {cache:"no-store"});
+      if (!response.ok) throw new Error("Flux indisponible");
+      data = await response.json();
+    }
     offers = Array.isArray(data) ? data.filter(item => item && typeof item.title === "string") : [];
     updateFilterCounts();
     renderOffers();
