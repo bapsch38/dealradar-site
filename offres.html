@@ -937,7 +937,9 @@ function renderOffers() {
     const displayDiscount = discount !== null ? discount : announcedDiscount;
     const savings = currentPrice !== null && referencePrice !== null && referencePrice > currentPrice
       ? referencePrice - currentPrice : null;
-    const prices = '<div class="deal-prices">' +
+    const prices = offer.locked === true
+      ? '<div class="price-history-locked"><strong>🔒 Offre réservée à DealRadar Pro</strong><p>Cette promotion dépasse 40 %. Le prix et le lien marchand sont réservés aux membres Pro.</p><a href="compte.html">Découvrir DealRadar Pro ↗</a></div>'
+      : '<div class="deal-prices">' +
       '<div class="deal-current-wrap"><span class="deal-price-label">' + (currentPrice !== null ? 'Prix promo' : 'Prix') + '</span>' +
       (price ? '<span class="deal-price">' + price + '</span>' : '<span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span>') + '</div>' +
       (oldPrice && price && referencePrice !== null && currentPrice !== null && referencePrice > currentPrice
@@ -968,7 +970,7 @@ function renderOffers() {
       '<h3 class="deal-title">' + escapeHtml(title) + '</h3>' + prices +
       '<div class="deal-meta">' + (date ? 'Repérée le ' + date.toLocaleDateString("fr-FR") : 'Date non disponible') + '</div>' +
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
-      '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>' +
+      (offer.locked === true ? '' : '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>') +
       (function(){ const merchant = typeof offer.merchant_url === "string" && offer.merchant_url.startsWith("https://") && offer.merchant_url !== url ? offer.merchant_url : (!isDealabs ? url : ""); return '<div class="deal-card-links">' + (isDealabs && url ? '<a href="' + escapeAttribute(url) + '" target="_blank" rel="noopener noreferrer">Dealabs ↗</a>' : '<a href="#" hidden>Dealabs ↗</a>') + (merchant ? '<a class="merchant-link" href="' + escapeAttribute(merchant) + '" target="_blank" rel="noopener noreferrer sponsored">Site marchand ↗</a>' : '<a class="merchant-link" href="#" hidden>Site marchand ↗</a>') + '</div>'; })() +
       '</div></article>';
   }).join("");
