@@ -861,6 +861,13 @@ function offerDiscount(offer) {
   const reference = parsePriceValue(offer.reference_price ?? offer.original_price ?? offer.list_price);
   return price !== null && reference !== null && reference > price ? (1 - price / reference) * 100 : null;
 }
+function isOfferLocked(offer) {
+  if (offer && offer.locked === true) return true;
+  const price = parsePriceValue(offer && (offer.price ?? offer.current_price));
+  const reference = parsePriceValue(offer && (offer.reference_price ?? offer.original_price ?? offer.list_price));
+  const savings = price !== null && reference !== null && reference > price ? reference - price : null;
+  return accountPlan !== "pro" && savings !== null && savings > 30;
+}
 function offerIsOld(offer) {
   const date = safeDate(offer.detected_at || offer.published_at);
   return !!date && (Date.now() - date.getTime()) > 7 * 24 * 60 * 60 * 1000;
@@ -1099,7 +1106,7 @@ function renderOffers() {
       : /code[s]? promo|cashback|cagnott|odr|offre de remboursement|remise supplémentaire|points doublés|sélection d['’]articles en promotion|réduction sur une sélection|remise sur une sélection|jusqu['’]?à\s*\d+\s*%|réduction de\s*\d+\s*%|remise de\s*\d+\s*%/.test(offerTextForPrice)
         ? "Offre sans prix unique"
         : "Prix non communiqué par la source";
-    const prices = offer.locked === true
+    const prices = isOfferLocked(offer)
       ? '<div class="pro-offer-lock"><span aria-hidden="true">🔒</span> Offre réservée à Pro <a href="compte.html">Débloquer ↗</a></div>'
       : '<div class="deal-prices">' +
       (price
@@ -1125,13 +1132,13 @@ function renderOffers() {
     const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée"};
     const trustClass = trustInfo.score >= 75 ? "high" : trustInfo.score >= 45 ? "medium" : "low";
     const sourceLabel = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource);
-    return '<article class="deal-card' + (offer.locked === true ? ' deal-card-pro' : '') + '" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" data-offer-title="' + escapeAttribute(title) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
+    return '<article class="deal-card' + (isOfferLocked(offer) ? ' deal-card-pro' : '') + '" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" data-offer-title="' + escapeAttribute(title) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
       '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + escapeAttribute(title) + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
       '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + escapeHtml(category) + '</div><span class="deal-source-badge">' + escapeHtml(sourceLabel) + '</span></div>' +
       '<h3 class="deal-title">' + escapeHtml(title) + '</h3>' + prices +
       '<div class="deal-meta">' + (date ? 'Repérée le ' + date.toLocaleDateString("fr-FR") : 'Date non disponible') + '</div>' +
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
-      (offer.locked === true ? '' : '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>') +
+      (isOfferLocked(offer) ? '' : '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>') +
       (function(){ const merchant = typeof offer.merchant_url === "string" && offer.merchant_url.startsWith("https://") && offer.merchant_url !== url ? offer.merchant_url : (!isDealabs ? url : ""); return '<div class="deal-card-links">' + (isDealabs && url ? '<a href="' + escapeAttribute(url) + '" target="_blank" rel="noopener noreferrer">Dealabs ↗</a>' : '<a href="#" hidden>Dealabs ↗</a>') + (merchant ? '<a class="merchant-link" href="' + escapeAttribute(merchant) + '" target="_blank" rel="noopener noreferrer sponsored">Site marchand ↗</a>' : '<a class="merchant-link" href="#" hidden>Site marchand ↗</a>') + '</div>'; })() +
       '</div></article>';
   }).join("");
@@ -1143,8 +1150,8 @@ function openOfferDetails(url, title) {
   const dialog = document.getElementById("offer-details-dialog");
   const root = document.getElementById("offer-dialog-content");
   if (!dialog || !root) return;
-  if (offer.locked === true) {
-    root.innerHTML = '<div class="offer-detail-pro-locked"><div class="offer-detail-pro-crown" aria-hidden="true">✦</div><p class="offer-detail-pro-eyebrow">DEALRADAR PRO</p><h2>Cette promotion est réservée aux membres Pro</h2><p>Les promotions à plus de 40 % de réduction sont réservées à DealRadar Pro. Passe à Pro pour découvrir les offres complètes et leurs informations.</p><a class="primary" href="compte.html">Découvrir DealRadar Pro ↗</a></div>';
+  if (isOfferLocked(offer)) {
+    root.innerHTML = '<div class="offer-detail-pro-locked"><div class="offer-detail-pro-crown" aria-hidden="true">✦</div><p class="offer-detail-pro-eyebrow">DEALRADAR PRO</p><h2>Cette offre est réservée aux membres Pro</h2><p>Les offres avec plus de 30 € d’économie sont réservées à DealRadar Pro. Passe à Pro pour découvrir les fiches complètes.</p><a class="primary" href="compte.html">Découvrir DealRadar Pro ↗</a></div>';
     dialog.showModal();
     return;
   }
