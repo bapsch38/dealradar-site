@@ -821,7 +821,7 @@ async function submitCategoryReport(offer) {
   try {
     const response = await fetch("https://dealradar-api-vi8j.onrender.com/api/reports", {
       method: "POST", headers: {"Content-Type":"application/json"},
-      body: JSON.stringify({title:"Catégorie à corriger : "+(offer.title||"offre DealRadar"),url:offer.url||null,category:"categorie",message:"Produit : "+(offer.title||"")+"\\nCatégorie actuelle : "+inferCategory(offer)+"\\nCatégorie souhaitée : "+category})
+      body: JSON.stringify({title:"Catégorie à corriger : "+(offer.title||"offre DealRadar"),url:offer.url||null,category:"categorie",message:"Produit : "+(offer.title||"")+"\nCatégorie actuelle : "+inferCategory(offer)+"\nCatégorie souhaitée : "+category})
     });
     const data = await response.json().catch(()=>({}));
     if (!response.ok) throw new Error(data.detail||"Envoi impossible");
