@@ -1097,7 +1097,9 @@ function renderOffers() {
       : /code[s]? promo|cashback|cagnott|odr|offre de remboursement|remise supplémentaire|points doublés|sélection d['’]articles en promotion|réduction sur une sélection|remise sur une sélection|jusqu['’]?à\s*\d+\s*%|réduction de\s*\d+\s*%|remise de\s*\d+\s*%/.test(offerTextForPrice)
         ? "Offre sans prix unique"
         : "Prix non communiqué par la source";
-    const prices = '<div class="deal-prices">' +
+    const prices = offer.locked === true
+      ? '<div class="price-history-locked"><strong>🔒 Offre réservée à DealRadar Pro</strong><p>Cette promotion dépasse 40 %. Le prix et le lien marchand sont réservés aux membres Pro.</p><a href="compte.html">Découvrir DealRadar Pro ↗</a></div>'
+      : '<div class="deal-prices">' +
       (price
         ? '<span class="deal-current-wrap"><span class="deal-price-label">Prix promo</span><span class="deal-price">' + price + '</span></span>'
         : '<span class="deal-current-wrap"><span class="deal-price-label">Prix</span><span class="deal-price deal-price-unknown">' + unknownPriceLabel + '</span></span>') +
@@ -1127,7 +1129,7 @@ function renderOffers() {
       '<h3 class="deal-title">' + escapeHtml(title) + '</h3>' + prices +
       '<div class="deal-meta">' + (date ? 'Repérée le ' + date.toLocaleDateString("fr-FR") : 'Date non disponible') + '</div>' +
       (offerIsOld(offer) ? '<div class="deal-stale">⚠ Offre ancienne · disponibilité à confirmer</div>' : '') +
-      '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>' +
+      (offer.locked === true ? '' : '<button class="deal-card-open" type="button" data-offer-details="' + escapeAttribute(url) + '">Voir la fiche détaillée <span aria-hidden="true">↗</span></button>') +
       (function(){ const merchant = typeof offer.merchant_url === "string" && offer.merchant_url.startsWith("https://") && offer.merchant_url !== url ? offer.merchant_url : (!isDealabs ? url : ""); return '<div class="deal-card-links">' + (isDealabs && url ? '<a href="' + escapeAttribute(url) + '" target="_blank" rel="noopener noreferrer">Dealabs ↗</a>' : '<a href="#" hidden>Dealabs ↗</a>') + (merchant ? '<a class="merchant-link" href="' + escapeAttribute(merchant) + '" target="_blank" rel="noopener noreferrer sponsored">Site marchand ↗</a>' : '<a class="merchant-link" href="#" hidden>Site marchand ↗</a>') + '</div>'; })() +
       '</div></article>';
   }).join("");
