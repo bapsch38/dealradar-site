@@ -283,7 +283,7 @@
       action.className = "dr-card-actions";
       const explanation = [...score.reasons, ...score.warnings];
       action.innerHTML = '<div class="dr-trust" title="' + explanation.join(" · ").replace(/"/g, "&quot;") +
-        '"><span>Éléments de vérification</span><strong>' + (offer.price_verified === true ? 'Prix actuel confirmé' : 'Prix actuel à vérifier') + '</strong><small>' +
+        '"><strong>' + (offer.price_verified === true ? 'Prix actuel confirmé' : 'Prix non confirmé') + '</strong><small>' +
         (score.reasons.length ? 'Points positifs : ' + score.reasons.join(" · ") + '. ' : '') +
         (score.warnings.length ? 'À vérifier : ' + score.warnings.join(" · ") + '. ' : '') +
         'Le prix final et la disponibilité restent à confirmer chez le marchand.</small></div>' +
