@@ -1229,10 +1229,31 @@ async function loadTelegramBotInfo() {
 }
 async function loadOffers() {
   try {
-    const response = await fetch("./offers.json", {cache:"no-store"});
-    if (!response.ok) throw new Error("Flux indisponible");
-    const data = await response.json();
+    // Always request the server-filtered catalogue first. The API returns full offer
+    // details only when the current session belongs to a Pro account.
+    const token = (() => { try { return sessionStorage.getItem("dealradar_access_token") || ""; } catch (_) { return ""; } })();
+    let data = null;
+    try {
+      const headers = token ? {Authorization: "Bearer " + token} : {};
+      const response = await fetch(API_BASE.replace(/\/$/, "") + "/api/offers", {headers, cache:"no-store"});
+      if (response.ok) {
+        const payload = await response.json();
+        if (payload && Array.isArray(payload.offers)) {
+          data = payload.offers;
+          if (payload.plan === "pro") accountPlan = "pro";
+          else if (token) accountPlan = "free";
+        }
+      }
+    } catch (_) {
+      // The public static feed below is sanitized and never contains locked offer details.
+    }
+    if (!Array.isArray(data)) {
+      const response = await fetch("./offers.json", {cache:"no-store"});
+      if (!response.ok) throw new Error("Flux indisponible");
+      data = await response.json();
+    }
     offers = Array.isArray(data) ? data.filter(item => item && typeof item.title === "string") : [];
+    applyPlanGates();
     updateFilterCounts();
     renderOffers();
   } catch (error) {
