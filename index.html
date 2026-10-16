@@ -79,7 +79,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .empty-state h3{margin:0 0 9px;font-size:19px}
 .empty-state p{max-width:570px;margin:0 auto;color:var(--muted);line-height:1.7;font-size:14px}
 .status-chip{display:inline-flex;align-items:center;gap:7px;border:1px solid #355444;background:#112b22;color:var(--green);padding:7px 10px;border-radius:30px;font-size:11px;font-weight:700;margin-bottom:16px}
-.deal-card{overflow:hidden;background:var(--panel);border:1px solid var(--line);border-radius:16px;display:flex;flex-direction:column;min-width:0;transition:transform .2s,border-color .2s}
+.deal-card{overflow:hidden;background:var(--panel);border:1px solid var(--line);border-radius:16px;display:flex;flex-direction:column;min-width:0;transition:transform .2s,border-color .2s}.deal-card-pro{background:linear-gradient(155deg,#332814 0%,#1d1b19 48%,#121a25 100%);border:2px solid #d8ae55;box-shadow:0 0 0 1px #d8ae5533,0 8px 26px #d8ae5520;position:relative}.deal-card-pro:before{content:"DEALRADAR PRO";display:block;padding:7px 12px;background:linear-gradient(90deg,#f4d98d,#c9993b);color:#33230b;font-size:10px;letter-spacing:1.4px;font-weight:950;text-align:center}.deal-card-pro .deal-body{background:transparent}.deal-card-pro .deal-title{color:#fff1c6}.deal-card-pro .pro-offer-lock{margin:10px 0 0;padding:10px 12px;border:1px solid #f0cc75;background:linear-gradient(100deg,#49371a,#302313);color:#ffe6a2;font-size:12px;box-shadow:inset 0 0 0 1px #f0cc751a}.deal-card-pro .pro-offer-lock a{color:#fff2c5}
 .deal-card:hover{transform:translateY(-3px);border-color:#46f58b88}
 .deal-image-wrap{position:relative;background:#fff;min-height:190px}
 .deal-image{display:block;width:100%;height:190px;object-fit:contain;background:#fff;padding:12px}
@@ -1124,7 +1124,7 @@ function renderOffers() {
     const trustInfo = typeof window.DealRadarTrust === "function" ? window.DealRadarTrust(offer) : {score:0,level:"indéterminée"};
     const trustClass = trustInfo.score >= 75 ? "high" : trustInfo.score >= 45 ? "medium" : "low";
     const sourceLabel = isDealabs ? "Dealabs" : (/amazon|camelcamelcamel/.test(sourceLower) || /amazon\./i.test(url) ? "Amazon" : rawSource);
-    return '<article class="deal-card" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
+    return '<article class="deal-card' + (offer.locked === true ? ' deal-card-pro' : '') + '" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(url) + '" data-offer-title="' + escapeAttribute(title) + '" aria-label="Ouvrir les détails : ' + escapeAttribute(title) + '">' +
       '<div class="deal-image-wrap"><img class="deal-image" src="' + escapeAttribute(image || fallbackImage) + '" data-image-fallbacks="' + imageFallbacks + '" data-placeholder="' + escapeAttribute(fallbackImage) + '" alt="' + escapeAttribute(title) + '" loading="lazy" referrerpolicy="no-referrer" onerror="handleProductImageError(this)"><span class="deal-image-label">' + (image ? 'Produit' : 'Visuel indisponible') + '</span></div>' +
       '<div class="deal-body"><div class="deal-card-top"><div class="deal-category">' + escapeHtml(category) + '</div><span class="deal-source-badge">' + escapeHtml(sourceLabel) + '</span></div>' +
       '<h3 class="deal-title">' + escapeHtml(title) + '</h3>' + prices +
@@ -1136,8 +1136,8 @@ function renderOffers() {
   }).join("");
 }
 
-function openOfferDetails(url) {
-  const offer = offers.find(item => item.url === url);
+function openOfferDetails(url, title) {
+  const offer = offers.find(item => item.url === url && (!title || String(item.title || "Offre sans titre") === title)) || offers.find(item => item.url === url);
   if (!offer) return;
   const dialog = document.getElementById("offer-details-dialog");
   const root = document.getElementById("offer-dialog-content");
@@ -1179,11 +1179,11 @@ document.addEventListener("click",event=>{
   const button=event.target.closest("[data-offer-details]");
   if(button){event.preventDefault();event.stopPropagation();openOfferDetails(button.dataset.offerDetails);return;}
   const card=event.target.closest("[data-offer-card-url]");
-  if(card&&!event.target.closest("a,button,input,select")) openOfferDetails(card.dataset.offerCardUrl);
+  if(card&&!event.target.closest("a,button,input,select")) openOfferDetails(card.dataset.offerCardUrl, card.dataset.offerTitle);
 });
 document.addEventListener("keydown",event=>{
   const card=event.target.closest&&event.target.closest("[data-offer-card-url]");
-  if(card&&(event.key==="Enter"||event.key===" ")&&!event.target.closest("a,button,input,select")){event.preventDefault();openOfferDetails(card.dataset.offerCardUrl);}
+  if(card&&(event.key==="Enter"||event.key===" ")&&!event.target.closest("a,button,input,select")){event.preventDefault();openOfferDetails(card.dataset.offerCardUrl, card.dataset.offerTitle);}
 });
 document.getElementById("offer-dialog-close")?.addEventListener("click",()=>document.getElementById("offer-details-dialog").close());
 document.getElementById("offer-details-dialog")?.addEventListener("click",event=>{if(event.target===event.currentTarget)event.currentTarget.close();});
