@@ -3,7 +3,7 @@
   const API = String(window.DEALRADAR_API_BASE || "https://dealradar-api-vi8j.onrender.com").replace(/\/$/, "");
   // Renseigner l'identifiant AdSense après acceptation du site par Google.
   const ADSENSE_PUBLISHER_ID = "";
-  const LOCK_THRESHOLD = 40;
+  const LOCK_SAVINGS_THRESHOLD = 30;
   const STYLE = `
     .dr-ad-slot{display:none;max-width:1100px;margin:24px auto;padding:10px 16px;text-align:center}
     .dr-ad-slot.is-visible{display:block}
@@ -47,7 +47,13 @@
     if(p===null||r===null||r<=p||offer.price_verified!==true||offer.reference_price_verified!==true) return null;
     return (1-p/r)*100;
   };
-  const isLocked = offer => { const d=discount(offer); return d!==null && d>LOCK_THRESHOLD; };
+  const savings = offer => {
+    const p=parsePrice(offer.price ?? offer.current_price);
+    const r=parsePrice(offer.reference_price ?? offer.original_price ?? offer.list_price);
+    if(p===null||r===null||r<=p||offer.price_verified!==true||offer.reference_price_verified!==true) return null;
+    return r-p;
+  };
+  const isLocked = offer => { const amount=savings(offer); return amount!==null && amount>LOCK_SAVINGS_THRESHOLD; };
   const addAdSlot = (where, id) => {
     if(document.getElementById(id)) return;
     const slot=document.createElement("aside");slot.id=id;slot.className="dr-ad-slot";slot.setAttribute("aria-label","Espace publicitaire");
@@ -75,11 +81,11 @@
   };
   const makeLocked = (card, offer) => {
     if(card.dataset.drLocked==="1") return;
-    card.dataset.drLocked="1";card.classList.add("dr-locked-card");card.setAttribute("aria-label","Offre Pro : réduction supérieure à 40 %");
+    card.dataset.drLocked="1";card.classList.add("dr-locked-card");card.setAttribute("aria-label","Offre Pro : économie supérieure à 30 €");
     card.querySelectorAll(".deal-title,.deal-prices,.deal-price,.deal-old-price,.deal-discount,.deal-savings,.deal-meta,.deal-source,.deal-source-badge,.deal-category,.deal-cta,.deal-card-links,.deal-card-open,.featured-title,.featured-price,.featured-old-price,.featured-foot,.featured-label").forEach(el=>{el.classList.add("dr-lock-hide");});
     const imageWrap=card.querySelector(".deal-image-wrap")||card.querySelector(".featured-image")?.parentElement||card;
     const overlay=document.createElement("div");overlay.className="dr-lock-overlay";
-    overlay.innerHTML='<div class="dr-lock-icon" aria-hidden="true">🔒</div><strong>Offre Pro · −'+Math.floor(discount(offer))+' %</strong><span>Cette offre exceptionnelle est réservée aux abonnés Pro.</span><a href="./compte.html#pro-plan">Débloquer avec Pro</a>';
+    overlay.innerHTML='<div class="dr-lock-icon" aria-hidden="true">🔒</div><strong>Offre Pro · '+money(savings(offer))+' d’économie</strong><span>Cette offre exceptionnelle est réservée aux abonnés Pro.</span><a href="./compte.html#pro-plan">Débloquer avec Pro</a>';
     imageWrap.appendChild(overlay);
     card.addEventListener("click",event=>{
       if(event.target.closest(".dr-lock-overlay a")) return;
