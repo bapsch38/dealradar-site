@@ -123,6 +123,7 @@ h2{font-size:25px;letter-spacing:-.6px;margin:0}
 .price-history-locked strong{display:block;color:#f8d778;margin-bottom:6px;font-size:12px}
 .price-history-locked p{font-size:11px;line-height:1.5;color:#c7bdab;margin:0 0 8px}
 .price-history-locked a{display:inline-block;padding:7px 10px;border-radius:7px;background:linear-gradient(135deg,#f5d77e,#b9852d);color:#24190b;font-weight:900;font-size:11px}
+.pro-offer-lock{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:4px;padding:8px 10px;border:1px solid #6d5830;border-radius:8px;background:#211e18;color:#f3d78e;font-size:11px;font-weight:750}.pro-offer-lock a{margin-left:auto;color:#ffe4a4;text-decoration:underline;text-underline-offset:3px;font-weight:850;white-space:nowrap}.pro-offer-lock a:hover{color:#fff}
 .pro-filter-lock{display:flex;gap:8px;flex-wrap:wrap;padding:11px 13px;margin:10px 0 8px;border:1px solid #8b6b2e;border-radius:11px;background:linear-gradient(110deg,#2a2316,#151d28);color:#f8d778;font-size:12px}
 .pro-filter-lock span{flex-basis:100%;color:#c7bdab;line-height:1.5}
 .pro-filter-lock a{color:#f8d778;font-weight:900;text-decoration:underline}
@@ -1098,7 +1099,7 @@ function renderOffers() {
         ? "Offre sans prix unique"
         : "Prix non communiqué par la source";
     const prices = offer.locked === true
-      ? '<div class="price-history-locked"><strong>🔒 Offre réservée à DealRadar Pro</strong><p>Cette promotion dépasse 40 %. Le prix et le lien marchand sont réservés aux membres Pro.</p><a href="compte.html">Découvrir DealRadar Pro ↗</a></div>'
+      ? '<div class="pro-offer-lock"><span aria-hidden="true">🔒</span> Offre réservée à Pro <a href="compte.html">Débloquer ↗</a></div>'
       : '<div class="deal-prices">' +
       (price
         ? '<span class="deal-current-wrap"><span class="deal-price-label">Prix promo</span><span class="deal-price">' + price + '</span></span>'
