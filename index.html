@@ -978,6 +978,7 @@ function renderFeaturedOffers() {
   }
   featuredGrid.innerHTML = picks.map(item => {
     const offer = item.offer;
+    const locked = isOfferLocked(offer);
     const images = productImageCandidates(offer, item.url);
     const image = images[0] || "";
     const source = /dealabs/i.test(String(offer.source || "") + " " + item.url) ? "Dealabs" :
@@ -988,10 +989,11 @@ function renderFeaturedOffers() {
       : '<div class="featured-image" role="img" aria-label="Visuel indisponible"></div>';
     return '<article class="featured-card" tabindex="0" role="button" data-offer-card-url="' + escapeAttribute(item.url) + '" aria-label="Ouvrir les détails : ' + title + '">' +
       img + '<div><div class="featured-label">-' + Math.round(item.discount) + ' % annoncé</div>' +
-      '<div class="featured-title">' + title + '</div><div><span class="featured-price">' + formatPrice(item.price) + '</span>' +
-      '<span class="featured-old-price">' + formatPrice(item.reference) + '</span></div>' +
-      '<div class="featured-foot">' + escapeHtml(source) + ' · ' + (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le marchand') +
-      (typeof window.DealRadarTrust === "function" ? ' · Confiance ' + window.DealRadarTrust(offer).level.toLowerCase() : '') + '</div><div class="featured-foot">Ouvrir la fiche détaillée ↗</div></div></article>';
+      '<div class="featured-title">' + title + '</div>' + (locked
+        ? '<div class="pro-offer-lock">🔒 Offre à plus de 30 € d’économie réservée à Pro <a href="compte.html">Débloquer ↗</a></div>'
+        : '<div><span class="featured-price">' + formatPrice(item.price) + '</span><span class="featured-old-price">' + formatPrice(item.reference) + '</span></div>') +
+      '<div class="featured-foot">' + escapeHtml(source) + ' · ' + (locked ? 'Fiche Pro' : (offer.price_verified === true ? 'Prix vérifié' : 'Prix à confirmer chez le marchand')) +
+      (typeof window.DealRadarTrust === "function" && !locked ? ' · Confiance ' + window.DealRadarTrust(offer).level.toLowerCase() : '') + '</div><div class="featured-foot">' + (locked ? 'Débloquer avec Pro ↗' : 'Ouvrir la fiche détaillée ↗') + '</div></div></article>';
   }).join("");
 }
 async function loadAccountPlan() {
