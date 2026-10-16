@@ -978,7 +978,7 @@ function renderOffers() {
 }
 
 function openOfferDetails(url, title) {
-  const offer = offers.find(item => item.url === url && (!title || String(item.title || "Offre sans titre") === title)) || offers.find(item => item.url === url);
+  const offer = title ? offers.find(item => item.url === url && String(item.title || "Offre sans titre") === title) : offers.find(item => item.url === url);
   if (!offer) return;
   const dialog = document.getElementById("offer-details-dialog");
   const root = document.getElementById("offer-dialog-content");
