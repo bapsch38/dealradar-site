@@ -814,9 +814,10 @@ function reportOfferUrl(offer, type) {
     encodeURIComponent(title) + "&body=" + encodeURIComponent(body);
 }
 function reportCategoryUrl(offer) {
-  const title = 'Catégorie incorrecte : ' + (offer.title || 'offre DealRadar');
-  const body = 'Produit : ' + (offer.title || '') + '\nCatégorie affichée : ' + inferCategory(offer) +
-    '\nLien : ' + (offer.url || '') + '\nCatégorie souhaitée : ';
+  const title = 'Catégorie à corriger : ' + (offer.title || 'offre DealRadar');
+  const body = 'Produit : ' + (offer.title || '') + '\nCatégorie actuelle : ' + inferCategory(offer) +
+    '\nLien de la fiche : ' + (offer.url || '') +
+    '\n\nMerci de rediriger cette fiche vers la bonne catégorie.\nCatégorie souhaitée : ';
   return 'https://github.com/bapsch38/dealradar-site/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
 }
 function renderFeaturedOffers() {
