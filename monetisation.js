@@ -101,7 +101,7 @@
       if(offer&&isLocked(offer))makeLocked(card,offer);
     });
     const note=document.createElement("div");note.className="dr-lock-note";
-    note.innerHTML="🔒 Les offres dont la réduction vérifiée dépasse 40 % sont réservées à DealRadar Pro. <a href='./compte.html#pro-plan'>Découvrir Pro</a>";
+    note.innerHTML="🔒 Les offres permettant d’économiser plus de 30 € sont réservées à DealRadar Pro. <a href='./compte.html#pro-plan'>Découvrir Pro</a>";
     const main=document.querySelector("main");if(main&&!document.querySelector(".dr-lock-note"))main.insertBefore(note,main.firstElementChild);
   };
   const boot = async () => {
