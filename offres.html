@@ -1069,11 +1069,9 @@ async function loadOffers() {
     } catch (_) {
       // Le flux public reste disponible si l'API est temporairement inaccessible.
     }
-    if (!Array.isArray(data)) {
-      const response = await fetch("./offers.json", {cache:"no-store"});
-      if (!response.ok) throw new Error("Flux indisponible");
-      data = await response.json();
-    }
+    // Sécurité : ne jamais retomber sur le JSON statique tant que l’API privée ne répond pas.
+    // L’ancien fichier public peut contenir des informations complètes avant la première synchronisation.
+    if (!Array.isArray(data)) throw new Error("Catalogue API indisponible");
     offers = Array.isArray(data) ? data.filter(item => item && typeof item.title === "string") : [];
     updateFilterCounts();
     renderOffers();
