@@ -813,12 +813,20 @@ function reportOfferUrl(offer, type) {
   return "https://github.com/bapsch38/dealradar-site/issues/new?template=deal-feedback.md&title=" +
     encodeURIComponent(title) + "&body=" + encodeURIComponent(body);
 }
-function reportCategoryUrl(offer) {
-  const title = 'Catégorie à corriger : ' + (offer.title || 'offre DealRadar');
-  const body = 'Produit : ' + (offer.title || '') + '\nCatégorie actuelle : ' + inferCategory(offer) +
-    '\nLien de la fiche : ' + (offer.url || '') +
-    '\n\nMerci de rediriger cette fiche vers la bonne catégorie.\nCatégorie souhaitée : ';
-  return 'https://github.com/bapsch38/dealradar-site/issues/new?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(body);
+async function submitCategoryReport(offer) {
+  const requested = window.prompt("Vers quelle catégorie faut-il rediriger cette fiche ?");
+  if (requested === null) return;
+  const category = requested.trim();
+  if (category.length < 2 || category.length > 80) { window.alert("Indique une catégorie valide (2 à 80 caractères)."); return; }
+  try {
+    const response = await fetch("https://dealradar-api-vi8j.onrender.com/api/reports", {
+      method: "POST", headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({title:"Catégorie à corriger : "+(offer.title||"offre DealRadar"),url:offer.url||null,category:"categorie",message:"Produit : "+(offer.title||"")+"\\nCatégorie actuelle : "+inferCategory(offer)+"\\nCatégorie souhaitée : "+category})
+    });
+    const data = await response.json().catch(()=>({}));
+    if (!response.ok) throw new Error(data.detail||"Envoi impossible");
+    window.alert("Signalement envoyé à la modération DealRadar.");
+  } catch(error) { window.alert("Échec de l’envoi : "+error.message); }
 }
 function renderFeaturedOffers() {
   const picks = offers.map(offer => {
@@ -1014,11 +1022,13 @@ function openOfferDetails(url, title) {
     '<section class="offer-detail-section"><h3>Historique DealRadar</h3>'+renderPriceHistory(offer)+'</section>'+
     '<div class="offer-detail-actions"><a class="primary" href="'+escapeAttribute(merchantUrl)+'" target="_blank" rel="noopener noreferrer sponsored">Voir chez le marchand ↗</a>' +
       (/dealabs/i.test(String(offer.source||"")+" "+url) && merchantUrl !== url ? '<a href="'+escapeAttribute(url)+'" target="_blank" rel="noopener noreferrer">Voir le deal Dealabs ↗</a>' : '') +
-      '<a href="'+escapeAttribute(reportOfferUrl(offer,"confirm"))+'" target="_blank" rel="noopener noreferrer">Confirmer le prix</a><a href="'+escapeAttribute(reportOfferUrl(offer,"report"))+'" target="_blank" rel="noopener noreferrer">Signaler un problème</a><a href="'+escapeAttribute(reportCategoryUrl(offer))+'" target="_blank" rel="noopener noreferrer">Signaler la catégorie</a></div>';
+      '<a href="'+escapeAttribute(reportOfferUrl(offer,"confirm"))+'" target="_blank" rel="noopener noreferrer">Confirmer le prix</a><a href="'+escapeAttribute(reportOfferUrl(offer,"report"))+'" target="_blank" rel="noopener noreferrer">Signaler un problème</a><a href="'+escapeAttribute("#")+'" target="_blank" rel="noopener noreferrer">Signaler la catégorie</a></div>';
   document.getElementById("offer-dialog-title").textContent="Fiche produit";
   if(!dialog.open) dialog.showModal();
 }
 document.addEventListener("click",event=>{
+  const categoryButton=event.target.closest("[data-report-category]");
+  if(categoryButton){event.preventDefault();const offer=offers.find(item=>item.url===categoryButton.dataset.reportCategory);if(offer)submitCategoryReport(offer);return;}
   const button=event.target.closest("[data-offer-details]");
   if(button){event.preventDefault();event.stopPropagation();openOfferDetails(button.dataset.offerDetails);return;}
   const card=event.target.closest("[data-offer-card-url]");
